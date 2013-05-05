@@ -11,12 +11,7 @@ Passos para automatizar o Demo.cratica:
 Objectivo: Fab file
 
 
-
-Para o parse do DAR:
-python darjson.py <dir_dos_pdfs> <dir_para_jsons>
-
 em dar/dar2txt:
-
 for f in txtsprocessados/*.txt; do echo ${f}; python txt2json.py ${f} ${f/%txt/json}; done
 
 Para o scrape dos deputados:
