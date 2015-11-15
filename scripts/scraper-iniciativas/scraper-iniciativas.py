@@ -183,7 +183,8 @@ def process_dep(i):
             info = eventinfos[index]
             if info.text:
                 # TODO: Processar esta informação
-                event = parse_event_info(event, info)
+                try: event = parse_event_info(event, info)
+                except: event = event
             if not row.get('events'):
                 row['events'] = []
             row['events'].append(event)
