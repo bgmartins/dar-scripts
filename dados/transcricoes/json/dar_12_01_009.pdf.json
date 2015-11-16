@@ -1,0 +1,2017 @@
+{
+ "entries": [
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Eram 15 horas e 6 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Antes de mais, tem a palavra o Sr. Deputado Secretário para proceder à leitura do expediente.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, deu entrada na Mesa, e foi admitida pela Sr.ª Presidente, a apreciação parlamentar n.º 1/XII (1.ª) — Relativa ao Decreto-Lei n.º 61/2011, de 6 de Maio, que regula o acesso e exercício da actividade das agências de viagens e turismo (PCP). \nÉ tudo, Sr.ª Presidente.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos dar início à ordem de trabalhos de hoje, cujo primeiro ponto é preenchido por declarações políticas. \nPara o efeito, tem a palavra o Sr. Deputado Pedro Delgado Alves.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Ao usar da palavra para abordar hoje, nesta Câmara, os desafios que as gerações mais novas enfrentam, não poderia deixar de iniciar a minha intervenção sem reiterar o profundo horror que partilho com todos aqueles que acreditam nos valores da liberdade, da democracia e da dignidade humana, face ao sucedido nos atentados na Noruega. \nAssim como hoje muitos se mobilizam e intervêm no debate plural e aberto em torno de políticas de juventude, também as dezenas de vítimas mortais do ataque cobarde na ilha de Utoya, activistas e militantes da juventude do Partido Trabalhista da Noruega, procuravam deixar o seu contributo para a construção de um futuro melhor e mais solidário, quando viram as suas vidas barbaramente interrompidas. \nA melhor homenagem que lhe podemos prestar passa precisamente por continuar o debate e a troca de ideias, com o espírito livre e democrático no qual se empenharam em vida.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "O debate em torno da construção de uma política de juventude, que responda aos desafios históricos que atravessamos, é uma realidade que não dispensa uma articulação de respostas à escala europeia. \nÉ necessário não desaproveitar o potencial que encontramos no documento estratégico fundamental da União Europeia para a presente década. Neste contexto, quatro aspectos da Estratégia 2020 merecem destaque e devem ter também tradução no plano nacional: uma política de investigação e desenvolvimento ambiciosa; uma aposta na redução do insucesso e abandono escolar; um desafio ao aumento da percentagem de licenciados; e a instituição de uma garantia para a juventude, assegurando que, no final do ciclo de estudos, haja uma opção profissional, um estágio profissional com direitos ou a prossecução de estudos num grau superior ao obtido. \nContudo, importa não esquecer que o sucesso das opções formuladas na Estratégia 2020 depende também de uma diferente abordagem da própria União e das suas instituições quanto à sua execução. Não podemos deixar que a Estratégia 2020 e os seus objectivos sejam veiculados como meras declarações platónicas, desprovidas de instrumentos eficazes de realização. \nInfelizmente, assim continuará a ser se não forem enfrentados os futuros da construção europeia, permitindo o reforço de solidariedade entre os Estados do centro e da periferia e a correcção das assimetrias (educativas, sociais e económicas) que a história legou. \nA nossa primeira frente de intervenção tem de ser, portanto, a frente europeia. Mas essa frente europeia tem de ter uma correspondência no plano nacional e, consequentemente, é importante não esquecer que aquelas metas europeias são também as nossas metas, que os objectivos da garantia para a juventude são também os nossos objectivos e que a salvaguarda do emprego qualificado e com direitos para os jovens não é uma miragem, mas uma aposta europeia de desenvolvimento. \nA publicação ontem, em _Diário da República_, de um importante instrumento legislativo de afirmação de políticas de emprego consonantes com estes objectivos permite-nos confrontar duas visões diferentes em matéria laboral e optar por uma delas. \nO novo sistema de acesso às profissões, aprovado pelo anterior governo, quebrando limites ao livre acesso a determinadas actividades, veio realizar um direito constitucional muitas vezes atordoado. Veio reconhecer que a criação ou manutenção acrítica de barreiras ao exercício de profissões não é o rumo de combate à precariedade que o momento actual e o sentido de justiça impõem. \nEste foi, pois, um passo fundamental na direcção certa, que deve enquadrar de futuro, por exemplo, a revisão do quadro de intervenção das ordens profissionais no acesso a determinadas profissões. Não se tratará, de forma alguma, de reduzir a verificação dos requisitos deontológicos, nem de introduzir qualquer espírito de facilitismo ou de redução da exigência, mas de reconhecer verdadeiramente um direito fundamental ao exercício de profissões por jovens qualificados.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "A esta visão de redução da precariedade de quem inicia uma actividade profissional, infelizmente, corremos o risco de contrapor uma outra, que aposta na redução de garantias, convicta de que, por essa via, pode criar mais emprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "O que vamos sabendo quanto às intenções do Governo, quanto ao trabalho temporário, quanto à articulação entre novos e velhos contratos e quanto ao modelo de contratação dual que hoje temos, deixa grande margem para inquietação, bem recentemente evidenciada e denunciada pelo novo Secretário-Geral do PS, numa das suas primeiras intervenções, reafirmando, convictamente, o empenho que o Partido Socialista tem na resolução de um problema que é fundamental para os jovens portugueses. \nSublinhamos, uma vez mais, que não é através da redução de direitos às gerações mais novas que asseguramos mais empregabilidade; que não é através de um reforço de precarização, ressuscitando para o século XXI soluções que arquivámos no século XIX, que resolveremos problemas; que não é instituindo um novo exército precarizado de reserva que resolveremos os nossos problemas!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bruno Dias", 
+   "text": "Estarei a ouvir bem?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "Estamos cientes de que o momento é de dificuldade, é o momento em que enfrentamos a execução do Memorando da troica. Mas também é importante sublinhar que há nesse Memorando uma aposta nas políticas activas de emprego, que o actual Governo não pode fazer desaparecer. \nNão se trata de ir mais além do que o acordado com a troica — o que também recusamos —, trata-se de não ficar aquém do que há de positivo e que pode apostar em políticas activas de emprego para requalificar o emprego jovem, não fazendo uma leitura selectiva e excessivamente radical, no plano liberal, de opções que podemos encontrar e que podem dinamizar o emprego jovem. \nPara nós, no Partido Socialista, é esse o compromisso fundamental com o futuro. Não esquecemos as políticas activas de emprego, não esquecemos a necessidade de assegurar o livre acesso às profissões e não recorremos a mais precariedade para resolver o problema do desemprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Rita Rato.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Sr.ª Presidente, o Sr. Deputado Pedro Delgado fez uma intervenção sobre a situação da juventude, uma intervenção de princípios sobre alguns direitos da juventude. \nEste Programa do Governo, cópia integral do Memorando da troica, subscrito pelo PSD, pelo CDS e, também, pelo PS, é o consumar do esmagamento dos direitos da juventude. Fica sempre bem a um jovem falar, por princípio, dos direitos da juventude, falar das políticas activas de emprego, falar das novas gerações. \nMas falar por princípio sem ligar isso a uma prática política, deixa muito no meio por resolver. \nA questão que gostaria de colocar é se, de facto, o Sr. Deputado se revê, ou não, no acordo que foi subscrito pelo seu partido, o Memorando da troica, porque está lá muito claro que os despedimentos são para embaratecer, que a precariedade é para aumentar, que os falsos recibos verdes são para generalizar, que os cortes no subsídio de desemprego são uma inevitabilidade, que as privatizações de empresas públicas são para continuar, que manter intocáveis os grandes grupos económicos é para continuar, que o ensino superior é para encarecer e, portanto, o acesso a outros graus de conhecimento é apenas para quem pode pagar, que o ensino e a escolaridade obrigatória são hoje um instituto de emprego e formação profissional para aqueles que não vão poder pagar o ensino superior e que a precariedade está para durar. \nTodavia, o Sr. Deputado fala-nos aqui como se não estivesse num partido que apoiou um governo que foi o campeão da precariedade, o campeão do ataque aos direitos da juventude — sempre com o apoio expedido do PSD e do CDS, é verdade — e que segue uma linha muito grave de ataque aos direitos da juventude. \nHoje, vamos discutir aqui o embaratecimento dos despedimentos. É verdade que o efeito-primeiro recairá sobre as novas gerações, mas também haverá um efeito muito grave sobre os postos de trabalho que serão criados no futuro.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Mas não faltarão aqui oportunidades para que o Partido Socialista possa fazer corresponder à prática o discurso que sempre tem nos inícios de legislatura.\nPergunto, portanto, ao Sr. Deputado do Partido Socialista o seguinte: vai votar contra o embaratecimento dos despedimentos? Vai votar contra a não reintegração de um trabalhador em caso de despedimento ilícito? \nVai votar contra a generalização do contrato de trabalho único? Vai votar contra os cortes no subsídio de desemprego…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bruno Dias", 
+   "text": "Essa é a questão!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "… ou, pelo contrário, vai continuar a acompanhar uma política de direita, profundamente injusta e gravosa para os direitos da juventude?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Também para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Catarina Martins.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "Sr.ª Presidente, Sr. Deputado Pedro Delgado Alves, permita-me que comece por acompanhá-lo nas palavras que proferiu quanto ao que se passou na Noruega e que diga como condenamos veementemente o que aconteceu e como é tão chocante que se possa matar quem tem direito a ter ideias, quem tem ideias diferentes hoje, na Europa. \nGostaria agora de falar do outro tema que trouxe aqui hoje, o da precariedade. E, sobre isso, não podia deixar de dizer-lhe: bem-vindo! \nBem-vindo ao combate contra a precariedade, bem-vindo à preocupação contra a precariedade. Ainda bem que percebem hoje o que não percebiam há uns meses, ou seja, que cada precário está sozinho, isolado e precisa de medidas fortes que o defendam, precisam de um Estado que perceba que isto é um problema e actue. \nAgora, uma vez que aqui vamos votar leis que nos dizem que o trabalho precário não é um problema e que o futuro é sermos todos e todas precários e precárias, a pergunta que lhe fazemos é esta: qual vai ser a posição do Partido Socialista? O que a direita nos tem para oferecer — e o que teve para oferecer na campanha eleitoral, no Memorando da troica, e a que, infelizmente, o PS se associou — é a ideia de que o desemprego é combatido através da precarização de todos os vínculos laborais, como se houvesse uma oposição entre o emprego e o emprego com direitos e como se ser precário pudesse ser uma ideia de futuro. \nA ideia do contrato único é mesmo essa, a de que vamos ser todos precários. É uma ideia demagógica, que contraria todas as estatísticas, tudo o que conhecemos sobre trabalho. \nPorque sabemos que a precariedade é o primeiro passo para o desemprego e porque sabemos que a precariedade faz mal às pessoas e faz mal à economia, a pergunta que temos para lhe fazer é esta: vai o Partido Socialista apoiar o contrato único? Vai o Partido Socialista apoiar as medidas que estão no Memorando da troica para liberalizar despedimentos? Ou vamos ter também o Partido Socialista, na oposição, contra a precariedade, contra este mundo de precários e precárias, que é o futuro que a direita nos oferece?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Pedro Delgado Alves.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "Sr.ª Presidente, em primeiro lugar, agradeço as questões colocadas pelas Sr.as Deputadas Rita Rato e Catarina Martins e, obviamente, na resposta a ambas — penso que as posso abordar numa perspectiva conjunta —, há que ter em conta o contexto e o que, efectivamente, está escrito, quer no Memorando de Entendimento, quer no Programa do XIX Governo Constitucional, quer ainda nos programas dos governos anteriores e prática anterior. \nA Sr.ª Deputada Rita Rato falou de uma «cópia integral», mas, muito provavelmente, a fotocopiadora estaria avariada e, por consequência, as páginas do Programa Eleitoral do Partido Socialista e as páginas dos programas de governos anteriores, aquelas que referiam, por exemplo, a proibição dos estágios não remunerados, essas, a fotocopiadora não tirou cópia, com certeza!… Aquela página que referia, por exemplo, os estágios profissionais, com taxas de empregabilidade de 70%,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Que descaramento!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "… que asseguravam uma entrada no mercado de trabalho e que contribuíam para a quebra do ciclo vicioso que dificulta a entrada no mercado do trabalho, muito provavelmente, a fotocopiadora ou não tirou a cópia ou, então, ficou esquecida no tabuleiro!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP João Oliveira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "Deve também ter ficado esquecida aquela outra página que reitera, por exemplo, a medida tomada para assegurar que a contratação se faz com direitos, através do Código Contributivo, e, se bem me recordo, a dada altura, o Partido Comunista, conjuntamente com a direita, contribuiu para o suspender, dificultando a aplicação dessa medida que tinha um impacto significativo nessa opção por contratação mais estável. \nOu aquela outra página que, em relação ao Código do Trabalho e à sua revisão, quando se invertia o ónus da prova…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "É preciso ter descaramento!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "… e se procurava assegurar o fim das relações de falsos recibos verdes, dava consistência e capacidade de combate aos trabalhadores a recibo verde. \nEfectivamente, tudo isto existia e traduzia-se no que foi a prática e também os programas eleitoral e do governo do Partido Socialista. Portanto, ao nível das cópias, obviamente, o ponto fulcral não é esse. \nMas, ao nível do combate ao desemprego, há uma questão que tem de ser posta em cima da mesa, porque nem a nossa vontade nem a nossa convicção, por si só, resolvem. É que o desemprego jovem combate-se também com o crescimento da economia e, chegando a este ponto, é importante reconhecer que, por muito duras que sejam, as medidas do Memorando de Entendimento são, de facto, um aspecto fundamental para o financiamento da economia para assegurar que ela volte a crescer.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "O Memorando prevê recessão!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "Quanto a este ponto, o do regresso da economia portuguesa ao crescimento, o da necessidade deste crescimento, fundamental para a criação do emprego, é importante olhar verdadeiramente para o que diz o Memorando.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "O Memorando prevê recessão para os próximos dois anos!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Delgado Alves", 
+   "text": "E o Memorando, como referi na minha intervenção, não é só um documento desequilibrado, que não olha para as necessidades do emprego jovem, faz-lhe referência. Ora, era precisamente aqui que eu esperava que da parte do Bloco de Esquerda e do Partido Comunista houvesse, pelo menos, um acompanhamento, uma preocupação pelo facto de não encontrarmos nos partidos à nossa direita — que ficaram silenciosos, neste momento — uma referência à possibilidade de se usar algo que o próprio Memorando de Entendimento reconhece como sendo necessário e fundamental, que é olhar para as políticas activas de emprego e vocacioná-las para a juventude. Isto porque não teremos capacidade de reduzir a nossa dificuldade em dar resposta quer à precariedade quer ao desemprego se não tivermos uma abordagem integrada, que olhe efectivamente para aquilo que está proposto, para aquilo que está plasmado nos documentos que, neste momento, nos vinculam. \nVolto a reiterar o que disse: a questão fundamental para a qual chamamos a atenção, a questão que deve mobilizar todos aqueles que acham que não se resolve um problema com outro problema, é a de eleger quer o desemprego quer a precariedade como os dois alvos que queremos, neste momento, abater, não usando um para, aparentemente, apresentar um paliativo, o qual não será eficiente porque vai, aí sim, precarizar ainda mais as relações laborais. \nQuanto às duas perguntas formuladas — e assim termino, Sr.ª Presidente —, sobre qual vai ser a actuação do Partido Socialista em relação aos vários aspectos de legislação laboral que foram colocados, a resposta é simples, é clara: há uma vinculação ao que se encontra no Memorando de Entendimento, mas é apenas a isso que há vinculação, porque apenas isso foi reconhecido como fundamental. Dou como exemplo aquilo que encontramos ao nível de trabalho temporário, algo que, desde o início, desde a discussão dos programas eleitorais, mereceu o repúdio firme do Partido Socialista, porque desde esse momento foi reconhecido como tendo nenhuma virtualidade e apenas um defeito, que é o de aumentar a precariedade. \nPortanto, quanto a esta matéria, quero recordar as tomadas de posição anteriores e a clara opção de não ir para além do que é estritamente necessário, pois é algo que nos vincula e que continuará a inspirar a nossa actuação.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "A Mesa tem notícia de que são hoje aniversariantes as Sr.as Deputadas Maria de Belém Roseira e Maria José Castelo Branco e os Srs. Deputados Manuel Seabra e Nuno Serra. \nDesejo a todos muita saúde e que sejam felizes entre nós, para nos fazerem também felizes.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Aplausos gerais.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma declaração política, tem a palavra o Sr. Deputado Michael Seufert.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Michael Seufert", 
+   "text": "Sr.ª Presidente, Srs. Deputados: Reuniu, neste fim-de-semana, em Lamego, o XVIII Congresso da Juventude Popular. Cerca de 400 militantes estiveram a debater o futuro da nossa organização e a escolher a estratégia e a liderança para os próximos dois anos. \nForam aprovadas moções sobre as mais diversas matérias, da cultura à agricultura, da segurança à educação, temas que preocupam as gerações de hoje e que terão aqui, nesta Assembleia, seguimento pelos Deputados da Juventude Popular. \nDesde logo, durante o debate cristalizou-se que há uma visão que rejeitamos: a visão daqueles que dizem que os jovens são o futuro e que, por isso, o presente não lhes diz respeito. Os jovens — dizemos nós — são actores de pleno direito do presente e não devem, nem podem, ser por isso menorizados. Há ainda outra mensagem clara a este respeito: não é por sermos jovens que queremos um tratamento especial, esse tipo de tratamento representa outra menorização, que rejeitamos, como rejeitamos as menorizações que são dadas a uns e a outros por condição social, de género ou de idade. \nTemos, enquanto jovens, uma visão global e transversal de todas as áreas do País em que nos movemos, trazemos, claro, uma visão diferente e, porventura, irreverente, mas não reclamamos um estatuto especial. \nReclamamos, sim, uma educação mais rigorosa, uma educação mais exigente e articulada com o mundo fora das escolas e das universidades. Não temos, desde logo, uma visão bacoca de um Portugal cheio de engenheiros e doutores. Valorizamos e não nos esquecemos dos quadros intermédios e do ensino profissional, que tanto sofreu em Portugal debaixo de teorias e teorias do «eduquês», que prometiam um Portugal cheio de engenheiros e de doutores e que esqueceram o resto do País.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Michael Seufert", 
+   "text": "Queremos um ensino superior que preste contas ao País quanto à sua empregabilidade, que ofereça cursos que façam sentido no Portugal de hoje, que ajude os jovens a serem formados para o empreendedorismo, para que possamos ser nós próprios os obreiros do Portugal que ambicionamos. \nQueremos um Portugal marcado por um mundo empresarial em que seja mais fácil contratar e ser contratado, em que seja mais fácil abrir uma empresa, em que seja fácil perceber quais são as ideias de negócio que têm, e não têm, sucesso e em que possamos, por isso, oferecer crescimento e um futuro dinâmico e empreendedor, um futuro de emprego, que, infelizmente, é algo que hoje não está garantido.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Michael Seufert", 
+   "text": "Reconhecemos, Sr.ª Presidente e Srs. Deputados, os compromissos que, nas áreas económica e financeira, outros assumiram em nosso nome, nomeadamente quanto às dívidas que teremos de ser nós a pagar. Percebemos que temos 30 ou mais anos de uma pesada herança, que temos de a limpar, e não queremos que essa política económica e financeira continue. Defendemos uma política orçamental com limites constitucionais ao défice e à dívida para que as futuras gerações nunca tenham de dizer-nos que gastámos em seu nome e que empenhámos o seu futuro, que é como, às vezes, infelizmente, nos sentimos. \nÉ por isso, Srs. Deputados, que estamos confiantes neste Governo, um Governo que já mostrou o compromisso com a exigência na educação ao introduzir os exames nacionais no final de cada ciclo, que já mostrou o compromisso com a qualidade ao reforçar o peso do Português e da Matemática, como no passado sempre reclamámos, para que os jovens de hoje possam estar mais bem preparados para o futuro e tomar esse futuro nas suas próprias mãos. \nNa área do trabalho, haverá, este ano, mais uma oportunidade para quem está contratado a termo. Como as empresas estão a sofrer com a crise, como todos os portugueses, sabemos que esta oportunidade pode significar uma continuidade no emprego — num emprego estável — para muitos que, noutras circunstâncias, estariam expostos aos recibos verdes ou mesmo ao desemprego. Valorizamos esta oportunidade dada às empresas e aos contratados e não nos esquecemos que, afinal, são os jovens que estão mais expostos à rigidez no mercado de trabalho e que, por isso, muitas vezes, menos oportunidades têm. \nPor fim, os cortes na despesa do Estado hoje anunciados são por nós muito bem-vindos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Michael Seufert", 
+   "text": "O Estado tem de ser exigente e cuidadoso na sua despesa. Auto-estradas, TGV, uma Administração Pública cheia de interesses e de interessados têm de ser políticas que fazem parte do passado. O Governo deve, antes, preocupar-se em gastar onde é preciso e onde a sociedade civil e o mundo económico não se lhe podem substituir e em deixar para as empresas e para a sociedade aquilo em que elas são melhores. Menos despesa e, no futuro, menos dívida são, para nós, condições _sine qua non_ para um futuro melhor, mais livre, para um futuro como desejamos. \nSr.ª Presidente, Srs. Deputados: Tudo isto são, para nós, políticas de juventude. Não vivemos acantonados naqueles que vêem a juventude apenas como uma espécie de sucedâneo do Instituto Português da Juventude, da Movijovem e das pousadas. Para nós, emprego, educação e finanças são questões que dizem respeito aos jovens de hoje. \nEstaremos aqui, nesta Assembleia, e junto de todos os jovens, atentos ao desenvolvimento destas e de outras matérias, mas reiteramos aqui, hoje, a confiança de que Portugal, com este Governo, terá, com certeza, um futuro melhor.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Duarte Filipe Marques.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Duarte Filipe Marques", 
+   "text": "Sr.ª Presidente e Srs. Deputados, queria aproveitar esta oportunidade para relembrar o trabalho e o desempenho que o nosso colega Deputado Michael Seufert fez à frente da Juventude Popular. \nSr. Deputado, neste momento, em que terminou o seu mandato nesta organização, não deixarei de recordar e de reconhecer a lealdade e o espírito construtivo que, ao longo dos últimos tempos, colocou à frente da estrutura a que presidiu e que liderou. Não posso esquecer-me dos combates que travámos contra aqueles que expulsaram os jovens das universidades, contra aqueles que cortaram as bolsas da acção social escolar, contra aqueles que diminuíram as bolsas da acção social escolar.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Duarte Filipe Marques", 
+   "text": "Não posso também esquecer os combates que travámos juntos contra o desemprego jovem, contra aqueles que criaram uma nova geração de desempregados, uma nova geração de emigrantes, uma nova geração de jovens sem futuro. Felizmente, algo mudou neste País e espero que, juntos, continuemos a lutar aqui pelas novas gerações. \nSr. Deputado Michael Seufert, aproveito também para felicitar o seu sucessor, desejando que tenha um percurso tão bom ou melhor do que o seu. \nAproveito ainda para dizer aqui que aquilo de que os jovens portugueses precisam, e querem, é de uma oportunidade de trabalho, é de facilidade na entrada no mercado de trabalho, porque, ao contrário do que alguns pensam, os jovens portugueses querem uma oportunidade para mostrar as suas qualidades. Não querem já um emprego para a vida, querem, sim, um emprego e um trabalho em que possam mostrar que estão preparados, um emprego que não seja nem à custa do Estado nem à custa de empresas que vão fechar,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Duarte Filipe Marques", 
+   "text": "… mas, sim, em que tenham a liberdade de escolher e de mostrar aquilo que aprenderam na sua universidade ou no seu instituto politécnico. É um futuro que deve estar nas mãos dos jovens, se lhes for dada essa oportunidade. Não queremos um emprego à custa do Estado, queremos um emprego pelo nosso mérito, pela nossa capacidade e, sobretudo, porque o merecemos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Michael Seufert.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Michael Seufert", 
+   "text": "Sr.ª Presidente, Sr. Deputado Duarte Marques, agradeço as simpáticas palavras que me dirigiu, tal como agradeço a presença de V. Ex.ª e de representantes da Juventude Socialista no encerramento do XVIII Congresso da Juventude Popular. \nFoi um congresso de trabalho, um congresso onde se debateram os temas que aqui tive oportunidade de lançar e foi, sobretudo, um congresso em que se manifestou, mais uma vez, algo que sempre afirmámos e de que, aliás, o Sr. Deputado aqui também deu eco, por muito que custe a muitas pessoas. Refiro-me ao facto de haver, hoje em dia, uma geração de jovens que sabe que o emprego não é para a vida,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Michael Seufert", 
+   "text": "… de haver uma geração de jovens de hoje que sabe que as empresas vivem as mesmas dificuldades que as pessoas, que as empresas vivem as mesmas dificuldades que as famílias e que, se uma família não sabe hoje como poderá ser o seu futuro daqui a 10 ou 20 anos, as empresas funcionam da mesma forma. \nPor isso, são precisas hoje políticas que permitam contratar mais facilmente, mas também políticas que permitam abrir empresas mais facilmente e, por muito que custe, fechar empresas mais facilmente, porque, hoje em dia, quando uma ideia de negócio não tem sucesso, é preciso que se liberte rapidamente esse capital e esses esforços para que possam ser reinvestidos noutra área da economia, noutra área da vida empresarial. \nComo tal, Sr. Deputado, tenho a certeza de que conseguiremos contar com os esforços da parte do Governo para que aquilo que V. Ex.ª aqui hoje defendeu, aquilo que eu tive oportunidade de dizer da tribuna e aquilo que ouvimos no Congresso na Juventude Popular se torne realidade. Um futuro melhor para todos, melhor para as empresas, melhor para os empreendedores e melhor para as famílias, será, com certeza, um futuro melhor para a juventude portuguesa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, para uma declaração política, a Sr.ª Deputada Rita Calvário.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Rita Calvário", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Em 35 anos de democracia, o País nunca conseguiu resolver o problema da falta de habitação, apesar de ter construído casas a mais e de existirem milhares de casas que estão vazias. \nPara os agregados familiares mais pobres, o acesso ao arrendamento social é um importante garante do direito constitucional à habitação. O País tem apenas cerca de 3,3% do parque habitacional afecto a arrendamento social, cerca de metade da média europeia. \nMas, mesmo sendo escassa a oferta pública de habitação, tem-se assistido, ao longo dos anos, ao esquecimento dos moradores dos bairros sociais: são casas sem obras de manutenção há décadas, degradando as condições de vida, senão mesmo colocando riscos à segurança de pessoas; é a ausência de legislação que resolva casos como os milhares de cedências precárias em cidades como Lisboa; e é um regime de renda apoiada que, ao invés de responder à necessidade de unificar o arrendamento público, criou confusões e injustiças nunca resolvidas desde 1993, por ausência de clara vontade dos partidos que têm governado o País. \nA maior das injustiças encontra-se nos critérios de cálculo da renda apoiada, que ignoram a dimensão do agregado familiar e os rendimentos reais de quem mora nos bairros sociais. \nInjustiça, essa, que levou, em 2007, a afastar a Fundação D. Pedro IV dos bairros dos Lóios e Amendoeiras, em Lisboa, quando quis aplicar a renda apoiada. Neste caso, o tribunal deu razão aos moradores. \nInjustiça, essa, que levou o Provedor de Justiça, em funções no ano de 2008, a recomendar ao governo a revisão do regime da renda apoiada para incluir a dimensão do agregado familiar no cálculo de renda. \nInjustiça, essa, que tem sido reconhecida pelos vários grupos parlamentares ao longo dos anos, mas sem que as maiorias que vão governando o País assumam a mudança da lei.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Rita Calvário", 
+   "text": "Mas tanta injustiça não está a impedir o instituto do Estado que gere a habitação pública, o IHRU (Instituto da Habitação e da Reabilitação Urbana), de aplicar este regime de renda injusta aos moradores dos vários bairros sociais. E começou a fazê-lo durante o mandato do anterior governo. \nComeçou a fazê-lo no pior momento de crise social que se vive no País e mais afecta estas famílias, já de si com baixos salários, pensões de miséria ou atingidas pelo desemprego. \nMais uma vez, agora pela mão do IHRU, os moradores dos bairros dos Lóios e das Amendoeiras vêem ser-lhes aplicada a renda apoiada, ignorando todo o passado e toda a história do estabelecimento das rendas nestes bairros, assim como a violência de aumentos de renda para valores incomportáveis, chegando, nalguns casos, a 1400%. \nÉ também o que está a passar-se no bairro Quinta do Cabral, no Seixal, com aumentos superiores a 200%. \nOu no bairro Rosa, no Pragal, e no bairro do Raposo, na Caparica, concelho de Almada. Existem casos em que as rendas aumentaram na ordem dos 800%, chegando mesmo ao seu valor máximo a famílias que estão no desemprego e em situação de forte vulnerabilidade social. \nSr.as e Srs. Deputados: Esta política é inaceitável. Ela é de uma violência social extrema, que não podemos aceitar. A sua correcção é urgente e o que se exige, no mínimo, é coerência dos partidos do Governo com o que aqui defenderam no passado. \nRecordemos as posições que o CDS-PP tem tido sobre a renda apoiada. Pode ser que recordando tal influencie a actual Ministra do Ambiente com a tutela da habitação, que na anterior Legislatura assinou várias das iniciativas legislativas deste partido sobre o assunto.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Rita Calvário", 
+   "text": "A 31 de Janeiro deste ano apresentaram uma proposta de revisão do regime da renda apoiada, que contou com a abstenção do PSD, onde se pode ler, e cito, «mantemos a posição de que este regime de renda apoiada não é justo, não serve o País e, concretamente, os mais carenciados, muito menos nas actuais circunstâncias de agravamento e dificuldade financeira em que se encontram os agregados familiares mais desprotegidos. É, portanto, um dever do CDS-PP evidenciar à Assembleia da República que este regime de arrendamento não tem produzido os efeitos de apoio e de suporte social adequado e desejado às famílias mais necessitadas». \nRecordemos também a iniciativa que foi apresentada em Março deste ano, há pouco tempo, portanto, que recomendou ao governo a aplicação de medidas preventivas e urgentes, e cito, «no contexto do regime de renda apoiada, injusto e profundamente insensível, recentemente aplicado a novos bairros sociais de Lisboa, Almada e Seixal». \nO que se exige, hoje, é coerência por parte destes partidos. O Bloco já apresentou uma iniciativa, nesta Legislatura, a exigir que o Governo trave o IHRU na aplicação do aumento de rendas nos bairros sociais e iremos avançar também com uma proposta de revisão do regime de renda apoiada, como, aliás, fizemos no passado, iniciativa, essa, que contou com o voto favorável do CDS e a abstenção do PSD. Veremos o que fazem os partidos que estão no Governo e se agora, que são Governo, vão romper com o que prometeram aos moradores dos bairros sociais quando eram oposição.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Cecília Honório", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Rita Calvário", 
+   "text": "Mas falar de habitação e dificuldades das famílias é mais do que falar sobre os bairros sociais. \nÉ falar também das famílias que não conseguem pagar as suas casas e são despejadas — estamos a falar de pais, crianças e avós postos na rua, sem local para morar. \nÉ falar também das famílias que tiveram de devolver à banca, nos primeiros seis meses deste ano, parte das 3000 casas, porque estão endividadas pelo corte de salários, o desemprego e o aumento dos preços do consumo, que impossibilitam o pagamento das casas. \nÉ falar também do aumento dos _spreads_, que triplicou nos últimos três anos e triplicou ainda mais desde o início deste ano, causando maiores dificuldades às famílias em pagar a habitação, tudo isto para aumentar a margem de lucro dos bancos. \nÉ falar também dos milhares de idosos que vivem nos centros das cidades há anos e anos e se arriscam a vir para a rua, se a liberalização das rendas antigas avançar, como está no Memorando da troica. \nÉ falar, ainda, dos despejos automáticos e extrajudiciais de quem deixou de conseguir pagar as suas rendas, como consta igualmente no Memorando da troica. \nSr.as e Srs. Deputados: Mais do que falar é de correcção das injustiças que se trata e de garantir o direito constitucional à habitação, protegendo as famílias. \nTravar o aumento das rendas nos bairros sociais e nos centros das cidades e travar a expulsão das pessoas das suas casas deve ser uma resposta da democracia contra a força da especulação imobiliária que tem mandado no País e tanto eco tem feito nos partidos que têm governado o País.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, por esquecimento, não tenho estado a identificar os oradores com os respectivos partidos. Terminou a sua intervenção a Sr.ª Deputada Rita Calvário, do Bloco de Esquerda, a quem aproveito para informar que tem quatro Srs. Deputados inscritos para pedir esclarecimentos. A Sr.ª Deputada informou a Mesa que tenciona responder aos pedidos de esclarecimento um a um. \nPara pedir esclarecimentos, tem a palavra a Sr.ª Deputada Paula Santos, do PCP.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paula Santos", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, Sr.ª Deputada Rita Calvário, queria, em primeiro lugar, felicitá-la pelo tema que nos traz, o da habitação. \nHoje, a habitação continua a ser um grande problema no nosso País, seja pelo peso dos custos nos rendimentos das famílias, estando cada vez mais elevado, quando as famílias têm rendimentos cada vez mais baixos, seja pela dificuldade que há no acesso à habitação, nomeadamente para os mais jovens. Temos, infelizmente, uma política de habitação que, ao longo dos vários anos, por responsabilidade dos sucessivos governos, tem sempre beneficiado os interesses da especulação imobiliária, do capital e da banca e nunca os interesses das pessoas, das famílias, em poderem ter direito à sua habitação.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paula Santos", 
+   "text": "Esta é, de facto, uma questão central nesta discussão, ainda mais quando este Governo do PSD e do CDS, através do Memorando da troica, pretende dificultar às populações o acesso à habitação, facilitar os despejos quando do incumprimento dos contratos, aumentar os arrendamentos. Não e trata de uma política que favorece e garante o direito à habitação, consagrado na nossa Constituição, mas o inverso; é uma política que continua a facilitar e a beneficiar os interesses privados. \nEm relação à renda apoiada, devo dizer que ainda agora o PCP teve um encontro com a associação de moradores do bairro Rosa, em Almada, que voltou a colocar-nos preocupações. \nDe facto, trata-se de um regime injusto, que permite que o Governo esteja a implementar aumentos brutais de renda, muito superiores à possibilidade das famílias com rendimentos baixos. Rendas de 20,30 € passaram a 200, 300 e até 400 €,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paula Santos", 
+   "text": "…valores inadequados à situação socioeconómica destas famílias, quando estamos a falar de uma habitação que deve ser social. \nQueria ainda referir que os moradores deste bairro transmitiram-nos hoje que, aquando da visita do IHRU, tinha ficado assumido a intervenção de um conjunto de obras, nas fissuras dos prédios, a resolução de problemas de humidade, mas nunca foram resolvidos, não foram cumpridos pelo Presidente do IHRU.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paula Santos", 
+   "text": "Mas as rendas continuam a ser pagas a estes preços brutais. \nO PCP, na Legislatura passada, apresentou um projecto de lei que visava alterar este regime e, na passada sexta-feira, voltámos a entregar um projecto de lei sobre a mesma matéria, para que a Assembleia promova o debate e possa alterar esse regime, pois tem legitimidade para isso. Haja vontade política dos partidos, nomeadamente do PS, do PSD e do CDS, para o fazer. \nNeste momento, importa saber qual é a posição desses mesmos partidos…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, pedia-lhe que terminasse.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paula Santos", 
+   "text": "Vou terminar, Sr.ª Presidente, e agradeço a chamada de atenção. \nComo estava a dizer, neste momento, importa saber qual é a posição desses mesmos partidos, porque, de facto, as pessoas continuam a ser prejudicadas e é urgente alterar esta lei. \nSr.ª Deputada Rita Calvário…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada Paula Santos, tem que terminar, uma vez que já gastou quase o dobro do tempo de que dispunha.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paula Santos", 
+   "text": "Vou terminar, Sr.ª Presidente.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, não gosto de interromper os oradores, sinceramente, mas tem que dar atenção ao tempo.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paula Santos", 
+   "text": "Sr.ª Presidente, mesmo para terminar…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Então, queria que terminasse, Sr.ª Deputada.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paula Santos", 
+   "text": "Muito bem, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Muito obrigada, Sr.ª Deputada, pela sua compreensão. \nPara responder, tem a palavra a Sr.ª Deputada Rita Calvário.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Rita Calvário", 
+   "text": "Sr.ª Presidente, Sr.ª Deputada Paula Santos, o País vive, de facto, há muitos anos com um problema real de habitação, o País que sempre investiu na construção de muitas casas, o que implica termos milhões e milhões de casas que estão, hoje em dia, vazias, a especular o preço da habitação e a degradar o centro das nossas cidades. \nNo entanto, ao mesmo tempo que se construiu demais, há milhares de pessoas que não têm hoje acesso a uma habitação condigna. Vivemos, por isso, num paradoxo democrático que urge resolver. \nPerante esta situação e também perante o facto de sermos dos países que têm os preços da habitação mais elevados, o que impossibilita o acesso à habitação e penaliza muito o rendimento das famílias, perante este diagnóstico, que está feito já há muitos anos — há imensos estudos que fazem este diagnóstico! —, os partidos que têm governado o País só nos têm apresentado a máxima violência social, não respondendo a nenhum dos problemas da habitação. As soluções que apontam não são soluções, continuam a aumentar as rendas, a liberalizar as rendas antigas, penalizando os milhares de idosos que vivem nessas casas há muitos, muitos anos, assim como também aumentam as rendas apoiadas nos bairros sociais. A adicionar a isto, é facilitado o despejo de pessoas que têm dificuldade em pagar a renda. \nNão se mexe em nada relacionado com os problemas do mercado de habitação e penaliza-se quem menos tem, promovendo não o direito constitucional à habitação mas, antes, a expulsão das pessoas das suas casas, sendo a rua a única alternativa que lhes dão. \nJulgamos que é preciso alterar profundamente esta política e, no caso dos bairros sociais, é urgente alterar o regime de renda apoiada, reconhecidamente injusto, mas, no imediato, deve ser suspensa a sua aplicação nestes bairros sociais, porque são estas famílias mais carenciadas e mais atacadas pela crise que estão, de facto, a sofrer os impactos dos aumentos de renda. \nO Bloco de Esquerda já apresentou um pedido para o Governo suspender, no imediato, a aplicação do regime da renda apoiada nestes bairros e em todos os outros, porque não podemos aceitar que estas famílias, no pior momento de crise social, enfrentem aumentos de renda absolutamente incomportáveis.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Miguel Coelho.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Coelho", 
+   "text": "Sr.ª Presidente, Sr.ª Deputada Rita Calvário, ao ouvir a sua intervenção sobre o regime de renda apoiada, ocorreu-me este pensamento: não tivessem os senhores sido tão ávidos a derrubar o governo de esquerda do Partido Socialista e esta questão já não era um problema do País.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Risos do BE.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "O governo é que se demitiu!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Coelho", 
+   "text": "Estávamos a trabalhar, a pedido da Câmara Municipal de Lisboa, para eliminar esta lei, porque, de facto, ela traz desequilíbrios graves e problemas insustentáveis para as famílias. \nDevo dizer-lhe que tanto assim é que na própria cidade de Lisboa este mesmo regime já não é aplicado, porque temos perfeita consciência de que, se o fizéssemos, haveria neste momento milhares de despejos de pessoas.\nPortanto, Sr.ª Deputada, o que lhe quero dizer sobre esta matéria é que o Grupo Parlamentar do Partido Socialista está a trabalhar para encarar este problema e podermos rever esta lei nos exactos termos que nos foi solicitado pela Câmara Municipal de Lisboa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, para responder, a Sr.ª Deputada Rita Calvário.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Rita Calvário", 
+   "text": "Sr.ª Presidente, Sr. Deputado Miguel Coelho, é certo e sabido que, a nível da autarquia de Lisboa, nomeadamente na Assembleia Municipal de Lisboa, já foram aprovadas várias moções a reconhecer a injustiça do regime de renda apoiada e a exigir que o Governo faça a sua revisão. \nContudo, este regime de renda apoiada, que existe desde 1993, nunca sofreu qualquer alteração e, ao longo dos anos que o Partido Socialista esteve no governo, não conhecemos uma única proposta de revisão deste regime.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "Exactamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Rita Calvário", 
+   "text": "E, mais grave, o Partido Socialista sempre votou contra todas as iniciativas legislativas que os vários grupos parlamentares apresentaram na Assembleia da República para alterar o regime de renda apoiada, para introduzir maior justiça social, que poderiam contribuir para uma mudança legislativa que sempre foi reconhecida como urgente, nomeadamente pela autarquia de Lisboa. \nPortanto, Sr. Deputado, sempre fizeram muitas promessas mas, na prática, nunca apresentaram qualquer proposta, e é disso que se trata. \nNa actualidade, precisamos que os partidos que estão no Governo sejam coerentes com o que defenderam quanto à necessidade de alteração do regime de renda apoiada e é a essa coerência que apelamos, porque é urgente responder, de uma vez por todas, à dificuldade que hoje existe e corrigir estas injustiças que se tornam absolutamente insustentáveis nos bairros sociais.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Luís Vales.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Vales", 
+   "text": "Sr.ª Presidente, Sr.ª Deputada Rita Calvário, a crise económica que grassa em Portugal originou dificuldades acrescidas para todos os cidadãos. \nVerificamos hoje um crescente número de famílias que se vêem obrigadas a recorrer à ajuda de terceiros para sobreviver. \nPor isso, reconhecemos a importância de olhar para a situação das rendas apoiadas e para as dificuldades que vivem os seus beneficiários. \nÉ importante e queremos fazê-lo nesta Legislatura.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Vales", 
+   "text": "Contudo, isso não pode implicar irresponsabilidade nem deve abrir caminho às soluções injustas e irreflectidas a que os partidos, como o Bloco de Esquerda, às vezes, nos habituaram. \nAssim, gostaria de chamar a atenção de que a proposta do Bloco de Esquerda pode ser injusta, designadamente ao introduzir o conceito de rendimento líquido mensal como o rendimento a considerar para a determinação do valor da renda, em substituição do rendimento bruto que é tido em conta actualmente.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "É verdade!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Vales", 
+   "text": "Não se nos afigura vantajoso ou, sequer, razoável que se alterem as regras de todo o sistema actualmente em vigor, se considerarmos que, em sede de IRS e na generalidade das normas que contendem com o apoio social, como rendimento social de inserção, o rendimento considerado é o bruto. \nQuais as razões para introduzir nesta matéria uma distorção do sistema geral? Não poderá daqui resultar, em certos casos, prejuízo para os trabalhadores por conta de outrem? \nPor outro lado, esta proposta do Bloco de Esquerda, apresentada no projecto de resolução, pode acarretar um aumento da despesa pública. \nQuestiono os Srs. Deputados do Bloco de Esquerda do seguinte: já fizeram as contas? Estudaram o impacto destas medidas nas contas públicas? Sabem exactamente quanto é que isto vai custar aos contribuintes? No caso concreto do poder local, considerando o contexto dramático que o País atravessa, que tem de prestar apoio social a que o Estado se inibe, podem, sem estudos concretos, apresentar propostas destas?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Paulo Batista Santos", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Vales", 
+   "text": "O Bloco de Esquerda já nos habituou a considerar que o Estado é um poço sem fundo, que há dinheiro para tudo,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Sobretudo para a Caixa Geral de Depósitos!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Vales", 
+   "text": "… que o dinheiro nunca é problema. Mas o problema maior, de facto, é a falta dele. \nPara o Bloco de Esquerda, os custos nunca são um problema, porque, naturalmente, alguém há-de pagar. \nSrs. Deputados do Bloco de Esquerda, pergunto-lhes se fizeram as contas antes de apresentarem estas propostas. Sabem quanto custam as vossas propostas?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, para responder, a Sr.ª Deputada Rita Calvário.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Rita Calvário", 
+   "text": "Sr.ª Presidente, Sr. Deputado Luís Vales, de facto, as famílias vivem hoje com muitas dificuldades. É certo e sabido que as políticas de austeridade que têm vindo a ser aplicadas nos últimos anos e agora com os partidos que estão no Governo agravam muito as dificuldades das famílias, sobretudo das que vivem nos bairros sociais, porque são as que têm mais dificuldades, salários mais baixos, pensões mais baixas e enfrentam também muitas situações de desemprego. \nPor isso mesmo, não é aceitável que nestes bairros sociais se assista a aumentos de renda substanciais e incomportáveis para os rendimentos destas mesmas famílias. \nEsta é uma situação urgente. Uma legislatura tem quatro anos e esperamos que, de facto, o PSD queira resolver este problema em tempo útil e não daqui a muito tempo. \nNo entanto, também é preciso saber como quer o PSD resolver este problema. As palavras do Sr. Deputado levantam muitas preocupações. \nQuando falamos em rendimento líquido, falamos no rendimento real, disponível, que as famílias têm, de facto, para fazer face aos seus compromissos. Esta é, aliás, uma matéria que tem sido consensual para muitos estudiosos e muitas pessoas que têm proposto uma revisão do regime de renda apoiada. Mais uma vez, volto ao exemplo da autarquia de Lisboa, que tem vindo a propor, precisamente, o rendimento líquido. \nTambém o CDS-PP, nas propostas de revisão deste regime que apresentou, referia o rendimento líquido, porque esse é o rendimento de justiça, é o que está, de facto, disponível no final do mês para cada família. \nO Sr. Deputado fala em aumento da despesa pública. Temos de ter a noção do que é o regime da renda apoiada. Trata-se de rendas fixadas nos bairros sociais e não de um subsídio ou de uma prestação social. Não é despesa pública. O que se está a passar com os aumentos de renda é, sim, o agravamento da despesa privada das famílias que são pobres.\nPortanto, Sr. Deputado, não confunda as premissas que estão em jogo e olhe para o que está a ser feito, que é uma profunda injustiça na aplicação destas rendas e o agravamento das condições de vida destas famílias, que hoje em dia estão a ser tão atacadas por políticas de austeridade e a sentir muitas dificuldades. \nPor isso, Sr. Deputado, espero que o PSD queira, de facto, resolver o problema destas famílias, o que passa por, no imediato, não aplicar o regime de renda que é reconhecido por todos como injusto. \nPortanto, o regime deve ser suspenso, de imediato, nos bairros sociais onde está a ser aplicado.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para formular o último pedido de esclarecimento, tem a palavra o Sr. Deputado João Pinho de Almeida.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Sr.ª Presidente, Sr.ª Deputada Rita Calvário, trouxe um tema muito importante a esta Assembleia e não causa qualquer problema ao CDS-PP, pelo contrário, o facto de ter relembrado as posições do CDS-PP nesta matéria não só na última Legislatura mas ao longo de todo um percurso aqui, na Assembleia da República, ou, como citou, na autarquia de Lisboa, onde responsáveis do CDS-PP tiveram um trabalho, em matéria de habitação social, do qual nos orgulhamos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Bem lembrado!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "O anterior presidente da Câmara, o Eng.º Kruz Abecasis, e, mais recentemente, a vereadora Maria José Nogueira Pinto, que teve esse mesmo pelouro, tiveram um papel essencial na política de habitação social na cidade de Lisboa. Como sabe, nalguns dos bairros que referiu, designadamente o dos Lóios e o das Amendoeiras em Lisboa, houve um problema anterior relacionado com a transferência de propriedade desses mesmos bairros, que causou, num primeiro momento, um problema semelhante ao que existe agora e foi exactamente por intervenção do CDS-PP — batalha a que, felizmente, vários partidos se juntaram — que houve uma reversibilidade dessa situação para que os moradores não fossem afectados. \nNa Legislatura anterior, apresentámos iniciativas nesse mesmo sentido, porque também consideramos que é injusta a aplicação do actual quadro legal da renda apoiada a este tipo de situações, causando, como foi dito, um aumento de rendas totalmente incomportável para aquele tipo de famílias, muito mais numa situação de dificuldades acrescidas resultante da situação que vivemos. \nÉ evidente também que há um problema geral da política de habitação em Portugal. Há um problema que tem a ver com a propriedade, há um problema que tem a ver com a ineficácia da lei do arrendamento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Esses problemas geram questões de mobilidade e questões que têm também a ver com o preço do arrendamento para habitação. Há uma série de problemas que terão de ser resolvidos por este Governo, em matéria de política de habitação. Mas pode a Sr.ª Deputada ficar descansada que uma das prioridades será, certamente, a da resolução do problema da aplicação da renda apoiada e a de não prejudicar mais este tipo de famílias, como foi a política do Partido Socialista. É, aliás, surreal que o Partido Socialista tenha vindo aqui tentar invocar alguma intervenção nesta matéria. A única que pode invocar é a de ter criado o problema e de nunca o ter conseguido resolver.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, para responder, a Sr.ª Deputada Rita Calvário.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Rita Calvário", 
+   "text": "Sr.ª Presidente, Sr. Deputado João Pinho de Almeida, traz-nos o percurso do CDS-PP sobre a questão das rendas sociais e da renda apoiada. Mas mais do que traçar um percurso é preciso saber os compromissos que está disposto a assumir agora, quando os bairros sociais já estão a ser vítimas da aplicação do regime de renda apoiada. No entanto, não o ouvi dizer que, de facto, defende a suspensão da aplicação do regime o quanto antes…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Acabei de dizer!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Rita Calvário", 
+   "text": "… e também não apontou se vai, de facto, e quando, promover a alteração do regime de renda apoiada, para uma maior justiça social. \nApelamos a que seja mantida coerência com as promessas perante os moradores dos bairros sociais e, agora que têm funções governativas, que cumpram o que ao longo de tantos anos têm prometido. \nPor isso mesmo, apelo também a que votem a favor da iniciativa do Bloco de Esquerda, como fizeram na anterior Legislatura, para uma revisão do regime de renda apoiada. \nJulgamos que é preciso manter coerência e que as promessas devem ser, de facto, cumpridas. Essa é a exigência mínima da democracia.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma declaração política, tem a palavra o Sr. Deputado António Rodrigues.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: A Cimeira Europeia de Bruxelas do passado dia 21 de Julho marca um virar de página da história recente da Europa comunitária e da zona euro. \nQuando poucos acreditavam numa solução consistente para um problema que afecta as economias periféricas de alguns Estados europeus, os líderes da zona euro assumiram a necessidade de resolver problemas nacionais com uma solução solidária e firme. \nTendo presente a resolução imediata do problema da Grécia que se arrastava há meses, a solução vem clarificar a situação e beneficiar, de forma assumida, as economias que se têm mostrado mais débeis. \nSe o caso da Grécia merece uma solução excepcional e única, não é menos verdade que os líderes da zona euro reconhecem a determinação da Irlanda e de Portugal na execução dos seus programas. \nAs soluções encontradas de redução da taxa de juro, do alargamento dos períodos de maturidade dos empréstimos, da flexibilidade do Fundo Europeu de Estabilização Financeira (FEEF), da alteração dos regulamentos comunitários, alargando a respectiva comparticipação nacional e reduzindo o esforço nacional, são a expressão da mudança e o fim dos egoísmos nacionais. \nA redução das taxas de juro e o aumento da maturidade dos empréstimos são também aplicados a Portugal e à Irlanda, garantindo a sustentabilidade da dívida pública destes países e aliviando as dificuldades inerentes à implementação de programas de ajustamento exigentes. \nA Europa percebeu que, se a origem dos problemas é nacional, a resposta tem de ser colectiva, determinada e decisiva. \nAs conclusões da Cimeira são positivas, são relevantíssimas para Portugal e bem andou o Governo português na participação neste processo que se pode demonstrar histórico para o País. \nEste é o momento de reafirmar a nossa convicção no desenvolvimento da União Europeia, no projecto do euro enquanto instrumento de consolidação da acção comum das economias dos Estados europeus e de reafirmação de um espaço comum de cidadania. \nQue não restem dúvidas quanto à nossa vontade de continuar a participar no projecto europeu de forma realista e não idealista, em plano de igualdade com os restantes parceiros europeus, independentemente da cor do governo respectivo e da orientação política das instituições comunitárias.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "O projecto da União Europeia, no qual Portugal se assume membro de pleno direito desde 1986, faz parte do nosso ideário e entrou nas nossas convicções mais íntimas. \nSomos europeus por convicção, por vontade própria e, por esse motivo, não precisamos de o apregoar permanentemente.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Outros haverá que buscam na Europa a desculpa para os seus fracassos de governação e a solução para as suas incapacidades.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: As respostas dadas na semana passada em Bruxelas não podem fazer afrouxar nem o nosso empenho nem o nosso cometimento no cumprimento do memorando de assistência técnica e financeira. \nÉ incompreensível que haja quem queira, a montante e a jusante, modificar os termos do cumprimento do Memorando. \nAqueles que querem precipitadamente alterar os termos do acordo ou manifestam dúvidas sobre o seu cumprimento querem que Portugal falhe ou querem obter benefícios políticos inadequados de uma eventual alteração. \nPortugal assumiu um compromisso de baixar o défice para 5,9% do PIB, concretizando um conjunto de medidas em todos os domínios da governação, quantificadas e calendarizadas no Memorando de Entendimento com a troica. \nEste deve ser o caminho a seguir, sem tibiezas e sem desvios, quer em termos nacionais, quer, principalmente, em termos comunitários. \nImporta aqui assinalar, reconhecidamente, que a credibilidade de Portugal se alarga e consolida. \nAgora, na sequência da Cimeira, as agências de _rating_ apresentam já outra atenção a Portugal. \nA agência de notação financeira Fitch disse, hoje, que vai decidir o _rating_ de Portugal no último trimestre deste ano levando em conta «a perspectiva de recuperação económica e o progresso na sustentabilidade das finanças públicas». \nDepois da Fitch, a Standard &amp; Poor's considera que as decisões de reduzir os juros e prolongar as maturidades das obrigações nacionais, acordadas pelos líderes europeus na semana passada, são benéficas para a sustentabilidade da dívida de Portugal e, nesse sentido, anuncia que, por isso, não deverá haver cortes de _rating_ na dívida portuguesa. \nOntem, a Standard &amp; Poor's declarou expressamente, e cito: «não prevemos que estas medidas venham a ter um efeito imediato nos _ratings_ e na vigilância sobre Portugal e a Irlanda, dado que os desafios continuados enfrentados pelos dois países nos esforços para reduzir os seus consideráveis défices orçamentais e para restaurar a sustentabilidade do crescimento são positivos». \nA agência de _rating_ declara que o prolongamento das maturidades levará «a uma significativa diminuição da despesa com juros no PIB da Irlanda e de Portugal», mas avisa que a solução «não é substituta da disciplina orçamental necessária para restaurar a solvência a longo prazo». \nTemos, agora, maiores condições de credibilidade para conduzir os desafios que se apresentam. Não são apenas as conclusões da Cimeira Europeia que são apreciadas, é particularmente a acção rigorosa do Governo português que se exige. \nO Governo português tem dado provas do seu empenho neste objectivo. Mais do que um programa claro, tem tomado acções efectivas que traduzem o rigor no controlo das finanças públicas, quer no domínio da receita, quer no da despesa, e tem igualmente assumido, de forma clara e atempada, o cumprimento do conjunto de compromissos corporizado no Memorando. Mas não podemos ficar por aqui. As exigências são grandes, a determinação é firme e uma eventual falha seria desastrosa. \nDevemos continuar neste caminho de cumprir os compromissos assumidos pelo Estado sem esquecer que as exigências da austeridade não podem comprometer o crescimento. \nDe igual forma, não podemos deixar que o idealismo arcaico se sobreponha à realidade, não esquecendo que foram os próprios Estados que criaram os seus défices ao viver acima das suas possibilidades de forma e por tempo excessivo. \nOs líderes europeus afirmaram o seu total apoio a Portugal na implementação do seu programa de ajustamento macroeconómico e asseguraram que continuarão a prestar o apoio financeiro dos parceiros europeus, cumprindo estes integralmente as metas dos respectivos programas.\nAs conclusões da Cimeira demonstram assim claramente o empenho do conjunto dos países em garantir a coesão da zona euro, o sucesso do projecto da moeda única e a necessária estabilidade do sistema financeiro. \nAs decisões anunciadas atestam que os líderes europeus farão tudo o que for necessário para preservar estes valores e apoiar os países em dificuldades, contando com o apoio do Fundo Monetário Internacional. \nEstamos igualmente seguros que o Governo português cumprirá responsavelmente o seu desígnio.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Carlos Zorrinho.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Carlos Zorrinho", 
+   "text": "Sr. ª Presidente, Sr. Deputado António Rodrigues, em primeiro lugar, o Grupo Parlamentar do Partido Socialista associa-se e saúda os resultados positivos para a Europa e para Portugal da última Cimeira Europeia, mas não podemos deixar de sublinhar alguns aspectos do contexto dessa cimeira. \nEm primeiro lugar, esses resultados ocorrem apesar da omissão política absoluta do Governo português.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Bem lembrado!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Carlos Zorrinho", 
+   "text": "O Sr. Deputado disse que andou bem o Governo português. Então, diga-nos como, porque não vimos. O máximo que conseguimos ouvir foi que Portugal queria uma política robusta — a mais não se detalhou o Governo. \nEm segundo lugar, as soluções encontradas responderam a um problema conjuntural mas estão muito longe de serem respostas estruturais. \nVimos que, nos dias seguintes, a pressão sobre Espanha ou Itália foi muito forte. Mesmo em Portugal, infelizmente, as taxas de juro continuam muito elevadas no mercado secundário, e o Ministro das Finanças alemão disse ontem que o uso do Fundo de Estabilidade era para casos excepcionais. Portanto, Sr. Deputado, ainda bem que aquela Cimeira correu bem, mas não resolveu o problema europeu. \nPara resolvermos o problema europeu temos de ir mais longe, pois a solução do problema europeu não é financeira, é política. \nPor isso, é muito importante que o Governo e os grupos parlamentares que o apoiam clarifiquem a sua posição, em primeiro lugar, sobre as agências de _rating_. \nO Sr. Deputado fez o elogio das agências de _rating_ mas já percebemos que, normalmente, estas agências não são agradecidas a estes elogios e não quero ver como é que o Sr. Deputado vai reagir quando receber um segundo «murro no estômago». \nQueremos evitar que recebamos o segundo «murro no estômago» e, para isso, propomos que se crie, rapidamente, uma agência de _rating_ com capacidade regulatória no espaço europeu, independente dos Estados e dos mercados. E os senhores o que é que defendem? \nTambém não defendemos que o uso do Fundo de Equilíbrio fique dependente do bom ou do mau humor do Ministro das Finanças da Alemanha. Assim, não construiremos o nosso espaço europeu. Defendemos que, de forma consistente, a União Europeia emita dívida pública. Os senhores são a favor ou contra as _eurobonds_? \nA solução não é financeira, é política. Qual é a vossa política?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado António Rodrigues fez-me saber que responderá individualmente aos pedidos de esclarecimento. \nTem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Sr.ª Presidente, Sr. Deputado Carlos Zorrinho, agradeço a sua pergunta.\nDevo dizer que não me importo muito com o humor do Ministro das Finanças alemão, preocupo-me muito mais com a situação das finanças portuguesas, essas que os senhores descuraram durante o tempo em que estiveram no governo e que nos conduziram, nacionalmente, a esta situação.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Os senhores andaram permanentemente a atirar a responsabilidade para a Europa quando hoje temos três Estados europeus em dificuldades e 24 sem dificuldades! O problema não é europeu, o problema é nacional e é esse que estamos a tentar resolver.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Mas, Sr. Deputado, vejo que o senhor está preocupado com as agências de _rating_. \nNão vim fazer qualquer elogio das agências de _rating,_ vim dizer que até já estas agências de _rating_, que há 15 dias nos tratavam mal, hoje consideram que este Governo está a fazer bem!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Mais do que isto: este Governo não tratou na praça pública, com palavras, tratou na diplomacia e nos silêncios dos gabinetes a factualidade das políticas que esta Cimeira veio consagrar. \nMais importante do que andar a dizer «vamos fazer» e não ter resultados é não dizer o que fazer e ter os resultados. Foi isso que tivemos, os resultados que esta Cimeira nos traz. \nMas há um aspecto sobre o qual concordo consigo: esta Cimeira não é o ponto de chegada, é o ponto de partida. Quanto toda gente dizia que ia haver um cataclismo, chegou-se à conclusão que, afinal, a Europa é capaz de encontrar uma solução colectiva, sendo por isso que pugnamos. \nQueremos uma solução colectiva do conjunto de Estados europeus para o conjunto da comunidade. É isso que muitas vezes os senhores pensam que não vão ter, só pensam na vossa própria solução. \nQueremos fazer parte de uma comunidade conjunta, não queremos ser uma parcela, não queremos que olhem para nós com pena, como se fossemos vítimas. Queremos ser pró-activos, queremos colaborar, queremos ser equiparados aos restantes países europeus. Foi isso que os senhores não souberam fazer enquanto foram governo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado João Serpa Oliva.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Sr.ª Presidente, Sr. Deputado António Rodrigues, obviamente que o CDS partilha consigo a ideia de que não se trata de um problema europeu, sendo também um problema nosso, e nesta fase temos de encontrar amplos consensos porque a crise não acabou, antes pelo contrário. \nPode ser o início de uma nova era mas, para isso, temos de contribuir porque, infelizmente, não está tudo resolvido. \nHouve um tremendo dramatismo no assumir desta Cimeira, que, para muitos, foi realizada _in extremis_. A questão que coloco é a de saber se este foi um enorme salto em relação àquilo que todos aguardávamos ansiosamente que acontecesse e se considera ser necessário que a Europa atinja este estado de dramatismo _in extremis_ para que se consigam dar estes passos. \nPor último, pergunto por que é que a Europa se deixou chegar a este estado para ser obrigada a dar depois, em conjunto, este passo fantástico.\nAplausos do CDS-PP.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado António Rodrigues.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Sr.ª Presidente, Sr. Deputado, agradeço a sua pergunta, que nos mereceria uma reflexão muito grande porque, sendo a Europa uma realidade em construção, todos os dias merece respostas melhores e merece a nossa maior exigência. \nJulgo que, no conjunto de países que dela fazem parte, ainda não temos uma ideia consolidada da Europa e todos nós nos dividimos entre um egoísmo nacional e a necessidade de dar uma resposta colectiva. Esses mecanismos não estão afinados e a Europa, hoje, pagou por isso, porque alguns Estados que não foram capazes de se controlar e houve outros que não quiseram responder.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Penso que bem andou a Europa ao dar esta resposta. Pela primeira vez, a Europa foi capaz de utilizar os instrumentos que tem para dizer: «vamos olhar para o conjunto e vamos tentar encontra ruma solução». \nMas, na Europa, há necessidade de afinar algumas coisas. É impossível construir algo em conjunto, quando, de um lado, há 27 Estados e, do outro, há 15 Estados, quando existe uma zona euro e uma área Shengen. Tudo isto cria sempre alguma confusão, até aos cidadãos. \nPortanto, enquanto não afinarmos todos estes mecanismos, creio que não vamos conseguir fazer algo. \nMas o primeiro passo já foi dado, ele é importante e é um ponto de partida para que, conjuntamente, possamos chegar a uma conclusão colectiva.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, terminámos o período de declarações políticas. \nVamos, agora, passar à discussão, na generalidade, da proposta de lei n.º 2/XII (1.ª) — Procede à segunda alteração ao Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Sr.ª Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Sr.ª Presidente, a minha interpelação tem a ver com a condução dos trabalhos. \nVamos iniciar, neste momento, um debate sobre uma matéria da maior importância, para o qual, aliás, o Governo pediu urgência e a Assembleia aceitou esse pedido. Ora, sabendo nós que é ao Governo que compete determinar a sua própria representação em cada debate na Assembleia, pensamos que não pode deixar de ser assinalado que, numa matéria desta importância, que significará, se for aprovada, para centenas de milhares de trabalhadores portugueses uma degradação dos seus direitos laborais e o despedimento mais fácil e barato, nem sequer o ministro que tem esta tutela tenha tido a dignidade de vir defender esta proposta de lei à Assembleia da República.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PCP, de Os Verdes e de Deputados do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, considero que o tema tratado pelo Sr. Deputado Bernardino Soares ainda se inscreve dentro da figura da interpelação, pois trata-se de uma questão, apesar de tudo, de forma e de procedimento, e existem mais pedidos de palavra para interpelar a Mesa. \nPara interpelar a Mesa, tem a palavra ao Sr. Deputado Adão Silva, a quem peço que seja breve.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Sr.ª Presidente, é apenas para referir que o Governo tem toda a legitimidade de se fazer representar pelo Sr. Ministro ou pelo Sr. Secretário de Estado do Emprego na discussão desta matéria.\nAchamos que a questão levantada pelo Sr. Deputado Bernardino Soares é uma falsa questão, é uma questão sem substância, é uma questão meramente formal e é uma tentativa de esvaziar uma matéria da maior relevância, que é o debate sobre legislação laboral.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "O Grupo Parlamentar do PSD sente-se muito tranquilo, muito satisfeito pela representação que o Governo nos envia, através do Sr. Secretário de Estado do Emprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para interpelar a Mesa, tem a palavra o Sr. Deputado Nuno Magalhães. Peço-lhe também que seja breve.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Sr.ª Presidente, não só serei breve como farei uma verdadeira interpelação. \nE a interpelação, Sr. Presidente, é no sentido de perguntar a V. Ex.ª, porque, eventualmente, poderei estar um pouco confuso depois da interpelação do Sr. Deputado Bernardino Soares, se é ou não verdade que a composição do Governo se baseia em ministros e secretários de Estado e que o Governo está aqui representado pelo Sr. Secretário de Estado. É ou não verdade que essa representação trará exactamente a mesma dignidade e o mesmo grau de vinculação do Governo que teria se o Sr. Ministro estivesse presente? \nJá agora e de caminho, é ou não verdade, se bem estou informado, que o Sr. Ministro, com mais profundidade, poderá debater esta questão no próximo dia 2 de Agosto em comissão, onde estará presente? \nSe bem estou informado, Sr.ª Presidente, tudo isto é verdade e, se tudo isto for verdade, a interpelação do Sr. Deputado Bernardino Soares não será mais do que lançar uma questão formal numa matéria que é séria e merece ter uma discussão substancial.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para interpelar a Mesa, tem a palavra o Sr. Deputado António Braga.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "Sr.ª Presidente, nos mesmos termos e invocando a mesma figura regimental, gostava de dizer que a forma guarda sempre a substância.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "E, para nós, não seria despiciendo, independentemente das competências que possam estar delegadas no Sr. Secretário de Estado e, naturalmente, de toda a sua legitimidade enquanto membro do Governo, que esta forma guardasse também esta substância, uma vez que é uma matéria muito relevante e seria muito mais interessante e muito mais responsabilizante do ponto de vista político que o Governo se fizesse representar de outro modo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, agora sim, vamos iniciar a discussão, na generalidade, da proposta de lei n.º 2/XII (1.ª) — Procede à segunda alteração ao Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de Fevereiro, estabelecendo um novo sistema de compensação em diversas modalidades de cessação ao contrato de trabalho, aplicável apenas aos novos contratos de trabalho. \nAproveito para cumprimentar o Sr. Secretário de Estado do Emprego e a Sr.ª Secretária de Estado dos Assuntos Parlamentares e da Igualdade e dou a palavra, para apresentar a proposta de lei, ao Sr. Secretário de Estado do Emprego.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E ainda por cima não é do trabalho mas do emprego!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Secretário de Estado do Emprego", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, o mercado de trabalho português vive há muitos anos num paradoxo: por um lado, existe um número crescente de desempregados, que, actualmente, chega perto de 700 000, e, por outro, existe uma situação em que os empregadores têm relutância em contratar, mesmo quando encontram boas oportunidades para expandir as suas actividades. \nA proposta de lei que venho aqui apresentar, a proposta de lei n.º 2/XII (1.ª), visa dar um passo firme no sentido de pôr cobro a este paradoxo. \nTrata-se de uma proposta que afecta unicamente os novos contratos de trabalho e cujos principais aspectos consistem na redução e alinhamento do valor das compensações por cessação de diferentes tipos de contratos para 20 dias por ano de antiguidade, na eliminação do limite mínimo de três meses de compensação e na imposição de um limite máximo de 12 meses de compensação. \nEsta nova legislação prevê ainda a introdução de um fundo, financiado pelos empregadores, com vista a garantir o pagamento de parte destas compensações, cuja regulamentação será apresentada pelo Governo em concertação social até ao final de Agosto. \nA redução das compensações por cessação do contrato de trabalho, que está no cerne desta proposta, visa corrigir os elevados custos de extinção dos contratos de trabalho no País. Como sabem, estes custos são um dos factores que travam a criação de emprego…", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "text": "Risos do PCP.", 
+   "type": "riso"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "É, é!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "… e a formação de novos contratos de trabalho, com grande prejuízo para a produtividade da economia portuguesa.", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Isto é para despedir, não é para contratar!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "É bem sabido que quanto mais se protegem os postos de trabalho já existentes mais se dificulta a criação de novos empregos.", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "É, é!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Promove-se, assim, um mercado de trabalho ossificado, segmentado e iníquo, em que são sobretudo os jovens e os mais vulneráveis que vão ser empurrados para os contratos a termo, para os falsos recibos verdes,…", 
+   "type": "secestado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Demagogo! Demagogo!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "… para o trabalho não declarado, para a emigração ou para o desemprego.", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Demagogo!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Para ultrapassar esta situação, são necessárias medidas firmes, mesmo que, para alguns, menos populares numa primeira apreciação.", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E numa última!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "São necessárias reformas rigorosas, no sentido de aproximar a legislação laboral portuguesa das legislações existentes na maioria dos outros países da União Europeia.", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Isso é aldrabice!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Com efeito, a média das compensações por cessação do contrato de trabalho é muito mais baixa na generalidade dos outros países europeus do que em Portugal. \nEstados-membros como a Alemanha, a França, a Áustria, a Suécia, e, praticamente, todos os outros, têm compensações mais baixas do que Portugal.", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E os salários?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Todos estes países também têm, actualmente, taxas de crescimento económico mais elevadas e taxas de desemprego mais baixas do que Portugal, para não falar, obviamente, nos níveis de bem-estar das suas populações.", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "E os salários?!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Dada a situação particularmente difícil em que se encontra a economia portuguesa, é importante assegurar que a legislação laboral proporcione o aproveitamento das oportunidades de expansão e de criação de emprego resultantes do crescimento da economia europeia e da economia mundial. \nÉ igualmente importante assegurar que a legislação laboral não dificulte a atracção de investimento directo estrangeiro, tão necessário para a diversificação das fontes de financiamento da economia. \nJustifica-se, assim, plenamente o facto de as alterações constantes desta proposta de lei serem caracterizadas como medida estrutural no memorando com a Comissão Europeia, com o Fundo Monetário Internacional e com o Banco Central Europeu. \nAlém disso, estas medidas também constam, como sabem, do acordo tripartido celebrado entre o governo e vários parceiros sociais em Março de 2011. \nEm conclusão, reduzir as compensações dos níveis actuais, tão desfasados da realidade europeia, é, assim, um passo importante para encorajar a criação de emprego e os contratos de trabalho e ultrapassar o paradoxo actual. \nCom esta proposta, o mercado de trabalho português tornar-se-á num espaço mais dinâmico e mais equilibrado e, logo, mais propício à produtividade, à competitividade e à melhoria dos níveis de vida.", 
+   "type": "secestado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, informo que há seis pedidos de esclarecimento e que o Sr. Secretário de Estado responde a grupos de três. \nPara pedir esclarecimentos, tem a palavra o Sr. Deputado João Pinho de Almeida.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Sr.ª Presidente, Sr. Secretário de Estado do Emprego, o Governo traz-nos aqui uma matéria que é, provavelmente, do ponto de vista da economia nacional, uma das mais anacrónicas que temos nessa mesma economia. Temos aqui, claramente, um paradoxo que temos de resolver. \nHá quem entenda que determinado caminho, o caminho da luta de classes, o caminho de todas as garantias e de nenhumas responsabilidades, geraria o bem-estar suficiente para a população portuguesa. \nBom, se outro exemplo não bastasse, os últimos mais de 30 anos provaram que, se esse caminho fosse o suficiente, já tinha resolvido os problemas e nós já tínhamos o bem-estar de outros países.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Foram vocês e o PS que estiveram no governo!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Estão a falar de quem?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Portanto, não adianta achar que é com mais garantias que se consegue, por exemplo, ter melhores salários. Pelo contrário, temos de perceber que tem de haver um equilíbrio na relação laboral entre aquilo que são as garantias, legítimas e essenciais, do trabalhador e aquilo que é a competitividade e a mobilidade que tem de existir no emprego, para que seja também atractivo para quem investe, porque, se não houver quem invista, obviamente, não haverá criação de emprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Despedir é que é bom!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "O Sr. Secretário de Estado perguntou, e muito bem: «Porque será, então, que países que têm legislação muito mais flexível têm economias muito mais competitivas, têm salários mais altos e têm desemprego mais baixo?!»", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Se a solução preconizada pela esquerda mais radical fosse a solução exacta, seriam os países que aplicassem esses modelos que teriam estas condições. Só que acontecem duas coisas: primeiro, já não há, praticamente, países que apliquem esses modelos; segundo, quando eles existiam, isso não correu bem.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Portanto, devemos tirar as devidas lições nesta matéria e os factos são evidentes. \nMesmo com a proposta que o Governo aqui nos traz, Portugal continuará a ser o país da União Europeia em que o despedimento dá ao trabalhador mais garantias. Ou seja, não está sequer em causa a liderança dessa situação, pois manter-nos-emos na mesma. Porém, equilibraremos mais os factores, é um facto. \nPor isso, Sr. Secretário de Estado, as três perguntas que lhe faço em relação a esta matéria são muito curtas. A primeira, relativa à precariedade, é esta: se um empregador puder mais facilmente contratar, em termos definitivos, um trabalhador, contratará ou não contratará? Obviamente que, se tiver melhores condições para contratar em termos definitivos, vai contratá-lo e não manterá uma relação mais precária. \nSobre a questão de facilitar o despedimento, quero dizer que se esta legislação que agora é proposta não se aplica a contratos existentes, então não pode facilitar nenhum despedimento, porque qualquer despedimento que exista não vê aplicada esta lei. \nEm terceiro e último lugar, sobre a criação de emprego, se esta legislação facilita, facilita também a contratação e, ao facilitá-la, pode aumentar o emprego e, de forma alguma, como já disse anteriormente, contribuir para aumentar o desemprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Jorge Machado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Sr.ª Presidente, Sr. Secretário de Estado, é novo nestas andanças, mas seu o discurso já é tão velhinho!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Pois é!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos do PSD e do CDS-PP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Já tiveram lugar sucessivas alterações à legislação laboral e o PS, o PSD e o CDS-PP têm sempre o mesmo discurso: é para combater a precariedade, é para combater o desemprego, é para promover a competitividade e a produtividade.\nPergunto: qual é a realidade concreta depois de sucessivas alterações à legislação laboral? Mais precariedade, mais desemprego, menos produtividade e menos competitividade!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "O Sr. Secretário de Estado referiu, e a bancada do CDS apoiou, que os países com maior rigidez laboral são os menos competitivos. Então França e Espanha, que, de acordo com o índice da OCDE, têm a legislação laboral que mais protege os trabalhadores, onde estão em termos de competitividade? Estão ou não à frente de Portugal?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "E qual é a taxa de desemprego em Espanha?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "O problema da competitividade no nosso País não é o dos direitos dos trabalhadores, Sr. Secretário de Estado.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "O Sr. Secretário de Estado vai, com certeza, conseguir explicar a esta Assembleia da República como é que se consegue criar mais emprego, facilitando os despedimentos! É que o Sr. Ministro das Finanças, ainda esta semana, declarou que, com ou sem esta lei, o desemprego iria aumentar nos próximos tempos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Disse-o perante os banqueiros! Não ouviu?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Sr. Secretário de Estado, temos mais de um milhão de desempregados no nosso país. E que medidas é que o Sr. Secretário de Estado apresenta a esta Assembleia da República? \nApresenta uma medida que visa facilitar e tornar mais barato o despedimento. Em vez de apresentar medidas para reduzir o número de desempregados, a mensagem que transmite à Assembleia da República e ao País é a de dizer «despeçam», «é fácil e barato», «despeçam o mais depressa possível», aumentando com isso o desemprego! \nSr. Secretário de Estado, não podemos deixar de denunciar um facto: o Sr. Secretário de Estado compara uma realidade que não é comparável! Não pode comparar as indemnizações dos trabalhadores portugueses com as dos outros países se não comparar os salários.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Refere o Sr. Secretário de Estado que as nossas indemnizações são das mais altas da Europa. E os salários, Sr. Secretário de Estado?! É ou não verdade que, em França, o salário mínimo é de 1365 €? E que no Luxemburgo é de 1758 €? E que em Espanha é de 748 €? Compare-os com os nossos miseráveis 485 €! \nSr. Secretário de Estado, isso não é sério! Essa comparação não pode ser feita, porque se os trabalhadores portugueses recebem este tipo de salários também as suas indemnizações são muito menos significativas do que para qualquer outro trabalhador da Europa. \nO Sr. Secretário de Estado diz que isto tem a ver com o memorando da troica. Pergunto: o que é que isto tem a ver com a redução da dívida ou com o défice no nosso País? Isto visa, única e exclusivamente, agravar a exploração de quem trabalha. \nNesta semana, em que soubemos que as grandes fortunas do nosso País cresceram de forma significativa,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Uma vergonha!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "… o que o Governo traz a esta Assembleia da República é mais exploração para quem trabalha, é mais pobreza! Isto é inaceitável, Sr. Secretário de Estado!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Deputada Mariana Aiveca.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Sr.ª Presidente, Sr. Secretário de Estado do Emprego, o que nos veio aqui trazer foi um balão de ensaio ou, se quiser, uma espécie de «gato escondido com rabo de fora», dizendo-nos que o embaratecimento das indemnizações dos despedimentos só se aplica para os novos contratos. \nMas o Sr. Secretário de Estado não nos vai fazer crer que no memorando da troica não está lá escrito, exactamente na pág. 22, que o Governo irá apresentar legislação para os novos contratos mas também fazer a respectiva adequação para todos os contratos até ao início de 2012. \nIsso significa que todas as justificações que aqui nos deu, relativas ao emprego ou à criação de emprego, com o embaratecimento dos despedimentos, são falsas! E as justificações que aqui nos deu de despedir quem tem protecção para admitir ou empregar gente, trabalhadores, sem qualquer protecção, são falsas! \nO Sr. Secretário de Estado, com esta lei, não soluciona o problema da dívida e não soluciona o problema da competitividade. Esses foram os problemas constantemente levantados sempre que se alterou a legislação de trabalho, e para pior. \nPortanto, Sr. Secretário de Estado, o que hoje tem de nos dizer é se é verdade que os patrões estão a aplaudir a redução para 10 dias do custo dos despedimentos, ou se isso é invenção dos patrões. \nO Sr. Secretário de Estado tem de nos dizer, claramente, se vão ser 20 dias ou se vão ser 10 dias, porque anda por aí um fundo, eu diria mesmo perdido, tal como o Governo está perdido no meio deste fundo, sem saber ou sem conseguir dizer-nos quem é que paga estes despedimentos…É que nós sabemos que são sempre os trabalhadores a pagar a crise e que serão sempre os trabalhadores a pagar o seu próprio despedimento. \nSr. Secretário de Estado, quero também que nos diga aqui, com muita clareza, se vai, efectivamente, cumprir o memorando da troica, porque, se assim for, isso significa que esta medida não se aplica só em relação aos novos contratos, é para todos! É para os novos agora e é para todos daqui a seis meses! \nÉ essa verdade que, com frontalidade, tem de ter a coragem de dizer às trabalhadoras e aos trabalhadores portugueses.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Secretário de Estado do Emprego.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Sr.ª Presidente e Srs. Deputados, gostaria de começar por responder às perguntas do Sr. Deputado João Almeida, que muito agradeço. \nTrata-se de implementar uma nova abordagem nas análises que fazemos das questões relacionadas com o mercado de trabalho, uma nova abordagem que procura ser caracterizada por um maior pragmatismo, que procura compreender a relação laboral como ela é, ou seja, como um ponto de encontro entre empregadores e empregados, que têm interesses em comum e que procuram promover o crescimento e o desenvolvimento das suas empresas no sentido de aumentar os níveis de produtividade, permitindo assim aumentar os salários. \nO facto de adoptarmos uma abordagem pragmática e não uma abordagem ideológica, baseada em ideias feitas, é um passo extremamente importante na ultrapassagem dos problemas tão sérios que o mercado de trabalho em Portugal enfrenta. \n700 000 desempregados, 700 000 portugueses que emigraram recentemente, 800 000 trabalhadores com contratos a termo, cerca de 100 000 ou mais trabalhadores a trabalhar com falsos recibos verdes é, claramente, indicação de que a situação actual tem de ser ultrapassada, sendo necessário uma abordagem diferente para o País e para o seu mercado de trabalho numa trajectória diferente.", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Agradecendo também a pergunta do Sr. Deputado Jorge Machado, quero dizer-lhe que vai ser implementado um conjunto de alterações importantes à legislação laboral. Trata-se de aspectos que o Governo considera da maior importância para ultrapassar o ciclo de recessão e de estagnação que tem caracterizado os últimos 10 anos. \nComo é sabido, todos os indicadores que procuram analisar a situação do mercado de trabalho em Portugal indicam, sem qualquer margem de dúvidas, que há grandes diferenças em relação à média da União Europeia. E são os países que estão nesta média da União Europeia que, actualmente, recebem os nossos jovens que não encontram emprego em Portugal.", 
+   "type": "secestado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Exactamente!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Esses países é que criam os empregos. Países com níveis de compensação mais baixos e mercados de trabalho mas flexíveis, que promovem a criação de emprego, são os que, em grande medida, dão emprego aos nossos jovens.", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Por último, agradeço também a pergunta da Sr.ª Deputada Mariana Aiveca. \nA Sr.ª Deputada mencionou a questão das próximas reformas. Como tive oportunidade de dizer no meu discurso, trata-se de um primeiro passo no sentido de transformar o mercado de trabalho em Portugal num mercado de trabalho que seja mais flexível, que promova a criação de emprego e que dê possibilidades aos trabalhadores de encontrarem empregos permanentes, estáveis, no sentido de se ultrapassar a precariedade e o desemprego actuais.", 
+   "type": "secestado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Entretanto, assumiu a presidência o Sr. Vice-Presidente Ferro Rodrigues.", 
+   "type": "presidente_troca"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Seguem-se mais três oradores no uso da palavra para pedirem esclarecimentos. \nEm primeiro lugar, tem a palavra a Sr.ª Deputada Clara Marques Mendes.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Clara Marques Mendes", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr. Secretário de Estado, nesta minha primeira intervenção parlamentar quero deixar cumprimentos e desejar felicidades a todos no exercício das suas funções. \nSr. Secretário de Estado do Emprego, deixo três breves palavras, sendo a primeira de saudação pela coragem do Governo em avançar com esta iniciativa. \nÉ que, em matéria de legislação laboral, há sempre três posições: a dos que prometem e que, por falta de coragem, nada fazem: a dos conservadores imobilistas, que são sempre contra a mudança; e a dos que, como este Governo, prometem e cumprem.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Clara Marques Mendes", 
+   "text": "E ainda bem que cumpre, porque esta mudança é essencial para o crescimento, para a competitividade e, sobretudo, é essencial para o emprego. \nUma segunda palavra que aqui quero deixar é de congratulação. Com esta proposta de lei, o Governo dá cumprimento a dois compromissos anteriormente assumidos: o compromisso assumido pelo Estado português com a troica e o compromisso assumido pelo anterior governo com os parceiros sociais em sede de concertação social.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Bem lembrado!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Clara Marques Mendes", 
+   "text": "É bom ver um governo honrar os seus compromissos e cumprir as suas promessas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Clara Marques Mendes", 
+   "text": "É um exercício de seriedade! É um exercício de responsabilidade!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Clara Marques Mendes", 
+   "text": "Por fim, Sr. Secretário de Estado, queria colocar-lhe duas breves questões. \nEm primeiro lugar, gostaria de saber qual a verdadeira razão que leva o Governo a fazer esta mudança. \nSerá esta iniciativa uma obsessão política? Será esta iniciativa uma teimosia ideológica? Ou será que esta medida visa adaptar a nossa legislação às regras europeias, mostrando que a nossa economia fica assim mais moderna e mais competitiva? \nTorna-se fundamental, Sr. Secretário de Estado, esclarecer esta questão e separar a justiça da demagogia. \nA minha última questão prende-se com o fundo de compensações, matéria de grande importância para os trabalhadores e para os empregadores pela garantia que dá aos trabalhadores e pela assunção das responsabilidades por parte dos empregadores. \nO governo anterior — sabemo-lo — não legislou sobre esta matéria. Este Governo teve menos de um mês para o fazer e esse tempo é escasso para tratar de matéria tão sensível e inovadora. O que pergunto é, pois, o seguinte: será que faz sentido esperar pela criação do fundo antes de avançar com esta resposta? \nO Sr. Secretário de Estado dará a sua resposta, mas permita-me que diga que esta medida, tal como é apresentada, mostra-se importante, essencial e positiva. Ela é positiva para o crescimento económico, é essencial para combater o flagelo do desemprego e é importante para incentivar a criação de emprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Miguel Laranjeiro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Sr. Presidente, Sr. Secretário de Estado, este é, certamente, um debate aguardado por muitos portugueses, por todos os trabalhadores portugueses e também pelos parceiros sociais. \nFicámos surpreendidos, Sr. Secretário de Estado, nesta manhã, com as notícias relativas a esta proposta de lei, que referiam a passagem de 30 para 10 dias de indemnização por despedimento. \nComo o Sr. Secretário de Estado sabe, nada disso, relativamente aos 10 dias, consta do Memorando assinado com a troica. E passou toda a manhã sem que o Governo tenha desmentido, que se saiba, esta notícia. \nAssim, no dia em que a Assembleia da República discute a legislação relativa às compensações e indemnizações devidas ao trabalhador, o Governo lança a confusão entre todos os trabalhadores. \nMenos de 24 horas depois da primeira reunião da concertação social, em que o Sr. Primeiro-Ministro anunciou querer ter um relacionamento verdadeiro e transparente com todos os parceiros sociais, o Governo passa por cima de todos os parceiros sociais. \nAquando da discussão do Programa do Governo, o Sr. Primeiro-Ministro falou aqui de verdade e de transparência. Deixe-me dizer-lhe, Sr. Secretário de Estado, que neste processo não está a haver nem verdade nem transparência com os parceiros sociais, com o Parlamento e com os trabalhadores. \nO Sr. Secretário de Estado devia esclarecer hoje esta matéria. \nSegue-se uma segunda ordem de questões. \nEm 22 de Março deste ano, o acordo assinado na concertação social sobre a matéria que está hoje em discussão foi claro: a entrada em vigor, em simultâneo, do fundo de base empresarial destinado à garantia do pagamento, de imediato, de 50% das compensações, ao mesmo tempo que estabelecia os limites aos valores de compensação e as indemnizações devidas. A palavra-chave nesta frase é «simultâneo», simultaneidade, e faz toda a diferença. Foi esta a posição do Partido Socialista e, deixe-me dizer-lhe, é esta a posição do Partido Socialista. É clara a necessidade da existência do fundo que garanta que os trabalhadores não ficam sem a compensação devida, como ocorre, hoje em dia, muitas vezes. Um fundo de base empresarial — foi este o acordo! \nEstão o Governo e a maioria que o suporta disponíveis para que, em sede de discussão na especialidade, em comissão parlamentar, possamos garantir a todos os portugueses que o Acordo Tripartido e o Memorando da troica são cumpridos na sua totalidade e não ficam incompletos? Está o Governo disponível para assegurar a entrada em vigor, em simultâneo, da redução da compensação por despedimento e do fundo que compensará esses trabalhadores?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr. Presidente, Sr. Secretário de Estado do Emprego, de facto, o Governo não perdeu tempo: com uma urgência nunca vista, apresentou-nos hoje uma iniciativa legislativa com vista a alterar as leis laborais. E, num tempo como aquele em que vivemos, seria de esperar que eventuais alterações à legislação laboral viessem representar um instrumento de combate àquele que é o maior problema dos nossos dias, que é o desemprego. Afinal, o que o Governo nos apresenta são medidas que visam facilitar o despedimento e a precariedade de quem trabalha, fomentando, desta forma, mais e mais desemprego e fazendo exactamente o inverso daquilo que seria recomendável. \nSr. Secretário de Estado do Emprego, 30 dias de governo permitem-nos já perceber que a política deste Governo para o emprego acaba por se reduzir à política do despedimento. Facilitar os despedimentos é palavra de ordem deste novo Governo.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Como na sua intervenção o Sr. Secretário de Estado não explicou, fica, desde já, aqui o meu primeiro pedido de esclarecimento: como é que o Governo explica que, tornando o despedimento mais barato, se geram mais postos de trabalho?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "É que ainda não o disse!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Depois, Sr. Secretário de Estado, numa das medidas previstas, o Governo pretende reduzir os actuais 30 dias de retribuição, por cada ano de antiguidade, para 20 dias. Destes 20 dias, a entidade patronal apenas vai pagar 10, já que os outros 10 serão pagos por um fundo de compensação que ninguém sabe muito bem como é constituído e quem o vai financiar. Aliás, não deixa de ser estranho que o Governo, que tanto fala no acordo com a troica, nos apresente a proposta para o corte nas indemnizações, em caso de despedimento, sem nos apresentar, também, a criação desse fundo, como se previa, aliás, no acordo com a troica ou na imposição da troica. \nPor isso, Sr. Secretário de Estado, seria bom que o Governo nos prestasse alguns esclarecimentos relativamente a esse fundo, nomeadamente se o Governo admite a possibilidade de serem os trabalhadores a financiá-lo, se é intenção do Governo colocar os trabalhadores a pagar a indemnização por despedimento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Por fim, Sr. Secretário de Estado, para além da medida que já referi, o Governo pretende ainda eliminar a garantia de pagamento de um mínimo de 3 meses de retribuição e criar um limite máximo de indemnização em caso de despedimento. Ora, esta brutal redução dos direitos dos trabalhadores é completamente estranha aos objectivos que hoje se impõem e que são a criação de emprego, a redução do défice público e a redução da dívida externa.\nPortanto, Sr. Secretário de Estado, explique-nos qual o contributo deste verdadeiro esbulho aos direitos de quem trabalha para combater o défice. É que, se não, Sr. Secretário de Estado, se estas medidas nada têm a ver com o combate ao défice, então, somos forçados a concluir que aquilo que o Governo está a fazer é tão-só e apenas um grande jeito aos patrões.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Peço-lhe para concluir, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Vou terminar, Sr. Presidente. \nAquilo que o Governo está a fazer é a dar uma prenda, um prémio às entidades patronais, e o problema é que não percebemos porquê.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos de Os Verdes e do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Secretário de Estado do Emprego.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Sr. Presidente, Srs. Deputados, começo pelas perguntas do Sr. Deputado José Luís Ferreira, que muito agradeço, desde já pela observação sobre o Governo não perder tempo. Tomo isso como um elogio, pois trabalhámos muito seriamente,…", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "… no sentido de cumprir objectivos muito exigentes num espaço de tempo bastante curto, pelo que agradeço muito as suas palavras. \nO objectivo destas alterações é bastante claro e prende-se com o fomento da criação de emprego. A partir do momento em que os empregadores estão confrontados com indemnizações mais baixas, a criação de emprego passará a ser mais interessante, mais proveitosa, do ponto de vista dos empregadores.", 
+   "type": "secestado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "A situação actual em Portugal, nos moldes em que está actualmente estruturada, desincentiva a criação de emprego. É por isso, como disse há pouco, que os nossos jovens vão procurar emprego noutros países, onde as compensações são mais baixas. Os empregadores, nos outros países, têm maior facilidade em criar emprego, os mercados de trabalho são mais flexíveis, menos ossificados, mais sujeitos a mobilidade, com grandes ganhos de produtividade, que, por sua vez, permitem salários, também eles mais elevados.", 
+   "type": "secestado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Todos ganham a partir do momento em que é possível criar emprego com maior facilidade. Este é o grande objectivo da proposta do Governo: facilitar a criação de emprego e, com isso, combater o desemprego, combater a segmentação.", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Agradeço também as perguntas do Sr. Deputado Miguel Laranjeiro. Em relação às notícias sobre os 30 dias, tenho todo o gosto em esclarecer que a proposta que está hoje em discussão prende-se unicamente com os novos contratos e com uma redução das compensações de 30 dias para 20 dias.", 
+   "type": "secestado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP e do BE.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Ninguém, que tenha, actualmente, um contrato de trabalho, será afectado por esta proposta; o objectivo, como acabei de dizer, é claramente no sentido de facilitar a contratação e é por isso que esta proposta se prende com os novos contratos. \nRelativamente à questão do fundo, quero reafirmar o compromisso do Governo no sentido de promover a entrada em vigor, em simultâneo, do fundo e da alteração das compensações.", 
+   "type": "secestado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Pode ficar expresso na lei!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Mas devo também dizer que, nos termos do Acordo Tripartido, de 22 de Março de 2011, a data da entrada em vigor dessas disposições, incluindo a da criação do próprio fundo, era o final do 1.º trimestre de 2011, ou seja, o objectivo era o de criar o fundo em 9 dias. No entanto, devo dizer que, quando tomei posse…", 
+   "type": "secestado_intervencao"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Sr. Secretário de Estado, terminou o tempo de que dispunha, mas fui informado de que a bancada do PSD lhe cede tempo para responder. Por isso, faça favor de prosseguir.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Pedro Silva Martins", 
+   "speaker": "Pedro Silva Martins", 
+   "text": "Como estava a dizer, quando tomei posse, não consegui encontrar estudos que me auxiliassem no processo de constituição do fundo, que, como com certeza reconhece, é de grande complexidade. \nO Governo tem o compromisso de estruturar o fundo da melhor maneira possível, o que, naturalmente, exige tempo. É por essa razão que o fundo será levado à concertação social até ao final do mês de Agosto. \nPor último, agradeço muito as perguntas da Sr.ª Deputada Clara Marques Mendes. Colocou várias questões, nomeadamente a do fundo, relativamente ao qual, como já tive oportunidade de dizer, o compromisso do Governo é total. O fundo será levado à concertação social até ao final de Agosto e irá permitir um maior nível de garantias, por parte dos trabalhadores, em situação de cessação do contrato de trabalho, ao contrário da situação actual, em que, em alguns casos, nomeadamente através de falências fraudulentas, os trabalhadores não têm direito a essas compensações. Este fundo irá permitir ultrapassar essa situação.", 
+   "type": "secestado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Miguel Laranjeiro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados, Srs. Membros do Governo: \nEstamos a meio deste debate e não posso deixar de registar que o Sr. Secretário de Estado, nas respostas que deu a algumas das questões aqui colocadas, não respondeu às informações que, esta manhã, o próprio Governo colocou na imprensa — e temos de admitir que é assim, a partir do momento em que não as desmente —, no sentido da diminuição da indemnização por cessação do contrato de trabalho de 30 para 10 dias por ano. \nFica aqui registada esta nota e também uma outra: a de que, relativamente ao fundo de compensação, que era uma das garantias da negociação na concertação social, o próprio Partido Socialista, na Comissão de Segurança Social e Trabalho, proporá, aliás, aproveitando a abertura do Governo nesse sentido, já que falou na entrada em vigor, em simultâneo, do fundo e das medidas conexas, a imposição de uma norma que obrigue a que a entrada em vigor do fundo seja simultânea com a de todas as outras medidas inscritas nesta proposta de lei.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Se estão convencidos de que o fundo vai entrar em vigor em simultâneo, então vamos escrever isso na lei. \nAquilo que está implícito deve estar explícito, aquilo que está subentendido nas declarações aqui proferidas hoje pelo Sr. Secretário de Estado deve ser explicitamente colocado na lei. Esta é a proposta do Partido Socialista.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Estamos a discutir uma proposta de lei relativa às alterações ao Código do Trabalho e, como sabem, segundo várias organizações internacionais, desde logo a própria OCDE, que integra os países mais desenvolvidos do mundo, Portugal era apontado como um dos membros com maior inflexibilidade na sua dimensão laboral. Admitindo que o pior que nos poderia acontecer era ignorar essas avaliações, remetendo-nos para uma ausência de reflexão para perceber as causas, mas, sobretudo, para perceber as consequências, foi encontrada uma solução equilibrada,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Mas cortam o valor na mesma, não é?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "… com acordo social, com responsabilização das entidades patronais, através da criação e manutenção de um fundo que garanta sempre o pagamento das indemnizações em caso de despedimento, situação que, como todos sabemos, hoje em dia nem sempre acontece. \nNão estamos isolados no mundo, somos parceiros; não somos imunes ao que nos rodeia e queremos estar entre os mais desenvolvidos. Devemos fazê-lo tendo em conta a nossa realidade, as nossas características, os nossos problemas estruturais, mas não fechando os olhos à mudança. \nSr.ª Presidente, Sr.as e Srs. Deputados: O Partido Socialista tem um compromisso com as medidas que estão inseridas no Memorando de Políticas Económicas e Financeiras, acordado entre o Estado português, o FMI, a União Europeia e o Banco Central Europeu. \nJá dissemos neste Plenário que temos um compromisso com o Memorando, mas o Programa do Governo é do PSD e do CDS-PP e tem elementos muito gravosos no campo laboral. Teremos, aliás, oportunidade de apresentar as nossas posições em próximos debates, mas o programa da direita é o programa da direita. As propostas que aqui apresentaremos, em Plenário, no futuro, e durante a Legislatura, serão sempre propostas que possam ser cumpridas num futuro governo do Partido Socialista.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Voltemos ao diploma em discussão. A proposta de lei começa por lembrar, e bem, o Acordo Tripartido para a Competitividade e Emprego, assinado em 22 de Março último.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Quem é que o promoveu?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Nós acreditamos na concertação social. Acreditamos, quando assumimos responsabilidades governativas, mas também acreditamos, quando temos responsabilidades na oposição. Isto significa coerência e responsabilidade!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Não significa nada disso!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "É por sermos coerentes e responsáveis que defendemos, desde o primeiro momento, a entrada em vigor, em simultâneo, do fundo suportado pelos empregadores para o pagamento das indemnizações e as reduções das compensações por despedimento. Os portugueses não compreenderiam que aceitássemos a redução das compensações e não as garantíssemos por via do fundo, que irá garantir uma protecção acrescida, em comparação com o que acontece actualmente. \nMais: está assumido, no Acordo Tripartido, que o fundo será responsável por metade do pagamento dessas mesmas compensações, pelo que não compreendemos de todo que não esteja expressa, de forma absolutamente clara, nesta proposta de lei, a sua concretização. \nNão pode haver incerteza na implementação do fundo, como não podem subsistir dúvidas quanto a quem o financia — os empregadores —, pois, se, deste debate, ficassem mais interrogações do que certezas, mais hesitações do que convicções, então, algo ia mal e teríamos de retirar conclusões negativas sobre o real posicionamento do Governo, nomeadamente no que diz respeito à concertação social e ao seu relacionamento com todos os parceiros sociais. \nSe este diploma é apenas para produzir efeitos no momento da entrada em vigor do fundo, então que fique expresso, como referi no início desta intervenção.\nQuando abordamos esta matéria, estamos a falar de um contrato social entre duas partes, trabalhadores e empregadores. Trata-se de uma matéria que exige equilíbrio do legislador, que necessita de bom senso e cuidado acrescido e, ao não incluir a entrada em vigor simultânea do fundo, fica em causa esse equilíbrio, que é exigido por todos os portugueses. \nO Primeiro-Ministro, na primeira vez que se dirigiu a este Plenário, falou em verdade e transparência. Bem, chegou a hora de, nesta matéria crucial para manter a confiança no diálogo social, o Governo falar verdade sobre os propósitos e apresentar, com transparência, as suas propostas. \nEsperaríamos que, até ao final deste debate, algumas questões ficassem esclarecidas quanto ao posicionamento do Governo sobre as notícias desta manhã, que anunciavam 10 dias por ano para efeitos de indemnização por despedimento, matéria que não está explícita no Memorando da troica e que, comparando aquilo que é possível comparar na União Europeia, exige estudos sérios, estudos credíveis, e só após isso é que o Governo poderá apresentar qualquer proposta e obter, naturalmente, uma posição da parte do Partido Socialista. \nDe facto, não há no Memorando da troica nada que o indique, não há estudos sérios, não há discussão na concertação social, que acaba de ser ultrapassada...", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Peço-lhe que conclua, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Como é possível o Governo comportar-se desta maneira?! Nós, Partido Socialista, cumpriremos o Memorando da troica, mas não aceitaremos que o Governo aproveite o Memorando para uma cavalgada ideológica contra os trabalhadores.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Também para uma intervenção, tem a palavra a Sr.ª Deputada Mariana Aiveca.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Sr. Presidente, Sr. Secretário de Estado, não respondeu com clareza às questões que lhe coloquei. E não respondeu porque não pode e não quer responder. \nOs senhores sabem que não é facilitando os despedimentos que criam mais emprego; os senhores não estudaram quantos empregos vão criar com esta medida; os senhores sabem que os jovens, em Portugal, vão para outros países não à procura de uma lei que facilita os despedimentos e que reduz a indemnização, mas à procura de espaço para poderem trabalhar, porque, aqui, em Portugal, aquilo que lhes é oferecido é trabalho precário a falsos recibos verdes. \nOs senhores sabem que estas medidas não aumentam a competitividade, nem resolvem o défice, nem resolvem os problemas da dívida. Os senhores sabem que estão a cumprir e a aceitar a _revanche_ patronal, porque é disso que se trata. As notícias de hoje são bem claras em relação ao contentamento que o patronato veio manifestar relativamente, não aos 20, mas aos 10 dias. E volto a perguntar-lhe, Sr. Secretário de Estado: \nsão 20 dias ou são 10? É que o tal fundo, como já lhe disse, anda perdido e ninguém sabe o que vai acontecer. \nOs senhores sabem perfeitamente que medidas estão a tomar. Os senhores sabem que, com estas medidas, e ao retirarem aquele tecto que a lei previa da indemnização mínima de três meses, um trabalhador que, por exemplo, tenha um contrato de dois meses e que, na vigência da actual lei, receberia uma indemnização de 9 dias, com esta lei recebe 3 dias. Os senhores sabem que, estabelecendo um tecto de 12 meses, um trabalhador que tivesse um salário médio de 700 € e 20 anos de serviço numa empresa receberia de indemnização à volta de 14 000 € e que agora vai receber 8400 €. Os senhores sabem que 40% do valor da indemnização vai direitinho para o bolso do patrão. \nPor isso, Sr. Secretário de Estado, meço as minhas palavras para lhe dizer que aquilo que nos veio apresentar aqui hoje, anunciando que daqui a seis meses concluirá o resto — disse isto muito claramente —, só tem um nome: roubo aos trabalhadores! Não cria emprego e é um autêntico roubo.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "A Mesa não regista pedido de esclarecimentos na sequência desta intervenção. \nPara uma intervenção, tem a palavra o Sr. Deputado Artur Rêgo.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Sr. Presidente, Srs. Secretários de Estado, Sr.as e Srs. Deputados: Gostei de ouvir este debate e tenho pena de que a maioria dos portugueses não tenha assistido à AR-TV, como assiste a muitos programas no _prime time_ dos canais comerciais.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Assiste, assiste!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Era bom que assistissem para verem o nível de demagogia a que se pode chegar num debate destes.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Vamo-nos cingir aos factos. \nOs factos são estes: temos uma legislação laboral que consagra, no papel, direitos indemnizatórios aos trabalhadores há mais de 30 anos. Tivemos, em 2008, uma crise internacional que pôs a descoberto, para espanto e conhecimento, pela primeira vez, da maioria dos portugueses, o buraco abissal das contas públicas, o tamanho monstruoso da dívida pública.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Tivemos, em Março, um acordo tripartido, celebrado com os representantes das entidades patronais, as entidades empregadoras e os trabalhadores assinado e promovido pelo anterior governo, que estabelecia a redução dos limites indemnizatórios para um tecto máximo de 22 dias por cessação de contrato de trabalho. \nTivemos, em Maio, um acordo de entendimento, celebrado com as entidades estrangeiras que se prontificaram a constituir um fundo para ajudar a economia portuguesa…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… e para nos ajudar a sair do buraco em que estamos, acordo esse que foi feito e negociado pelo governo do Partido Socialista e ao qual o CDS e também o nosso parceiro de coligação, o PSD, com sentido de Estado e com sentido de responsabilidade, aderiram e assinaram, comprometendo-se a cumpri-lo caso viessem a ser governo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Tivemos, em Junho, eleições, em que CDS e PSD, frontalmente, cristalinamente, disseram aos portugueses: se formos eleitos, vamos tomar todas as medidas necessárias para tirar o País do buraco vergonhoso em que se encontra.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Dissemos aos portugueses: vamos honrar e cumprir escrupulosamente, não a nossa palavra, não a palavra do PS, mas a palavra dada por Portugal às instâncias internacionais que nos ajudaram…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP e do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… e cumprir todas as medidas desse acordo e todas aquelas mais que, mesmo não estando no acordo, se mostrem necessárias para que possamos tirar o País da vergonha e do buraco em que estamos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP e do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E tiraram?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Esse nosso compromisso de honra foi ouvido e, sendo embora impopular o que foi dito cristalinamente por nós, foi aceite e aplaudido pela maioria dos portugueses, que em nós votaram e nos deram a maioria para formar governo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Os portugueses disseram-nos: formem governo e façam! E nós fizemo-lo!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Esta proposta de lei respeita, na íntegra, o Acordo Tripartido celebrado com as entidades patronais e os representantes dos trabalhadores; respeita, na íntegra, o Memorando de Entendimento celebrado com as entidades internacionais…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Já leu o Memorando?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… e, acima de tudo, respeita, honra e dá a palavra à maioria dos portugueses, que votou nesta coligação de Governo. \nDo maior partido da oposição esperamos também esse mesmo sentido de responsabilidade; esperamos do maior partido da oposição que assuma o acordo que ele próprio negociou; esperamos do maior partido da oposição que tenha em conta as razões maiores de Estado subjacentes a este acordo, designadamente que tenha em conta o que o seu governo também disse através da, à data, Ministra do Trabalho e do, à data, Ministro da Economia, ou seja, que esta redução era necessária para dinamizar a economia, para flexibilizar, para criar emprego, para criar postos de trabalho; do maior partido da oposição esperamos que tenha a honradez de não se esconder atrás de subterfúgios,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… como de não ser constituído de imediato o fundo, quando o Governo já anunciou que o vai constituir no mais rápido prazo de tempo possível,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… quando o próprio governo do Partido Socialista se comprometeu, em Março,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Peço-lhe que conclua, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Irei concluir, Sr. Presidente. \nDizia eu que o próprio governo do Partido Socialista comprometeu-se em constituir o fundo em nove dias e, quando deixou o governo, em Junho, não tinha sequer feito os estudos preparatórios para a constituição do mesmo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Portanto, esperemos que o Partido Socialista honre os seus compromissos e tenha sentido de Estado! \nConcluo, Sr. Presidente, dizendo que, acima de tudo, esperemos que o Partido Socialista não alinhe naqueles argumentos menores de dizer — pasme-se! — que a medida proposta pelo Governo para vigorar no futuro, para novos contratos, que ainda se vão formar e que vão flexibilizar o mercado de trabalho e dar emprego a jovens, vai criar desemprego e cessação de contratos que já existem e que são para o passado.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Nós, CDS, apoiamos o Governo, apoiamos a coligação, apoiamos os compromissos assumidos pelos portugueses e com o nosso parceiro de coligação. Esperamos do PS que também assuma os seus compromissos. \nMuito obrigado pela tolerância, Sr. Presidente.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "A Mesa não regista pedido de esclarecimentos na sequência desta intervenção. \nPara uma intervenção, tem a palavra o Sr. Deputado Jorge Machado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Enquanto PSD, CDS e PS atacam quem trabalha, lá fora há quem lute e diga não, bem alto, a este retrocesso nas relações laborais.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "O protesto da CGTP, que decorre às portas da Assembleia da República, além de demonstrar que há quem lute, já constitui uma derrota para o Governo. O Governo quis discutir esta proposta de lei nesta altura de férias, antes de terminar a discussão pública, para não ter contestação por parte dos trabalhadores. O Governo não conseguiu. A luta está na rua. \nCom um conjunto de alterações ao Código do Trabalho, o Governo PSD/CDS-PP, com o apoio do PS, pretende tornar o despedimento mais fácil e barato. Numa altura em que já temos mais de um milhão de desempregados, tornar mais fácil e barato o despedimento — com ou sem fundo — não nos vai transformar num País mais competitivo; vai, sim, agravar o desemprego, as desigualdades e tornar o nosso país mais injusto, tornando os ricos cada vez mais ricos. \nA proposta de lei que hoje se discute, além de reduzir o montante das indemnizações que, em média, eram de 30 dias, para 20 dias, determina que 10 destes 20 dias serão pagos por um fundo cujas características e", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "forma de funcionamento ainda se desconhecem. Podemos, assim, ter a absurda situação de um trabalhador pagar o seu próprio despedimento. \nComo se isso já não fosse grave, o Governo pretende criar um outro limite ao montante das indemnizações. Actualmente, um trabalhador com 30 anos de trabalho numa empresa, recebia, em média, um mês de salário por cada ano. Agora, querem que receba apenas 12 vezes o correspondente a 20 dias de salário. \nUm caso concreto é bem elucidativo do roubo que esta proposta de lei representa: um trabalhador que tinha 30 anos de casa e um salário de 600 € recebia, em caso de despedimento ilícito e caso não optasse pela reintegração na empresa, uma indemnização de cerca de 18 000 €. Com esta proposta de lei, o mesmo trabalhador receberá apenas 4800 €, isto é, tem uma redução superior a 73%. \nImporta também denunciar que bem pode o Governo dizer que estas regras são para os novos contratos. A verdade é que a troica, PSD, CDS e PS assinaram um pacto de submissão que estipula que, até ao final deste ano, se apliquem estas regras a todos os trabalhadores. \nSr. Presidente, Sr.as e Srs. Deputados: Se tivermos em conta que também é intenção deste Governo alterar as regras de reintegração no posto de trabalho, facilmente percebemos que o objectivo é só um: facilitar os despedimentos, torná-los mais baratos, para substituir trabalhadores com direitos por trabalhadores sem direitos. \nÉ a precarização generalizada das relações laborais! São as praças de jorna a voltar em força! É esta a dita competitividade e modernidade, que já cheira mal de tão bafienta que é, que PSD/CDS, com o apoio do PS, querem impor aos trabalhadores portugueses.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Importa aqui denunciar que PS, PSD e CDS são, como diz o nosso povo, «farinha do mesmo saco».", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "É que estas alterações ao Código do Trabalho foram propostas pelo governo do PS em sede de concertação social, onde apenas a CGTP se opôs, e agora, depois das eleições, depois da mudança que tanto PSD e CDS-PP clamam para si, o que vemos é estes partidos a concretizar aquilo que o PS iniciou.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, peço-lhe que conclua.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Concluo, Sr. Presidente, dizendo que o Governo pode ter aqui, na Assembleia da República, um grande número de Deputados que não disseram ao povo nas eleições que iam roubar metade do subsídio de Natal ou cortar nas indemnizações. Mas fiquem sabendo que houve maiorias absolutas neste Parlamento que caíram com a luta dos trabalhadores! \nA luta dos trabalhadores, as vozes que se ouvem lá fora podem e vão travar esta ofensiva! Os trabalhadores podem contar com o PCP na luta pela construção de uma sociedade mais justa!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Adriano Rafael Moreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "Sr. Presidente, Sr.ª Secretária de Estado dos Assuntos Parlamentares e da Igualdade, Sr. Secretário de Estado do Emprego, Srs. Deputados: 700 000 desempregados; 370 000 desempregados à procura emprego há mais de 1 ano; 46,5% dos desempregados têm menos de 35 anos; uma taxa de desemprego dos jovens de 27,8%. \nEsta é a grave realidade que tem de ser combatida com urgência e com sucesso,… *Vozes do PSD* — Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "… realidade que o Partido Socialista ignorou nas intervenções que fez hoje, nesta Câmara.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Bem dito! Bem dito!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "Srs. Deputados do PS, tão importante ou mais do que assumirem a responsabilidade na partilha de algumas das soluções, facto que VV. Ex.as aqui invocaram em virtude de terem assinado o acordo tripartido, o Memorando de Entendimento, é não ignorarem a responsabilidade exclusiva pela triste, grave e difícil realidade com que milhões de portugueses se debatem hoje em dia!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "Srs. Deputados, sem prejuízo de novas políticas de crescimento económico que visem combater o desemprego a montante, através do relançamento da competitividade da economia nacional, urge tomar medidas que permitam lutar contra o flagelo do desemprego e criar novos postos de trabalho. \nA gravidade da situação actual não permite que se aguarde pela retoma do crescimento económico, impondo uma actuação imediata. \nO Governo encara a legislação laboral como um instrumento que deve ser utilizado para a criação de emprego, e não apenas como um quadro legal estático de regulamentação das relações de trabalho. \nNeste sentido, o Governo aposta num novo paradigma de abordagem e combate ao desemprego, através de um sistema dual que salvaguarda todos os contratos de trabalho existentes. É uma aposta na inversão da tendência de crescimento permanente do desemprego e dos falsos recibos verdes. \nSe, quando falamos de salários e de níveis de emprego, recorremos às comparações com a média europeia, o mesmo deve acontecer com as compensações por cessação do contrato de trabalho. Ora, a proposta hoje em debate caminha no sentido do alinhamento do valor das compensações por cessação dos contratos de trabalho com a média europeia. \nÉ uma medida que contribui para a melhoria da competitividade das empresas nacionais, principalmente as exportadoras, tendo sido acolhida em sede de concertação social pelos parceiros sociais e consta expressamente do acordo tripartido assinado em Março deste ano. \nFoi, então, defendido pelos parceiros que tal medida contribui para uma mais rápida modernização e sustentabilidade futura das empresas, constituindo um estímulo à criação de novos empregos. \nA importância da alteração legislativa hoje em debate foi também reconhecida em sede de Memorando de Entendimento sobre a política económica portuguesa e considerada essencial para a protecção do emprego e promoção da actividade económica.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "Constando do Memorando de Entendimento, deve a redução das compensações ser debatida e aprovada com urgência. Arrastar este processo seria adiar a contratação de muitos trabalhadores, cujas futuras entidades patronais ficariam a aguardar a publicação do novo regime legal para celebrarem novos contratos de trabalho.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Bem lembrado! Bem lembrado!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "Sr. Presidente, Srs. Deputados: As atenções do Governo no domínio do emprego vão para além das alterações da legislação laboral. \nFoi atempadamente anunciada, e prevê-se para breve, a aprovação de uma nova geração de políticas activas de emprego. Estas políticas serão sustentadas em programas que visem criar oportunidades de emprego, nomeadamente através da obtenção de novas competências profissionais.\nO foco das atenções estará, em primeira linha, em fomentar a obtenção de emprego por parte dos 700 000 desempregados, cuja reinserção socioprofissional se pretende que seja a mais rápida possível.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "Como sempre, o diálogo com os parceiros sociais será privilegiado, procurando-se o envolvimento de todas as partes num amplo processo consensual que permita relançar a economia nacional. \nSr. Presidente, Srs. Deputados: O momento não é de hesitações nem de tibiezas. O estado de emergência social, económica e financeira impõe medidas rápidas e eficazes. Da eficácia das medidas do Governo depende o bem-estar económico e social de milhões de portugueses. \nA aposta num sistema dual que se concentra, no imediato, nos problemas de todos aqueles que procuram emprego, excluindo do seu âmbito de aplicação todos os contratos de trabalho actuais, é a resposta urgente do Governo à grave situação do mercado laboral. \nManter os actuais postos de trabalho nas condições negociais respectivas e criar novos ao abrigo da nova legislação, e fomentados por esta, é a lógica do sistema dual defendido pelo Governo. \nSrs. Deputados, promover a sustentabilidade do emprego e fomentar a criação de novos postos de trabalho através de um conjunto de políticas, que vai desde a alteração das leis laborais à criação de novas políticas activas de emprego, passando pela reforma dos sistemas de segurança no desemprego, faz parte da resposta do Governo aos apelos dos portugueses para que encontre rapidamente um rumo de progresso para Portugal.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ferro Rodrigues", 
+   "speaker": "Presidente", 
+   "text": "Não havendo mais oradores inscritos, dou por concluída a discussão, na generalidade, da proposta de lei n.º 2/XII (1.ª). \nSrs. Deputados, a próxima sessão plenária realizar-se-á amanhã, sexta-feira, às 10 horas, tendo como ordem do dia as eleições das delegações permanentes da Assembleia da República para os seguintes organismos internacionais: Assembleia Parlamentar da Organização para a Segurança e Cooperação na Europa (APOSCE), Assembleia Parlamentar da NATO (APNATO), Assembleia Parlamentar do Conselho da Europa (APCE), Assembleia Parlamentar do Mediterrâneo (APM), Assembleia Parlamentar Euro-Mediterrânica (APEM), Assembleia Parlamentar da Comunidade dos Países de Língua Portuguesa (AP-CPLP), Fórum Parlamentar Ibero-Americano (FPIA) e União Interparlamentar (UIP). \nEm seguida, teremos um debate quinzenal com o Primeiro-Ministro, ao abrigo da alínea _a_) do n.º 2 do artigo 224.º do Regimento, sobre os trinta dias do Programa do Governo. \nNo final do debate, terão lugar votações regimentais \nSr.as e Srs. Deputados, está encerrada a sessão.", 
+   "type": "presidente_encerrada"
+  }, 
+  {
+   "text": "Eram 17 horas e 28 minutos.", 
+   "type": "hora"
+  }
+ ], 
+ "president": "", 
+ "secretaries": [], 
+ "session-date": "28-07-2011", 
+ "time_end": null, 
+ "time_start": null
+}

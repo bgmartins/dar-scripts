@@ -180,7 +180,8 @@ def parse_non_mp_statement(e):
             elif e.speaker.startswith('Primeiro'):
                 # apenas mencionado o cargo, vamos adicionar o nome
                 e.party = e.speaker
-                e.speaker = people[e.speaker]
+                try: e.speaker = people[e.speaker]
+                except: e.speaker = e.speaker
             else:
                 print 'Intervenção de primeiro-ministro não identificada!'
         elif e.type in MINISTER_STATEMENTS + (MINISTER_ASIDE,):
@@ -190,7 +191,8 @@ def parse_non_mp_statement(e):
             elif e.speaker.startswith('Ministr'):
                 # apenas mencionado o cargo, vamos adicionar o nome
                 e.party = e.speaker
-                e.speaker = people[e.speaker]
+                try: e.speaker = people[e.speaker]
+                except: e.speaker = e.speaker
             else:
                 print '  Intervenção de ministro não identificada!'
                 print '    speaker:' + e.speaker
@@ -211,7 +213,8 @@ def parse_non_mp_statement(e):
                     print '- %s (%s)' % (e.speaker, str(e.party))
             else:
                 # apenas mencionado o cargo, vamos adicionar o nome
-                e.speaker = people[e.speaker]
+                try: e.speaker = people[e.speaker]
+                except: e.speaker = e.speaker
                 e.party = e.speaker
         elif e.type in PR_STATEMENTS + (PR_ASIDE,):
             if e.party:

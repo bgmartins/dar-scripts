@@ -42,7 +42,7 @@ cp ../../scripts/dar2txt/*.py .
 ## Descarregar dados da legislatura i, sessao j e numero k
 for i in 12; do
 for j in 1; do
-for k in 100; do
+for k in `seq 100`; do
  python dardownloader.py $i $j $k
 done
 done
@@ -55,6 +55,8 @@ mkdir -p txt
 mkdir -p json
 cd pdf
 for file in *.pdf; do
+# pdfsandwich -lang por ${file}
+# mv *_ocr.pdf ${file}
  cd ..
  python pdf2xml.py -t xml pdf/${file} > txt/${file}.xml
  python xml2txt.py txt/${file}.xml txt/${file}.tmp
