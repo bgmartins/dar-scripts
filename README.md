@@ -23,7 +23,7 @@ dar2txt
 Programas para conversão dos PDFs do DAR, obtidos no site do Parlamento, para os formatos texto e JSON.
 Este é um conjunto bastante complexo de ferramentas que vão executando várias conversões:
 
-* OCR desde PDFs com a ferramenta [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
+* OCR desde PDFs com a ferramenta [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)
 * PDF para XML com o pdfminer
 * XML para texto
 * pós-processamento e normalização do texto
