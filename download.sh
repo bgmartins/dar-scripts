@@ -55,8 +55,8 @@ mkdir -p txt
 mkdir -p json
 cd pdf
 for file in *.pdf; do
-# pdfsandwich -lang por ${file}
-# mv *_ocr.pdf ${file}
+ ocrmypdf --skip-text ${file} ${file}.tmp
+ mv ${file}.tmp ${file}
  cd ..
  python pdf2xml.py -t xml pdf/${file} > txt/${file}.xml
  python xml2txt.py txt/${file}.xml txt/${file}.tmp
