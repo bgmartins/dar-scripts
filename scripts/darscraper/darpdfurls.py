@@ -3,31 +3,12 @@
 import sys
 import binascii
 
-BASE_URL_TEMPLATE = u'http://app.parlamento.pt/darpages/dardoc.aspx?doc=%s&nome=%s'
-
-URL_TEMPLATES = {
-        12: u'http://arnet/sites/XIILeg/DARI/DARIArquivo/%d.ª%%20Sessão%%20Legislativa/DAR-I-%03d.pdf',
-        11: u'http://arnet/sites/XILEG/DARI/DARIArquivo/%dª%%20Sessão%%20Legislativa/DAR-I-%03d.pdf',
-        10: u'http://arnet/sites/XLEG/DARI/DARIArquivo/%dª%%20Sessão%%20Legislativa/DARI%03d.pdf',
-        9:  u'http://arnet/sites/IXLEG/DARI/DARIArquivo/%d.ª%%20Sessão%%20Legislativa/DARI%03d.pdf',
-        8:  u'http://arnet/sites/VIIILEG/DARI/DARIArquivo/%d.ª%%20Sessão%%20Legislativa/DARI%03d.pdf',
-        7:  u'http://arnet/sites/VIILEG/DARI/DARIArquivo/%d.ª%%20Sessão%%20Legislativa/DAR%03d.pdf',
-        }
-
 def encode_url(leg, sess, number):
     leg = int(leg)
     sess = int(sess)
     number = int(number)
-    internal_url = URL_TEMPLATES[leg] % (sess, number)
-    if leg == 12 and sess == 1:
-        internal_url = internal_url.replace('.', '', 1)
-    #print internal_url
-    import base64
-    binstring = base64.b64encode(internal_url.encode('utf8'))
-    hexstring = binascii.hexlify(binstring)
-    name = 'DAR-I-%03d.pdf' % int(number)
-    url = BASE_URL_TEMPLATE % (hexstring, name)
-    # caso especial para leg 12 e sess 1, tiramos o ponto de 1.ª para 1ª
+    internal_url = "http://debates.parlamento.pt/pagina/export?exportType=pdf&exportar=Exportar&exportControl=documentoCompleto&periodo=r3&publicacao=dar&serie=01&legis=%02d&sessao=%02d&numero=%03d"
+    url = internal_url % (leg , sess, number)
     return url
 
 def decode_url(url):

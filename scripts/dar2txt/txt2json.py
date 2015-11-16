@@ -228,7 +228,8 @@ def parse_non_mp_statement(e):
             else:
                 # apenas mencionado o cargo, vamos adicionar o nome
                 e.party = e.speaker
-                e.speaker = people[e.speaker]
+                try: e.speaker = people[e.speaker]
+                except: e.speaker = e.speaker
 
 def parse_session_date(entry):
     parts = entry.text.strip().split(' ')
@@ -522,7 +523,7 @@ if __name__ == "__main__":
             print "Entrada sem tipo!"
             print e.speaker
             print e.party
-            print e.text
+            print e.text.encode('utf-8')
             print e.type
 
     import codecs
