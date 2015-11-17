@@ -1,0 +1,1490 @@
+{
+ "entries": [
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Eram 15 horas e 10 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai fazer o favor de ler o expediente.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, deram entrada na Mesa, e foram admitidas pela Sr.ª Presidente, as seguintes iniciativas legislativas: projetos de lei n.os 226/XII (1.ª) — Aprova a lei de segurança interna (PCP), que baixa à 1.ª Comissão, 227/XII (1.ª) — Estabelece um novo regime de atribuição de bolsas de estudo a estudantes do ensino superior (BE), que baixa à 8.ª Comissão, em conexão com a 10.ª Comissão, 228/XII (1.ª) — Regime jurídico da partilha de dados informáticos (PCP), que baixa à 8.ª Comissão, em conexão com a 1.ª Comissão, 229/XII (1.ª) — Procede à quarta alteração à Lei n.º 53-F/2006, de 29 de dezembro, que aprova o regime jurídico do setor empresarial local (BE), que baixa à 11.ª Comissão, em conexão com a 5.ª Comissão, 230/XII (1.ª) — Sétima alteração à Lei das Comunicações Eletrónicas (Lei n.º 5/2004, de 10 de fevereiro), estabelecendo que a TMDP passa a ser paga diretamente pelas operadoras de comunicações eletrónicas (BE), que baixa à 6.ª Comissão, em conexão com a 11.ª Comissão, e 231/XII (1.ª) — Revoga as USF de modelo C [Primeira alteração ao Decreto-Lei n.º 298/2007, de 22 de agosto, que estabelece o regime jurídico da organização e do funcionamento das unidades de saúde familiar (USF) e o regime de incentivos a atribuir a todos os elementos que as constituem, bem como a remuneração a atribuir aos elementos que integrem as USF de modelo B] (PCP), que baixa à 9.ª Comissão; e projetos de resolução n.os 313/XII (1.ª) — Recomenda ao Governo que regulamente os fundos de emergência dos serviços de ação social das instituições de ensino superior (BE), que baixa à 8.ª Comissão, 314/XII (1.ª) — Recomenda ao Governo que promova medidas de emergência nos apoios concedidos aos estudantes no ensino superior (BE), que baixa à 8.ª Comissão, 317/XII (1.ª) — Garanta às crianças e jovens com adequações curriculares a realização do exame ao nível de escola, não aplicando a obrigatoriedade de realização do exame nacional (PCP), que baixa à 8.ª Comissão, 318/XII (1.ª) — Recomenda ao Governo a adoção de medidas para baixar a fatura da eletricidade e do gás e aumentar a competitividade da economia (PS), que baixa à 6.ª Comissão, 319/XII (1.ª) — Abolição de portagens na Via do Infante (PCP), que baixa à 6.ª Comissão, e 320/XII (1.ª) — No Dia da Europa, recomenda um conjunto de medidas a adotar pelo Governo, pela Assembleia da República e pelas instituições comunitárias (PSD), que baixa à 4.ª Comissão.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a ordem do dia de hoje é uma marcação do PSD, concretamente um agendamento potestativo, ao abrigo da alínea _b_) do n.º 3 do artigo 64.º do Regimento, para realização de um debate sobre política europeia. \nComo consta do formato deste debate, para a intervenção de abertura, tem a palavra o Sr. Deputado Luís Montenegro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Assinala-se hoje o Dia da Europa. \nSessenta e dois anos depois da Declaração de Schuman, a Europa mantém intacto o desígnio de se constituir como um espaço de paz, de solidariedade e de prosperidade. A construção desse espaço é, por natureza, um trabalho sempre inacabado. É um trabalho que, a cada obstáculo que é vencido, acrescenta sempre novos desafios e novos objetivos. E é um trabalho de diálogo permanente, de concertação permanente, de consensos difíceis e muitas vezes demorados. \nMas hoje, em maio de 2012, os povos da Europa, cientes de alguns erros e omissões próprios de um percurso tão longo e complexo, não devem arrepender-se dos caminhos trilhados e dos contágios positivos que a realidade europeia suscitou nos Estados-membros,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… o principal dos quais foi, sem dúvida, o processo de implantação e aprofundamento de regimes políticos democráticos, condição essencial de adesão à União Europeia, e princípios de organização política e social, de que não prescindimos nunca.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "O facto de hoje convivermos num espaço composto por 27 democracias e darmos isto como algo tão normal não deve inibir-nos de olhar para trás e verificar que ainda há poucas décadas isto era uma miragem.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Teresa Leal Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Olhemos, então, para a Europa de maio de 1950 e percebamos o que os europeus foram capazes de realizar nestes 62 anos. \nSr.ª Presidente, Sr.as e Srs. Deputados: A construção europeia, no quadro do mercado único e da união económica e monetária, enfrenta hoje novos desafios de grande complexidade que exigem dos Estados e dos seus dirigentes políticos, elevado sentido de responsabilidade.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Se para a democratização da Europa os povos europeus se contagiaram de forma positiva, no aprofundamento da integração política e económica e na dinamização da união monetária, os desequilíbrios financeiros, de competitividade e de crescimento de uns afetam, inelutável e negativamente, a vida dos outros.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Por isso, o tratado orçamental subscrito por 25 Estados-membros é tão relevante e decisivo para responder e prevenir crises como aquela que atravessamos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Como dissemos aquando da sua discussão, este Tratado representa a nossa recusa de repetir os erros do passado. Erros que, no caso de Portugal, nos forçaram, nos últimos 35 anos, a pedir ajuda externa por três vezes. Ajuda, essa, sem a qual não conseguiríamos preservar o nosso Estado social e sem a qual não conseguiríamos recuperar a economia para voltar a crescer.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Quando muitos desdenham da regra de ouro ou quando outros não lhe querem conferir, de forma clara e inequívoca, a estabilidade e a durabilidade que a sua natureza estrutural comporta, o que fazem é desvalorizar a solidariedade entre os Estados e, dentro destes, a solidariedade entre gerações.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Srs. Deputados, é verdade que a Europa e Portugal precisam de mais crescimento económico e mais emprego. Mas também é verdade que abrir um novo ciclo de crescimento sustentável e duradouro exige rigor e disciplina orçamental. E, a um País que está sob assistência, exige também alguma paciência, alguma persistência, alguma resistência e muita, muita responsabilidade.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Como disse o Primeiro-Ministro, e passo a citar: «Fomos obrigados a fazer, sem contemplações, o diagnóstico dos nossos males coletivos e a indicar a terapêutica possível. Uma terapêutica de choque, não diferente, aliás, da que estão a aplicar outros países da Europa bem mais ricos do que nós. (…) Anunciámos medidas de rigor e dissemos em que consistia a política de austeridade, dura, mas necessária, (…). Reconheço que a situação é difícil para todos e que para alguns, principalmente nas zonas urbanas na periferia das grandes cidades, se tornou mesmo muito difícil, duríssima. Ninguém o sente mais do que eu, que todos os dias apareço responsabilizado mesmo por aquilo de que humanamente não é legítimo nem sensato responsabilizarem-me. Reconheço que há motivos de descontentamento, particularmente entre a população mais desfavorecida. Mas atente-se nas causas dessa situação e haja um pouco de paciência e de confiança no trabalho que está a ser feito. Dê-se tempo ao tempo e jogue-se na estabilidade e no trabalho — não na agitação permanente, na perturbação e no caos —, se queremos encontrar uma via de saída consensual e democrática para os problemas reais e estruturais (…)» do País. \nSr.as Deputadas e Srs. Deputados, em especial os do Partido Socialista: Concordam ou não concordam com o Primeiro-Ministro? Concordam ou não concordam com este apelo à paciência e à confiança? \nConcordam ou não concordam com esta denúncia daqueles que, com oportunismo, querem agitar irresponsavelmente a população e, afinal, não ajudam?! \nSr.as Deputadas e Srs. Deputados, em especial os do Partido Socialista: É muito estranho que não concordem, é mesmo muito estranho, porque quem disse isso, em 31 de março de 1984, foi o Primeiro-Ministro Mário Soares, no dia em que um Governo PS/PSD cumpria um ano de mandato e implementava um plano de emergência para enfrentar, com a ajuda externa, a crise financeira que Portugal vivia.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Srs. Deputados, nós concordámos, há 28 anos, com esse Primeiro-Ministro, apesar de ele ser socialista. E os senhores? Não consideram justo que este Governo e este Primeiro-Ministro possam fazer, a bem dos portugueses e com a sua compreensão, aquilo que, necessariamente, tem de ser feito?! \nSrs. Deputados, os melhores programas de crescimento económico e de criação de emprego que, hoje, temos de desenvolver são as reformas estruturais. \nComo dizia já o Dr. Mário Soares, em 1984, temos de equilibrar as contas e reformar estruturalmente o País. Reformar o Estado e os sistemas públicos — é isto que garante o Estado social.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Reformar a justiça, a relação entre a Administração, os cidadãos e as empresas é o único caminho que garante o desenvolvimento sustentado. \nAumentar a dívida e o défice não é a solução, Srs. Deputados. \nFoi por isso que, tal como prometemos aquando do debate do tratado orçamental e da discussão de um projeto de resolução do Partido Socialista, aqui viemos apresentar também as nossas propostas. Decidimos promover este debate, com um duplo objetivo. \nEm primeiro lugar, para fazermos a apresentação das nossas propostas, com vista a que as políticas europeias possam, cada vez mais, seguir um modelo gerador de emprego e de crescimento duradouro e estrutural.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Teresa Leal Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Em segundo lugar, para que o Parlamento se possa constituir também como uma fonte de consenso abrangente, que integre, nomeadamente, aqueles que, no passado, sempre convergiram connosco nesta matéria.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Teresa Leal Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "O conjunto de sugestões e recomendações que apresentamos neste debate fica agora aberto a receber contributos de todos, para que possa ser melhorado e enriquecido. \nNesse sentido, não o vamos sujeitar a votação, como era nossa prerrogativa, no final do debate, vamos, antes, propor que, nas próximas duas semanas, possa ser alvo de uma discussão profunda, no âmbito da Comissão de Assuntos Europeus, e possa aí recolher os contributos de todos aqueles que querem, efetivamente, contribuir para o processo de construção europeia.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "A vitória de Hollande teve algum reflexo nisto!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Ao contrário de outros Srs. Deputados, não vimos a este debate impor posições nem dizemos a ninguém: «ou aceitam o que propomos, como propomos e quando propomos, ou não há diálogo»!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Quem age ou agia assim pode colocar a cara que quiser, pode usar as expressões verbais que quiser, mas, ao agir assim, mais não está do que a esconder, a ocultar o seu verdadeiro desejo: o desejo de rutura, de falta de compromisso e de irresponsabilidade. \nSrs. Deputados e Sr.as Deputadas: Para terminar, vamos ter oportunidade de, num futuro próximo, debater um projeto de resolução do PSD sobre o comércio internacional, o comércio internacional justo, e a revisão das pautas aduaneiras, no seio da Organização Mundial do Comércio. Trata-se também, a nosso ver, de uma matéria crucial e relevante não só para Portugal mas para a agenda de crescimento da Europa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Vejamos as previsões do Fundo Monetário Internacional (FMI) como ponto de partida e de análise. \nEm 2012, a zona euro terá uma retração de 0,3% e, em 2013, crescerá 0,9%. Portugal terá, com estas projeções, uma retração, em 2012, de 3,3% e um crescimento, em 2013, de 0,3%. \nA China, Srs. Deputados, crescerá, ainda segundo estas projeções do FMI, 8,2%, em 2012, e 8,8%, em 2013. A Índia crescerá 6,9%, em 2012, e 7,3%, em 2013. O Brasil crescerá 3%, em 2012, e 4,1%, em 2013. \nSr.as e Srs. Deputados, isto que dizer que o nível de crescimento da Europa será, previsivelmente, lento e muito menos acentuado do que o de outros blocos comerciais. \nÉ, pois, Sr.as e Srs. Deputados, chegada a altura de a Europa, ao nível da Organização Mundial do Comércio, onde foi sempre solidária com vista a ajudar do ponto de vista social e económico outras sociedades, não se inibir de, face à situação atual e à que se prevê para os próximos anos, lançar a discussão da revisão das pautas aduaneiras vigentes.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "As nossas empresas bem sabem das dificuldades que hoje se lhes colocam quando querem entrar em novos mercados. \nSabendo nós que na Europa não vamos ter um crescimento tão acentuado que possa absorver a capacidade exportadora das nossas empresas, esta é uma batalha que também queremos, aqui, lançar para o debate. Uma batalha que é de Portugal mas que é seguramente também, e muito, da Europa, da Europa que quer crescer, mas que o quer fazer de uma forma sustentada e estrutural, de uma forma que nunca mais volte a pôr em causa, como acontece nos dias de hoje, o Estado social que tanto demorou a construir em Portugal!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Luís Montenegro, inscreveram-se, para pedir esclarecimentos, os Srs. Deputados Carlos Zorrinho, pelo PS, Honório Novo, pelo PCP, Luís Fazenda, pelo BE, e José Luís Ferreira, por Os Verdes. \nO Sr. Deputado Luís Montenegro informou a Mesa que pretende responder aos quatro pedidos de esclarecimento em conjunto. \nTem a palavra, em primeiro lugar, o Sr. Deputado Carlos Zorrinho.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Carlos Zorrinho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Luís Montenegro, queria começar por saudar o facto de o seu grupo parlamentar ter escolhido agendar um debate sobre política europeia para celebrarmos o Dia da Europa na Assembleia da República. \nA Europa que hoje, aqui, celebramos não é a Europa da continuidade, não é uma Europa amarrada à austeridade que flagela as suas populações, que destrói o humanismo e que põe mesmo em causa a democracia. A Europa que hoje, aqui, celebramos é a Europa da esperança. \nPor isso, Sr. Deputado, queria dizer-lhe que este é para todos nós, Deputados desta Assembleia, o momento da verdade, o momento em que já não bastam palavras e em que os atos são fundamentais. \nComo sabe, Sr. Deputado, o PSD chumbou o projeto de resolução do Partido Socialista, que continha uma resolução substantiva para criar as ferramentas que a União Europeia precisa a fim de poder crescer e desenvolver-se. \nQuero dizer que a nossa expetativa era a de que o PSD fizesse o que tem feito noutras circunstâncias, embora não seja muito correto, ou seja, que agora fosse reagendada a nossa proposta, mas com a vossa chancela. Não seria um comportamento muito adequado, mas ficaríamos mais contentes. Contudo, agendaram uma proposta meramente semântica, na medida em que não tem qualquer resposta para o financiamento das empresas — sabemos que, hoje, esse é um problema crítico da nossa economia —, não tem qualquer proposta para que possam existir _project bonds_ que ajudem a financiar grandes projetos na área das energias verdes, da indústria verde, das comunicações, do mundo digital (por exemplo, aquilo que há pouco o Primeiro-Ministro anunciava, em conjunto com o Primeiro-Ministro espanhol, como grandes projetos que vão precisar desse financiamento), não tem qualquer resposta para os desempregados, para as famílias fortemente asfixiadas. \nPor isso, Sr. Deputado, o vosso projeto de resolução, tal como está, é uma mistificação, é um faz-de-conta. \nPorém, quero assinalar aquilo que o Sr. Deputado aqui disse: a sua abertura para podermos passar desse faz-de-conta, dessa mistificação, a alguma coisa de concreto. \nO Partido Socialista voltará a agendar, brevemente, um projeto de resolução com políticas concretas para serem incluídas num ato adicional ao tratado orçamental. Se o PSD, nessa altura, votar a favor desse projeto, darei os parabéns e direi que chegou tarde, que chegou à última «carruagem» do crescimento, mas chegou. \nSe o PSD votar contra esse projeto, isso só comprovará que continuam amarrados à paixão pela austeridade.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Honório Novo.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "Sr.ª Presidente, Sr. Deputado Luís Montenegro, o agendamento potestativo do projeto de resolução que os senhores apresentam hoje é, para nós, uma verdadeira manobra de diversão. \nTem como objetivo central desviar as atenções daquilo que foi, e é, essencial nos últimos dias: desviar as atenções do pacto orçamental que os senhores, com os votos do CDS e do PS, aprovaram aqui, no dia 13 de abril.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "Por isso, Sr. Deputado Luís Montenegro, as perguntas que vou fazer-lhe tanto poderiam ser dirigidas a si como a um Deputado do CDS, ao Dr. Paulo Portas, ao Dr. Passos Coelho ou, até, ao Dr. António José Seguro, se ele estivesse aqui, e nenhum dos três está aqui, hoje.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Só um é que tem cá lugar!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "E as perguntas resumem-se ao seguinte conjunto de interrogações: por que é que aprovaram o tratado orçamental? Por que é que insistiram tanto? Por que é que quiseram que Portugal fosse o primeiro a aprovar este tratado de austeridade e de submissão do nosso País? Por que é que insistiram, quando há apenas três semanas era claro que este pacto orçamental poderia nunca ver a luz do dia, poderia nunca vir a ser ratificado?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Exatamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "Sr. Deputado, há duas ou três semanas, já toda a gente sabia que a Irlanda ia referendar o pacto, a Alemanha já dizia, nessa altura, que ia adiar a ratificação e, hoje, o Parlamento alemão decidiu adiar a ratificação do famigerado pacto orçamental. Há duas ou três semanas eram claros e, hoje, são ainda mais claros os sinais alargados e generalizados na Europa decorrentes das votações expressas de povos europeus contra esta política de austeridade que está por detrás deste pacto orçamental! \nPortanto, a pergunta que lhe coloco é esta: afinal, que vantagens é que Portugal teve em ser o primeiro a aprovar o tratado orçamental? Os senhores (PS, PSD e CDS) ainda não se aperceberam que, ao fazerem figuras de bons alunos à boa moda da «era cavaquista», estão, no fundo, a aceitar condições inaceitáveis de submissão do País a interesses estrangeiros?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Fazenda.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Sr.ª Presidente, Sr. Deputado Luís Montenegro, ainda ontem, o Grupo Parlamentar do Bloco de Esquerda teve ocasião de apelar ao Sr. Presidente da República para que, depois da aprovação do tratado orçamental aqui, na Assembleia, não proceda ao mecanismo de ratificação a que constitucionalmente estaria vinculado. Por uma razão muito óbvia: para corrigir a precipitação da maioria e do Partido Socialista na aprovação desse tratado.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Todos nós já percebemos, e há bastante tempo, que o tratado orçamental está a viver um período suplementar de debate entre vários dos Estados-membros da União Europeia. Hoje mesmo, como se sabe, a Sr.ª Merkel adiou a votação parlamentar do tratado orçamental _sine die_. \nNão quero recordar aqui a circunstância anómala, caricata e provinciana de, na Assembleia da República, se ter procedido a uma revisão constitucional para acolher um tratado que nunca veio a existir. E parece que hoje estamos a incorrer exatamente numa circunstância do mesmo género. \nDaí perceber-se que o Sr. Deputado Luís Montenegro tenha anunciado que não quer levar a votação o projeto de resolução que hoje trouxe a debate. E porquê? Porque ele está tão em suspenso como o tratado orçamental. Aliás, o «coração» do projeto de resolução é aplaudir o tratado orçamental tido como inevitável, como fatalista, como algo que tem de ser, para mostrar serviço na Europa. Só que é realmente um serviço deslocado, provinciano e errado, porque estamos ao contrário de todo o debate europeu! E isso não ajudará Portugal nem na divisão internacional europeia, nem sequer naquilo que possa ter a ver com os ajustamentos da economia portuguesa. \nSr. Deputado Luís Montenegro, o que entendemos é que deve haver uma rejeição do tratado orçamental e uma reorientação da política europeia e que o Governo português deve estar na primeira fila, porque, senão, nem sequer terá condições para cumprir o atual plano de resgate. \nA seu tempo, e não será durante muito tempo — daqui a poucos meses —, vamos, seguramente, chegar a clarificações sobre a capacidade de Portugal sustentar o plano de regate a que se obrigou pela assinatura com a troica. \nSr. Deputado Luís Montenegro, em todo o caso, na leitura do vosso projeto de resolução, saltou-me ao espírito uma novidade absoluta, que é o facto de o PSD, tantos anos depois, agora propor a eliminação, no quadro europeu, dos paraísos fiscais.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "É verdade!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "O facto de não trazer o projeto de resolução a votação, tirou-nos desde já uma esperada delícia, um prazer, que era ver como votariam os Deputados do PSD da Madeira. Já não vamos poder ver como é que votariam!…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "E o Sr. Deputado José Manuel Rodrigues também!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Em todo o caso, gostaria que reconhecesse essa nova posição da parte do PSD: eliminação dos paraísos fiscais. Como é que chegaram a uma posição defendida há tantos anos pelas bancadas da esquerda, nesta Assembleia da República? Será que a eliminação dos paraísos fiscais é mesmo uma nova posição do PSD?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "A Madeira é um paraíso, mas para passar férias!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr.ª Presidente, Sr. Deputado Luís Montenegro, não deixa de ser curioso o que o PSD vem fazer duas semanas depois de ter aprovado o tratado orçamental, que poderá implicar mais austeridade, que poderá abrir a possibilidade de a Comissão Europeia cobrar prestações financeiras vinculativas para o Estado português caso este não cumpra as imposições da Europa, que poderá obrigar a novas transferências de soberania, agora em matéria orçamental, para um poder sem rosto a que chamamos Europa, que poderá condicionar este Parlamento na definição das suas políticas orçamentais, económicas e sociais. Digo «poderá», porque, como se sabe, este tratado orçamental está praticamente moribundo. \nDe qualquer forma, não deixa de ser curioso que, duas semanas depois da aprovação do tratado, o PSD venha agendar, para discussão, exatamente o tema Europa, o caminho que a Europa está a seguir. \nE o que pretende o PSD? O PSD apresenta-nos um projeto de resolução no sentido de recomendar um conjunto de medidas a adotar pelo Governo, pela Assembleia da República e também pelas instituições comunitárias. \nOra, que esta Assembleia recomende ao Governo ainda vá que não vá. Agora, que esta Assembleia recomende às instituições comunitárias, para além de inédito, parece-nos uma brincadeira, sobretudo depois de o PSD ter aprovado o tratado orçamental. \nPor fim, faltava a «cereja em cima do bolo». O PSD propõe que a Assembleia da República adote algumas medidas. Ou seja, se este projeto for aprovado, vamos ter a Assembleia a recomendar-se a si própria, vamos ter a Assembleia a autorrecomendar-se.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Bem lembrado!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Confesso que, depois de ver o PSD preocupado com o caminho da Europa depois de ter aprovado o tratado orçamental, já nada me espanta. Mesmo assim, seria caso para perguntar se o agendamento do PSD é apenas para o «número», se se trata de um súbito ataque de consciência, se é para cumprir calendário, ou se se trata de uma declaração de voto tardia, relativamente à votação do tratado orçamental! \nMas não era isto que eu queria perguntar, Sr. Deputado. O meu pedido de esclarecimento tem a ver com uma das nove recomendações propostas pelo PSD — elas são muitas, de facto, mas dizem muito pouco.\nApesar disso, há uma que registamos: o PSD recomenda ao Governo o incremento dos programas de combate ao desemprego. Finalmente, o PSD reconhece que o Governo não está a fazer nada para combater o desemprego. Bem-vindos ao clube! Sempre é melhor tarde do que nunca! \nDe facto, se o Governo estivesse a fazer alguma coisa para o combate ao desemprego, certamente que o PSD não precisaria de gastar energias a recomendar ao Governo que o fizesse. Mas, como o Governo não está a fazer nada, o PSD recomenda. Pode ser que resulte! \nSr. Deputado Luís Montenegro, uma das recomendações refere-se ao esforço para a consolidação do papel interventivo do Banco Central Europeu. Gostaria de saber em concreto o que se pretende com esta recomendação. Acaso o PSD pretende, finalmente, acabar com a proibição de o Banco Central Europeu não poder financiar diretamente os Estados-membros, sobretudo aqueles que estão em dificuldade?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Era bom, era!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "É disto que se trata, Sr. Deputado?! Se é assim, temos de saudar o PSD, porque seria uma forma de expurgar do circuito os grandes bancos privados, que têm vindo a arrecadar milhões e milhões de euros à custa dos Estados-membros. \nTemos muitas e sérias reservas sobre esta recomendação, e é por isso que perguntamos: o que pretende, quando se fala da consolidação do papel interventivo do Banco Central Europeu?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos da Deputada de Os Verdes Heloísa Apolónia.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Luís Montenegro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, em particular, quero agradecer as questões que me colocaram os Srs. Deputados Carlos Zorrinho, Honório Novo, Luís Fazenda e José Luís Ferreira. \nComeço por responder às questões apresentadas pelo Sr. Deputado Carlos Zorrinho. O Sr. Deputado disse, e é bem verdade, que este é um momento, uma oportunidade de definirmos e marcarmos as nossas posições. Há menos de um mês, tivemos um debate nesta Câmara onde o Partido Socialista e o Partido Social Democrata convergiram na necessidade de o Estado português ratificar o Tratado que foi assinado por 25 Estados-membros da União Europeia. Estivemos de acordo quanto aos propósitos, ao conteúdo e aos objetivos que estão encerrados nesse documento. \nO Partido Socialista quis acrescentar a esse Tratado um protocolo adicional, no qual deveria constar determinadas matérias. Fomos muito claros e transparentes, e assim nos encontramos de novo, com o Partido Socialista. Dissemos ao Partido Socialista que várias das matérias que eram ali elencadas tinham pertinência, que vários objetivos eram meritórios para os caminhos que a Europa tem de percorrer no futuro mais imediato.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Mas também dissemos ao Partido Socialista que, tendo sido difícil, demorado e complexo que 25 Estados-membros conseguissem atingir o consenso subjacente à assinatura do tratado orçamental, estar a inquinar os processos de ratificação (o mesmo é dizer de concretização da decisão de Chefes de Governo e de Chefes de Estado) não era a forma mais adequada. E, no diálogo democrático, claro e transparente que queremos ter com todos os partidos e, em especial, com o maior partido da oposição, tive ocasião de dizer, na tribuna, e repito, que a posição do Partido Socialista de dizer «ou é assim, como nós queremos, com o conteúdo que queremos e com a forma que queremos, ou não estamos disponíveis» é, afinal de contas, a demonstração de que o discurso do Partido Socialista, de querer continuar a percorrer connosco este caminho comum no âmbito da construção europeia não joga com o objetivo, o desiderato final do Partido Socialista.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos do Deputado do PS Carlos Zorrinho.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Agora que lhes concedemos uma segunda oportunidade de podermos, em conjunto, construir um texto — e não queremos ficar com a paternidade do projeto de resolução, damos de barato que ele possa ser uma iniciativa conjunta dos grupos parlamentares —…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Carlos Zorrinho", 
+   "text": "Ato adicional!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… agora, que abrimos esta possibilidade, o Partido Socialista vem reiterar, de uma forma que considero até teimosa, o seu posicionamento e deixar, de forma clara, a sua principal nota, o seu principal desígnio, que é efetivamente arranjar pretextos para conseguir roturas com o PSD, nomeadamente numa matéria que é tão relevante para o nosso futuro, como a da construção europeia.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PS Carlos Zorrinho.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Quero dizer aos Srs. Deputados Luís Fazenda, Honório Novo e José Luís Ferreira, que navegaram aqui em vários equívocos. \nDizia o Sr. Deputado Honório Novo que, em Portugal, não havia vantagem em ratificar o tratado orçamental, que isto significava uma submissão aos interesses estrangeiros. Sr. Deputado, nós, portugueses, precisamos mais do que os outros até deste tratado orçamental,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… porque quem está subjugado, hoje, à ajuda externa somos nós! \nSomos, objetivamente, aqueles a quem se aplica, de uma forma mais direta, o equilíbrio orçamental, o rigor orçamental comum, de que hoje somos vítimas e também usufrutuários de solidariedade por parte dos outros Estados-membros.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos do PCP", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Portanto, a razão é, precisamente, a inversa: nós, que estamos solidariamente a receber ajuda,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Qual ajuda?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… para pagar salários, para pagar pensões,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… que estamos a ser financiados pela solidariedade dos nossos parceiros, devemos ser os primeiros a enfatizar a necessidade de não criar no futuro, ao nosso Estado e aos outros Estados, os constrangimentos com que hoje temos de nos debater e que são alvo de tanto sofrimento das nossas populações.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos dos Deputados do PCP Honório Novo e do BE Luís Fazenda.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr. Deputado Luís Fazenda, é muito curiosa a sua observação, hoje reiterada e ontem tornada pública, relativamente ao processo de ratificação e ao desafio que lançou ao Sr. Presidente da República. \nTentarei responder à sua questão com uma pergunta. Acaso não tivesse havido ratificação, acaso, até, o tratado orçamental pudesse sofrer algumas alterações, o Bloco de Esquerda iria mudar de posição?! O Bloco de Esquerda pretende esse adiamento para mudar a sua posição relativamente à estrutura orientadora do tratado orçamental?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do Deputado do BE Luís Fazenda.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Claro que não, Sr. Deputado! Qualquer que seja o tratado orçamental, qualquer que seja a opção a que possam chegar, de forma consensual, os Estados-membros da União Europeia temos a certeza absoluta de que o Bloco de Esquerda estará sempre contra! \nPortanto, Sr. Deputado, é muito curioso vir, aqui, invocar a necessidade desse adiamento, quando sabemos à partida que a vossa posição se manterá a mesma.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Eu já lhe explico, Sr. Deputado!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado Luís Montenegro.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Finalmente, para terminar, Sr.ª Presidente, quero dizer o seguinte: o PSD veio para este debate de «peito aberto». O PSD esteve na génese da adesão de Portugal à União Europeia, tem percorrido este caminho de integração europeia com outros partidos, com as nossas instituições democráticas, e assim quer continuar a fazer.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP João Oliveira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Isto não significa que estejamos sempre de acordo, mesmo com aqueles que percorreram connosco este caminho; significa que só podemos ter consensos, que só podemos ter esta caminhada comum, que se vai refletir nas nossas vidas e nas das gerações que vêm a seguir nas próximas décadas se formos capazes de atingir entendimentos. E, para atingir entendimentos, tem de haver abertura, frontalidade e franqueza de posições.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Hoje, apresentamos aqui as nossas ideias, estamos disponíveis para as discutir com as demais bancadas, estamos disponíveis para atingir os pontos de entendimento. Assim o queriam os outros partidos, assim o queiram as oposições e assim o queira a oposição, que é especial, do Partido Socialista.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Mas não desperdicemos esta oportunidade! Hoje, não submetemos a votação este nosso projeto de resolução por falta de convicção, pois acreditamos em cada uma das linhas deste projeto de resolução e acreditamos em novas ideias que lhe acrescentamos, como tive ocasião de dizer, por exemplo, a propósito das trocas comerciais, que são um desafio relevantíssimo para o futuro da Europa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Acreditamos nas nossas convicções, mas este caminho, que tem de se projetar para décadas, que tem de ser duradouro, que tem de ter estabilidade, necessita do contributo e da adesão dos outros. E é por isto que não queremos forçar hoje uma votação, queremos dar uma oportunidade de este documento poder ser enriquecido com a participação de todos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Vitalino Canas.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Neste dia 9 de maio, em que se celebra o projeto europeu e os seus artífices, evoco e reafirmo os nossos valores europeus. \nNem a crise que atravessamos nem as sombras que vão surgindo no horizonte coletivo da União Europeia nos devem fazer esquecer que, antes, durante e depois da crise, é na Europa que Portugal tem o seu destino. \nPortugal tem tido um contributo para o aprofundamento europeu que excede a sua dimensão. Devemos perceber o porquê. \nEm muitos casos, assumimos posições liderantes, fomos audazes na procura de soluções a que os nossos parceiros europeus aderiram. Homens como Mário Soares, Cavaco Silva, António Guterres, Durão Barroso, José Sócrates gravaram o nome de Portugal em pedras importantes do trajeto europeu.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Só falta pôr aí o Passos Coelho!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "Estamos, hoje, num momento em que, mais uma vez, se exige de nós audácia, ousadia e liderança.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Onde é que isso está?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "O Partido Socialista tem exigido audácia, ousadia e liderança quando tem alertado, ao longo dos últimos meses, para o imperativo de as políticas de consolidação orçamental e de austeridade, praticadas na Europa e em Portugal, serem contrabalançadas por uma robusta e inequívoca agenda de crescimento e de criação de emprego. \nFoi com audácia, ousadia e liderança que o Partido Socialista, há escassas semanas, propôs ao Governo que a aprovação do tratado orçamental fosse acompanhada por uma resolução desta Assembleia, onde ficassem traçadas as linhas essenciais de um protocolo ou de um tratado complementar que colmatasse as omissões daquele tratado orçamental, no que toca à governação económica da União Europeia e a uma estratégia de crescimento e de criação de emprego. A estes apelos, o Governo e os partidos que o suportam responderam com sobranceria. \nO Governo e os partidos que o suportam, invocando argumentos de método e de forma, rejeitaram a oportunidade que o Partido Socialista lhes ofereceu para uma ação comum na Europa — uma ação comum que não esperasse pelo debate que, inevitavelmente, se instala e que mostrasse que Portugal, mesmo sob ajuda externa, não perdeu a sua capacidade, nem a sua vontade, de ocupar a linha da frente do aprofundamento do projeto europeu.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "Esta rejeição gerou, aliás, uma situação rara quando o PSD e o CDS-PP votaram juntamente com partidos que não integram o arco europeu, para simplesmente inviabilizarem uma iniciativa do Partido Socialista, numa questão fulcral da nossa participação na União Europeia.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Então, com quem é que os senhores votaram o tratado? Foi com quem?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "Nem o facto de isso instituir um precedente grave deteve esses partidos de, na sua cegueira, irem contra tudo o que possa parecer um desvio à sua estratégia de submissão a um _diktat_ de austeridade e de punição.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Com quem é que os senhores votaram o tratado?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "O PSD e o CDS-PP invocaram argumentos de método e de forma. Mas na verdade, o que separa o PS do Governo é muito mais profundo do que uma simples divergência sobre o método e a forma. \nO que separa o Partido Socialista do Governo é o tipo de resposta a dar aos nossos problemas e aos problemas da Europa. O Governo não acredita que a solução esteja numa estratégia de crescimento e de emprego. Mais: o Governo não acredita que seja possível ou prioritária tal estratégia. O Governo continua a acreditar, obstinadamente, numa solução de tipo mágico que se chama, simplesmente, «austeridade»; austeridade sem limites, austeridade punitiva, austeridade cega e excessiva, esta é a receita em que o Governo acredita, e qualquer cedência ao discurso do crescimento e do emprego é uma cedência a contragosto, empurrada pelas circunstâncias, sem convicção.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "A iniciativa que o PSD nos apresenta aqui hoje padece, portanto, desse pecado original. O PSD não acredita que seja possível ou necessária uma estratégia de crescimento ou de emprego e não está, sequer, disponível para procurar construí-la com seriedade ou para aceitar as propostas de quem, há bastante tempo, anda a construí-la e a propô-la, como é o caso do Partido Socialista. \nA iniciativa do PSD de hoje não é fruto de qualquer tipo de amor tardio por uma agenda para o crescimento e o emprego mas, sim, de uma mera peça de oportunismo político.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "O PSD, já de si muito pressionado por declarações internas e externas insuspeitas, como são as do Sr. Presidente da República, do Sr. Mário Monti e de outros, e tendo percebido que é neste sentido que vão os ventos da Europa, depois das eleições francesas vem, apressada e oportunisticamente, tentar colocar-se na fotografia. Fá-lo, aliás, assistido por uma boa dose de retórica política hipócrita. De que outra forma podemos qualificar as declarações do PSD que temos escutado nos últimos dias, apelando ao consenso e aos contributos do Partido Socialista e declarando que está a dar uma «segunda oportunidade» ao Partido Socialista, como ainda agora fazia o seu líder parlamentar, Deputado Luís Montenegro? \n«Segunda oportunidade», Sr.as e Srs. Deputados do PSD?! Mas quem criou a primeira, que foi liminarmente desperdiçada pelo PSD há umas semanas?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "Quem tem estado, nos últimos meses, a convidar, responsavelmente, o Governo para defender políticas e iniciativas efetivas de crescimento que moderem ou eliminem os efeitos excessivos e perniciosos da austeridade? Quem, senão Partido Socialista! \nExiste, portanto, uma divergência de fundo e ela é clara: o Governo e os partidos que o suportam só acreditam na austeridade pela austeridade e não querem pensar realmente em mais nada. Em contrapartida, o Partido Socialista acredita na necessidade de consolidação orçamental, mas entende que ela tem de ser complementada por medidas que nos permitam crescer e criar emprego. Esta divergência de fundo implica, naturalmente, diferenças no método e diferenças na substância. \nQuanto ao método, o Partido Socialista defende que a estratégia de crescimento e de criação de emprego deve ser assumida ao nível europeu e deve ter bases sólidas e imperativas. Isto consegue-se, Srs. Deputados, apenas através de um ato vinculativo que a todos os Estados-membros obrigue. A experiência da Estratégia de Lisboa e, agora, da Estratégia 2020 mostram…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Que belos exemplos!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "… que sem instrumentos com força e consistência jurídica superiores não se cumprem os objetivos. Por isso, o Partido Socialista defende a celebração de um protocolo adicional ou de um tratado complementar ao tratado orçamental. \nComo se pode ver pela resolução que agora nos apresentou, o método do PSD é outro: passa, essencialmente, por fingir que está motivado para as questões do crescimento e do emprego e por aprovar umas medidas vazias de conteúdo, inócuas, umas declarações de intenções. \nPois, Srs. Deputados do PSD, não terão o nosso acordo quanto a este método. Mas a rotura entre o PS, o PSD e o Governo é ainda mais marcada no que toca à substância. Pelo projeto de resolução que hoje nos é submetido, ficamos a saber que as medidas que o PSD propõe para promover o crescimento e a criação de emprego — as medidas a que aludia ainda há bem poucos minutos o Sr. Deputado Luís Montenegro — são as seguintes: promover duas reuniões em Portugal; promover um amplo debate nacional sobre um determinado tema; acompanhar os trabalhos das instituições europeias; recomendar iniciativas no contexto do mercado único digital; recomendar o incremento de programas de combate ao desemprego, que o Governo já anunciou há meses e que não concretiza; e recomendar que seja conhecida a relevância de um mecanismo que a Assembleia da República já aprovou. No meio disto tudo, lá aparece uma vaga referência à convergência fiscal. E com isto fica definido, no entender do PSD, um quadro para o crescimento e o emprego: umas reuniões, um amplo debate, acompanhamento, reconhecimento, etc. \nSr.as e Srs. Deputados, se alguém tivesse dúvidas sobre a ausência de seriedade e de convicção do PSD quanto à agenda para o crescimento e o emprego elas seriam imediatamente eliminadas pela simples leitura das recomendações propostas na sua resolução. \nSrs. Deputados do PSD, em vez de endereçarem ao Partido Socialista convites, hipócritas, de consensos e de contributos que imediatamente rejeitam, não esperem pela Sr.ª Merkel e aceitem as propostas do Partido Socialista.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vitalino Canas", 
+   "text": "Aceitem que Portugal e a Europa necessitam de um reforço das competências do Banco Central Europeu, com vista à promoção de políticas de reforço do financiamento às economias; aceitem que é necessário evoluir para uma mutualização da dívida soberana, através dos eurobonds ou de fundos de dívida pública; aceitem os _project bonds_. \nEm suma, aceitem o que o Partido Socialista tem proposto e irá repropor através de um novo projeto de resolução, em que sistematizaremos e desenvolveremos as medidas que já apresentámos, medidas reais e efetivas e não meras manobras de diversão. \nSr.as e Srs. Deputados: Tendo desbaratado a primeira, o PSD poderia ter criado para si próprio uma segunda oportunidade, esta sim, para aderir a uma verdadeira agenda de crescimento. \nNo seu projeto de resolução, o PSD cita o apelo de Schuman, apelo a que se evitem palavras vãs e a que se seja ousado na construção dos caminhos da Europa. Também esta citação é um exercício meramente lúdico da parte do PSD, porque a resolução que nos propõe é inócua, é um exercício medíocre de vacuidade e de omissão. \nNeste caminho, o PSD não terá a nossa companhia!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Manuel Rodrigues.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Os tempos que vivemos de dificuldades financeiras, de consolidação orçamental, de recessão económica e de crescente desemprego são tempos propícios à acentuação de egoísmos nacionais na União Europeia. \nO povo português diz que «em casa onde não há pão, todos ralham e ninguém tem razão!». É este o sentimento do cidadão europeu quando olha para o que se passou na Europa nos últimos três anos. A União levou tempo demais a dar respostas ou não terá encontrado mesmo as melhores soluções para a chamada «crise das dívidas soberanas» e para a recessão económica e o desemprego. \nQuando se precisava de mais Europa, vimos mais nacionalismo; quando se exigia mais União, sobreveio o divisionismo; quando se esperava mais solidariedade, acentuou-se o economicismo; quando se aguardava ambição, constatamos o calculismo. \nJean Monnet dizia que a narrativa da Europa é a história de um combate a uma sucessão de crises e esta é, porventura, a mais grave, desde a criação da Comunidade. \nVivemos o dramatismo dos grandes momentos e a esperança das boas decisões. O debate que opõe austeridade e rigor a crescimento económico e emprego é, a nosso ver, errado e frágil nos seus alicerces, pois ambos são necessários, eu diria, imprescindíveis.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "Nunca haverá crescimento económico e emprego sustentado sem finanças públicas equilibradas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "A receita para o crescimento económico não pode ser o investimento público, puro e duro, em obras megalómanas e fantasiosas…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "… e assente em dívida e défice, pois este foi o caminho percorrido nos últimos anos pelos governos do Partido Socialista em Portugal e que nos conduziram à situação de pré-falência, ao pedido de resgate, à recessão e ao desemprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "Os que julgam, em Portugal, ressuscitar este modelo fracassado apenas porque aconteceu uma eventualidade eleitoral num determinado Estado-membro estão equivocados e em breve se darão conta disto mesmo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "O caminho tem de ser outro e só pode passar por um equilíbrio entre a consolidação orçamental e a necessidade de financiar a economia real e os setores produtivos exportadores, introduzindo reformas que facilitem o investimento privado, gerador de emprego e de riqueza. \nPortugal, com dificuldades e com pesados sacrifícios para os seus cidadãos, está a procurar esse caminho difícil, de conjugar a recuperação das finanças públicas com o relançamento do crescimento económico sustentado. \nPortugal ratificou o novo tratado orçamental com independência e sem tornar a sua soberania dependente de alterações eleitorais noutros países. Portugal está alinhado com os esforços da Comissão Europeia para superar esta crise, que é, sobretudo, uma crise de confiança entre Estados e entre cidadãos e a União Europeia. \nOs desafios que se colocam à União passam assim por quatro áreas: melhorar os mecanismos de proteção contra a crise na zona euro; sanear o sistema financeiro e bancário, dando liquidez para apoiar o tecido empresarial; criar uma governação económica mais sólida e integrada; e reforçar as políticas de crescimento económico, de criação de emprego e de coesão económica, social e territorial. \nNeste ponto, o próximo quadro financeiro para 2014-2020 poderá ser um instrumento poderoso para, numa época de escassez de recursos públicos nacionais, alavancar os nossos setores produtivos, apoiar as pequenas e médias empresas e incentivar a formação e o emprego dos jovens. A proposta de fundos estruturais para os próximos anos é positiva, mas tem dois aspetos preocupantes para Portugal: a redução das verbas do Fundo de Coesão e a diminuição em quase 50% dos montantes atribuídos às regiões ultraperiféricas europeias, onde se inserem a Madeira e os Açores. Portugal deve ser exigente nestas duas matérias e o facto de estar sujeito a um programa de ajustamento financeiro não pode condicionar ou inibir a nossa capacidade de negociação.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: A nossa entrada na União Europeia em 1985 foi fruto de um largo consenso nacional que envolveu o PS, o PSD e o CDS e que permitiu estabilizar a democracia e dar um novo sentido à Pátria que perdera um império em circunstâncias pouco favoráveis. É este consenso que não pode ser quebrado.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Já não se lembra do Manuel Monteiro, nem do Paulo Portas no tempo do Manuel Monteiro!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "Todos consideramos essencial ultrapassar esta crise por via da consolidação orçamental conjugada com crescimento económico. Porventura, divergimos nos caminhos a seguir, mas sabemos onde queremos chegar. E isto é o que mais importa relevar e assegurar neste Dia da Europa, que é também nossa pertença!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos ao Sr. Deputado José Manuel Rodrigues, inscreveram-se os Srs. Deputados José Junqueiro, do PS, e Agostinho Lopes, do PCP, aos quais responderá em conjunto, segundo informação que fez chegar à Mesa. \nTem a palavra o Sr. Deputado José Junqueiro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Sr.ª Presidente, Sr. Deputado José Manuel Rodrigues, ouviu-o com atenção e a primeira pergunta que me surge é esta: por que motivo o CDS não subscreveu este projeto de resolução do PSD? Mas, ao ouvi-lo, obtive mais ou menos uma resposta: aquilo que o Sr. Deputado disse da tribuna representa uma negação do que tem sido a atividade do Governo neste seu exercício.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Pelo contrário!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "A verdade é que o PSD, num ato de grande oportunismo, apresenta um projeto de resolução apenas para tentar tapar o que foi uma enorme precipitação na ratificação do tratado orçamental,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "Que os senhores aprovaram!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "… onde quis forçar uma data,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E quem é que aprovou esse tratado?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "… mas também quando chumbaram a proposta de um protocolo adicional a esse mesmo tratado.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "É preciso ter uma lata!… E por que é que o aprovaram?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "A verdade é que tudo isto acontece porque os tempos mudaram, e mudaram de repente.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "Aprovaram-no porquê? Essa agora…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Quando deram conta de que a agenda para o crescimento e para o emprego — agenda proposta desde o início desta governação — foi adotada pelos países europeus, o PSD faz marcha atrás, o Governo faz marcha atrás e percebe que o discurso e o diálogo têm de ser outros. Esta, sim, é a verdade dos factos. \nComo uma desgraça nunca vem só, hoje a Sr.ª Merkel veio dizer que vai adiar a votação do tratado orçamental. \nE porquê? Porque, afinal, vale a pena discutir, inclusivamente as propostas da oposição e medidas para o crescimento económico e para o emprego. Ora, claro, como eu a entendo!… Sr. Deputado, acha que o Governo e o PSD se sentem bem depois deste desastre político em que incorreram, impondo, com a sua maioria absoluta, algo que não tem nenhuma consequência?! \nFinalmente, o Sr. Deputado colocou na sua intervenção algumas questões, mas este projeto de resolução do PSD foi certamente tirado, a dois terços, da _Wikipédia_ e não faz uma única proposta, é um conjunto de alíneas completamente ocas e vazias. Diga-me, Sr. Deputado, que propostas estão neste documento, por exemplo, para o financiamento das dívidas soberanas, como o Sr. Deputado se interrogou? Que propostas existem neste documento para a legitimação e o reforço democrático da governação económica?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Carlos Zorrinho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Que projetos e estratégias estão aqui para reforçar a atividade económica europeia? \nNeste projeto, Sr. Deputado, não há rigorosamente nada, e por isso percebo porque é que o Sr. Deputado Luís Montenegro diz aqui que não vai submete-lo a votação: não quer passar pela humilhação de ver Deputados da sua bancada a votarem contra,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Que disparate!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "… Deputados da bancada do CDS a votarem contra e a oposição, em bloco, a votar contra. É que ninguém assina aqui um cheque em branco, um documento que não diz rigorosamente nada!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Agostinho Lopes, do PCP.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "Sr.ª Presidente, Sr. Deputado José Manuel Rodrigues, em recente visita de trabalho de Deputados do PCP aos Açores, encontrámo-nos com diversas entidades do sector agrícola e das pescas.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Também nós!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "É fácil constatar as gravíssimas consequências para a agricultura e para as pescas regionais da liquidação das quotas leiteiras e da exaustão dos recursos pesqueiros, problema que toca também a região autónoma pela qual foi eleito.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "Estamos perante prováveis cataclismos sociais e económicos. A liquidação das quotas leiteiras terá consequências abruptas, uma morte súbita do sector leiteiro que representa, neste momento, 30% do abastecimento de leite do País. Nas pescas teremos um processo mais lento, uma sangria em vida, uma morte lenta, que, aliás, está em curso. \nPerante o desastre à vista, o PSD, o CDS e o PS envolvem-se, no País e na Região, numa guerra verbal, particularmente sobre a liquidação das quotas leiteiras, sobre quem é politicamente responsável pela situação: \n«és tu!», «foste tu!» e «se não foste tu, foi o teu pai!», etc., etc.… Enfim!…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "São todos!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "António José Seguro diz que o fim das quotas leiteiras não pode acabar com o excelente leite açoriano; o secretário regional diz que não disse que não seria desmantelado o sistema de quotas; o PS Açores diz que vai defender a permanência das quotas leiteiras.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "E o que diz o CDS Açores? Diga lá!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "O PSD Açores diz que há uma janela de oportunidades para evitar o fim das quotas leiteiras; depois, no que toca os seus Deputados europeus, Paulo Alves diz uma coisa e Maria do Céu Patrão Neves diz o mesmo e outra coisa. \nO cabeça-de-lista do CDS, Artur Lima,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Ah!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "… diz que a culpa é do PS e também reclama, naturalmente, a extinção das quotas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Exatamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "E a Ministra?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "Forte amnésia política, Srs. Deputados! De facto, são os três responsáveis por um processo iniciado em 1989 e que tem em 2008 um desfecho nos conselhos europeus de março e de dezembro, onde o PS é participante ativo porque era governo, e com uma posição favorável, e em que o PSD e o CDS estiveram silenciosamente calados na oposição.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "Exatamente! Já se esqueceram!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "Aliás, perante as desastrosas propostas do grupo de alto nível nomeado pela Comissão Europeia, que, entre outras enormidades, consolida a ideia da liquidação das quotas, o PS aprovou, o PSD não disse nada e o CDS, em recente projeto de resolução apresentado nesta Casa, disse que era uma boa coisa, disse que era uma boa ajuda, Sr. Deputado do CDS. \nDe resto, estes partidos — o PSD, o CDS e o PS — foram cúmplices ativos de uma evolução institucional da União Europeia, particularmente o Tratado de Nice, que eliminou o direito de veto de um pequeno País como Portugal perante riscos para os seus interesses vitais.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Há mais países e mais pequenos que Portugal!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "Mesmo hoje, com possíveis posições para eleitor ver, podemos dizer que não têm instrumentos para se opor a decisões gravosas para a vida nacional, como aquelas que estou a referir.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, tem de terminar.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "Termino já, Sr.ª Presidente. \nEstamos perante brutais ataques à produção nacional e à produção regional, nada dizendo o projeto de resolução do PSD sobre o assunto. \nSr. Deputado, no Dia da Europa, pergunto-lhe o seguinte: o que vão o CDS e o Governo PSD/CDS fazer para impedir o fim das quotas leiteiras, para defender uma gestão de proximidade dos recursos pesqueiros, para garantir a soberania nacional nas 200 milhas e para impedir a venda dos direitos de pesca na revisão da política comum de pescas?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado José Manuel Rodrigues.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "Sr.ª Presidente, Sr. Deputado José Junqueiro, recordo que estamos perante um debate que resulta de um agendamento potestativo do PSD, tendo na base um projeto de resolução deste mesmo partido. \nO Sr. Deputado diz que o projeto de resolução em causa não tem medidas concretas, mas pergunto se o vosso protocolo adicional de há duas semanas, que era uma cópia do manifesto do Sr. François Hollande,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Carlos Zorrinho", 
+   "text": "Não é verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "… tinha alguma medida concreta para o crescimento económico e para a criação de emprego na Europa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "Srs. Deputados, há aqui um facto a referir: o anúncio, por parte do PSD, de que este projeto de resolução será sujeito a possíveis alterações por parte das diversas bancadas. Acho que se abre aqui um caminho para que a Assembleia da República, mantendo a sua ratificação do tratado orçamental — que na altura foi perfeitamente correta e que continua válida —, possa ter uma palavra a dizer sobre qual deve ser a estratégia de crescimento económico e de emprego na União Europeia e em Portugal, sem sacrificar o equilíbrio das finanças públicas e a consolidação orçamental, mas lançando uma estratégia para o crescimento económico, para o apoio às empresas e para a criação de emprego. \nSr. Deputado Agostinho Lopes, falou das quotas leiteiras e da pesca nos Açores. Devo dizer-lhe que retive da sua pergunta uma afirmação muito importante. O Sr. Deputado citou vários dirigentes e várias polémicas entre o PS e o PSD…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E o CDS!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "… nos Açores, mas retive a frase do líder do CDS-PP dos Açores: foi na defesa dos interesses da sua região autónoma.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E a Ministra? O que é que faz a Sr.ª Ministra?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "José Manuel Rodrigues", 
+   "text": "Recordo-lhe, Sr. Deputado Agostinho Lopes, que, há duas semanas, quando no Parlamento Europeu se votou um relatório de um deputado madeirense a defender as regiões ultraperiféricas, a advogar o reforço das verbas para a Madeira e para os Açores e também com alterações no setor das pescas e da agricultura, os Deputados do PCP simplesmente se abstiveram e não votaram a favor dos interesses de Portugal, da Madeira e dos Açores.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não era só isso!… Havia lá mais umas coisinhas…!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Fazenda, do Bloco de Esquerda.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Desafiou-nos o Sr. Deputado Luís Montenegro, do PSD, a explicar porque é que o Bloco de Esquerda apela ao Presidente da República para não proceder à ratificação do tratado orçamental. E, assim, num passo de mágica, diria «bem, o Bloco de Esquerda estará contra tudo e, portanto, nem se percebe porque é que insistem nessa matéria»… Em primeiro lugar, por uma razão de defesa dos portugueses e das portuguesas,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Pedro Filipe Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "… porque o tratado orçamental, impondo um teto máximo ao défice estrutural de 0,5%, mata o Estado social, mata as políticas sociais…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Pedro Filipe Soares", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "… e impede que haja desenvolvimento económico. Trará uma anemia profunda à economia portuguesa e condena o investimento público reprodutivo, que é o único capaz de relançar a economia portuguesa. \nEstando nós nos antípodas da análise económica e da visão sobre o futuro, a verdade é só uma: o congelamento forçadíssimo que o PSD e o CDS terão de fazer ao Orçamento do Estado para atingir aqueles valores de défice vai levar a uma circunstância dramática na sociedade portuguesa. \nHá que esperar, tentar acabar com este tratado orçamental — há outras formas de disciplinar as finanças públicas no âmbito europeia —, garantir outro tipo de contrapartidas pelo facto de todos estarmos no euro. \nExigimos e defendemos há muitos anos — e esperamos que o PSD, mais cedo ou mais tarde, venha a aderir a esta ideia — que é necessário titular dívida pública europeia, os eurobonds (não apenas os _project bonds_, também os eurobonds), que haja qualquer forma de mutualização de dívida, que haja quotas acerca de investimento público, que haja acesso do Banco Central Europeu à capacidade de empréstimo direto aos Estado para suportar o combate à especulação contra as dívidas soberanas. É isto tudo que pretendemos, porque não há forma de podermos coexistir numa moeda única enquanto não se encontrarem esses mecanismo de garantia para que Portugal possa existir nesse espaço com uma moeda única. \nEstas são as nossas propostas. É por isso que o tratado orçamental deve ceder o passo, porque ele é o santuário da austeridade, é o santuário do sacrifício, é o fim do Estado social. E é por isso inexplicável não só que a maioria conservadora liberal o tenha votado — o CDS acabou de dizer que foi num ato de soberania extremo que se precipitaram a votar antes de tudo e de toda a gente o tratado orçamental. Nem a Sr.ª Merkel corre por tanto… — mas também que, lamentavelmente, o Partido Socialista tenha assinado um tratado orçamental que mata o Estado social, que impossibilita as políticas sociais. Não é por causa de um protocolo adicional que ele deixará de ser um tratado orçamental lesivo das políticas sociais! Isso está fora de questão! \nAliás, basta ler o que, acerca desse assunto, tem escrito muita gente ligada ao partido socialista francês, e que bem se exprimiu na última campanha eleitoral. \nRealmente, queremos que haja uma suspensão da ratificação do tratado orçamental e ver que rumo segue o debate europeu, porque ele vai seguir outros rumos, resultado das eleições francesas, dos desaires previstos da Sr.ª Merkel e da CDU na Alemanha, da situação na Grécia e em outros lados. Realmente, aí é que Portugal devia ter uma política com iniciativa própria, o Governo devia guardar-se de todas as precipitações e procurar maximizar uma posição para Portugal. \nMas não, não foi num ato de soberania que se precipitaram e foram à frente de toda a gente ratificar, aprovar em Parlamento, o tratado orçamental. Não, não foi! Foi num ato de submissão ao programa da troica, porque julgam, de uma forma provinciana, que é o modo de o Estado português se impor no quadro da União Europeia. Mas assim não se impõe, prejudica-se! Por isso, Sr. Deputado Luís Montenegro, um ato de reflexão era, neste momento, congelar esse tratado e procurar um debate diferente no âmbito da União Europeia. \nVoltaremos a este assunto certamente, porque esse tratado está ferido de morte e os tempos mais próximos vão demonstrá-lo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr.ª Presidente, Srs. Deputados: Creio que um debate sobre a Europa exige ou impõe que se comece por lembrar que a Europa está como está porque foi esta a Europa que os governos foram construindo. Uns a mandar e outros a obedecer, é certo, mas com as ordens de uns e a obediência cega de outros, foi esta a Europa que os governos foram construindo, à margem dos povos europeus e de costas viradas para as pessoas. \nTemos, assim, hoje, uma Europa cada vez mais neoliberal, onde o que conta são os mercados e, sobretudo, a banca e onde os povos, as pessoas, pouca relevância assumem. \nTemos hoje uma Europa pouco recomendável, a esgravatar por todos os lados, à procura de uns tostões aqui e acolá, seja retirando nos salários, seja retirando no 13.º mês, no subsídio de férias, nos apoios sociais, nas reformas, tudo para sossegar os mercados, para salvar a banca do buraco em que ela própria se meteu e, com a cumplicidade dos governos, acabou por arrastar também os Estados e os povos que nada têm a ver com a situação criada. \nAinda mais grave é quando a situação imposta se chama austeridade e sacrifícios para os povos, quando todos sabemos que não haverá crescimento económico com uma política de austeridade recessiva como a que está a ser imposta a Portugal. E o pior é que parece que isto custa a perceber! E é pior porque, quanto mais tarde se perceber que a austeridade não é solução, tanto pior para os povos da Europa. \nRelativamente à iniciativa legislativa que o PSD hoje nos apresenta, um conjunto de recomendações, quero dizer que são muitas, de facto, mas são inócuas, do ponto de vista prático, são vazias, quanto ao seu conteúdo, e de nenhuma utilidade sob todos os pontos de vista. \nO PSD fala de um amplo debate mas, há duas semanas atrás, votou contra a realização de um referendo sobre o tratado orçamental. Isso, sim, permitiria um verdadeiro debate, em torno das questões da Europa! \nO PSD fala da eliminação dos paraísos fiscais mas, quando as propostas sobre estas matérias foram discutidas nesta Assembleia, o PSD votou contra. \nO mesmo também se diga acerca do imposto sobre as transações financeiras, às quais o PSD também faz referência no projeto de resolução mas nunca mostrou disponibilidade para a sua concretização. \nPortanto, do conjunto das medidas que constam deste projeto de resolução, o que de útil se pode extrair é apenas o reconhecimento por parte do PSD de que o Governo não está a fazer absolutamente nada para contrariar este fenómeno de alastramento do desemprego e, por isso, até o PSD sentiu necessidade de recomendar ao Governo que proceda ao incremento de medidas de combate ao desemprego. \nQuanto ao resto e face ao vazio de respostas que marca esta proposta de resolução, ficamos, de facto, sem saber qual o propósito deste debate, e nem sequer ficamos a saber o que pretende o PSD quando fala do papel interventivo do Banco Central Europeu. Como não sabemos, presumimos que este debate foi a forma encontrada pelo PSD para fazer uma declaração de voto tardia sobre a sua votação no tratado orçamental.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Antes de dar a palavra ao Sr. Deputado Bernardino Soares, informo o Plenário que se encontra na tribuna do corpo diplomático um conjunto de Srs. Deputados dos países da CPLP, que cumprimentamos, desde já.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Aplausos gerais, de pé.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Dou, então, a palavra ao Sr. Deputado Bernardino Soares, para uma intervenção. \nFaça favor, Sr. Deputado.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Sr.ª Presidente, Srs. Deputados: Penso que este debate está fortemente marcado pela tentativa de aproveitamento de alguns para tentar dourar um bocadinho a sua intervenção a propósito dos recentes resultados em eleições europeias, na França e na Grécia. \nBem vejo que poucos terão falado do resultado na Grécia. Parece que alguns partidos preferem centrar-se mais nos resultados dos seus congéneres em França, ignorando outros resultados, na Grécia. Mas a verdade é que estes resultados não são em si uma garantia de mudança, são antes a comprovação da rejeição das medidas e das políticas que estão a ser seguidas; são a condenação dos pactos de agressão a que estes povos estão a ser sujeitos; são a condenação do tratado orçamental e são a condenação da vossa política, da política que estão a impor no nosso País, aplicando o pacto de agressão assinado pelo PS, pelo PSD e pelo CDS.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "É por isso que o discurso do crescimento, na boca dos que defendem a penalização dos portugueses, a recessão económica e o desemprego, cheira a uma enorme hipocrisia política, que é o que se tem ouvido aqui, neste debate, hoje. \nAliás, quem chegasse agora a Portugal e ouvisse este debate, perguntaria «mas afinal quem aprovou o tratado orçamental? Quem é que votou esse tratado, que agora ninguém perfilha»…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Olhe que não! Nós perfilhamos! Nós assumimos!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "… «e todos dizem que deve ser visto de outra maneira?». \nQuem aprovou o tratado orçamental foi o PSD, foi o PS, foi o CDS!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Exatamente! Também fomos nós!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "É por isso que têm de assumir essa responsabilidade. \nEsse tratado é contra o crescimento económico; esse tratado impede que a soberania económica dos países se verifique; …", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Michael Seufert", 
+   "text": "Olhe que não! Não impede nada!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "… esse tratado impede o investimento público;…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Olhe que não!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "… esse tratado impede o crescimento da procura interna de que o nosso País tanto precisa. É um tratado contra os interesses do nosso País que, tal como o pacto de agressão que os senhores continuam a aplicar, impede o crescimento o crescimento económico e a criação de emprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não podem, por isso, querer o tratado e, ao mesmo tempo, dizer que querem o crescimento económico. \nTratou-se, por isso, hoje, de um profundo número de ilusionismo político, com todos a fingir que não têm nada a ver com a situação criada porque, como se avizinha e avoluma uma condenação, no nosso País, semelhante à que foi expressa nas eleições da França e nas eleições da Grécia, todos agora querem sair fora da responsabilidade. Porém, quem assinou o pacto de agressão é responsável pelo desemprego galopante do nosso País, é responsável pela recessão a que estamos sujeitos. \nNo entanto, ainda querem entregar à União Europeia, às potências e aos grupos económicos que a dirigem, as nossas decisões soberanas sobre política económica e sobre política orçamental. E é isso que nós não aceitamos porque tem de haver soberania económica para inverter esta política e esta situação, é preciso renegociar a dívida, é preciso mais investimento público, é preciso dignificar os salários e as reformas, criar um mercado interno mais viável, é preciso, enfim, uma política inversa à que está a ser seguida. \nCom o tratado orçamental e com o pacto de agressão não vai ser possível o crescimento económico nem a criação de emprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Temos ainda duas inscrições para uma intervenção. Porém, antes de dar a palavra, informo que, nas galerias, os nossos visitantes estão a receber brochuras com a história da União Europeia para o Parlamento comemorar, em conjunto com eles, este Dia da Europa. \nDou agora a palavra ao Deputado João Soares.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Soares", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Começo por saudar — como, aliás, fez o líder da minha bancada, o nosso colega Carlos Zorrinho — o líder da bancada do PSD, Sr. Deputado Luís Montenegro, por ter tomado esta iniciativa política no dia em que celebramos a ideia da Europa. \nÉ uma iniciativa política que me parece profundamente oportuna e que nos deve levar a refletir, sem qualquer espécie de maniqueísmos e procurando estabelecer os consensos que, apesar de tudo, insisto, podem ser possíveis entre todas as bancadas políticas aqui representadas, em torno da ideia de uma Europa de progresso, que não ponha em causa o seu modelo social e que começa por ter origem — é bom não o esquecermos quando celebramos o dia 9 de Maio — no dia 8 de Maio, quando celebramos o final da II Guerra Mundial. \nÉ bom lembrar que o projeto da Europa, que é, talvez, o mais fascinante, o mais revolucionário e o mais progressista dos projetos que foram feitos no último século, nasce do estado em que os nazis e os fascistas — com os japoneses também, mas, sobretudo, os nazis alemães — deixaram a Europa e o mundo no dia 8 de Maio de 1945. \nÉ aí que nasce o projeto europeu e é preciso nunca perder essa memória histórica, que é muito importante na perspetiva da construção dos consensos que são, a todos os títulos, desejáveis, nesta situação difícil que estamos a viver. \nÉ preciso, também, não cair nos maniqueísmos em que nos acusamos uns aos outros…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Soares", 
+   "text": "… e em que, como no velho modelo da Guerra Fria — que, felizmente, desapareceu —, de um lado estão os bons, do outro lado estão os maus. Isso é de uma facilidade muito grande, mas é uma facilidade que resulta da ausência de inteligência na reflexão sobre os problemas novos com que estamos confrontados. \nReconheço, mesmo na bancada do PSD e, sobretudo, nas palavras do seu líder parlamentar, uma dose importantíssima de autocrítica em relação àquilo que tem sido o comportamento recente do Governo e das bancadas parlamentares que o sustentam, quando, no fundo, aquilo que vejo, com o meu otimismo, é que estava implícita a ideia de que a proposta que foi feita pela bancada parlamentar do Partido Socialista e pelo seu líder, António José Seguro, estava certa, no que diz respeito ao ato adicional, que era importante jogar no quadro europeu para afirmar os valores da Europa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Soares", 
+   "text": "E, obviamente, que não podemos desligar — como já aqui foi sublinhado, nomeadamente pelo Sr. Deputado Bernardino Soares, na sua última intervenção — essa mudança, que pessoalmente me é simpática, dos resultados das eleições na França e também na Grécia.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Na Grécia é simpática?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Soares", 
+   "text": "É preciso tirar consequências políticas desses resultados em França e há qualquer coisa que me parece também muito importante sublinhar, do ponto de vista histórico: é que quem avançou pela primeira vez com essa linha que põe o acento tónico nas questões do emprego e do crescimento como a solução para os problemas terríveis com que a Europa está confrontada, foi o Partido Socialista português, foi a sua bancada parlamentar e foi, sobretudo, o seu líder António José Seguro, que ainda há cerca de um mês teve, em Lisboa, uma reunião com o novo líder do Partido Socialista espanhol, o que, depois, deu lugar a uma iniciativa, que teve lugar em Roma, de todos os partidos socialistas e sociais-democratas europeus, que colocaram as questões do emprego e do crescimento no centro das batalhas políticas. \nAssim, é também a partir daí que a vitória de Hollande, que também põe o acento tónico nessas questões, é especialmente relevante para todos nós — e aqui não faço distinções entre as bancadas. \nO que importa, do meu ponto de vista, do ponto de vista da nossa bancada, é que haja uma mudança de fundo no rumo europeu e que reconheçamos os erros que cometemos. Reconheço os erros cometidos no quadro da família socialista. Nomeadamente, quando a Europa era uma Europa a 15 e havia seis primeiros-ministros que eram da família socialista e social-democrata, reconheço que foram cometidos erros nas cedências que foram feitas ao neoliberalismo em nome daquela — felizmente desaparecida —, terceira via de que o Sr. Blair foi o protagonista. \nÉ preciso reconhecermos os erros que foram cometidos nessa matéria para impormos a mudança de rumo que é absolutamente decisiva na Europa e, portanto, vemos com satisfação a bancada do PSD a falar aqui, pela primeira vez, na necessidade de eliminação dos _offshore,_ no quadro da União Europeia, e é também importante avançar para as taxas sobre as transações financeiras que têm lugar no quadro dos mercados. \nA verdade é esta: não podemos dar àqueles que nos lançaram nesta crise, antes do Lehman Brothers e antes de 2008, com uma cultura que revelou o seu fracasso total, as responsabilidades do poder, nomeadamente no quadro da União Europeia a que pertencemos e que queremos que continue a ser um espaço de progresso. \nSrs. Deputados, quando ouvi esta discussão, do que me lembrei foi do debate sobre o Iraque,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "Sobre isso é melhor perguntar ao Dr. Portas! Ele é que sabe!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Soares", 
+   "text": "… ou seja, estamos a dar àqueles que lançaram a ideia de que havia armas de destruição maciça escondidas o poder nessa matéria, e isso não pode acontecer. \nPorém, também recomendo, com muita simpatia, aos nossos colegas do PCP que tenham em conta os grandes autores, nomeadamente o Dr. Álvaro Cunhal e o _Rumo à Vitória_ e o _Radicalismo Pequeno-Burguês de Fachada Socialista_. São textos dos anos 60, que seguramente muitos de vós leram, como também da bancada do Bloco de Esquerda, que se impõem hoje, na sua perspetiva histórica, pela sua maturidade, e não tenho qualquer dificuldade em reconhecê-lo, da mesma maneira que nós não temos dificuldade em reconhecer os nossos erros. \nDo nosso ponto de vista, o que importa é essa mudança de rumo, que é decisiva no quadro europeu e não pode ser deixada nas mãos dos burocratas que, em Bruxelas, querem decidir em nome dos povos. Tem de ser feita em nome do emprego, do crescimento, da sustentabilidade, da afirmação dos valores que fizeram a mais-valia da Europa no mundo e que são, no fundo, os valores da Revolução Francesa, ou seja, os valores da liberdade, da igualdade e da fraternidade.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Serpa Oliva.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Neste Dia da Europa não se pode dizer que existam motivos para grandes celebrações. Ninguém defensor da integração europeia, da democracia e do desenvolvimento social e económico pode estar descansado quando o desemprego cresce, o radicalismo político aumenta e o crescimento económico tarda em chegar.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Vivemos um tempo de angústia e incerteza. Há cada vez mais variáveis em debate para além da ação política e do que esta Europa precisa é seguramente de mais política. \nCom isto, quero dizer que a Europa, construída sobre os escombros da Grande Guerra e no apaziguamento construtivo das relações entre a França e Alemanha, deve saber corresponder às expectativas criadas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Ser terrena e não etérea; gerar paz onde antes havia conflito; criar coordenação onde antes havia discórdia; trazer oportunidades onde antes havia descrença; estar mais próxima das preocupações reais das pessoas e não trair a sua crença num projeto desejavelmente comum. É, de forma simplificada, para isto que a União Europeia foi progressivamente sendo desenhada. \nAssim, chegámos a um tempo para o qual não nos preparámos convenientemente. Não soubemos acautelar os passos federalistas com instrumentos comunitários à altura de uma crise desta dimensão. Não soubemos responder à falta de competitividade das economias europeias perante a emergência de outras nos quatro cantos do mundo. Não tivemos arte e engenho para conseguir adaptar tecidos económicos e empresariais à rapidez tecnológica do mercado global.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Não soubemos antecipar a mudança. Preferimos a comodidade da inação. \nNão podíamos trazer hoje, aqui, um debate otimista e cor-de-rosa sobre a realidade europeia. O primeiro passo para decidirmos melhor é percebermos onde errámos, é assumir que não estivemos à altura de muitos desafios. \nPrecisamos de melhorar o espírito comunitário, o debate sobre a Europa em Portugal, evitar criar clivagens desnecessárias entre Estados-membros apenas para fins eleitoralistas. Nem o Sr. Hollande tem uma varinha mágica do crescimento económico europeu, nem a Alemanha é depositária de todos os males que assolam a Europa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Ver o quadro a preto e branco pode ser muito vantajoso para ajudar algumas lideranças partidárias a encontrar uma linha de ação política, mas não traz nenhum bom senso ao debate. E se precisamos de bom senso, Srs. Deputados! E se precisamos de bom senso, Srs. Deputados!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Precisamos de enfrentar o crescimento do radicalismo à esquerda e à direita por esta Europa fora e cuja dimensão estamos ainda longe de definir se mantivermos este rumo nos próximos anos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Risos do PCP.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Precisamos que os governos nacionais e a União Europeia saibam equilibrar a justa balança da necessária consolidação orçamental com a criação de um ambiente de recuperação económica. Não são os Estados os motores da economia: essa foi precisamente a receita que levou ao despesismo, à dívida e à situação em que estamos!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Precisamos de atrair investimento estrangeiro e de conseguir melhorar a nossa justiça. Precisamos de gerações qualificadas e empreendedoras e que não fiquem acomodadas à ajuda pública ou à subsidiodependência. \nPrecisamos de empresas capazes de arriscar, de investir, de criar riqueza e empregos. Sem boas empresas não há combate ao desemprego; uma sociedade incapaz de gerar empregos é uma sociedade falhada. \nPrecisamos de potenciar muito melhor a nossa geografia, as nossas matérias-primas, as nossas qualidades enquanto País. Às vezes, parece que nos esquecemos de tudo isto!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, este trabalho de casa, esta visão estratégica, só Portugal e os portugueses podem garantir. Há coisas que mais ninguém pode fazer por nós. \nBem hajam!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos Costa Neves.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Carlos Costa Neves", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Este é um debate tanto mais necessário quanto vivemos um tempo em que abundam as interrogações e as respostas são todas para ontem. \nNão basta afirmar que o fenómeno da globalização é marca incontornável deste tempo. É preciso agir em conformidade e, para nós portugueses, agir em conformidade implica agir às escalas local, regional, nacional e europeia e, daí, induzir a participação à escala global. \nEste é um desafio tanto mais exigente quanto impõe o pleno envolvimento dos cidadãos que só podem estar cada vez mais conscientes das escolhas possíveis e ter plena noção de que cada escolha acarreta e condiciona as subsequentes e todas elas têm a ver com a sua vida. \nTenhamos presente o que se passou nos últimos quatro anos. O ajustamento de poderes à escala global e a crise de 2008 que lhe está associada confrontou-nos com a centralidade do processo de regulação da globalização e com as evidentes vulnerabilidades da União Europeia. \nO impacto dessa crise, em Portugal, foi tremendo, dada a situação de especial fragilidade que aqui se vivia, decorrente de erradas opções na utilização dos dinheiros públicos e da insustentável dimensão da dívida, pública e privada. \nÀ insustentável leveza do euro juntou-se, pois, o valor insustentável da dívida portuguesa. \nCelebrar o Dia da Europa, neste ano de 2012, com este debate sobre os caminhos da Europa, é, pois, discutir o próximo futuro de Portugal. \nFace à situação em que se viu em 2010, a União Europeia tem feito o seu caminho e Portugal assumido as sua responsabilidades: lançou-se a união económica e, nesse contexto, reforçou-se a união orçamental; o Tratado Intergovernamental criou condições para reforçar os níveis de confiança entre os Estados-membros da União e desta com o mundo, e sabe-se quanto a confiança importa; Portugal iniciou o processo de credibilização interno e externo, promovendo o controlo das contas públicas e encetando reformas que constituirão relevante contributo para o crescimento sustentável e o inerente emprego. \nSão respostas necessárias às questões mais urgentes! \nOutros desafios se apresentam, contudo, com grande nitidez, entre os quais o do crescimento e emprego e a consequente melhoria das condições de vida dos cidadãos. \nFoi, aliás, respondendo a este desafio, ao longo dos últimos 60 anos, que a Europa se legitimou, e só respondendo a este desafio continuará a legitimar-se. \nNo essencial, os desafios com que a União está confrontada são claros. Primeiro, a consolidação da união económica e monetária, para o que valorizamos o debate lançado pela Comissão Europeia quanto à criação de _project bonds_. \nSegundo, o respeito pelos princípios que alicerçaram a construção europeia, dando renovado ênfase ao princípio da coesão económica, social e territorial, tal como consagrado nos tratados. À Europa não basta apresentar bons índices médios de desenvolvimento; tem de promover, ativa e consequentemente, a eliminação de persistentes assimetrias nesse mesmo desenvolvimento. É preciso passar das palavras aos atos nesta matéria, sendo razoável a expectativa de que a cimeira programada para 23 de Maio sirva para isso mesmo! \nTerceiro, a consolidação do mercado interno, com a absoluta abertura aos serviços e uma maior partilha de responsabilidades, a comunitarização mesmo, em domínios como a investigação, a energia, os transportes, a comunicação e o digital. \nQuarto, o tendencial reforço do orçamento da União para valores consentâneos com as competências atribuídas e as ambições declaradas. A reforma em curso do sistema de recursos próprios da União, baseado num imposto sobre as transações financeiras, é um passo no bom sentido. \nQuinto, a promoção de acordos entre a União e as demais economias mundiais, relevando o papel da Organização Mundial do Comércio e elegendo a reciprocidade como condição incontornável. \nSexto, a clarificação, a racionalização da governação a nível europeu. Chocam-se atribuições e competências, logo aumentam os adiamentos e as omissões. A Comissão Europeia tem de assumir papel central na nova governação económica. \nSétimo, o reforço da participação, do envolvimento dos cidadãos. A democracia tem de respirar melhor no contexto da construção europeia e do funcionamento das respetivas instituições e isso começa por casa, ou seja, pelos parlamentos nacionais, começa por esta Casa. \nÉ uma agenda complexa e exigente, porque multidimensional e em que a interdependência predomina, todos o sabemos. Mas esta é a agenda deste mundo e deste tempo em que vivemos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para encerrar o debate, tem a palavra o Sr. Deputado António Rodrigues.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Celebramos hoje o Dia da Europa, mas não o celebramos pela mera retórica ou de uma forma romântica. Quisemos trazer a este Parlamento o aprofundamento da discussão concreta de matérias que podem fazer o consenso entre partidos que, desde sempre, se reclamam da integração europeia. \nQueremos deixar claro a necessidade de aprofundar o debate europeu com todas as forças políticas e sociais, com os restantes Estados-membros e com as instituições europeias. O que propomos é trabalho e não palavras. \nNeste quadro, propusemos o projeto de resolução que hoje apresentamos, conforme já tínhamos anunciado aquando da discussão do Tratado Orçamental. Este Tratado, consagrado enquanto instrumento de união económica e monetária, surgiu com o propósito de apoiar a estabilidade financeira e a consolidação orçamental e anuncia a subsequente necessidade do crescimento económico e da criação de emprego. \nO crescimento económico assume uma relevância significativa no quadro da recuperação da economia europeia. Mas não pode haver crescimento sem consolidação de contas públicas e sem controlo da despesa pública. \nNão podemos continuar a gastar o que não temos, não queremos continuar a hipotecar o futuro das próximas gerações. Mas temos a consciência de que é preciso agir, e já. \nTemos a convicção de que a delicada situação financeira da Europa tem de conjugar o controlo com o crescimento, para mais num Estado cuja ação se encontra enquadrada por um acordo de assistência técnico-financeira que, tendo de ser cumprido, tem de o ser com o apelo à participação de todas as forças sociais e políticas. \nFoi neste quadro de consenso que se concretizou, num tempo recorde, o Tratado Orçamental entre Estados com governos de orientações políticas distintas, Tratado esse que, de uma forma responsável, foi ratificado neste Parlamento. \nMas a ratificação do Tratado não esgota nem a responsabilidade nem o consenso entre partidos. Foi apenas um ponto de partida no qual se segue o desafio de transpor, de forma clara e exigente, a chamada regra de ouro. \nA forma como tal se vai consagrar implica consequências de incumprimento ou de impossibilidade de acesso ao mecanismo europeu de estabilidade. \nImporta, pois, convocar, além da maioria parlamentar, os restantes partidos, nomeadamente o Partido Socialista, para o desafio de consagrar, de forma estável e não sujeita a qualquer conjuntura, a integração da regra de ouro no direito português. \nChega de hipocrisias. As propostas que apresentámos não merecem reparos e, aliás, são todas propostas com as quais o Partido Socialista já tinha concordado. Assim, apenas por teimosia, birra ou mera competitividade política pode o PS recusar este projeto. \nO PS busca desculpas para a rutura, o PS rompe o consenso, o PS prefere o radicalismo porque entende que tal lhe pode render mais. O PS, que agora se agarra à Europa, nega o exemplo dado pelos seus inspiradores na estrita medida em que, até domingo, o tão odiado eixo franco-germânico, na segunda-feira, passou a ser aceitável e até pode constituir um novo motor para a Europa. \nConvidamos o PS para que, connosco, seja um polo de entendimento para a Europa. \nNesse caso, pergunto: está o PS disponível para discutir e apresentar contributos para este projeto? Está o PS disponível para transpor, sem condições, a regra de ouro para o direito português? Está o PS disponível para o consenso ou apenas para o confronto?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Rodrigues", 
+   "text": "O mesmo sentimento de responsabilidade se reclama para a próxima estratégia orçamental. O Documento Estratégia Orçamental, aprovado recentemente pelo Governo, constitui um passo por todos assumido, sem reservas, na necessidade de consolidação, rigor e disciplina orçamental. \nO documento serve como orientação a partir de acordos em vigor e estabelece uma estratégia clara tendo em vista o crescimento económico. Dele deriva aliás o modelo de crescimento do País, assente na dicotomia controlo/crescimento sustentável. \nSr.ª Presidente, Sr.as e Srs. Deputados, Portugal não está sozinho na Europa e no mundo. A integração europeia exige atenção e capacidade de ação face às regras do comércio internacional, no respeito pela livre circulação de pessoas e bens. \nA União Europeia dispõe hoje de mais e melhores instrumentos de intervenção económica; o Semestre Europeu, o Pacto Euro Mais e o Six Pack enquadram um conjunto de medidas que o mercado interno exige e que a ação externa proclama. \nNeste quadro, espera-se da União Europeia uma particular atenção ao quadro financeiro plurianual, instrumento pelo qual se exige que a política de coesão, na tradição iniciada nos pacotes Delors I e II e prosseguida no atual quadro financeiro, se mantenha estável. \nA União Europeia carece de determinação para, a partir daqui, assumir programas, projetos e medidas concretas para o crescimento do emprego. \nNão nos excluímos deste debate, antes estamos preparados para alcançar consensos e resultados úteis para todos os cidadãos europeus.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Termina, assim, o debate. \nO Sr. Secretário vai ainda dar conta de um diploma que deu entrada na Mesa.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "Paulo Batista Santos", 
+   "speaker": "Secretário", 
+   "text": "Sr. ª Presidente e Srs. Deputados, deu entrada na Mesa, e foi admitido, o projeto de resolução n.º 321/XII (1.ª) — Rejeita o Documento de Estratégia Orçamental 2012-2016 e propõe prioridades para o crescimento e o emprego (BE), que baixa à 5.ª Comissão.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Informo os Srs. Deputados de que a ordem do dia de amanhã consiste na interpelação ao Governo n.º 6/XII (1.ª), da iniciativa do PS, sobre políticas de educação. \nEstá encerrada a sessão.", 
+   "type": "presidente_encerrada"
+  }, 
+  {
+   "text": "Eram 17 horas.", 
+   "type": "hora"
+  }
+ ], 
+ "president": "", 
+ "secretaries": [], 
+ "session-date": "09-05-2012", 
+ "time_end": null, 
+ "time_start": null
+}

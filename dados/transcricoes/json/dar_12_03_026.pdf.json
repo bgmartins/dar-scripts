@@ -1,0 +1,70 @@
+{
+ "entries": [
+  {
+   "text": "9 de dezembro de 2013", 
+   "type": "nota"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, Srs. Jornalistas, está aberta a sessão.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Eram 12 horas e 12 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Podem ser abertas as galerias. \nSrs. Deputados, como sabem, o Plenário reúne-se hoje para votar o projeto de resolução n.º 879/XII (3.ª) — Deslocação do Presidente da República a Pretória (Presidente da AR). \nPeço ao Sr. Secretário, Deputado Pedro Alves, o favor de proceder à respetiva leitura.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Pedro Alves", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente e Srs. Deputados, o projeto de resolução é do seguinte teor: \n«Sua Excelência o Presidente da República requereu, nos termos do n.º 1 do artigo 129.º e da alínea _b_) do artigo 163.º da Constituição, o assentimento da Assembleia da República para se deslocar a Pretória, entre os dias 9 e 11 do corrente mês, para as cerimónias fúnebres de Estado do antigo Presidente Nelson Mandela. \nAssim, apresento à Assembleia da República, nos termos regimentais, o seguinte projeto de resolução: \n‘A Assembleia da República resolve, nos termos da alínea _b_) do artigo 163.º e do n.º 5 do artigo 166.º da Constituição, dar assentimento à deslocação de Sua Excelência o Presidente da República a Pretória, para as cerimónias fúnebres de Estado do antigo Presidente Nelson Mandela, entre os dias 9 e 11 do corrente mês.’»", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Muito obrigada, Sr. Deputado. \nSrs. Deputados, vamos proceder à votação.", 
+   "type": "presidente"
+  }, 
+  {
+   "speaker": "Vozes do PS e do PCP", 
+   "text": "Falta a verificação de quórum!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Têm razão, Srs. Deputados, falta fazer a verificação do quórum. Esse lapso deveu-se ao facto de eu já ter sido informada pelos serviços de que havia quórum; a informação confundiu-me e a verificação acabou por não ser feita. \nVamos, então, proceder à verificação do quórum de deliberação, utilizando o sistema eletrónico.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O quadro eletrónico regista 158 presenças, às quais se acrescentam 6, perfazendo 164 Deputados, pelo que temos quórum para proceder às votações. \nSrs. Deputados, vamos votar o projeto de resolução n.º 879/XII (3.ª) — Deslocação do Presidente da República a Pretória (Presidente da AR).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado por unanimidade.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está encerrada a sessão.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Eram 12 horas e 20 minutos.", 
+   "type": "hora"
+  }
+ ], 
+ "president": "", 
+ "secretaries": [], 
+ "session-date": null, 
+ "time_end": null, 
+ "time_start": null
+}

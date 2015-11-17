@@ -1,0 +1,2913 @@
+{
+ "entries": [
+  {
+   "text": "27 de fevereiro de 2013", 
+   "type": "nota"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, Srs. Jornalistas, está aberta a sessão.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Eram 15 horas e 11 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Peço aos Srs. Agentes da autoridade o favor de abrirem as galerias. \nAntes de entrarmos na ordem do dia, o Sr. Secretário vai fazer o favor de ler o expediente.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, deram entrada na Mesa, e foram admitidas, as seguintes iniciativas legislativas: projetos de lei n.os 361/XII (2.ª) — Financiamento do ensino superior público (PCP), que baixa à 8.ª Comissão, 362/XII (2.ª) — Estabelece um regime transitório de isenção do pagamento de propinas e de reforço da ação social direta e indireta aos estudantes do ensino superior público (PCP), que baixa à 8.ª Comissão, 363/XII (2.ª) — Reforça a representação das organizações de juventude no Conselho Económico e Social (Quinta alteração à Lei n.º 108/91, de 17 de agosto) (PS), que baixa à 8.ª Comissão, 364/XII (2.ª) — Reforça a proteção das vítimas de crime de tráfico de pessoas (BE), que baixa à 1.ª Comissão, e 365/XII (2.ª) — Revoga a lei do Novo Regime de Arrendamento Urbano (revogação da Lei n.º 31/2012, de 14 de agosto, que procede à revisão do Regime Jurídico do Arrendamento Urbano, alterando o Código Civil, o Código de Processo Civil e a Lei n.º 6/2006, de 27 de fevereiro) (BE), que baixa à 1.ª Comissão; apreciações parlamentares n.os 47/XII (2.ª) — Relativa ao Decreto-Lei n.º 13/2013, de 25 de janeiro, que altera os regimes jurídicos de proteção social no desemprego, morte, dependência, rendimento social de inserção, complemento solidário para idosos e complemento por cônjuge a cargo, do sistema de segurança social (PCP) e 48/XII (2.ª) — Relativa ao Decreto-Lei n.º 10/2013, de 25 de janeiro, que estabelece o regime jurídico das sociedades desportivas e regulamenta o seu funcionamento (PCP); projetos de resolução n.os 621/XII (2.ª) — Recomenda ao Governo que apoie a recuperação do Mercado do Bolhão através de financiamento comunitário (PS), que baixa à 6.ª Comissão, e 622/XII (2.ª) — Aprova parecer fundamentado sobre a violação do princípio da subsidiariedade pela proposta de diretiva do Parlamento Europeu e do Conselho relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros no que respeita ao fabrico, à apresentação e à venda de produtos do tabaco e produtos afins (Comissão de Assuntos Europeus); e proposta de lei n.º 130/XII (2.ª) — Procede à segunda alteração ao Decreto-Lei n.º 123/2009, de 21 de maio, que define o regime jurídico da construção, do acesso e da instalação de redes e infraestruturas de comunicações eletrónicas, conformando-o com a disciplina da Lei n.º 9/2009, de 4 de março, e do Decreto-Lei n.º 92/2010, de 26 de julho, que transpuseram as Diretivas 2005/36/CE, do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa ao reconhecimento das qualificações profissionais, e 2006/123/CE, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno, que baixa à 6.ª Comissão.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Vamos, agora, entrar na ordem do dia, que hoje é preenchida com o debate, na generalidade, do projeto de lei n.º 348/XII (2.ª) — Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano, e suspende a atualização de renda dos diversos tipos de arrendamento, prevista na Lei n.º 6/2006, de 27 de fevereiro, na sua versão originária, bem como a correção extraordinária das rendas previstas na Lei n.º 46/85, de 20 de setembro (PCP). \nA apresentação do projeto de lei será feita por um Deputado membro do grupo parlamentar autor da iniciativa, concretamente o Sr. Deputado Paulo Sá. \nTem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Sr.ª Presidente, Srs. Deputados: Há um ano, o Governo apresentou à Assembleia da República uma proposta de lei de revisão do regime jurídico do arrendamento urbano, deixando bem claro qual era, e continua a ser, a sua opção política — confiar a questão da habitação a mercados totalmente liberalizados, enquanto o Estado é remetido para o papel de mero observador. Esta é uma opção que serve os grandes interesses imobiliários e financeiros, mas que fragiliza, de forma inaceitável, os direitos dos inquilinos e põe em causa o direito à habitação, consagrado na Constituição da República.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Exatamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Desde o primeiro momento, o PCP alertou que esta opção do Governo e da maioria parlamentar que o suporta resultaria no avolumar das dificuldades das famílias, já confrontadas com a diminuição acentuada dos seus rendimentos e o aumento generalizado do custo vida, resultante da política de austeridade imposta pelo Governo no âmbito do pacto de agressão assinado com a troica externa. Alertámos que esta opção do Governo conduziria ao despejo sumário de milhares e milhares de inquilinos mais carenciados, incapazes de fazerem frente aos brutais aumentos de renda. Alertámos para o drama social que resultaria da aplicação da nova lei das rendas e para o aumento de casos de exclusão extrema. \nO Governo, completamente insensível à realidade social do País, obcecado pelas suas opções neoliberais e pela rápida concretização do plano da troica de empobrecimento acelerado dos portugueses, refugia-se em declarações propagandísticas. Repete, até à exaustão, que os idosos, os deficientes e os mais carenciados estão protegidos pela lei do arrendamento urbano, que os novos valores das rendas resultam de um justo e equilibrado processo negocial, que nenhum idoso será despejado da sua casa e que o Governo terá uma resposta social para as situações mais críticas. Mas tudo isto não passa de mera propaganda do Governo! \nSe não, vejamos: a nova lei do arrendamento urbano facilita os despejos, agora concretizados através de um procedimento especial que carece da necessária salvaguarda dos direitos e garantias da parte mais frágil num processo de despejo — o inquilino. O inquilino pode ser expulso da sua habitação, de uma forma célere e eficaz, em variadíssimas situações, como, por exemplo, quando o senhorio pretende fazer obras de remodelação, ou quando o inquilino, encontrando-se numa situação de fragilidade económica, se atrasa apenas oito dias no pagamento da renda, quatro vezes no decurso de um ano. Ocupando este processo de despejo um lugar central na nova lei do arrendamento urbano, indispensável para a concretização do objetivo do Governo e da troica de criação daquilo a que chamam «um verdadeiro mercado de arrendamento», é justo dizer que esta é uma verdadeira lei dos despejos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Exatamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Uma lei dirigida principalmente contra os inquilinos mais idosos com contratos de arrendamento anteriores a 1990, celebrados por tempo indeterminado, visando expulsá-los das suas habitações, as quais, por se encontrarem maioritariamente situadas nos centros urbanos, são especialmente cobiçadas pelos grandes interesses imobiliários e financeiros, desejosos de se apropriarem dos bairros históricos das nossas cidades, em especial de Lisboa e do Porto.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Os anteriores mecanismos de atualização faseada e controlada do valor das rendas são substituídos, na lei dos despejos, por um pseudoprocesso negocial entre o inquilino e o senhorio, que atribui a este último a faculdade de decidir se aceita uma eventual contraproposta do inquilino, se fixa a renda em 1/15 do valor patrimonial tributário da habitação ou se, simplesmente, despeja o inquilino, pagando-lhe uma indemnização. Mas mesmo este pseudoprocesso negocial, completamente desequilibrado em favor do senhorio, acabou por ser totalmente esvaziado por uma outra realidade paralela: a atualização do valor fiscal dos imóveis.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Exatamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Neste processo de atualização, iniciado em 2012, e que deverá estar concluído até 31 de março deste ano, os valores patrimoniais tributários dispararam, atingindo, inclusivamente, em alguns casos, valores superiores ao valor comercial do imóvel. Esta circunstância permite aos senhorios fixar, de início, valores de renda muito elevados — correspondentes a 1/15 do valor fiscal —, superiores até aos valores praticados no mercado, tornando completamente irrelevante qualquer processo negocial.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "O Sr. Bernardino Soares", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "É correto, pois, afirmar que não há qualquer negociação; o que há é uma imposição!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Exatamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Os inquilinos com 65 ou mais anos, ou com deficiência superior a 60%, contrariamente ao que o Governo afirma, não estão protegidos nesta lei dos despejos. É verdade que o contrato de arrendamento só fica submetido ao novo regime de arrendamento urbano se houver acordo entre as partes, mas o senhorio pode atualizar a renda, fixando-a em 1/15 do valor patrimonial tributário. Sendo este valor, após a atualização em curso, bastante elevado, ao inquilino não restará outra alternativa que não seja a de abandonar a sua casa. Mesmo que os inquilinos conseguissem fazer face aos aumentos brutais das rendas, ao fim de cinco anos os senhorios poderiam aumentar novamente as rendas, agora sem qualquer limitação. Neste caso, a expulsão seria apenas adiada por cinco anos. Se tivermos em conta a idade avançada dos inquilinos, só podemos concluir que esta é uma lei desumana.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Exatamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Já tivemos a oportunidade de denunciar publicamente um caso de uma senhora de idade avançada — com 85 anos —, a quem o senhorio fixou a nova renda em 805 €, correspondente a 1/15 do valor patrimonial tributário.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Uma vergonha!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "A senhora teve de abandonar a casa onde vivia há dezenas de anos, onde tinha criado os seus filhos e à qual se sentia afetivamente ligada. Numa audição da comissão parlamentar que trata das questões da habitação, referindo-se aos problemas que a lei dos despejos está a criar aos inquilinos mais idosos, a Ministra Assunção Cristas afirmou candidamente defender «o princípio da tranquilidade na velhice».", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Conversa!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Esta lei não defende a tranquilidade na velhice; esta lei está é a destruir essa tranquilidade! \nOs inquilinos economicamente mais carenciados também não estão protegidos por esta lei dos despejos. É verdade que a lei estabelece tetos máximos para os novos valores das rendas, indexados ao rendimento mensal do agregado familiar. Contudo, esta norma não pode ser desinserida do contexto de profundo agravamento da situação económica e social que o País atravessa, resultante da política da troica, imposta no âmbito do pacto de agressão. Nos últimos anos, a esmagadora maioria dos portugueses empobreceu, por via dos cortes dos salários e pensões, do confisco dos subsídios, da redução ou eliminação de apoios sociais, do crescimento do desemprego e da precariedade e do aumento do custo de vida. Cada vez mais portugueses têm dificuldade em fazer chegar os seus parcos rendimentos até ao fim do mês. Neste contexto, os aumentos de renda, mesmo que limitados superiormente a uma percentagem do rendimento do agregado familiar, são incomportáveis para muitos inquilinos, podendo levar a situações de atraso, mesmo que pontuais, no pagamento das rendas. Nestas situações, a lei dos despejos é implacável: um atraso de apenas oito dias, quatro vezes no período de um ano, é suficiente para que o inquilino seja, pura e simplesmente, posto na rua!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "É a tranquilidade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Para o Governo, um idoso com uma reforma miserável, que se atrasa oito dias no pagamento da renda, é um incumpridor que merece ser imediatamente despejado da casa onde vive, mesmo que esse incumprimento se deva a uma situação de fragilidade económica, mesmo que, durante décadas, essa pessoa tenha sempre pago a renda a tempo e horas. É esta a tão apregoada proteção que o Governo dá aos mais carenciados: permitir que sejam postos no olho da rua se se atrasarem pontualmente no pagamento das rendas. \nE a resposta social?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Boa pergunta!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Onde está a resposta social de que a Ministra Assunção Cristas tanto fala? A lei dos despejos refere uma resposta social, nomeadamente através de subsídio de renda, de habitação social ou de mercado social de arrendamento, mas remete essa resposta para um diploma futuro. O Decreto-Lei n.º 266-C/2012, de 31 de dezembro, que regulamenta alguns aspetos da lei dos despejos, também fala na resposta social, mas, mais uma vez, remete para um diploma futuro. Não há qualquer resposta social! A anterior lei do arrendamento previa, no artigo 46.º, um subsídio de renda para agregados familiares com rendimentos inferiores a três salários mínimos e ainda para inquilinos com 65 ou mais anos de idade e rendimento inferior a cinco salários mínimos. Mas o Governo propôs a eliminação deste subsídio e a maioria parlamentar PSD/CDS aprovou. Agora, na lei do arrendamento urbano, por baixo do artigo que definia o subsídio de renda, aparece a palavra «revogado»! É esta a opção do Governo: eliminar a resposta social que já existia e prometer uma nova para um futuro indeterminado.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "A aplicação da lei dos despejos está a colocar inúmeros inquilinos, principalmente os mais idosos com contratos de arrendamento anteriores a 1990, numa situação desesperada. \nSão confrontados com aumentos brutais das rendas, incomportáveis para os seus rendimentos; sabem que, se não pagarem as novas rendas a tempo e horas, serão despejados; e mesmo que, com grande sacrifício, consigam pagar a renda, dentro de cinco anos serão confrontados com novos e brutais aumentos. À angústia e ao desespero dos inquilinos, o Governo responde com a criação de uma comissão de monitorização para proceder a uma «análise circunstanciada da execução da reforma do regime jurídico do arrendamento urbano». \nSr.ª Presidente, Srs. Deputados: O grave problema social que está a ser criado pela lei dos despejos não se resolve com a criação de uma comissão. Também não se resolve com meros remendos à lei, como alguns pretendem fazer. Exige, sim, a revogação da lei. É essa a proposta que o PCP traz aqui: revogação, com efeitos imediatos, da lei dos despejos e a suspensão da atualização dos valores das rendas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Paulo Sá, inscreveram-se, para lhe pedirem esclarecimentos, os Srs. Deputados Mota Andrade, do PS, Cristóvão Norte, do PSD, Artur Rêgo, do CDS-PP e Helena Pinto, do Bloco de Esquerda. \nNão sei como pretende responder, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Dois a dois, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Assim sendo, tem a palavra, em primeiro lugar, o Sr. Deputado Mota Andrade.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Sr.ª Presidente, Sr. Deputado Paulo Sá, que fique bem claro que o Partido Socialista, os 74 Deputados desta bancada estão contra a atual lei, a lei que este Governo, esta maioria do CDS e do PSD aprovou.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Isso, aliás, ficou bem claro há um ano, aquando da votação. \nE deixe que lhe diga que se existisse um governo do Partido Socialista não teríamos esta lei!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Há uma grande diferença entre um governo do Partido Socialista e um governo de maioria PSD e CDS-PP. \nÉ altura de V. Ex.ª reconhecer essa diferença, porque durante todo o tempo em que o PS esteve no governo a sua bancada disse sempre que era a mesma coisa um governo do Partido Socialista ou um governo da direita. \nTêm agora, neste caso, uma diferença clara entre um governo de direita e um governo do Partido Socialista.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Mas deixe também que lhe diga, Sr. Deputado, que não podemos acompanhar-vos neste diploma.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Ah!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Não, não podemos!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Sei que estão muito nervosos, mas gostaria de poder continuar a falar, Sr.ª Presidente.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Ouçam até ao fim!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Não podemos acompanhar-vos face ao teor concreto da proposta que os senhores aqui trazem, porque não podemos subscrever os n.os 3, 4 e 5 do artigo 1.º. \nPara as pessoas que estão em casa a ouvir-nos perceberem do que se trata, passo a ler o n.º 5 do artigo 1.º: «5- Ficam suspensas quaisquer atualizações de renda, independentemente do fim a que o arrendamento se destine».", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "E acha mal?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Ou seja, o que os senhores propõem é que todas as rendas fiquem suspensas, isto é, que não possam ter aumentos!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Está enganado!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "O que VV. Ex.as propõem é que se volte aos anos 40 do século passado, ou seja, que se volte ao Estado Novo!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Foi o Prof. Dr. Oliveira Salazar que congelou as rendas em 1945, e é isso que os senhores agora propõem: \no congelamento das rendas!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos dos Deputados do PCP Rita Rato e Bruno Dias.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Sr.ª Presidente, há muito barulho na Sala. \nA Sr.ª Deputada Rita Rato está muito incomodada. Eu percebo…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, aguardemos um pouco até ter condições para poder continuar.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Dizia eu, Sr.ª Presidente, que esta lei do Estado Novo — o passado assim nos diz — criou inúmeras injustiças: injustiças para os senhorios, mas também para os inquilinos. Fez com que não existisse mercado de arrendamento, com todo o constrangimento que isso criou no acesso à habitação. É por isso que não acompanhamos o PCP. \nMas estamos contra a atual lei, aprovada pela maioria PSD e CDS, e é por isso que iremos apresentar um projeto de resolução para que a lei seja revogada.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Vou terminar, Sr.ª Presidente, dirigindo uma pergunta muito clara ao Sr. Deputado Paulo Sá. \nGostaria de saber se o Sr. Deputado Paulo Sá defende ou não o mercado de arrendamento. Temos de saber se o Sr. Deputado e o PCP querem ou não um mercado de arrendamento a funcionar e se querem ou não que haja possibilidade, nomeadamente, de as novas gerações terem acesso à habitação, porque a proposta que aqui trazem é, pura e simplesmente, para destruir o mercado de arrendamento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Paulo Sá deu indicação à Mesa de que pretende responder de imediato ao Sr. Deputado Mota Andrade. \nTem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Sr.ª Presidente, o Sr. Deputado Mota Andrade veio aqui dizer que o PS está contra a lei dos despejos. \nNa exposição de motivos do projeto de resolução que referiu fala das consequências dramáticas dessa lei do despejo, mas depois agarra-se ao n.º 5 do artigo 1.º do projeto de lei apresentado pelo PCP, que se refere à suspensão da atualização de rendas. O que Sr. Deputado está a fazer é a agarrar-se ao acessório de forma a arranjar um pretexto para não votar o fundamental.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "O PS adota esta posição porque sabe que está profundamente comprometido com esta lei dos despejos!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Vou refrescar-lhe a memória, Sr. Deputado, a si e ao PS! \nNo Memorando de Entendimento que assinaram com a troica, juntamente com o PSD e com o CDS, defendiam uma revisão da lei do arrendamento para, por exemplo, eliminar gradualmente os mecanismos de controlo das rendas. O que os senhores defendiam era a liberalização total do mercado das rendas, para que as rendas pudessem aumentar tanto quanto os senhorios quisessem!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "E leio, Sr. Deputado: «Eliminar gradualmente os mecanismos de controlo de rendas». Está no pacto de agressão! \nMais: defendiam um procedimento de despejo extrajudicial por violação do contrato com o objetivo de encurtar o prazo de despejo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Mas vamos prosseguir com este exercício de refrescamento da memória do Sr. Deputado e dos demais Deputados do PS. \nQuando o Governo apresentou aqui a sua proposta de lei, os Srs. Deputados apresentaram o projeto de lei n.º 144/XII (1.ª) (que ia mais longe, inclusive, que o Governo), onde previam que o despejo pudesse ser feito por conservadores e oficiais de registo, por advogados, agentes de execução, notários, solicitadores, que tinham o poder de solicitar o auxílio das autoridades policiais para tomar posse do imóvel. \nEra isto que os senhores defendiam! \nMas, para voltar à questão de os senhores se agarrarem ao acessório para arranjarem um pretexto para votarem contra o essencial, Sr. Deputado Mota Andrade, quero dizer-lhe que nos comprometemos, em sede de especialidade, a retirar essas normas que referiu. Comprometemo-nos a retirar essas normas! Deixamos apenas o essencial! E o essencial é a revogação da lei dos despejos! \nEstá aí a resposta, Sr. Deputado. Vamos tirar a prova dos nove! Comprometemo-nos a retirar as normas que o Sr. Deputado referiu, em sede de especialidade, mantendo apenas o essencial: a revogação da lei do despejo! \nSr. Deputado Mota Andrade, diga lá, então: como é que o PS vai votar?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP e de Os Verdes.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Mota Andrade pediu a palavra para que efeito?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Para uma interpelação à Mesa, Sr.ª Presidente, pelo bom andamento dos trabalhos, porque penso que podemos ganhar aqui muito tempo.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Gostaria de, através da Sr.ª Presidente, dizer ao PCP que se retirar de imediato os n.os 3, 4 e 5 do artigo 1.º do seu projeto de lei, votaremos a favor.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Bernardino Soares também pediu a palavra. Para que efeito?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "É também para uma interpelação à Mesa, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, estamos num período de perguntas e respostas. Convinha não intercetar muito a dinâmica do debate.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Mas esta interpelação, como a anterior, tem a ver com a agenda do dia e com o projeto de lei em debate, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Sr.ª Presidente, gostaria de dizer que, se o problema é esse, e como temos de ajudar o Partido Socialista a tomar as posições certas,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Oh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "… retiraremos esses números e cingiremos o projeto de lei que apresentámos à revogação da lei do arrendamento. \nPena é, Sr.ª Presidente, que até agora isso não tenha sido dito e que o Partido Socialista tenha arranjado um pretexto, que agora desaparece, para não votar a revogação da lei do arrendamento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP e de Os Verdes.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Peço a palavra, Sr.ª Presidente.", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputado, já teve ocasião de se pronunciar sobre esta questão, pelo que vamos prosseguir com o debate. \nPara pedir esclarecimentos, tem a palavra o Sr. Deputado Cristóvão Norte.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Cristóvão Norte", 
+   "text": "Sr.ª Presidente, agora que, pelos vistos, o PS e o PCP já terminaram o namoro, irei intervir a este respeito e pedir os esclarecimentos necessários para dar conta desta matéria. \nComo o Sr. Deputado Paulo Sá certamente sabe, a reforma do arrendamento tem como finalidade dinamizar o mercado de arrendamento, combater a degradação notória do parque habitacional, revitalizar os centros urbanos e a competitividade das nossas cidades, mas, sobretudo, construir um modelo socialmente mais justo e equilibrado, que produza alternativas acessíveis e em que os portugueses possam confiar e acorrer para satisfazer as suas necessidades de ter uma habitação condigna.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Cristóvão Norte, peço desculpa por interrompê-lo, mas não se está a ouvir bem. Não sei se é do sistema de som, se é também porque há um certo ruído na Sala.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Cristóvão Norte", 
+   "text": "Obrigado, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Se o Sr. Deputado quiser recomeçar.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Cristóvão Norte", 
+   "text": "Vou tentar falar um pouco mais alto para que a Câmara possa ouvir, Sr.ª Presidente. \nRecomeço, então, dizendo que a reforma do arrendamento tem como finalidade dinamizar o mercado de arrendamento, combater a degradação notória do parque habitacional, revitalizar os centros urbanos e a competitividade das nossas cidades, mas, sobretudo, construir um modelo socialmente mais justo e equilibrado, que produza alternativas acessíveis e em que os portugueses possam confiar e acorrer para satisfazer as suas necessidades de ter uma habitação condigna.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, vou ter de o interromper de novo, porque a bancada do PSD reclama que não consegue ouvi-lo. \nNão se trata de um problema de contestação, o que se passa é que não há som na bancada do PSD. \nÉ preferível o Sr. Deputado esperar do que estar a falar e não ser ouvido. Vamos, pois, aguardar um pouco, se não se importa, Sr. Deputado. \nDevo dizer que, por vezes, há algum dilema da parte da Mesa sobre se se deve ou não interromper os Srs. Deputados, mas não se pode falar nestas condições.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Uma vez que já há condições de som, vamos retomar. \nEm nome do princípio da unidade do discurso, Sr. Deputado, poderá recomeçar a sua intervenção.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Cristóvão Norte", 
+   "text": "Obrigado, Sr.ª Presidente. \nSr. Deputado Paulo Sá, a reforma do arrendamento, como V. Ex.ª sabe, tem como finalidade dinamizar o mercado de arrendamento, combater a degradação notória do parque habitacional, revitalizar os centros urbanos e a competitividade das nossas cidades, mas, sobretudo, tem o objetivo de construir um modelo socialmente mais justo e equilibrado, que produza alternativas acessíveis e em que os portugueses possam confiar e acorrer para satisfazer as suas necessidades de ter uma habitação condigna. \nNeste sentido, o regime anterior, aquele que o Sr. Deputado, estranhamente ou não, visa recuperar, falhou rotundamente, pois trancou à chave a porta do mercado de arrendamento a muitos cidadãos, não democratizou o acesso ao arrendamento, exigiu demais a muitos outros e empurrou-os para o crédito à habitação com alguns resultados perversos que V. Ex.ª certamente não desconhece e que abalam o tecido social do País. \nEsta circunstância desprotegia quase todos. Tornava-os reféns de um modelo injusto e injustificável, pelo que a dinamização do mercado de arrendamento que está a ter lugar é a resposta certa e adequada para que todos sejam mais livres, tenham liberdade de escolha e com essa liberdade de escolha assegurem que são melhor protegidos. Isto porque a maior proteção não se consegue, como o Sr. Deputado professa, por via de rendas administrativas congeladas, que tratam tudo por igual e desincentivam a colocação de casas no mercado, mas consegue-se, isso sim, pela promoção da liberdade de escolha e por um funcionamento mais aberto do arrendamento, que devolva autonomia nas decisões e permita a quem nele quer estar melhores escolhas e preços mais acessíveis. \nE já que de proteção estamos a tratar e porque o Sr. Deputado tem sido particularmente cáustico na caracterização da reforma que foi realizada, catalogando-a como «lei dos despejos, uma ofensiva contra os mais vulneráveis, um insidioso ataque aos mais idosos e socialmente irresponsável» — são palavras suas, Sr. Deputado —, gostaria que o Sr. Deputado, de forma franca e aberta, perante esta Câmara e perante todos os portugueses, não se furtasse a responder e dissipasse dúvidas que possam ainda pairar sobre quatro questões muito simples, mas basilares, que lhe vou colocar. \nDiga-me, por favor, Sr. Deputado Paulo Sá, se é ou não verdade que quem se encontra em situação de necessidade é protegido por esta lei; se é ou não verdade que os idosos, os portadores de deficiência e os titulares de menores rendimentos beneficiam de cláusulas de salvaguardam que limitam a atualização da renda que pagam; se é ou não verdade que um agregado familiar com rendimentos mais baixos não pode ter uma atualização de renda superior a 10%; e, por último, Sr. Deputado Paulo Sá, responda de forma categórica, para que os portugueses saibam, se é ou não verdade que mais de 70% dos contratos mais antigos são inferiores a 100 € e que, por essa via, o esforço que é pedido ao arrendatário com escassos recursos na atualização é um esforço marginal e socialmente responsável.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Também para pedir esclarecimentos, tem a palavra o Sr. Deputado Artur Rêgo. O Sr. Deputado Paulo Sá informou a Mesa que responderá aos pedidos de esclarecimento em conjunto.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Sr.ª Presidente, Sr. Deputado Paulo Sá, de facto, quem lê o projeto de lei do Partido Comunista e ouve a exposição do Sr. Deputado pensa que estamos perante uma lei em que se decreta, consoante as vossas palavras, pura e simplesmente, o despejo de centenas de milhares de pessoas,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… todas pobres, todas necessitadas, todas carenciadas, sem qualquer consideração pelos seus direitos, incluindo o da habitação. \nCom um mínimo de honestidade intelectual, repare no seguinte: o Sr. Deputado disse, por exemplo, que a nova lei do arrendamento facilita os despejos, mas não disse em quê!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Então, não disse?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "É ou não verdade que, notificado da nova renda que o senhorio pretende, a lei não só impõe limites ao valor da renda como também que o valor da renda, no caso de inquilinos com rendimentos inferiores a 2800 €, tenha de ser graduado, nunca podendo ultrapassar um _x_% do valor do rendimento anual bruto corrigido do seu agregado familiar? É ou não verdade? E é ou não verdade que se o inquilino tiver rendimentos inferiores a 500 € o valor da renda nunca pode ir além dos 50 €? São estas as primeiras questões que lhe deixo. \nO Sr. Deputado Paulo Sá — e o Partido Comunistas, nas posições que tem tomado — pode adiantar alguns dados sobre o número de despejos que já foram decretados, os tais despejos selvagens, ilegítimos e ilegais?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Não faltava mais nada!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "Lá se vai a honestidade intelectual!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Deixo-lhe outra questão: o Sr. Deputado sabe que há cerca de 250 000 arrendamentos anteriores a 1990, dos quais mais de 50 000 são de habitação social — portanto, não estão incluídos e abrangidos por esta lei.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Portanto, estamos a falar de cerca de 200 000 arrendamentos anteriores a 1990. \nEntão, pegando no universo total que esta lei das rendas pode abranger, constatamos que os arrendamentos posteriores a 1995 já têm uma renda atualidade, porque, a partir de 1995, o seu valor foi sendo atualizado.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Portanto, o impacto desta lei nesses arrendamentos é perfeitamente marginal.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Seriedade intelectual!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Quanto aos outros arrendamentos, diga-me: tem o Sr. Deputado Paulo Sá (ou o Partido Comunista) ideia de, desses cerca de 200 000 arrendatários, quantos terão rendimentos superiores ou inferiores a 500 €?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "São todos milionários!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Não tem ideia? Vou adiantar-lhe um número: segundo o que apurámos (e estes são os números das próprias associações de proprietários e de inquilinos), cerca de três quartos dos desses 200 000 contratos de arrendamento têm inquilinos com rendimentos inferiores a 500 €. Ou seja, cerca de três quartos dessas rendas não vão poder subir acima dos 50 € por mês. Não é a renda ser aumentada em 50 €, é a renda total — a que existia —, acrescida do aumento, não pode ser superior a 50 € por mês.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Diz o Partido Comunistas Português, neste projeto de lei, que centenas de milhares de famílias vão ver as suas condições agravadas!?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "E está certo!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Explique lá isto, Sr. Deputado! Vamos ser minimamente honestos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira fazer o favor de terminar, Sr. Deputado.\nO Sr. *Artur Rêgo* (CDS-PP) — Termino já, Sr.ª Presidente. \nMais: quanto aos valores do IMI, o Sr. Deputado também não explicou aqui que o IMI tem um valor corrigido consoante a idade e a vetustez do imóvel, portanto nunca pode atingir os valores que o Sr. Deputado referiu. \nPara terminar, queria dizer o seguinte: olhando para a posição do Partido Comunista Português expressa aqui pelo Sr. Deputado Paulo Sá e olhando para o projeto de lei do Partido Comunista Português, que pede, pura e simplesmente, não só a revogação desta lei das rendas…", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "E bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… como também a revogação ou a suspensão de todas as anteriores que atualizavam as rendas antigas, só posso dizer que o Partido Comunista fez, pela voz do Sr. Deputado Paulo Sá, a mais acérrima defesa de uma lei do Estado novo que vi desde o 25 de Abril!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "A Sr.ª *Presidente* — Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Helena Pinto, do Bloco de Esquerda.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Sr.ª Presidente, Sr. Deputado Paulo Sá, gostaria de começar por afirmar o que todos já sabem, que o Bloco de Esquerda defende a revogação da atual lei das rendas, porque pensamos que esta lei não tem remendo possível e não há soluções menos más que possam enquadra-se neste cenário. \nAté porque, Sr.as e Srs. Deputados do CDS, a lei é, toda ela, feita em desequilíbrio, em que de um lado estão os mais fracos, os inquilinos, e do outro lado os senhorios. Mais: esta lei abre caminho para os fundos imobiliários, que estão à espreita dos centros das nossas cidades — aliás, Srs. Deputados, basta olhar para a cidade de Lisboa e percebe-se bem quais são as movimentações nesse sentido. \nSr. Deputado Paulo Sá, gostaria muito de questioná-lo sobre a posição da Ministra Assunção Cristas em relação às medidas que tomou recentemente, nomeadamente a criação da chamada «Comissão de Monitorização da Reforma do Arrendamento Urbano». \nDiz a Ministra Assunção Cristas, num jornal de hoje, que é «prematuro mexer na lei devido aos escassos meses da sua entrada em vigor e por alguns dos seus aspetos ainda estarem à espera de serem executados plenamente», o que vem um pouco no sentido do que o Sr. Deputado Artur Rêgo acabou de dizer. \nOra, gostaria de saber se o Sr. Deputado Paulo Sá me acompanha na ideia de que esta Comissão de Monitorização não vai monitorizar nada; aliás, a monitorizar alguma coisa, será só a desgraça das pessoas,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Pedro Filipe Soares", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "… porque, pelos vistos, para a Ministra Assunção Cristas, é preciso que haja despejos para a tal Comissão monitorizar e ver a sua plena aplicação. De resto, esta Comissão só tem uma função e, aliás, nem devia chamar-se Comissão de Monitorização, mas, sim, «comissão de ratificação» desta lei, pois vem legitimá-la.\nEstá à vista de toda a gente quais são os efeitos desta lei — até o PSD já veio falar sobre estes efeitos. \nPercebo que o CDS esteja na defesa da sua Ministra, mas convenhamos, Sr.as e Srs. Deputados, há que olhar para a realidade — quem vos viu e quem vos vê! \nSabemos perfeitamente qual é o segmento da população brutalmente atingido por esta lei: é o dos mais idosos, o dos mais desprotegidos, para os quais não existe qualquer garantia — deixem de o dizer, por favor! \nEstão a dar uma garantia de cinco anos a essa população e, ao fim de cinco anos, as pessoas podem ser colocadas na rua e não têm hipóteses de pagar a renda. \nEsta é a verdade, leiam a lei! \nTermino, Sr. Deputado Paulo Sá, perguntando-lhe se me acompanha nesta ideia de que a Ministra Assunção Cristas mais não faz do que criar uma comissão para ratificar a sua lei, que é mais uma manobra do Governo que, ainda por cima, vem atrasada no tempo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Paulo Sá.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Sr.ª Presidente, Srs. Deputados Cristóvão Norte, Artur Rêgo e Helena Pinto, agradeço as perguntas que me formularam. \nÉ claro que o Governo e a Ministra Assunção Cristas não têm qualquer resposta para o drama que se está a desenrolar perante os nossos olhos. Fala-se de uma resposta social, mas ela é sempre adiada. \nA única resposta que este Governo, a Ministra Assunção Cristas e a maioria apresentam é a tal Comissão de Monitorização da Reforma do Arrendamento Urbano, e se essa Comissão entrar em funcionamento será apenas para monitorizar a angústia e o desespero de inúmeros inquilinos com contratos anteriores a 1990, principalmente pessoas de idade avançada que estão a ser confrontadas com aumentos incomportáveis das rendas e com a ameaça de um despejo. Mesmo que façam sacrifícios e consigam pagar as rendas durante cinco anos, o despejo não ocorrerá agora, mas ocorrerá daqui a cinco anos. \nEsta não é a resposta para este problema. A única resposta é a da revogação da lei dos despejos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Exatamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Foram feitas perguntas muito concretas a que temos de responder. \nPerguntava o Sr. Deputado Cristóvão Norte se os idosos e os deficientes não estariam já protegidos por esta lei. Mas esta é uma ideia que o Governo e a maioria têm vindo a repetir de forma exaustiva e que não é verdade!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "É!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Sr. Deputado Cristóvão Norte, leia com atenção o artigo 36.º da Lei n.º 6/2006 e verá que, para os idosos, a transferência para o Novo Regimento do Arrendamento Urbano (NRAU) apenas é feita por acordo mútuo, mas o senhorio tem a faculdade de aumentar a renda, se assim o entender, até 1/15 do valor patrimonial tributário.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Ah, pois é!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "É esta a única limitação que consta do artigo 36.º — leia-o com atenção. \nOs senhores sabem que este valor patrimonial tributário está a ser atualizado e que atingiu valores muitos elevados, de forma que uma renda correspondente a 1/15 do valor patrimonial tributário é muito elevada e muitos inquilinos não têm, pura e simplesmente, a capacidade de apagar. \nJá dei um exemplo, que os Srs. Deputados conhecem porque foi uma carta dirigida por uma idosa de 85 anos à Sr.ª Presidente, que a remeteu a todos os grupos parlamentares, à qual o senhorio pediu uma renda de 805 €, que ela não podia pagar, e a senhora abandonou a sua casa! Os senhores conhecem este caso e conhecem, com certeza, muitos outros, através dos _e-mails_ que recebem todos os dias. \nEm suma, os idosos podem ter as rendas aumentadas até 1/15 do valor patrimonial tributário e este valor, Sr. Deputado Cristóvão Norte, é muito elevado. \nPergunta também o Sr. Deputado, na mesma linha do Sr. Deputado Artur Rêgo: os carenciados estão protegidos? Não, não estão protegidos por esta lei. É verdade que há limites superiores indexados ao rendimento do agregado familiar, mas esses limites são muito elevados, Sr. Deputado! Não compreendem que, com a política levada a cabo no âmbito do pacto de agressão, as famílias portuguesas têm a sua situação extremamente agravada, com a diminuição dos rendimentos e o aumento do custo de vida, e lutam para fazer chegar o seu salário ao fim do mês.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Neste contexto, mesmo um aumento de renda que seja de 25 € para 50 €… No tal exemplo de uma renda de 500 €, de que o Sr. Deputado falou, o máximo de aumento de renda é 50 €. Mas, se a renda aumentar de 25 € para 50 € num agregado familiar que tenha um rendimento mensal de 500 €, este é um aumento significativo! \nÉ isto que os senhores não querem compreender, é isto que o Governo não quer compreender. E porquê? \nPorque estão cegos pela vossa opção de criar um mercado de arrendamento. \nO Sr. Deputado Artur Rêgo questionava qual era, então, o objetivo do Governo. Respondo-lhe que esta lei é dirigida, essencialmente, aos idosos, aqueles que têm contratos de arrendamento anteriores a 1990 e que residem, maioritariamente, nos centros urbanos das grandes cidades, no Porto e em Lisboa, mas também noutras vilas e cidades portuguesas. Esta lei tem como objetivo expulsá-los, seja através da fixação de rendas muito elevadas, seja, posteriormente, pelo despejo dos centros urbanos, entregando esses centros urbanos à cobiça dos grandes interesses imobiliários especulativos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "É isto que a vossa lei faz! E os senhores estão completamente insensíveis ao drama, à angústia, ao desespero de inquilinos, principalmente idosos, que estão a ser confrontados com esta política de aumento de rendas incomportáveis para os seus rendimentos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr.ª Presidente, Srs. Deputados: Na linha da ofensiva que o Governo tem vindo a fazer aos direitos dos portugueses, alguns deles até com relevância constitucional, como é o caso do direito à habitação, o Governo procedeu à revisão do regime jurídico do arrendamento urbano. \nCom este novo regime, de facto, a lei do arrendamento deixou de ser a lei do arrendamento e passou a ser a lei dos despejos, porque este novo regime pouco mais visa do que permitir o despejo sumário de milhares de famílias das suas habitações. \nO Governo, ignorando tudo aquilo que tem vindo a fazer às famílias portuguesas, no sentido de lhes diminuir os seus rendimentos, ainda vem provocar substanciais aumentos nos valores das rendas, sobretudo àquelas pessoas cujos contratos de arrendamento são anteriores a 1990. E não é difícil perceber que a preocupação do Governo com este novo regime não foi, nem é, a concretização do direito à habitação e à qualidade de vida das pessoas; o que o Governo pretende é servir os interesses ligados aos mercados imobiliários. \nO que o Governo fez foi substituir os mecanismos de atualização faseada e controlada do valor das rendas por aquilo a que o Governo intitula de «negociação entre inquilino e senhorio», atribuindo ao senhorio a faculdade de aumentar livremente o valor das rendas bem como para despejar o inquilino, sem mais, caso este não consiga dar resposta ao valor da renda imposta pelo senhorio, que o Governo chama de «negociado».\nPortanto, estamos perante a mais completa liberalização das rendas. O Governo, o PSD e o CDS referiram que há exceções nalguns casos, como por exemplo: inquilinos com 65 ou mais anos; deficientes com grau de incapacidade de 60% ou inquilinos com rendimentos inferiores a cinco salários mínimos nacionais. Mas convém dizer — porque o PSD esqueceu-se de o fazer — que esta exceção tem natureza provisória, porque passados cinco anos, que é o período de transição, as rendas são liberalizadas como as outras.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Então, depois desses cinco anos, as pessoas que hoje têm 65 anos ficam mais novas? As pessoas com deficiência daqui por cinco anos vão reduzir as suas incapacidades? \nDaqui por cinco anos não vai haver pessoas a viver com rendimentos inferiores a cinco salários mínimos nacionais? Depois desses cinco anos, depois do período transitório, de que forma é que as pessoas podem contar com o Estado? Não contam! E não contam porque o Governo e a maioria que o suporta — PSD e CDS — continua a deixar as pessoas para trás! \nE mesmo dentro deste período de transição, estas pessoas estão sujeitas a aumentos, era bom que isto ficasse claro. É certo que há limites máximos, mas muitas pessoas idosas, deficientes ou com rendimentos baixos, mesmo assim, não conseguem fazer face a esses aumentos, sobretudo na situação em que vivemos, sobretudo tendo presente o universo de cortes e restrições que este Governo tem vindo a impor às famílias e cujo caminho tem sido o empobrecimento geral, como todos sabem. \nAs pessoas que não conseguem fazer face a esses brutais aumentos, o que podem esperar do Estado? \nNada. Que respostas sociais? Nenhumas! \nÉ, pois, mais do que evidente que a conversa do Governo e dos partidos da maioria, de que os inquilinos mais idosos, as pessoas com deficiência e as pessoas com mais dificuldades do ponto de vista económico estão protegidos por este novo regime, é conversa fiada. E é conversa fiada tanto durante os cinco anos do período de transição como depois desse período, porque num caso e noutro as rendas representam valores que são incomportáveis para muitas pessoas. \nAdivinham-se, assim, muitas situações de atraso no pagamento das rendas ou, até mesmo, impossibilidade objetiva do pagamento desses valores por parte de muitas famílias e o resultado também se adivinha: despejo imediato! \nÉ assim que o Governo resolve os problemas das pessoas, e depois ainda vem dizer que com este Governo ninguém fica para trás. Pois não, o Governo resolve os problemas dos senhorios e os inquilinos que se amanhem! Isto é uma vergonha a somar a tantas outras que o Governo tem vindo a fazer às famílias portuguesas, só que, desta vez, trata-se do direito à habitação com a importância que ele reveste para as pessoas. \nBem sabemos que para o Governo isto pouco representa, pouco interessa. Se as pessoas não têm dinheiro para pagar as rendas, vão viver para debaixo da ponte, pois para o Governo é indiferente. \nÉ esta a linha orientadora do Governo neste como noutros processos. \nPortanto, face à injustiça social que esta lei representa para Os Verdes, nós acompanhamos o Partido Comunista Português nos seus objetivos quanto à revogação desta lei, pelo que votaremos a favor.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Prôa, do PSD.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: O PCP apresenta hoje uma iniciativa muito ao seu estilo: irresponsável, irrealista e injusta.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Risos da Deputada do PCP Rita Rato.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Uma proposta coerente com o seu posicionamento, o mais conservador dos partidos portugueses, que defende o imobilismo mesmo quando a realidade demonstra o erro dessa atitude.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Nós defendemos o imobilismo e vocês o imobiliário!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Mas o PCP alia a este imobilismo o populismo. Escolhendo a atitude mais cómoda, sabendo que qualquer mudança implica algum descontentamento pelas opções ou até pela aversão à necessidade de adaptação, prefere deixar tudo como está. \nVejamos: Portugal tem hoje mais de 700 000 fogos devolutos, muitos deles poderiam ser arrendados. A percentagem de fogos arrendados diminuiu, as pessoas foram-se tornando escravas de empréstimos bancários e a sua mobilidade diminuiu.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "A população no centro das principais cidades diminuiu significativamente: \nem 30 anos, Lisboa perdeu 32% da sua população e o Porto 27%. Os centros urbanos foram ficando desertos, as casas degradaram-se e a pouca população que resta é idosa. Nas principais cidades, a população jovem foi empurrada para os subúrbios…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "E porquê?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "… e obrigada a comprar casa por falta de oferta de arrendamento no centro das cidades. \nEste é o resultado de não fazer nada. Sejamos claros: este é o cenário que o PCP hoje vem defender por trás da proposta que apresenta.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "A proposta do PCP é a proposta da degradação urbana, do esvaziamento do centro das cidades; a proposta do PCP é a que empurra os jovens para as periferias e os obriga a pedir empréstimos à banca;…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "… a proposta do PCP é a que mantém os mais idosos sem vizinhos, isolados e em casas degradadas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: O PSD defende a necessidade imperiosa de dinamizar o mercado de arrendamento como meio para reabilitar os centros urbanos e promover a economia. Para alcançar tais objetivos é necessário garantir a confiança e a justiça. Confiança nos procedimentos e aplicação da lei; justiça não privando os senhorios de obterem o rendimento dos seus imóveis mas, simultaneamente, assegurando a proteção aos cidadãos mais vulneráveis.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "É, é!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Este é o equilíbrio que o PSD quer assegurar e é este equilíbrio que todos devem exigir. Mas, Srs. Deputados, dirijo-me a todos quantos utilizam os receios dos mais vulneráveis como tática para o combate político. Há os que promovem o medo ao invés de procurarem ajudar a superar a falta de informação, afirmando que o PSD condena essa atitude e que a considera inadmissível. \nSr.ª Presidente, Sr.as e Srs. Deputados: O PSD está empenhado em acompanhar de forma especialmente atenta e exigente a aplicação da lei das rendas que recentemente entrou em vigor.\nEsta lei envolve um forte impacto social. Preocupam-nos em particular, entre os mais vulneráveis, os mais idosos que na reta final da sua vida merecem de todos nós o respeito e a preocupação pelo seu bem-estar.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Importa referir que a lei em vigor tem previstos mecanismos de proteção para os mais vulneráveis, sejam idosos ou pessoas com baixos rendimentos. São esses mecanismos que devem ser divulgados e utilizados. \nA salvaguarda dos mais vulneráveis na nossa comunidade é uma preocupação da qual o PSD não abdicará. Estaremos, por isso, atentos. \nSr.ª Presidente, Sr.as e Srs. Deputados: O PSD está atento e exigente. Por isso, há cerca de duas semanas, no Parlamento, chamámos a atenção para a necessidade de evitar atrasos na regulamentação da lei; por isso alertámos para a necessidade de melhorar a divulgação da informação sobre os mecanismos de proteção junto de quem deles pode beneficiar; e, por isso, afirmámos a necessidade de uma monitorização da aplicação da lei. \nPois bem, registamos hoje, com agrado, que a ação do Grupo Parlamentar do PSD foi consequente junto do Governo. \nVieram para o terreno, em articulação com as misericórdias, serviços de assistência social, freguesias e associações em ações de divulgação; o IHRU produziu, entretanto, um folheto com informação adequada e a fatura da EPAL inclui também já indicações sobre o assunto. \nPor outro lado, foi ontem publicado o despacho que cria a Comissão de Monitorização da Reforma do Arrendamento Urbano, e sabemos que, ontem mesmo, teve a sua primeira reunião. \nSão sinais de ajustes na aplicação da nova lei que reputamos de positivos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito! Estamos todos mais descansados!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: O PSD continuará atento e exigente e pronto para agir. Preocupam-nos os mais vulneráveis e os mais idosos. Estamos convictos de que a lei das rendas em vigor contém os mecanismos suficientes de salvaguarda para os mais frágeis no curto prazo. \nNesta fase, todo o esforço deverá ser concentrado na divulgação adequada, mas também atempada, das medidas de proteção, bem como na monitorização da aplicação desta lei. \nÉ também desejável que, tão rápido quanto possível, se clarifiquem quais os apoios do Estado previstos na lei após os cinco anos de transição. Mas queremos também que fique claro que o PSD não afasta a possibilidade de proceder a ajustes à presente lei. Seremos intransigentes em relação à correção de erros que venham a ser detetados. \nContinuaremos atentos e exigentes.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Inscreveram-se para pedir esclarecimentos os Srs. Deputados Jorge Machado, do PCP, Helena Pinto, do BE, e José Luís Ferreira, de Os Verdes. Pergunto como pretende responder, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Em conjunto, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Então, para pedir esclarecimentos, tem a palavra o Sr. Deputado Jorge Machado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Sr.ª Presidente, o Sr. Deputado António Prôa, nesta sua intervenção, conseguiu fazer um verdadeiro exercício de contorcionismo \nDisse que o projeto de lei que o PCP apresenta é injusto, mas não explica porquê; disse que o PCP quer que os fogos devolutos se mantenham devolutos e que os centros históricos continuem desertos, mas sabe muito bem que isso é mentira, porque para os fogos devolutos ou para os centros históricos, nos novos arrendamentos, já se aplicam rendas atualizadas e já se aplicam regras de contratos de arrendamento a termo, com curtos prazos de duração, pelo que esta lei não se aplica. \nEsta lei, aplicando-se a todos os contratos de arrendamento, tem um foque direcionado claramente aos contratos de arrendamento anteriores a 1990,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Claro!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "… isto é, destina-se particularmente aos mais idosos que têm contratos de arrendamento. O Sr. Deputado sabe muito bem que é assim. \nEsta lei dos despejos é, assim, bem demonstrativa da insensibilidade social deste Governo PSD/CDS-PP.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "O discurso que aqui fez e o discurso que foi feito pelo PSD e CDS, aquando da campanha eleitoral, em torno dos reformados, dos idosos e da sensibilidade social, cai claramente por terra com esta lei injusta, imoral e inaceitável. \nVou dar-lhe um exemplo muito concreto da cidade do Porto: como o Sr. Deputado sabe — se não sabe, passa a saber —, um terço das habitações da cidade do Porto são arrendadas, cerca de 30 000 fogos. Há freguesias como Miragaia, Santo Ildefonso, São Nicolau ou Vitória, em que cerca de 70 a 80% dos fogos são de arrendamento, e são precisamente as freguesia onde há uma percentagem muito elevada de idosos. \nPortanto, aqui a lei aplica-se concretamente a idosos que têm contratos de arrendamento. \nE o que é que diz a Associação dos Inquilinos do Norte de Portugal? Esta Associação vem constatar um facto (que, pelos vistos, custa também ao CDS), o de que há mais de 100 pedidos de apoio jurídico por dia, em que é relatado um conjunto de problemas. \nO primeiro problema — e peço-lhe uma resposta — é o seguinte: se um idoso não responder à proposta do senhorio no prazo de 30 dias, significa que aceita a proposta de aumento da renda. Então, e os idosos que não sabem ler? Que não percebem? Que não sabem?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Azar!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Não respondem! E, não respondendo, a lei presume o acordo e um aumento da renda. \nO Sr. Deputado acha que isto é mesmo salvaguardar os mais vulneráveis? Onde é que isto se encaixa no seu discurso de proteção dos idosos e dos mais frágeis? Não encaixa na lei, Sr. Deputado! \nUm outro problema que foi levantado, além do aumento da renda, tem a ver com a conversão dos contratos de arrendamento em contratos com termo. Assim, os contratos de arrendamento que não têm um prazo limite para caducarem passam a ser contratos em que cessam os seus efeitos; isto é, os idosos que têm contratos sem prazo para a sua conclusão, passados cinco anos passam a ter um contrato em que o prazo termina. \nOra, isto provoca um grande alarme, porque as pessoas podem, no final do prazo de cinco anos, independentemente da renda e de acordo, ser despejadas, pura e simplesmente. É isto que faz com que haja, efetivamente, a liberalização do mercado de arrendamento e é isto que o PSD e o CDS querem com esta lei. \nPortanto, Sr. Deputado António Prôa, os relatos que temos são de uma enorme angústia, de desespero e medo de milhares e milhares de idosos que estão confrontados com um contrato a termo e, de repente, podem ser despejados. \nPara concluir, quero referir que as consequências são dramáticas e que isto não é insensibilidade social, isto já é insanidade social!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Helena Pinto.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Sr.ª Presidente, Sr. Deputado António Prôa, em primeiro lugar, quero dizer-lhe que é bom ouvir da parte do PSD o reconhecimento de que não existem apoios sociais após o período de cinco anos. Isto porque acabou de dizer o seguinte: «Esperemos a clarificação destes apoios sociais tão cedo quanto possível». Portanto, reconheceu que não há garantia nenhuma quanto a esses apoios sociais. \nEm segundo lugar, o Sr. Deputado reconheceu que há um atraso na informação. Aliás, disse que é preciso ajudar a superar a falta de informação. Os Srs. Deputados estão a reconhecer o falhanço desta lei! \nPor último, o Sr. Deputado disse que está atento e que é exigente. Bom, está atento e é exigente, mas espera para ver! Ó Sr. Deputado, com toda a franqueza, o que é preciso é agir para impedir que esta lei traga ainda mais desgraça às pessoas. \nVou colocar-lhe duas perguntas muito concretas e agradecia respostas também muito concretas. \nPrimeiro, o que é que o Sr. Deputado António Prôa e a bancada do PSD têm a dizer a todos os inquilinos que já receberam a carta, que já deram a resposta ao senhorio e que sofreram da tal falta de informação? \nComo é que resolve o problema destas centenas e centenas de pessoas? O que é que têm a dizer? E são centenas! \nSegundo, peço-lhe que esclareça a Câmara, de uma vez por todas, por que é que o PSD, no Programa do Governo, dizia que o prazo de transição para este novo regime seria de 15 anos e afinal, na lei, ficou previsto um prazo de cinco anos. Diga, de uma vez por todas, por que é que mudaram de posição!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr.ª Presidente, Sr. Deputado António Prôa, disse várias vezes que esta lei protegia os mais vulneráveis. Lembro-lhe que a anterior lei, no seu artigo 46.º, previa um subsídio de renda para agregados familiares com rendimentos inferiores a três salários mínimos, para inquilinos com 65 ou mais anos de idade e também com rendimento inferior a cinco salários mínimos. \nOra, olho para a lei atual, que o Sr. Deputado diz proteger os mais desfavorecidos, fixo-me no artigo 46.º, com a epígrafe «Subsídio de renda», e o que vejo? Revogado. Está revogado! Vocês revogaram este artigo, Sr. Deputado! E ainda vem dizer que a lei protege os mais vulneráveis?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Isso só dito por brincadeira; só dito por reserva mental! \nSr. Deputado, o subsídio de renda é para esquecer. Poderá vir um dia…, não se sabe quando. \nQuanto ao regime de exceção, já aqui foi dito várias vezes que tem natureza provisória. Isto é, depois de passados os cinco anos, a renda passa a ser tratada como todas as outras. Não há respostas sociais, depois desses cinco anos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Até parece que, depois desses cinco anos, as pessoas ficam com menos de 65 anos de idade, até com menos incapacidade ou a ganhar mais do que cinco salários mínimos nacionais. Não é isso que se vai passar! \nMas, mesmo dentro destes cinco anos, há muitas famílias que não vão aguentar os aumentos que a lei atualmente permite.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "O que penso é que confiar o arrendamento urbano, porque foi isso que o Governo fez, ao mercado totalmente liberalizado é fomentar as injustiças sociais e apenas responde a uma encomenda do sector imobiliário, mas é também a completa desresponsabilização do Estado nesta matéria. O Estado volta a «sair de cena»! \nSr. Deputado, na semana passada, chegaram notícias de que na Galiza os bombeiros se recusaram a arrombar portas para que a polícia não procedesse ao despejo de pessoas com 80 anos. Face às injustiças que esta lei vai trazer, o Sr. Deputado não receia que isto possa vir a acontecer no nosso País? O Sr. Deputado não receia que os bombeiros, em vez de arrombarem as portas, se sentem e pacificamente comecem a cantar a _Grândola_?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado António Prôa.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Sr.ª Presidente, agradeço, em primeiro lugar, aos Srs. Deputados que tiveram a gentileza de me colocar perguntas. \nComeço por responder à questão da injustiça, colocada pelo Sr. Deputado José Luís Ferreira. \nSr. Deputado, injustiça é o que se verifica na situação atual em que pessoas com elevados rendimentos pagam rendas insignificantes,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Mas quem é que tem elevados rendimentos?! As pessoas vivem com pensões de miséria!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "… e senhorios que investiram as suas poupanças não veem remunerado o seu investimento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "O Sr. Deputado tem que mudar de bairro!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Isso, sim, é injustiça…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Lynce", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "… e é com isso que queremos acabar. Queremos que quem pode pagar passe a pagar de acordo com as suas possibilidades.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Sabe que isso não é verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Isso, sim, é justiça.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Quanto à questão dos fogos devolutos, sejamos muito claros. Claro que a lei, entretanto, evoluiu, mas subsistiu um problema que não foi resolvido — e, pelos vistos, ainda não é desta que os Srs. Deputados do PCP o querem resolver —, que é o da insegurança relativamente à aplicação da lei. Foi essa insegurança que inibiu a existência de um mercado de arrendamento e que fez com que pessoas com poucos rendimentos se vissem obrigadas a hipotecar o seu futuro através de um empréstimo bancário. Se houvesse arrendamento, as pessoas teriam rendimento disponível e mobilidade para encontrar outras oportunidades de emprego. \nCom a atual situação e com o que os Srs. Deputados preconizam, manter-se-á a escravidão relativamente aos bancos e a impossibilidade de as pessoas procurarem outras oportunidades de emprego por todo o País.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Não tivessem roubado os salários às pessoas! Roubaram os salários às pessoas e agora a culpa é delas!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "Relativamente à questão dos direitos sociais após o período de transição de cinco anos, sejamos também muito claros. Sr.ª Deputada Helena Pinto, creio que me ouviu bem, mas ainda assim vou tentar ser mais claro: eu não disse que não havia apoios sociais; eu disse que havia apoios sociais…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Quais são?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "… e que eles devem ser clarificados. Julgo que sobre esta matéria comungamos da mesma preocupação. É isso que deve ser feito pelo Governo quanto antes. \nRespondendo ainda à questão relativa à coerência entre o que afirmei há pouco e a nossa ação,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Pedro Filipe Soares", 
+   "text": "E a pergunta sobre o período de transição de 15 anos?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "… Sr.ª Deputada Helena Pinto, como viu, há duas semanas, chamámos a atenção para problemas não da lei mas da sua aplicação, nomeadamente no que respeita à informação. \nFomos muito concretos não só na identificação do problema mas também nas propostas para ultrapassar esse problema, porque é essa atitude positiva que nos separa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Lynce", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "E, quando hoje verificamos que essas medidas já foram implementadas, dizemos com satisfação…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Com satisfação? As pessoas estão desesperadas!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "… que agimos e que a nossa atitude foi consequente. \nA terminar queria fazer um apelo. Trata-se de uma matéria, como disse, com um impacto social muito assinalável, o que nos deveria obrigar a todos a ter uma atitude positiva e construtiva…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos do PCP e da Deputada do BE Helena Pinto.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Prôa", 
+   "text": "… que ajudasse precisamente os mais frágeis que têm menos acesso à informação. Ora, tendo nós essa informação, temos o dever de facultar essa informação e de ajudar essas pessoas. Assustá-las não é legítimo no combate político, especialmente nestas circunstâncias.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Ramos Preto.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Ficou sem intervenção!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Sr.ª Presidente, diz o Sr. Deputado Bernardino Soares que fiquei sem intervenção. Não é verdade, verá que não é verdade. \nSr.ª Presidente, Sr.as e Srs. Deputados: No início da apreciação desta iniciativa potestativa do PCP, que pretende revogar a nova lei do arrendamento urbano, o PS vem vincar, para que fique bem claro, que votou contra a aprovação da Lei n.º 31/2012, promovida por este Governo do PSD/CDS. Votou contra atenta a insensibilidade social das suas medidas e a enorme perturbação que resultaria da sua aplicação. \nO PCP, com a sua proposta, vem pretender repor no ordenamento jurídico português a Lei n.º 6/2006, aqui aprovada com os votos do PS, sete anos depois de ter votado contra a sua aprovação.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Bem lembrado!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Bem-vindos, Srs. Deputados do PCP,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "A atual ainda é pior!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "… ao regime jurídico do arrendamento urbano contra o qual votaram contra, há sete anos…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "… e que nós aqui aprovámos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Seria caso para dizer que «mais vale tarde do que nunca». \nPorém, embora o PCP reconheça, no seu projeto de lei, que a Lei n.º 6/2006, a tal que votaram contra, consagrava mecanismos de atualização faseada e controlada do valor das rendas, em contraposição ao disposto na atual lei, a qual, nas palavras preambulares do projeto do PCP, atribui ao senhorio um poder desmesurado para aumentar livremente o valor das rendas, entendia propor que ficasse suspensa a atualização das leis que resultavam da Lei n.º 6/2006, bem como todas as outras rendas resultantes de outros regimes jurídicos. \nAinda bem que o PCP alterou, já em Plenário, o seu projeto de lei e por isso, Sr. Deputado Bernardino, é verdade que a minha intervenção tem de ser encurtada, porque o PCP veio para o bom caminho.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "O PCP tinha um projeto de lei, apresentado no Parlamento, cujo objeto não era a revogação das leis", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Era, era!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Vou dizer o que os senhores pretendiam com o vosso projeto — e, Sr. Deputado Bernardino Soares não faça essa cara de ofendido. \nO que VV. Ex.as pretendiam era um verdadeiro congelamento das rendas…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Responda à direita!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "… e, perante a posição do Partido Socialista, foram obrigados a entrar no bom caminho, no caminho da revogação da lei do arrendamento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "A vossa proposta, que era extremista, foi convalidada numa proposta razoável que merecerá o apoio do Partido Socialista.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "A vossa avaliação das coisas é muito volátil.", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Refiro-me à vossa proposta, que era contraposta ao radicalismo do projeto do PSD e do CDS que aqui foi aprovado. \nComo VV. Ex.as sabem, a lei que neste momento está em vigor promove uma acelerada e exagerada transição das rendas anteriores a 1990 para o regime das rendas livres, em manifesta violação quer do Programa Eleitoral do PSD quer do Programa deste Governo PSD/CDS, que consagrava um período de transição de 15 anos e que foi trocado sem despudor para um período de cinco anos ou até inferior a cinco anos, se considerarmos alguns inquilinos incautos, alguns inquilinos muito idosos, alguns inquilinos sem capacidade para, no prazo de 30 dias, cumprirem as obrigações de resposta que a atual lei lhes impõe. \nSr.ª Presidente, Sr.as e Srs. Deputados: Nas sociedades modernas, tem de haver um justo equilíbrio entre os interesses em presença e tem de haver um especial cuidado no processo legislativo quanto às consequências de cada lei que aqui aprovamos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "O Governo, neste caso, foi apressado, não encontrou as melhores soluções, não curou de procurar o ponto de equilíbrio…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "… e não teve a presciência das consequências da entrada em vigor de uma lei desta natureza sem que os mecanismos que permitissem atenuar os seus efeitos mais malévolos para os inquilinos mais desprotegidos estivessem em vigor.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Aqui, em fevereiro de 2012, há mais de 1 ano, o Governo disse-nos que estava preparado para, nos prazos estabelecidos na lei, promover a publicação dos diplomas complementares que lhe dessem enquadramento. \nO Governo, dizem os jornais, garantiu ao Sr. Presidente da República que legislaria em consonância e que ninguém ficaria intranquilo no que se refere à promulgação da Lei n.º 31/2012, de 14 de agosto. \nCabe, então, perguntar ao Governo e, aqui, aos partidos da oposição…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Já não está no Governo!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "… se nos podem informar, dado que o Governo não está presente na Câmara, para quando a publicação do diploma que aprova o regime da resposta social aplicável aos contratos para fins habitacional celebrados antes da vigência do Novo Regime de Arrendamento Urbano (NRAU).", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Essa é uma boa pergunta!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "É que, sendo esta questão tão relevante, levou o Sr. Presidente da República, antes da promulgação da lei, a questionar o Governo no sentido de saber por que é que o Governo ainda não nos apresentou qualquer iniciativa legislativa, sete meses após a promulgação da lei. \nPor outro lado, tem-nos dito o Governo que vai promover a monitorização do estado da arte da aplicação do diploma e que, entretanto, vai lançar uma intensa campanha de informação para que os inquilinos possam reagir, em tempo útil, quando notificados pelos senhorios. \nAcontece que o Governo se atrasou, ao não ter criado, no prazo de 180 dias, como se comprometeu, o observatório da habitação e da reabilitação urbana, bem como da base de dados da habitação. \nPodem, agora, alguns Srs. Deputados do PSD e, talvez, do CDS vir aqui fazer _mea culpa_, manifestar o ensejo de avançar com múltiplas medidas para esclarecimento dos arrendatários carenciados e menos esclarecidos, não fora o papel determinante das associações de inquilinos, de muitas juntas de freguesia e de outro tipo de associações e muitos daqueles que poderão ou poderiam beneficiar do regime de transição, cinco anos, depois de lhes terem negado os outros 10 anos, prometidos em campanha eleitoral, e muitos deles já estariam com a sua relação contratual transformada em contrato de regime novo, com todas as consequências que dele resultam para a maior parte destes inquilinos pobres.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Neste particular, a falta de iniciativa legislativa do Governo é indesculpável e tem de ser denunciada.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "O Governo devia ter previsto as consequências da entrada em vigor de uma lei tão radical, neste particular e, como tal, deveria ter acautelado os seus efeitos com medidas legislativas prudenciais que tivessem salvaguardo os interesses de todas as partes contratantes: senhorios e inquilinos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Não basta proclamar, como faz o Governo, que as pessoas só pagam aquilo que podem pagar. É necessário que estejam informadas, que sejam esclarecidas, porque, se não estiverem preparadas para responderem em tempo, verão imediatamente o seu contrato de arrendamento convertido para um regime em que terão de pagar aquilo que efetivamente não podem pagar e ver-se-ão despejadas, atento o efeito fulminante de uma não-resposta, em 30 dias, como estabelecido nesta verdadeira lei-guilhotina, com que, hoje, estamos confrontados. \nAdemais, estamos perante uma lei célere, muito célere e simplificada para benefício de senhorios esclarecidos e lenta, muito lenta, no esclarecimento dos inquilinos mais idosos, mais carentes e mais desprotegidos. E isso é iníquo. \nDe um lado, basta uma simples carta; do outro, é necessário responder em 30 dias, ir à segurança social, ir às finanças, ir correr toda uma via sacra para conseguir manter um contrato de arrendamento e uma renda atualizada, nos limites da sobrevivência para quem já vive nesses mesmos limites. \nEm fevereiro de 2012, o Partido Socialista apresentou outro caminho, um caminho gradualista e reformista, um caminho que apostava no impulso necessário à reabilitação urbana, promovesse o crédito aos investidores nesse mesmo tipo de atividade, um caminho que dava estabilidade aos contratos de arrendamento de habitação, do comércio, dos serviços e de outras atividades similares, que tão preocupados estão com um clima de instabilidade que as diversas leis deste Governo têm vindo a acentuar.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Um caminho em que os interesses dos mais carenciados fossem verdadeiramente protegidos. \nO Governo deveria parar para pensar, ver o que correu mal e, depois, promover, de imediato, as medidas necessárias à correção da enorme injustiça a que está a corresponder todo este processo legislativo. \nE se também, nesta matéria, faltar visão ao Governo e a lei não for revogada, por oposição do PSD e do CDS, cá estará o Partido Socialista para, depois, indicar o caminho, respondendo ao apelo unanime da sociedade com um conjunto de propostas com alcance social muito significativo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "No mínimo, Sr.ª Presidente, Sr.as e Srs. Deputados, o Balcão Nacional de Arrendamento.…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "De despejos!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "… fazendo justiça à sua denominação, deveria, além de assegurar a tramitação do procedimento especial de despejo, promover e assegurar o apoio e o acompanhamento dos arrendatários, nomeadamente quanto ao processo de transição para o NRAU, acompanhando, ainda, o processo de atualização das rendas, previsto no artigo 30.º e seguintes da atual lei. \nDepois, dever-se-ia alargar o prazo de resposta por parte dos inquilinos, no mínimo, para 90 dias após a receção da carta do senhorio.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Isto além de que é necessário que se cumpra o prometido e que o prazo de transição para os contratos de arrendamento habitacional volte à proposta originária — 15 anos — …", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "… e que o regime de transição para o pequeno comércio e serviços se fixe em 15 anos, como as diversas associações sugeriram em sede de apreciação do processo legislativo, aquando da discussão na especialidade. \nPor último, é urgente que, na determinação do valor do bem locado, se tenha em consideração o estado de conservação do prédio sobre o qual incide o contrato de arrendamento, como, de resto, e bem, o previa a Lei n.º 6/2006.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Carlos Zorrinho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "São medidas que nos comprometemos a submeter à Assembleia da República, em nome de uma lei mais justa, mais esclarecida e socialmente aceitável.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Entretanto, assumiu a presidência o Vice-Presidente António Filipe.", 
+   "type": "presidente_troca"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Altino Bessa.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Hoje, já assistimos aqui a várias intervenções e também a um projeto que hoje aqui, em pleno Parlamento, num desafio lançado entre as bancadas do PCP e do PS, foi amputado em três dos seus cinco pontos, o que significa que o PCP também não tinha tanta convicção naquilo que aqui propunha. No entanto, perante este desafio e surpreendentemente, o Partido Socialista diz que sim, que votará favoravelmente esta proposta. \nGostaria de chamar a atenção do Sr. Deputado Ramos Preto e recordar-lhe o ponto 6 do Memorando de Entendimento, nomeadamente no que ao mercado de habitação diz respeito.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "E como seus objetivos tinham: «Melhorar o acesso das famílias à habitação; promover a mobilidade laboral; melhorar a qualidade das habitações e aproveitar melhor as casas de habitação já existentes; reduzir os incentivos ao endividamento das famílias». \nMas, depois, dizia «(…) a fim de garantir obrigações e direitos equilibrados de senhorios e inquilinos, tendo em conta os grupos mais vulneráveis.» — está nesta Lei — «(…) ao abrigo das quais pode ser efetuada a renegociação de arrendamentos habitacionais sem prazo…» — está nesta Lei — «… incluindo a limitação da possibilidade de transmissão do contrato para familiares em primeiro grau;» — está nesta Lei — «(…) eliminando gradualmente os mecanismos de controlo de rendas…» — coisa contrária ao que agora o Sr. Deputado Ramos Preto aqui veio afirmar.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Vou ler, novamente: «eliminando gradualmente os mecanismos de controlo de rendas». Pelos vistos, afinal, estes mecanismos já não estão na proposta do Partido Socialista, já não os pretende eliminar. \nMais uma vez, o Partido Socialista faz aquilo a que nos tem vindo a habituar, que é contrariar aquilo que assinou em determinada altura e em determinadas circunstâncias com as instâncias europeias.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "O Memorando diz mais: «prever um procedimento de despejo extrajudicial por violação de contrato, com o objetivo de encurtar o prazo de despejo para três meses;».", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Então, como é?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Na proposta de lei que, na altura, foi aqui discutida, o Partido Socialista propôs que o prazo de resposta do inquilino fosse de 40 dias e não de 30.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Ora!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Agora, já veio dizer que, afinal, não são 40 dias mas 90. \nE o Memorando diz mais ainda: «reforçar a utilização dos processos extrajudiciais existentes para ações de partilha de imóveis herdados». \nSr. Deputado Ramos Preto, lamento profundamente aquilo que aqui hoje veio defender, assim como lamento profundamente aquilo que o Partido Socialista veio aqui defender. \nRelativamente ao Balcão Nacional de Arrendamento, recordo-me muito bem que o Partido Socialista não queria balcão de arrendamento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Ora!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Queria a polícia à porta dos arrendatários, juntamente com os senhorios e com advogados ou com solicitadores do senhorio!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Bem lembrado!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Ou seja, resolviam o problema de uma das partes sem, sequer, darem a possibilidade à outra parte de se defender, o que não acontece nesta lei com o Balcão Nacional de Arrendamento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Pois, é!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Convém recordar isso e que não tenhamos fraca memória.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Mas, perante estas propostas e tudo aquilo que hoje aqui discutimos, e ainda bem!, o Governo já tomou medidas, já apresentou formulários capazes de esclarecer — formulários úteis, muito úteis…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP Bernardino Soares.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Vá ver os dados, Sr. Deputado. Vá ver os dados das pessoas que já recorreram a este mecanismo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Isto, sim, é um esclarecimento claro, isto não é um alarmismo social pretendido de demagogia política que é feita pelo Partido Comunista, nesta Casa. Não há alarme social algum!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não há alarme?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Os senhores é que o querem causar, mas ele não existe, na realidade.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não há alarme mas, sim uma sirene!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "A Mesa regista a inscrição, para pedir esclarecimentos, de três Srs. Deputados. Se for poupadinho no tempo, terá possibilidades de lhes responder. \nTem a palavra, para pedir esclarecimentos, o Sr. Deputado Ramos Preto.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Sr. Presidente, Sr. Deputado Altino Bessa, como o Sr. Deputado tem pouco tempo para responder, vou ser muito sintético nas perguntas. \nSr. Deputado Altino Bessa, V. Ex.ª sabe que as eleições legislativas foram depois de o Memorando de Entendimento ser assinado. \nO Programa eleitoral do PSD…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do Deputado do CDS-PP Nuno Magalhães.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Sr. Deputado Nuno Magalhães, não proteste, porque também é cúmplice. Sabe porquê? Vou dizer-lhe: \nporque o Programa Eleitoral do PSD dizia que a transição se faria em 15 anos e, quando os senhores apresentaram aqui o Programa do Governo,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "O Programa do Governo. Está lá!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "… que o aconselho a ler, o CDS aceitou que ficasse lá escrito 15 anos, mas, quando V. Ex.ª votou aqui a lei, concordou que ficasse cinco anos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Portanto, ponha a mão na consciência e veja quem é que pratica atos de acordo com aquilo que são as suas responsabilidades e quem pratica atos contra aquilo que são as suas responsabilidades. \nQuanto ao Balcão Nacional de Arrendamento, Sr. Deputado Altino Bessa, eu muito gostaria que o Sr. Deputado propusesse à Sr.ª Ministra ou aqui, no Parlamento, que os inquilinos fossem também aconselhados pelo Balcão Nacional de Arrendamento, na salvaguarda dos seus direitos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "E não são os senhorios!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Ramos Preto", 
+   "text": "Foi isso que eu disse! \nV. Ex.ª sabe que um idoso, com 80 anos, analfabeto, que receba uma carta para responder em 30 dias, se não o fizer, como essa lei é uma «lei-guilhotina», tem um efeito fulminante, essa pessoa ficará sujeita a um contrato novo, sem possibilidades de lhe dar cumprimento. \nÉ isto que está em causa. Veja se percebe!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Presumo que o Sr. Deputado Altino Bessa responde, no final, aos pedidos de esclarecimento.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Exatamente, Sr. Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Miguel Tiago.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "Sr. Presidente, Sr. Deputado Altino Bessa, de facto, as responsabilidades que assacou ao PS devem, neste momento, ser clarificadas, porque o Memorando foi assinado por esse partido e tudo isso lá estava. Contudo, não deixa também de haver aqui alguns esclarecimentos a pedir ao CDS. \nO CDS, que, em altura de eleições, tem toda a simpatia — que é já conhecida — pelos mais idosos e que fala das famílias, veio agora apadrinhar, aliás, presidir, através do Ministério da Agricultura, do Ambiente e do Ordenamento do Território, à aplicação de uma lei que é não só contra as famílias como também confronta os idosos com uma situação de autêntico terror social.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "Sr. Deputado, não são os Deputados Comunistas, nas dezenas de sessões de esclarecimento que têm feito um pouco por todo o País, particularmente em Lisboa, nas quais eu próprio tenho participado, que lançam o alarme. São as cartas que chegam a casa das pessoas,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "… que fazem com que estas sejam confrontadas com a má vontade e o abuso de muitos senhorios, que ignoram até os limites que a lei propõe e fazem propostas verdadeiramente terroristas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bruno Dias", 
+   "text": "Essa é que é essa!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "São pessoas que, muitas vezes, abusando da ignorância dos inquilinos perante a letra da lei e as cláusulas que os podem salvaguardar impõem esse terror social.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "Mas vejamos então essas cláusulas, Sr. Deputado Altino Bessa, que o CDS tem valorizado e que diz protegerem os idosos. \nO CDS, que alega sempre proteger os idosos, diz que quem tem mais de 65 anos está salvaguardado. É verdade, está salvaguardado para já e está submetido a um regime gradual, mas quando tiver 70 anos vai para a rua. Grande sensibilidade, Sr. Deputado! Protege-o agora, com 65 anos, mas quando o idoso tiver 70 anos vai parar ao olho da rua!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "Só gosta dos idosos com 65 anos; deixa de gostar deles quando têm 70 anos! Ó Sr. Deputado, de facto, é uma insensibilidade social! \nNeste contexto, em que as pessoas estão sujeitas ao vosso pacto de agressão no que se refere aos seus direitos, em que as pessoas estão sujeitas ao esbulho dos seus rendimentos, dos seus salários e das suas pensões, vem este Governo dizer que se não tiverem as condições para pagar a renda que os senhorios quiserem vão para o olho da rua.\nSr. Deputado, deixo-lhe três perguntas muito breves. \nSr. Deputado, tem a noção da situação com que estão confrontados milhares de arrendatários em Lisboa, sejam comerciantes, coletividades, que desempenham um importante papel junto da sociedade e dos bairros, ou mesmo pessoas individuais ou casais? Tem noção que as pessoas que forem confrontadas com a viuvez a meio do aumento vão ter de pagar a renda, durante um ano, como se tivessem vencimentos de dois, num casal?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "O Sr. Deputado tem noção da situação que isto está a gerar? \nSegunda pergunta: acha que é igual a situação do senhorio, que se impuser um preço que o inquilino não possa pagar o mais que lhe pode acontecer é ter de esperar por outra proposta, e a do inquilino, que vai para o olho da rua se não tiver dinheiro para pagar a renda?! Acha que isto é uma luta entre iguais, Sr. Deputado?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Queira concluir, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "Para terminar, Sr. Deputado, pergunto-lhe o seguinte: como é que a bancada do CDS, depois de ter andado a fazer uma campanha eleitoral sempre virada para a família, para o visto familiar e para os idosos, consegue estar descansada enquanto as pessoas estão em pânico lá fora? Aqui mesmo, à porta da Assembleia, um restaurante acaba de fechar porque a renda quadruplicou por causa desta lei. Nem é preciso ir aos bairros, Sr. Deputado, vá pelo menos aqui ao lado!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Também para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Helena Pinto.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Sr. Presidente, Sr. Deputado Altino Bessa, a minha questão é muito direta. \nO CDS aparece sempre atrasado neste debate. Já quando, há pouco mais de um mês, o Bloco de Esquerda trouxe este debate a Plenário, os senhores vieram com o número de telefone do Instituto da Habitação e da Reabilitação Urbana (IHRU), hoje o Sr. Deputado vem com um folheto na mão, que chega atrasado. \nA minha pergunta é muito simples, Sr. Deputado Altino Bessa: o que é que o senhor tem a dizer aos milhares de inquilinos — e são milhares, eu tenho os dados — que receberam a carta do senhorio e não tiveram acesso a nenhuma informação, nem sequer a esse folheto, que vem tarde e a más horas? O que é que o Sr. Deputado tem a dizer a essas pessoas, muitas das quais foram vítimas de senhorios sem escrúpulos, como disse a Sr.ª Ministra, que é militante do seu partido? \nO que é que o Sr. Deputado vai dizer àqueles que não puderam pedir apoio judiciário, pois, como a própria Ministra já reconheceu, o deferimento leva 20 a 30 dias e o prazo de resposta à carta são 30 dias? O que é que diz aos milhares de inquilinos que já tiveram essa situação? Mostra-lhes o folheto agora, _a posteriori_?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Altino Bessa para responder.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Sr. Presidente, Sr. Deputado Ramos Preto, muito rapidamente, gostaria de dizer-lhe que não fez nenhuma referência àquele que era o ponto principal: o Memorando de Entendimento assinado e negociado por José Sócrates, do Partido Socialista.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do Deputado do PS Ramos Preto.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Essa é a grande questão, que o Sr. Deputado Ramos Preto esqueceu e passou à frente. \nSr. Deputado Miguel Tiago, voltamos ao alarmismo social. Os senhores falam em milhares e milhares de casos, mas não capazes de quantificar. \nExiste a preocupação de apoio social.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "Saia do sofá e vá para a rua!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Não pense que é por berrar mais alto que me vou calar! Esteja perfeitamente à vontade relativamente a isso, porque, felizmente, não estou em pânico com essa atitude! \nSr.ª Deputada Helena Pinto, digo-lhe exatamente o mesmo: referiu que milhares e milhares de pessoas receberam cartas. Não consegue quantificar? Diga quantas pessoas foram despejadas, fruto desta lei.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP e do BE.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "A lei está a ser monitorizada. Daqui a três meses teremos o relatório da comissão que ontem tomou posse e aí, sim, vamos poder avaliar o funcionamento da lei.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Trafulhas?! Cuidado com isso que aqui ouve-se!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "Trapaceiros!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Helena Pinto.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Ainda ontem, o Bloco de Esquerda reuniu com a Associação dos Inquilinos Lisbonenses e com várias associações de moradores da cidade de Lisboa. \nForam atendidos, na Associação dos Inquilinos Lisbonenses, 10 500 inquilinos, Sr. Deputado Altino Bessa,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Pedro Filipe Soares", 
+   "text": "Este número chega?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "… dos quais 2400 já estavam com as primeiras cartas na mão e já tinham de dar resposta aos senhorios. Nós temos os números, Sr. Deputado Altino Bessa! \nSrs. Deputados, por favor, esta é uma situação de grande responsabilidade. O pânico está aí, e os senhores também deveriam estar em pânico perante a situação que criaram e não têm os instrumentos necessários para a resolver. Por isso mesmo, deviam revogar esta lei. \nSrs. Deputados do CDS e do PSD, a verdade é que não é preciso esperar pelos despejos. Os Srs. Deputados perguntam quantos despejos já houve. Srs. Deputados, espero bem que não existam despejos!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Nós também!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Os Srs. Deputados concordam que uma família que ficou no desemprego…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Se baixarem os rendimentos têm direito a apoio!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "… e que se atrase oito dias, quatro vezes ao ano, esteja sujeita a despejo? \nPorque é isto que está na vossa lei! Concordam com isto: quatro vezes ao ano, oito dias?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Isso é para os incumpridores!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Sr. Deputado Altino Bessa, repito: um atraso de oito dias, quatro vezes ao ano. Srs. Deputados, isto é completamente desumano numa situação destas, em que sabemos como estão as famílias a viver. \nSrs. Deputados, esta lei não precisa de ser monitorizada; já todos estamos a ver os seus efeitos, inclusivamente os senhores. E não podemos ter aqui posições de «temos um bocadinho de consciência, mas não vamos até ao fim». Não vamos esperar para ver, como diz o Sr. Deputado António Prôa, vamos agir! \nEsta lei deve ser revogada — hoje temos aqui essa oportunidade — e devemos recomeçar tudo de novo, com um debate profundo e equilibrado. Ninguém aqui está a dizer que não se deve fazer nada, mas aquilo que não se pode fazer, Srs. Deputados, é dar os centros das nossas cidades ao apetite voraz dos fundos imobiliários. Isso não tem sido muito debatido, mas é o que está em causa!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do CDS-PP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Aliás, espanta-me que o Sr. Deputado António Prôa, que conhece bem Lisboa, venha aqui dizer que o centro da cidade vai ficar desertificado e que aí são só idosos. Lisboa está desertificada.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Ah!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Os jovens não têm dinheiro para pagar, e o que é que os senhores querem fazer aos idosos, como está absolutamente plasmado na lei? Daqui a cinco anos serão todos retirados dos prédios, serão realojados sabe-se lá onde e os centros das cidades serão entregues aos fundos imobiliários — esta é verdade! —,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Leia a lei!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "… desrespeitando as pessoas que vivem há 50 e muitos mais anos nesses centros.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, tem de terminar.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Helena Pinto", 
+   "text": "Termino já, Sr. Presidente. \nSrs. Deputados, esta lei não tem ponta por onde se pegue. Srs. Deputados, esta lei tem um destino, quer os senhores queiram, quer não: esta lei vai ser revogada. Esperávamos que fosse hoje o dia em que isso acontecesse. Infelizmente, não será, mas a lei vai ser revogada e os senhores são ser responsabilizados pelas consequências sociais que a mesma está a implementar por todo o País. Vão ser responsabilizados!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos Santos Silva.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Carlos Santos Silva", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: O que o Partido Comunista traz aqui hoje a este debate é uma verdadeira revolução à moda do PREC,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Afinal, é fascista ou do PREC?! Decidam-se!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Carlos Santos Silva", 
+   "text": "… em que não reconhece, em matéria de arrendamento, o papel desempenhado por esta Assembleia e por todos os partidos políticos que tiveram iniciativas nesta área ao longo dos 38 anos de Portugal democrático. Mais nos lembra o tempo, que não queremos recuperar, das ocupações selvagens, em que não foram reconhecidos os direitos de propriedade aos legítimos proprietários.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Carlos Santos Silva", 
+   "text": "Nessa circunstância, pergunto ao Partido Comunista se não pretende também suspender vários artigos do Orçamento do Estado para 2013, porque o mesmo deu um contributo muito importante na defesa de políticas relacionadas com o tema do arrendamento. \nO Orçamento do Estado para 2013 é um documento estratégico para Portugal — estratégico porque reflete o impacto económico da crise dolorosa que vivemos, estratégico porque reflete as prioridades políticas da ação governativa. \nInfelizmente, o nosso ponto de partida não nos é muito favorável. A herança dos últimos governos e, em particular, o desvario dos últimos anos da governação socialista colocaram em causa os principais pilares da nossa sustentabilidade futura. \nFoi a existência de uma forte aposta na construção sem freio de casas novas, totalmente baseada na existência de um sistema financeiro em que o crédito era concedido sem critério, que nos trouxe à situação em que nos encontramos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Os inquilinos não tiveram culpa disso!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Carlos Santos Silva", 
+   "text": "Este modelo levou-nos a uma grave situação de sobre-endividamento das famílias e contribuiu para o agravamento e a degradação do património imobiliário. \nA aposta no arrendamento é a aposta correta, num modelo mais sustentável, já que permite uma maior flexibilidade e mobilidade dos agregados familiares e não cria bolhas artificiais de riqueza, que ciclicamente rebentam com consequências gravosas para a economia e para as famílias portuguesas. \nNão podemos ainda esquecer uma das medidas que marcou este Orçamento do Estado pela positiva, que é a criação de uma taxa especial de tributação de rendimentos em IRS dos proprietários que têm rendas. Esta medida tem um vasto alcance social e revela a dinâmica reformista que este Governo tem estado a imprimir às suas ações. \nOs senhorios podem optar pelo englobamento dos rendimentos prediais. Vou dizer isto de novo, para que os portugueses percebam e os Srs. Deputados do Partido Comunista também: os senhorios podem optar pelo englobamento dos rendimentos prediais no conjunto dos restantes rendimentos ou, em alternativa, recorrer a uma taxa liberatória de 28%, consoante o que lhes for mais favorável, o que significa que se a sua taxa de IRS for inferior a 28% beneficiam dessa taxa. Também nesta matéria o esforço inteligente em incentivar a economia é feito descriminando positivamente os titulares com menores rendimentos. Trata-se de uma medida que deve ser realçada, já que conduz a um desagravamento fiscal para muitos portugueses. \nEsta dinâmica não pode ser travada pelas forças do imobilismo e pelas forças daqueles que querem apenas dar a aparência de movimento para que tudo fique na mesma, e não vai ser travada. Parafraseando o partido comunista na guerra civil de Espanha: _no pasarán_!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "O Sr. Deputado só falou dos senhorios!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, para uma intervenção, o Sr. Deputado Miguel Coelho.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Coelho", 
+   "text": "Sr. Presidente, Srs. Deputados do PSD e do CDS-PP: Os senhores aumentam o preço da água, aumentam o preço do gás, aumentam o preço da luz e, em termos de impostos, fazem um confisco fiscal. \nOs senhores «comem» as pensões e as reformas das pessoas, e ainda por cima, introduzem uma nova lei do arrendamento que provoca ainda mais sacrifício económico para as famílias.\nOs senhores promovem e obrigam a uma avaliação do património, indexam essa avaliação ao novo cálculo do valor da renda, subindo a possibilidade de os proprietários aumentarem as suas rendas de 4% para 6,7%. \nIsto é inadmissível! É por isso que pessoas que pagavam 100 € ou 150 € agora recebem cartas a dizer que vão passar a pagar 600 €, 900 € ou mais de 1000 €. Isto é inadmissível, Sr.as e Srs. Deputados!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Coelho", 
+   "text": "A lei que existia ligava a possibilidade do aumento das rendas ao estado de conservação do fogo. Os senhores retiraram isso da lei, dando, assim, um contributo para que não se promova a reabilitação urbana. \nIsto também não é admissível! \nOs senhores introduzem nesta lei a possibilidade de os proprietários resolverem os contratos a pretexto de obras profundas e isto está a ter consequências graves também no comércio local. Na cidade de Lisboa, já se está a sentir, com dezenas de comerciantes que estão a ser intimados para largarem os seus negócios porque o proprietário quer fazer lá obras profundas e, ao introduzirem este articulado na lei, retiraram às câmaras municipais o exercício do próprio controlo dessas obras profundas. Isto não é admissível, Sr.as e Srs. Deputados! \nO que lamento é que haja partidos, como o PSD, que há 15 dias disseram que esta lei, de facto, precisa de ser revista e, agora, vêm aqui dizer que é preciso monitorizar a lei, ou que têm um formulário para responder a estas grandes dificuldades. Isto não é admissível, Sr.as e Srs. Deputados! \nNum futuro próximo, os senhores serão julgados eleitoralmente por isto, porque os senhores revelam uma grande insensibilidade para com estas pessoas, pessoas — como eu disse aqui há 10 dias atrás — que não têm defesa, não têm sindicatos poderosos ou ordens profissionais para as defenderem, não têm capacidade de paralisar um setor de atividade qualquer. São pessoas que estão, muitas delas, em ciclo de fim de vida e o presente que os senhores lhes dão é a incerteza e, sobre muitas delas, uma espécie de pena suspensa. \nDe facto, em cinco anos há alguma proteção, mas ao fim desse tempo entram no novo regime de arrendamento urbano e ou pagam a renda ou vão para a assistência social. E como os senhores estão a dar cabo do Estado social, ninguém acredita que essa assistência social venha a ser eficaz,,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Coelho", 
+   "text": "… para além de que, Sr.as e Srs. Deputados, não é muito decente que se diga a pessoas que vivem há 20, 30, 40 anos na mesma casa: «agora tens de mudar de casa.» Isto não é aceitável! \nNão se pode corrigir um erro do passado, cometido durante o Estado Novo, com um erro semelhante, só que de sinal contrário. \nPortanto, esta lei deve e vai ser revogada. Assim se crie uma frente ampla, uma frente de pessoas de bem, seja de que partido forem, de que ideologia política forem, pessoas que se unam contra esta lei e estou convencido que, mais mês, menos mês, os senhores vão ser obrigados a reconhecer o erro e a revogar esta lei. Falta-vos um pouco de humildade cristã para dizer que se enganaram e que é preciso revogar a lei, na qual não pensaram e que é má para as pessoas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Paulo Oliveira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Jorge Paulo Oliveira", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Ao contrário do que se possa pensar, o Partido Comunista Português não pretende apenas e tão-somente revogar o regime jurídico do arrendamento urbano. \nConforme se pode ler na sua iniciativa legislativa, é também intenção do Partido Comunista a suspensão de quaisquer outras atualizações de renda…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Isso já foi substituído!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Jorge Paulo Oliveira", 
+   "text": "Posso continuar?…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Jorge Paulo Oliveira", 
+   "text": "Sr. Presidente, Srs. Deputados, desconhecia…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, deixem o Sr. Deputado prosseguir.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Jorge Paulo Oliveira", 
+   "text": "Desconhecia que VV. Ex.as já tinham alterado o texto.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Jorge Paulo Oliveira", 
+   "text": "Desconhecia que o tivessem feito exatamente neste momento. Mas devo dizer-vos, Srs. Deputados,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Jorge Paulo Oliveira", 
+   "text": "Sr. Presidente, eu gostava de poder usar da palavra no tempo regimental que me é concedido, se tal me for permitido pelo Partido Comunista.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, peço que criem condições para que o Sr. Deputado se possa fazer ouvir convenientemente. \nSr. Deputado, queira prosseguir.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Jorge Paulo Oliveira", 
+   "text": "Sr. Presidente, Srs. Deputados, apesar de tomar agora conhecimento de que retiraram essa parte do vosso projeto de lei, e ainda bem que o fizeram, a verdade é que essa vossa intenção foi momentaneamente abandonada. \nEstamos certos e convictos de que, mais dia, menos dia, VV. Ex.as voltarão com um projeto e uma iniciativa legislativa nesse sentido. Mas é bom que não façam, repito, é bom que não façam, Srs. Deputados, porque suspender outros regimes de atualização de rendas, nomeadamente o regime de renda apoiada, não é — conforme já aqui dissemos noutras alturas — uma medida justa, não é uma medida socialmente aceitável. E sabem porquê, Srs. Deputados? \nNão é socialmente aceitável que VV. Ex.as, com este tipo de intenções que agora abandonaram mas que certamente retomarão no futuro, protejam famílias com rendimentos familiares mais elevados, desprotegendo famílias com rendimentos familiares mais baixos. \nTambém não é aceitável, Sr. Presidente e Srs. Deputados, famílias que perderam rendimentos, por via do vosso projeto, que agora abandonaram, não poderem ver reduzidos os montantes de rendas que teriam de pagar no final do mês, ao mesmo tempo que aqueles que viram os seus rendimentos aumentarem continuavam a pagar as rendas mais baixas, que, entrementes, já pagavam. \nPor isso, Sr. Presidente, não vou demorar mais tempo e apenas quero dizer que registámos positivamente o abandono dessa intenção, mas estamos certos e convictos de que, mais dia, menos dia (porque isso está na vossa génese), o Partido Comunista, certamente, voltará com o mesmo projeto de lei.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Isso é no que dá não estar atento aos debates! Há duas horas que estamos aqui! Tem de estar mais atento aos debates!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nuno Magalhães.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: No final deste debate sobre uma questão que é indiscutivelmente sensível e socialmente importante, esperaríamos todos, e creio que o esperariam todos os portugueses, a par de todos nós, posições mais construtivas do que propriamente posições mais oportunistas, como temos visto ao longo desta tarde. \nNo que respeita à esquerda mais à esquerda, não tenho razão, pois mantém a sua posição habitual e coerente de defesa intransigente do regime vinculístico do Estado Novo e, aqui e acolá, aproveitando algum alarme social que vai lançando, aqui e acolá também, procura com isso tirar ganhos políticos. \nEm relação a essa esquerda mais à esquerda, gostaria apenas de relembrar que ninguém falou dos milhares de jovens, muitos deles casais jovens, que gostariam, também eles, de poder aceder ao mercado de arrendamento…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos dos Deputados do PCP Miguel Tiago e Rita Rato.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "… e que durante anos e anos foram impedidos de o fazer por essa esquerda que hoje defende, mais uma vez, um regime vinculístico. \nMas, Sr. Presidente, Sr.as e Srs. Deputados, mais surpreendente é a posição do Partido Socialista, ou talvez não, tendo em atenção os últimos episódios daquilo que tem sido a vida do Partido Socialista. \nNa verdade, assinaram, há um ano e meio, o Memorando de Entendimento, o qual previa exatamente aquilo que está nesta lei, ou até algo um pouco mais radical do ponto de vista das propostas. Já quando foi aqui a votação, não honraram aquilo que assinaram e negociaram em nome de Portugal, mas depois do _bluff_ que fizeram no início do debate, habilmente contornado pelo Partido Comunista Português, aquilo que o Sr. Deputado Mota Andrade e o Partido Socialista fizeram foi um hino à hipocrisia e ao cinismo político…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "… e, no que se destina não à defesa dos interesses de Portugal e dos portugueses mas apenas e só à defesa dos interesses oportunistas do Partido Socialista e das eleições autárquicas que se aproximam, dirigidos apenas para esses eleitorados, percebe-se hoje que as convicções do Partido Socialista não conseguem, de alguma forma, esperar por aquilo que é uma belíssima oportunidade de ganhar umas boas eleições. \nSrs. Deputados do Partido Socialista, há aqui algo que distingue, de facto, o CDS do Partido Socialista: \nnós, apesar de não termos conduzido Portugal ao estado em que o País se encontrava, sem dinheiro para pagar pensões e salários,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Isso é falso!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "… tivemos sentido de Estado e de responsabilidade, assinando o Memorando de Entendimento por VV. Ex.as negociado. Os senhores, porque há eleições autárquicas daqui a uns meses, rasgam um compromisso com a História e, rasgando um compromisso com a História, rasgam um compromisso com o País, rasgam a vossa história de um partido de alternância, rasgam, sobretudo, o esforço que os portugueses têm feito em nome das políticas que os senhores, nos últimos anos, seguiram e da tragédia a que conduziram o País.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e de Deputados do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Mota Andrade.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Sr. Presidente, Srs. Deputados, Sr. Deputado Nuno Magalhães, em política não vale tudo!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Ah!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Acho que o Sr. Deputado está nitidamente em desespero porque não teve nem não tem resposta para os inúmeros e grandes problemas que esta lei tem colocado às pessoas, e o Partido Socialista alertou para isso há um ano. \nQuando o Sr. Deputado fala em Memorando, volto a fazer-lhe a pergunta que há pouco o Sr. Deputado Ramos Preto lhe fez: porque é que não estão lá os 15 anos? Qual era o problema dos 15 anos para a transição do antigo regime, daquele de antes de 1990, para agora? Qual era o problema disso? Não tinha problema nenhum! Podia lá estar os 15 anos, em vez de cinco, e não está porque os senhores não quiseram! \nE em vez estar 30 dias para os inquilinos responderem, porque é que não está lá 90 dias?! Não está lá porque os senhores não quiseram! \nPorque é que não têm em conta o estado de conservação do imóvel? Não está lá, porque os senhores não quiseram!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Isso foi a troica!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Ó Sr. Deputado Nuno Magalhães, a troica não é para aqui chamada…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Ah não?!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "… a troica não tem culpa nenhuma disso. A culpa é da irresponsabilidade do seu Governo, a culpa é de uma má lei que os senhores fizeram.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Nuno Magalhães pede a palavra para que efeito?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "É para uma interpelação à Mesa, em que serei brevíssimo, porque ouvi aqui dizer que a troica não é para aqui chamada. \nÓ Sr. Deputado Mota Andrade, ai é, é! Está aqui, no ponto 6 do Memorando, que foi o Partido Socialista que assinou. Entretanto, aqueles que se responsabilizaram foram para outras paragens, mas a troica ficou. \nEstá aqui, no ponto 6, e tem uma assinatura, a de José Sócrates. \nSr. Presidente, solicito à Mesa a distribuição do documento.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, será distribuído, para o caso de alguém ainda não conhecer o Memorando da troica. \nO Sr. Deputado Mota Andrade pede a palavra para que efeito?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Sr. Presidente, só para informar que conhecemos bem e honramos o Memorando que assinámos. Agora, o que eu disse ao Sr. Deputado Nuno Magalhães, mantenho.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do CDS-PP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Srs. Deputados, não se enervem! Os senhores sabem bem que nós temos razão! Sei que os Srs. Deputados estão incomodados…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "A interpelação é à Mesa, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Sr. Presidente, nada do que está nesta lei tem a ver com o Memorando da troica.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do CDS-PP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Leitão Amaro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Não sei se este debate fica marcado pela histórica colagem do PCP às opções do Estado Novo de congelar rendas…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem! Pois é! São os extremos que se tocam!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "… ou se fica marcado por esta histórica — mas mais triste, porque mais relevante — postura do Partido Socialista, que já não foi só irresponsável na sua governação passada mas é irresponsável na sua posição na oposição. \nMas isto só nos poder querer dizer uma coisa: há uma ideia no programa eleitoral do Partido Socialista que é a de destruir todas as reformas, remar contra todas as mudanças, voltar atrás, e fazer isso rasgando a vossa palavra. \nO Sr. Deputado Nuno Magalhães já aqui lembrou que os senhores que chamaram a troica lhe disseram…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PS Mota Andrade.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "… que iam apresentar uma lei do arrendamento, que, no ponto 6…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Não tem nada disso!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Tem, Sr. Deputado Mota Andrade! Esta lei tem todos esses pontos que estão no programa da troica, no ponto 6, todas as palavras que estão no Memorando da troica, assinado por VV. Ex.as! \nMas este não é apenas um momento triste porque o PS quer revogar uma reforma com menos de um ano. \nNão é apenas por isso, mas por que demonstra da parte desse partido que está contra as necessidades de reforma do País. \nChegámos a 2012 com um País com 700 000 fogos devolutos, com 250 000 rendas congeladas, com os centros das cidades a ficarem cada vez mais vazios, com os portugueses endividados para a compra de casa própria, porque o mercado de arrendamento não funcionava.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Até traz as notas do CDS!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "E os senhores, perante estes problemas, o que fazem? O PCP, como sempre, nada! Quanto pior, melhor, quanto menos se faça, melhor vai o PCP.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Mas, da parte dos Srs. Deputados do PS, que prometem reformas, quem vai acreditar em VV. Ex.as quando «a cada curva» querem revogar a primeira tentativa de uma reforma que, ainda por cima, concretiza exatamente as vossas palavras?! Quem vai acreditar em VV. Ex.as? Que palavra é a vossa quando contrariam a vossa assinatura? Impossível!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Este País precisa de reforma e é esta a reforma que fizemos e que continuamos a defender.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Esta aposta no arrendamento e na reabilitação urbana foi feita não apenas com uma nova lei do arrendamento, mas com uma lei da reabilitação urbana, uma nova lei das obras em prédios arrendados, uma redução da taxa de IRS para as rendas prediais, a disponibilização de um elevado montante, de várias centenas de milhões de euros, do Fundo JESSICA para apoiar a reabilitação urbana. Era necessário reformar e é esta maioria que o está a fazer. \nMas vamos à vossa questão, a de saber se esta é uma reforma injusta. Sr.as e Srs. Deputados, para nós, há todos os portugueses, nós não fazemos lei para alguns dos portugueses. Uma lei não pode satisfazer integralmente uma das partes, porque tem de proteger todas. E é assim que nós reformamos, foi assim que nós reformámos esta lei.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP João Oliveira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Com certeza, dizendo aos inquilinos incumpridores que não mais se poderiam aproveitar dos atrasos da justiça para poderem viver em casas sem pagar. Os incumpridores não podem ser incumpridores e, por isso, com certeza, alterámos as regras do despejo, porque tem de ser feita justiça. \nMas também para proteger os inquilinos carenciados não tivemos uma, nem duas, nem três, nem quatro cláusulas de salvaguarda, tivemos várias. Protegemos as pessoas mais idosas e com maior grau de deficiência, garantindo-lhes que podem ficar na casa até ao fim da vida.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Até aos 70 anos! Depois disso, já não!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Limitámos o aumento das rendas para todos — para todos! — durante cinco anos. \nMas também aos mais carenciados assegurámos que não vão pagar de renda mais do que uma percentagem baixa, abaixo de todos os indicadores internacionais do que deve ser o valor de uma renda e gasto com a habitação.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Quem receber menos do que 500 €, não paga mais do que 10%, quem receber 400 €, não paga mais do que 40 — isto é proteger! \nMas protegemos também as associações sem fins lucrativos, as pequenas empresas, os pequenos estabelecimentos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "É, é! Vá perguntar isso aos restaurantes aqui na Rua de São Bento!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Sim, porque não olhamos apenas os inquilinos, não olhamos apenas os proprietários, olhamos também os empresários.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "É assim que se defende todos os portugueses, com justiça.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Sr.as e Srs. Deputados, com esta lei, que procura ser justa, o que não é admissível é a vossa postura de não trazer verdade a este debate, de dizer a quem recebeu uma carta de um senhorio que isso é lei. Não, uma carta de um senhorio não é a renda. Porquê? Porque todos nós aqui, infelizmente só do nosso lado, lhes demos cláusulas de salvaguarda, e os senhores, porque não as querem ver, dizem que elas não existem. Isso é inadmissível!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "As cartas de aumento de renda deviam era levar o vosso carimbo!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Tentar dizer que uma carta de um senhorio é lei, que uma proposta de renda é renda, é falso, traz confusão e engana as pessoas. Não sei ao serviço de quê.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos de Deputados do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Mas a vossa estratégia é incorreta, porque é a mesma estratégia de em nada mexer, trazendo medo às pessoas, inventando-lhes receios que elas não devem ter. \nFalemos também do pós-cinco anos. Sim, esta lei, também por causa deste Parlamento, assegura às pessoas que, ao fim de cinco anos, continuam a ter uma proteção social,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Onde é que está?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "… dando-lhes vários meios e dizendo «têm esse direito». E esse direito é, como sempre, concretizado com base em informação.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Qual é o artigo da lei? Diga lá!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Os senhores serão irresponsáveis se disserem que as pessoas vão pagar _x_, sem saberem quanto é que as pessoas necessitam e quando esses compromissos são para daqui a cinco anos. \nNós não fazemos isso! Não assumimos hoje, sem saber o que é necessário, quanto é que vamos pagar. \nMas vamos fazê-lo, porque nos comprometemos em dar, após os cinco anos, proteção a essas pessoas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Diga lá qual é o artigo da lei!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "É um direito que as pessoas têm, foi um direito pós-cinco anos que esta maioria lhes deu.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos da Deputada do PCP Rita Rato.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "É por isso um esforço reformista para um País que precisa de ser reformado, com reformas a pensar em todos: dos inquilinos aos proprietários, aos empresários, aos comerciantes, a todos. E também a pensar naqueles que, hoje, não têm acesso a casa, porque o mercado de arrendamento não funcionava. \nO que fizemos foi reformar a pensar em todos. Podemos fazer melhor. Estamos atentos, esta lei merece a nossa atenção. Há 15 dias, fizemos aqui um conjunto de sugestões para ser melhorada a sua aplicação. O Governo respondeu e agiu. É assim que fazemos: fiscalizamos e propomos, o Governo responde e faz.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "E despejam as pessoas!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "É isso que faremos, daqui para a frente, e sempre, em defesa dos portugueses.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Entretanto, reassumiu a presidência a Presidente, Maria da Assunção Esteves.", 
+   "type": "presidente_troca"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Bernardino Soares.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Quero congratular-me pelo facto de termos conseguido não confundir o acessório com o fundamental. O fundamental do nosso projeto de lei é a revogação da lei das rendas — e sempre foi assim, isso era evidente para qualquer observador mediano. \nMas não renegamos a nossa proposta, porque entendemos que, no momento de grave crise económica e social que se está a atravessar, era justo suspender as atualizações. Não era para sempre, era no momento que estamos a viver.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Isso não está já hoje em debate, mas não deixa de ser uma proposta justa. \nA nossa proposta de revogação é que resolve o problema e não o projeto de resolução — de resolução, repare-se! — que o PS tem entregue, um projeto que diz que, se forem desempregados e se nunca tiverem falhado, um dia sequer, a renda, então, vá lá, podem não ser despejados neste momento. \nHá também quem diga — e disse-o agora o Sr. Deputado do PSD — que esta lei é essencial para dinamizar o mercado de arrendamento. Repare-se bem: há mais de 200 000 pessoas com contratos anteriores a 1990, e há 700 000 fogos devolutos. Mas o problema do mercado de arrendamento não são os 700 000 fogos devolutos, que os proprietários não põem no mercado, não! São os 200 000 idosos e outros carenciados, que têm rendas mais baixas do que alguns senhorios gostariam de ter. \nEntão, o que é que os senhores fizeram para os 700 000 fogos devolutos virem para o mercado? Nada! Os senhores não estão interessados em dinamizar o mercado de arrendamento; estão interessados em expulsar das habitações, sobretudo nos centros das cidades, aqueles que têm rendas ainda abaixo daquilo que alguns senhorios querem ter. \nE devo dizer aqui o seguinte: quem vai beneficiar disto não são os pequenos senhorios, que, muitas vezes, nem têm dinheiro para fazer obras nos seus patrimónios; quem vai beneficiar disto são os grandes fundos de investimento do setor financeiro,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "… que vão comprar a esses senhorios os seus patrimónios nos centros das cidades e fazer aí os seus belos negócios. \nÉ para esses que esta lei é feita.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Falou-se aqui muito de salvaguardas. Mas pergunto: é justo que, em qualquer circunstância, um inquilino, por não ter respondido ao fim de 30 dias, seja sujeito ao regime de renda livre? É justo que isto aconteça, quando muitos destes inquilinos são pessoas que não têm a literacia para enfrentar um problema desta natureza, que não têm apoio, que estão isolados, muitos deles nem saem de casa?! É justo que, ao fim de 30 dias, sejam sujeitos à renda livre e às condições do senhorio?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "É uma vergonha!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Isto nunca poderia acontecer! Nunca poderia haver uma espécie de ónus em cima de quem é a parte mais frágil para responder aos senhorios! \nMas é que os senhores querem pôr fora de qualquer maneira! E por isso até vale quando não haja informação ou condições para responder à altura a uma situação destas.\nDepois, vem a questão dos cinco anos. Já é duvidoso que os critérios que estão na lei, a que os senhores chamam de «salvaguarda», sejam comportáveis para muitas famílias. É que as famílias não pagam só o aumento da renda, pagam o aumento do IRS, pagam o aumento da saúde, pagam o aumento dos transportes públicos. E este é mais um aumento a acrescentar a todos os outros. E por isso é que é tão injusto e por isso é que a salvaguarda não funciona. \nMas pergunta-se: e, ao fim de cinco anos, o que é que vai acontecer a toda esta gente carenciada? Vai haver um regime de apoio, dizem. Mas por alguma razão o Governo não aparece com o regime de apoio social. Por que é que ele não ficou logo na lei? Por que é que não disseram na lei quanto, como e quando seria aplicado esse regime de apoio?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Daqui a cinco anos!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Porque não sabem, nem querem comprometer-se com nenhuma solução. Porque o que querem é que as pessoas vão saindo. \nMais, dizem alguns dos Srs. Deputados que ainda não houve nenhum despejo. Pois não, porque ainda não decorreram todos os prazos da lei. Mas o que fazemos aqui, hoje, é tentar evitar que esses despejos existam.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Nós não ficamos satisfeitos que a famosa comissão da Ministra Assunção Cristas venha dizer, daqui a seis meses, que, afinal, houve não sei quantos mil despejos. Não ficaremos satisfeitos com isso. Queremos é que, agora, se pare este processo, porque agora é que é o momento em que ainda podemos evitar as gravíssimas consequências sociais desta lei. \nA culpa do envelhecimento dos centros urbanos não será com certeza dos inquilinos com contratos mais antigos, pois esses, muitos deles, moram nos centros urbanos. E se os jovens não foram para lá não foi por causa dos inquilinos; foi por causa de uma política de urbanismo, de habitação e de apoio ao setor financeiro que privilegiou a nova construção. E agora quem tem de pagar esses erros são os inquilinos com os contratos mais antigos?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Termino já, Sr.ª Presidente. \nPor que é que têm de ser esses a pagar? Por que é que não impõem regras para dinamizar a reabilitação urbana a preços acessíveis para que os jovens possam lá fixar-se? Os inquilinos é que têm de pagar o erro da política de cidades, ao longo destes anos? \nVou terminar, Sr.ª Presidente, dizendo o seguinte: numa relação entre inquilino e senhorio, há uma parte mais forte e uma parte mais fraca. A parte mais fraca é aquela que, se perder, fica na rua. E é essa que temos de defender, em primeiro lugar. E é por isso que defendemos a revogação desta lei.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma nova intervenção, tem a palavra o Sr. Deputado António Leitão Amaro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Sr.ª Presidente, Srs. Deputados: Muito rapidamente, intervenho de novo porque houve uma pergunta do Sr. Deputado Bernardino Soares à qual tem de ser dada resposta. \nPerguntava o Sr. Deputado: «Esse apoio, após os cinco anos, quando é que vai ser dado?» E a resposta é — o senhor sabe-a: após os cinco anos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Risos do PCP.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "E perguntava ainda: «Como é que esse apoio vai ser dado?» A lei responde a isso, Sr. Deputado: com subsídio de renda, habitação social ou mercado social de arrendamento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Isso é tão real como o seu projeto de apoio à habitação!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Portanto, Sr. Deputado, o direito está constituído, as pessoas estão protegidas. E o senhor foi dizendo na sua intervenção: «Ah, mesmo que agora as proteções sejam suficientes, e depois, daqui a cinco anos?» Sr. Deputado, hoje, como o senhor reconheceu, as proteções são adequadas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Não são!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "Daqui a cinco anos, teremos as proteções que a lei prevê. \nO que temos de fazer agora, todos em conjunto, é fiscalizar atentamente a aplicação de uma reforma feita.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Fiscalizar uma lei má não serve de nada!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "António Leitão Amaro", 
+   "text": "É isso que devemos fazer todos juntos, é para isso que nós vos convocamos, já que o caminho não é destruir, é construir. E a construção faz-se com este papel de fiscalização, para a qual os senhores também estão convocados.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, terminado o debate, na generalidade, do projeto de lei nº 348/XII (2.ª), do PCP, vamos proceder à sua votação.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Peço a palavra para interpelar a Mesa, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Sr.ª Presidente, alterámos o projeto de lei durante o debate, mas, por lapso, não alterámos, em conformidade, o título. E o título deve ser: «Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano», e não o que constava inicialmente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Bernardino Soares, a alteração é só na palavra «revisão»? É que eu não estive devidamente atenta.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "A Sr.ª Presidente não estava cá, mas havia quem estivesse.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Eu ouvi o debate, Sr. Deputado. Agora é que não estive atenta.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Portanto, o título ficaria «Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano». E termina aqui, o que constava a seguir não se aplica neste caso.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Muito bem, Sr. Deputado. \nSrs. Deputados, peço, então, que façam o favor de se registarem para procedermos à verificação do quórum.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o quadro eletrónico regista 203 presenças, às quais se somam 2 sinalizadas à Mesa, dos Srs. Deputados Carlos Peixoto e João Prata, do PSD, o que perfaz 205 Deputados presentes, pelo que temos quórum de deliberação.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Vamos, então, passar à votação, na generalidade, do projeto de lei n.º 348/XII/ (2.ª) — Revoga a Lei n.º 31/2012, de 14 de agosto, que procede à revisão do regime jurídico do arrendamento urbano (PCP).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi rejeitado, com votos contra do PSD e do CDS-PP, votos a favor do PS, do PCP, do BE e de Os Verdes e a abstenção do Deputado do PS Basílio Horta.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Secretário Duarte Pacheco para nos dar conta de um diploma que, entretanto, deu entrada na Mesa.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente e Srs. Deputados, deu entrada na Mesa, e foi admitido, o projeto de resolução n.º 620/XII (2.ª) — Recomenda ao Governo que valorize o turismo religioso como um produto estratégico no âmbito da revisão do Plano Nacional Estratégico do Turismo — PNET (PSD e CDS-PP), que baixa à 6.ª Comissão. \nÉ tudo, Sr.ª Presidente.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, terminámos os nossos trabalhos de hoje. A próxima sessão plenária realiza-se amanhã, tendo a seguinte ordem de trabalhos: declarações políticas, a que se seguirá o debate, na generalidade, das propostas de lei n.os 125/XII (2.ª) — Aprova os estatutos da Entidade Reguladora dos Serviços de Águas e Resíduos, 128/XII (2.ª) — Estabelece o regime a que deve obedecer a implementação e utilização de sistemas de transportes inteligentes, transpondo a Diretiva 2010/40/UE, de 7 de julho, que estabelece um quadro para a implementação de sistemas de transporte inteligentes no transporte rodoviário, inclusive nas interfaces com outros modos de transporte, e 129/XII (2.ª) — Autoriza o Governo a rever o Regime Jurídico dos Organismos de Investimento Coletivo, aprovado pelo Decreto-Lei n.º 252/2003, de 17 de outubro. \nEstá encerrada a sessão.", 
+   "type": "presidente_encerrada"
+  }, 
+  {
+   "text": "Eram 17 horas e 29 minutos.", 
+   "type": "hora"
+  }
+ ], 
+ "president": "", 
+ "secretaries": [], 
+ "session-date": null, 
+ "time_end": null, 
+ "time_start": null
+}

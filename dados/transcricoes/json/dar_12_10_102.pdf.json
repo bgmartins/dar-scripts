@@ -1,0 +1,1758 @@
+{
+ "entries": [
+  {
+   "text": "*Sábado, 28 de abril de 2012* \n*I Série — Número 102* \nXII LEGISLATURA", 
+   "type": null
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
+  }, 
+  {
+   "text": "Eram 10 horas e 3 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai proceder à leitura do expediente e também anunciar o resultado de votações que tiveram lugar na semana passada. \nTem a palavra, Sr. Secretário.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, deu entrada na Mesa, e foi admitido pela Sr.ª Presidente, o projeto de lei n.º 220/XII (1.ª) — Procede à primeira alteração ao Decreto-Lei n.º 113/2011, de 29 de novembro, que regula o acesso às prestações do Serviço Nacional de Saúde por parte dos utentes no que respeita ao regime das taxas moderadoras e à aplicação de regimes especiais de benefícios (PS), que baixou à 9.ª Comissão. \nSr.ª Presidente, na passada semana, procedeu-se à eleição para órgãos externos ao Parlamento, de cujos resultados passo a dar conta. \nNa eleição para o Conselho de Opinião da Rádio e Televisão de Portugal, SA, verificou-se o seguinte resultado: votaram 202 Srs. Deputados, tendo-se registado 156 votos «sim», 40 votos brancos e 6 votos nulos, pelo que se declaram eleitos os membros Zita Maria de Seabra Roseiro (PSD), António Ribeiro Cristóvão (PSD), José Luís Mendonça Nunes (PSD), Vítor Hugo Almeida Pinho (PSD), António Fernando Marques Ribeiro Reis (PS), José Manuel Rebelo Guinote (PS), Maria da Estrela Ramos Serrano Caleiro (PS), Diogo Afonso Belford Cerqueira Pereira Henriques (CDS-PP), Fernando António Pinheiro Correia (PCP) e Diana Marina Dias Andringa (BE). Como suplentes, foram eleitos os seguintes membros: Maria João Cunha Silvestre (PSD), Américo Fernando Alves Ferreira de Carvalho (PSD), Margarida Almeida Rocha (PS) e Rui Simões (PS). \nNo mesmo dia, foi realizada a eleição para a Comissão de Acesso aos Documentos Administrativos (CADA), relativamente à qual se verificou o seguinte resultado: votaram 202 Srs. Deputados, tendo-se registado 146 votos «sim», 49 votos brancos e 7 votos nulos, pelo que se declaram eleitos, como efetivos, os Srs. Deputados Luís Montenegro (PSD) e Pedro Delgado Alves (PS) e, como suplentes, os Srs. Deputados António Rodrigues (PSD) e Luís Pita Ameixa (PS). \nFoi ainda realizada a eleição do Presidente e de um Vogal para a Comissão Nacional de Proteção de Dados (CNPD), relativamente à qual se verificou o seguinte resultado: votaram 202 Srs. Deputados, tendo-se registado 129 votos «sim», 62 votos brancos e 11 votos nulos, pelo que declaro eleitos, para Presidente, Maria Filipa Pires Urbano da Costa Calvão (PSD) e, para Vogal, Ana Cristina Ramos Gonçalves Roque dos Santos (PS). \nÉ tudo, Sr.ª Presidente.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, entramos agora na ordem do dia, que consiste no debate quinzenal com o Sr. Primeiro-Ministro, ao abrigo da alínea _a_) do n.º 2 do artigo 224.º do Regimento, sobre agenda estrutural e crescimento. \nPara abrir o debate, tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Muitas vezes se tem confundido o processo de transformação em que estamos envolvidos enquanto portugueses no âmbito do pedido de intervenção externa realizado no ano passado e no decurso do ajustamento da nossa economia com as medidas de estabilização financeira e as medidas designadas «de austeridade». \nSabemos que, dos três pilares do nosso processo de ajustamento, do plano de assistência económica e financeira, dois deles incidem sobre a estabilização financeira e sobre as contas públicas, mas, como é evidente, já o aqui referi mais do que uma vez, toda a estratégia de retorno ao crescimento da nossa economia e de criação de emprego em Portugal passa indiscutivelmente pelo sucesso da agenda de transformação estrutural da economia portuguesa e da sociedade portuguesa.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Tenho enfatizado que, se não escolhemos a crise em que vivemos, podemos escolher os termos em que a venceremos e em que restauraremos a nossa economia, a nossa autonomia e a nossa liberdade.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "É disso que estamos a tratar quando implementamos um ambicioso programa de transformação estrutural na sociedade portuguesa. \nTenho atribuído bastante destaque a várias iniciativas, mas quero hoje enfatizar a relevância de todo o processo de transformação a que estamos a assistir na área da justiça no contexto desse programa ambicioso de reformas e de transformações que estamos a realizar. \nO importante para o País — como ainda hoje de manhã enfatizei, justamente na abertura de uma iniciativa promovida pelo Governo sobre a agenda de transformação estrutural no contexto do programa de ajustamento que estamos a realizar — é conseguirmos aproveitar esta oportunidade para remover os obstáculos ao crescimento da economia. Nessa medida, as reformas que viermos a fazer não podem ser de cosmética, não podem ser intervenções superficiais que, no fundo, garantem que tudo continua na mesma. O importante é ir ao fundo dos problemas e, dentro do tempo que nos destinámos para promover essa agenda de transformação que sustentará novamente o crescimento do emprego e da nossa economia, reformar profundamente as estruturas que mais têm contribuído para que esse crescimento não se efetive. \nOra, há muito que sabemos que a justiça, ao longo de vários anos, não tem dado um contributo positivo nem para o sentimento de equidade na sociedade portuguesa nem para o crescimento da nossa economia. As pessoas sentem, de há muitos anos a esta parte, que a justiça é demasiado lenta, demasiado morosa. As instituições acabam muitas vezes por perder a respeitabilidade aos olhos dos cidadãos quando demasiado tarde aparecem os seus resultados práticos. \nPor essa razão, o programa de transformação da justiça foi construído para responder a estas necessidades e a dois grandes objetivos. Em primeiro lugar, garantir que a justiça está efetivamente ao serviço dos cidadãos e também da economia, sem a qual a realização das expetativas dos cidadãos não se pode concretizar. A justiça, nessa medida, não pode ser vista à parte dos restantes mecanismos económicos que promovem o crescimento. Em segundo lugar, a justiça tem de ser célere e dar o exemplo de parcimónia.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD e do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Por essa razão, temos estado muito envolvidos num processo intenso que compreende desde já o novo Código da Insolvência e da Recuperação das Empresas (CIRE), que esteve em discussão, foi aprovado e publicado. \nNo âmbito do novo CIRE, pretendeu-se sobretudo fazer esta primeira conjugação de esforços entre a intervenção da justiça e a necessidade de podermos ter um tecido económico que privilegie a recuperação das empresas que são viáveis e não arraste demasiadamente a morte das empresas inviáveis. \nOra, o processo especial de revitalização que está previsto e que agora está em condições de poder ser complementado, tal como aqui referi, com o programa Revitalizar é a melhor garantia de que teremos uma justiça que privilegia a opção de dar a oportunidade aos diversos credores de, em vez de complicarem a vida aos trabalhadores e às empresas, as poderem defender através de um processo especial que, justamente, promove a recuperação das empresas e que, portanto, promove a recuperação da nossa economia. \nEste processo, do ponto de vista legislativo na área da justiça, está completo e, do ponto de vista do que são os instrumentos que devem seguir a par do lado da economia, nomeadamente os planos regionais de revitalização que preveem a disponibilização de fundos para recapitalização de algumas das empresas que apresentam — como as PME — estruturas de capital muito deficientes ou desequilibradas, estará em condições de arrancar a partir do mês de maio, dado que até ao final de abril, nos termos da reestruturação dos fundos estruturais que está a ser concluída, estará já totalmente provisionado.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Estaremos, assim, em condições de, juntamente com a revisão de todo o sistema de capital de risco, da justiça à economia, poder responder à necessidade de revitalizar as pequenas e médias empresas portuguesas que são viáveis e que, por razão especial da crise que atravessamos, se encontram à beira da insolvência.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Queremos também adiantar que estão em vigor os princípios orientadores da reestruturação voluntária extrajudicial, isto é, de tudo o que pode ocorrer em matéria de negociação, antes que as empresas, por via dos credores, sejam chamadas a tribunal para avaliar da sua capacidade de recuperação. \nFinalmente, está em preparação a revisão do Estatuto do Administrador da Insolvência, em particular para garantir o reforço da sua autonomia e da sua independência. \nPor outro lado, estamos em plena fase de debate público quanto à reforma do processo civil, que traz um novo paradigma quer para a ação declarativa quer para a ação executiva. Era um compromisso do Governo, inscrito no seu Programa do Governo, e é também um compromisso resultante do Memorando de Entendimento que possamos fazer as alterações cirúrgicas que são necessárias para que o nosso processo tenha uma simplificação grande, sem perda, evidentemente, de garantias. \nSabemos que o juiz deverá passar a dirigir ativamente o processo, embora os Srs. Advogados possam ter também uma intervenção durante toda a fase de processo muito mais importante — de controlo, até, do desenvolvimento do processo — do que hoje é possível fazer. \nNesta medida, dentro deste debate que está a ser promovido e do projeto que está em discussão, prevemos praticamente a instituição obrigatória da audiência preliminar, que obrigará a que, de uma vez por todas, nos nossos tribunais, possamos acabar com o espetáculo indecoroso da convocação indiscriminada de testemunhas (que acaba por não ocorrer), de forma concentrada, para dias em que os tribunais não têm condições para proceder aos julgamentos. Passaremos, assim, não a incidir a nossa atenção processual sobre o que é incidental, mas sobre o que é importante do ponto de vista da prova e que deve ser aclarado desde logo na audiência preliminar. Desta maneira, não se eterniza a justiça, mas garante-se que as partes estarão em condições, logo de início, de poderem desenhar um cronograma adequado e atempado para todas as fases do processo.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Terminou o tempo, Sr. Primeiro-Ministro.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Concluo, Sr.ª Presidente, dizendo que, a par desta reforma importante, está a ser lançada também a reforma do processo penal e do Código Penal, visando, evidentemente, corrigir matéria que precisava de ser corrigia há muitos anos. Em primeiro lugar, pretendemos que não se mantenham efeitos suspensivos de processos que tiveram já condenação em primeira instância, de maneira a não eternizar também nos tribunais estas formas de fazer prolongar artificialmente as decisões da justiça. Pretende-se ainda, Sr.ª Presidente, fazer com que as declarações que muitas vezes são proferidas em fases anteriores instrutivas do processo por parte dos arguidos possam ser utilizadas não só na fase instrutória, mas também na fase de julgamento, ao contrário do que hoje sucede, e, neste âmbito, a instituição do processo sumário em circunstâncias de flagrante delito, em que não há lugar à libertação dos arguidos, mas, sim, a que eles sejam presentes a juízo nas 48 horas devidas na lei e na Constituição, de modo a que possam ser julgados quando se encontrem em situação de flagrante delito. \nSr.ª Presidente, deixarei para a fase das perguntas o enunciado de vários outros aspetos relevantes na área da justiça, já que o tempo agora não o consente, mas estou convencido de que haverá um esforço relevante, como já há muitos anos não era feito em Portugal, de modo a colocar a justiça ao serviço dos cidadãos e, também por essa razão, ao serviço da economia.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado António José Seguro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sr.ª Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados, Sr. Primeiro-Ministro, não deixa de ser interessante que, para um debate sobre crescimento, o senhor tenha trazido a Sr.ª Ministra da Justiça e não o Sr. Ministro da Economia.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Isso é muito revelador do estado do seu Governo! \nSr. Primeiro-Ministro, a economia portuguesa precisa de liquidez nas empresas, porque são estas que podem gerar riqueza e criar postos de trabalho. Mas sobre isso o Sr. Primeiro-Ministro disse zero, porque não tem, obviamente, nada para dizer às empresas portuguesas!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Não tem nada para dizer às empresas portuguesas nem tem nada para dizer sobre estratégia de crescimento, porque, depois de ter dado orientações à sua bancada para chumbar a proposta do PS para que exista na Europa um pacto adicional ao tratado para o dotar da dimensão económica e social, o Sr. Primeiro-Ministro devia, pelo menos, ter escutado as vozes que esta semana têm vindo a público dizer que é necessário haver, agora, um pacto para o crescimento e para o emprego na União Europeia.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Podia citar várias vozes, desde o FMI à Comissão Europeia, desde colegas seus, como o Primeiro-Ministro italiano, mas vou citar-lhe uma pessoa que, para o Sr. Primeiro-Ministro, é o suprassumo da saída da crise: a Sr.ª Merkel. A Sr.ª Merkel, no dia 25 de Abril, reconheceu, finalmente, que era necessário haver uma estratégia para o crescimento no seio da União Europeia. \nPor isso, Sr. Primeiro-Ministro, é altura de o Governo reconhecer, de uma vez por todas, que deve reconciliar-se com a realidade e colocar o emprego e o crescimento económico como a prioridade para a saída da crise em que estamos e para a boa consolidação das contas públicas, como o PS tem defendido desde o início. \nSr. Primeiro-Ministro, a esse propósito, gostaria de o confrontar com o seguinte: como sabe, um dos fatores que diminui a competitividade das nossas empresas é o dos custos de energia que são suportados de uma forma muito dolorosa pelas famílias. \nComo sabe, o seu Governo, sem ser necessário, no ano passado, aumentou a taxa do IVA e, sem que estivesse previsto no Memorando, aumentou-a para a taxa máxima. \nJá apresentámos duas propostas na Assembleia da República, que foram chumbadas duas vezes pela sua maioria, que visavam diminuir em 150 milhões o subsídio de financiamento à cogeração para empresas que produzam mais de 20 MW. Ora, 150 milhões na economia é muito dinheiro, Sr. Primeiro-Ministro, e não compreendo porque é que o senhor continua teimosamente a chumbar essa iniciativa! \nO Sr. Primeiro-Ministro vai ter brevemente uma cimeira com o seu congénere espanhol. Ora, quero dizer-lhe que as taxas do gás natural à saída de Espanha e à entrada de Portugal são pagas. Ao contrário da eletricidade, em que só há uma taxa a ser paga, no gás existem duas taxas. Se uma destas taxas for eliminada e passar a existir uma, como deve ser, isso significa, segundo as nossas contas, uma quebra de cerca de 10% no custo da fatura e tanto empresas como as famílias pagarão menos. \nAqui tem, Sr. Primeiro-Ministro, duas propostas concretas, estas, sim, com impacto imediato quer na vida das famílias portuguesas, quer na vida das empresas portuguesas. Gostaria de obter uma resposta sua.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado António José Seguro, já me ouviu falar várias vezes sobre os mecanismos de financiamento da economia e das empresas. \nSr. Deputado, compreenda que, apesar de muitas pessoas no passado terem desvalorizado a importância da reforma da justiça para o crescimento da economia, trata-se de uma das explicações para a situação a que chegámos hoje. \nNão cometeremos esse mesmo erro. As empresas precisam que o Estado pague, precisam que o sistema financeiro esteja sólido, precisam que a recuperação do _rating_ da República lhes permita superar, em consequência da sua revisão, os custos adicionais que têm de suportar face aos seus concorrentes na Europa, mas precisam também que os tribunais funcionem e que os seus credores tenham mecanismos avançados que permitam impedir a sua morte quando elas são empresas viáveis. \nSr. Deputado, é importante também que o Estado, na área da justiça, dê exemplo de que é possível gerar poupanças e realizar os objetivos da justiça de forma não faraónica. Esta é a razão por que, em vez dos 150 milhões que o Sr. Deputado diz que se poderia poupar na eletricidade e que o líder da sua bancada, como Secretário de Estado da Energia ainda até há pouco tempo, não conseguiu fazer implementar, a Sr.ª Ministra da Justiça já decidiu cancelar novos campus de justiça que estavam mais do que programados no passado e que custariam a Portugal mais de 320 milhões de euros nos próximos 15 a 30 anos.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Por outro lado, Sr. Deputado, também foi possível, nos arrendamentos existentes no património da justiça, em mais de 66 contratos que estiveram a ser revistos e renegociados, obter poupanças de 5,5 milhões de euros este ano, o que significa que o atual Governo, em matéria de justiça, já poupou mais ao País este ano e para os próximos 15 do que o Sr. Deputado propõe que se poupe na fatura da eletricidade,…", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… o que, bem vistas as coisas, Sr. Deputado, não deixa de ser irónico! Veja como a justiça pode estar ao serviço do crescimento. \nSr. Deputado, aproveito para dizer que também instituímos o Tribunal da Propriedade Intelectual e o Tribunal da Concorrência, Regulação e Supervisão. São dois tribunais especializados que em muito poderão contribuir para o robustecimento dos nossos instrumentos para se poder ter uma economia competitiva e para, a par do que foi realizado com a nova Lei da Concorrência, obter uma competição mais leal do que aquela que tivemos em muitos anos. \nTivemos também a oportunidade de finalizar o projeto da nossa lei da arbitragem voluntária que está já em execução e que permite que Portugal tenha hoje capacidade de oferecer o padrão das melhores práticas internacionais em matéria de arbitragem voluntária, o que em muito auxilia as empresas portuguesas e as que, não sendo portuguesas, decidem investir em Portugal, como ainda recentemente aconteceu, de acordo com uma notícia no sentido de que a Nokia irá investir em Portugal mais 90 milhões de euros para recrutar cerca de 1500 novos quadros.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Lynce", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr. Deputado, estas são notícias bem mais interessantes para o crescimento da economia do que aquelas que nos prometia.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado António José Seguro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, comparemos coisas comparáveis. Quando lhe falo de uma poupança de 150 milhões, ela é referente a um ano; se quiser multiplicar por 15 anos, o resultado é 2250 milhões, o que significa um número superior ao que o Sr. Primeiro-Ministro referiu.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sejamos sérios, Sr. Primeiro-Ministro. O que não percebo é a sua rapidez. O Sr. Primeiro-Ministro é muito rápido a lançar sobre os portugueses novas taxas, novos impostos e a cortar subsídios de natal e de férias, mas para cortar nas rendas aos acionistas o Sr. Primeiro-Ministro é lento — e já lá vão 10 meses, Sr. Primeiro-Ministro!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sr. Primeiro-Ministro, dirigi-lhe uma pergunta concreta: vai ou não propor ao Governo espanhol que seja eliminada a dupla tributação sobre o gás natural, o que significa uma redução de 10% na fatura quer das pessoas quer das empresas em Portugal.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, já vi que o Sr. Deputado é muito lesto a fazer as contas dos cortes em rendas que foram criadas no tempo do governo do Partido Socialista!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "O Sr. Deputado é muito lesto a cortá-las, mas deixe-me fazer-lhe apenas uma pequena correção: o Governo não foi muito rápido a cortar subsídios, Sr. Deputado!", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Foi, foi!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "O Governo incluiu essa proposta no Orçamento do Estado para 2012 e, nesse ano, os portugueses irão ver os seus subsídios de férias e de Natal cancelados. \nSr. Deputado, ainda durante o próximo mês de Maio, haverá uma intervenção resultante da renegociação no setor energético que prevê, justamente, a diminuição de rendas no setor electroprodutor, o que significa que, em bom rigor, o Governo não é mais lesto numa do que noutra. Elas far-se-ão sentir em simultâneo. \nSr. Deputado, há uma razão objetiva para corrigirmos um imenso défice tarifário que herdámos: se o processo energético não fosse renegociado, em 2020 teríamos um défice tarifário superior a 5 mil milhões de euros, sem contar com a acumulação dos juros devidos pelos défices consolidados, o que seria equivalente a várias dezenas de milhões de euros. Se não houvesse esta necessidade, hoje teríamos as nossas empresas e os nossos cidadãos bem mais desafogados do que hoje estão. \nSr. Deputado, devemos exigir respostas, de resto ao nível das que o Governo tem vindo a encontrar. \nPorém, o esquecimento das situações que nos convidam, hoje, a fazer essa renegociação pode ser muito oportuno, mas não é desculpável.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado António José Seguro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, compreendemos por que é que, ao fim de 10 meses, continua sempre a fugir para o passado quando não tem resposta. \nNo entanto, o que os portugueses querem é que o Governo de Portugal se responsabilize pelas suas políticas. Sejamos claros: a exigência da renegociação das rendas consta do Memorando. O Sr. Primeiro- Ministro não pode ler, no Memorando, o que lhe interessa e não ler o que não lhe interessa. Está no Memorando, Sr. Primeiro-Ministro!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "O Sr. Primeiro-Ministro foi muito rápido a aumentar a taxa do IVA sobre o gás e a eletricidade. Mas o Sr. Primeiro-Ministro tem de rever as rendas excessivas que existem nesta área. Sabe porquê, Sr. Primeiro-Ministro? Porque a troica o exige, pois, na última avaliação que fez, deu-lhe um «puxão de orelhas», dizendo que o senhor andava a «arrastar as pernas»!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Seja rápido, Sr. Primeiro-Ministro! \nMas quero dizer-lhe, Sr. Primeiro-Ministro, que o senhor, esta semana, continua a surpreender os portugueses. É que não estava no Memorando da troica, nem em sítio nenhum, uma taxa sobre as grandes superfícies, mas o Sr. Primeiro-Ministro veio anunciá-la como uma decisão do seu Governo. \nO Sr. Primeiro-Ministro acha que alguém, neste País, acredita que serão as grandes superfícies a pagar essa taxa?! Quem vai pagar estas taxas serão os consumidores e os produtores do nosso País. Aqui tem mais um exemplo, Sr. Primeiro-Ministro: gorduras do Estado, zero; impostos e taxas sobre os portugueses, muitos! \nÉ esta a sua política, Sr. Primeiro-Ministro.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado António José Seguro, deve calcular que conhecemos bem o teor do Memorando de Entendimento.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Exatamente!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Não preciso de evocar o Memorando de Entendimento para fazer a renegociação que há de conduzir à revisão das rendas no setor energético, porque ela está a ser feita. \nO Sr. Deputado não ganha, nem para si nem para o Partido Socialista, qualquer credibilidade na opinião pública, quando se dirige ao Governo nos termos em que acaba de o fazer. Sabe porquê, Sr. Deputado?", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Deixe-me dizer-lhe porquê. É que, lamentavelmente, quando o Governo quer falar do futuro, não do passado mas do futuro, e do que está a fazer pela economia portuguesa,…", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Paulo Pedrosa", 
+   "text": "Nada!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… nomeadamente na justiça, o Partido Socialista nada tem a dizer. Isto é que é lamentável neste debate, Sr. Deputado.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "É porque o resto das matérias temo-las debatido amiúde. Quem tem participado nestes debates e quem os tem acompanhado sabe bem as vezes que aqui trocámos ideias e razões sobre essas matérias. \nMas, Sr. Deputado, que, ao cabo de todo este tempo, o Partido Socialista e o Secretário-Geral do Partido Socialista nada tenham a dizer sobre a justiça é muito elucidativo da forma como o Partido Socialista olha para o futuro.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Aproveito para lhe dizer uma coisa que não pude responder há pouco e que tem a ver com o MIBGAS. É conhecida, há muitos anos, a intenção de Portugal e Espanha realizarem, no âmbito do gás, o mesmo tipo de convénio que foi realizado na área da eletricidade. Isto não deixará de estar na agenda da nossa cimeira bilateral, no dia 9 de maio.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Ah! Finalmente!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "É conhecido, Sr. Deputado!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem, de novo, a palavra, Sr. Deputado António José Seguro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, credibilidade?! Credibilidade?! \nVou ler duas frases suas, Sr. Primeiro-Ministro. \nNo dia 2 de maio do ano passado, para ganhar votos, o Sr. Primeiro-Ministro dizia: «vamos ter de cortar em gorduras e de poupar no Estado (…) vai ter de fazer austeridade (…) basta de aplicá-la só aos cidadãos» — dizia Pedro Passos Coelho, candidato a Primeiro-Ministro. Agora, como Primeiro-Ministro, está a fazer completamente o contrário.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Mas vou ler-lhe outra, Sr. Primeiro-Ministro: «o aumento de impostos previsto por este Governo, no documento que assinámos com a União Europeia e o FMI, é mais do que suficiente». É mais do que suficiente, Sr. Primeiro-Ministro?! O que é que o senhor está a fazer aos portugueses? O senhor está a fazer aos portugueses coisas diferentes daquelas que prometeu. É que não me esqueço daquela criança que disse: \n«Sr. Primeiro-Ministro, os meus pais, lá em casa, dizem que o senhor lhes quer retirar o subsídio de Natal e o subsídio de férias». E o senhor respondeu: «Que disparate! Não vou fazer isso.» Pois fez esse disparate! \nQuero dizer-lhe uma coisa e aconselhá-lo: neste momento, por todo o País, andam funcionários das Finanças a fazer avaliações de habitações, as quais não têm em conta a situação atual, ou seja, nem a situação de crise nem as condições objetivas da casa. Há avaliações que passam de 30 000 € para 90 000 € ou de 40 000 € para 140 000 €, o que significa mais um encargo e um enorme sacrifício para os portugueses. \nO que lhe quero aconselhar, Sr. Primeiro-Ministro, é a introduzir novos critérios nessas avaliações, porque há portugueses que não têm mais dinheiro para pagar o IMI que resulta dessas avaliações, e esta é uma proposta de um Governo do PSD.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, embora disponha de muito pouco tempo, tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado António José Seguro, a avaliação que está a decorrer, para quem está, com certeza, também muito esquecido, Sr. Deputado, consta das medidas do Memorando, e vai ser realizada.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Mas não consta o montante!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Mas deixe-me só dizer-lhe, Sr. Deputado, que a forma como este Governo trata os portugueses é com muita maturidade. Se este Governo está a cumprir um programa importante de transformação da sociedade portuguesa e também de correção das contas públicas, é porque muitos anos de políticas erradas nos conduziram até aqui.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Primeiro-Ministro.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "O Sr. Deputado não pode dar a «canelada» e fugir. O Sr. Deputado deve saber que, quando fala do passado sobre o Primeiro-Ministro, o Primeiro-Ministro tem mais do que legitimidade para lhe recordar a razão por que as coisas são feitas em Portugal.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Paulo Pedrosa", 
+   "text": "Não tem, não!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr. Deputado, hoje, o que está a passar-se em Portugal é uma grande oportunidade de deitarmos para trás das costas, e enterrarmos, vícios e políticas erradas que nos conduziram a uma situação de quase bancarrota. \nSr. Deputado, o que estamos a fazer é a recuperar o País!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado António José Seguro, que ainda dispõe de tempo.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, como gostaria, a bem de Portugal, que as suas palavras correspondessem à realidade. Infelizmente, não há nenhum indicador que diga que a sua receita, que está a aplicar ao nosso País, seja a receita correta.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Mas há uma coisa muito séria que lhe quero dizer, Sr. Primeiro-Ministro: o País, ontem, ficou a saber que o Governo vai reunir, no último dia e à última hora, para aprovar o PEC e o enviar para Bruxelas. Quero dizer-lhe que isto é muito grave, Sr. Primeiro-Ministro! É grave, porque a lei exige que este Parlamento receba esse documento com 10 dias de antecedência, para o poder debater.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Não é verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "O Sr. Primeiro-Ministro desrespeita este Parlamento! \nSegundo: é uma trapalhada e já não é a primeira vez, porque, em relação às grandes opções do plano do Orçamento para 2012, o Sr. Primeiro-Ministro e o seu Governo fizeram o mesmo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Mas há uma coisa que quero recordar-lhe: lembra-se do PEC 4, Sr. Primeiro-Ministro?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Então, não lembra!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Lembra-se de o senhor ter criado uma crise política, porque esse PEC não tinha sido discutido em Portugal e tinha sido entregue em Bruxelas?! Qual é a sua coerência, Sr. Primeiro-Ministro?! Qual é a sua coerência?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PSD e do CDS-PP.", 
+   "type": "protesto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "É isto que mina a credibilidade dos políticos e a credibilidade do seu Governo. \nMas digo-lhe ainda outra coisa, e isto é muito sério: o Sr. Primeiro-Ministro tem utilizado, em Portugal, e fora de Portugal, e bem, o consenso político que tem existido em torno do ajustamento e da consolidação das contas públicas. Pergunto-lhe: esta é a maneira de tratar o Parlamento, este é o modo de agir para manter esse consenso político?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "É isso que pretende, quando o senhor escolhe sozinho, com o seu Governo, elaborar esse documento, sem consultar os partidos políticos, sem sequer consultar o PS e sem sequer consultar a Assembleia da República?! Devo dizer-lhe que está cada vez mais isolado, Sr. Primeiro-Ministro! \nO senhor escolheu um caminho. Pois bem, desejo-lhe boa viagem por esse caminho, mas vai sozinho, porque o PS não assina de cruz nenhum documento que o senhor entregue em Bruxelas sem ser discutido com o Partido Socialista. Não assinamos!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O Sr. Primeiro-Ministro não tem tempo para responder a esta pergunta, pelo que passamos ao próximo orador. \nAssim, para formular perguntas, tem a palavra o Sr. Deputado Jerónimo de Sousa.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, trouxe-nos aqui questões relacionadas com a justiça, algumas delas sabidas, outras já aprovadas. Parece que, de repente, ficou sem assunto para este debate quinzenal!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Mas, ainda assim, sobre as questões da justiça que referiu, e independentemente de aspetos estruturantes que têm a ver com o direito de acesso à justiça e com a independência dos tribunais, gostaria de lhe suscitar uma particularidade, concretamente em relação às insolvências e aos privilégios creditórios. \nÉ sabido que, primeiro, recebe a segurança social, isto é, o Estado, depois, recebe a banca e, em último lugar, recebem os trabalhadores. Esta vossa proposta tem uma marca de classe, Sr. Primeiro-Ministro, ou seja, quem vende e dá a única coisa que tem, que é a força do seu trabalho, está sempre sujeito, em caso de insolvência, a receber pouco ou nada, devido à vossa opção por esses critérios.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Diga lá que isto não é verdade, Sr. Primeiro-Ministro, não se limite a acenar com a cabeça, demonstre que não tenho razão.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Jerónimo de Sousa, temo que o Sr. Deputado, na sua pergunta, esteja a confundir a situação atual com aquela que é proposta,…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Já foi aprovada!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… porque é exatamente noutros termos, Sr. Deputado. \nQuando se dá a circunstância de o programa especial de revitalização entrar em vigor por acordo entre os credores, resulta do acordo entre os credores a forma como os créditos poderão vir a ser recuperados no tempo, de modo a garantir que, nesse tempo, a empresa possa ser aliviada, sobretudo na sua tesouraria, no seu capital disponível circulante, para se poder manter e evitar o despedimento dos trabalhadores com o seu encerramento. \nO que sucedia, muitas vezes, Sr. Deputado, é que, sobretudo o Estado, quer através das finanças, quer através da segurança social, dada a exigência que têm para o próprio Estado e, portanto, para todos os contribuintes, de recuperar os créditos a que o Estado tem direito quando as empresas deixam de pagar as devidas prestações, com o excesso de zelo, motivava o encerramento de empresas. Nós sabemos que isto acontece! \nAssim, era importante, para não dizer decisivo, que, sem pôr em causa o interesse público — e, portanto, a necessidade de o Estado, via segurança social e via direção-geral dos impostos, poder vir a ser ressarcido dos créditos que lhe são devidos —, não houvesse uma precipitação das ações de exigência imediata e penhora, as quais poderiam conduzir ao encerramento da empresa, e por essa razão o Estado também participa, através dessas duas instituições públicas, no processo especial de revitalização. \nPortanto, Sr. Deputado, o quadro que se abriu é justamente para evitar as situações que, no passado, conduziram a que as empresas e os trabalhadores se vissem em maiores dificuldades, por exigência dos créditos de que aquelas eram devedoras.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Jerónimo de Sousa.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, pois, pois, a verdade é que aquilo que está na lei é que os credores que, no decurso do processo, financiem a atividade do devedor, disponibilizando-lhe capital para a sua revitalização, gozam de privilégio creditório mobiliário geral, graduado antes dos privilégios creditórios mobiliários, em geral, concedidos pelos trabalhadores. É isto que está na lei! \nNão sou gago, Sr.ª Ministra da Justiça, é o que está lá escrito!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Mas, Sr. Primeiro-Ministro, gostaria de lhe dar conta de um sentimento esquisito, porque pensava que, hoje, aqui, ia ser o «dia D», tendo em conta a ameaça séria que a UGT fez ao Sr. Primeiro-Ministro: «ou avançam com as medidas positivas de emprego e crescimento até sexta-feira ou, então, nós cá estamos para romper o acordo». Bom, o Sr. Primeiro-Ministro desdramatizou dizendo que era um pouco a conversa que resulta do 1.º de Maio. \nMas, então, este «dia D» acaba por ser um «dia N», ou seja, um dia do «nada»?! Vai anunciar essas grandes medidas contidas no acordo de concertação social ou, enfim, vai deixar essa central sindical apenas com aquilo que é hábito e que, no fundo, é uma oposição de garganta, tal como a que o PS, muitas vezes, faz?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Jerónimo de Sousa, volto a dizer que, no âmbito do Programa Revitalizar e do processo de revitalização das empresas, não existem, do ponto de vista creditório, nenhumas outras prioridades que não aquelas a que os próprios credores, no âmbito do processo, vierem a acordar. \nDe resto, quer no que respeita ao processo de recuperação, quer no que respeita em particular ao processo de insolvência propriamente dito, as previsões incluídas no Código da Insolvência e da Recuperação de Empresas (CIRE) são exatamente aquelas que existiam e não quaisquer outras, Sr. Deputado.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Portanto, não invertemos a ordem das prioridades creditícias. \nNão deixo, no entanto, de anotar que o Sr. Deputado quis utilizar as perguntas que colocou ao Primeiro-Ministro para fazer um ataque à UGT.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Não. Constatei um facto!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr. Deputado, percebo que tenha querido, de uma forma habilidosa, aproveitar uma pergunta ao Primeiro-Ministro para mostrar a sua insatisfação e o seu inconformismo pelo facto de a UGT ter sido subscritora do acordo tripartido…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Os atos ficam com quem os pratica!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… que realizámos com os parceiros sociais…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Com alguns!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… no sentido de promover a competitividade, o crescimento e o emprego.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Como está à vista, aliás!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr. Deputado, foi público que recebi o Sr. Secretário-Geral da UGT — como, de resto, recebi o Sr. Secretário-Geral da CGTP —, o qual, à saída do encontro, disse que o Governo se tinha comprometido até esta sexta-feira a enviar aos parceiros sociais (não à UGT, Sr. Deputado) um cronograma com toda a calendarização das medidas que estão contidas no acordo. \nDado que os parceiros não têm a possibilidade de atribuir entre si a mesma importância a todas as medidas, era essencial, para que houvesse um bom diálogo e articulação na execução do acordo entre o Governo e os parceiros sociais, que estes pudessem indicar prioritariamente não só os temas como os seus representantes mais diretos para interagirem com o Governo na preparação e na finalização das iniciativas que estão previstas no acordo. Isso, Sr. Deputado, faz parte de um quadro de monitorização e de execução do próprio acordo. E acredito, Sr. Deputado, que seremos capazes de fazer uma boa execução desse acordo, que não é importante apenas para a imagem externa do País mas também para que as reformas em Portugal se possam fazer em diálogo com os parceiros socias — evidentemente, com aqueles que querem dialogar — e de forma a incorporar, fazendo concessões que são próprias de um processo negocial, várias das suas iniciativas e propostas naquelas que o Governo vier a apresentar. \nEsse é o caminho em que acreditamos, que já deu resultados práticos muito evidentes, nomeadamente na área da educação, e que não deixaremos de ver repercutir em muitas outras áreas da governação.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado Jerónimo de Sousa.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, não procure distorcer os factos, porque apenas me limitei a constatar que a UGT, portanto, essa central sindical, tinha dado um prazo …", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "… ao Sr. Primeiro-Ministro, ao Governo, mas creio que, depois, essa conversa acabou por levar a mais um entendimento. Enfim, veremos… Quero perguntar-lhe o seguinte: então, isso ainda é para monitorizar, para ver em termos gerais, em termos concretos? Mas, nesta Assembleia, esteve a discutir-se, até de madrugada, a legislação laboral, aquilo que vai martirizar os direitos dos trabalhadores. Tanta pressa e tanta objetividade em relação àquilo que é concreto e penalizador para os trabalhadores…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "… e, simultaneamente, um longo tempo, que tem que ser mesmo longo, porque aquilo não passa de declarações de intenção. Isto demonstra a vontade política do Governo. O que querem, de facto, é mutilar os direitos de quem trabalha, como se expressa nas propostas de alteração do Código do Trabalho.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Mas, Sr. Primeiro-Ministro, embora não tenha tempo para responder, gostaria de colocar-lhe duas questões. \nEntendemos que o povo português tem direito a uma informação sobre o cumprimento dos compromissos assumidos na contratualização de contrapartidas decorrentes da aplicação da Lei de Programação Militar. \nSr. Primeiro-Ministro, pode dizer-nos por que é que o Sr. Ministro da Economia não sabe, ou não quer dizer, que neste momento existem cerca de 2000 milhões de euros, sublinho, 2000 milhões de euros, que andam para aí a «voar» ou, se quiser, a «submarinar». \nSe tivesse tempo, agradecia que me desse uma explicação, porque este é um exemplo concreto de falta de informação e da aplicação de dois pesos e duas medidas por parte deste Governo do PSD. Como não tem mais tempo, Sr. Primeiro-Ministro, vou limitar-me a uma interrogação. \nAcabámos de saber que a Galp teve lucros de 16,5% no 1.º trimestre, 50 milhões de euros em três meses, à custa das famílias e das empresas. Venha lá o Sr. Primeiro-Ministro com o argumento da equidade nos sacrifícios que nós depois logo lhe respondemos!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "A Sr.ª *Presidente* — Tem a palavra, para formular perguntas, o Sr. Deputado Francisco Louçã.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, é sempre um momento descontraído desta Assembleia da República quando o Sr. Primeiro-Ministro vem anunciar a ideia de apresentar propostas de lei. Fala-nos de grandes medidas sobre a justiça que mais dia, menos dia, vai apresentar à Assembleia da República. Um dia deste até apresenta uma reforma sobre a justiça. Cá estaremos para a discutir, mas nessa altura. \nO que agora registamos é que o Governo se permitiu fazer uma chantagem inaceitável sobre o Tribunal Constitucional, para que ele não possa considerar a inconstitucionalidade da retirada do 13.º e do 14.º meses aos trabalhadores e aos reformados.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "E isso é uma ação política contra a justiça! Quero deixá-la aqui registada claramente. \nO Sr. Primeiro-Ministro veio dizer-nos hoje — a Sr.ª Ministra da Justiça está ao seu lado, foi ela que o fez — que não queria «cosmética», que não queria que tudo continuasse na mesma. Vou pôr-lhe um problema concreto para o qual quero uma resposta concreta, se fizer o favor, Sr. Primeiro-Ministro. \nO presidente do maior núcleo de intervenção do Estado na economia, que é o Presidente da Caixa Geral de Depósitos, escolheu ser simultaneamente o presidente da associação que representa todos os interesses privados da finança portuguesa. Quero saber, Sr. Primeiro-Ministro, se foi consultado e se considera ou não que há incompatibilidade nesta sobreposição de duas tarefas contraditórias na mesma pessoa, que é, aliás, um representante do Estado na banca.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Primeiro-Ministro, tem a palavra, para responder.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Francisco Louçã, ao contrário do que a sua pergunta poderia sugerir, o Governo nunca condicionou o Tribunal Constitucional em matéria nenhuma.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Isabel Alves Moreira", 
+   "text": "Não é verdade!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Está o Tribunal Constitucional em total liberdade, como sempre, para determinar o que entender sobre as matérias que lhe são colocadas.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Protestos da Deputada do PS Isabel Alves Moreira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "De resto, quando matérias ligadas com a putativa inconstitucionalidade de diplomas é suscitada, o Governo tem dito, reiteradamente, que não é ao Governo que compete referir da constitucionalidade ou inconstitucionalidade, é ao Tribunal Constitucional. \nNo que respeita à questão dos subsídios, Sr. Deputado, ela é conhecida: o diploma não está presente ao Tribunal Constitucional, mas uma medida idêntica que foi apresentada ao Tribunal Constitucional já foi objeto de um acórdão deste Tribunal.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Protestos de Deputados do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Teve que ver com o corte de 5%, em média, nos ordenados da função pública, que ocorreu em 2011. \nNessa matéria, o Tribunal estatuiu que considerava esse corte constitucional, na medida em que era transitório e ocorria em circunstâncias muito especiais da vida do País.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Protestos da Deputada do PS Isabel Alves Moreira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Foi isso que levou a que eu próprio já tivesse dito que, no caso dos subsídios, eles têm também um caráter transitório, na medida em que tencionamos respeitar a doutrina que o Tribunal Constitucional instituiu nesta matéria. \nPortanto, Sr. Deputado, não só não há nenhum condicionamento ao Tribunal Constitucional como, antes pelo contrário, o Governo assumiu a orientação que o Tribunal Constitucional já havia plasmado no acórdão que proferiu sobre uma medida do Orçamento do Estado para 2011, apresentada em 2010.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos da Deputada do PS Isabel Alves Moreira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Quanto à questão que o Sr. Deputado colocou sobre o Sr. Presidente da Caixa Geral de Depósitos, tenho a dizer-lhe que fui informado do convite que lhe foi dirigido para desempenhar as funções de Presidente da Associação Portuguesa de Bancos e devo dizer que transmiti a seguinte orientação, que não tenho dúvidas que será seguida: não vejo nenhuma incompatibilidade no horizonte no desempenho dessas funções.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "Inacreditável!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Mas à primeira incompatibilidade de funções que se venha a revelar materialmente, e que não se vislumbra, Sr. Deputado (antes pelo contrário, deixe-me dizer-lhe, considero que até pode ser uma boa oportunidade para a Caixa Geral de Depósitos poder exercer mais alguma influência no sistema financeiro), não tenho dúvidas de que não será precisa uma indicação minha para o Sr. Presidente da Caixa Geral de Depósitos se antecipar a qualquer decisão que o Governo viesse a tomar nesta matéria.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos de Deputados do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado Francisco Louçã.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, a Ministra da Justiça entendeu que, se o Tribunal Constitucional considerar inconstitucional os cortes do 13.º e do 14.º meses, será uma catástrofe. \nNão sei se considera que uma catástrofe não é uma pequenina pressão,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Isabel Alves Moreira", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "… mas a mim parece-me que sim.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE e de Deputados do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Agora, Sr. Primeiro-Ministro, vamos falar da catástrofe verdadeira, da que está a ocorrer. \nNão sei se o Sr. Primeiro-Ministro estudou este assunto, pela sua resposta parece que sim. Dizem os Estatutos da Caixa Geral de Depósitos que compete ao presidente «assegurar o cumprimento das deliberações do Conselho de Administração», do Estado. Dizem os Estatutos da Associação Portuguesa de Bancos que compete ao presidente «representar aquela Associação junto de entidades públicas e privadas, nacionais e estrangeiras». \nO Presidente da Caixa, que representa o Estado, representa o interesse público, mas, da parte da tarde, negoceia com a troica os interesses do sector privado junto de instituições estrangeiras! \nE, já agora, se quer falar de incompatibilidades, Sr. Primeiro-Ministro, por que razão o Presidente da Caixa Geral de Depósitos, tendo dois empregos, escolheu ser pago pela Associação Portuguesa de Bancos e não pela Caixa Geral de Depósitos?! Ou seja, não só é incompatível presidir ao banco público e representar os seus concorrentes diretos como ele é pago pelos concorrentes, Sr. Primeiro-Ministro! Ele é pago pelos seus concorrentes!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Não acha que os portugueses percebem bem que esta coisa dos sacrifícios… É dito que os portugueses «estão dispostos a todos os sacrifícios, vamos fazer mais sacrifícios», mas, se o ordenado é maior, aquele homem está disposto a pedir para ser pago pelos concorrentes. Se o Sr. Primeiro-Ministro acha que não há nada de estranho nisto, então creio que não sabe olhar para o País em que vivemos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Primeiro-Ministro, tem a palavra.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Francisco Louçã, a Caixa Geral de Depósitos faz parte do sistema financeiro português. Nessa medida, não estranhará com certeza a ninguém que o Presidente da Associação Portuguesa de Bancos possa ser escolhido de entre o sector financeiro português e, nomeadamente, ser o Presidente da Caixa Geral de Depósitos. \nComo o Sr. Deputado sabe, existe uma diferença grande entre o c_hairman_ da Caixa e o Presidente Executivo. O caso que o Sr. Deputado referiu até tem que ver com o c_hairman_ da Caixa e não com o Presidente do Conselho Executivo. \nSeria, talvez, pouco natural que o Presidente Executivo da Caixa dispusesse de tempo suficiente para fazer também a presidência da Associação Portuguesa de Bancos, não por uma questão de inconstitucionalidade nem de incompatibilidade, Sr. Deputado, mas por uma razão materialmente prática, que é a de tempo.\nSr. Deputado, se a Caixa Geral dos Depósitos faz parte da Associação Portuguesa de Bancos, o interesse público está menos acautelado por a Caixa fazer parte da Associação Portuguesa de Bancos ou por o seu _Chairman_ poder presidir à Associação Portuguesa de Bancos?!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "Está, está!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Eu não vejo assim, Sr. Deputado, com sinceridade, não vejo! \nMas, Sr. Deputado, quero-lhe garantir que, se algum dia existir alguma matéria que seja conflituante com o Estado e com o interesse público, a Caixa Geral dos Depósitos não deixará de agir em conformidade, seja através do seu _Chairman_ ou através da própria instituição.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Protestos do BE e do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "E volto a dizer-lhe, Sr. Deputado, que não tenho dúvidas de que se tal acontecer — conhecendo o Engenheiro Faria e Oliveira como conheço —, nessa altura, não será necessário que seja o Governo convidado a fazer uma primeira apreciação sobre isso, porque tenho a certeza de que será ele próprio a tomar a iniciativa de separar essas águas. \nQuanto à questão do vencimento do presidente dessa Associação, Sr. Deputado Francisco Louçã, o Sr. Deputado quase pareceu o Sr. Deputado Jerónimo de Sousa quando falava dos lucros da Galp. Com certeza, Sr. Deputado, que o presidente há de ser remunerado pelo seu trabalho. Já quanto à questão de saber por que é que ele prefere um vencimento ou outro, a essa questão eu preferia que fosse o Engenheiro Faria de Oliveira a responder.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Risos e protestos do PCP e do BE.", 
+   "type": "riso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Francisco Louçã, tem a palavra.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, por que razão ele prefere um ordenado ou outro?! Toda a gente o sabe!…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Oh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "É porque há uma lei que implica que os gestores públicos tenham uma limitação de salário, que não pode ser superior ao seu; mas se esse gestor estiver no setor privado, não é abrangido por esta lei. E, como é claro, toda a gente percebe! Mas como é que um ex-ministro consegue viver com menos de 21 000 euros por mês?! Não pode ser!… \nHá pessoas, em Portugal, Sr. Primeiro-Ministro, que se conseguem «desplafonar». Sabe o que isso quer dizer? O senhor bem pode dizer que ele é o _chairman_, mas não me diga que é o «homem da cadeira». \nO facto é que quem tem responsabilidades públicas tem de saber ter responsabilidades públicas, e neste momento acima de tudo! Tem de saber ter responsabilidades públicas! \nPor isso, o Sr. Primeiro-Ministro, hoje de manhã, veio dizer que é preciso garantir que tudo não fica na mesma. Repetiu-o agora! «Medidas de cosmética»! Mas quer «cosmética» mais triste do que esta, de quem tem todo o poder para decidir sobre si próprio e utiliza toda a ganância para si próprio?! E diria que isto se aplica como regra geral na forma como as coisas públicas são conduzidas. \nVeja o caso das rendas energéticas. O Sr. Primeiro-Ministro anunciou, hoje de manhã, às 8 horas e 30 minutos, e repetiu-o aqui numa intervenção anterior: «vamos pôr cobro ao excesso das rendas energéticas». \nO que acontece, Sr. Primeiro-Ministro, é que no relatório do secretário de Estado que foi corrido do Governo dizia-se qual era o valor dessas rendas, para sabermos exatamente quanto é que tinha de se poupar: 3925 milhões de euros!\nE no relatório que foi feito depois de ele ter sido corrido — cá está ele, distribuído ontem à Assembleia da República —, o que se veio dizer foi que não, que não há rendas excessivas, que não sabemos bem qual é o valor, temos de fazer contas, não fazemos ideia… O que sabemos é que os consumidores devem, há défice tarifário. \nÉ por isso que olhamos para este Governo, que não quer combater rendas excessivas, que permite o privilégio, que é capaz de impor uma nova taxa quando tinha dito a todos, a toda a gente, que nunca haveria mais carga fiscal, mas cá está uma «taxinha» sobre os centros comerciais, mais um aumento de impostos, mais um aumento da eletricidade, mais um imenso aumento do IMI, é verdade, mais um atraso no pagamento do IRS!… Tudo a tirar, sempre, às pessoas, Sr. Primeiro-Ministro. E essa desigualdade é de um Governo que se atreve a ir a Washington e dizer que estamos dispostos a mais sacrifícios, que daremos uma lição de moral!… \nO Primeiro-Ministro que vai aos Açores e diz: «os pobres têm uma esmola garantida pelo Estado».", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira concluir, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Olhe a «esmola» na Caixa Geral dos Depósitos! Olhe a «esmola» da EDP! Olhe a «esmola» das rendas excessivas! Olhe a «esmola» das parcerias público-privadas! \nNa justiça é que o País se faz grande e nesta iniquidade, Sr. Primeiro-Ministro, está a matar esta economia, está a matar a esperança e está a diminuir a democracia. \nPrecisamos de mais democracia e, portanto, de mais responsabilidade. E é por isso que está aqui o Bloco de Esquerda, para toda essa luta!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Deputada Heloísa Apolónia, de Os Verdes.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, também lhe quero falar de injustiça. E quero falar-lhe de injustiças que têm efeitos na nossa economia, que têm efeitos na nossa sociedade, no presente e no futuro. \nSr. Primeiro-Ministro, voltamos ao tempo em que estuda quem tem dinheiro, e isto é gravíssimo. Foi tornado público que muitos estudantes estão a abandonar o programa Erasmus, aquele programa de mobilidade dos estudantes para o estrangeiro, porque não têm condições económicas para permanecer no Erasmus, e há declarações públicas do Sr. Secretário de Estado do Ensino Superior a considerar que isso até é uma coisa natural e normal. \nHá estudantes a abandonar o ensino superior, as instituições de ensino superior em Portugal, Sr. Primeiro-Ministro, porque não têm condições económicas para prosseguirem os seus estudos e o Governo não faz absolutamente nada! Convive naturalmente com esta realidade. Pior: agrava o problema, quando diminui as bolsas de estudo e o universo dos estudantes sujeitos a essas bolsas. \nSr. Primeiro-Ministro, esta realidade começa a ser absolutamente dramática. Estamos a recuar para um tempo perigoso e eu gostava de obter uma palavra do Sr. Primeiro-Ministro sobre esta realidade porque a estes estudantes o que é pedido, devido a essas carências económicas, é que hipotequem o seu futuro, a sua capacidade e a sua potencialidade de se qualificarem. Ora, isto é extraordinariamente grave. \nPor outro lado, Sr. Primeiro-Ministro, gostaria de lhe dizer que, como já todos perceberam, as medidas de austeridade e aquilo a que o Sr. Primeiro-Ministro chama reformas não estão a dar resultado. A execução orçamental do primeiro trimestre dá-nos bem conta disso: o Governo aumenta os impostos, mas as receitas fiscais são menores, porque as pessoas até impostos não conseguem pagar, Sr. Primeiro-Ministro! Como é?!… \nE há um relatório do FMI que nos diz que, lá para o ano de 2017 e anos subsequentes, vamos estar com uma taxa de crescimento praticamente nula e com índices de desemprego gravíssimos. Isto não está a dar resultado. Como é, Sr. Primeiro-Ministro?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos de Os Verdes e de Deputados do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Primeiro-Ministro, tem a palavra.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr.a Deputada Heloísa Apolónia, é facto reconhecido que há estudantes em Portugal que, por dificuldades económicas, não têm conseguido manter as suas aprendizagens por estarem deslocados das suas habitações de origem. \nO Estado previu para este ano um ligeiro reforço da verba destinada à ação social escolar e, neste caso, a tudo o que é apoio em matéria de bolsas aos estudantes do ensino superior. Dada a necessidade de alguns dos estudantes poderem recorrer, já depois de fechado o prazo, a novo processo de candidatura, foi lançado um segundo período de candidaturas. E isto ocorreu, Sr.a Deputada, porque se verificou que houve agregados familiares que, já depois de concluído, no ano passado, o processo para atribuição das bolsas se viram em carência económica e, portanto, precisaram novamente de recorrer a essa candidatura. Por isso, foi lançado esse segundo período de candidaturas. \nSe a Sr.a Deputada me pergunta se estou satisfeito pelo facto de não ter mais recursos para poder garantir bolsas para todos,…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Só há para o BPN!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… não tenha dúvidas que tenho muita pena de não ter recursos suficientes para esse efeito.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Protestos do PCP e do BE.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Não é, Sr.a Deputada, que o Estado tenha de garantir, em termos financeiros, formação superior a todos. \nDo ponto de vista do financiamento, existe, a esse nível, uma partilha de responsabilidades.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "A Constituição não diz isso!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Isto é conhecido há muitos anos e mantém-se como uma repartição que é justa.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "É justa?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Mas o que pretendemos é que aqueles que têm qualificações, condições e aptidões para, depois do ensino obrigatório, poderem prosseguir os seus estudos a nível superior não sejam impedidos de o fazer por ausência de meios financeiros.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Mas são!…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Nessa medida, existem, de um lado, as bolsas e, do outro lado, mecanismos de financiamento que o Estado financia indiretamente, através de juros bonificados, para que possam ser contraídos empréstimos.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Oh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Ora, é essa relação que está estabelecida hoje e que vem sendo cumprida. O Estado reforçou os meios e, portanto, Sr.a Deputada Heloísa Apolónia, não estamos a regressar a tempos perigosos, o Estado não se demitiu dessa responsabilidade, antes pelo contrário, reforçou esses meios e, mais do que isso, Sr.a Deputada, saltou por cima de barreiras administrativas, criando um segundo momento em que foi possível aos candidatos que não se apresentaram ao primeiro concurso, apresentarem-se ao segundo concurso, para poderem reparar a sua situação.\nPortanto, Sr.a Deputada, o Governo tem estado atento e, dentro do quadro das dificuldades em que vivemos, tem estado a responder positivamente a essa situação.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Vou dar a palavra à Sr.a Deputada Heloísa Apolónia, porque ainda dispõe de algum tempo, embora pouco. Faça favor, Sr.a Deputada.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Sr.ª Presidente, isto é absolutamente dramático. Colocamos aqui um problema gravíssimo ao Sr. Primeiro-Ministro e o que o Sr. Primeiro-Ministro responde, resumindo, é: \n«temos pena!»", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Não é verdade!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Sim, sim! O Sr. Primeiro-Ministro disse que tem pena de não ter mais dinheiro para que os estudantes não abandonem o ensino superior por carências económicas. \nO Sr. Primeiro-Ministro e este Governo só têm dinheiro para encaixar na banca e os portugueses não conseguem perceber isso! E, ainda por cima, é um investimento no sistema financeiro que não tem retorno para a nossa sociedade e para a nossa economia. Não pode ser, Sr. Primeiro-Ministro! \nHá pessoas no seu País e é para essas pessoas que o Sr. Primeiro-Ministro deve governar, porque são essas pessoas que fazem o seu País, que fazem a dinâmica social e económica de que o Sr. Primeiro-Ministro precisa para ver este País sobreviver. Mas, não! Os senhores estão a matar — a matar, definitivamente! — a nossa economia e, através dela também a nossa sociedade. Sr. Primeiro-Ministro, não pode ser! \nReferi-lhe números gravíssimos relativamente às perspetivas de futuro que comprovam que as vossas políticas não estão a dar resultado e o Sr. Primeiro-Ministro não disse nada, porque não tem nada para dizer, como é óbvio! As perspetivas são dramáticas!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr.a Deputada.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Termino mesmo, Sr.ª Presidente. \nO Sr. Primeiro-Ministro e todos os membros do Governo compareceram aqui, há dois, nas cerimónias de celebração do dia 25 de Abril, todos com cravo vermelho na lapela. Mas eu quero dizer-lhe uma cosia, Sr. Primeiro-Ministro: os vossos cravos murchavam, porque os senhores matam os valores de Abril, da liberdade e da igualdade todos os dias!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos de Os Verdes e de Deputados do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Aí é que está!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Oh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Nuno Magalhães, do CDS-PP.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, em primeiro lugar, queria dizer-lhe que, escolhendo o tema agenda estrutural e crescimento, fez o Sr. Primeiro-Ministro muito bem em focar a sua intervenção nas questões da justiça, desde logo, na justiça penal, onde nos apresentou reformas que, como imaginará, o CDS considera que marcam uma viragem histórica no combate à criminalidade, no combate ao sentimento de impunidade e no reforço do prestígio das forças e serviços de segurança. \nEstou a falar do julgamento rápido para os casos de crimes praticados em flagrante delito; estou a falar da eliminação de medidas dilatórias com sucessivos recursos com efeito suspensivo, que só são usados para protelar a decisão final; estou a falar da valoração das declarações prestadas perante advogado, a qualquer momento no processo, para efeitos probatórias. Eram vezes demais, eu diria mesmo que era desprestigiante para a justiça que as declarações produzidas numa fase processual, produzidas com a presença de um advogado, produzidas legítima e conscientemente pelo arguido, chegassem à fase de julgamento e valessem nada. \nEra desprestigiante, era uma perda de tempo e de trabalho e, da nossa parte, Sr. Primeiro-Ministro, como deve imaginar, parece-nos que estas medidas penais são essenciais para o combate à criminalidade. \nMas o Sr. Primeiro-Ministro também anunciou aqui um conjunto de medidas na área do Código da Insolvência e do processo civil que vêm trazer à justiça maior celeridade, maior simplificação e, sobretudo, maior proximidade com os cidadãos e com as empresas. \nDevo dizer, Sr. Primeiro-Ministro — com algum espanto —, que isto, para os partidos da oposição, não tem rigorosamente nada a ver com o crescimento económico, não tem rigorosamente nada a ver com as reformas necessárias no dia-a-dia dos portugueses. Para nós tem, Sr. Primeiro-Ministro.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP João Oliveira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Não nos surpreendemos que o Partido Socialista, o maior partido da oposição, não tenha dedicado tempo algum a este tema da justiça. É natural, não se surpreenda, Sr. Primeiro-Ministro, porque, de facto, quem esteve seis anos e meio no poder e, do ponto de vista da justiça, o que tem para apresentar são matérias como o congelamento na admissão de magistrados, o congelamento na admissão de novos investigadores na Polícia Judiciária,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Teresa Caeiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "… a não utilização de verbas para o laboratório de perícias da Polícia Judiciária, obras faraónicas, umas atrás das outras, enquanto se faz arrendamentos no Estado, não quer falar sobre esta matéria, sobre a justiça não lhe interessa falar! \nÉ, pois, natural que o Partido Socialista não queira falar sobre a justiça e sobre as medidas que tomou. Por exemplo, poderíamos falar no facto de o Campus da Justiça de Lisboa custar ao Estado, aos portugueses, ao erário público 1,2 milhões de euros por mês de rendas. Isso poderia ter sido dito — aliás, foi o respondido a um requerimento formulado pelo CDS, em janeiro de 2011, pelo anterior governo. Não estou sequer a utilizar qualquer tipo de informação especial. \nSr. Primeiro-Ministro, queria dizer-lhe que, para nós, para a nossa economia e para o crescimento económico, uma justiça mais célere, mais amiga do investimento e que torne as nossas empresas mais competitivas é, naturalmente, uma medida essencial, uma reforma estruturante para o crescimento, para a criação de emprego e, por isso, revemo-nos completamente nas medidas que tomou. \nOutros preferiram desviar o assunto.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos da Deputada do PS Isabel Alves Moreira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Devo dizer, Sr. Primeiro-Ministro, que quem anda no terreno — e parece que há grupos parlamentares que reivindicam o monopólio do conhecimento do terreno, do conhecimento das necessidades das empresas — certamente terá ouvido empresários dizer que «o que queremos é uma notícia mais célere;…»", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Teresa Caeiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "«… o que nós queremos é uma justiça fiscal que trate dos litígios o mais rapidamente possível; o que nós queremos é que não se arrastem anos e anos nos tribunais empresas que manifestamente não são viáveis». Quem não ouviu dizer isto? Pelos vistos, Sr. Primeiro-Ministro, só ouvimos nós. Não ouviram nem o Partido Socialista, nem o Bloco de Esquerda, nem o PCP, nas visitas que fizeram.\nNós ouvimos os empresários a queixarem-se disso diariamente e ainda bem que o Governo tem consciência de que é necessário fazer essa reforma. \nDo ponto de vista da economia e das reformas, queria chamar a atenção para o facto de, a nosso ver — e o CDS acredita numa economia de mercado com responsabilidade social —, ser necessário que essa economia tenha uma boa regulação. Hoje temos uma Lei da Concorrência que faz com que haja, neste momento, mais e melhor concorrência, mas também não deixamos de assinalar que, havendo mais e melhor concorrência, falta mais e melhor autoridade na concorrência, no sentido de haver maior responsabilização e responsabilidade no tipo de ações que se fazem. \nPor isso, Sr. Primeiro-Ministro, gostaria de o questionar acerca da disponibilidade do Governo para podermos alterar o regime da nomeação das entidades administrativas independentes, dotando-as de maior independência e reforçando os poderes dessas mesmas entidades, promovendo ao mesmo tempo um reforço na fiscalização por parte de órgãos de soberania, como o Presidente da República e a Assembleia da República. \nPensamos que assim, com esse envolvimento, reforçar-se-á a sua legitimidade e os seus poderes e reforçar-se-á a concorrência, quando existe já uma Lei da Concorrência que, a nosso ver, deu passos importantes. \nSr. Primeiro-Ministro, não gostaria de terminar sem sublinhar alguns dados que foram recentemente divulgados, quer pelo INE quer pelo Banco de Portugal, que merecem algumas reflexões e perguntas. \nOntem mesmo, o INE referia que o indicador de confiança dos consumidores aumentou entre fevereiro e abril, contrariando uma tendência negativa que perdurava desde 2009. Os juros a dois anos da dívida pública baixaram a um valor mínimo, inferior mesmo àquele que ocorria em abril de 2011, antes de sermos obrigados a pedir ajuda externa. O Banco de Portugal revelou ainda que, em fevereiro de 2012, as exportações cresceram 13,2%, em relação ao período homólogo, e as importações registaram uma queda de 3,5%. \nSr. Primeiro-Ministro, é da conjugação destes três dados (que nos foram transmitidos por entidades independentes) que gostaria de fazer as seguintes perguntas: em primeiro lugar, considera o Sr. Primeiro-Ministro que esta inversão do clima de confiança é, ou não, um sinal de que as reformas deste Governo, aliadas ao facto de estarmos a cumprir o que assumimos, revelam que começa a haver sinais da nossa economia, nos consumidores, de confiança suficiente para haver investimento e consumo? \nEm segundo lugar, pergunto se este nivelamento por baixo e consistente dos juros da dívida pública, de alguma forma, não lhe parece que demonstram uma recuperação da credibilidade externa do País, resultado do simples mas importantíssimo facto de Portugal estar a cumprir com a palavra, com o que assinou e a fazer aquilo com que se comprometeu? \nTrata-se, a nosso ver, de um sinal de credibilidade externa,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "… como bem assinalava há dois dias o Sr. Presidente da República, que pode, e muito, ajudar a nossa economia, o crescimento económico e tem a ver com a agenda estrutural deste Governo. \nPor fim, Sr. Primeiro-Ministro, queria perguntar se este aumento das exportações e a diminuição das importações, esta tendência de reequilíbrio da nossa balança comercial, tem ou não impacto no crescimento económico e na manutenção ou, até, na criação de emprego? \nSabemos — o Sr. Primeiro-Ministro tem-no dito várias vezes — que é importante fazer esta reforma estrutural e mudar o modelo de crescimento em que assentaram, muitas vezes, as políticas públicas no nosso País, nomeadamente apostando nos sectores produtivos, nas exportações e na correção do défice e do desequilíbrio da balança comercial. Por isso, é de registar que não só aumentaram as exportações como se diversificaram e aumentaram os países para os quais exportamos. Essa diversificação também nos parece muitíssimo importante, no âmbito do que consideramos fundamental, que é a valorização da diplomacia económica, do papel do AICEP. Também nesta matéria, gostaríamos de ter da parte de V. Ex.ª, Sr. Primeiro-Ministro, mais notícias sobre as medidas que o Governo pretende tomar nesta área. \nEm suma, Sr. Primeiro-Ministro, falar de crescimento e de reformas estruturantes…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira fazer o favor de concluir, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Termino já, Sr.ª Presidente. \nNão encontramos outra área em que, nos últimos anos, tanta vez, ao mesmo tempo, tanta gente, empresários e trabalhadores de todo o espectro político, mais tenha reclamado reformas urgentes e estruturantes. Refiro-me à área da justiça.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Infelizmente, somos os primeiros a falar desse tema, perante um silêncio ensurdecedor da oposição.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não é verdade! São os primeiros, sim, a elogiar!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Nuno Magalhães, julgo que é importante manter a ênfase que o Sr. Deputado colocou nas reformas da justiça. Ao contrário do que o Sr. Deputado Francisco Louça aqui «atirou» no debate, o Governo não vive de uma política de anúncios, antes tem vivido uma ação de realização. Por isso, é possível dizerem que o Primeiro-Ministro faz aqui a síntese de matérias que já estão em vigor e não de matérias que estão prometidas para o futuro. \nVejamos: a nova Lei da Arbitragem está em vigor; os novos tribunais especializados instituídos já estão instalados e a funcionar; a nova Lei da Concorrência já está publicada; o novo Código da Insolvência e da Recuperação de Empresas (CIRE) já está publicado. \nQuando tratamos de matérias tão sensíveis como o Código de Processo Civil e o Código de Processo Penal, bem como, de resto, a matéria administrativa que ainda hoje foi noticiada, que será também objeto de uma revisão, é da mais elementar obrigação de transparência dizer ao que vamos e o que estamos a discutir. \nPorque nós já estamos a discutir! Não lançámos um debate público para ouvir ideias, lançámos um debate público com as ideias constantes dos projetos. Portanto, o trabalho muito intenso que já se desenvolveu está agora em discussão pública, deverá estar concluído até ao final deste semestre e o mais tardar no terceiro trimestre de 2012 estará em vigor. \nTal significa, Sr. Deputado, que o Governo andou depressa: andou depressa sem se precipitar, andou depressa sem deixar de dialogar, andou depressa sem deixar de obter os pareceres que são necessários entre todas as profissões jurídicas. É por isso que custa a muitos que, em vez do sobressalto permanente que se vivia na área da justiça,…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Exato!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… exista hoje um clima de cooperação — digo outra vez, de cooperação — leal entre a generalidade das profissões jurídicas em torno da reforma judicial que está a ser praticada. \nIsso é muito importante para os portugueses, porque nada afeta mais um Estado democrático e um Estado de direito do que constatar que aqueles que têm recursos e dinheiro conseguem ater-se com a justiça com uma qualidade que aqueles que não têm meios nem recursos não conseguem. Uma justiça que seja demasiado complexa é uma justiça boa para ricos,…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Quem o ouve falar!…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… mas não é necessariamente uma justiça justa. \nO que estamos a fazer, Sr. Deputado, é justamente a criar um novo patamar de qualidade de justiça em Portugal. Mas sabemos que se não dissermos o que vou dizer agora seremos logo considerados utopistas.\nNão, Sr. Deputado, não faremos a última reforma da justiça; não, Sr. Deputado, não iremos vender a reforma da nossa justiça como a quinta-essência que vai resolver todos os problemas do crescimento e do emprego. \nMas, Sr. Deputado, é preciso não estar claramente de olhos abertos e não estar de boa-fé para hoje desvalorizar uma reforma tão crítica para a economia, para os cidadãos e para a democracia como é a reforma da justiça.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Até agora, é só paleio, Sr. Primeiro-Ministro!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Que não haja no Parlamento quem a queira discutir nestes termos importantes já é muito revelador do enviesamento que certas forças políticas têm do debate democrático em Portugal!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Queremos, em todo o caso, que as observações que o Sr. Deputado fez a propósito de notícias — de factos, portanto — que apontam para bons resultados que têm vindo a ser alcançados também não fiquem descuradas. O Parlamento não tem de ser monotemático e também temos interesse em acentuar essas boas notícias. \nNão tenho dúvida de que o debate de ontem, suscitado pelo Bloco de Esquerda, um debate de urgência,…", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Uma interpelação ao Governo!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… em que esteve presente o Ministro de Estado e das Finanças para avaliar a execução orçamental, a designada «espiral recessiva que está em marcha», todas essas superstições tiveram ontem, da parte do Governo, a resposta adequada.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Superstições?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Superstições, Srs. Deputados!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Risos do BE.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Superstições, sim, porque existe hoje, manifestamente, na sociedade portuguesa um conjunto variado de agentes políticos que se comprazem com as desgraças e estão a ver quando a desgraça pode ser um bocadinho maior para poder apontar um insucesso ao Governo.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Não fomos nós que tirámos os 13.º e 14.º meses!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Srs. Deputados, a verdade não é aquela que os senhores apontam.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "O senhor é que arruína a vida das pessoas!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "O Sr. Deputado esteja em silêncio, se fizer favor, para poder proporcionar um bom debate no Parlamento. Isso é que é respeito e democracia, Sr. Deputado! É saber ouvir os outros!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Se o Sr. Deputado souber ouvir os outros, ficará a saber que também será ouvido com mais respeito, ao contrário do que acontece às vezes.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Dois dias depois do dia 25 de abril, Sr. Deputado, não é uma boa forma de o celebrar num debate quinzenal com o Primeiro-Ministro! \nEstamos interessados em sublinhar esses bons resultados, eles são importantes porque permitem aos portugueses, e fora de Portugal, constatar que o caminho que foi traçado e está a ser seguido está a produzir os resultados que eram esperados. \nSabemos que a contração da economia e as políticas de austeridade são um preço elevado que estamos a pagar hoje pelos erros do passado. Mas sabemos que a reforma estrutural é hoje suficientemente credível para que tenhamos — como o Sr. Deputado Nuno Magalhães anotou, e bem — os juros de mercado secundário que temos, que, no entanto, é muito pouco líquido, insisto em dizê-lo, Sr. Deputado, porque quando as taxas são muito elevadas, eu digo o mesmo, não digo umas coisas à segunda-feira e outras à sexta-feira, dependendo das semanas. Digo o mesmo! \nSr. Deputado, temos de ver com muita atenção essas taxas mas não posso esconder que estamos, pela primeira vez, com taxas, em várias maturidades, abaixo daquelas do período em vésperas do pedido de assistência externa que Portugal fez, o que só pode ser um bom sinal, Sr. Deputado. E eu comprazo-me, evidentemente, com os bons resultados.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira fazer o favor de concluir, Sr. Primeiro-Ministro.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "O tempo de que eu dispunha terminou, no entanto não deixarei de reportar que não são só os juros da dívida pública que estão a mostrar o nosso bom caminho. O Sr. Deputado falou das exportações. Creio que, ontem, o Sr. Ministro de Estado e das Finanças deu bem conta aqui, no Parlamento, de como o comportamento das exportações, que não depende do Governo, está a conduzir a que o resultado da recessão deste ano seja, porventura — é a nossa previsão —, menos intenso do que aquilo que estava destinado. Isto também é uma boa notícia para os portugueses, que me espanta que os Srs. Deputados que estão preocupados com a desgraça não possam assinalar.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem agora palavra o Sr. Deputado Luís Montenegro, do PSD, para formular as suas perguntas.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, disse aqui há pouco o Sr. Deputado António José Seguro que V. Ex.ª ia fazer esta viagem de transformação de Portugal sozinho. Quero dizer-lhe que não é verdade. O Sr. Primeiro-Ministro vai fazer essa viagem connosco mas, sobretudo, vai fazer essa viagem com os portugueses, com as famílias e com as empresas deste País.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr. Primeiro-Ministro, cada um escolhe o seu caminho, cada um escolhe os seus companheiros de viagem. \nÉ verdade que nós escolhemos os portugueses, como é verdade que o Sr. Deputado António José Seguro prefere uma boleia francesa, prefere uma adesão à demagogia e uma aproximação à esquerda mais radical.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "No final, Sr.as e Srs. Deputados, veremos quem está mais e melhor acompanhado. \nSr. Primeiro-Ministro, ainda a propósito do Documento de Estratégia Orçamental, queria dizer que ainda ontem, aqui no Parlamento, o Sr. Ministro de Estado e das Finanças disse que esse documento seria remetido ao Parlamento como um documento de trabalho para poder recolher os contributos de todos os demais partidos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Ah!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Não quero acreditar, Sr. Primeiro-Ministro, que o Sr. Deputado António José Seguro e os demais Deputados não vão querer participar e contribuir para enriquecer esse documento no debate parlamentar. Quero acreditar que o Partido Socialista vai continuar a assumir a sua responsabilidade. \nSr. Primeiro-Ministro, as nossas principais causas são, de facto, transformar o nosso País,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Galamba", 
+   "text": "Terraplanar!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… reformar o Estado e os sistemas públicos, pôr a economia a crescer, e a crescer de forma consistente, e criar emprego. Estas são, verdadeiramente, as nossas causas. Sabemos que concretizá-las é uma tarefa difícil. É, de facto, uma tarefa muito difícil e desafiante, que exige rigor, coragem e confiança.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Galamba", 
+   "text": "Competência!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Por falar em rigor, Sr. Primeiro-Ministro, ainda agora V. Ex.ª apontava — o que não deixa de ser curioso — que, uma semana depois de terem sido apresentados os resultados da execução orçamental, neste debate quinzenal, onde tantos casos foram trazidos ao debate, a oposição não se tenha referido ao resultado da execução orçamental.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Ainda ontem houve um debate sobre isso!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Quero dizer-lhe que não vemos esses resultados com triunfalismo, mas também não os vemos com pessimismo. Vemos que esses resultados apontam que o caminho de concretização das metas estabelecidas é um caminho possível e viável. A oposição, a tal oposição construtiva, não viu nada de novo, não viu nada de positivo nos resultados da execução orçamental. \nSr. Primeiro-Ministro, se é verdade que é preciso rigor e que é preciso manter este nível de exigência de cumprirmos todos os dias os nossos objetivos em matéria orçamental, também é verdade que é preciso coragem para concretizar reformas estruturais, reformas que são, muitas vezes, impopulares, o que reforça a convicção que temos de ter na sua execução. \nSr. Primeiro-Ministro, ao contrário do que muitos dizem, estas reformas estruturais são verdadeiras políticas de crescimento económico, são políticas que dão ao País as condições para podermos crescer de uma forma sustentada. Por isso, aquilo que o Sr. Primeiro-Ministro hoje aqui nos apresentou, o desenho das principais reformas na área da justiça, tem de ser visto não só como reformas dessa área, da garantia dos direitos dos cidadãos que cabe aos tribunais assegurar, mas também como um ponto de partida para que o País tenha mais condições para crescer do ponto de vista económico. \nNão vale a pena desdenhar, como aqui hoje a oposição tentou fazer. O programa Revitalizar, o novo Código da Insolvências e da Recuperação de Empresas ou a lei da concorrência são medidas legislativas que, de facto, contribuem para o crescimento económico, são, como disse, Sr. Primeiro-Ministro, políticas de crescimento económico. A simplificação processual, a celeridade das decisões judiciais, a execução das decisões — porque as pessoas e as empresas não precisam só de ter decisões dos tribunais, precisam de as ver concretizadas, de as ver executadas, e esse é um drama que também afeta muito a nossa economia —, portanto, uma justiça eficaz, Sr. Primeiro-Ministro, torna efetivamente a economia mais competitiva e torna o investimento mais atrativo. \nJá agora, Sr. Primeiro-Ministro, por falar em investimento atrativo, também queria salientar aqui um aspeto. \nHá poucos meses, perante o anúncio público de que uma empresa já não tinha interesse em concretizar um investimento anunciado, de resto, com grande pompa, ainda no âmbito do governo anterior, e sem que houvesse nisso qualquer responsabilidade direta do Governo, «caiu o Carmo e a Trindade»: chamou-se o Ministro da Economia e do Emprego ao Parlamento, chamaram-se aqui todas as personalidades que tinham tido intervenção nesse domínio para perceber o que tinha acontecido. Não há mal nenhum nisso, é a democracia, e esse escrutínio foi feito! Agora, porém, perante um anúncio de uma relevância extrema, de um investimento de uma empresa com grande significado, de um investimento num montante de 90 milhões de euros, que cria 1500 postos de trabalho, a maior parte dele trabalho qualificado, a oposição — a tal oposição que fez «cair o Carmo e a Trindade» perante o anúncio de um investimento que se tinha gorado — não teve uma palavra de regozijo e de felicitação, Sr. Primeiro-Ministro!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "É esta a oposição construtiva que hoje temos em Portugal. \nSr. Primeiro-Ministro, queria retomar a questão do crescimento económico e do apoio à economia. \nA questão com que nos confrontamos é, de facto, com a necessidade de sermos rigorosos em matéria orçamental e de sermos ambiciosos em matéria de transformação do nosso País. \nO Sr. Primeiro-Ministro já aqui hoje fez menção a um aspeto muito importante. É que, apesar da dificuldade do caminho que estamos a trilhar, há alguns sinais positivos que devem animar-nos e há demonstrações de capacidade da nossa economia que não podem passar em claro. O facto de as nossas exportações, num contexto de recessão interna e de recessão europeia, estarem a crescer acima de 10% — cerca de 13% em janeiro e em fevereiro — e de estarmos a conseguir ser competitivos em mercados que não o europeu faz antever que a economia portuguesa, os seus agentes, as pessoas e os empresários têm capacidade. Isso, Sr. Primeiro-Ministro, é muito importante. \nQueria chamar aqui a atenção para algo que nos parece muito importante. Muitas vezes, esta luta contínua das nossas empresas é dificultada por uma conjuntura que não é favorável, sendo um problema que não é só nosso, de Portugal, é um problema europeu. As nossas empresas defrontam-se com taxas fiscais e alfandegárias nos mercados, sobretudo nos mercados não europeus, muito desiguais. Mesmo assim, estamos a conseguir crescer, Sr. Primeiro-Ministro, mas esta é uma matéria a que também devemos dar a devida atenção, quer no nosso País quer na Europa, para enfatizar a capacidade que temos, mas também para ter bem presente que, no âmbito da nossa diplomacia económica, no âmbito das nossas relações comerciais com os outros mercados, ainda temos de criar mais condições para poder promover o crescimento das nossas empresas. \nSr. Primeiro-Ministro, uma palavra final. V. Ex.ª trouxe ao Parlamento uma visão com a qual nos identificamos muito, que é a de considerar que as reformas nos principais sistemas públicos, no caso no sistema de justiça, são elementos preponderantes para que haja crescimento económico e criação de emprego no nosso País. Sabemos que temos uma exigência grande do ponto de vista orçamental, sabemos que temos uma exigência grande do ponto de vista da capacidade que temos de ter para levar estas reformas até ao fim, porque muitas destas reformas já foram efetivamente anunciadas, mas estamos no momento em que elas passam da retórica política à ação governativa e chegam verdadeiramente à vida quotidiana das pessoas e das empresas. \nSr. Primeiro-Ministro, se assim é, se o caminho é difícil mas é já hoje gerador de confiança nessa dificuldade, então, regresso ao princípio da minha intervenção. Não há que recear. Nós não estamos sozinhos, estamos com as pessoas, estamos com as empresas, estamos com as famílias e vamos vencer as dificuldades.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP João Oliveira.", 
+   "type": "protesto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Primeiro-Ministro para responder.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Luís Montenegro, sei que estou acompanhado, e bem acompanhado, neste caminho que estamos a trilhar. Nós estamos hoje a viver…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "Nós, quem?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… uma das situações mais desafiantes de que a generalidade dos portugueses tem memória. Não existe, no nosso passado democrático, nenhuma situação que se lhe possa equivaler. \nJá tivemos, no nosso passado democrático, por duas vezes, necessidade de recorrer à ajuda externa para evitar rotura de pagamentos e, portanto, para evitar o caos social e a quebra da coesão social. Dessas duas vezes, as intervenções feitas operaram-se num regime inteiramente diferente daquele que hoje vivemos, com instrumentos de política económica de que hoje não dispomos. A competitividade da economia portuguesa foi restaurada em relativamente pouco tempo, embora hoje saibamos bem quais os verdadeiros custos de restaurar a competitividade da economia desvalorizando a moeda, aumentando o valor das importações e, dessa maneira, não promovendo a competitividade verdadeira das nossas empresas.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PS João Galamba.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Durante demasiados anos, ouvimos falar de reformas estruturais em Portugal, durante muitos anos houve quem dissesse, em Portugal, que se essas reformas estruturais não fossem de facto atendidas, um dia, iríamos bater na parede. Apesar dessa insistência, durante muitos anos, ignorámos estes alertas e, desde que ingressámos no pelotão da frente da união monetária, na ausência dos instrumentos que nos permitiam fazer desvalorizações da moeda mas não intervir ao nível estrutural, a economia portuguesa viciou-se em crédito e endividou-se. Em resultado desse processo galopante, a economia portuguesa deixou de ter financiamento no exterior, quer o Estado quer os bancos portugueses. \nA situação que hoje vivemos não tem, portanto, paralelo, porque sabemos que para vencer esta situação não basta desvalorizar a moeda e esperar que no ano a seguir a economia artificialmente recupere a sua competitividade. Hoje sabemos que a recuperação da competitividade tem de ser levada a sério, o que demora tempo e custa a fazer, sobretudo porque tem de ser feito em tempo de restrição. \nAproveito, portanto, a sua pergunta, Sr. Deputado — penso que não me leva a mal —, para dizer à Sr.ª Deputada Heloísa Apolónia que o realismo em política faz muito falta. Muita falta, Sr.ª Deputada! \nFazer discursos inflamados a falar das necessidades e dos problemas e não atender à realidade em que vivemos, Sr.ª Deputada, é muito fácil, mas não convence.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Não é fácil, não!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "As soluções que, portanto, temos de encontrar para os nossos problemas não são soluções de facilidade. Nem sequer são soluções como as que já foram tentadas no passado.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP João Oliveira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "O Sr. Deputado insiste! O Sr. Deputado ainda não reparou que já não se trata de um aparte normal num debate parlamentar?", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP João Oliveira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr. Deputado, isso é aquilo a que se chama a persistência em criar ruído num debate onde se quer prestar esclarecimentos. O Sr. Deputado revela, através dessas suas persistentes interrupções, uma falta de respeito que é indesculpável.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "O Sr. Deputado não ganha nada com isso, só prejudica esta Casa. Aprenda isso, se fizer favor! Faz parte da democracia. \nNós estamos interessados em não repetir as más lições do passado. Uma má lição do passado muito importante: para fazer crescer a economia, temos de gastar mais dinheiro, custe o que custar. É uma receita errada. Nós, em Portugal, nos últimos anos, gastámos o que tínhamos e o que não tínhamos e a economia", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "não cresceu e o desemprego aumentou. A solução para esta crise, portanto, não é gastar mais dinheiro de qualquer maneira. Desde logo, não pode ser gastar mais dinheiro, porque não o temos. Não o temos!", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Têm os lucros da Galp!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Temos de viver com o dinheiro que pedimos emprestado e, se dentro desse período, conseguirmos viver com esse dinheiro, aqueles que, no exterior, canalizam as suas poupanças para Portugal, pensando que as poderão reaver no futuro, talvez acreditem mais em Portugal e nos ajudem a financiar mais a economia portuguesa, se acreditarem que a dívida que vamos gerar será paga com o crescimento que essa dívida ocasionar. Mas para isso é preciso ter verdadeiras reformas em Portugal. \nOra, Sr. Deputado, no momento em que estamos, não vale a pena haver desculpas esfarrapadas de que o Governo está a matar a economia porque não a financia mais. É uma mentira, Sr. Deputado! Não cabe ao Governo financiar a economia fora do quadro de financiamento que temos aprovado, o qual garante hoje que os portugueses irão ter as suas prestações, que Portugal é capaz de responder pelos seus compromissos e que as políticas económicas que são decididas podem ser implementadas. Não o seriam num quadro diferente em que estivéssemos a por em causa os objetivos que estão traçados com aqueles que nos emprestaram o dinheiro. \nPor isso, quando o Governo insiste em que manterá as metas que estavam traçadas sabe bem as políticas que deve prosseguir para que essas metas sejam atingidas. Já toda a gente percebeu, menos aqueles que gostam de por um disco riscado a tocar, para que os portugueses pudessem ouvir, que não instituiu este Governo metas mais austeras nem mais severas do que aquelas que constam do Memorando de Entendimento. A meta é a que estava combinada no princípio do processo. A mesma, Sr. Deputado! Ninguém quer ir além da troica na austeridade.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Oh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "O que queremos é ir além da troica na transformação estrutural da economia portuguesa.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Com certeza que sim! E somos tão mais ambiciosos que até estamos a preparar, como já foi revelado, uma das maiores mudanças no âmbito do licenciamento — que já foi feita —, que é ambiciosa, portanto, e que não estava prevista no Memorando de Entendimento. \nEssa iniciativa importante, que está a ser preparada e que será debatida com os parceiros sociais, visará tornar o Estado mais ágil, de menos obstáculo ao crescimento e ao desenvolvimento. Mas as medidas que estamos a adotar, de contenção financeira, são exatamente as necessárias para atingir as metas que ficaram acordadas. \nE é verdade, Sr. Deputado, que nós precisámos de ir mais longe nas medidas para atingir as mesmas metas. E sabe o Sr. Deputado porquê, tal como o sabe o País inteiro: porque a condição de partida não era a que estava retratada quando o Memorando de Entendimento foi elaborado.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do Deputado do PS Mota Andrade.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Se fosse, Sr. Deputado, não tinham sido necessárias mais medidas, porque estaríamos a concluir que mais medidas nos trariam abaixo das metas que estavam traçadas. \nOs Srs. Deputados usam a execução orçamental… Mas não é assim que os senhores vão atingir os objetivos.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Com a sua assinatura!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr. Deputado António José Seguro, este Governo irá cumprir todos os objetivos com que o governo do seu partido se comprometeu. Nós iremos atingir todos esses objetivos. \nMas, Sr. Deputado, deixe-me dizer, para sua informação, que não iremos apresentar PEC nenhum. E até estranho que o Sr. Deputado tenha ressuscitado os mal-amados PEC. \nO Governo português, estando sob assistência financeira, está dispensado de apresentar o programa de estabilidade e crescimento. Não irá, pois, apresentar nenhum programa de estabilidade e crescimento! \nNo âmbito da lei de enquadramento orçamental, o governo apresentará ao Parlamento, até ao final deste mês, o documento de estratégia orçamental. E no âmbito desse documento, o Governo irá apresentar não apenas o cenário macroeconómico como um programa plurianual das despesas do Estado até 2016. E, nos termos da lei, isso será do conhecimento do Parlamento, onde será discutido, e apresentado à Comissão Europeia.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, concluímos, assim, o debate quinzenal com o Sr. Primeiro-Ministro, que cumprimento, bem como os restantes membros do Governo presentes. \nVamos iniciar o período regimental de votações. \nEntretanto, a Sr.ª Secretária vai dar conta de dois diplomas que entraram na Mesa.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "Maria Paula Cardoso", 
+   "speaker": "Secretária", 
+   "text": "Srs. Deputados, deram entrada na Mesa, e foram admitidos, os projetos de resolução n.os 303/XII (1.ª) — Recomenda ao Governo a inclusão na Televisão Digital Terrestre de todos os canais de serviço público de rádio e de televisão de âmbito nacional previstos na lei e nos contratos de concessão, assim como a salvaguarda do princípio da orientação para os custos do serviço de transporte e difusão do sinal digital de televisão por via hertziana terrestre (PS), que baixou à 12.ª Comissão, e 304/XII (1.ª) — Recomenda ao Governo o não encerramento da Maternidade Dr. Alfredo da Costa, em Lisboa (Os Verdes), que baixou à 9.ª Comissão.\nA Sr.ª *Presidente* — Srs. Deputados, seguidamente, vamos proceder à verificação eletrónica do quórum de deliberação.", 
+   "type": "secretario"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "party": "Maria Paula Cardoso", 
+   "speaker": "Secretária", 
+   "text": "Informo que não se conseguiram registar por via eletrónica os seguintes Srs. Deputados: do PS, Laurentino Dias, Pedro Delgado Alves, Miguel Laranjeiro, Francisco de Assis, Alberto Martins, Acácio Pinto, Hortense Martins e João Soares; do PSD, Carina Oliveira, Correia de Jesus, José de Matos Correia e Mário Magalhães; do CDS-PP, José Ribeiro e Castro e João Gonçalves Pereira. \nAlém das 200 presenças que o quadro eletrónico regista, acrescentam-se, pois, 14, perfazendo 214 Deputados, pelo que temos quórum para proceder às votações. \nSrs. Deputados, hoje, no período de votações, vamos apreciar e votar o voto de pesar pelo falecimento de Miguel Portas. \nAntes de dar a palavra ao Sr. Deputado Luís Fazenda para proceder à leitura do voto, vou quebrar uma certa ritualidade para dar, daqui, o meu abraço ao Sr. Ministro Paulo Portas, que se encontra nas nossas galerias a assistir à sessão, e lembrar que quem dedicou ao mundo uma vida inteira ganha sempre consequência no mundo e, com isso, uma espécie de imortalidade. \nDou, também, um abraço a todos os Deputados do Bloco de Esquerda. \nTem a palavra o Sr. Deputado Luís Fazenda para proceder à leitura do voto n.º 59/XII (1.ª) — De pesar pelo falecimento do Eurodeputado Miguel Portas (BE).", 
+   "type": "secretario_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo, Sr.as Deputadas, Srs. Deputados, o voto de pesar pelo falecimento de Miguel Portas (BE) é o seguinte:\nApós mais de dois anos de luta contra o cancro, Miguel Portas faleceu no dia 24 de abril, com 53 anos. \nAtivista pela democracia desde jovem, foi preso pela polícia política da ditadura quando tinha apenas 15 anos. Esteve nas manifestações de estudantes e partilhou a esperança de tanta gente. Queria acabar a guerra, terminar a ditadura e mudar o mundo. Viveu o 25 de Abril e quis sempre continuar esses valores solidários. \nMilitou no PCP entre 1974 e 1991. \nTrabalhou em diversos municípios, em programas culturais. Aprendeu a valorizar o poder local, as culturas, o interior e, sobretudo, as pessoas. \nEconomista por formação, o jornalismo foi a sua vocação. Foi diretor da revista _Contraste_ e foi editor de cultura do jornal _Expresso_. Fundou o jornal _Já_ e a revista _Vida Mundial_, publicações das quais foi diretor. \nCosmopolita, apaixonado pela diversidade das culturas e pelos seus sinais, foi coautor e apresentador de duas séries documentais televisivas — _Mar das índias_ (2000) e, sobre o Mediterrâneo, _Périplo_ (2004) — e escreveu dois livros sobre esta região: _No Labirinto_ (2006) e, com Cláudio Torres, _Périplo_ (2009). Publicou também _E o resto é paisagem_ (2002), uma recolha de crónicas, ensaios e reportagens. \nMiguel Portas foi fundador do Bloco de Esquerda, tendo sido o seu primeiro Eurodeputado em 2004, e foi reeleito Eurodeputado em 2009, continuando a exercer as suas funções em Bruxelas até aos seus últimos dias. Foi dirigente do Bloco de Esquerda desde a sua primeira assembleia até agora. Durante toda a sua doença, que encarou de forma corajosa e despojada, continuou sempre a cumprir as suas responsabilidades, dedicando-se, nas suas últimas semanas, a preparar o relatório do Parlamento Europeu sobre as contas do Banco Central Europeu. \nO seu falecimento suscitou tomadas de posição do Presidente da República, do Governo, dos partidos políticos, da CGTP, de associações, de muitas personalidades, do Parlamento Europeu, de múltiplos partidos europeus e de tantas outras pessoas. De todos os quadrantes políticos, estas mensagens realçaram o lado humano e a importância dos contributos de Miguel Portas para uma democracia mais intensa. São, assim, demonstrações tanto da sua combatividade como do seu respeito pelos outros, que era uma das marcas distintivas do seu compromisso consigo próprio. A democracia era a sua vida e não a concebia sem se entregar totalmente ao que mais gostava de fazer: a intervenção pública e cidadã. \nTeve uma vida preenchida, que viveu intensamente, mas tinha sempre os olhos postos no futuro: «Não vivo muito o meu passado, não carrego muitas saudades», escreveu. Na sua última entrevista, dizia ainda que «a minha vida valeu a pena porque ajudei os outros». Tinha razão. Ajudou, com o fulgor da sua inteligência e do seu humor, todos quantos privaram de perto com ele. Colaborou em causas. Disse o que pensava. Defendeu a beleza das coisas simples. Procurou ter tempo para pensar e para viver a companhia dos filhos. Viveu sempre com emoção. Não é pouco. Na verdade, é quase tudo. \nAssim, a Assembleia da República apresenta à sua família e amigos as mais sentidas condolências, juntando-se a todas as vozes que lamentam a sua perda e a forma como esta empobrece a democracia.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos proceder à votação do voto que acabou de ser lido.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado por unanimidade.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos guardar 1 minuto de silêncio.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "A Câmara guardou, de pé, 1 minuto de silêncio.", 
+   "type": "silencio"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Agradeço aos membros do Governo e ao Sr. Primeiro-Ministro o facto de se associarem ao nosso voto. \nSrs. Deputados, a próxima reunião plenária terá lugar na quarta-feira, dia 2 de maio, e a ordem do dia, para além de declarações políticas, consiste na apreciação do Decreto-Lei n.º 44/2012, de 23 de fevereiro, que integra a Maternidade Dr. Alfredo da Costa e o Hospital Curry Cabral no Centro Hospitalar de Lisboa Central [apreciação parlamentar n.º 10/XII (1.ª) (PCP)], a discussão, em conjunto, dos projetos de resolução n.os 304/XII (1.ª) — Recomenda ao Governo o não encerramento da Maternidade Dr. Alfredo da Costa, em Lisboa (Os Verdes) e 297/XII (1.ª) — Recomenda ao Governo o não encerramento da Maternidade Dr. Alfredo da Costa (PS) e a apreciação da petição n.º 69/XI (1.ª) — Apresentada pela Ordem do Engenheiros, solicitando", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "que a Assembleia da República recomende ao Governo a alteração das disposições da Portaria n.º 1379/2009, de 30 de outubro, que veio regulamentar as qualificações específicas profissionais mínimas exigíveis aos técnicos responsáveis pela elaboração de projetos, pela direção de obras e pela direção de fiscalização de obras, previstas na Lei n.º 31/2009, de 3 de julho. \nDesejo a todos um bom fim de semana. \nEstá encerrada a sessão.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Eram 12 horas e 7 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "text": "———", 
+   "type": "separador"
+  }, 
+  {
+   "text": "Ata relativa à eleição para o Conselho de Opinião da Rádio e Televisão de Portugal, SA", 
+   "type": null
+  }, 
+  {
+   "text": "Aos vinte dias do mês de abril de dois mil e doze procedeu-se à eleição para o Conselho de Opinião da Rádio e Televisão de Portugal, SA. \nO resultado obtido foi o seguinte: \nVotantes — 202 \nVotos «sim» — 156 \nVotos brancos — 40 \nVotos nulos — 6 \nNos termos legais aplicáveis, e face ao resultado obtido, declaram-se eleitos para o Conselho de Opinião da Rádio e Televisão de Portugal, SA os seguintes membros: \nEfetivos: \nZita Maria de Seabra Roseiro (PPD/PSD) \nAntónio Ribeiro Cristóvão (PPD/PSD) \nJosé Luís Mendonça Nunes (PPD/PSD) \nVítor Hugo Almeida Pinho (PPD/PSD) \nAntónio Fernando Marques Ribeiro Reis (PS) \nJosé Manuel Rebelo Guinote (PS) \nMaria da Estrela Ramos Serrano Caleiro (PS) \nDiogo Afonso Belford Cerqueira Pereira Henriques (CDS-PP) \nFernando António Pinheiro Correia (PCP) \nDiana Marina Dias Andringa (BE) \nSuplentes: \nMaria João Cunha Silvestre (PPD/PSD) \nAmérico Fernando Alves Ferreira de Carvalho (PPD/PSD) \nMargarida Almeida Rocha (PS) \nRui Simões (PS) \nPara constar se lavrou a presente ata, que vai ser devidamente assinada. \nOs Deputados escrutinadores, _Paulo Batista Santos — Nuno Sá — Abel Baptista — Duarte Pacheco._", 
+   "type": null
+  }, 
+  {
+   "text": "——", 
+   "type": "separador"
+  }, 
+  {
+   "text": "Ata relativa à eleição para a Comissão de Acesso aos Documentos Administrativos (CADA)", 
+   "type": null
+  }, 
+  {
+   "text": "Aos vinte dias do mês de abril de dois mil e doze procedeu-se à eleição para a Comissão de Acesso aos Documentos Administrativos (CADA) \nO resultado obtido foi o seguinte: \nVotantes — 202 \nVotos «sim» — 146 \nVotos brancos — 49 \nVotos nulos — 7", 
+   "type": null
+  }, 
+  {
+   "text": "Nos termos legais aplicáveis, e face ao resultado obtido, declaram-se eleitos para a Comissão de Acesso aos Documentos Administrativos (CADA) os seguintes Deputados: \nEfetivos: \nLuís Filipe Montenegro Cardoso de Morais Esteves (PPD/PSD) \nPedro Filipe Mota Delgado Simões Alves (PS) \nSuplentes: \nAntónio Costa Rodrigues (PPD/PSD) \nLuís António Pita Ameixa (PS) \nPara constar se lavrou a presente ata, que vai ser devidamente assinada. \nOs Deputados escrutinadores, _Paulo Batista Santos — Nuno Sá — Abel Baptista — Duarte Pacheco._", 
+   "type": null
+  }, 
+  {
+   "text": "——", 
+   "type": "separador"
+  }, 
+  {
+   "text": "Ata relativa à eleição do Presidente e de um vogal para a Comissão Nacional de Proteção de Dados (CNPD)", 
+   "type": null
+  }, 
+  {
+   "text": "Aos vinte dias do mês de abril de dois mil e doze procedeu-se à eleição do Presidente e de um Vogal para a Comissão Nacional de Proteção de Dados (CNPD). \nO resultado obtido foi o seguinte: \nVotantes — 202 \nVotos «sim» — 129 \nVotos brancos — 62 \nVotos nulos — 11 \nNos termos legais aplicáveis, e face ao resultado obtido, declaram-se eleitas para a Comissão Nacional de Proteção de Dados (CNPD) as candidatas propostas: \nPresidente — Maria Filipa Pires Urbano da Costa Calvão (PPD/PSD) Vogal — Ana Cristina Ramos Gonçalves Roque dos Santos (PS). \nPara constar se lavrou a presente ata, que vai ser devidamente assinada. \nOs Deputados escrutinadores, _Paulo Batista Santos — Nuno Sá — Abel Baptista — Duarte Pacheco._", 
+   "type": null
+  }
+ ], 
+ "president": "", 
+ "secretaries": [], 
+ "session-date": "27-04-2012", 
+ "time_end": null, 
+ "time_start": null
+}

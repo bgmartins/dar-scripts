@@ -144,7 +144,7 @@ for entry in entries:
     try:
         entry = split_speaker(entry)
     except IndexError:
-        print entry
+        print entry.encode('utf-8')
         raise
 
     entry = fix_italics(entry)

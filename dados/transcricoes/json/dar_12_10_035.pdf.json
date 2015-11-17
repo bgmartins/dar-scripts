@@ -1,0 +1,2845 @@
+{
+ "entries": [
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que está aberta a sessão.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Eram 15 horas e 10 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O Sr. Secretário vai proceder à leitura do expediente.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, entraram na Mesa, e foram admitidas pela Sr.ª Presidente, as seguintes iniciativas legislativas: proposta de lei n. º 29/XII (1.ª) — Procede à sexta alteração ao Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de Fevereiro, que baixou à 1.ª Comissão; projectos de lei n.os 94/XII (1.ª) — Regula o direito de associação na Guarda Nacional Republicana (PCP), que baixou à 1.ª Comissão, e 95/XII (1.ª) — Determina a isenção de portagens na A22 (Via do Infante) (BE), que baixou à 6.ª Comissão; projectos de resolução n.os 115/XII (1.ª) — Recomenda ao Governo a realização de uma auditoria ao concurso de colocação de docentes da Bolsa de Recrutamento n.º 2 (PSD e CDS-PP), que baixou à 8.ª Comissão, 116/XII (1.ª) — Restabelece a igualdade de condições nos concursos públicos entre os licenciados do sistema «pré-Bolonha» e os mestres do sistema de atribuição de graus criado pelo Decreto-Lei n.º 74/2006, de 24 de Março. (BE), que baixou à 8.ª Comissão, 117/XII (1.ª) — Recomenda ao Governo que defenda intransigentemente a manutenção do programa comunitário de ajuda alimentar a carenciados, demovendo a minoria de bloqueio constituída por sete Estados-membros e promovendo a adequação da regulamentação às necessidades de financiamento do mesmo (CDS-PP), que baixou às 7.ª e 4.ª Comissões, e 118/XII (1.ª) — Recomenda ao Governo a adopção de medidas de apoio ao acesso à habitação por jovens (PS), que baixou à 11.ª Comissão. \nÉ tudo, Sr.ª Presidente.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Muito obrigada, Sr. Secretário. \nVamos entrar na nossa ordem do dia, que hoje consta do debate da interpelação n.º 2/XII (1.ª) — Sobre desemprego, precariedade e alterações às leis do trabalho (BE).\nAntes de mais, cumprimento o Sr. Ministro da Economia e do Emprego, os Srs. Secretários de Estado do Emprego e a Sr.ª Secretária de Estado dos Assuntos Parlamentares e da Igualdade, que se encontram presentes. \nTem a palavra a Sr.ª Deputada Mariana Aiveca para abrir o debate.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Sr.ª Presidente, Sr. Ministro da Economia e do Emprego, Srs. Membros do Governo, Sr.as e Srs. Deputados: Ainda ontem, a escassos metros desta Câmara, o Ministro da Economia e do Emprego disse que o seu objectivo é, nada mais, nada menos, «transformar e reinventar o País em seis meses». A proclamação é modesta, como se compreende, mas não deixa de ter o seu fundo. \nTrabalhar mais tempo, sem nenhumas garantias, pagando cada vez mais pelos serviços garantidos com os nossos impostos, em troca de um salário mais baixo, muito mais baixo; reinventar o País, numa corrida desenfreada para moldar o País à imagem de uma gigantesca cidade-fábrica dos subúrbios de uma qualquer capital asiática — é este o programa do Governo. \nPara o conseguir, todos os argumentos servem. «As palavras são importantes» dizia, com razão, Nanni Moretti, e este Governo parece empenhado, como nunca, na transformação do valor das palavras e dos conceitos. \nTrabalhar mais em empresas que vão precisar de menos trabalhadores para fazer o mesmo, agora é uma medida, segundo as palavras do Governo, para criar emprego.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Diminuir a procura interna, levando o comércio e os serviços ao desespero é anunciado como a condição necessária para o crescimento económico. \nFacilitar o despedimento, criando um mundo laboral onde se pode despedir a preço de saldo, porque assim apetece, é apresentado como um passo necessário para combater o desemprego. \nEmpobrecer o País e os portugueses, num País onde o salário médio mal chega para pagar a renda de casa nas maiores cidades do país, passou a ser a proposta para sair da crise. \nEmpobrecer o País e os portugueses — o mais espantoso é que não é qualquer partido da oposição a fazer essa leitura, mas o próprio Primeiro-Ministro a anunciá-lo, como fez ontem. É essa, exactamente, a sua resposta para a crise.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "É extraordinário!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Para quem costuma entremear as suas intervenções com inúmeros exemplos da economia doméstica, desta vez nem uma para amostra. É pena! Sempre gostaríamos de ter ouvido o Primeiro-Ministro explicar como é que uma família com um rendimento médio de 700 € vai pagar mais impostos, perder os apoios sociais, receber menos, pagar mais pela saúde ou pelos transportes e ainda viver melhor. \nEsperamos, com inusitada expectativa, o dia em que o Primeiro-Ministro venha anunciar aos portugueses que vão ficar mais saudáveis adoecendo e que só vamos ter melhores alunos se estes deixarem de estudar. \nEntrámos, Sr.as e Srs. Deputados, definitivamente, no campo da novilíngua. \nPor mais chocantes que sejam — e são-no —, estas declarações apenas elevam a um novo patamar a ideia, constantemente repetida pelo batalhão de comentadores militantes do PSD, de que os portugueses viveram acima das suas possibilidades. \nNum país como o nosso, onde o salário médio está ao nível do mínimo grego e não chega a metade do de países como a França ou a Alemanha, é preciso topete para fazer estas afirmações.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Este plano ideologicamente inclinado, que saltou directamente do comentário televisivo para a bancada do PSD, só conhece uma solução: a austeridade permanente como castigo moral que vai regenerar a economia e mudar os comportamentos dos portugueses, vistos como eticamente reprováveis através da diminuição do consumo. «Pobres mas com saúdinha» parece ser o lema do Governo, a fazer lembrar outros tempos. \nNenhum país faz crescer a economia empobrecendo. \nAproveito para recuperar aqui as palavras do próprio Ministro das Finanças, que parecem ter sido cirurgicamente dirigidas ao Ministro Álvaro dos Santos Pereira, quando disse que «há ideias que só parecem funcionar no banco das universidades». Infelizmente, estava a ser excessivamente optimista. Do que se conhece com origem no Ministério da Economia, nem aí estas ideias funcionam. \nInfelizmente, parece ser este o caminho seguido pelo Governo. Fazer de todos nós as cobaias do radicalismo ideológico de quem se vê como a força transformadora da economia e das relações sociais. \nSr. Ministro da Economia e do Emprego, Sr.as e Srs. Deputados: O mundo do trabalho é a pedra de toque desta transformação puramente ideológica do País. O objectivo é claro: transferir uma parte cada vez mais significativa dos rendimentos do trabalho para os lucros do capital. \nO aumento do horário de trabalho não tem nenhum estudo que suporte a sua eficácia, não tem outra consequência visível que não seja a da diminuição da necessidade de mão-de-obra, aumentando assim o desemprego. \nMais: o Governo quer também fazer tábua rasa das obrigações de comunicação das empresas à Autoridade para as Condições de Trabalho. Doravante, horários de trabalho, alargamento dos períodos de laboração, intervalos para descanso ou isenções de horário podem deixar de ser fiscalizadas. É a lei da selva, que parece que veio para ficar.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Mas concentremo-nos, Sr.as e Srs. Deputados, nos números. De acordo com os dados relativos aos acordos de contratação colectiva em 2010, os portugueses já trabalham mais de 38 horas por semana, mais meia hora que os alemães, mais 1 hora que os ingleses e mais quase 3 horas que os trabalhadores franceses. \nNum país onde já se trabalha mais do que a média europeia, é esta a solução do Governo! \nMas esta solução não é só socialmente injusta e destruidora da qualidade de vida das famílias, é também economicamente insensata: concentra o trabalho nos sectores menos produtivos da economia, com diminuta capacidade de valor acrescentado e de incorporação tecnológica; reforça modelos concorrenciais condenados ao fracasso como nos países asiáticos, onde o salário anda pelos 100 €. \nConclusão: os portugueses vão trabalhar mais, num país cada vez menos produtivo. Trata-se de empobrecer o País e os portugueses, mais uma vez. \nJá a partir deste mês de Novembro, as compensações por despedimento serão mais baixas: menos 10 dias de retribuição aos trabalhadores e um tecto máximo de 12 meses de salário, ou seja, a compensação estagna a partir dos 18 anos de antiguidade. Também cai o pagamento mínimo, que hoje existe, de três meses de salário. É o despedimento _low cost,_ que coloca o emprego em saldos e os direitos na gaveta.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Para o Governo, trabalhar mais não basta; é preciso ganhar menos e viver sem saber o dia de amanhã, para aceitar cada vez menos. \nA radical diminuição do valor das horas extraordinárias é mais um passo para a diminuição do custo do trabalho e do rendimento dos trabalhadores, afectando, essencialmente, os empregados com menores rendimentos. \nO trabalho precário, a nova forma de escravatura do século XXI, conhece também um novo impulso com a renovação extraordinária dos contratos a prazo, além dos três anos, por mais 18 meses. Com este Governo, institucionaliza-se a precariedade. \nOs números dizem que sete em cada oito novos contratados no último ano têm contrato a prazo, trabalham a recibo verde ou para empresas de trabalho temporário. E estes novos contratos têm pouca probabilidade de se tornarem permanentes. Mas ainda não chega. É preciso empobrecer mais e mais o País e os portugueses. \nNa oposição, CDS e PSD diziam que os impostos e as despesas com a segurança social dos trabalhadores a recibos verdes eram «um esbulho fiscal». Mas isso foi nos idos de Maio, quando o Ministro Pedro Mota Soares dizia que «alguém tem que levantar a voz em defesa destes contribuintes». Agora, não só Pedro Mota Soares já mudou de opinião, como os seus companheiros do Conselho de Ministros estão a penhorar os escassos bens dos trabalhadores precários em nome de uma dívida de que os próprios não são responsáveis. \nÉ verdade, alguém tem que levantar a voz em defesa destes contribuintes,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "… razão pela qual o Bloco de Esquerda vai agendar um conjunto de propostas para cruzar os dados fiscais, para responsabilizar os verdadeiros devedores e para penalizar quem recorra e abuse do expediente dos falsos recibos verdes. \nNinguém compreende nem é aceitável que, ao mesmo tempo que o Governo desconsidera a fiscalização do trabalho, faça recair a força da máquina fiscal precisamente sobre os trabalhadores mais desprotegidos e com menos direitos. \nNenhuma das medidas apresentadas pelo Governo para alterar as leis do trabalho concorre para a resolução da crise da dívida ou para a diminuição do défice. Fazem parte do ajuste de contas da direita, que viu na crise do euro a oportunidade histórica de fazer passar a sua agenda de sempre: desregular o mercado de trabalho e diminuir os direitos sociais e o salário. \nEsta interpelação pretende confrontar, hoje, o Governo e a sua deriva radical e ideologicamente motivada de impor as leis do mais forte como a regra nas relações de trabalho. Porque, ao contrário do Governo, há quem não se resigne, há quem queira um futuro para o País, há quem queira um futuro que não seja o do empobrecimento colectivo, Sr.as e Srs. Deputados.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, ainda na fase de abertura, tem a palavra o Sr. Ministro da Economia e do Emprego.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Os temas desta interpelação — desemprego, precariedade e alterações às leis do trabalho — são, sem dúvida, temas que estão na ordem do dia e que muito preocupam o Governo e os portugueses. \nÉ por isso que venho hoje à Assembleia da República, com todo o empenho e sentido de responsabilidade, debater estes temas e apresentar as políticas do Governo nesta área. \nComecemos pelo desemprego. Como é que podemos diminuir a taxa de desemprego, que está em níveis historicamente altos? É importante perceber que não pode haver um decréscimo sustentado da taxa de desemprego se a economia nacional não crescer. E é o facto de a economia nacional não ter crescido nos últimos 10 anos que motivou a subida do desemprego e da emigração para níveis históricos. \nSão hoje mais do que conhecidas as razões que nos conduziram à situação actual. Durante anos, seguimos o modelo económico errado e as políticas económicas erradas. Os resultados destas opções foram desastrosos: a estagnação económica, um desemprego recorde e um endividamento histórico. \nPor isso, todos nós sabemos que temos de mudar de vida. Todos sabemos que não temos outra alternativa que não seja basearmos o nosso desenvolvimento num modelo económico mais realista, mais produtivo e, acima de tudo, mais competitivo.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Até agora só disse banalidades!\nO Sr. *Ministro da Economia e do Emprego* — Neste sentido, urge perguntar: como é que vamos sair desta situação? Como é que podemos alicerçar a retoma da economia nacional e diminuir o desemprego? \nA resposta a esta pergunta pode ser resumida em quatro palavras: consolidar, investir, exportar e reestruturar. \nEm primeiro lugar, é vital assegurar a consolidação orçamental e a diminuição do endividamento da economia nacional. É conhecido que os países que têm níveis de endividamento público acima de 90% do PIB são altamente penalizados no seu crescimento económico. \nNo nosso caso, essa premissa não poderia ser mais verdadeira, pois nos últimos 150 anos, sempre que Portugal apresentou uma dívida pública acima de 90% do PIB, a economia cresceu menos do que 0,5% ao ano. É exactamente isso que se tem passado nos últimos anos. Ou seja, o nosso elevado endividamento é um autêntico entrave ao crescimento económico e, por isso, tem de ser diminuído. É exactamente isso que este Governo está a fazer.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Em segundo lugar, a retoma económica constrói-se através do reforço das exportações e da recuperação do investimento privado. \nE foi assim que, em poucas semanas, agilizámos e desbloqueámos investimentos em várias áreas e sectores, desde um dos maiores investimentos turísticos no Alqueva, passando pelo estabelecimento de uma base da Easyjet em Lisboa, que irá criar mais de 200 postos de trabalho directos, até aos vários investimentos projectados nos sectores mineiro e geológico. \nEm poucas semanas, desbloqueámos e agilizámos a concessão da prospecção de gás natural no Algarve; em poucas semanas, desbloqueámos e agilizámos a concessão da prospecção de ouro no Alentejo; em poucas semanas, não temos poupado esforços para garantir que outros grandes investimentos no sector mineiro se possam tornar possíveis a breve trecho.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Todos estes investimentos irão ter um impacto muito significativo para a economia nacional e para a criação de emprego. \nPorém, os investimentos projectados não ficam por aqui. \nSó entre o final de Junho e o presente mês, já aprovámos projectos de investimento na ordem dos 145 milhões de euros e temos candidaturas em análise com um valor global de cerca de 900 milhões de euros. \nEncontram-se ainda em acompanhamento cerca de 25 intenções de investimento estrangeiro que somados poderão representar cerca de 2500 postos de trabalho e um investimento directo estrangeiro que poderá atingir os 1000 milhões de euros, em sectores diferenciados como o turismo, aeronáutico, serviços, alimentar, agrícola, entre outros. \nAs exportações também continuam a dar mostras de grande vitalidade, demonstrando todos os dias que a aposta no sector exportador deve tornar-se num verdadeiro desígnio nacional. As exportações de bens têm registado taxas de variação homóloga bastante superiores às das importações e a taxa de cobertura situou-se em 75,7% no último Agosto.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E o emprego?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "A solução para a crise nacional passa certamente pela internacionalização das nossas empresas e pelo aumento das exportações. E é por isso que o Governo tem trabalhado para reforçar a liquidez às PME (pequenas e médias empresas) exportadoras, para garantir e aumentar os seguros de crédito para as exportações e para reduzir os custos de contexto das nossas exportações através da aposta nos portos nacionais e na ferrovia em bitola europeia. \nEstas apostas têm um propósito muito claro: baixar os nossos custos de contexto e, assim, aumentar a competitividade das nossas exportações. Ao fazê-lo, produziremos mais, exportaremos mais e criaremos mais emprego. \nEm suma, embora estejamos a passar por um período de grandes dificuldades, a verdade é que a economia nacional move-se, reinventa-se e reforma-se todos os dias.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "E o emprego nada!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Porém, os alicerces da retoma económica não ficam por aqui. Para que haja uma retoma sustentada, é preciso não ter receio de levar a cabo reformas profundas, reformas que irão marcar a economia nacional para as próximas décadas. \nÉ isso que estamos a fazer no sector empresarial do Estado e mais concretamente no sector dos transportes, que será alvo da maior reestruturação das últimas décadas e que se destina a salvar estas empresas públicas, salvaguardando o maior número possível de postos de trabalho.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "É assim também que estamos a fazer em relação à agilização dos investimentos, no combate à burocracia, na celeridade dos licenciamentos, na nova lei da concorrência, numa grande reforma do capital de risco público, na reforma do Código das Insolvências,…", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E a legislação laboral?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… na promoção do Plano Extrajudicial de Consolidação, na revitalização das empresas, na simplificação do Código Comercial e, por fim, na reforma da lei laboral.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Ah!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Sim porque, Sr.ª Presidente e Sr.as e Srs. Deputados, a reforma da lei laboral é essencial para a criação de emprego e para fomentar a competitividade da nossa economia. \nNão é por acaso que são estes os pontos que encontramos previstos no Memorando de Entendimento como elementos integrantes das reformas estruturais para o mercado de trabalho português. \nA inflexibilidade das leis laborais tem consequências evidentes a nível interno, designadamente na segmentação do mercado de trabalho, que é especialmente visível nos grupos mais vulneráveis de trabalhadores. \nSão eles os jovens recém-licenciados, as mulheres e os desempregados com mais de 45 anos.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Para os licenciados ainda é pior!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Estes grupos são os mais atingidos pelo flagelo do desemprego e pelos contratos de trabalho a termo ou temporários.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "E o que é que o Governo vai fazer por isso?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "É também importante perceber que o mercado de trabalho português não é atractivo para muitos potenciais investidores e é preciso perceber, de uma vez por todas, que não pode haver emprego sem empresas. \nCom efeito, as regras que hoje encontramos na nossa legislação constituem um factor de desincentivo ao desenvolvimento da economia, que tem repercussões visíveis no mercado de trabalho, no aumento do desemprego e nas dificuldades que os portugueses encontram para celebrar contratos de trabalho. \nÉ esta inflexibilidade da lei laboral que motiva a desconfiança das empresas e é exactamente por todas estas razões que as reformas que estão a ser efectuadas nesta área são prementes e são essenciais para termos uma maior criação de emprego e uma economia mais competitiva.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "No entanto, quero aqui realçar, mais uma vez, que aquilo que verdadeiramente preocupa o Governo são as pessoas. Quero aqui afirmar e sublinhar que o Governo não pretende, de modo algum, retirar direitos aos trabalhadores. A filosofia que o Governo defende e que se encontra plasmada no seu Programa é a da protecção do trabalhador.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Risos do PCP e do BE.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Contudo, protecção do trabalhador não é a mesma coisa que protecção do posto de trabalho. \nO que é necessário é defender o trabalhador e muni-lo dos meios necessários para a sua empregabilidade e para a rápida obtenção de emprego, não é o posto de trabalho e a falta de mobilidade. \nPelo contrário, o Governo quer incentivar a mobilidade e a adaptação dos trabalhadores às novas exigências dos mercados de trabalho. Não se pretende, nem tal seria possível à luz da nossa Constituição, eliminar o conceito de justa causa de despedimento. \nEste é um valor que o Governo reconhece e valoriza como princípio integrante do Estado de direito democrático. \nAssim, não corresponde à verdade que haja uma tentativa de permitir os despedimentos por livre arbítrio do empregador. \nNa realidade, todas as medidas que o Governo se propõe implementar são medidas que resultam do Memorando de Entendimento e que foram sufragadas pelos portugueses nas últimas eleições.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Isso não é verdade!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Assim, no seguimento da lei que já foi publicada para as compensações aos novos contratos, o Governo propõe-se alterar as regras aplicáveis aos actuais trabalhadores para determinação do montante das compensações por despedimento, aproximando-as das estabelecidas para os novos contratos de trabalho.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Ora, pois!…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Outra importante medida consiste na implementação do Fundo de Compensação do Trabalho, com vista a assegurar que os trabalhadores recebem efectivamente as compensações a que têm direito. \nEstão igualmente a ser planeadas reformas ao nível da flexibilização do tempo de trabalho, em especial em relação à constituição de bancos de horas por acordo entre empregador e trabalhador e ainda do banco de horas grupal. \nEsta é uma medida que se revela essencial para a gestão e organização das empresas e representa um aspecto decisivo para o aumento da competitividade. \nQueremos, com esta reforma, obter um mercado de trabalho que incentive a mobilidade e o crescimento do emprego, um mercado de trabalho que promova a confiança das empresas, a competitividade e o desenvolvimento económico. \nTodas estas medidas são um primeiro e significativo passo no caminho para a mudança de que Portugal necessita. Contudo, o relançamento económico carece de outras medidas importantes, dirigidas, \nnomeadamente, a aumentar a produtividade e a competitividade do País. \nUma delas consiste na alteração do regime dos feriados visto que Portugal apresenta um calendário de feriados que supera em grande medida o dos restantes países europeus.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Ministro, já ultrapassou o tempo de que dispunha em mais de 1 minuto. Queira, pois, concluir, quando puder.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Muito obrigado, Sr.ª Presidente. \nAssim, importa levar a cabo alterações estruturais a este regime, as quais serão igualmente objecto de discussão no âmbito da concertação social. \nPara além disso, foi recentemente anunciada pelo Governo uma medida com carácter excepcional, que consiste no aumento do horário em meia hora por cada dia de trabalho. Trata-se de uma medida fulcral, tomada no grave momento de crise económica com que o País e todos os portugueses se debatem. Este é, bem o sabemos, um esforço acrescido que o Governo pede aos trabalhadores. Todavia, sendo temporária, esta é uma medida que irá aumentar a competitividade das nossas empresas, contribuindo assim para a retoma económica.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "É mentira! Vai é aumentar os lucros!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Finalmente, no âmbito das políticas de emprego, o Governo irá não só levar a cabo um programa de reestruturação dos centros de emprego, bem como temos medidas viradas para a formação profissional. \nEm suma, em resposta à crise, ao desemprego e à precariedade no mercado de trabalho, o Governo apresenta políticas concretas, políticas realistas, políticas que nos irão conduzir a um novo modelo económico, baseado no baixo endividamento, no investimento privado sustentado, nas exportações e na reestruturação da economia nacional. \nSó assim é que podemos lançar as bases para a retoma económica, só assim é que podemos vencer o actual período de dificuldades.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Deputado Adriano Rafael Moreira inscreveu-se para pedir esclarecimentos à Sr.ª Deputada Mariana Aiveca. \nTem a palavra para o efeito, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "Sr.ª Presidente, Sr.ª Deputada Mariana Aiveca, permita-me que a felicite a si e ao seu grupo parlamentar pelo tema que aqui trouxeram, que é da máxima importância. Mas infelizmente por aqui ficamos, isto é, ficamos só pelas felicitações, porque quanto ao restante foi tempo desperdiçado. V. Ex.ª fez lembrar o anterior ministro das finanças que, em pleno mês Setembro de 2008, quando as empresas faliam em todo o mundo, quando os grandes bancos faliam, dizia que a crise em Portugal estava quase a acabar.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Bem lembrado!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "Em Portugal, estamos orgulhosamente sós no caminho do progresso, dizia então o ministro das finanças. \nNessa altura, como V. Ex.ª se lembrará, reduziam-se impostos, aumentavam-se salários e os membros do Governo dividiam-se, dia-a-dia, a oferecer computadores e a fazer inaugurações. \nComo V. Ex.ª tem de reconhecer essa não é a solução. Esse caminho trouxe-nos, nos dias de hoje, a um nível de desemprego que não se pode aceitar. \nV. Ex.ª deve lembrar-se que o último governo do Partido Socialista todas as semanas aprovava leis, na semana seguinte alterava-as, quinze dias depois revogava-as. Chegámos a ter leis que chamavam de apoio à criação de emprego que duravam oito dias. \nA Sr.ª Deputada deve ter presente que, nesse clima de euforia, apadrinhado pelo ex-ministro das finanças, foi apregoado que, em Maio de 2010, teríamos o pacto para o emprego e que tudo iria florir em crescimento. \nMas, infelizmente, o que aconteceu foi que tivemos de recorrer à ajuda externa, tivemos de celebrar um memorando de entendimento e tivemos de aceitar uma cronologia, um cronograma, de medidas de urgência que agora cai sobre o actual Governo. \nE, Sr.ª Deputada, temos, antes de mais, de assinalar esse mérito. \nO actual Governo, em apenas quatro meses, já aprovou dezenas de medidas. Dezenas, Sr.ª Deputada! E chamo a sua atenção para a medida que está em discussão pública, a que V. Ex.ª fez referência e para a qual gostava de obter algum esclarecimento. Trata-se da prorrogação dos contratos a prazo. Como V. Ex.ª sabe, contratos celebrados precisamente no período de euforia do ex-ministro das finanças, em Setembro de 2008, estão a chegar ao seu limite máximo de duração. E V. Ex.ª sabe o que aconteceu durante o ano de 2010: os contratos terminavam e as pessoas ou iam para o desemprego ou para os falsos recibos verdes! Era este o destino!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "Vou concluir, Sr.ª Presidente. \nA minha pergunta é muito simples, Sr.ª Deputada: V. Ex.ª, à data de hoje, continua a defender que é preferível um falso recibo verde a permitir que se faça uma renovação excepcional dos contratos de trabalho?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra a Sr.ª Deputada Mariana Aiveca.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Sr.ª Presidente, Sr. Deputado, agradeço as suas questões, até porque, assim, também nos permite respostas claras às suas tão grandes dúvidas. \nMas, Sr. Deputado, o que vai acontecer é que os senhores vão ter de explicar como é que o embaratecimento dos despedimentos concorre para o crescimento económico e para a solução do endividamento e da competitividade, como é que mais 16 dias de trabalho por ano concorrem para o desenvolvimento económico e para o pagamento da dívida, o mesmo podendo dizer-se em relação aos cortes nos feriados! E como é que a redução da remuneração das horas extraordinárias para metade concorre para o crescimento económico e para a solução dos problemas da dívida, da economia? \nSobre os contratos a prazo, Sr. Deputado, é muito simples: os senhores querem dizer-nos que ou há renovação ou há desemprego? Então, em relação a essas pessoas, a essas centenas de milhares de pessoas que estão contratadas a prazo nas AEC, nas escolas, na saúde, na função pública, e não só, na PT, em todos os _call centers_, como bem sabe, que ocupam, durante anos e anos, postos de trabalho permanentes, o Sr. Deputado quer dizer que ou se lhes renova o contrato ou são despedidos?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adriano Rafael Moreira", 
+   "text": "É o resultado da governação PS!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Então, os senhores vão despedir todos os professores que contrataram há pouco tempo, quando o seu contrato terminar?! Vão despedir todos os trabalhadores que têm contratos a prazo, em sectores tão importantes como aqueles que lhe referi?! \nÓ Sr. Deputado, a inevitabilidade não faz parte do nosso léxico, nós não aceitamos essa inevitabilidade! O que os senhores nos querem dizer é que as pessoas têm de escolher entre a «morte» e o «estado de coma», mas nós não aceitamos isso!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, informo a Assembleia de que se inscreveram, para pedir esclarecimentos ao Sr. Ministro da Economia e do Emprego, os Srs. Deputados Ana Drago, Basílio Horta, Jorge Machado, José Luís Ferreira, Hélder Amaral, Catarina Martins, Rita Rato e Pedro Filipe Soares. O Sr. Ministro informou a Mesa de que responderá, conjuntamente, a grupos de três, de mais três e, por fim, de dois Srs. Deputados. \nAssim, para formular o seu pedido de esclarecimentos, tem a palavra, em primeiro lugar, a Sr.ª Deputada Ana Drago.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "Sr.ª Presidente, Sr. Ministro da Economia e do Emprego, o debate político, hoje, está marcado por uma frase que foi dita ontem pelo Sr. Primeiro-Ministro, e que é uma frase absolutamente extraordinária. Disse o Sr. Primeiro-Ministro: «só saímos desta situação…» — e quando se referiu a «esta situação» creio que pretendia referir-se à crise social, à redução do rendimento da esmagadora maioria dos portugueses, ao empobrecimento do País — «… de empobrecimento, empobrecendo». Pode, à partida, parecer uma frase um pouco estranha, que não tem lógica, mas a verdade é que todos os portugueses compreenderam, exactamente, o que ela quer dizer. Aliás, todo o programa do PSD e do CDS, ao longo dos últimos meses, tem sido assim: reinventar o País, no sentido de o empobrecer. \nPortanto, Sr. Ministro, o que queremos, hoje, discutir consigo é o que têm sido estes últimos meses e a forma como PSD e CDS apresentaram um programa político ao País. \nÉ que, Sr. Ministro, lembramo-nos bem das suas intervenções, durante o debate eleitoral, há uns meses atrás. Aliás, o Sr. Ministro, entrando no elenco governativo, foi apresentado como o homem que vinha de fora, das universidades estrangeiras. O senhor tinha a teoria que explicava, o senhor tinha os estudos, os pareceres, as comparações internacionais que iriam permitir criar crescimento económico e emprego no País. \nMas, Sr. Ministro, devo dizer-lhe que, ao longo destes últimos meses, temos assistido ao ruir daquela que era a sua reputação. \nDizia o Sr. Ministro: «É necessário reduzir a taxa social única». O senhor tinha a teoria, tinha os estudos, tinha as estimativas, mas, afinal, não, afinal, reduzir a taxa social única não permitiria crescimento e emprego, antes iria apenas permitir descapitalizar a segurança social. \nO Sr. Ministro apresentava-se como o paladino, aquele que iria ser absolutamente imparável nos cortes das «gorduras» do Estado. Porém, basta olhar para o Orçamento do Estado: cortam-se pensões, cortam-se salários, corta-se investimento público, cortam-se apoios sociais, mas naquilo que são os consumos intermédios do Estado há um crescimento. Portanto, a teoria, os estudos, as comparações, as estimativas do Sr. Ministro afinal nada trouxeram! \nMas, Sr. Ministro, noto que teve alguma dificuldade em chegar ao tema específico desta interpelação do Bloco de Esquerda, porque a verdade é que, hoje, temos um país em risco de precariedade absoluta, temos um país em risco de ter 1 milhão de desempregados. E, sobre isto, o Sr. Ministro seguiu aqui o mote do Sr. Primeiro-Ministro, que é uma espécie de filosofia esotérica, dizendo uns paradoxos: saímos de uma situação…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, peço-lhe que termine, porque já ultrapassou largamente o tempo de que dispunha. Houve uma distracção da Mesa, pelo que peço desculpa.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "Termino já, Sr.ª Presidente. \nO Sr. Primeiro-Ministro diz que «saímos de uma situação de empobrecimento, empobrecendo» e o Sr. Ministro, aqui, diz-nos que combatemos o desemprego facilitando os despedimentos, que saímos de um modelo de baixos salários colocando os trabalhadores portugueses a trabalhar mais 15 dias sem salário. \nSr. Ministro, têm dito que ter o senhor como Ministro da Economia e do Emprego ou não ter nada é mais ou menos a mesma coisa, mas olha-se para a perspectiva, na legislação laboral, e eu diria, Sr. Ministro,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira concluir, Sr.ª Deputada.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "… que ter o senhor, ter a sua perspectiva de precariedade, ter a sua perspectiva de aumento do desemprego é muito pior do que não ter nada.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "A Sr.ª Deputada Ana Drago, em relação ao tempo que usou, beneficiou de uma distracção da Mesa. \nTem agora a palavra, para pedir esclarecimentos, o Sr. Deputado Basílio Horta.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Basílio Horta", 
+   "text": "Sr.ª Presidente, Sr. Ministro da Economia e do Emprego, a primeira nota que quero sublinhar no seu discurso é a contradição que existe entre aquilo que o Sr. Ministro veio aqui dizer e aquilo que o Sr. Primeiro-Ministro disse ontem aos portugueses: o Sr. Primeiro-Ministro informou os portugueses de que não havia outro caminho senão empobrecer e o Sr. Ministro veio dizer que só há um caminho, que é o de enriquecer.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Mas é o de enriquecer a banca!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Basílio Horta", 
+   "text": "Temos de perceber onde estamos! \nSr. Ministro, como há dias dizia o Presidente da CIP, o Sr. Ministro é pródigo em anúncios, em boas intenções, mas a verdade é que as concretizações não existem. Isto é exactamente assim! O que temos visto até agora tem sido uma ausência de economia. E de tal maneira a ausência de economia se verifica que um alto dirigente da maioria vem dizer que a economia é um problema para este Governo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Basílio Horta", 
+   "text": "Não é esta bancada que o diz, é um alto dirigente da maioria, aliás empresário. E como o compreendo! \nQuando o ministério de V. Ex.ª foi constituído, pensei que seria dificilmente gerível, para não dizer ingerível, não obstante os méritos académicos do Sr. Ministro. Porém, havia uma coisa que podia ter alguma lógica, que era pôr o emprego ao lado da economia. Se a prioridade do Governo fosse a retoma económica, então, sim, teria lógica. Mas como a prioridade do Governo não é a retoma económica, como a prioridade do Governo é aumentar impostos, cortar salários e viver num momento permanente de contracção, obviamente o Sr. Ministro deixa de ser Ministro do Emprego para passar a ser «ministro do desemprego».", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Basílio Horta", 
+   "text": "É isso que está a acontecer, Sr. Ministro, e que vai acontecer cada vez mais! \nO Sr. Ministro deverá lembrar-se da experiência chilena dos anos 80, em que houve qualquer coisa semelhante a esta: cortes salariais, aumento de impostos, contracção permanente. Os chilenos iam entrar na ordem — era a expressão que se utilizava. Vejamos: o desemprego foi de quase 30%, a construção de uma sociedade de poucos e de um Estado para poucos. Sr. Ministro, não é isso que esta bancada quer para Portugal!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Basílio Horta", 
+   "text": "Sr. Ministro, discordamos completamente de si. E tudo isto não é uma simples discussão económica, é uma profunda discussão política que, efectivamente, nos separa em termos democráticos. É que, Sr. Ministro, nós entendemos que a consolidação orçamental se deve fazer simultaneamente com a retoma do crescimento e V. Ex.ª diz que, primeiro, está a consolidação orçamental e só depois a retoma do crescimento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem de concluir, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Basílio Horta", 
+   "text": "Concluo, Sr.ª Presidente, se tiver para comigo a mesma generosidade que teve há pouco.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Peço desculpa, Sr. Deputado, mas houve um engano em relação ao tempo usado pela Sr.ª Deputada Ana Drago, porque os serviços é que registaram um tempo que não correspondia à realidade. Aliás, também devo um pedido de desculpas à Sr.ª Deputada Ana Drago.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Basílio Horta", 
+   "text": "Não há problema, Sr.ª Presidente. \nMas, como dizia, Sr. Ministro, há uma divergência entre nós. V. Ex.ª diz que, primeiro, a consolidação e, depois, a retoma; nós dizemos que a retoma e a consolidação têm de estar, necessariamente, lado a lado, porque se não V. Ex.ª chega a 2013 com poucas empresas e poucas famílias. E esse é um aspecto que não podemos aceitar em termos de modelo deste Orçamento.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Votem contra! Já!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Basílio Horta", 
+   "text": "Portanto, Sr. Ministro, de forma muito rápida, coloco-lhe quatro questões: se V. Ex.ª quer criar emprego, como é que vai financiar a economia? Que apoio é que está a dar às empresas exportadoras e às que substituem importações? O que está a fazer para a competitividade empresarial? Em quarto lugar e muito importante: qual é o seu papel, Sr. Ministro, na internacionalização da economia? É que, por este caminho, Sr. Ministro,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem de concluir, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Basílio Horta", 
+   "text": "Concluo, Sr.ª Presidente. \nComo estava a dizer, por este caminho, Sr. Ministro, V. Ex.ª será um velho «ministro de abastecimento e preços» ou um «secretário de estado do comércio interno», mas Ministro da Economia de uma economia internacionalizada é que V. Ex.ª não será, com grave prejuízo para a economia portuguesa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, peço-lhes que se contenham dentro do tempo regimental de que dispõem. Não é bom ter de retirar a palavra aos Srs. Deputados, mas usarem, a mais, mais de 100% do tempo de que dispõem é muito para a ordem normal dos nossos trabalhos. \nTambém para pedir esclarecimentos, tem a palavra o Sr. Deputado Jorge Machado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Sr.ª Presidente, Sr. Ministro da Economia e do Emprego, tem um grave problema de confronto entre aquilo que diz e a realidade concreta em que o País vive. \nO Sr. Ministro fala de rigidez laboral, mas não consegue explicar uma coisa: temos mais de 1 milhão de desempregados, temos mais de 1,2 milhões de trabalhadores precários. Como é que há rigidez laboral no nosso País?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Ora bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "O Sr. Ministro diz que é preciso atacar o desemprego. E o que é que propõe ao nível da legislação laboral? Facilitar o despedimento e tornar mais barato esse mesmo despedimento. Como é que isso resolve o problema do País ou como é que isso vai combater o desemprego? \nDe forma nenhuma, Sr. Ministro!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "O Sr. Ministro diz que quer manter a justa causa para os despedimentos. \nOra, o que o Sr. Ministro propõe, na alteração da legislação laboral, é que se o patrão disser que há uma quebra de produtividade do trabalhador, se o patrão disser que o trabalhador não cumpriu os objectivos, se o patrão disser que a qualidade do trabalho do trabalhador é inferior, então, tem justa causa para o despedimento. Na prática, tudo passa a ser justa causa, esvaziando o conceito — é isso que o Sr. Ministro quer fazer!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Exactamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Depois, o Sr. Ministro fala de investimento como factor fundamental para o crescimento e para combater o desemprego. O que é que diz o seu Orçamento do Estado? No Orçamento do Estado, o investimento cai 29%, em termos reais, de 2011 para 2012.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Portanto, não há investimento que o salve! \nDepois, o Sr. Ministro diz ainda — e com uma profunda hipocrisia (permita-me que lho diga) — que quer defender os trabalhadores. O que o Sr. Ministro propõe é um ataque aos salários e pensões, a redução das indemnizações por despedimento, um ataque à contratação colectiva, um banco de horas para trabalhar mais sem receber um cêntimo, a redução para metade do valor pago em trabalho extraordinário, a eliminação do dia de descanso compensatório, o ataque ao subsídio de desemprego, acabar com a regra das 8 horas de trabalho por dia. Mais meia hora de trabalho por dia, Sr. Ministro, sabe o que representa? São mais 10 horas de trabalho por mês, 16 dias de trabalho de graça por ano, mais 7000 milhões de euros entregues ao patronato, de graça, de trabalho dado pelos trabalhadores!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Uma vergonha!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "O Sr. Ministro propõe-se eliminar uma conquista histórica dos trabalhadores portugueses. Os últimos trabalhadores a conquistarem as 8 horas de trabalho por dia foram os trabalhadores agrícolas, em 1962, em plena ditadura fascista! Morreram trabalhadores para conquistarem esses direitos! \nFoi com o sangue derramado na luta dos trabalhadores que se conquistaram as 8 horas de trabalho por dia e é esse direito que o Sr. Ministro quer pôr em causa de uma forma absolutamente inaceitável e vergonhosa!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Sr. Ministro, as medidas que propõe não resolvem nenhum problema, não vão criar nenhum posto de trabalho, antes, vão agravar a injustiça, a exploração de quem trabalha e afundar o nosso País! \nMas o Sr. Ministro foi traído pelas palavras que o Sr. Primeiro-Ministro proferiu ontem. É que o Sr. Primeiro-Ministro, ontem, tornou claro qual é o objectivo do Governo quando disse «só vamos sair da crise, empobrecendo». \nA pergunta que lhe quero fazer é a seguinte: quem é que está a empobrecer no nosso País? É porque os ricos estão mais ricos! As fortunas das 25 famílias mais ricas de Portugal aumentaram para 17 400 milhões de euros, muito recentemente. Os ricos estão cada vez mais ricos! Quem é que vai empobrecer? \nSr. Ministro, o novo modelo de desenvolvimento que aqui anunciou torna quem vive do seu trabalho, da sua reforma, cada vez mais dependente, cada vez mais pobre, para deixar os ricos cada vez mais ricos!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "É esta a acusação que lhe deixamos! E informo-o que vai enfrentar a luta determinada do PCP e dos trabalhadores portugueses!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Ministro da Economia e do Emprego.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Sr.ª Presidente, começo por responder às perguntas colocadas pela Sr.ª Deputada Ana Drago. \nNo que respeita a cortes na «gordura» do Estado e ao que o Governo está a fazer em relação a isso, basta lembrar que o Plano de Redução e Melhoria da Administração Pública (PREMAC) é a maior reforma do Estado levada a cabo nos últimos anos, que o Governo está a implementar várias reformas ao nível da moralização da vida pública e que está a levar a cabo cortes bastante significativos. \nDou-lhe o exemplo do Ministério que tutelo. Só aí a reestruturação prevista nas entidades e organismos do Estado acarreta uma redução do número de dirigentes, serão menos 500,…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E quantos especialistas já contratou para os gabinetes?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… uma redução em 50% do pessoal dos gabinetes ministeriais e também uma redução de mais de 25% das entidades e organismos do Estado.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E as consultorias não aumentaram?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Toda a política passa por o Estado poupar dinheiro para não termos que taxar os contribuintes, para não termos que onerar a economia portuguesa com aumentos de impostos que são altamente prejudiciais.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "É fundamental perceber que os cortes nas «gorduras» do Estado são essenciais para conseguirmos ter um Estado mais moderno, mais dinâmico e, essencialmente, não tão gastador como tem sido nos últimos anos.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Diga lá quanto ganha o seu Chefe de Gabinete!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Sr.ª Deputada Ana Drago, as alterações à legislação laboral que estão inscritas no Memorando de Entendimento e que foram aprovadas por 85% dos portugueses que votaram nas últimas eleições…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Isso é falso!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… não querem facilitar os despedimentos, querem essencialmente facilitar a contratação e a mobilidade do emprego.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "Despedindo!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "É precisamente para facilitar a contratação e a mobilidade do emprego que criaremos mais emprego e tornaremos a economia nacional mais dinâmica e mais saudável.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP Bruno Dias.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "O Sr. Deputado Basílio Horta falou sobre o desemprego e afirmou que eu seria o «ministro do desemprego». Pois, se sou «ministro do desemprego», o legado é do governo que nos precedeu.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Relembro o Sr. Deputado que a maior taxa de desemprego dos últimos 100 anos foi registada na altura em que o seu partido estava no governo, taxa que este Governo herdou. Deixaram-nos um pesado legado: taxas de emigração novamente significativas e um desemprego muitíssimo elevado. \nO Sr. Deputado disse que temos uma diferença política profunda. Sobre isso, não tenho a mínima dúvida. \nNós não acreditamos na «receita mágica» do investimento público; nós não acreditamos na fantasia das parcerias público-privadas (PPP), que serviram para cobrir défices…", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bruno Dias", 
+   "text": "Vão acabar com elas?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… e para alimentar sonhos de projectos megalómanos com rentabilidade mais do que duvidosa, as quais conduziram as empresas portuguesas e o Estado português ao maior nível de endividamento dos últimos 150 anos.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Quantas vão acabar?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "É esta a grande diferença política que nos separa. A política deste Governo é de responsabilidade e de realismo, é uma política que assenta em bases económicas verdadeiramente saudáveis e não em sonhos e fantasias, como os que foram vendidos aos portugueses nos últimos anos.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Está a falar da capitalização da banca?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "O Sr. Deputado Jorge Machado perguntou-me por que razão se diz que há rigidez laboral se temos centenas de milhares de desempregados. \nSr. Deputado, como referi, ontem, na Comissão de Segurança Social e Trabalho, quem diz que há rigidez laboral não é o Governo português, é a Organização Internacional do Trabalho (OIT), é a Organização para a Cooperação e Desenvolvimento Económico (OCDE), é o Banco Mundial!", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "A Organização Internacional do Trabalho?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Não é o Governo que o diz! Todos esses organismos estão errados?! Todos mostram que existe, em Portugal, uma rigidez laboral manifestamente excessiva…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "E nos outros países?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… e que se nada fizermos contra isso, estaremos a fomentar a precariedade,…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Precariedade já existe!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… e a falta de mobilidade no mercado de trabalho, o que penalizará grandemente a criação de emprego.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos da Deputada do PCP Rita Rato.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Não se esqueça que vai pagar por aquilo que está a fazer!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr.ª Presidente, Sr. Ministro da Economia e do Emprego, ouvi-o com atenção dizer que mudámos de vida. Não, Sr. Ministro, não mudámos de vida; mudámos foi de Governo. \nPara o confirmar, basta atender ao número do desemprego que continua a aumentar.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bruno Dias", 
+   "text": "Essa é que é essa!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "O Instituto do Emprego e Formação Profissional registou, em Setembro, mais de 550 000 desempregados inscritos, tendo-se verificado um aumento de quase 4% relativamente a Agosto. \nFace a este quadro, era de esperar que o Governo nos apresentasse medidas para combater o maior problema com que nos defrontamos, que é o do desemprego. \nContudo, o Governo insiste em facilitar os despedimentos e em torná-los mais baratos para que as entidades patronais possam despedir quando entenderem e sem grandes custos. \nE, como o Sr. Ministro ainda não explicou, fica desde já o meu primeiro pedido de esclarecimento, porque creio que mesmo os portugueses que dominam muito bem a Matemática, mesmo esses, não conseguem compreender como é que o Governo explica que, facilitando o despedimento e tornando-o mais barato, se geram mais postos de trabalho! Como é possível combater o desemprego, despedindo?! \nOutra questão, Sr. Ministro. O aumento do horário de trabalho, que o Governo quer impor aos trabalhadores do sector privado, vai naturalmente trazer mais desemprego. É óbvio! De facto, este vergonhoso aumento do horário de trabalho em 2,5 horas, passando das actuais 40 horas semanais para 42,5 horas semanais, constitui, todos o sabem, uma velha aspiração dos patrões e o Governo prepara-se agora para lhes fazer esse favor, o jeito, para lhes fazer a vontade. \nUma vez que esse trabalho não vai ser pago, este aumento do horário de trabalho vai provocar uma perda salarial da ordem dos 7%. Em termos práticos, o que o Governo pretende é proceder a uma transferência directa dos rendimentos de quem trabalha para os grandes accionistas, os quais ganham com este jeito cerca de 7% dos salários, que são retirados aos trabalhadores face ao novo horário de trabalho semanal. É o regresso do _Robin dos Bosques_, mas o «filme» é visto ao contrário. \nSr. Ministro, diga-nos qual é o contributo do aumento do horário semanal de trabalho para o combate ao défice? O que é que isto representa para a redução da dívida externa? É porque, Sr. Ministro, se não for claro na resposta, fica claro para os portugueses que o défice é apenas um pretexto para fazer mais um jeito aos patrões. Mais um! \nSr. Ministro, uma vez que se diz tão preocupado com as pessoas, deixe-me lembrar-lhe que há mais mundo, há mais pessoas para além dos patrões.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Hélder Amaral.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Sr.ª Presidente, Sr. Ministro da Economia e do Emprego, é um facto que temos um problema na economia. Não vale a pena escondê-lo. \nDevo dizer, nos poucos anos que levo na política, que se há frase clara, corajosa e que diz muito bem que temos um Primeiro-Ministro ciente das dificuldades que enfrentamos, é a frase «nós só saímos disto empobrecendo».", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Só alguns é que vão empobrecendo!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "É, talvez, uma das frases mais corajosas que ouvi.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Coragem?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Neste debate, quase toda a esquerda utilizou mais tempo do que o regimentalmente previsto, mas não ouvi ninguém apresentar uma única solução para o problema.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Mas eu percebo porquê. Fizeram-no, porque o grande drama da esquerda não é a precariedade ou a falta de políticas que potenciem o crescimento económico, mas, isso sim, se nós acertamos e resolvemos o problema.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não há esse risco! Por aí estamos descansados!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Esse é que é o verdadeiro drama da esquerda!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Diz o Partido Socialista que temos que ter um caminho, que é o da retoma e o da consolidação. Por outras palavras, como diz o nosso povo na sua sempre enorme sabedoria, é o caminho do «chapa ganha, chapa gasta». Foi isso que tivemos até agora! Foi «zero» de contenção. No fundo, o que o Governo queria dizer, e bem, sem querer admitir, era que se tratava do tal «Estado de muitos para poucos», que nunca foi a nossa política.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Sr. Ministro, fique descansado e não se desvie um milímetro da coragem e da serenidade que tem posto no debate. Esqueça os bitaites dos telejornais e daqueles que vêm sempre reivindicar políticas económicas sem dar uma única solução.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Seja sério!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Esqueça. Concentre-se no caminho. Sou daqueles que acreditam perfeitamente que não estamos a recuar mas, sim, a ganhar balanço.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Risos do PCP e do BE.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Portanto, tenho a perfeita convicção de que se fizermos aquilo que anunciou,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Sr.ª Presidente, há gente aos gritos. Com certeza, indignados!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Não faz mal!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, deixem ouvir o orador, por favor.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Como eu estava a dizer, tenho a perfeita convicção de que se fizermos aquilo que anunciou, acho que conseguimos alcançar o nosso objectivo. \nOu seja, primeiro, é preciso consolidar. Estranhamente, muitos aceitavam e diziam que era preciso consolidar as contas, pôr as contas em ordem, trabalhar mais, pôr o País a produzir mais. Pois é isso que estamos a tentar fazer. \nDepois, reestruturar. Primeiro consolidar e depois reestruturar. Não é possível fazer de outra maneira. \nDepois, investir. Não há crescimento sem investimento na economia. \nPortanto, o caminho é estreito, mas há algumas possibilidades, e era sobre essas possibilidades que queria questioná-lo. \nHoje, os dados da exportação são razoáveis e são um motivo de esperança. \nPergunto — sei que tem falado sobre isso, mas gostava que, se pudesse, explicasse um pouco melhor — se o Governo já está ou não a trabalhar numa reestruturação do QREN no sentido de os seus fluxos financeiros aproveitarem a quem precisa deles e, de facto, quem cria emprego são as empresas, se estamos ou não a aproveitar as empresas fortemente exportadoras no sentido de servirem como uma espécie de «porta-aviões» e levarem com elas pequenas empresas para que estas possam também chegar aos mercados e, com isso, melhorar os seus resultados…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Se calhar, é um submarino!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "… e se estamos ou não a agilizar a devolução do IVA, a criar o tal «passaporte» para a exportação e a criar um pacote sereno, contido, mas muito eficaz, de medidas que apostam no empreendedorismo e no desenvolvimento. Para quê? Para que aproveitemos nichos de mercado, pequenos empreendedores, que poderão \ntransformar a nossa economia e gerar uma economia \ndescentralizada em todo o território nacional, mas, essencialmente, criar bolsas de crescimento económico. \nTudo o que referi são pequenos passos para que, em 2013 (coisa que não escondemos a ninguém), ano de retoma, possamos ganhar balanço e chegar aos níveis que todos desejamos e que, creio, até a própria esquerda, de forma mais serena e recatada, deseja.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem agora a palavra, para pedir esclarecimentos, a Sr.ª Deputada Catarina Martins.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "Sr.ª Presidente, Sr. Ministro da Economia e do Emprego, há pouco, a direita perguntava-nos quais são as alternativas da esquerda. Talvez fosse, então, bom referirmos algumas coisas lógicas que se possam perceber. \nUma alternativa é proteger postos de trabalho; outra alternativa é criar postos de trabalho; outra alternativa, ainda, é promover o crescimento económico. Porque o que nos oferece o Governo, o que nos disse o Sr. Ministro, ainda há pouco, foi algo tão extraordinário como «nós defendemos o trabalhador, mas não o posto de trabalho». Não sei se o Ministro sabe, mas um trabalhador sem um posto de trabalho é um desempregado!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "Estamos quase a chegar a 1 milhão de trabalhadores sem posto de trabalho, a 1 milhão de desempregados! \nPercebo bem o drama da direita, que não vê aqui nenhuma proposta, que está desorientada! Não há nenhuma proposta de crescimento económico ou de emprego! \nSr. Ministro, que se saiba, a única proposta de investimento público que teve até agora foi uma reunião com autarcas do PSD em que se lembrou que talvez agora pudesse haver uma auto-estrada para Viseu,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "… porque, de resto, não se conhece mais nada!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "Conhece-se esta ideia louca de reinventar um País empobrecendo-o, nas palavras tão claras e tão límpidas do Sr. Primeiro-Ministro. Não se conhece mais nada. \nTemos até uma proposta apresentada ontem, com pompa e circunstância, para criar emprego, que não é mais nem menos do que gastar pouco mais de 0,1% do Orçamento do Estado para que as empresas possam contratar desempregados por 65 €! «Venha buscar o seu desempregado por 65 € e nem sequer precisa de lhe dar qualquer tipo de contrato especial. Precários, pois então! Venham buscar aos centros de emprego desempregados por 65 € e mantenham-nos na precariedade toda a vida!» É esta a proposta que o Sr. Ministro tem para o emprego: um investimento de menos 0,1% do Orçamento do Estado para fazer face ao nível histórico do desemprego! Uma medida que não chega a atingir um décimo dos desempregados, que não chega, sequer, para 8% dos desempregados de longa duração e que mantém as pessoas na pobreza e os trabalhadores na precariedade! \nPortanto, Sr. Ministro, claro, claríssimo está para todos nós que o senhor é o «ministro do empobrecimento». \nA pergunta simples que tenho para lhe fazer é esta: até que número é que quer descer o valor do trabalho? \nQuando é que este Governo acha que somos pobres o suficiente? Quantos pobres mais? Dois milhões não chegam? Mais quantos? De quantos pobres precisa este Governo para ganhar o tal balanço de que fala a direita? Quantos mais pobres?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "Quantos mais pobres, Sr. Ministro?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Ministro da Economia e do Emprego, tem a palavra para responder.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Sr.ª Presidente, acho que é muito claro neste debate que a resposta da esquerda para a maior crise nacional das últimas décadas é deitar dinheiro para cima dos problemas à espera de que eles se vão embora.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP e do BE.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Foi com a quimera do investimento público,…", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Deve estar a falar do PP!?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… foi com as rendas dadas a vários sectores, foi com o fomentar de uma cultura de subsídio-dependência…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD e do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… e de apoio a _lobbies_ que estavam associados ao poder político que a esquerda levou o nosso País ao maior nível de endividamento público, desde os meados do século XIX, e ao maior nível de endividamento externo, desde 1892. É assim que a esquerda quer resolver os problemas!", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP e do BE.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "A Sr.ª Deputada Rita Rato tem algum problema com pessoas que vivam fora do País?", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Não!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "A Sr.ª Deputada tem algum problema com pessoas que sejam emigrantes?", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Não!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Então, por que é que está a falar do Canadá?! Sr.ª Deputada…!", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Gostava de lembrar à Sr.ª Deputada que, além de termos representantes dos nossos emigrantes nesta Casa, temos mais de 5 milhões de emigrantes no mundo, de quem muito nos orgulhamos e que se orgulham muito de Portugal!", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Com a sua política, vamos ter muitos mais!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Gostava também de mencionar que outra das «receitas mágicas» que a esquerda nos apresenta é a da reestruturação da dívida. Ora, uma reestruturação da dívida desordenada foi o que nos aconteceu em 1892 e depois estivemos 60 anos fora dos mercados!", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Protestos da Deputada do PCP Rita Rato.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Portanto, insistir na quimera da reestruturação da dívida, fingir e dizer aos portugueses que esta é a solução fácil para os nossos problemas,…", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não é fácil, não. É a única!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… é uma solução que é não só uma fantasia mas também uma irresponsabilidade total. Porque se o fizéssemos de uma forma desordenada, o que iria acontecer era que não mais teríamos financiamento, não mais teríamos dinheiro para pagar aos funcionários públicos, iríamos ter dezenas de milhares de pessoas desempregadas, iríamos ter corridas aos bancos, iríamos ter consequências desastrosas para o nosso País. Iríamos, certamente, ter uma recessão económica que seria muitíssimo maior do que a actual, que iria fazer com que a actual fosse uma mera brincadeira perante um cenário de reestruturação de dívida desordenada. \nPortanto, quando os senhores afirmam que a reestruturação de dívida é a solução para o nosso País, deviam estudar os livros de Economia,…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "O «seu» livro!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… deviam estudar os livros da História para perceberem o que se passa!", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Foi-me perguntado o que poderia fazer o aumento do horário de trabalho para o nosso País. Não é difícil responder a essa questão, basta perguntar às empresas. São as empresas que criam emprego, são as empresas que, juntamente com os trabalhadores, fazem com que seja possível uma diminuição de desemprego. E o aumento do horário de trabalho, como aqui foi mencionado — e muito bem! —, é uma medida de carácter excepcional numa altura de grande crise de emergência nacional, que vai fazer com que as nossas empresas tenham possibilidade de se tornar mais competitivas e mais produtivas a curto prazo.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bruno Dias", 
+   "text": "Que grande economista que aqui está!?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Como não temos margem orçamental para fazer outras políticas,…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Entretanto, assumiu a presidência o Sr. Vice-Presidente Guilherme Silva.", 
+   "type": "presidente_troca"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr. Ministro.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… o aumento da carga laboral de forma temporária é uma maneira de fazer com que as nossas empresas sejam mais competitivas e, ao serem mais competitivas, vão produzir mais, vão exportar mais e vamos criar mais emprego.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Essas são «contas de merceeiro»!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Rita Rato.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, o que o Sr. Ministro, hoje, veio aqui dizer foi que pretende substituir trabalhadores com direitos por trabalhadores sem direitos!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "O que o Sr. Ministro e a sua política pretendem — aliás, na mesma medida que a política anterior do Partido Socialista —…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Eh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "… é agravar a exploração de quem trabalha. Isto não tem nada de novo nem de moderno! Isto é o que tem sido a história dos povos! É meia dúzia de pessoas a viverem à conta da maioria do povo!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PSD.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "E o que o Sr. Ministro aqui nos vem dizer é que defende a precarização total das relações de trabalho. \nO Sr. Ministro vá a um supermercado, vá a um hipermercado, vá a um centro comercial e pergunte àquelas trabalhadoras o que é mais grave no seu horário de trabalho. E elas dir-lhe-ão: «é trabalhar ao domingo, quando os meus filhos estão em casa, quando a família está em casa e eu tenho de estar aqui». \nVá ao Braga Parque, vá ao Almada Fórum, vá ao Fórum Montijo, vá ao Fórum Algarve e pergunte-lhes qual é o problema da desregulamentação do horário de trabalho. \nO Sr. Ministro vem apresentar-nos esta ideia «mágica» de aumentar o horário de trabalho. É pena que não aumente o salário! Neste País, aumenta tudo, só não aumentam os salários!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Exactamente!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "É pena que o Sr. Ministro, que gosta tanto de falar da concertação social — porque fica bem falar da concertação social! —, «manda-a para as urtigas», quando se trata de cumprir o que está previsto na concertação social.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Por que é que não cumpre o que está estabelecido na concertação social e aumenta o salário mínimo que, neste momento — é uma vergonha! —, está nos 485 €?! \nO Sr. Ministro fala-nos de precariedade, mas a precariedade tem conduzido este País para o fim! O Sr. Ministro é o «ministro do desemprego e da falência do País»!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PSD.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "O Sr. Ministro sabe que o desemprego e a precariedade andam de mãos dadas! Sabe que a precariedade é a antecâmara do desemprego. Quanto mais precariedade, mais desemprego!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "O desemprego tem tudo a ver com precariedade e a precariedade está muito ligada ao desemprego! \nE ligada ao desemprego — e, ontem, o Sr. Ministro não nos respondeu a esta questão — estão os acidentes de trabalho. \nUm trabalhador da Siderurgia Nacional sofreu queimaduras no corpo, porque estava a trabalhar desde as 6 horas da manhã e já eram 22 horas e 52 minutos. O Sr. Ministro acha que ainda é preciso aumentar mais o horário de trabalho?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bruno Dias", 
+   "text": "Que vergonha! Mais «meia-horinha»!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Este homem trabalhava ao sábado, ao domingo e aos feriados. \nUm trabalhador da Petrogal, em Sines, morreu, porque estava a trabalhar para lá do seu horário de trabalho. Tinha um contrato de trabalho precário, não teve formação profissional e já estava a trabalhar há 12 horas. O Sr. Ministro acha que ainda é preciso aumentar o horário de trabalho?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bruno Dias", 
+   "text": "Mais «meia-horinha»!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "O Sr. Ministro acha justo, neste País, as pessoas sobreviverem com 485 €?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr.ª Deputada.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Termino já, Sr. Presidente. \nO Sr. Ministro vivia com 485 €? É que, no nosso País, existem mais de 246 000 trabalhadores que sobrevivem com 485 €!! \nO caminho não é este.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PSD e do CDS-PP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr.ª Deputada.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "O caminho é o do combate à precariedade e do emprego com direitos, Sr. Ministro!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PCP e do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Pedro Filipe Soares.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Pedro Filipe Soares", 
+   "text": "Sr. Presidente, Sr.ª e Srs. Membros do Governo, Sr.as e Srs. Deputados, o Sr. Ministro da Economia e do Emprego veio falar-nos em momentos de excepção. \nPor isso, a primeira pergunta que lhe faço é muito directa: estes momentos de excepção duram quanto tempo para o Governo? Quando é que para o Governo a meia hora adicional de trabalho diária vai terminar? É uma pergunta concreta cuja resposta não pode passar à margem deste debate. \nPorém, já percebemos que é um tabu, porque, perguntado várias vezes sobre as palavras de ontem do Sr. Primeiro-Ministro, o Sr. Ministro da Economia nada disse. O Sr. Ministro não consegue falar em empobrecimento nem sequer pronunciar a palavra «empobrecer». Diga, Sr. Ministro: «nós não queremos empobrecer». Consegue dizer isto? Não consegue, porque isto é o contrário do que tem vindo a fazer o seu Governo. \nSenão, vejamos. \nO que faz este Governo ao dar 12 000 milhões de euros à banca, quando a banca diz que não quer investir na economia? Empobrecer! \nOu quando deita dinheiro para cima dos problemas. Empobrecer! \nOu quando corta o subsídio de Natal e o subsídio de férias aos funcionários públicos? Empobrecer! \nOu quando corta o subsídio de Natal e o subsídio de férias aos reformados que trabalharam uma vida inteira? Empobrecer! \nOu quando obriga a trabalhar mais meia hora por dia, mais três semanas de trabalho gratuito anual? \nEmpobrecer! \nOu quando facilita os despedimentos, criando um novo contrato _low cost_? Empobrecer! \nOu quando embaratece as horas extraordinárias? Empobrecer! \nOu quando eterniza a precariedade, aumentando o período dos contratos a prazo? Empobrecer! \nOu quando adia as vidas dos trabalhadores a recibos verdes, para quem o verde já não é uma esperança mas, sim, um calvário? Empobrecer! \nOu quando fala da mobilidade, que é só uma forma de despedir mais facilmente e, com isso, terminar com qualquer ideia de progressão na carreira? Empobrecer! \nOu quando o Sr. Ministro fala na taxa de desemprego deste ano, devo dizer que as previsões do seu Governo para o próximo ano são a maior taxa de desemprego de que há memória no nosso País. \nEmpobrecer! \nPor isso, o desafio que lhe deixo é muito simples, Sr. Ministro: tem coragem de dizer esta palavra? Tem coragem de dizer esta frase: «nós não queremos empobrecer»? Ou é mesmo este o desígnio que o Governo tem para o País?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Ministro da Economia e do Emprego.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Sr. Presidente, Srs. Deputados, sobre o salário mínimo nacional, também acho que terá de aumentar nos próximos anos.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "De que maneira conseguiremos aumentar o salário mínimo nacional e os outros salários? Só fazendo uma coisa: criando mais riqueza, tornando a economia portuguesa mais produtiva e mais competitiva para que possamos produzir mais, ao produzir mais, exportaremos mais e mais e iremos criar mais emprego.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Claro!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Aconteceu sempre assim em toda a História. Os aumentos salariais só acontecem com aumentos da produtividade e o que se passou, nos últimos anos, foi uma descida muito substancial da produtividade e que também nos conduziu a esta situação. \nOra, alguns partidos desta Câmara defendem que o salário mínimo nacional aumente para 600 €, até 2013.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "O que ficou acordado foram 500 €!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Ora, se tal acontecesse, apesar de, idealmente ser interessante e, demagogicamente, ser ainda mais interessante…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "E o aumento do IVA na electricidade?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… iríamos condenar a economia portuguesa ao que aconteceu após o 25 de Abril, que foi um aumento de salários nominais de tal modo grande que fez com que as exportações nacionais tivessem o maior recuo dos últimos 150 anos.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Foi por causa dos salários?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Portanto, se houvesse um aumento substancial dos salários nesta altura em que nos defrontamos com problemas de competitividade muito graves,…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Teriam um impacto mínimo!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… seria meio caminho andado para declararmos o falhanço de Portugal.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Isso não é verdade!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "E o aumento do IVA na electricidade?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Como o Governo tem uma atitude responsável e realista, medidas como estas são, obviamente, impossíveis nesta altura.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Essas medidas são o que está acordado!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Sobre a precarização das relações de trabalho, gostava de perguntar à Sr.ª Deputada Rita Rato se acha que a Dinamarca, a Suécia e a Áustria são países com precariedade. Acha?", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Protestos da Deputada do PCP Rita Rato.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "É que, se acha, gostaria que consultasse os indicadores da Organização Internacional do Trabalho ou do Banco Mundial, que mostram que, habitualmente, a precariedade está associada à rigidez laboral.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Ai, é?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Se quiser, posso mandar-lhe uns gráficos…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP e do BE", 
+   "text": "Mais gráficos?!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… e uns estudos que mostram, muito claramente, que a precariedade que existe em Portugal, que é muitíssimo alta, se deve essencialmente às nossas leis laborais e à rigidez das nossas leis laborais.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "No que refere à concertação social, devo dizer que o Governo está muitíssimo empenhado. É por isso mesmo que temos mantido uma agenda bastante intensa com os parceiros sociais; é por isso mesmo que, ainda esta semana, tivemos reuniões bilaterais com todos os parceiros sociais; é por isso mesmo que, para a semana, iremos ter uma reunião onde iremos falar sobre competitividade; é por isso mesmo que, daqui a duas semanas, iremos ter uma reunião onde falaremos sobre crescimento económico; é por isso mesmo que, dentro de três semanas, iremos ter uma reunião onde falaremos sobre emprego e trabalho. \nPortanto, se há alguém que privilegia e defende a concertação social é este Governo. O diálogo social é absolutamente fundamental num tempo de crise, a união é importante, trabalharmos em equipa é importante para sairmos da crise actual, entendendo o Governo que a concertação social é essencial para a prossecução destes objectivos. \nO Sr. Deputado Pedro Filipe Soares perguntou quanto tempo estará em voga a medida da meia hora de trabalho adicional. Como já foi referido pelo Governo, esta medida estará vigente durante o período em que a ajuda externa se mantenha em Portugal. A resposta é esta: depende, obviamente, do período dessa ajuda financeira.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Artur Rêgo.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Sr. Presidente, Srs. Deputados: Penso que, chegado a este ponto, é altura de começarmos a deixar de falar para dentro, é altura de nos deixarmos de preconceitos e chavões e de dizer aos portugueses aquilo que é preciso dizer. E aquilo que é preciso dizer é isto: temos uma economia estagnada e que não cresce há mais de 10 anos,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Podia não ouvir isto, Sr. Ministro!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… temos 700 000 desempregados, temos um salário mínimo que — é verdade — se não é o mais baixo, é um dos mais baixos da Europa,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "E vai continuar!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… e temos estas leis laborais. \nO que acho extraordinário é que se acuse um Governo e um Ministro que estão no exercício de funções há três ou quatro meses de serem os responsáveis pelos 700 000 desempregados, de serem os responsáveis pelos salários mínimos baixos, de serem os responsáveis por uma economia estagnada há mais de 10 anos. \nO que acho extraordinário também é que se acusem alterações à lei laboral, que estão a ser efectuadas agora e que nem sequer ainda entraram em vigor, de serem responsáveis por isto tudo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Penso que, aqui, podemos ter duas espécies de discurso: um, é o discurso catastrofista, de dizer mal de tudo, em que nada do que se faça é bom; outro, é ver o copo meio cheio. Neste momento, o que temos de ter para Portugal e para os portugueses é um discurso positivo, é ver o copo meio cheio.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "Se o copo está vazio, não se consegue ver meio cheio!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Efectivamente, sendo esta a realidade, as alterações que, neste momento, estão a fazer-se à legislação laboral são aquelas que não só este Governo mas também todas as instâncias internacionais constataram dever ser feitas, porque essa legislação constitui em si um entrave — e é um deles — ao crescimento da economia portuguesa e à internacionalização da economia.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Isso é mentira!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Portanto, o que temos de dizer aos portugueses é que, neste momento, esta maioria, este Governo e este Ministério estão a introduzir os ajustes na economia portuguesa e na legislação laboral que entendemos serem necessários — e não somos só nós que o entendemos, como também todas as instâncias internacionais — para dar esperança aos portugueses, para fazer a economia crescer, para criar emprego, para tirar os portugueses da situação de desemprego e de precariedade. \nPortanto, a mensagem para os portugueses é esta: esperança, que as medidas que estamos a tomar visam tirar-nos da situação em que estamos; e não um discurso catastrofista. \nMais: este Governo e esta maioria tiveram uma medida inteligente.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Honório Novo", 
+   "text": "Calma!… Calma!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Ao separar a solidariedade social do trabalho e ao juntar as políticas de trabalho e de criação de emprego no Ministério da Economia, o Governo pô-las no sítio correcto, porque não se cria empregos com _slogans_, cria-se empregos com políticas económicas activas de dinamização do tecido económico empresarial do País.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Portanto, o Governo fez muito bem ao executar esta reorganização, mas, ao mesmo tempo, fez muito bem sob outro ponto de vista: ao autonomizar um ministério exclusivamente para a solidariedade social, libertou mãos ao Governo e a um ministro para se concentrar — aí, sim — naqueles que verdadeiramente necessitam e nas políticas que, independentemente dos esforços e das restrições que se estão a impor, é necessário manter para apoiar aqueles que, efectivamente, são os mais carenciados e os mais necessitados. E este Governo, estando a ter este Orçamento e estas medidas, não se esqueceu destes. \nPosso dizer-vos que este Governo descongelou e actualizou as pensões de reforma mínimas, que estavam congeladas e que era uma medida que o CDS já tinha preconizado na anterior Legislatura;…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… este Governo propôs a majoração do subsídio de desemprego, e vai levar isso à prática, para casais desempregados, que era uma medida que o CDS também já tinha proposto na anterior Legislatura;…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Entretanto, corta tudo o resto!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… este Governo propôs o subsídio de desemprego para os trabalhadores independentes, que é uma medida essencial para aqueles trabalhadores independentes que fazem os seus descontos regularmente mas que não tinham cobertura nenhuma; este Governo propôs a tarifa social de energia para que as pessoas mais necessitadas não fossem afectadas pelo aumento dos consumos;…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Isto deve ser brincadeira!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "… este Governo propôs um passe social. Este Governo e esta maioria, ao mesmo tempo que estão a tomar as medidas necessárias para redinamizar a economia, estão a prestar atenção aos mais necessitados.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Roubo autorizado aos trabalhadores!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Não é com chavões, não é com discursos catastrofistas do copo vazio e da desgraça que andamos com o País para a frente, é com estas medidas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Sr. Ministro, pode continuar a contar com o nosso apoio, porque compreendemos perfeitamente — e o que queremos passar aos portugueses é esta mensagem de esperança — que, se temos o País no estado em que temos, se temos 700 000 desempregados, se temos um País com ordenados mínimos que fazem com que seja efectivamente verdade que os trabalhadores portugueses ganham menos do que a média europeia, temos de tomar medidas para pôr a economia a mexer, para a fazer crescer, para criar riqueza, porque esta riqueza é que vai permitir aumentar os ordenados, criar emprego, dar trabalho aos portugueses e dar, no fundo, maior felicidade a este País.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Catarina Martins.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "Sr. Presidente, Sr. Deputado Artur Rêgo, catastrofistas, nós?! O Sr. Primeiro-Ministro é que veio anunciar que o grande desígnio deste Governo é o empobrecimento do País. Foi o Sr. Primeiro-Ministro que disse isto! Catástrofe é com o Governo, nós estamos aqui, sim, a lutar contra a catástrofe!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "Sr. Deputado, o Código do Trabalho contra o qual o CDS hoje tanto fala foi elaborado por um ministro do CDS.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Mal!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "A base da legislação laboral é de Bagão Félix.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "Exactamente! É vossa!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "É bom que se digam as coisas como elas são! Sejamos sérios! Portugal é o recordista dos despedimentos colectivos. Não há aqui nenhuma imobilidade no mercado do emprego, não há nenhuma rigidez, o que há, sim, é empobrecimento. \nSr. Deputado, muito rapidamente, quero fazer uma pergunta que tem a ver com um chavão da campanha eleitoral do CDS e da propaganda nos primeiros tempos de Governo. O alargamento do horário de trabalho tem o «visto familiar» do CDS-PP? Os pais não conseguirem estar com os filhos tem o «visto familiar» do CDS-PP? Explique-nos lá isto, Sr. Deputado.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Artur Rêgo.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Sr. Presidente, Sr.ª Deputada Catarina Martins, agradeço a sua intervenção e a sua pergunta, extremamente pertinentes porque permitem esclarecer aqui dois ou três pontos. \nPrimeiro, o que o Sr. Primeiro-Ministro veio dizer não é que está a empobrecer o País. O que o Sr. Primeiro-Ministro veio dizer é que, devido à situação em que o País está, obviamente que num primeiro momento, até as medidas que estão a ser tomadas começarem a funcionar, o País vai empobrecer. Sr.ª Deputada, não se pára um carro que vai a 200 km/hora em zero metros, há inércia… Estamos a tomar as medidas para travar este carro que está embalado, mas num primeiro momento ele ainda vai deslizar um bocadinho. \nSr.ª Deputada, fico muito feliz, folgo em ver uma Sr.ª Deputada do Bloco de Esquerda a defender com tanto vigor o «Código Bagão Félix».", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "É verdade! Veja bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "De duas, uma: ou o Bloco de Esquerda passou a reconhecer os méritos desse Código ou a Sr.ª Deputada mudou de ideias e está na bancada do Bloco de Esquerda como independente. \nRelativamente ao horário de trabalho e ao «visto familiar», Sr.ª Deputada, é evidente que o alargamento em meia hora do horário de trabalho não tem «visto familiar» nenhum; nem o CDS nem ninguém de bom senso poderá dizer uma coisa dessas!…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "Ah!… O Programa do Governo já lá vai!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Sr.ª Deputada, esta é mais uma medida que, infelizmente, está a ser usada pela extrema-esquerda com demagogia. Como sabe, este alargamento em meia hora do horário de trabalho é uma medida excepcional que, se Deus quiser, irá terminar no fim do próximo ano. E quanto a isto nada mais temos a dizer, Sr.ª Deputada.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr. Presidente, Srs. Deputados: Infelizmente, o desemprego continua a subir de forma muito preocupante, mas o Governo, ao invés de procurar criar mecanismos para combater este grave problema, insiste em estimular os despedimentos e promove o desemprego, como se as pessoas fossem meras mercadorias; facilita os despedimentos; esvazia completamente o conceito de justa causa no despedimento; permite, através da atribuição de critérios subjectivos, que a entidade patronal possa despedir quando entenda; torna o despedimento mais barato, para não custar tanto à entidade patronal; reduz o valor das indemnizações por despedimento; reduz os 30 dias de retribuição por cada ano de antiguidade para 20 dias; elimina a garantia de pagamento de um mínimo de três meses de retribuição e cria limites máximos de indemnização em caso de despedimento; pretende impor um vergonhoso aumento da duração do trabalho em duas horas e meia por semana. \nO Governo rouba 7% dos salários a quem trabalha para os entregar aos grandes accionistas, provavelmente para engrossarem o caudal de capitais que todos os anos fogem do País. Feitas as contas, serão menos uns bons milhões de euros a circular na nossa economia, no pagamento de impostos, nomeadamente no IVA, porque se os trabalhadores não vão receber os 7% correspondentes ao aumento da carga horária menos podem consumir e, portanto, menos receitas vão para o Estado. Mais: este empobrecimento dos trabalhadores é ainda pouco saudável para a nossa economia, porque a sucessiva perda do poder de compra está a ter efeitos devastadores no mercado interno, levando ao encerramento de empresas e à inevitável perda de postos de trabalho. \nAssim, e para além de ser socialmente injusto e intolerável, este monumental roubo da transferência directa da massa salarial para os patrões não representa qualquer contributo para resolver a crise, pelo contrário, constitui um factor de agravamento da situação. Mas a injustiça é ainda mais gritante se tivermos em conta que, afinal, são os trabalhadores, os desempregados, os reformados e os pensionistas que estão a pagar a factura da crise que não provocaram e sobre a qual não têm qualquer responsabilidade. \nEstamos, de facto, perante um Governo com muita coragem. É verdade, muita coragem!… De facto, só um Governo com muita coragem carregava tanto sobre quem trabalha; só um Governo com muita coragem fazia tantos jeitos aos patrões.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "De facto, só um Governo com muita coragem fazia o que faz e continuava a ter um ministério com o bonito nome de Ministério da Economia e do Emprego. Falta apenas propor que o 1º de Maio deixe de ser feriado, porque, em vez do dia do trabalhador, passou a ser o dia dos patrões e estes prescindem, naturalmente, do feriado; falta apenas dizer que o dia 10 de Junho deixa de ser feriado, porque, afinal, quem manda é a troica, e esta também prescinde; falta apenas alterar a designação do Ministério da Economia e do Trabalho para «ministério dos patrões e do desemprego». E falta, mas está agendada, uma forte resposta dos trabalhadores a todas estas políticas que nos levaram a esta situação e às políticas que se anunciam e que colocam aqueles que, não tendo responsabilidade nenhuma na situação que está criada, são agora chamados a suportar os custos da irresponsabilidade dos outros.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Miguel Laranjeiro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados, Sr. Ministro Álvaro Santos Pereira: Inicio esta intervenção citando uma frase. «Esta crise é o melhor que nos poderia ter acontecido». Esta frase, insensível e fria como o aço, não foi proferida por qualquer pessoa num momento menos feliz. Foi escrita, foi reescrita pelo membro do Governo que tem responsabilidades sobre a vida das pessoas, dos trabalhadores portugueses e dos jovens desempregados; foi escrita por si, Sr. Ministro. \nO que dirão as centenas de milhares de desempregados que apenas vêem diminuir as oportunidades e são tratados como estando a mais na sociedade? Foi o melhor que lhes poderia ter acontecido? O que dirão os milhares de pequenos e médios empresários que não têm interlocutor neste Governo? Foi também o melhor que lhes poderia ter acontecido? O que dirão os empreendedores que querem criar riqueza e não têm financiamento? \nO que dirão os empresários da restauração, que podem ver o seu negócio ruir, com as medidas deste Governo? Foi também o melhor que lhes poderia ter acontecido?!… Não, não foi, Sr. Ministro!! \nO PSD e o CDS tinham, aliás, uma «solução mágica», que tudo resolveria na economia nacional, no combate ao desemprego e no crescimento económico: a descida das contribuições dos empregadores, através da redução significativa da Taxa Social Única (TSU). Tinham tudo estudado: o valor, o seu impacto, a forma de arrecadação das verbas entretanto perdidas para a segurança social…, tudo, mas a final nada! Não passava de uma ideia sem concretização possível. Sempre poderíamos aplicar a frase do seu colega da pasta das Finanças: «A descida da TSU é uma medida que funciona muito bem, mas nos modelos utilizados na Universidade». Está tudo dito! Nem sequer resistiu ao primeiro estudo feito pelo próprio Governo! Pois o Sr. Ministro, com todo o respeito, naturalmente, está fora da realidade nacional. Chegou ao Ministério com ideias, com estudos académicos, mas absolutamente alheado do que é a realidade europeia e nacional. \nA ausência de política, de um caminho, de uma ideia para o crescimento e o emprego está a ter consequências internas dentro do Governo e da maioria que o apoia — e essas são as que menos nos preocupam —, mas está também a ter consequências no País, e muito graves! \nSr. Presidente, Sr.as e Srs. Deputados: Não comentamos a orgânica do Governo — é uma responsabilidade do Primeiro-Ministro —, mas desde cedo se percebeu que ao querer um governo mais pequeno criou um grande problema a Portugal. Ao meter no mesmo gabinete decisões que vão do TGV ao financiamento das PME, do sector dos transportes ao Instituto de Emprego, da Carris à Autoridade para as Condições de Trabalho (ACT), da Metro de Lisboa à Formação Profissional, da Comissão para a Igualdade no Trabalho aos portos nacionais, da geologia à defesa dos consumidores, da Soflusa à concertação social, confundiu tudo e agora não consegue dar resposta a nada. Era uma missão impossível para um Ministro,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "… que, embora possa ter muita boa vontade, não tem o «peso» que muitos — e muitos na maioria — já detectaram. Em toda esta organização do Ministério ficou absolutamente para trás o combate ao desemprego. \nFicou para trás o diálogo social e só com ele é que será possível ultrapassar muitos dos problemas com que as empresas e os portugueses se confrontam. Ficou para trás uma visão de futuro! \nO País, Sr. Ministro, tinha a ganhar com mais concertação social, com verdade e realismo. Era preciso mobilizar os portugueses para enfrentarmos juntos as dificuldades que o País enfrenta, mas a opção não tem sido essa. O Governo erra quando tenta colocar trabalhadores contra trabalhadores! O Governo erra quando, em vez de unir, tenta dividir os portugueses! O Governo erra quando vira as costas à concertação social. \nNão cumprir o acordo de Março seria uma «facada na Concertação Social», afirmou o Dr. Silva Peneda, presidente reeleito por esta Câmara para o Conselho Económico e Social e, aliás, seu antecessor na pasta. \nEle sabe do que fala, pois este Governo já deu várias «facadas» na concertação social e basta ver as declarações dos diferentes parceiros para perceber o que se está a passar ou, pior, o que não se está a passar. \nA primeira vez que se dirigiu ao Plenário, o Primeiro-Ministro falou em verdade e transparência. Chegou a hora de, nesta matéria crucial para a manutenção da confiança no diálogo social, o Governo falar verdade sobre os propósitos que defende e apresentar também, com transparência, as suas propostas. \nSr.as e Srs. Deputados, relativamente à apresentação das medidas activas de emprego, não passou disso: \nanúncios. \nAnunciou dezenas de medidas para reestruturar os centros de emprego. Foi há mais de um mês… Nem uma está em marcha! \nPode ter um «superministério», mas tem um conjunto de minipolíticas que destroem qualquer tipo de credibilidade, absolutamente vital para a economia e o emprego no nosso País. Desde que há registos, nunca como no passado mês de Setembro houve tantos desempregados inscritos nos centros de emprego! Foram 80 000 novos inscritos em apenas um mês, menos 39% de ofertas de emprego disponíveis, em comparação homóloga, e menos 23,7% de ofertas recebidas, ao longo do mês, nos centros de emprego!! \nSr. Ministro, por isso, o senhor arrisca-se a ser o «Ministro do Desemprego»…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Não era preciso isso!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "O recorde de desemprego está consigo, está nas projecções que tem para o próximo ano, no maior valor de desemprego de que há memória em Portugal — e são projecções feitas por defeito…! \nNão conhecemos nenhuma medida para o crescimento do emprego ou, melhor, conhecemos — como já foi discutido — a do aumento do horário de trabalho em meia hora por dia. É uma medida de duvidosa aplicação e são cada vez mais os que consideram que não contribuirá para o crescimento económico. Mas já temos uma certeza: a de que é uma medida contra a criação de emprego! \nAs empresas que, neste momento e neste ambiente económico, pudessem imaginar criar mais emprego, aproveitando a mão-de-obra existente, já não o farão. Trata-se de uma medida que se pode virar contra os milhares de desempregados, sobretudo os mais jovens. \nNa sessão de trabalho que tivemos ontem na Comissão Parlamentar, tive oportunidade de questioná-lo sobre uma medida sobre a qual gostava de ter hoje aqui a resposta, já que ontem não a deu. Trata-se da continuação da medida que visa a isenção da TSU por três anos, para contratos sem termo, para jovens e desempregados de longa duração. \nVolto a fazer a pergunta: vão continuar estes apoios às empresas que visam efectivamente a empregabilidade dos mais vulneráveis? Ou esses apoios vão ser trocados pela medida que anunciou de apoio directo às empresas, para empregar precariamente trabalhadores por seis meses? Esta é uma questão que não pode ficar sem resposta. \nSr. Ministro da Economia, ontem, também deixou uma péssima notícia para a sustentabilidade da segurança social ao afirmar que o Fundo de Estabilização Financeira da Segurança Social (FEFSS), que garante as pensões futuras dos portugueses, pode vir a pagar medidas activas de emprego. Inacreditável! \nSignifica que o Fundo, as verbas que visam a sustentabilidade do nosso sistema de segurança pública, podem vir a pagar apoios ao emprego, ou seja, apoios às empresas. \nConvém que hoje, no Plenário da Assembleia da República, o Ministro do Emprego ou a maioria de direita que o apoia desmintam esta perigosa ideia. Se assim não for, é absolutamente claro que é uma matriz de descapitalização da segurança social pública que o Partido Socialista rejeita. A segurança social pública não é dos governos. As verbas que estão no Fundo são para pagar as pensões e reformas dos actuais trabalhadores, não para políticas avulsas de qualquer governo. Sabemos que a situação do País é complexa, que este momento exige convergência nacional, convergência naquilo que é essencial, mas o Governo não tem sabido gerir o dossiê da concertação social, fundamental para esta convergência. O Governo tem pretendido fazer o caminho sozinho, percorrer um trajecto isolado, afastado da realidade e do realismo que seria necessário. E o que é mais confrangedor é a inexistência de uma liderança no Governo no que diz respeito à economia nacional.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Ana Drago.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "Sr. Presidente, Sr. Deputado Miguel Laranjeiro, queria dizer-lhe que partilhamos muito do diagnóstico que acaba de fazer daquela tribuna. \nO Sr. Ministro que hoje, enfim, teve a simpatia de vir a este Plenário responder pelas suas responsabilidades governamentais, tem-se revelado absolutamente incapaz de cumprir quer os compromissos que estabeleceu durante a campanha eleitoral com os cidadãos que, eventualmente, votaram no PSD e no CDS…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PSD.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "… quer no que toca à questão central e decisiva para o futuro do País, que é a questão do crescimento. De facto, vamos observando e ouvindo sucessivamente as intervenções do Sr. Ministro, que vai tentando apresentar uma miríade de soluções, cujo resultado é absolutamente irrelevante e, portanto, no horizonte vemos que não há perspectivas, não há rigorosamente nada. \nSr. Deputado, há um debate específico nesta interpelação sobre a questão das relações laborais e das «mexidas» e alterações propostas pelo Governo, no que toca ao Código do Trabalho. O Bloco de Esquerda não se esquece de que foi o Partido Socialista que abriu o debate sobre a fragilização das relações laborais e sobre a facilitação dos despedimentos. Fomos, na altura, muitíssimo francos, claros e totalmente críticos do caminho seguido na concertação social, naquela época liderado pela agora Sr.ª Deputada Helena André. Mas este é o momento em que o Partido Socialista vai ter de se definir. \nPortanto, de forma muito clara, Sr. Deputado Miguel Laranjeiro — e sem que haja aqui respostas, enfim, com «probabilidades» de votações a favor ou contra… —, eu gostava de perceber se os trabalhadores portugueses, em luta e contestação a este Governo, que vão estar numa greve geral no próximo dia 24 de Novembro, contam ou não com o voto contra do Partido Socialista, no que concerne à facilitação de despedimentos pela via da inadaptação do trabalhador ao seu posto de trabalho; e se o Partido Socialista vai ou não, também, votar contra o aumento de meia hora de trabalho sem salário, que é a resposta absolutamente inaceitável que nos foi dada pelo Sr. Ministro.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Miguel Laranjeiro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Sr. Presidente, Sr.ª Deputada Ana Drago, muito obrigado pelas suas questões. \nComo creio que sabe, nós, PS, em Julho, votámos contra uma primeira proposta do Governo relativamente às alterações dos processos de indemnizações da cessação dos contratos de trabalho. \nVotámos contra, porque o Governo — e o Sr. Secretário de Estado do Emprego aqui presente é testemunha — não garantiu a simultaneidade do Fundo de base empresarial. Repito: não garantiu!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Isso é verdade!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Não é disso que estamos a falar!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "O Sr. Secretário de Estado sabe que, nesse lugar, na bancada do Governo, referiu que garantia aos trabalhadores portugueses essa simultaneidade. Aliás, posso citar as suas próprias palavras. \nRelativamente à questão do fundo, quero reafirmar o compromisso do Governo no sentido de promover a entrada em vigor, em simultâneo, do Fundo e da alteração das compensações. \nAs compensações já entraram em vigor, mas o Fundo não. Esta é uma marca negativa do Governo de V. \nEx.ª, Sr. Secretário de Estado.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Responda às perguntas!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Naturalmente não me esqueço de responder à pergunta da Sr.ª Deputada Ana Drago…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazend", 
+   "text": "Às duas perguntas!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "É evidente que estamos vinculados a dois documentos: ao de Março deste ano, sobre o acordo da concertação social, porque a valorizamos…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Valorizamos a concertação social no passado, no presente, no futuro e sempre!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Achamos que é na concertação social que a discussão das relações laborais e, digamos, do relacionamento entre as entidades patronais e os trabalhadores…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "E o Estado!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "… se deve efectivar com o Estado, em termos do acordo tripartido. Essa é uma posição que não é de agora, que já vem de trás e que mantemos, assim como o que está inscrito no Memorando da troica. Mas mantemos — com a concertação social e com a troica — o que verdadeiramente lá está inscrito, não as medidas que o Governo aprovou e que violavam, objectivamente, quer o acordado com a concertação social quer o Memorando da troica.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Está respondido!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Aproveito os 20 segundos de tempo que tenho disponíveis para referir o desconforto das bancadas da direita,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "O desconforto é vosso!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "… porque nem sequer colocaram uma pergunta.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "«Uma perna no Pico, outra no Faial»…!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "text": "Risos do BE.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Mas quero dar um toque de actualidade… E o Sr. Deputado João Almeida vai ver que vai gostar. \nAinda hoje foi aprovado no Parlamento Europeu o relatório que apela a investimentos para a criação de emprego e vou ler uma frase desse relatório.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Mas o Sr. Deputado já não tem muito tempo…", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Não tenho, Sr. Presidente, mas é apenas uma frase…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Ah, é uma frase feita!?…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "O relatório insta os países da União Europeia, insta o Governo de Portugal, a «avaliarem os custos sociais decorrentes de cortes na despesa, nomeadamente na área da educação e nas políticas activas do mercado de trabalho, que poderão comprometer o combate à penúria dos trabalhadores qualificados na Europa…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, faça o favor de terminar.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "… e colocar em risco a garantia do desempenho económico». \nSrs. Deputados do PSD, sabem de quem é este relatório?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Eu sei!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "É da Sr.ª Deputada Regina Bastos, que ainda há poucos anos estava aí sentada, na bancada do PSD!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, já não tem tempo.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "E as conclusões do Conselho Europeu do passado domingo são muito claras: «É essencial intensificar esforços para garantir um crescimento sustentável e gerador de emprego; é necessário agir com determinação para reforçar a economia já a curto prazo…». É isso que diz a União Europeia, é isso que não faz o Governo de Portugal!!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Arménio Santos.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: \nPortugal e os portugueses vivem tempos muito difíceis, por razões internas e por razões externas.\nPor razões internas, em virtude das políticas erradas e irrealistas, que foram seguidas, não obstante os muitos alertas para se mudar de rumo, em ordem a evitar-se a situação em que nos encontramos. \nPor razões externas, que agravam as nossas vulnerabilidades, em virtude de a União Europeia também não ter revelado a determinação e a coesão necessárias para enfrentar com solidez os problemas da zona euro. \nDesta crise resulta a necessidade de definir e aplicar um conjunto de medidas de austeridade, que seguramente ninguém desejaria tomar, mas que são incontornáveis e que exigem coragem para ser implementadas. \nA sua não aplicação significaria, seguramente, agravar os problemas que existem, e as consequências seriam ainda mais dolorosas para todos os portugueses. \nPolíticas de austeridade essas que o Governo anterior negociou e assinou com as instituições internacionais — e bem! — e que os dois partidos que hoje estão no Governo também subscreveram — e bem! —, porque aos seus interesses particulares sobrepuseram o interesse nacional. Ou seja, as políticas difíceis que hoje temos de suportar foram reconhecidas e negociadas pela anterior governação socialista e são consequência das suas opções erradas. \nSr. Presidente, uma das principais consequências destas políticas e desta crise é a imposição de políticas de austeridade a que obriga, é a recessão económica e o inevitável aumento do desemprego. \nE o desemprego elevado — hoje, superior a 700 000 desempregados e na ordem dos 12,1% — naturalmente não é de hoje, nem é da responsabilidade do actual Governo. Os números são públicos, afectam de um modo geral todos os sectores de actividade, ambos os sexos e todas as idades. \nOs jovens, porém, são os mais atingidos. Mesmo aqueles que obtiveram uma licenciatura na esperança de um futuro melhor, à custa de muito esforço e dedicação pessoais e à custa de muitos recursos financeiros, públicos ou familiares, são vítimas do desemprego e são forçados a emigrar. \nE nós, PSD, sabemos bem como é importante para a economia e para o nosso País podermos contar com o trabalho, a criatividade e o empreendedorismo dos nossos jovens quadros e da nossa juventude. \nAo fazermos estas referências, queremos realçar que o PSD tem bem presente que o desemprego é um problema muito sério e grave, em termos familiares, sociais e económicos. \nPor isso mesmo, deve ser tratado com sentido de responsabilidade e não com demagogia.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "Só se cria emprego com as empresas e a economia a funcionar em bom ritmo, e não por decreto, como algumas forças políticas aqui pretendem. \nEste Governo — contrariamente ao anterior, porque este saldo negativo não é do actual Governo, mas é uma herança do anterior — está a trabalhar no sentido de responder a estes problemas. Está a envolver os parceiros sociais num diálogo social novo e estruturado, porque nunca como hoje foi tão necessário concertar posições e políticas entre o Governo e os representantes dos trabalhadores e dos empresários. Este diálogo é indispensável, para gerar um clima de confiança e de convergência, ainda que todos saibamos quão difícil é chegar-se a acordos, num contexto de austeridade e de «vacas magras» como o que vivemos. \nEste Governo está a combater a burocracia, com acções concretas e não apenas com palavras, em ordem a que burocratas sem rosto não empatem por anos a fio, ou afastem mesmo, projectos de investimento, tão necessários ao desenvolvimento do País e à criação de riqueza e de emprego. \nEste Governo está a reprogramar o QREN, orientando os seus recursos para melhorar a competitividade das nossas empresas e dar-lhe um ânimo novo. Está a reforçar o ensino profissional, o empreendedorismo e a inovação. \nEste Governo, Srs. Deputados, está a adequar as leis do trabalho, nos termos do Memorando de Entendimento, em diálogo com os parceiros sociais, em sede de concertação social, e também aqui, no Parlamento. \nEste Governo está a tornar Portugal mais atractivo e mais «amigo» do investimento, sem o qual não há crescimento económico, e sem crescimento económico não há resposta para os graves problemas sociais com que os portugueses se confrontam.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "Ou seja, está a preparar-se o País para ultrapassar as actuais dificuldades e iniciar um novo ciclo de desenvolvimento, fundamental para gerar riqueza, salvar o Estado social e criar emprego sustentado. \nE é com esta economia saudável e mais pujante que melhor se pode responder às questões suscitadas por esta interpelação do Bloco de Esquerda: desemprego, precariedade e alteração às leis laborais. \nSó com uma economia a funcionar normalmente se podem criar postos de trabalho, e só com muito emprego e baixos níveis de desemprego é que também se combate a precariedade no emprego. \nNão é com índices elevados de desemprego que legalmente se decreta a inexistência da precariedade — não, Srs. Deputados! É preciso que as empresas criem oportunidades de emprego; é preciso que a economia dê oportunidades para que os cidadãos tenham condições para se realizar profissionalmente; é necessário que haja emprego, porque as regras de mercado, elas próprias, vão impor a redução, simultaneamente, da precariedade no emprego. \nSr. Presidente, os portugueses esperam que o Governo, as forças políticas e os agentes económicos e sociais elejam, como sua primeira preocupação, ajudar a encontrar soluções para resgatar Portugal desta situação. \nOs portugueses querem sinais fortes, que lhes devolvam a esperança e a confiança, e não entenderiam que os seus representantes políticos nesta Casa, especialmente os três partidos que assinaram o Memorando de entendimento, optassem por uma postura confrontativa, em vez de um diálogo sério e construtivo. \nO Governo está a trabalhar nesse caminho, com coragem e sentido patriótico, e tem o apoio do Partido Social Democrata. \nAcreditamos que as restantes bancadas também estarão à altura da gravidade dos problemas com que Portugal se confronta, especialmente o principal partido da oposição.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado João Semedo.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "João Semedo", 
+   "text": "Sr. Presidente, Sr. Deputado Arménio Santos, ao longo da minha vida fui-me habituando a considerar que sindicalismo e fatalismo não conviviam bem um com o outro. Mas enganei-me: \npelo menos na sua pessoa, sindicalismo também é sinónimo de fatalismo!… O senhor veio aqui convertido, resignado a que tudo isto é uma inevitabilidade e que contra isso nada os trabalhadores podem fazer. \nNão disse, mas sugeriu: também está de acordo em que é uma inevitabilidade termos de empobrecer o País. Empobrecer os trabalhadores, seguramente para que eles não se habituem a viver acima das suas necessidades; empobrecer os desempregados, para que eles não tenham a mínima ilusão de podem viver acima das suas possibilidades; empobrecer os jovens que procuram o primeiro emprego, para que também eles não caiam na ilusão de viver acima das suas necessidades; empobrecer os trabalhadores da função pública, para que eles nem pensem em viver acima das suas necessidades!… É isto que um sindicalista — e Deputado também — tem para dizer aos trabalhadores!? \nSr. Deputado, gostava de fazer-lhe três perguntas muito concretas. O Sr. Deputado está de acordo em que se retirem os subsídios de Natal e de férias aos trabalhadores da Administração Pública? \nO Sr. Deputado está de acordo em que se crie emprego, facilitando os despedimentos? \nO Sr. Deputado está de acordo em que se crie emprego, deixando o País arrastar-se na depressão, na estagnação e na recessão económica? \nGostava de ouvir as suas respostas a estas perguntas. \nTermino fazendo uma sugestão, a si e aos seu grupo parlamentar: não desistam das operações _post-it_, não desistam de procurar ideias. Mas sugiro-lhes que substituam os _post-its_ por sapatilhas para que o Sr. Ministro da Economia tome balanço para encontrar soluções para o desemprego e para a promoção do crescimento e do desenvolvimento económico.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Arménio Santos.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "Sr. Presidente, Sr. Deputado João Semedo, agradeço-lhe as suas questões, mas, como perceberá, essas perguntas deveriam ser dirigidas aos responsáveis pela situação em que o País se encontra,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "… e o responsável não foi o Partido Social Democrata.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "É espantoso que V. Ex.ª esteja aqui a cobrar factura a um Governo que tomou posse há três, quatro meses e que está confrontado com a obrigação não só da situação que herdou no plano interno mas também do compromisso externo — aliás, o coordenador do seu partido, que não foi às reuniões com a dita troica, depois arrependeu-se, pelo que, se tivesse participado nessas negociações, provavelmente também teria subscrito o Memorando de entendimento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "Ehhh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "Mas, como dizia, o Governo actual está exactamente a tomar as medidas que a situação impõe que sejam tomadas, não apenas em termos internos mas também por razões de compromissos internacionais — e nós não podemos violar esses compromissos internacionais. \nDe resto, gostaríamos de saber: onde é que as políticas do Bloco de Esquerda nos levariam? Quais eram os índices de emprego a que as políticas do Bloco de Esquerda nos conduziriam? Quais eram os índices salariais a que nos conduziriam as políticas do Bloco de Esquerda? Onde é que existe um modelo de sociedade defendido pelo Bloco de Esquerda? E pergunto isto para podermos comparar se seria melhor do que aquele que temos. Qual é a sociedade que o Bloco de Esquerda defende? \nÉ porque ouvimos o Bloco de Esquerda falar com muita demagogia…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Demagogia?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "… porque sabe, de antemão, que não está confrontado com a obrigação de cumprir aquilo que promete, aquilo que defende, aquilo que diz nesta Casa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Isso é o PSD!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "É porque, Sr. Deputado, se V. Ex.ª dissesse aqui que tinham um determinado programa, que defendiam determinadas políticas, que essas políticas eram melhores por esta ou aquela razão e o fundamentassem, naturalmente teríamos outra postura em relação à sua posição. \nAgora, sabemos qual é tradicionalmente a vossa posição: quando há qualquer mudança nas leis laborais, o que acontece, Sr. Deputado? Há um discurso…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Tem de terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "Termino já, Sr. Presidente. \nComo dizia, há um discurso catastrofista da sua bancada e da bancada ao seu lado. Porém, a realidade, hoje, mostra que as profecias das vossas bancadas falham.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "As vossas ainda são piores!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "E tanto falharam que hoje estão aqui a defender aquelas desgraças que os Srs. Deputados defendem sempre, quando há qualquer alteração às leis do trabalho.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Tem de terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "Em suma, aquilo que defendemos, Sr. Deputado, é que há uma instituição chamada Conselho Permanente de Concertação Social, na qual confiamos. E o Governo e os parceiros sociais vão seguramente encontrar boas soluções para serem discutidas e aprovadas nesta Câmara.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Machado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: O Sr. Ministro acusa o PCP de «atirar» dinheiro para os problemas. Então, falemos lá de para quem é que se atira dinheiro e para que problemas, no nosso País. \nSabe quanto dinheiro PS, PSD e CDS atiraram para tapar o buraco do BPN? Foram 2300 milhões de euros! \nSabe que valor, em garantias bancárias, se propõem dar à banca? Mais de 6500 milhões de euros! \nSabe qual o valor do bolo global que a banca vai receber da dita ajuda externa? Mais de 12 000 milhões de euros! \nQuem é que atira dinheiro para os problemas? PS, PSD e CDS-PP!!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Sr. Ministro, para o PCP, mais salários, mais direitos e menos horário de trabalho, graças à evolução tecnológica que se registou, significaria mais progresso, mais emprego e mais crescimento! O Governo opta por atacar direitos, salários e aumentar o horário de trabalho e, com isso, vai trazer o retrocesso, a recessão económica, a injustiça e a dependência externa. \nO Sr. Ministro sabe muito bem que o problema da competitividade no nosso País não são os direitos dos trabalhadores. O Governo sabe muito bem que as sucessivas alterações à legislação laboral levaram a mais precariedade, a mais desemprego, a mais exploração e a mais injustiça. O Governo, deliberadamente, toma medidas no sentido de agravar a injustiça, atacar, roubar quem trabalha para dar aos grandes grupos económicos. É para esses que governa. Ao contrário do que defende a Constituição e do que deveria ser um projecto de transformação da sociedade, o Governo defende os interesses dos grandes grupos económicos!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Ora bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "É para esses que governa!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "O dinheiro não estica e, como diz o nosso povo, para dar aos mais ricos há que tirar e roubar a quem recebe dinheiro da sua reforma ou a quem vive do seu salário.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "É essa injustiça que importa aqui denunciar.\nEstamos assim, Sr. Ministro, face a um autêntico saque, a um roubo organizado ao País e ao nosso povo! \nO Sr. Ministro pode ter o apoio das bancadas do PS, do PSD e do CDS-PP, entusiasmados com as medidas que são anunciadas e promovidas pelo novo testamento, que é o acordo com a troica. No entanto, Sr. Ministro, mais cedo do que tarde, estas opções políticas, estas opções de direita, estes governos de direita que têm desgraçado o nosso País vão enfrentar o descontentamento do povo português e vão ter a resposta necessária que é, de uma vez por todas, libertarmo-nos destas opções e transformarmos a sociedade de forma a termos um País mais justo! \nAo contrário do que o Sr. Ministro quer fazer querer, ao contrário do que PS, PSD e CDS tentam reiteradamente induzir na sociedade portuguesa, existe no nosso País quem tenha um projecto diferente de transformação da sociedade…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "… que olhe para o mercado de trabalho e diga que são os trabalhadores que criam riqueza e que, por isso, têm de ser respeitados e que não temos de salvaguardar e apaparicar os interesses dos grandes grupos económicos. Esses já estão bem na vida. É preciso olhar para o povo, para os trabalhadores que passam dificuldades! \nO PCP tem esse projecto de transformação da sociedade e, mais cedo do que tarde, vamos criar um País mais justo e solidário!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Menezes.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Sr. Presidente, queria ter colocado perguntas a alguns partidos da esquerda, mas, infelizmente, já não dispõem de tempo que lhes permita responder. \nSrs. Deputados, este debate é sobre emprego, mas não há emprego sem economia ou empresas, tal como também não há economia sem trabalhadores. \nPor isso, apesar de muitos desvalorizarem, gostava de saudar o trabalho muito substancial que tem sido feito no Ministério da Economia nos últimos tempos, designadamente através do PREMAC, como o Sr. Ministro falou e bem. Tenho pena de que não gostem de ouvir que este Ministério está a dar o exemplo.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Vai, vai…!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Já reduziu mais de 25% nos institutos públicos, já reduziu 50% do pessoal que trabalha dentro do Ministério,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Claro! E quantos especialistas já contrataram?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "… vai acabar com 500 cargos dirigentes; criou a moratória no âmbito do PME Investe — se calhar, também não concordam, está a equacionar a flexibilização do nosso completamente obtuso código laboral,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Sim, é obtuso!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "Mas é vosso!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "É obtuso, sim!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Meneze", 
+   "text": "… que é um factor que nada promove a criação de emprego, e está a implementar medidas relacionadas com a produtividade, como a dos 30 minutos adicionais de trabalho diário ou ainda a questão dos feriados.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Machado", 
+   "text": "É roubo e exploração!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Outro exemplo é o Plano Estratégico dos Transportes, que em seis anos a bancada socialista não fez, mas que este Governo apresentou em menos de 100 dias. Trata-se de uma reforma estrutural num sector completamente falido, com mais de 17 000 milhões de euros de dívida. Este Plano Estratégico é a única forma de salvarmos o serviço público de transportes, dando-lhe sustentabilidade, que é uma palavra de que a esquerda não gosta muito…! \nApesar de tudo o que tem sido feito, não se pode «tapar o sol com a peneira», porque nenhum governante no mundo gostaria de apresentar um Orçamento como o que o Governo apresentou.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Estou «careca» de ouvir essa conversa!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Não é um Orçamento de vontade, mas de necessidade. Tenho pena de que o exibicionismo retórico de alguma esquerda mais radical — que a tem, aliás, acantonado, como se pode ver pelos resultados eleitorais que têm tido ultimamente — não se traduza em propostas construtivas, mas apenas em miríades de fantasias do que o mundo podia ser. \nGostaria de terminar fazendo uma referência ao Partido Socialista, porque, enquanto maior partido da oposição, tem uma posição muito relevante no que se vai passar. \nSabemos que assinou o Memorando da troica em Maio de 2011 e que a sua governação foi a responsável por chegarmos à situação a que chegámos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Não vá pelo mau caminho!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Nesse sentido, é muito grave que, à segunda, quarta e sexta-feira, o Partido Socialista diga que a probabilidade de aprovar o Orçamento é de 0,00001% e, à terça, quinta, sábado e domingo, já não saiba bem o seu sentido de voto no Orçamento. \nSrs. Deputados do Partido Socialista, os portugueses querem que o Partido Socialista esteja à altura das suas responsabilidades. Por isso, decidam-se e deixem-se de tibiezas no que é a vossa posição quanto ao sentido de voto no Orçamento do Estado!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Ministro da Economia e do Emprego.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Sr. Presidente, gostaria de responder a algumas das perguntas que me foram dirigidas pelo Deputado Miguel Laranjeiro. \nSobre a questão da TSU, é público que defendi, antes de ir para o Governo, a sua redução. É absolutamente importante perceber que a descida da TSU não aconteceu por uma simples razão: porque o buraco orçamental que nos foi legado é de tal modo elevado que não há margem orçamental para a fazer.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Sr. Ministro, assim não vai a lado nenhum!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Para o Governo, a descida da TSU deveria ter acontecido de forma a privilegiar alguns sectores, mas isso não nos foi possível fazer. \nPortanto, não houve descida da TSU, porque não nos deixaram margem orçamental e porque o buraco das contas públicas, que herdámos, é verdadeiramente colossal. \nEm segundo lugar, o Sr. Deputado disse que o País tinha a ganhar com a verdade. Não tenho dúvidas sobre isso. Aliás, se o PS e o anterior governo tivessem tido uma política de verdade, o País não teria chegado à situação que chegou. Essa é a realidade!", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Também perguntou se as medidas da baixa da TSU para desempregados de longa duração são para manter. Infelizmente os estudos mostram que o impacto desta medida é extremamente reduzido, mas é para manter. \nSobre o Fundo de Estabilização da Segurança Social, é verdade, o Governo está a equacionar a possibilidade de o utilizar para políticas activas de emprego.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Claro! À custa dos reformados e dos trabalhadores!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Considero, no entanto, inacreditável que o PS levante estas questões quando o anterior governo utilizou o Fundo de Estabilização da Segurança Social para comprar dívida pública com uma rentabilização muitíssimo negativa.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD e do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Portanto, Srs. Deputados, antes de perguntarem se o Fundo de Estabilização vai ser utilizado para criar emprego, lembrem-se de que é bem melhor criar empregos do que comprar dívida pública! \nEm relação à não simultaneidade, o PS esquece-se mais uma vez de que, supostamente, o Fundo era tão fácil de fazer que deveria ter sido feito uma semana após o acordo tripartido ter sido assinado. No entanto, passou-se Março, passou-se Abril, passou-se Maio, passou-se Junho, tomámos posse e, quando chegámos ao Governo, havia zero do Fundo.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Portanto, é muito fácil, retoricamente, falar de simultaneidade quando os senhores nada fizeram para cumprir o que assinaram no acordo tripartido de Março. \nFinalmente, considero que todas as afirmações feitas pelo PS demonstram inequivocamente que continua ausente da realidade e a considerar que não foi o principal responsável por termos chegado à situação actual, não é responsável pelo maior endividamento externo dos últimos 120 anos e não é responsável pelo maior endividamento público desde meados do século XIX. \nPortanto, era bom que o PS descesse à terra e percebesse, de uma vez por todas, os problemas que estão afectar Portugal.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Miguel Laranjeiro pediu a palavra. Para que efeito, Sr. Deputado?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Para uma interpelação à Mesa, Sr. Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Em que sentido? Sobre a condução dos trabalhos?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Também sobre a condução dos trabalhos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Sr. Presidente, gostaria de solicitar à Mesa que distribua a todas as bancadas e ao Sr. Ministro da Economia e do Emprego a Portaria n.º 1273/2004, referente ao Fundo de Estabilização Financeira da Segurança Social.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faremos a distribuição, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Permita-me apenas dizer que está…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado já fez a interpelação e, embora esteja publicado em _Diário da República_, vamos proceder à distribuição.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Só para terminar, gostaria de dizer que é uma portaria…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, não vai fazer uma intervenção.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "… que regula a composição do activo do Fundo e que foi assinada em 2004 — não sei se o Sr. Ministro estava em Portugal —…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "… pela então Sr.ª Ministra de Estado e das Finanças Manuela Ferreira Leite e pelo então Sr. Ministro da Segurança Social e do Trabalho António Bagão Félix.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, no escasso tempo de que dispõe, tem a palavra o Sr. Deputado Adão Silva.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Sr. Presidente, o Governo veio esta tarde aqui, ao Parlamento, dizer que está absolutamente compenetrado da relevância que tem a questão do emprego em Portugal.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Ouvimos aqui palavras de certeza e palavras de empenho para combater o desemprego em Portugal e para promover o emprego entre os portugueses. \nO desemprego é irmão gémeo da pobreza. Por isso, Sr. Ministro, ouvimos com gosto como V. Ex.ª está empenhado, como V. Ex.ª está afincado e como V. Ex.ª está determinado em encontrar todos os meios e soluções para combater o desemprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Ouvimos, nomeadamente, que é preciso falar verdade aos portugueses. Sim, é preciso falar verdade sobretudo depois de tempos em que não se falou verdade aos portugueses.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD e do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "É preciso promover uma lógica de concertação. Por isso, convido todos os Srs. Deputados a que, em vez da retórica de confrontação, nos empenhemos numa retórica de cooperação. Isso é essencial!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Devemos empenhar-nos numa retórica de cooperação, porque a retórica de confrontação não serve para mais nada.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Lamentamos profundamente que o Partido Socialista tenha vindo aqui enjeitar responsabilidades, como se nada se lhe devesse. É preciso dizer uma coisa relevante: a variável desemprego é diferida, isto é, os senhores criaram um conjunto de malfeitorias ao País há uns anos e agora este Governo está a arcar com as responsabilidades da vossa inconsciência e da vossa incapacidade. \nPor isso, Sr. Ministro, V. Ex.ª está no caminho certo! V. Ex.ª tem um empenho e uma dedicação que quero sublinhar e terá desta bancada a solidariedade que é precisa neste momento de grande combate e de grande denodo que Portugal e os portugueses exigem.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, não havendo mais inscrições, vamos passar à fase de encerramento. \nPara uma intervenção, tem a palavra o Sr. Deputado Luís Fazenda.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados, Sr. Ministro da Economia e do Emprego: O Bloco de Esquerda não pretende fulanizar esta discussão, que é de actualidade, de enorme urgência e de grande importância para a maioria do povo português. \nNo entanto, o Sr. Ministro da Economia e do Emprego, dir-se-á, «põe-se a jeito»… Mandou-nos «estudar a economia». Gostaria que tivesse um pouco mais de humildade democrática para reconhecer que, entre muitas das coisas que escreveu, que elaborou, seguramente com muito esforço intelectual, e aquela que é a realidade da sua gestão há muitas discrepâncias, e a TSU não é a única. \nPortanto, nisto, acho que um pouco de cautela, de presunção diminuída, de água benta suficiente da democracia não faria mal a ninguém, incluindo ao Sr. Ministro da Economia e do Emprego. \nÉ que a questão da TSU não é apenas uma opinião intelectual do Sr. Ministro, foi uma proposta política do partido maioritário, foi uma proposta do então candidato a Primeiro-Ministro, estava absolutamente estudada, sabia-se tudo, era a ferramenta da competitividade e foi passada à troica e às instituições internacionais como aquilo que iria ser o ariete do desenvolvimento económico. \nOra, isso faliu completamente e sabia-se, à partida, que essa medida iria descapitalizar a segurança social e não teria efeitos significativos do ponto de vista da produtividade. \nPortanto, aquilo que, em desespero de causa, o Sr. Ministro e o Governo no seu conjunto — responsabilidade primeira do Sr. Primeiro-Ministro —, entenderam fazer foi transformar a TSU num aumento do horário de trabalho para os trabalhadores portugueses. E como era difícil dizer aos trabalhadores portugueses que «praticamente vão ficar sem férias, porque vamos tirar 16 dias, somando o acréscimo de meia hora por dia, e ainda vamos cortar quatro feriados, o que dá 20 dias» — estamos quase no limite das férias —, como isso, provavelmente, originaria uma explosão social, optou-se, então, pela via inversa. Mas cá estamos… Trata-se de «ver o copo de um lado ou do outro», Srs. Deputados da direita. Na verdade, o que se fez foi cortar os subsídios aos funcionários da Administração Pública e aos pensionistas e, em relação aos trabalhadores do sector privado, anulou-se, na prática, a quase totalidade do período de férias. \nDisse aqui, hoje, o Sr. Ministro, e nós registámos, que isso durará pelo tempo do plano de resgate. \nVerificaremos se assim será, porque a tendência em Portugal, particularmente da parte dos partidos mais à direita, dos partidos conservadores, é transformar o provisório em definitivo, ou seja, aquilo que é, por embuste, uma excepção por natureza temporária passar a ser integrado numa política permanente. Não o permitiremos, Sr. Ministro da Economia e do Emprego. \nO Sr. Ministro referiu hoje, aqui, na sua intervenção — e disse-o assim, sem estados de alma, sem qualquer repulsa —, a retoma, a retoma, a retoma… Mas o que constatamos nas previsões macroeconómicas é um ano de recessão muito acima, infelizmente, do que está previsto como taxa de crescimento negativa, muito para além dos quatro pontos, calculamos nós, e veremos se nos enganamos no final do exercício. Mas não há ali retoma nenhuma. \nO Sr. Ministro diz-nos «querem deitar dinheiro para cima dos problemas». Já aqui foi referido que este Governo aumenta extraordinariamente, em relação ao seu antecessor, as garantias, os compromissos do Estado em relação ao BPN, esse caso extraordinário desse buraco sem fundo que é o Banco Português de Negócios. \nÉ este Governo que deita dinheiro para o buraco da Madeira, não é o Bloco de Esquerda. O Bloco de Esquerda, durante anos, defendeu uma posição contrária sobre o processo do BPN, há anos sem fim que pedimos auditorias sobre a Madeira, fomos o único partido que aqui propôs a renegociação de todas as parcerias público-privadas, propusemos o orçamento de base zero e propusemos o combate ao desperdício e ao endividamento excessivo do Estado. Com certeza! Porquê? Porque nós queremos privilegiar o investimento público, não queremos privilegiar a promiscuidade e a traficância dos dinheiros públicos a favor de interesses privados, como se verificou. \nO Sr. Ministro da Economia e do Emprego veio aqui dizer que a responsabilidade é toda do Partido Socialista. Lamento, mas, de há muitos anos a esta parte, a responsabilidade é dividida.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Esse caminho do endividamento, esse caminho das parcerias público-privadas, esse caminho de não acautelar questões essenciais do ponto de vista da consolidação das finanças públicas foi um caminho partilhado pelo PSD e pelo PS. Não recai exclusivamente no PS, é uma opção do bloco central, e que agora chegou ao fim da pior maneira possível. \nO PS esteve no Governo e prosseguiu a mesma política e o PSD quando esteve fora do Governo viabilizou orçamentos do Estado atrás de orçamentos do Estado, programas de estabilidade e crescimento atrás de programas de estabilidade e crescimento… É escusado vir aqui — pode poupar-nos a isso — fazer um exercício de «passa culpas» entre as duas bancadas, porque, na verdade, elas têm um património em comum sobre o endividamento excessivo da República e do País. \nPela nossa parte, entendemos que há uma agenda oculta do Governo. A nosso ver, não é apenas aquilo que está no Memorando da troica que é errado do ponto de vista da perspectiva macroeconómica, independentemente dos condicionamentos políticos; é que há aqui um ajuste de contas com o factor trabalho. \nE a ideia é, não só do ponto de vista do revanchismo social, alterar as relações de trabalho de uma forma drástica a favor do patronato, a favor do capital, mas é um pouco mais do que isso: é pensar, é ter a ilusão de que, pelo choque salarial, pelo choque sobre o consumo, por dizer «vamos empobrecer para melhorar» se vai atrair capital estrangeiro. \nTenho más notícias para si, Sr. Ministro: não há nada no horizonte acerca disso. Ou seja, o Sr. Ministro e o seu Governo não têm nada, do ponto de vista do crescimento económico, para daqui a dois ou três anos. \nA nossa alternativa é realmente outra: pensamos que é necessário reestruturar a dívida interna e externa, é necessário um conjunto de medidas que nos possam levar a promover, em tempo útil, alguma quota de investimento público reprodutivo que possa animar o investimento privado, porque se não vem esse capital estrangeiro não haverá emprego e vamos chegar a 1 milhão ou 1 milhão e meio de desempregados neste País. \nNão nos venham dizer que a esquerda é retórica. A esquerda tem soluções, a esquerda tem posições claras, os senhores é que estão todos comprometidos com este plano de ruína a que trouxeram o País. \nSr. Ministro da Economia e do Emprego, com o devido respeito, estaremos aqui sempre em condições de verticalidade política para discutir opções, não exactamente para discutir este ou aquele rompante, esta ou aquela ideia, mais ou menos hoje pouco credível, bastante incredível até, de que se reinventa um país em seis meses. \nPoderá fazer uma desforra político-ideológica, mas esse é o pior cenário que o partido do Governo pode apresentar ao País e é o pior cenário para os portugueses e para as portuguesas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, no âmbito do encerramento desta interpelação ao Governo, tem a palavra o Sr. Ministro da Economia e do Emprego.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Sr. Presidente, Srs. Deputados: O Governo veio aqui a esta Casa afirmar, mais uma vez, que uma política de crescimento, de competitividade e de emprego passa, essencialmente, por quatro pilares.\nEm primeiro lugar, a consolidação das contas públicas é essencial, a descida do endividamento externo e interno é crucial para o futuro do País. Se não conseguirmos baixar o endividamento público é impossível conseguirmos esperar que o crescimento económico possa acelerar. \nMas, para além disso, e porque há, certamente, vida para além da austeridade, é preciso investir. E o que o Governo tem feito tem sido agilizar vários projectos de investimento,…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Resmas!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "…, trabalhar para diminuir os licenciamentos, trabalhar para simplificar o Código Comercial, trabalhar para tornar Portugal num país amigo do investimento.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Portugal e este Governo têm um verdadeiro desígnio pela frente. Esse desígnio chama-se exportações. \nPortugal, nos últimos anos, investiu em sectores de rentabilidade duvidosa, com pouca concorrência, pouco abertos ao exterior e, por isso mesmo, o que é preciso fazer é redireccionar a economia portuguesa para as exportações. Aliás, se olharmos para a economia portuguesa não é difícil concluir que, neste momento, está bastante dual. É verdade que o consumo está a baixar, é verdade que o consumo público está a baixar devido ao elevado nível de endividamento,…", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "O investimento é que conduziu ao endividamento?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… no entanto temos as exportações a crescerem a ritmos notáveis, o que mostra que, mesmo com moeda forte, mesmo com todos os problemas, mesmo com um elevado nível de endividamento e com a crise grave que temos em mãos, os nossos empresários, as nossas empresas estão a tornar-se cada vez mais competitivas, cada vez mais concorrenciais nos mercados externos e, por isso mesmo, dão-nos a esperança e a certeza que vamos sair desta crise. E a saída desta crise passa, certamente, pelas exportações. \nMas, para além do mais, é preciso também reestruturar, é preciso abandonar o modelo económico irrealista dos últimos anos, é preciso deixar a quimera e a receita mágica do investimento público, que nos conduziu ao maior endividamento público das últimas décadas,…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "O investimento tem vindo a baixar desde há 10 anos!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… e é preciso ajudar as empresas a reestruturarem-se. \nO que é que nós, nomeadamente o meu Ministério, já fizemos nos últimos meses? \nDesde o primeiro dia, estivemos a trabalhar na alteração das leis laborais; estivemos a trabalhar na lei das comunicações móveis; estivemos a trabalhar — já o apresentámos — no plano estratégico dos transportes, que vai dar azo não só à maior reestruturação do sector público dos transportes das últimas décadas, mas que vai também acabar com os modelos irrealistas de alto endividamento da Estradas de Portugal; vamos apostar na ferrovia de bitola europeia, que vai aumentar a competitividade das nossas exportações; vamos apostar nos portos nacionais, que têm um potencial que não tem sido devidamente aproveitado; e vamos também apostar numa melhor governança para o sector público empresarial. \nPara além disto, também já demos início à reforma do capital de risco público, que vai ser a maior reforma de capital de risco já feita nas últimas décadas; conseguimos evitar que as tarifas da electricidade subissem 30% em 2012 para os consumidores…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Catarina Martins", 
+   "text": "22%", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… e 55% para a indústria, indo as tarifas aumentar simplesmente 4% quando poderiam ter aumentado 30%. \nAvançámos também com a renovação extraordinária dos contratos a termo, que irá permitir que milhares de pessoas que estão empregadas consigam salvaguardar os seus empregos; conseguimos negociar o prolongamento das linhas PME Investe; fizemos, em 15 dias, a reprogramação técnica do QREN, que vai permitir diminuir a contrapartida nacional e uma injecção de 372 milhões de euros adicionais na economia nacional; e estamos a efectuar a reprogramação técnica do QREN, que está virada para as empresas, para as populações e que está virada para simplificar o QREN, que, neste momento, está demasiado complicado. \nHá duas semanas, assinámos a introdução do Fundo JESSICA em Portugal, de 130 milhões de euros, que irá alavancar cerca de 1000 milhões de euros dedicados à regeneração urbana e à requalificação dos centros das cidades. \nLembro também que fizemos não só o PREMAC e demos azo a uma redução substancial de dirigentes, na ordem dos 500 dirigentes só no meu Ministério; temos apostado muito do nosso tempo e do nosso empenho na concertação social; vamos levar a cabo a já também anunciada reestruturação dos centros de emprego; fizemos a actualização tarifária dos transportes; promovemos o plano extrajudicial de conciliação e a nova lei da concorrência; apostámos na bitola europeia e nos portos; cancelámos projectos quiméricos e faraónicos, como o TGV;…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Risos do PCP e do BE.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… cancelámos projectos quiméricos e faraónicos como o novo aeroporto;…", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… racionalizámos o número de feriados e pontes em Portugal;…", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Já?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… agilizámos investimentos no sector mineiro; agilizámos os investimentos da EasyJet e do Alqueva; e temos um programa de empreendedorismo e inovação que será apresentado nesta Câmara muito em breve. \nAcima de tudo, Srs. Deputados, temos uma nova política de competitividade, que não é baseada em receitas mágicas do investimento público sustentado no endividamento do sector privado, mas, sim, baseada numa economia mais aberta, mais concorrencial e mais competitiva. \nAcima de tudo, acho que, neste momento de crise, temos de perceber que é preciso uma nova atitude.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Queria terminar, Sr. Ministro.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "Termino já, Sr. Presidente. \nAcima de tudo, é importante pormos de lado as nossas diferenças, é importante trabalharmos em conjunto — é isso que temos feito na concertação social —, é importante trabalharmos em equipa em prol do superior interesse nacional. \nE neste momento de grande crise, neste momento de emergência nacional, não adianta termos a atitude do contra, de oposicionista, de catastrofista. É muito melhor para o País se todos trabalharmos em conjunto,…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Isso deve ser um recado para a bancada do PSD!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministro da Economia e do Emprego", 
+   "speaker": "Álvaro Santos Pereira", 
+   "text": "… em equipa, para que consigamos que Portugal saia desta crise e que a economia recupere o mais brevemente possível.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, chegámos ao fim dos nossos trabalhos de hoje.\nInformo os Srs. Deputados que reuniremos amanhã, às 15 horas, com a seguinte ordem do dia: discussão, na generalidade, da proposta de lei n.º 26/XII (1.ª) — Procede à segunda alteração à Lei do Orçamento do Estado para 2011, aprovada pela Lei n.º 55-A/2010, de 31 de Dezembro. \nSrs. Deputados, estão encerrados os nossos trabalhos.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Eram 17 horas e 40 minutos.", 
+   "type": "hora"
+  }
+ ], 
+ "president": "", 
+ "secretaries": [], 
+ "session-date": "26-10-2011", 
+ "time_end": null, 
+ "time_start": null
+}

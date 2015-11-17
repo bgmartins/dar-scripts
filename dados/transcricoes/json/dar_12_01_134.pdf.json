@@ -1,0 +1,1930 @@
+{
+ "entries": [
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, Srs. Jornalistas, está aberta a sessão.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Eram 10 horas e 7 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Peço que sejam abertas as galerias, por favor. \nAntes de iniciarmos a ordem do dia, vou dar a palavra ao Sr. Secretário para dar conta do expediente.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidas, as seguintes iniciativas legislativas: projeto de lei n.º 267/XII (1.ª) — Estabelece um regime de suficiência do formato digital para entrega de trabalhos, teses e dissertações (PCP), que baixa à 8.ª Comissão; projetos de resolução n.os 421/XII (1.ª) — Pagar os subsídios aos trabalhadores, reformados e pensionistas (PCP), que baixou à 5.ª Comissão, 422/XII (1.ª) — Determina a tomada de medidas que garantam a manutenção dos projetos das ONG financiados pelo QREN e estabelece medidas de participação democrática na gestão dos projetos (PCP), que baixa à 6.ª Comissão, 423/XII (1.ª) — Cessação de vigência do Decreto-Lei n.º 139/2012, de 5 de julho, que estabelece os princípios orientadores da organização e da gestão dos currículos, da avaliação dos conhecimentos e capacidades a adquirir e a desenvolver pelos alunos dos ensinos básico e secundário (PCP), que baixa à 8.ª Comissão, e 425/XII (1.ª) — Recomenda ao Governo a adoção das medidas necessárias ao reconhecimento da isenção de imposto municipal sobre imóveis (IMI) aos prédios sitos no Centro Histórico de Évora (PSD, PS, CDS-PP, PCP e BE), que baixa à 5.ª Comissão; e, por fim, proposta de resolução n.º 42/XII (1.ª) — Aprova o Acordo Intercalar para um Acordo de Parceria Económica entre a Comunidade Europeia e os seus Estados-membros, por um lado, e a Parte África Central, por outro, assinado em Iaundé, em 15 de janeiro de 2009, e em Bruxelas, em 22 de janeiro de 2009. \nEm termos de expediente, é tudo, Sr.ª Presidente.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Muito obrigada, Sr. Secretário. \nSrs. Deputados, entramos na ordem do dia, que se inicia com a apreciação conjunta dos projetos de resolução n.os 417/XII (1.ª) — Recomenda ao Governo medidas de revitalização do emprego (PSD), 418/XII (1.ª) — Recomenda ao Governo que tome medidas de valorização da família que facilitem a conciliação entre a vida familiar e a vida profissional (PSD) e 419/XII (1.ª) — Recomenda ao Governo a criação de um programa de formação profissional de apoio ao emprego nos sectores da hotelaria, restauração e turismo na região do Algarve (PSD). \nPara abrir o debate, tem a palavra a Sr.ª Deputada Maria das Mercês Soares, do PSD.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria das Mercês Soares", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: O desemprego é o principal problema que os portugueses enfrentam; o desemprego gera incerteza, desânimo e sofrimento nas pessoas; o desemprego mina a esperança no futuro; o desemprego põe em causa a sustentabilidade do Estado social. Perante a dimensão do problema, impõe-se enfrentá-lo com verdade e forte determinação.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não é o caso do PSD!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria das Mercês Soares", 
+   "text": "O Grupo Parlamentar do PSD, ao apresentar hoje o projeto de resolução n.º 417/XII (1.ª), pretende contribuir com propostas concretas para resolver o problema do desemprego, mas em particular o dos desempregados de longa e muito longa duração com 45 ou mais anos. \nPortugal enfrenta uma forte crise económica e social agravada por uma crise internacional, o que obriga a um esforço redobrado para que a economia cresça e crie empregos. Os últimos dados estatísticos referentes ao 1.º trimestre, publicados pelo Instituto Nacional de Estatística, revelam que existem 819 300 portugueses desempregados. Não dissimulamos os números do desemprego; não escondemos a verdade aos portugueses.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria das Mercês Soares", 
+   "text": "São números que devem preocupar os responsáveis políticos e mobilizar toda a sociedade num propósito de resolver a situação existente. \nAnos de opções erradas dos anteriores Governos do PS levaram Portugal a uma situação de pré-falência e a ter que se sujeitar a um programa de ajustamento, que se obrigou a cumprir. E o atual Governo está a cumpri-lo com empenho e com determinação, sendo de sublinhar o estoicismo e a serenidade com que os portugueses estão a corresponder a este desafio!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria das Mercês Soares", 
+   "text": "Enaltecemos a forma como o Governo, pese embora as enormes dificuldades com que se confronta, assumiu, desde o início, o combate ao desemprego. \nA saber: revelou uma forte abertura ao diálogo, acordou com os parceiros sociais um Compromisso para o Crescimento, Competitividade e Emprego; negociou com a Comissão Europeia o cofinanciamento dos recursos do QREN; procedeu à reforma da legislação laboral com o objetivo de facilitar a criação de emprego; aprovou e implementou um conjunto de medidas ativas de emprego e formação profissional, com a finalidade de combater o desemprego e facilitar a integração ou reintegração profissional das pessoas que se encontram desempregadas, nomeadamente, a Medida Estímulo 2012, o Programa Vida Ativa, o Programa Impulso Jovem (só neste último, tentar-se-á abranger cerca de 90 000 jovens), e a Medida Incentivo à Aceitação de Ofertas de Emprego, que permite a acumulação do subsídio de desemprego com remuneração de trabalho; assegurou aos casais em que ambos os cônjuges estão desempregados a majoração do apoio financeiro das prestações de proteção no desemprego; está a produzir leis mais amigáveis do investimento e facilitadoras da criação de emprego; e já aprovou um conjunto de medidas de financiamento às empresas. \nO Governo está a agir e a adotar as medidas necessárias! \nSr.ª Presidente, Sr.as e Srs. Deputados: Estamos conscientes de que todas as situações de desemprego são preocupantes, mas a situação do desemprego que se verifica nos trabalhadores com mais de 45 anos é certamente das mais preocupantes. Esta é uma população maioritariamente com qualificações inadequadas ou insuficientes, com tendência a cair no desemprego, a tornar-se desempregada de longa ou de muita longa duração. Acresce que a população incluída nesta faixa etária tende a assumir diversos encargos sociais, económicos e familiares que têm de ser, tanto quanto possível, salvaguardados. \nPerante as dificuldades de reintegração no mercado de trabalho dos desempregados com mais de 45 anos e com o objetivo de contribuir para o ajustamento e a melhoria das medidas de combate ao desemprego, recomendamos ao Governo, entre outras medidas, que: \nProssiga o caminho da definição e implementação de medidas ativas de emprego e de qualificação profissional por grupos-alvo, dando agora especial atenção aos trabalhadores desempregados e de longa duração com 45 e mais anos, para facilitar a sua integração no mercado de trabalho; Defina, em articulação com os parceiros sociais, medidas a implementar que visem a qualificação escolar e profissional de trabalhadores desempregados de longa e de muito longa duração com baixa escolaridade e sem qualificação profissional adequada; \nPromova a articulação de incentivos à inovação e à competitividade das empresas, estimulando setores económicos em crescimento, com incentivos à empregabilidade, nomeadamente dos desempregados com 45 e mais anos; \nProceda ao ajustamento da frequência de programas de qualificação/requalificação, quando esta medida se revele adequada para casais em situação de desemprego, considerando sempre a necessidade que estes terão de conciliar aquelas atividades com a vida familiar. \nA dimensão do problema do desemprego é preocupante, pois por detrás de cada desempregado está um drama pessoal e familiar que respeitamos e tudo faremos para ajudar a ultrapassar o momento difícil que enfrentam. Mas estou convicta de que, com determinação, vamos ser capazes de ultrapassar o enorme problema do desemprego e construir um futuro melhor para todos os portugueses.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Inscreveram-se, para pedir esclarecimentos à Sr.ª Deputada Maria das Mercês Soares, a Sr.ª Deputada Rita Rato e o Sr. Deputado José Luís Ferreira, respetivamente, do PCP e de Os Verdes. \nA Sr.ª Deputada indicou à Mesa que responderá conjuntamente aos pedidos de esclarecimento. \nTem a palavra, em primeiro lugar, a Sr.ª Deputada Rita Rato.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Sr.ª Presidente, Sr.ª Deputada Maria das Mercês Soares, ainda nem dois meses passaram desde a aprovação, na Assembleia da República, das alterações ao Código do Trabalho, com o apoio do PSD, do CDS e também do PS, e o PSD resolve apresentar um projeto de resolução que aborda questões relativas à conciliação entre a vida profissional e a vida familiar. \nO PSD apresenta este projeto e, desculpe que lhe diga, Sr.ª Deputada, mas é preciso uma certa «lata». \nDecorridos cerca de dois meses do aumento do horário de trabalho às mulheres e aos homens, mas sobretudo às mulheres, pois no nosso País são elas, na sua grande maioria, que têm que articular a vida profissional, a vida familiar e a vida pessoal, deixe-me que lhe diga que é preciso uma certa «lata» para apresentar um projeto que é, no mínimo, irrisório. \nDepois de roubarem três dias de férias; depois de roubarem quatro feriados; depois de imporem mais trabalho por menos salários; depois de imporem o alargamento do horário de trabalho contra a vontade do próprio trabalhador, a Sr.ª Deputada vem falar-nos aqui de articulação? Mas quem é que consegue articular a vida pessoal e a vida profissional quando trabalha 12 horas por dia e perde, pelo menos, 2 horas nos transportes?! \nQuando os senhores e o seu Governo cortam carreiras e encerram linhas ferroviárias, quando os trabalhadores não têm ao seu dispor os meios de transporte necessários para chegarem ao trabalho, como é que a Sr.ª Deputada entende que se pode conciliar a vida profissional e a vida familiar?! \nSr.ª Deputada, desculpe que lhe diga mas a franqueza a isto obriga: é, no mínimo, um grande descaramento o PSD apresentar aqui um conjunto de alterações dizendo-se preocupado com as questões da natalidade, quando é este Governo que pretende cortar no subsídio de maternidade. E as mulheres descontam para ter acesso a esse subsídio, que é um direito que foi conquistado com o 25 de Abril! \nPortanto, entendemos que esta discussão tem que ser feita mas com seriedade, e as propostas que o PSD aqui traz, infelizmente, não são sérias, pelo que o PCP não pode acompanhá-las.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Informo a Sr.ª Deputada Maria das Mercês Soares e a Câmara que se encontravam inscritos, para pedir esclarecimentos, mais dois Srs. Deputados. São eles: a Sr.ª Deputada Helena André, do PS, e o Sr. Deputado Artur Rêgo, do CDS-PP. \nPortanto, há quatro pedidos de esclarecimento. A Sr.ª Deputada pretende ainda responder em conjunto?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria das Mercês Soares", 
+   "text": "Sim, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Assim sendo, para pedir esclarecimentos, tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr.ª Presidente, Sr.ª Deputada Maria das Mercês Soares, o PSD agendou para hoje a apreciação de três projetos de resolução sobre matéria laboral: um, que visa a criação de um programa de formação profissional de apoio ao emprego nos setores da hotelaria, restauração e turismo no Algarve; e os outros dois, de caráter mais geral, sobre medidas de revitalização do emprego e sobre a conciliação entre a vida familiar e a vida profissional. \nE nós, de facto, temos muitos motivos para estranhar os objetivos destas iniciativas. É que o PSD ainda há pouco tempo se opôs ao fim da cobrança das portagens na Via do Infante e agora vem manifestar preocupação com a situação do turismo na região do Algarve; e, depois, aprovou alterações às legislação laboral que vêm estimular os despedimentos e torná-los mais baratos, com a redução do valor das indemnizações em caso de despedimento, e agora pretende recomendar ao Governo que tome medidas de revitalização do emprego. \nEsta iniciativa do PSD vem demonstrar, afinal, que já nem o PSD acredita no Ministro da Economia e do Emprego, que considera as medidas do Governo suficientes. É sempre bom saber que, mesmo assim, o PSD considera que as medidas do Governo são insuficientes e que são necessárias medidas adicionais. É sempre bom sabê-lo! \nPor fim, o PSD, depois de ter aprovado as alterações ao Código do Trabalho, que vêm eliminar feriados, roubando, assim, quatro dias às pessoas que podiam passá-los no conforto da família e que vão começar a passá-los a trabalhar, que vêm alargar a aplicação do banco de horas, com tudo o que isso representa para a desestabilização familiar, já para não falar das regras de mobilidade que o Governo PSD/CDS quer impor e que vêm complicar muito a vida das famílias, o PSD, repito, apresenta uma iniciativa para a conciliação da vida profissional com a vida familiar. Não sei se isso é arrependimento, se é um ataque de consciência… Mas que parece, parece, Sr.ª Deputada! \nSr.ª Deputada Maria das Mercês Soares, gostaria que me explicasse o seguinte: ao apresentar uma iniciativa para que o Governo tome medidas com vista à revitalização do emprego, está ou não o PSD a reconhecer que as medidas do Governo são insuficientes? Se a Sr.ª Deputada nos disser que as medidas do Governo são suficientes, então, fica mais difícil a explicação, porque é preciso explicar o sentido útil desta iniciativa legislativa do PSD. É porque de duas, uma: ou as medidas do Governo são insuficientes para revitalizar o emprego e, nesse caso, o projeto do PSD faz todo o sentido, ou, se as medidas do Governo são suficientes, o projeto de resolução do PSD carece de sentido útil, foge-lhe o sentido útil. \nGostaríamos de saber, nesse caso, qual é a utilidade desta iniciativa legislativa.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra a Sr.a Deputada Helena André, do PS.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Helena André", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, eu tenderia a estar de acordo com a Sr.ª Deputada Maria das Mercês Soares. É verdade que o desemprego é um verdadeiro drama económico e um verdadeiro drama social. Tem impactos múltiplos, tem impactos devastadores a nível individual, pela perca de qualificações e pela incapacidade de estar no mercado de trabalho, pela perca da autoestima mas, sobretudo, pela redução do nível de vida que estar desempregado implica. Mas tem também consequências a nível coletivo. Tem consequências a nível dos territórios e das localidades e tem consequências a nível do nosso sistema de segurança social. \nPor isso, quando, há um ano, o Governo apresentou o seu Programa Eleitoral, dizia aos portugueses que tinha soluções completamente estudadas para tudo e para todos e que estas questões iriam ser resolvidas rapidamente. \nÉ verdade que, depois das eleições e quando o Governo tomou posse, parou praticamente todos os programas que existiam de apoio aos desempregados, de apoio aos jovens e, ao mesmo tempo também, demorou um ano para reprogramar o QREN, que é o instrumento fundamental para apoiar a economia e as pessoas. Ao fim de um ano, o PSD diz-nos, na sua resolução, que o Governo ainda está a estudar medidas ou que apresentou um programa. \nÉ verdade que qualquer programa que seja apresentado é um programa bem-vindo, mas, na realidade, temos de constatar que este programa é pouco inovador relativamente às medidas que existiam no terreno há um ano e, portanto, não compreendemos como é que durante um ano não apoiámos a economia e as pessoas.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Helena André", 
+   "text": "Também me parece que nesse programa existem matérias que foram esquecidas e o PSD, justamente, diz ao Governo que ele apresentou estas medidas mas esqueceu a elaboração de um plano estrutural, enquadrador das medidas — uma recomendação importante. \nTambém gostava de ter visto o PSD recomendar ao Governo, na sua resolução, que neste programa enquadrador retomasse o apoio ao desenvolvimento das qualificações dos portugueses, porque isso é fundamental, individual e coletivamente; que recomendasse o reconhecimento das competências dos", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Helena André", 
+   "text": "trabalhadores ativos e inativos, já que desmantelou o Programa Novas Oportunidades e ainda não vimos nada em sua substituição; que estimulasse o apoio à investigação e ao desenvolvimento; que estimulasse o apoio direcionado a setores geradores de emprego; e que estimulasse medidas de apoio ao crescimento económico, porque o problema que temos, hoje, em Portugal na nossa economia é a incapacidade em mantermos os empregos existentes e criarmos novos empregos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr.ª Deputada.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Helena André", 
+   "text": "Termino já Sr.ª Presidente. \nE nesse campo as medidas são silenciosas. É porque falta crescimento económico e, para haver crescimento económico, Sr.ª Deputada, tem que haver um novo rumo para a austeridade. \nPor isso, a questão que lhe coloco, simples, é esta: quando é que o Governo e os partidos da maioria que o apoiam param — param para pensar, param para avaliar o impacto na vida das pessoas e na economia sobre o seu programa de austeridade e apresentam um verdadeiro programa integrado de revitalização da economia e do emprego? \nÉ que, Sr.ª Deputada, o estoicismo, a resiliência e a serenidade dos portugueses, que invocam na vossa resolução, tem limites.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputada. Já despendeu o dobro do tempo de que dispunha.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Helena André", 
+   "text": "Por isso, é preciso evitar que o Governo se surpreenda, tal como aconteceu com o aumento do desemprego, ao ver que as reações dos portugueses serão, no futuro, menos serenas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, em nome do CDS-PP, vou dar a palavra não ao Sr. Deputado Artur Rêgo mas ao Sr. Deputado Raúl de Almeida. \nSr. Deputado, tem a palavra.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Raúl de Almeida", 
+   "text": "Sr.ª Presidente, Sr.as Deputadas e Srs. Deputados, a qualificação real dos portugueses deve constituir uma prioridade política, tal como o deve a elevação da qualidade das formações e da certificação de capacidades dos formandos. \nNo contexto atual e económico e num mundo mais global, como o nosso, o investimento na qualificação real dos adultos é determinante. Mais ainda o é, se tivermos em conta que Portugal se confronta com mudanças estruturais na sua atividade económica, por um lado, e com níveis elevados de desemprego, por outro.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Raúl de Almeida", 
+   "text": "Todos concordamos que a qualificação é importante e que aumenta a probabilidade de o indivíduo estar empregado e, por isso, todos concordamos que é importante reforçar os mecanismos de formação e certificação de competências da população portuguesa. \nMas dizê-lo, não basta: precisamos de saber olhar para o passado e aprender com os erros que foram cometidos; temos de saber distinguir «qualificação» de «certificação», distinguir «ensinar» de «oferecer uma certificação» — trata-se de uma distinção importante de fazer, hoje, porque nem sempre, no passado, foi feita. \nTodos nos lembramos do passado, quando o Governo do Partido Socialista prometeu qualificar os portugueses com baixas qualificações, mas investiu, sobretudo, numa certificação vazia e inconsequente.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Essa é que é a verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Raúl de Almeida", 
+   "text": "Ofereceu a quem se inscrevia no Novas Oportunidades uma «via rápida» — eu diria uma «autoestrada» — para a certificação.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Era a chamada «formação a metro»!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Raúl de Almeida", 
+   "text": "E foi assim que, entre 2005 e 2011, 409 000 portugueses viram as suas competências certificadas na iniciativa Novas Oportunidades. \nA incapacidade socialista de fazer esta simples distinção trouxe consequências gravíssimas aos portugueses. Os resultados estão, aliás, à vista: certificou-se muito, mas ensinou-se pouco.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Era uma «formação a metro»!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Raúl de Almeida", 
+   "text": "E o impacto na empregabilidade foi praticamente nulo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "A determinada altura era quase «formação a quilómetro»!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Raúl de Almeida", 
+   "text": "Através de uma avaliação da iniciativa Novas Oportunidades, encomendada ao Instituto Superior Técnico e recentemente publicada, sabemos duas coisas, tão importantes quanto graves: o impacto na empregabilidade foi nulo; o impacto na melhoria de remunerações foi nulo. Ou seja, esse estudo veio confirmar aqueles que, há muito tempo, eram os receios do CDS-PP.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "E bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Raúl de Almeida", 
+   "text": "Confirmou-se que a certificação foi mais importante do que a qualificação e que foi nessa opção estratégica dos socialistas que se gastaram quase 2000 milhões de euros.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Altino Bessa", 
+   "text": "Quase 2000 milhões de euros!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Raúl de Almeida", 
+   "text": "Desperdiçaram-se recursos e venderam-se ilusões. Isto tem de acabar! E com este Governo, esse alheamento certamente acabará. \nNesse sentido, Sr.ª Deputada, dada a importância da matéria em causa, pedia que detalhasse, que explanasse, concretizando, o plano que propõem para esta grande causa, que é a qualificação dos portugueses, melhorando a sua aptidão para um mais fácil acesso ao mercado de trabalho, melhorando a sua competitividade e a competitividade do País, tão necessárias ao nosso progresso económico.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra a Sr.a Deputada Maria das Mercês Soares.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria das Mercês Soares", 
+   "text": "Sr.ª Presidente, agradeço às Sr.as e aos Srs. Deputados que tiveram a gentileza de apresentar as questões que consideraram pertinentes. \nRelativamente às questões da Sr.ª Deputada Rita Rato e a grande parte do conteúdo da apresentação das questões do Sr. Deputado José Luís Ferreira, os meus colegas Deputados, quando usarem da palavra para apresentarem os respetivos projetos de resolução, darão as respostas consideradas adequadas.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria das Mercês Soares", 
+   "text": "Debrucei-me, efetivamente, sobre a proposta, que o PSD considerou, e considera, relevante, que apoia os desempregados com mais de 45 anos de idade, pelas preocupações que o desemprego provoca nas pessoas e na sociedade. \nSr.ª Deputada Helena André, pela forma como apresentou a questão são sempre bem-vindos os contributos e, em boa hora, trouxemos este projeto de resolução.\nO Governo já fez muito. Fez muito em pouco tempo, face ao problema grave que herdou, às dificuldades que lhe deixaram e àquilo que não foi realizado no passado mas que devia ter sido, para evitar termos chegado a este momento. Foi isto que não feito e que devia ter sido feito, Sr.ª Deputada.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria das Mercês Soares", 
+   "text": "Quanto às qualificações, nada de mais importante. Precisamos, de facto, de apostar fortemente nas qualificações dos nossos trabalhadores. Isso é algo de muito valioso. É o verdadeiro filão de riqueza que temos. \nMas essa aposta nas qualificações — e respondo também ao Sr. Deputado Raúl de Almeida, a quem agradeço igualmente as questões apresentadas — tem de ser ajustada às reais necessidades do mercado. \nNão pode ser feita de caneta e lápis, não pode ser feita a metro, mas ajustada às reais necessidades do mercado. \nPara tal, temos de perguntar o que é necessário para o futuro e então, aí sim, temos de qualificar as pessoas, temos de dar oportunidade aos nossos jovens, aos nossos menos jovens e, acima de tudo, aos desempregados com mais de 45 anos uma grande oportunidade. \nNão se pode pedir a um Governo que em tão pouco tempo — um ano! —, tendo desenvolvido um conjunto de medidas de resposta a um flagelo tão grande, consiga dar resposta a todas as áreas. E nós, que estamos nesta Câmara, temos responsabilidade!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria das Mercês Soares", 
+   "text": "A responsabilidade que o PSD quis ter foi a de trazer aqui a debate uma proposta concreta destinada a um grupo concreto — os desempregados com mais de 45 anos — mas também aos portugueses em geral, possibilitando que as suas qualificações sejam elevadas. O Governo assumiu esse compromisso. E o que lhe propomos é que o faça de uma forma enquadradora para que todos os portugueses se revejam numa oportunidade de vencer este grande desafio. \nNão iremos vencer sós, iremos vencer — trabalhadores e empregadores, homens e mulheres de boa vontade — todos juntos. \nEu acredito na força dos portugueses!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Isso é só conversa!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, informo que os Srs. Deputados do PSD, Pedro Roque e Nilza Sena, propõem-se apresentar os dois projetos de resolução que se seguem na lista do guião, ou seja, 418/XII (1.ª) — Recomenda ao Governo que tome medidas de valorização da família que facilitem a conciliação entre a vida familiar e a vida profissional (PSD) e 419/XII (1.ª) — Recomenda ao Governo a criação de um programa de formação profissional de apoio ao emprego nos sectores da hotelaria, restauração e turismo na região do Algarve (PSD). \nSe a Câmara não estiver em desacordo, eu deixaria estes Srs. Deputados fazerem a apresentação individual dos projetos de resolução.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Não havendo objeções, vou dar a palavra ao Sr. Deputado Pedro Roque para apresentar o projeto de resolução n.º 418/XII (1.ª).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "Sr.ª Presidente, permita-me uma pequena retificação no sentido de esclarecer que apresentarei o projeto de resolução n.º 419/XII (1.ª).", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Peço desculpa pelo lapso, mas a ordem de inscrição das intervenções não corresponde diretamente à ordem do guião.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "Com certeza, Sr.ª Presidente. \nSr.ª Presidente, Sr.as e Srs. Deputados: Como consequência da crise económica herdada e do inevitável reajustamento estrutural, resultante do Programa de Assistência Económica e Financeira, o desemprego registado em Portugal atinge, presentemente, níveis elevados e constitui, sem margem para dúvidas, o principal problema social com que o País se confronta. \nO combate ao desemprego deve, assim, mobilizar-nos a todos. \nMas, se o problema já é difícil no panorama nacional, ainda é mais grave na região algarvia. De facto, no 1.º trimestre do corrente ano de 2012, o Algarve registou a percentagem de 20%, de acordo com os dados do Instituto Nacional de Estatística — tal resultado encontra-se muito acima dos 14,9% de desempregados, registados a nível nacional. \nPara além das razões gerais que estão na origem do desemprego, existem características endémicas do modelo de desenvolvimento da região que podem explicar o facto de o Algarve ser ainda mais penalizado em matéria de desemprego. \nDe facto, durante décadas, o Algarve assistiu a um fluxo crescente de turistas, loteamentos e urbanizações geradoras de desenvolvimento e de emprego. Porém, tal paradigma atingiu um ponto de esgotamento e entrou em colapso com consequências gravosas e incontornáveis nos níveis de emprego da região. \nSr.a Presidente, Sr.as e Srs. Deputados: Da análise da Classificação das Atividades Económicas (CAE) de origem dos desempregados no Algarve, facilmente verificamos que a CAE 22 (alojamento, restauração e similares), com mais de 6400 desempregados registados (segundo os dados do IEFP), se constitui como um dos setores económicos mais afetados pela crise e, consequentemente, pelo desemprego.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP Jorge Machado.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "Assim sendo, esta situação grave que a região algarvia atravessa, ao nível do emprego, requer que, sobre ela, possa incidir uma atenção especial nesta matéria. \nTorna-se, assim, fundamental desenvolver, a nível regional, um plano específico de combate ao desemprego, que incida quer sobre a formação de ativos, desempregados sazonais ou mesmo jovens à procura do primeiro emprego, quer sobre a atividade económica da região, designadamente nos setores da hotelaria, restauração e turismo. \nTal plano deverá, em paralelo, combater os efeitos nos níveis de emprego da sazonalidade da procura turística, consubstanciada na diferença dos fluxos entre as chamadas «época alta» e «época baixa». \nDe igual modo, é reconhecido que estes setores continuam com um _deficit_ grave em matéria de qualificação dos seus trabalhadores, tornando-se importante que se atue também ao nível do reforço das condições de empregabilidade, da qualidade do serviço prestado e, em última análise, do incremento da competitividade internacional desses setores. \nSr.ª Presidente, Sr.as e Srs. Deputados: O presente projeto de resolução visa assim, tão-somente, recomendar ao Governo que crie um programa regional específico, de formação profissional, com a participação do Instituto de Emprego e Formação Profissional (IEFP) e da Escola de Hotelaria e Turismo do Algarve (EHTA), que possa contribuir para aumentar as condições de empregabilidade dos trabalhadores, através do reforço da sua qualificação profissional, e, simultaneamente, para estimular os setores da hotelaria, restauração e turismo, com o objetivo de combater o desemprego em geral e os efeitos da sazonalidade nos níveis de emprego nestes setores, no Algarve. \nPretende-se que tal programa de formação profissional possa abranger quer os ativos empregados com contratos de trabalho a termo de duração não inferior a dois anos, quer os desempregados sazonais com experiência, quer os jovens à procura do primeiro emprego não abrangidos pela escolaridade obrigatória, com o intuito de lhes conferir qualificação profissional nestes setores, e que, para esse fim, permita o acesso a este programa, às empresas, bem como às instituições públicas e entidades privadas de interesse social e utilidade pública dos setores da hotelaria, restauração e turismo que operem na região do Algarve.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Entretanto, assumiu a presidência o Vice-Presidente Guilherme Silva.", 
+   "type": "presidente_troca"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Paulo Sá.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Sr. Presidente, Sr. Deputado Pedro Roque, o PSD devia ter vergonha do projeto de resolução que apresentou sobre o desemprego nos setores da hotelaria, restauração e turismo do Algarve.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "É como uma folha A4, que abanamos, sacudimos e de onde não sai nada.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Este projeto de resolução é vazio de conteúdo, as suas recomendações são vagas e ineficazes para combater o flagelo do desemprego que assola a região algarvia. \nNeste projeto, o PSD, o Sr. Deputado lamenta-se da elevada taxa de desemprego nos setores da hotelaria, restauração e turismo. \nMas o problema, Sr. Deputado, não é CAE 22, é a A22 e o IVA a 23%.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "O Governo PSD/CDS aumentou a taxa do IVA na restauração para 23%. Esta medida, como o Sr. Deputado sabe muito bem, está a ter efeitos destrutivos, levando à extinção de inúmeros postos de trabalho e ao encerramento de centenas de estabelecimentos. \nNo passado dia 8 de junho, o PSD, e também o CDS, tiveram a oportunidade de corrigir este erro quando da votação do projeto de resolução do PCP que repunha a taxa do IVA na restauração em 13%. O que é que fizeram o PSD e o CDS? Votaram contra! E vêm agora aqui «chorar lágrimas de crocodilo» pelos mais de 6000 desempregados no setor da restauração, no Algarve.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Mas há mais, Sr. Deputado! Há mais! No vosso projeto de resolução lastimam os quase 7000 desempregados no setor da construção. De acordo com um estudo da AECOPS (Associação de Empresas de Construção, Obras Públicas e Serviços), que o Sr. Deputado deve conhecer, muitas das empresas algarvias, ainda em atividade, poderão encerrar a curto prazo, lançando no desemprego mais 4000 trabalhadores. \nEsta situação, Sr. Deputado, poderia ser evitada com a aprovação do programa de emergência para a construção civil e obras públicas, que o PCP propôs aqui na semana passada.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "E que chumbaram!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "O que fizeram o PSD e o CDS? Votaram contra!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Haja vergonha, Sr. Deputado! Haja vergonha! \nMais um exemplo de medidas de destruição de emprego é a introdução de portagens na Via do Infante, que teve e continua a ter efeitos extremamente negativos sobre a economia regional. \nO PCP propôs aqui, três vezes, a abolição das portagens — três vezes! O PSD e o CDS votaram contra e a favor da manutenção dessas portagens.\nSr. Deputado, o combate ao desemprego, no Algarve, como, aliás, no resto do País, faz-se aplicando uma política de recuperação do setor produtivo e de promoção da produção nacional. \nEm abril, o PCP apresentou aqui uma proposta em defesa da produção nacional e do consumo de produtos agroalimentares portugueses. O que fizeram o PSD e o CDS? Votaram contra!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Na semana passada, apresentámos outra proposta em defesa de setor das pescas. O que fizeram o PSD e o CDS? Votaram contra! \nMuitos mais exemplos poderiam ser dados, mas, por manifesta falta de tempo, deixo-lhe aqui uma pergunta, Sr. Deputado Pedro Roque. \nPretende o PSD apoiar as propostas do PCP que contribuem efetivamente para o crescimento económico e a criação de emprego na região do Algarve? Medidas como, por exemplo, a dinamização da atividade portuária na região algarvia, o apoio à indústria de construção e reparação naval, a eliminação das portagens na Via do Infante, a construção de um matadouro regional, a construção da ponte Alcoutim-São Lucas do Guadiana e a conclusão do IC27,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "… a modernização da ferrovia algarvia. Estas, sim, Sr. Deputado, são medidas que contribuirão efetivamente para combater o desemprego no Algarve. \nEstá o PSD disposto a apoiar este tipo de medidas?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Cecília Honório.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Cecília Honório", 
+   "text": "Sr. Presidente, Sr. Deputado Pedro Roque, este projeto de resolução do PSD, que visa a criação de um programa de formação profissional destinado particularmente aos setores de maior crise da região, isto é, a hotelaria, a restauração e o turismo, tem alguns aspetos que visam atenuar o drama do desemprego e do empobrecimento que a região vive — e falo particularmente nos destinatários que podem ser estes desempregados sazonais ou as pessoas contratadas com contrato não inferior a dois anos. \nMas a questão que quero colocar-lhe é se o PSD entende que o problema do Algarve é o da falta de formação profissional, se esse é o problema de fundo, se é isso que justifica a crise brutal que esta região vive, uma região deixada à deriva. \nOs senhores identificam a maior taxa de desemprego do País no Algarve (são dados do 1.º trimestre de 2012) — é verdade, são 20%! E é uma vergonha! \nÉ também evidente — e isso não referem — que o Algarve tem uma das mais elevadas taxas de desemprego entre os licenciados. É por isso que lhe pergunto se, de facto, entende que o problema da economia da região, da crise económica e social que o Algarve vive é um problema de debilidade das qualificações. \nMas quero colocar-lhe outras questões. Quero que me diga como entende a responsabilidade das políticas deste Governo relativamente ao IVA a 23% e à crise que provoca, nomeadamente, no setor da restauração. \nQuero perguntar-lhe se não entende que o problema maior da crise da economia e do turismo, no atual contexto, no Algarve, é a introdução de portagens na Via do Infante, com as consequências dramáticas que teve e vai continuar a ter no turismo da região. \nQuero perguntar-lhe como é que entende a falta de investimento público de que o Algarve foi vítima durante sucessivos governos (não é só o vosso), com critérios que ninguém entende.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr.ª Deputada.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Cecília Honório", 
+   "text": "Vou mesmo terminar, Sr. Presidente. \nE quero perguntar-lhe qual é a responsabilidade que atribui também ao facto de os poderes terem sempre dito a esta região «o turismo é que é, não há nada a fazer e, portanto, deixem queimar todo o tecido produtivo». É que os senhores ignoraram sempre outras propostas aqui apresentadas pela oposição para desenvolver esse mesmo tecido produtivo. \nQuero fazer-lhe estas perguntas todas, Sr. Deputado, porque ou nos fala com seriedade sobre estes problemas tão graves,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr.ª Deputada.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Cecília Honório", 
+   "text": "… ou este «fato» que o senhor quer vestir agora de «desenvolver o Algarve» é, de facto, um «fato» que não lhe fica nada bem, Sr. Deputado.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Artur Rêgo.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Sr. Presidente, Sr. Deputado Pedro Roque, fez bem o PSD em trazer a região do Algarve a debate neste Plenário. É, de facto, a região mais sacrificada de entre todas as regiões do País, com a atual crise recessiva que se atravessa. \nE os números, como o Sr. Deputado Pedro Roque disse, mostram que o grosso dos desempregados, no Algarve, provém exatamente dos setores da hotelaria e da construção. \nMas mostram também, Sr. Deputado, qual é a maior chaga do Algarve: a monocultura, o desenvolvimento exclusivamente concentrado no turismo e na indústria imobiliária a ele associada. E é essa monocultura do turismo, que é a maior indústria exportadora portuguesa e a base da economia do Algarve, que está a causar este desemprego. É também essa monocultura que está a causar a sazonalidade, pois o turismo tem altos e baixos, tem picos. É efetivamente uma atividade sazonal, pelo menos da maneira como a temos configurado cá. \nOra, sendo bem-vinda — e muito bem-vinda — a recomendação que fazem ao Governo, de, nos períodos de sazonalidade de época baixa, se aproveitar para dar melhor qualificação a todos os trabalhadores, diga-me, Sr. Deputado — apesar de isso não estar em questão —, o seguinte: em que é que dar formação profissional na época baixa cria empregos, em que é que dar formação profissional tira as pessoas do desemprego, em que é que dar formação profissional na época baixa combate a sazonalidade precisamente na época baixa? \nSr. Deputado, a crise na indústria do turismo, no Algarve, é uma crise exógena, pelo que a resolução de parte dessa crise provém de fatores exteriores que têm a ver com a indústria do turismo. \nSr. Deputado, sendo bem-vinda esta recomendação, que não está em questão, feita pela PSD, não achava mais curial, por exemplo, recomendarem também ao Governo que invista no desenvolvimento de setores de atividade que são riquezas próprias do Algarve, há muito negligenciadas, como a agricultura e as pescas, e que invista na formação e qualificação dos jovens algarvios e dos algarvios nessas áreas, de forma a que possam ter empregabilidade em áreas que, neste momento, precisam de mão-de-obra qualificada e estão lá para criar emprego? \nÉ esta a questão que lhe deixo, agradecendo de todo o modo a atenção que o PSD dedicou ao Algarve com este projeto de resolução.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Miguel Freitas.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Freitas", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr. Deputado Pedro Roque, nós vemos esta proposta do PSD como um sinal de preocupação que o PSD entendeu dar ao Governo. \nA região do Algarve é uma região que vive hoje um momento dramático, com um nível de desemprego que ultrapassou tudo aquilo que seria expectável. \nAssim sendo, é preciso dar sinais claros ao Governo, pois este Governo nada tem feito para resolver esse problema. \nComecemos por registar que, na área da hotelaria e turismo, uma das primeiras medidas deste Governo foi liquidar o programa Novas Oportunidades, iniciativa esta que, no momento em que foi extinta, tinha, na Escola de Hotelaria e Turismo, 1119 pessoas inscritas que estavam a fazer o seu processo de formação. E esta era a única entidade que fazia reconhecimento profissional, o RVCC, na área da hotelaria e turismo, no Algarve. O que fez o Governo? Liquidou o Centro Novas Oportunidades, na área da hotelaria e turismo, no Algarve. \nA medida que o PSD aqui nos traz é uma medida que consideramos positiva, mas que, de qualquer maneira, é tardia. É tardia porque deve ser acompanhada, essencialmente, pela extensão dos chamados «contratos intermitentes», que o PS teve oportunidade de apresentar ao Governo, em abril deste ano, e em relação aos quais o Governo disse que sim, que era uma medida positiva, mas, até agora, nada fez. Isto é, disse que ia submeter essa medida em concreto a uma reunião da concertação social, em agosto. Portanto, esta medida não terá eficácia este ano. É uma medida que pode vir a ter eficácia no próximo ano. \nQueria também registar que lá vai o tempo em que o PSD, no Algarve, apresentava um rol de medidas para combater o desemprego.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Freitas", 
+   "text": "A 18 de fevereiro de 2011, o então líder do PSD, que ainda se mantém como líder, apresentou um conjunto de medidas para um programa de qualificação e emprego no Algarve. \nA pergunta que lhe queria deixar, Sr. Deputado, é onde estão agora essas medidas do PSD no sentido de atacar as questões por via da formação mas também um conjunto de medidas robustas para resolver o desemprego na região.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para responder aos pedidos de esclarecimento, tem a palavra o Sr. Deputado Pedro Roque.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "Sr. Presidente, começo por agradecer aos Srs. Deputados Paulo Sá, Cecília Honório, Artur Rêgo e Miguel Freitas as questões que colocaram e começaria por responder de acordo com a ordem pela qual elas me foram colocadas, ainda que haja, no caso do PCP e do BE, algumas questões que são comuns, pelo que procurarei, assim, também dar uma resposta comum a algumas delas. \nO Sr. Deputado Paulo Sá começou por afirmar que o PSD deveria ter vergonha. O PSD não tem vergonha de procurar resolver os problemas do desemprego das pessoas,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "… porque vergonha seria desistir de encontrar emprego e ocupação para as pessoas, sobretudo numa altura particularmente difícil, numa conjuntura particularmente difícil da vida nacional, particularmente na região algarvia.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Por isso é que aumenta o IVA!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "Portanto, nesse aspeto, dispensamos esse tipo de lições. \nA Via do Infante é uma questão comum ao Bloco de Esquerda e ao Partido Comunista, bem como a questão do IVA a 23%.\nSobretudo, em relação à questão da Via do Infante, penso que se está a «misturar alhos com bugalhos», está a trazer uma questão que é…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP e do BE.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "Aliás, a posição dos Deputados do PSD eleitos pelo Algarve relativamente às portagens na Via do Infante está vastamente documentada nesta Legislatura e é conhecida de todos. Prende-se, sobretudo, com a questão do modelo de financiamento daquela Via e não tanto com a necessidade de que há de portajar autoestradas. Querer estabelecer aqui uma relação causa-efeito entre portagens na autoestrada e desemprego alto no Algarve é escamotear a verdade,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP e do BE.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "… até porque as portagens estão implementadas há muito pouco tempo e o problema do desemprego elevado no Algarve é muito anterior a tudo isso,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "… o problema da sazonalidade é muito anterior a tudo isto. \nNós compreendemos que esta é uma questão que está sempre presente na agenda do Partido Comunista e do Bloco de Esquerda como uma forma de incomodar, de criar agitação social permanente na região, mas nós não alinhamos nisso.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP e do BE.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "O Sr. Deputado veio aqui falar no conjunto de medidas que o Partido Comunista tem apresentado e que o Governo, o Partido Social Democrata e a coligação têm rejeitado. Sr. Deputado, quando essas medidas são apresentadas aqui, convinha que fossem acompanhadas muitas vezes do «envelope» financeiro, porque vem apresentar um rol de medidas que, no fundo, é o PIDDAC algarvio, e isso, neste debate, penso que não é sério e, sobretudo, não ajuda a esta discussão.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria das Mercês Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "Aquilo que queremos saber, do Partido Comunista e do Bloco de Esquerda, é se, relativamente a esta medida em concreto, acham ou não que ela tem virtualidades e se estão dispostos ou não a apoiá-la. Isso, quanto a mim, é que era importante…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Isso não é nada!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "Quando perguntam se o problema do Algarve será só a falta de formação profissional, direi que não é só, mas também.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "É pôr os problemas para debaixo do tapete!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "A formação profissional na época baixa vai permitir melhorar os níveis de qualificação nesses setores, nos que se relacionam com o turismo e, por essa via, melhorar a competitividade do turismo algarvio e, por essa via, acrescentar valor ao Algarve. E isso é muito importante.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "Relativamente ao Sr. Deputado Artur Rêgo, a quem também agradeço as questões que me colocou, direi que é óbvio que o Algarve não é só turismo. Mas não tenhamos ilusões: o Algarve, pelas suas características, é, sobretudo, turismo. Aliás, não pode deixar de o ser, nem esse paradigma pode ser alterado de um momento para o outro.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "Daí que, em paralelo com este tipo de medidas de apoio ao turismo, é óbvio que há um conjunto de medidas, sobretudo no chamado setor primário, na agricultura e nas pescas, que podem e devem ser tomadas no sentido de criar, também aí, algum tipo de alternativas de emprego aos algarvios. \nPor último, Sr. Deputado Miguel Freitas, agradecemos a postura do Partido Socialista, a qual consideramos responsável, relativamente a este projeto em concreto, acompanhamos, obviamente, os sinais de preocupação que aqui manifestou, que, aliás, estão presentes na Exposição de motivos deste projeto de resolução,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, faça favor de terminar.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Roque", 
+   "text": "… e queria dizer que todos não somos demais neste apoio ao emprego no Algarve.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Nilza de Sena.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: O PSD decidiu apresentar um projeto de resolução que recomenda ao Governo que tome medidas de valorização da família que facilitem a conciliação entre a vida familiar e a vida profissional. \nSabemos que na Europa as políticas de família dos Estados-membros assumiram grande importância nos últimos anos. O envelhecimento da população e a diminuição da taxa de natalidade são dois vetores que desafiam à promoção de políticas públicas, uma vez que se torna premente a questão da renovação geracional, fundamental para a manutenção da família, da coesão social, da sustentabilidade e do desenvolvimento económico e social. \nA proteção constitucional da família, plasmada no elenco dos direitos fundamentais da Constituição da República Portuguesa (em especial, no seu artigo 36.º, relativo à família, casamento e filiação) são âncora, mas não suficiência, daquilo que as alterações progressivas dos últimos anos vêm colocar como desafio. \nA diversidade das formas de família e a emergência de novos arranjos familiares escapam hoje ao conhecimento dos demógrafos, à focalização mais tradicionalista e às estatísticas mais objetivas. Nos últimos anos, mudanças significativas, a nível cultural e social, alteram conceções, estruturas e práticas familiares. \nE se é positivo o caminho percorrido no sentido da igualdade entre homens e mulheres do exercício da maternidade e paternidade responsáveis, do empenho e envolvimento com a educação e com o bem-estar dos filhos, da possibilidade de concretização de um projeto profissional satisfatório, também é crucial a conciliação entre a vida familiar e a vida profissional que permita a fruição plena dessas dimensões, cada vez mais importantes para os indivíduos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "À semelhança do que acontece na Europa, Portugal tem uma população envelhecida e uma taxa de fertilidade abaixo do nível de reposição das gerações, desde o início do decénio de 1980. Os números indicam uma taxa de fertilidade de 1,3 crianças, que está longe dos 2,1 necessários para repor gerações, o que, por si, incita à prepositura de medidas e a recomendações. \nPortugal está entre os países da União Europeia que apresentam uma taxa muito elevada de participação feminina na atividade profissional, com cerca de 69,1% de taxa de atividade, por parte das mulheres com idades entre os 16 e 64 anos. Verifica-se que em 2011, Portugal já ultrapassara a meta definida para 2020 na Estratégia de Lisboa, que situa nos 60% a proporção de mão-de-obra feminina no mercado de trabalho.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Adão Silva", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "As expetativas da população portuguesa, de acordo com os estudos, definem uma vontade de ambos os pais de trabalharem a tempo inteiro, destacando um tópico que tem merecido pouca atenção na sociedade portuguesa e que representa um desafio na promoção de políticas específicas: a perspetiva masculina na conciliação entre trabalho e família. \nAs mulheres estão no mercado de trabalho como força ativa, tal como os homens. De acordo com o European Social Survey (ESS), homens e mulheres interpretam, de igual modo, o valor social da família e do trabalho, de forma que se deve valorizar um modelo igualitário de cuidado à família e ao lar na distribuição de tarefas no dia-a-dia. \nAs medidas que têm sido empreendidas no sentido de promover esta possibilidade têm sublinhado a ideia de que é possível compatibilizar a natalidade com a permanência no mercado de trabalho. Estas propostas têm sido dirigidas mais à mulher do que ao homem, revelando, ainda, uma interpretação desatualizada do decisor político para associar a natalidade à fertilidade. \nEm matéria de licença parental, o Conselho Europeu alcançou um acordo político que alarga a licença, encorajando os pais a gozar efetivamente o seu direito. O impacto desta medida é ampliado, porque os trabalhadores que usufruem da licença, aquando do nascimento da criança, terão o direito a disposições laborais flexíveis por determinado período, após o seu regresso ao trabalho. \nAs principais medidas que, no caso português, traduzem alguma mudança, introduzem alterações na licença a seguir ao nascimento de uma criança, o alargamento dos critérios de elegibilidade, o aumento da licença de paternidade, a adoção de novos conceitos no âmbito da regulação das relações conjugais e das relações parentais, em particular na designada nova lei do divórcio, com a introdução do conceito de exercício conjunto de responsabilidades parentais. Mas é possível fazer mais. \nNeste sentido, e para que se atualize o entendimento da vivência familiar, igualmente valorizado pelos dois géneros e para que se potencie a família no seu todo, o PSD recomenda ao Governo: \nQue deixe de apresentar, no discurso político, o desempenho de uma profissão e a vida familiar como atividades dicotómicas, até postas, muitas vezes, de forma concorrencial entre si; Que, no âmbito da promoção da conciliação entre vida profissional e vida familiar, incentive a cultura de responsabilidade social das empresas e, ao mesmo tempo, que divulgue as boas práticas das entidades empregadoras nesse âmbito; \nQue fomente disposições laborais flexíveis que permitam aos pais uma reinserção profissional depois da licença de paternidade, apoiando, por um lado, os módulos de atualização profissional para esses mesmos trabalhadores e garantindo, por outro lado, a posição profissional anterior; Que flexibilize os horários dos equipamentos sociais de apoio, nomeadamente na fase pré-escolar, infantil e juvenil, com promoção de ocupação de tempos livres.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Onde é que a senhora estava quando foi discutido o Código do Trabalho?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "É verdade que o caminho não se faz só com estas medidas e que elas, de _per si_, não resolvem todos os problemas enunciados, mas também é verdade que se forem dados sinais como estes, o próprio caminho se vai construindo. \nA família é a nossa primeira e última morada, fundante e enraízadora. Talvez por isso não possa ser nunca menos do que todas as outras coisas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "A Sr.ª Deputada Nilza de Sena tem três inscrições para pedidos de esclarecimento. Informará, depois, a Mesa se responde individualmente ou em conjunto. \nPara pedir esclarecimentos, tem a palavra a Sr.ª Deputada Inês Teotónio Pereira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Inês Teotónio Pereira", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados, Sr.ª Deputada do PSD, o tema que o seu Grupo Parlamentar traz hoje à discussão é o da valorização da família e a conciliação da vida familiar com a vida profissional. É um dos principais desafios e é uma das principais batalhas do CDS, desde há muito. \nSobre este assunto, temos várias provas dadas, muitos debates lançados e muitas questões resolvidas. \nSabemos muito bem quais são as dificuldades com que todos os dias as mães e os pais se defrontam para poderem educar, criarem os seus filhos, constituírem uma família e assegurarem ou encontrarem emprego. \nFoi exatamente por isso, com esta noção, que há cerca de um ano o Governo lançou o Plano de Emergência Social — precisamente para responder às famílias confrontadas com novos fenómenos de pobreza, fruto do desemprego, do sobre-endividamento, da reestruturação social e familiar e, muito especialmente, às crianças. \nOra, a emergência social é, e continua a ser, muito grave. Foi por isso que recentemente, quando as mães perdiam o subsídio parental quando iam para o desemprego a meio da gravidez, este Governo decidiu estender a proteção, independentemente de haver ou não cessação dos contratos de trabalho. Foi exatamente por causa desta preocupação que se reviu a legislação, de forma a alargar os lugares das creches. Foi também com este objetivo, de ajudar as famílias com maiores dificuldades, que se promoveram os programas dos pequenos-almoços que, para o ano, estarão implementados em todas as escolas públicas,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Inês Teotónio Pereira", 
+   "text": "… assim como a bolsa de manuais escolares, que tem como objetivo aliciar os orçamentos familiares nos inícios dos anos letivos. \nEm relação ao abono de família, também é bom lembrar que, no final de 2010, deixou de ser atribuído às famílias do 4.º e do 5.º escalão do IRS, mas que passam, agora, a existir novas regras, que servem com mais justiça as famílias mais vulneráveis. Agora, o abono pode ser reavaliado, sempre que haja uma modificação dos rendimentos ou da composição do agregado familiar. Assim, os pais que caem no desemprego não ficam excluídos do apoio, não têm de esperar um ano ou, mesmo, um ano e meio para conseguir ter o apoio do abono de família. \nSabemos que há muito a fazer, e isso já aqui foi dito. O PSD traz hoje aqui uma proposta no sentido incentivar a cultura da responsabilidade social das empresas. \nSr.ª Deputada, gostava de saber de que forma o Estado pode intervir de modo a incentivar esta cultura das empresas, porque muito do trabalho que há a fazer tem a ver, exatamente, com o respeito que as empresas têm de ter pela vida familiar e pela conciliação entre a vida familiar e a vida profissional. Gostava que nos esclarecessem sobre este ponto.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Mariana Aiveca.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Sr. Presidente, Sr.ª Deputada Nilza Sena, é quase risível a intervenção que fez, bem como a resolução que traz. \nPoucos dias depois de aprovar um Código do Trabalho que flexibiliza os horários de trabalho e vai obrigar os pais e as mães a estarem disponíveis para a empresa quando o patrão bem quiser, a pouco tempo de os senhores terem cortado no abono de família e quando, hoje, vai haver uma manifestação dos profissionais dos infantários da segurança social, porque os senhores vão entregar, de mão beijada, 24 equipamentos — muito poucos, diga-se de passagem! — que eram da responsabilidade do Instituto da Segurança Social, e, por esta via, vão tornar esses equipamentos de pior acesso para os pais e as mães, com tudo isto, vem a Sr.ª Deputada dizer-nos que o PSD está preocupado com a conciliação da vida profissional e familiar?! Risível, diria eu, Sr.ª Deputada! Hipocrisia é o que aqui está!\nOs senhores sabem bem, e a Sr.ª Deputada também o disse, que hoje há mais mulheres no mercado de trabalho. É um facto! Mas eu queria dizer-lhe que 11% da população ativa, hoje, ganha o salário mínimo nacional e 550 000 pessoas são mulheres — salário mínimo nacional, com flexibilidade total de horários e com dificuldades acrescidas nesta compatibilização! \nPortanto, Sr.ª Deputada, não vale a pena o PSD vir aqui hoje brincar ou «chorar lágrimas de crocodilo» sobre esta conciliação, porque, efetivamente, os senhores abalroaram tudo o que poderiam ser direitos de conciliação da vida profissional com a vida familiar. \nComo tal, este «número» é, no mínimo, hipócrita e o Bloco de Esquerda não pode estar mais contra aquilo que a senhora aqui acabou de dizer, porque, efetivamente, não trás nenhuma, mas nenhuma, resposta concreta que resolva este problema objetivo que é o da conciliação da vida profissional com a vida familiar. \nSr.ª Deputada, as perguntas que se impõem são: onde estava a senhora quando se aprovou o Código de Trabalho? Onde estava a senhora quando se cortou o abono de família? Onde estava a senhora e a sua bancada quando todos os apoios sociais foram cortados? Não ouvi, por parte do PSD, nenhuma, mas nenhuma crítica a estas medidas.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento tem a palavra a Sr.ª Deputada Helena André.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Helena André", 
+   "text": "Sr. Presidente, Sr.ª Deputada Nilza de Sena, em primeiro lugar, gostava de lhe transmitir a minha estranheza em relação a esta iniciativa do PSD depois de o PS ter apresentado, no passado mês de maio, uma iniciativa sobre esta matéria que era muito mais completa do que a temos hoje.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Elza Pais", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Helena André", 
+   "text": "E eu gostava de refrescar a memória dos Srs. Deputados do PSD sobre esta matéria, porque quando discutimos a questão da conciliação entre a vida profissional e a vida familiar não estamos só a discutir uma questão de igualdade de oportunidades, estamos, cada vez mais, a discutir a responsabilidade dos homens que tem de ser assumida relativamente à educação dos seus filhos e, portanto, estamos numa perspetiva de parentalidade — não é de maternidade ou de paternidade, é de parentalidade —, que abarca vários domínios. \nAssim, um dos domínios que me parece interessante é o da responsabilidade social das empresas. Na realidade, não pensemos que a responsabilidade social das empresas, nesta matéria, é um benefício exclusivo para as mulheres. É que políticas de conciliação entre a vida profissional e a vida familiar são do interesse das empresas. A sua capacidade de terem um ambiente de trabalho, uma organização de trabalho e um tempo de trabalho que seja negociado e que seja amigo da família é motivador para os trabalhadores e é, sobretudo, prova de inteligência na capacidade de inovação e de fuga de talentos das empresas. \nPor isso, esta responsabilidade social não é da responsabilidade do Estado mas, sim, da capacidade de os parceiros sociais poderem, eles próprios, negociar entre si, numa base de confiança mútua, numa base de respeito e numa base de capacidade de responder àqueles que são os desafios do mercado de trabalho de hoje e às necessidades das empresas e dos trabalhadores. E isto implica um diálogo social forte e implica, sobretudo, uma negociação coletiva forte nestas matérias. \nMas não podemos cingir-nos à pura questão da igualdade de oportunidades; temos de olhar, nesta matéria, se quisermos que os homens sejam mais responsáveis e que haja uma verdadeira conciliação, para outras áreas, nomeadamente aquelas que têm a ver com a discriminação salarial, com a discriminação do acesso das mulheres à progressão da carreira e com o acesso das mulheres à formação profissional. \nEstas são matérias de negociação coletiva dos parceiros sociais, pois sem eles não há conciliação ao nível do mercado de trabalho. \nPor isso, a minha questão é muito simples: após ser sido chumbada a proposta do Partido Socialista, no mês de maio, o Governo organizou uma reunião na Comissão Permanente de Concertação Social. Não sei se uma reunião é o suficiente para tratar das questões de conciliação e, por isso, tenho imensa curiosidade em saber, Sr.ª Deputada, quais são as iniciativas que estão previstas ter com os parceiros sociais relativamente a esta matéria, porque senão eu serei tentada a dizer que esta é mais uma manobra de faz de conta, que faz que anda mas não sai do mesmo sítio.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra a Sr.ª Deputada Nilza de Sena.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "Sr. Presidente, Srs. Deputados: Permitam-me os Srs. Deputados Inês Teotónio Pereira, Mariana Aiveca e Helena André que comece por responder à Sr.ª Deputada Rita Rato, que previamente havia já colocado questões sobre esta matéria. \nQuero, então, dizer à Sr.ª Deputada que não vou responder à Sr.ª Deputada com a «lata» — com a mesma «lata» — com que a Sr.ª Deputada caracterizou este projeto do PSD,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos da Deputada Rita Rato, do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "… porque o PSD não tem um pensamento estagnado e não tem, sequer, nesta matéria e neste projeto, um projeto de arrependimento. Pensamento cristalizado, nesta Câmara, tem o PCP, e nós vimo-lo hoje, esta manhã, e continuamos a ver…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "É só conversa fiada!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "Eu diria que as propostas e recomendações que o PSD faz com este projeto têm a ver com uma dimensão que é uma dimensão estrutural e não com uma dimensão conjuntural. E isso refere-se, precisamente, à valorização da família enquanto âncora da sociedade portuguesa e ao estímulo que é importante dar, reconhecendo que…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PCP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Guilherma Silva", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, peço alguma contenção para podermos ouvir a Sr.ª Deputada que está no uso da palavra.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "…, repito, reconhecendo que todos os estudos indicam uma vontade igual de ambos os pais, pai e mãe, de valorização e de fruição desta dimensão. \nGostava de dizer à Sr.ª Deputada Inês Teotónio Pereira que o Primeiro-Ministro e o Governo têm valorizado, e bem, como aqui disse, o Programa de Emergência Social, que, de facto, tem dignificado muito sobretudo as famílias mais carenciadas, ao contrário do que diz a Sr.ª Deputada Mariana Aiveca, e que valorizou e robusteceu o apoio às famílias mais carenciadas no abono de família.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "É só isso que tem a dizer?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "De facto, este programa não cortou, Sr.ª Deputada, robusteceu, nomeadamente ao abranger famílias com rendimentos inferiores a 500 €, com a majoração no subsídio de desemprego quer para casais com filhos a cargo, quer para casais com filhos que são portadores de deficiência, com a majoração para as famílias monoparentais,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "É a esmola! É obrigar a estender a mão!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "… com a majoração no subsídio de doença para as famílias mais empobrecidas…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, agradecia que se evitasse este barulho de fundo que impede que se oiça, em condições, a Sr.ª Deputada.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "… e com proteção à maternidade e à paternidade quando uns e outros ficaram no desemprego, coisa que até aqui não acontecia. \nSr.ª Deputada Helena André, respondendo às questões que colocou, quero dizer que o PSD acompanha genericamente muitas das observações que aqui nos trouxe, sobretudo no que toca à responsabilidade familiar das empresas, com os desafios que, nessa matéria, se colocam em termos de mercado de trabalho. \nA Sr.ª Deputada disse que havia necessidade de diálogo social, e esse diálogo social tem existido, sobretudo porque o Governo celebrou um acordo de concertação social que se não esgotou nesse mesmo acordo, ou seja, o Governo continua em diálogo permanente com os parceiros no sentido de uma valorização desta matéria. \nAntes de terminar, quero dizer ainda que a proposta em causa remete, em primeira instância, para a valorização de um setor que é estruturante e, naturalmente, para a sensibilidade que nesta matéria o PSD teve, que consta do Programa do Governo e que continua a acompanhar sucessivamente, que nos deixa uma marca distintiva no sentido de redimensionamento do Estado social, não com uma visão assistencialista mas com uma visão de ajuda àqueles que mais precisam, o que até aqui não aconteceu.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Elza Pais.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Elza Pais", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Muito nos apraz que um dos partidos que suporta o Governo traga para debate uma resolução para promover a igualdade de género. \nTal traduz o reconhecimento de que a igualdade constitui um dos princípios fundadores desta União Europeia, à qual nos orgulhamos de pertencer, e que, pese embora a crise que atravessamos, continua a ser o espaço do mundo onde os direitos humanos são mais promovidos e respeitados. \nTraduz também o reconhecimento de que a igualdade é uma inerência do regime democrático e é uma função que todos os governos têm de cumprir; não é uma questão de bondade para com as mulheres, porque as mulheres não precisam de bondade, precisam, sim, é de ver os seus direitos reconhecidos e, sobretudo, cumpridos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Elza Pais", 
+   "text": "Mas esta resolução, Sr.ª Deputada Nilza de Sena, traduz ainda, seguramente, o reconhecimento de que este Governo não tem promovido a igualdade de género e o reconhecimento de que este Governo não tem promovido, por isso, o desenvolvimento e a competitividade. \nOra, aquilo que esta resolução recomenda ao Governo é que cumpra o que disse no seu Programa do Governo e que não está a cumprir: o IV Plano Nacional para a Igualdade 2011-2013. E fá-lo de uma forma muito desajeitada, de uma forma muito redutora, sem visão estratégica, tal como está contido no Plano, sem linguagem adequada e com conceitos errados. \nSenão, vejamos: o que é que pretende esta resolução? Pretende promover a conciliação entre a vida familiar, profissional e esqueceram-se da vida pessoal, uma componente essencial do conceito, assim tido em linha de conta pelas instâncias europeias que seguimos no cumprimento destas matérias. \nOra, como é que isto se faz? Faz-se promovendo planos para a igualdade (área 2 do Plano Nacional para a Igualdade — \nvida \nda \norganização \ne \ntrabalho \nde \neconómica, mercado \nIndependência \nfamiliar/profissional/pessoal — medidas 20 e 24). \nPortanto, promover planos para a igualdade. Onde? Nas empresas, nas autarquias, nas organizações. \nPara quê? Para promover uma nova cultura organizacional, para combater a segregação no mercado de trabalho, para aproximar o trabalho das famílias, para apostar nas pessoas, o que não está a feito. Porquê? \nPorque as ONG e as associações empresariais veem os seus financiamentos comprometidos por estes cortes cegos introduzidos no QREN.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Elza Pais", 
+   "text": "Muitas ONG e associações de mulheres empresariais veem a sua sobrevivência ameaçada. As autarquias não conseguem cumprir e executar o QREN. Porquê? Porque têm uma Lei dos Compromissos que lhes tolhe os movimentos e, por isso, não conseguem executar os seus programas e os planos para a igualdade estão a ir por água abaixo. \nMas estas medidas de conciliação promovem-se com muito mais coisas: promovem-se com o prémio Igualdade é Qualidade promovido pela CITE, que vai na sua 10.ª edição e nunca mais vê a luz do dia; promovem-se também com a promoção da utilização da licença parental — não é paternal, como diz a resolução, não é uma questão de erro no nome, é uma questão de conceito. \nÉ preciso promover o apoio à família através da partilha das licenças, assegurada não só pelas mães mas também pelos pais. É isso que é preciso promover: um incentivo às famílias e um incentivo à utilização da licença parental pelos pais, tal como vinha sendo definido e como está muito bem consignado na revisão do Código do Trabalho de 2009, onde o 5.º mês era assegurado com 100% de prestações desde que esta licença fosse partilhada por homens e por mulheres. E também a promoção da utilização dos 10 dias, não só obrigatórios, mas dos 10 dias facultativos, sobretudo no setor empresarial, onde eles são muito pouco usados. \nDizem os senhores que a taxa de trabalho feminino, em Portugal, é muito elevada. Pois é! Já foi até mais elevada! E sabem porque é que é elevada? É elevada à custa do sacrifício das mulheres portuguesas. É que as mulheres portuguesas são das mulheres que mais trabalham no contexto europeu.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Elza Pais", 
+   "text": "Há mulheres, no norte da Europa, que recorrem ao emprego parcial; aqui não recorremos ao emprego parcial. \nPortanto, tudo isto faz-se com um sacrifício elevado das mulheres, que têm uma dupla e uma tripla jornada de trabalho, um trabalho que não é valorizado, não é remunerado mas que as desgasta, e, sobretudo, um trabalho que prejudica a sua progressão nas carreiras com o tal fenómeno tão bem conhecido «o teto de vidro ou os pés de chumbo». \nDito isto, estamos perante desequilíbrios civilizacionais, sabemo-lo. Não foram produzidos nesta ou naquela legislação mas em várias, e estes desequilíbrios civilizacionais não se resolvem seguramente numa legislatura, mas em cada legislatura devem ser combatidos. E combatem-se como? Com mudança de mentalidades. E vemos o que está a acontecer ao nível da educação para a cidadania, com o fim da formação cívica nas escolas, mas também com medidas de política, e estas medidas de política estão a falhar redondamente. \nÉ preciso, portanto, que as medidas de política promovam a igualdade para que deste modo se promova a relação entre a família, as empresas e o desenvolvimento e a competitividade de um país. \nPor isso, é preciso que o PNI (Plano Nacional para a Igualdade) seja cumprido e aprofundado. Portanto, esta resolução não traz nada de novo, esta resolução é o reconhecimento da ineficácia do Governo em matéria de igualdade.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Artur Rêgo.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Em boa hora trouxe o PSD este debate sobre o emprego e desemprego. E digo em boa hora porque se passou um ano de governação e é altura de fazer o balanço. \nÉ do conhecimento de todos que, fruto de políticas erradas dos anteriores governos ao longo de muitos anos, encontrámos o País na situação em que encontrámos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Encontrámos o País completamente endividado, encontrámos o País falido, com as finanças públicas falidas, encontrámos um País com cerca de 700 000 desempregados. Foi esta a herança que tivemos. \nE o Governo foi obrigado, no cumprimento do Memorando de Entendimento, a tomar medidas, que continua a tomar, medidas duras, restritivas, que temos consciência que têm um forte impacto na vida do dia-a-dia dos portugueses. Não negamos, não escamoteamos essa questão, mas também sabem os portugueses que estas medidas que o Governo tomou foram medidas necessárias, sem as quais os sacrifícios seriam muito superiores aos que hoje suportam — seriam, certamente, intoleráveis. \nOs portugueses sabem que estes sacrifícios são por um período transitório, mas o Governo também tem a noção que o estado a que nos conduziram tem origens profundas na estrutura do tecido económico e social do País, nas leis em vigor, e urge fazer reformas. Ora, o Governo, ao mesmo tempo que implantou estas medidas, iniciou um intuito reformista na legislação laboral, na agricultura, no arrendamento, no ordenamento do território, na gestão das autarquias, na justiça, na concorrência, nos licenciamentos, na educação. Tudo isto são reformas de fundo que este Governo está a levar a cabo, de forma a mudar, para o futuro, o panorama da sociedade portuguesa nos seus diversos aspetos, permitindo construir uma sociedade estruturada, desenvolvida, que crie riqueza, que gere emprego, libertando as empresas e o mercado para aquilo que é necessário fazerem: produzirem, criarem riqueza, criarem emprego.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Elza Pais", 
+   "text": "Vê-se! Vê-se!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Temos consciência também, não o escamoteamos, mais uma vez, que todas estas medidas de fundo, como quaisquer medidas estruturais que se tomem, levarão o seu tempo a fazer efeito, a ter um impacto direto e que, até lá, temos centenas de milhar de portugueses a passarem tremendas dificuldades, no desemprego, a tentarem sobreviver no seu dia-a-dia. \nNesse sentido, agradecemos as recomendações que o PSD fez mas temos de salientar que este Governo já tomou medidas, ainda que medidas transitórias, de emergência, até que as reformas de fundo entrem em vigor e comecem a operar, para promover e incentivar a criação do emprego, dentro daquilo que é possível numa sociedade e numa economia em recessão, como sejam o Contrato Emprego-Inserção, a medida Estímulo 2012, o apoio à criação de empresas, o Programa Nacional de Microcrédito, o apoio à criação do próprio emprego, o Programa de Emprego e Apoio à Qualificação de Pessoas com Deficiência e Incapacidade, a formação para a inclusão, a isenção de contribuições à segurança social para os agricultores, o apoio aos pescadores, etc., etc., etc. \nEstas são algumas das medidas que eu gostaria de salientar neste momento para elogiar aquilo que tem sido o trabalho do Governo enquanto as respostas de fundo não tomam o seu início e não têm o seu efeito diretamente no mercado. \nMas o Governo não só promoveu o emprego como também tomou medidas para aqueles que estão no desemprego. Entre o momento em que se está no desemprego e o momento em que se consegue um emprego medeia algum tempo. Portanto, há que promover o emprego mas há também que apoiar quem está no desemprego. E entre outras medidas, e muito sucintamente, gostaria de salientar aqui a majoração do subsídio de desemprego para os casais com filhos a cargo em que ambos estejam desempregados, em 20%. \nFoi para responder ao drama do desemprego e fazer justiça que se criou recentemente a possibilidade de acesso dos trabalhadores a recibo verde ao subsídio de desemprego. Como todos sabemos, durante anos e anos a fio, esses trabalhadores pais e mães, com família, sempre viveram sem proteção social, sempre com a angústia de perderem o seu trabalho e de não terem qualquer proteção. \nFoi na mesma lógica que este Governo diminuiu recentemente as condições de acesso ao subsídio de desemprego de 15 para 12 meses, e foi ainda nesta lógica de apoio às famílias que o Governo, em relação ao abono de família, criou regras novas que permitem que o abono de família possa ser reavaliado sempre que haja uma modificação de rendimentos ou da composição do agregado familiar, e assim pais que caiam no desemprego não ficam excluídos desse apoio…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, queira terminar.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Artur Rêgo", 
+   "text": "Termino já, Sr. Presidente. \nComo dizia, pais que caiam no desemprego não ficam excluídos desse apoio por só terem como prova de rendimento o IRS referente ao período em que tinham emprego. \nIsto é um pequeno resumo das medidas que o Governo tomou. \nTermino, Sr. Presidente, dizendo o seguinte: Sr.as e Sr. Deputados, bem-vindo a este debate, agradecemos ao PSD. Está feito o balanço, há muito para fazer, há muitos sacrifícios ainda que temos de passar, mas este Governo está, no terreno, a tomar todas as medidas necessárias para proteger quem está no desemprego, para tentar criar emprego e, acima de tudo, está a criar reformas estruturais importantíssimas em todas as áreas e setores, que permitirão a Portugal não tornar a passar pela situação que passamos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Oliveira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados, o PSD resolveu trazer hoje a debate as questões da revitalização do emprego e da dita conciliação entre a vida profissional e familiar. \nPara começar pelo menos importante, queria apenas referir um aspeto caricato, que é o facto de o PSD ter tanto a propor em matéria de revitalização do emprego que apresentou um projeto de resolução com letra tamanho 14, com espaçamento duplo entre linhas e 10 pontos de diferença entre cada parágrafo. Tem tanto para propor que teve de encher as páginas deste projeto de resolução desta forma! \nMas passando à substância do debate — porque é da substância do debate que esta discussão deve ser feita —, este é um debate feito, de facto, de má consciência. E é um debate feito de má consciência porque tanto o PSD como o CDS, que acompanha o PSD nesta discussão, sabem que a política do Governo de coligação que sustentam é tudo menos uma política de defesa do emprego, é tudo menos uma política de articulação entre a vida pessoal e familiar, é tudo menos a defesa de uma política de recuperação ou de apoio aos setores da hotelaria, do turismo e da restauração, seja no Algarve, seja em qualquer outra região do País. \nPor isso, este é um debate de má consciência da maioria que, por ter consciência e por não poder fugir à realidade desastrosa das consequências das políticas económicas que tem desenvolvido e também das opções em matéria de política laboral que tem tomado, procura vir aqui disfarçar aquilo que é a ruína da economia portuguesa e o agravamento brutal da exploração dos portugueses, obviamente desarticulando aquilo que são as suas obrigações profissionais com as imposições da vida familiar. \nSr.as e Srs. Deputados, não deixa de ser curioso que o PSD venha falar de revitalização do emprego quando tem em curso o maior processo de despedimento coletivo em Portugal, com a preparação do despedimento em massa de dezenas de milhares de professores no início do próximo ano letivo. Mas falam hoje de revitalização do emprego. \nContinua por definir a situação de milhares de técnicos e formadores que participam no PIEF (Programa Integrado de Educação e Formação) e continuam a ver o seu futuro indefinido, com a perspetiva do desemprego pela frente, mas o PSD propõe a discussão em torno da revitalização do emprego. \nNo momento em que este Governo está a impor condições de escravização de médicos e enfermeiros pela contratação a valores que são ofensivos, com condições de trabalho desumanas, o PSD entende vir falar de revitalização do emprego. \nPercebe-se porquê. Percebe-se que, afinal de contas, o PSD queira mesmo esconder as consequências das políticas que toma. Mas respostas concretas a problemas concretos que têm sido trazidos a esta Assembleia da República todas têm sido negadas pelo PSD. \nDou apenas alguns exemplos: perante propostas do PCP para reverter o aumento do IVA para 23%, criando condições para a recuperação não só dos setores da restauração, da hotelaria e do turismo, que hoje o PSD tanto se preocupa em defender, mas criando também condições para a recuperação da generalidade das micro, pequenas e médias empresas estranguladas e empurradas para a falência pelo aumento do IVA, perante uma proposta concreta, qual foi a atuação dos partidos da maioria, PSD e CDS? Votam contra e chumbam as soluções. \nPerante uma proposta concreta que o PCP aqui apresentou, na semana passada, de um plano de emergência para o setor da construção civil, que arrasta atrás de si o perigo não só o perigo da falência de milhares de empresas mas de despedimentos de milhares de trabalhadores e, inclusivamente, com consequências muito significativas para a economia portuguesa e para a sua estabilidade, qual é a resposta do PSD? Voto contra, chumba as soluções. \nQuanto aqui trouxemos, à Assembleia da República, propostas concretas para a viabilização dos estaleiros navais, seja em Viana do Castelo, seja no Mondego, seja em Peniche, qual foi a resposta do PSD? Votou contra todas estas propostas concretas que permitiriam recuperar a economia portuguesa, permitiriam revitalizar o emprego e criar condições para a recuperação económica, afastando a situação de recessão.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado!", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Para concluir, Sr. Presidente, é uma grande surpresa não termos ouvido o CDS, neste debate, falar do visto familiar. É uma surpresa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "É verdade! É verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "O CDS, que tanto insistia no visto familiar, parece que o esqueceu, porque com o visto familiar não era possível apresentarem as propostas de alteração ao Código do Trabalho que apresentaram, não era possível sustentarem as propostas de alteração ao Estatuto do Aluno que temos em discussão, não era possível imporem os cortes na ação social escolar e no abono de família que impuseram, não era possível sustentar a falta de investimento na rede pública de creches, não era possível, Sr.as e Srs. Deputados, sustentarem um Governo que a primeira resposta que encontrou para o desemprego, sobretudo para o desemprego jovem, foi o convite à emigração.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de concluir.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Concluo já, Sr. Presidente. \nEste é um debate de má consciência de uma maioria que procura disfarçar as consequências de uma governação desastrosa que está a arruinar a economia e, sobretudo, as gerações futuras.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Deputada Mariana Aiveca.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados, esta pode ser uma manobra de ofuscação da incompetência do PSD e do CDS relativamente às propostas que eram necessárias para revitalizar o emprego. \nOs senhores sabem que sem crescimento económico não há qualquer revitalização do emprego nem da economia. Os senhores sabem — são os relatórios internacionais que o dizem — que, a seguir-se esta política recessiva, teremos na zona euro, nos próximos quatro anos, mais 4,5 milhões de pessoas desempregadas, ou seja, 22 milhões de pessoas estarão desempregadas na zona euro, com todas as consequências que, aqui, em Portugal, são bem conhecidas. \nOs senhores não trazem nenhuma medida para parar o desemprego de 1,2 milhões de pessoas. Alteraram as regras do subsídio de desemprego e sabemos hoje que, em cada 100 desempregados, 57 não têm qualquer proteção social. \nOs senhores não dizem uma palavra sobre o segundo maior flagelo, que é a precariedade e os falsos recibos verdes, que continuam a ter, até cada vez mais, nos serviços do Estado. \nOs senhores não dizem uma palavra sobre os encerramentos de empresas em massa que se anunciam, como na Delphi e na Makro. Só em Castelo Branco, vão perder-se, nos próximos dias, 700 postos de trabalho, a maioria dos quais sem qualquer proteção no desemprego, e os senhores não têm uma palavra para os trabalhadores do _call center_ da Segurança Social de Castelo Branco, os senhores não têm uma palavra para os trabalhadores da Delphi.\nPor isso, esta é uma manobra de ofuscação que não «lava» a vossa má consciência. Podia até ser, como já se fez no passado, um certo pedido de desculpas pela vossa incompetência na tomada de medidas de combate ao desemprego e pela promoção do emprego, mas nem isso é, é efetivamente uma manobra que visa ofuscar essa mesma má consciência, porque os senhores não têm nem querem ter alternativa, porque o vosso caminho é recessão em cima de recessão, para nos levar ao desastre anunciado, que todos estamos a prever.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr.ª Deputada.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Aiveca", 
+   "text": "Vou terminar, Sr. Presidente. \nOs senhores optam, claramente, por atacar sempre os mesmos, os do costume, os de baixo, não têm nenhuma medida que ponha outras pessoas, os de cima, a contribuir para revitalizar a economia e, com isso, a criar, de facto, emprego.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr. Presidente, Srs. Deputados: Em primeiro lugar, quero dizer aos Srs. Deputados do PSD que fiquei sem resposta à pergunta, mas percebo porquê. A pergunta, de facto, era demasiado fácil de responder. Certamente, se o PSD considerasse que as medidas do Governo para o emprego são suficientes, não sentiria necessidade de apresentar um projeto de resolução para recomendar ao Governo medidas de revitalização do emprego. \nDe facto, as iniciativas legislativas que o PSD hoje apresenta trazem muito pouco de novo e apenas mostram a sua contradição. Num dia, o PSD aprova o código laboral, torna o despedimento mais fácil e mais barato, estimula o despedimento e, num outro dia, vem manifestar preocupação com a necessidade de revitalizar o emprego. \nRelativamente ao Algarve, o PSD, num dia, opõe-se ao fim da cobrança de portagens na Via do Infante e aumenta a taxa do IVA na restauração de 13% para 23%, quando todos conhecemos os efeitos desastrosos que, tanto a introdução de portagens quanto o aumento do IVA, estão a ter no turismo do Algarve, e, num outro dia, vem manifestar preocupação com a situação do turismo na região do Algarve. \nO mesmo se diga do projeto de resolução relativo à conciliação da vida familiar com a vida profissional. \nNum dia, o PSD aprova o fim dos feriados, aprova o banco de horas, aplaude as regras da mobilidade e, depois, pretende recomendar ao Governo medidas para conciliar a vida familiar e a vida profissional. \nPortanto, a contradição está presente nos três projetos de resolução, a contradição é o denominador comum destas iniciativas. A única utilidade que, de facto, Os Verdes vislumbram nestas iniciativas limita-se à constatação, por parte do PSD, de que considera as medidas do Governo para o emprego insuficientes, que as medidas para o emprego não estão a resultar, são poucas ou não estão a produzir efeitos. \nMas, para além desta novidade, as iniciativas legislativas do PSD nada mais trazem de novo. Não estou a dizer que é pouco, porque, afinal, ficamos a saber que o PSD também não acredita naquilo que diz o Sr. Ministro da Economia e também considera insuficientes as medidas do Governo para o emprego. Nunca é tarde, bem-vindos ao «clube»!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Também para uma intervenção, tem a palavra o Sr. Deputado Miguel Laranjeiro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: O PSD agendou para hoje um debate sobre medidas de revitalização do emprego e valorização da família. \nMas qual terá sido o PSD que assinou estes projetos de resolução? O PSD que, no Governo, atirou para o desemprego mais de 140 000 portugueses? O PSD que diminuiu os apoios sociais? O PSD que reduziu o apoio do rendimento social de inserção das famílias com filhos? O PSD que fecha o País, que encerra tribunais, unidades de saúde, que extingue freguesias? O PSD que vê emigrar 70 000 portugueses e considera isso uma oportunidade? Se foi este PSD, ou se enganaram nos temas ou no momento para apresentarem os projetos de resolução.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "O PSD e o CDS aplicam, há 13 meses, uma receita que falhou. Acreditaram que teriam resultados na consolidação orçamental, mas o que provocaram foi o aumento do desemprego e das falências e nem sequer asseguraram as contas públicas, como ficou claro no relatório trimestral do INE. \nAcreditaram que o empobrecimento dos portugueses teria um sentido e que, através dele, o País recuperaria. Enganaram-se! \nO Governo podia, aliás, por estes dias, assumir que a receita estava errada, mas insiste em culpar a realidade por ela não se adequar à sua teoria. Não é a realidade que erra, esta limita-se a cumprir o erro da própria teoria. \nA vida de milhões de portugueses é o que conta e essa está muito pior do que há um ano atrás. \nO PSD, afogado nas contradições entre o que prometeu aos portugueses nas últimas eleições e o que ofereceu, não consegue melhor do que apresentar umas quantas intenções e deixar umas sugestões sem qualquer impacto concreto. Resoluções para preencher a agenda de final de sessão legislativa, Sr.as e Srs. Deputados, é do que os portugueses menos precisam.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Num espírito aparentemente ingénuo, o PSD vem defender hoje aquilo que o Governo não foi capaz de fazer no último ano. E querem que os portugueses acreditem? Querem que os 900 000 desempregados acreditem no Governo? Não, Srs. Deputados, não acreditam! Querem que os 3650 empresários que foram à falência, já este ano, acreditem no Governo? Não, não acreditam! Querem que as instituições de solidariedade social que não recebem as verbas contratadas, estando em situação de despedir ou de fechar, acreditem no Governo? Querem que os utentes do Serviço Nacional de Saúde, que deixaram de ter capacidade para pagar as taxas moderadoras ou os transportes para as consultas, acreditem no Governo? Querem que os professores que vão ter horário zero, no próximo ano letivo, acreditem no Governo? Não, Srs. Deputados, não acreditam no Governo! \nSr. Presidente, Sr.as e Srs. Deputados: O estado do País é, infelizmente, bem pior do que o PSD e o CDS querem fazer crer. \nO Governo já tem dificuldade em sair à rua, em contactar com a realidade, mas deve fazer um esforço para perceber o que está a acontecer em Portugal. \nOs projetos de resolução apresentados mais parecem uma moção de censura aos Ministros da Economia e do Emprego e da Solidariedade e da Segurança Social, por estes não responderem às situações concretas dos portugueses. \nCito uma das frases de um dos projetos de resolução: «Economia em recessão e um desemprego crescente é o quadro imediato que importa inverter na maior parte dos países membros da União Europeia». \nPois bem, agora, o espaço económico da União Europeia é importante para o PSD. Agora, o problema já não é só nacional. Aqui está a total incoerência do PSD! O Partido Socialista disse isto desde sempre, o PSD só agora chega a esta conclusão. \nO crescimento da economia e o combate ao desemprego são matérias que não resolvemos isoladamente, sim, mas precisamos de um Primeiro-Ministro que defenda Portugal. \nTemos um Primeiro-Ministro que fala grosso com os desempregados — «é uma oportunidade estar desempregado» —, mas que se cala perante Bruxelas. \nTemos um Primeiro-Ministro que é arrogante perante as dificuldades dos portugueses — «custe o que custar», vai dizendo —, mas que se encolhe perante a chanceler alemã.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "No projeto de resolução sobre desemprego é dito: «São números nunca atingidos em Portugal que devem preocupar os responsáveis políticos». Sim! Pois são! Mas, desde julho do ano passado, nunca pararam de subir! \nHoje, são muitos os que acompanham o Partido Socialista na necessidade de uma agenda para o crescimento e o emprego. \nO Governo escolheu políticas que estão a aprofundar as desigualdades — não tenhamos dúvidas! E ainda falam na valorização das famílias?! \nPropõem «flexibilizar os horários dos equipamentos sociais de apoio, nomeadamente na fase pré-escolar, infantil e juvenil». Quem paga esse alargamento? As famílias não podem, as instituições não podem e, ainda por cima, o Governo prepara-se para destruir a escola a tempo inteiro, impedindo a igualdade de oportunidades entre todas as crianças. Mais alunos por turma, menos oferta educativa, milhares de bolsas cortadas aos estudantes do ensino superior. Estão preocupados com a família?! \nAcabaram com os passes 4_18 nos transportes públicos e é assim que querem valorizar a família? \nNa sobretaxa de IRS, aplicada em 2011, cada filho valia, para o Governo, 12 €. É assim que querem valorizar a família? \nPara o cálculo da isenção das taxas moderadoras, cada filho vale zero. E estão preocupados com as famílias? \nFaltaram à verdade na campanha eleitoral, prometeram o que sabiam não poder cumprir. Mas pior: estão a destruir a economia social, com a asfixia total das IPSS, e diminuíram o valor de cada criança quando se trata de apoiar as famílias com rendimento social de inserção. \nNunca, como neste ano, nasceram tão poucas crianças, não porque os pais não queiram ter filhos, mas porque não têm condições nem esperança de vir a ter essas condições. \nEste Governo, com estas medidas, está a hipotecar o futuro do País.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Deixem-me também perguntar onde está o CDS do Deputado Paulo Portas? Onde está o autodenominado «partido dos contribuintes», quando a carga fiscal aumentou, como nunca, neste último ano, atacando as famílias — isso sim, atacando as famílias! — no IRS, no IVA, na taxa alimentar, aliás, proposta por uma ministra do CDS-PP,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "… e até na proposta mais recente de uma nova taxa sobre as dormidas dos turistas. \nOnde estão os defensores dos agricultores, dos contribuintes, dos pequenos e médios empresários, que tanto barulho faziam no passado? Onde estão, agora, esses Deputados? Onde está o Deputado Paulo Portas? Onde está?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Protestos do PSD e do CDS-PP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Onde estão o PSD e o CDS que pediam a diminuição do IVA, do ISP, do imposto sobre os combustíveis, que, nesta semana, teve o maior aumento de todos?! Onde estão o PSD e o CDS na defesa das famílias? \nOnde estão?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Onde está o pai do «calote»?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Laranjeiro", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Se o PSD quisesse um debate sério e responsável, o melhor que faria era assumir os erros da sua política, pedir desculpa pelo que não fez num ano de Governo e apresentar propostas concretas para diminuir o desemprego, para estimular a economia, para apoiar as regiões mais desfavorecidas e propor medidas concretas de apoio às famílias. \nAssim, poderíamos ter um debate mais conclusivo. \nÉ que, Sr.as e Srs. Deputados, os portugueses, neste ano, cumpriram, o Governo é que falhou.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Entretanto, reassumiu a presidência a Presidente Maria da Assunção Esteves.", 
+   "type": "presidente_troca"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, termina aqui o debate…", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "Sr.ª Presidente, peço desculpa, permite-me uma interpelação à Mesa?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr.ª Deputada.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nilza de Sena", 
+   "text": "Sr.ª Presidente, gostaria de solicitar à Mesa, na sequência da intervenção da Sr.ª Deputada Elza Pais, que distribuísse às bancadas o Relatório intercalar da execução do Plano Nacional para a Igualdade de Género, que foi enviado, pelo Governo, em março, à 1.ª Comissão, ao que o Governo não estava obrigado, onde se prova à exaustão que o Plano Nacional para a Igualdade está a ser objetivamente cumprido.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O documento será distribuído, Sr.ª Deputada Nilza de Sena. \nSrs. Deputados, o projeto de resolução n.º 411/XII (1.ª) — Constituição da X Comissão Parlamentar de Inquérito à Tragédia de Camarate (PSD e CDS-PP), que correspondia ao segundo ponto da nossa ordem do dia, por acordo, não será objeto de debate. \nAssim sendo, vamos dar início ao período regimental de votações, para o que solicito aos serviços que acionem os mecanismos de verificação eletrónica do quórum de deliberação. \nEntretanto, peço ao Sr. Secretário que nos dê conta de três diplomas que deram entrada na Mesa.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, deram entrada na Mesa, e foram admitidos, os projetos de resolução n.os 426/XII (1.ª) — Recomenda ao Governo que o relatório final dos incêndios florestais apresentado anualmente passe a integrar toda a informação relativa aos três pilares do Sistema Nacional de Defesa da Floresta contra Incêndios, acrescido de informação relativa às áreas protegidas, descrição dos grandes incêndios (área superior 500 ha), vítimas registadas, avaliação económica dos incêndios florestais e cooperação internacional (PS), que baixou à 7.ª Comissão, 427/XII (1.ª) — Recomenda ao Governo que avalie a necessidade de corrigir deficiências detetadas no Plano de Ordenamento do Parque Natural do Sudoeste Alentejano e Costa Vicentina (PSD e CDS-PP), que baixou à 11.ª Comissão, e 428/XII (1.ª) — Cessação da vigência do Decreto-Lei n.º 139/2012, de 5 de julho, que estabelece os princípios orientadores da organização e da gestão dos currículos, da avaliação dos conhecimentos e capacidades a adquirir e a desenvolver pelos alunos dos ensinos básico e secundário (PS), que baixou à 8.ª Comissão. \nÉ tudo, Sr.ª Presidente.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Muito obrigada, Sr. Secretário. \nPeço, então, agora, aos Srs. Deputados, o favor de registarem a sua presença eletronicamente, para votação. \nOs Srs. Deputados que, por qualquer razão, não o puderem fazer terão de o sinalizar à Mesa e depois fazer o registo presencial, para que seja considerada a respetiva presença na reunião.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O quadro eletrónico regista 196 presenças, às quais se acrescentam 16, perfazendo 212 Deputados, pelo que temos quórum para proceder às votações. \nSrs. Deputados, vamos começar por votar, na generalidade, na especialidade e em votação final global, a proposta de lei n.º 71/XII (1.ª) — Autoriza o Governo a regular o acesso à atividade das instituições de moeda eletrónica e da prestação de serviços de emissão de moeda eletrónica, no âmbito da transposição da Diretiva 2009/110/CE, do Parlamento Europeu e do Conselho, de 16 de setembro, relativa ao acesso à atividade das instituições de moeda eletrónica, ao seu exercício e à sua supervisão prudencial.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do PS e do CDS-PP e abstenções do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Passamos a votar o projeto de resolução n.º 403/XII (1.ª) — Recomenda a criação do estatuto de doente crónico (PCP).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi rejeitado, com votos contra do PSD, do PS e do CDS-PP e votos a favor do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Sr.ª Presidente, peço a palavra.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para que efeito, Sr. Deputado?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Serpa Oliva", 
+   "text": "Sr. Presidente, para anunciar que, sobre este projeto de resolução, apresentarei, conjuntamente com a Sr.ª Deputada Isabel Galriça Neto, uma declaração de voto.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Fica registado, Sr. Deputado. \nAgora, vamos proceder à votação, na generalidade, do projeto de lei n.º 234/XII (1.ª) — Regime especial de comparticipação de medicamentos destinados a portadores de doenças raras (BE).", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetido à votação, foi rejeitado, com votos contra do PSD, do PS e do CDS-PP e votos a favor do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Segue-se a votação do projeto de resolução n.º 407/XII (1.ª) — Recomenda ao Governo a criação do estatuto do doente crónico e da tabela nacional de incapacidade e funcionalidade da saúde (BE).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado, com votos a favor do PS, do PCP, do BE e de Os Verdes e abstenções do PSD e do CDS-PP.", 
+   "type": "voto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nuno Reis", 
+   "text": "Sr.ª Presidente, peço a palavra.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para que efeito, Sr. Deputado?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nuno Reis", 
+   "text": "Sr.ª Presidente, para informar a Câmara que, relativamente às três últimas votações, o Grupo Parlamentar do PSD apresentará uma declaração de voto.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Fica registado, Sr. Deputado. \nPassamos a votar a proposta de resolução n.º 31/XII (1.ª) — Aprova anexos à Convenção sobre os Privilégios e Imunidades das Organizações Especializadas das Nações Unidas, adotada pela Assembleia Geral das Nações Unidas, em 21 de novembro de 1947.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do PS e do CDS-PP e votos contra do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Agora, vamos votar a proposta de resolução n.º 32/XII (1.ª) — Aprova o Acordo entre os Estados-membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações Classificadas Trocadas no interesse da União Europeia, assinado em Bruxelas, a 25 de maio de 2011.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do PS, do CDS-PP, do PCP e de Os Verdes e a abstenção do BE.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Segue-se a votação da proposta de resolução n.º 33/XII (1.ª) — Aprova o recesso por parte da República Portuguesa do Tratado sobre o Estatuto Jurídico da EUROFOR, assinado em Roma, a 5 de julho de 2000.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do PS e do CDS-PP e abstenções do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Vamos votar o projeto de resolução n.º 420/XII (1.ª) — Relatório sobre Portugal na União Europeia 2011 (Comissão de Assuntos Europeus).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado, com votos a favor do PSD, do PS e do CDS-PP e votos contra do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Passamos a votar, na generalidade, a proposta de lei n.º 75/XII (1.ª) — Procede à alteração do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD e do CDS-PP e abstenções do PS, do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Baixa à 1.ª Comissão. \nAgora, votamos, na generalidade, a proposta de lei n.º 76/XII (1.ª) — Procede à terceira alteração ao Código da Execução das Penas e medidas privativas de liberdade aprovado pela Lei n.º 115/2009, de 12 de outubro.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD e do CDS-PP e votos contra do PS, do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Baixa à 1.ª Comissão. \nSegue-se a votação, na generalidade, da proposta de lei n.º 77/XII (1.ª) — Altera o Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de fevereiro.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD e do CDS-PP e votos contra do PS, do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Baixa à 1.ª Comissão.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria Paula Cardoso", 
+   "text": "Sr.ª Presidente, peço a palavra.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para que efeito, Sr.ª Deputada.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Maria Paula Cardoso", 
+   "text": "Sr.ª Presidente, para anunciar que, sobre a votação relativa à proposta de lei n.º 76/XII (1.ª), apresentarei uma declaração de voto.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, fica registado. \nPassamos a votar, na generalidade, o projeto de lei n.º 264/XII (1.ª) — Crimes da responsabilidade de titulares de cargos políticos ou de altos cargos públicos (PS).", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado, com votos a favor do PS, do PCP, do BE e de Os Verdes e abstenções do PSD e do CDS-PP.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O projeto de lei baixa à 1.ª Comissão.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Vamos votar, na generalidade, o projeto de lei n.º 266/XII (1.ª) — Altera o Código de Processo Penal, estabelecendo a obrigatoriedade de assistência do arguido por defensor no inquérito e garantindo maior celeridade no julgamento da criminalidade de menor gravidade (PCP).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado, com votos a favor do PCP, do BE e de Os Verdes e abstenções do PSD, do PS e do CDS-PP.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O projeto de lei baixa à 1.ª Comissão. \nVotamos agora, também na generalidade, a proposta de lei n.º 78/XII (1.ª) — Transpõe a Diretiva 2009/136/CE, na parte que altera a Diretiva 2002/58/CE, do Parlamento Europeu e do Conselho, de 12 de julho, relativa ao tratamento de dados pessoais e à proteção da privacidade no setor das comunicações eletrónicas, procedendo à primeira alteração à Lei n.º 41/2004, de 18 de agosto, e à segunda alteração ao Decreto-Lei n.º 7/2004, de 7 de janeiro.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada por unanimidade.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "A proposta de lei baixa à 1.ª Comissão. \nPassamos à votação, na generalidade, da proposta de lei n.º 82/XII (1.ª) — Regula as atividades de distribuição, venda e aplicação de produtos fitofarmacêuticos para uso profissional e de adjuvantes de produtos \nfitofarmacêuticos e define os procedimentos de monitorização à utilização dos produtos fitofarmacêuticos, transpondo a Diretiva 2009/128/CE, do Parlamento Europeu e do Conselho, de 21 de outubro, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do PS e do CDS-PP e abstenções do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Esta iniciativa baixa à 7.ª Comissão. \nVotamos agora, na generalidade, a proposta de lei n.º 84/XII (1.ª) — Cria o tribunal arbitral do desporto (TAD), com competência específica para administrar a justiça relativamente a litígios que relevam do ordenamento jurídico desportivo ou relacionados com a prática do desporto, e aprova a lei do TAD.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD e do CDS-PP, votos contra do PCP, do BE e de Os Verdes e a abstenção do PS.", 
+   "type": "voto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Laurentino Dias", 
+   "text": "Peço a palavra, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Laurentino Dias, pediu a palavra para que efeito?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Laurentino Dias", 
+   "text": "Sr.ª Presidente, apenas para anunciar uma declaração de voto, em nome do Grupo Parlamentar do PS.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, fica registado. \nA proposta de lei baixa à 1.ª Comissão. \nVamos proceder à votação do projeto de resolução n.º 411/XII (1.ª) — Constituição da X Comissão Parlamentar de Inquérito à Tragédia de Camarate (PSD e CDS-PP).", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado, com votos a favor do PSD, do CDS-PP, do PCP, do BE e de Os Verdes, voto contra do Deputado do PS Jorge Fão e a abstenção do PS.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Vamos votar o projeto de resolução n.º 424/XII (1.ª) — Prorrogação do prazo de funcionamento da Comissão Parlamentar de Inquérito ao Processo de Nacionalização, Gestão e Alienação do Banco Português de Negócios, SA, e suspensão dos trabalhos durante o mês de agosto (Presidente da AR).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado por unanimidade.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Votamos, agora, o projeto de resolução n.º 366/XII (1.ª) — Anula o concurso público para a contratação de médicos através de empresas de trabalho temporário (PCP).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi rejeitado, com votos contra do PSD e do CDS-PP e votos a favor do PS, do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Vamos votar o projeto de resolução n.º 320/XII (1.ª) — No dia da Europa, recomenda um conjunto de medidas a adotar pelo Governo, pela Assembleia da República e pelas instituições comunitárias (PSD). \nSrs. Deputados, como o guião das votações indica, em relação a diferentes incisos deste projeto de resolução, há votações separadas, que já estão identificadas no guião. \nNão havendo propostas de alteração de última hora, vamos, então, proceder à votação separada, conforme a indicação do guião. \nVotamos, pois, a alínea _a_).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do PS e do CDS-PP e votos contra do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Votamos, agora, a alínea _b_) do mesmo projeto de resolução.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do CDS-PP e do BE, votos contra do PS e abstenções do PCP e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos proceder à votação da proposta, apresentada pelo PSD, de alteração da alínea _c_).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do PS e do CDS-PP, votos contra do BE e abstenções do PCP e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "text": "É a seguinte:", 
+   "type": "inicio_documento"
+  }, 
+  {
+   "text": "_c_) Solicitar a realização da reunião da Comissão de Desenvolvimento Regional do Parlamento Europeu, em Lisboa, na Assembleia da República, com a participação das Assembleias Legislativas Regionais, para discutir formas de envolvimento e de desenvolvimento das políticas de coesão e de dimensão regional integrando particularmente a temática das regiões ultraperiféricas, incluindo a sensibilização das instituições comunitárias para o aperfeiçoamento dos centros de prestação de serviços internacionais das Regiões Autónomas.", 
+   "type": "documento"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Fica, assim, prejudicada a votação da alínea _c_) do projeto de resolução. \nSrs. Deputados, votamos, agora, a alínea _d_) do projeto de resolução.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD e do CDS-PP, votos contra do PS e abstenções do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Vamos proceder à votação da alínea _e_) do projeto de resolução.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD e do CDS-PP e votos contra do PS, do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Vamos votar a alínea _f_).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD e do CDS-PP, votos contra do PS e abstenções do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Votamos, agora, a proposta, apresentada pelo CDS-PP, de substituição da alínea _g_).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do CDS-PP e do Deputado do PS Jacinto Serrão e votos contra do PS, do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "text": "É a seguinte:", 
+   "type": "inicio_documento"
+  }, 
+  {
+   "text": "_g_) Recomendar ao Governo a defesa, no âmbito europeu, da criação de um imposto sobre as transações financeiras e de uma progressiva convergência fiscal, sem prejuízo da manutenção de praças financeiras que se constituam como instrumentos decisivos de desenvolvimento de regiões europeias, como é o caso do Centro Internacional de Negócios da Madeira.", 
+   "type": "documento"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, sendo assim, a alínea _g_) fica substituída e votada automaticamente. \nPassamos à votação da alínea _h_) do projeto de resolução.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do PS e do CDS-PP e votos contra do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Votamos a alínea _i_).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD e do CDS-PP e votos contra do PS, do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Votamos, agora, a proposta, apresentada pelo CDS-PP, de aditamento de uma nova alínea _c_).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do PS, do CDS-PP, do PCP e de Os Verdes e a abstenção do BE.", 
+   "type": "voto"
+  }, 
+  {
+   "text": "É a seguinte:", 
+   "type": "inicio_documento"
+  }, 
+  {
+   "text": "_c_) Recomendar ao Governo que no âmbito das negociações do Quadro Financeiro Plurianual 2014-2020, defenda, intransigentemente, um reforço dos montantes da política de coesão e das verbas destinadas às Regiões Ultraperiféricas da União Europeia, no respeito pelo consagrado nos Tratados, designadamente no artigo 349.º do TFUE.", 
+   "type": "documento"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado João Pinho de Almeida pediu a palavra para que efeito?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Sr.ª Presidente, é para anunciar que, relativamente às votações que acabámos de fazer do projeto de resolução n.º 320/XII (1.ª), apresentarei uma declaração de voto.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Fica claro, Sr. Deputado.\nPassamos, agora, à votação do projeto de resolução n.º 425/XII (1.ª), da autoria conjunta do PSD, do PS, do CDS-PP, do PCP e do BE.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Peço a palavra, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Sr.ª Presidente, mesmo que não esteja inteiramente convencido disso, queria fazer, nos termos legalmente previstos no Estatuto dos Deputados, uma declaração de eventual conflito de interesses.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Fica registado, Sr. Deputado. \nVamos, então, votar o projeto de resolução n.º 425/XII (1.ª) — Recomenda ao Governo a adoção das medidas necessárias ao reconhecimento da isenção de imposto municipal sobre imóveis (IMI) aos prédios sitos no Centro Histórico de Évora (PSD, PS, CDS-PP, PCP e BE).", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado por unanimidade.", 
+   "type": "voto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Carlos Zorrinho", 
+   "text": "Peço a palavra, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Carlos Zorrinho", 
+   "text": "Sr.ª Presidente, é apenas para dizer que, em meu nome pessoal e em nome do Sr. Deputado António Serrano, entregaremos uma declaração de voto sobre a votação deste projeto de resolução.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Fica registado, Sr. Deputado. \nEm votação final global, vamos votar o texto final, apresentado pela Comissão de Educação, Ciência e Cultura, relativo à proposta de lei n.º 61/XII (1.ª) — Altera o Estatuto do Ensino Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 553/80, de 21 de novembro.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Isabel Oneto", 
+   "text": "Peço a palavra, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "A Sr.ª Deputada Isabel Oneto, do PS, está a fazer uma indicação à Mesa. É sobre o sentido de voto ou sobre declaração de voto, Sr.ª Deputada?", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Isabel Oneto", 
+   "text": "Sr.ª Presidente, é para dizer que não participo nesta votação devido a eventual conflito de interesses.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, os Deputados que estão no Plenário têm de votar.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Isabel Oneto", 
+   "text": "Nesse caso, Sr.ª Presidente, abstenho-me e faço a declaração de interesses.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Com certeza, Sr.ª Deputada. \nVamos, então, proceder à votação final global do texto final, apresentado pela Comissão de Educação, Ciência e Cultura, relativo à proposta de lei n.º 61/XII (1.ª) — Altera o Estatuto do Ensino Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 553/80, de 21 de novembro.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado, com votos a favor do PSD e do CDS-PP, votos contra do PS, do PCP, do BE e de Os Verdes e a abstenção da Deputada do PS Isabel Oneto.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, votamos agora, em votação final global, o texto final, apresentado pela Comissão de Educação, Ciência e Cultura, relativo à proposta de lei n.º 53/XII (1.ª) — Aprova a lei antidopagem no desporto, adotando na ordem jurídica interna as regras estabelecidas no Código Mundial Antidopagem e revogando a Lei n.º 27/2009, de 19 de junho.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado, com votos a favor do PSD e do CDS-PP, votos contra do PS e abstenções do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Laurentino Dias", 
+   "text": "Peço a palavra, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Laurentino Dias", 
+   "text": "Sr.ª Presidente, é para informar a Câmara, relativamente a esta votação, da entrega de uma declaração de voto, em nome do Grupo Parlamentar do Partido Socialista.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Fica registado, Sr. Deputado. \nSrs. Deputados, vamos, agora, votar os projetos de resolução hoje debatidos, começando pela votação do projeto de resolução n.º 417/XII (1.ª) — Recomenda ao Governo medidas de revitalização do emprego (PSD).", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado, com votos a favor do PSD e do CDS-PP, votos contra do BE e abstenções do PS, do PCP e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Votamos, agora, o projeto de resolução n.º 418/XII (1.ª) — Recomenda ao Governo que tome medidas de valorização da família que facilitem a conciliação entre a vida familiar e a vida profissional (PSD).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado, com votos a favor do PSD e do CDS-PP, votos contra do PCP, do BE e de Os Verdes e a abstenção do PS.", 
+   "type": "voto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Peço a palavra, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr.ª Deputada.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Rita Rato", 
+   "text": "Sr.ª Presidente, é para informar que, relativamente a esta votação, o Grupo Parlamentar do PCP apresentará uma declaração de voto.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Fica claro, Sr.ª Deputada. \nPassamos à votação do projeto de resolução n.º 419/XII (1.ª) — Recomenda ao Governo a criação de um programa de formação profissional de apoio ao emprego nos sectores da hotelaria, restauração e turismo na região do Algarve (PSD).", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado, com votos a favor do PSD, do PS e do CDS-PP e abstenções do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Peço a palavra, Sr.ª Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Faça favor.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Sr.ª Presidente, é para anunciar que, sobre esta votação, o Grupo Parlamentar do PCP apresentará uma declaração de voto.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Fica registado, Sr. Deputado.\nSrs. Deputados, o Sr. Secretário indica-me que já deu entrada na Mesa o projeto de deliberação n.º 9/XII (1.ª) — Suspensão dos trabalhos da Comissão Parlamentar de Inquérito à Contratualização, Renegociação e Gestão de todas as Parcerias Público-Privadas do Setor Rodoviário e Ferroviário. \nÉ uma votação com lógica idêntica à de uma outra que fizemos aqui hoje sobre a outra comissão de inquérito. \nHá acordo sobre o tempo de interrupção, que é de 13 de julho a 18 de setembro. Se o Plenário quiser, podemos votar aqui este projeto de deliberação.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Não havendo oposição, vamos, então, votar o projeto de deliberação n.º 9/XII (1.ª), acima identificado.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado por unanimidade.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Dou, agora, a palavra ao Sr. Secretário para dar conta de dois pareceres da Comissão para a Ética, a Cidadania e a Comunicação, que serão votados após a respetiva leitura.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente e Srs. Deputados, o relatório e parecer da Comissão para a Ética, a Cidadania e a Comunicação refere-se à suspensão do mandato de Deputado, ao abrigo da alínea _c_) do n.º 1 do artigo 4.º, conjugada com o disposto na alínea _h_) do n.º 1 do artigo 20.º do Estatuto dos Deputados, do Sr. Deputado Pedro Saraiva (PSD), círculo eleitoral de Coimbra, sendo substituído pela Sr.ª Deputada Ana Elisabete Laborda Oliveira, com efeitos desde 16 de julho de 2012, inclusive. \nO parecer é no sentido de a suspensão em causa e de a respetiva substituição serem de admitir, uma vez que se encontram verificados os requisitos legais.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em apreciação o parecer.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Não havendo pedidos de palavra, vamos votá-lo.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado por unanimidade.", 
+   "type": "voto"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente e Srs. Deputados, de acordo com o solicitado pela 2.ª Secção do 2.º Juízo Criminal de Lisboa, Processo n.º 783/10.0PULSB, a Comissão para a Ética, a Cidadania e a Comunicação decidiu emitir parecer no sentido de autorizar o Sr. Deputado Arménio Santos (PSD) a prestar depoimento presencialmente, como testemunha, no âmbito dos autos em referência.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em apreciação o parecer.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Não havendo pedidos de palavra, vamos votá-lo.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado por unanimidade.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, terminámos os nossos trabalhos de hoje. \nA próxima sessão plenária, a realizar no próximo dia 25, terá como ordem do dia o debate de várias petições apresentadas à Assembleia da República. \nEstá encerrada a sessão.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Eram 12 horas e 35 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "text": "Declarações de voto enviadas à Mesa, para publicação\nRelativas aos projetos de resolução n.os 403 e 407/XII (1.ª):\nOs Deputados abaixo assinados, do Grupo Parlamentar do Partido Social Democrata, vêm apresentar a seguinte declaração de voto a respeito dos projetos de resolução n.º 403/XII (1.ª), que recomenda a criação do estatuto de doente crónico, e n.º 407/XII (1.ª), que recomenda ao Governo a criação do estatuto do doente crónico e da tabela nacional de incapacidade e funcionalidade da saúde. \nAs doenças crónicas abrangem atualmente cerca de 5,2 milhões dos portugueses, sendo certo que a tendência é de que este número continue a aumentar. \nÉ consabido que a pessoa com doença crónica sofre de patologia, na maioria dos casos, evolutivamente incapacitante, que a afeta, a nível clínico, físico, emocional e psicológico, familiar, social, educacional, profissional e laboral. \nNão se ignora, igualmente, o facto de que os doentes crónicos em Portugal, quando submetidos a juntas médicas para atribuição dos graus de incapacidade, ainda serem avaliados pela Tabela Nacional de Incapacidades, a qual se dirige exclusivamente para as doenças profissionais, acidentes de trabalho e viação, não existindo, ainda, uma tabela especificamente dirigida para a saúde. \nCiente da necessidade de preencher as referidas lacunas no nosso ordenamento jurídico, o Governo determinou já a elaboração de uma tabela nacional de incapacidades e funcionalidades da saúde e, bem assim, de um estatuto jurídico do doente crónico. \nCarecem, assim, de oportunidade os projetos de resolução n.º 403/XII (1.ª), do Grupo Parlamentar do Partido Comunista Português (PCP), e n.º 407/XII (1.ª), do Grupo Parlamentar do Bloco de Esquerda (BE), na medida em que ambos recomendam ao Governo a criação do estatuto do doente crónico e de uma tabela nacional de incapacidade e funcionalidade da saúde. \nNo que concerne ao projeto de resolução n.º 403/XII (1.ª), acresce, ainda, o facto de nele recomendar o PCP ao Governo a tomada de medidas de alcance diferente, seja em matéria de acesso a prestações, serviços e produtos de saúde, seja de antecipação da reforma ou, ainda, no âmbito do regime laboral, de cujas consequências práticas não cuidaram os proponentes, sequer minimamente, de avaliar e quantificar. Trata-se de uma omissão grave que, ao não dilucidar o impacto das referidas medidas, não pode deixar de merecer a oposição do PSD. \nJá o projeto de resolução n.º 407/XII (1.ª), do BE, para além de presentemente carecer de razão de ser, na medida em que, como se referiu supra, o Governo está já a concretizar as recomendações nele contidas, insiste em imputar intenções ao Executivo e à atual maioria parlamentar que não podem ser subscritas, e impedem, por isso, o voto favorável do PSD. \nAssim, os Deputados abaixo assinados, do Grupo Parlamentar do PSD, manifestam o seu voto contra relativamente ao projeto de resolução n.º 403/XII (1.ª), que recomenda a criação do estatuto de doente crónico, e, bem assim, a sua abstenção relativamente ao projeto de resolução n.º 407/XII (1.ª), que recomenda ao governo a criação do estatuto do doente crónico e da tabela nacional de incapacidade e funcionalidade da saúde.\nOs Deputados do PSD, _Luís Montenegro — Nuno Reis_.", 
+   "type": "inicio_declaracao_voto"
+  }, 
+  {
+   "text": "———\nRelativa ao projeto de lei n.º 234/XII (1.ª):\nOs Deputados do Grupo Parlamentar do Partido Social Democrata vêm apresentar declaração de voto a respeito do projeto de lei n.º 234/XII (1.ª), que pretende estabelecer um regime especial de comparticipação de medicamentos destinados a portadores de doenças raras.\nO Bloco de Esquerda (BE) apresentou o projeto de lei n.º 234/XII (1.ª), através do qual pretende explorar politicamente a situação dos portadores de doenças raras, prevendo para os mesmos um acesso gratuito ou quase gratuito (comparticipação pelo escalão A) aos medicamentos que se lhes podem destinar. \nContudo, o BE não cuida de fazer anteceder as suas propostas de aumento da comparticipação do Estado no preço dos medicamentos da sempre exigível verificação prévia das mais-valias terapêuticas e económicas daqueles fármacos, o que em cada caso sempre deve ter lugar. \nCom efeito, os proponentes optaram antes por propor uma aprovação automática da comparticipação, a qual, para além de profundamente iníqua, pela desigualdade que geraria entre os utentes do Serviço Nacional de Saúde (SNS), poderia mesmo representar ainda uma ameaça à segurança, racionalidade e a própria sustentabilidade dos encargos com os medicamentos. \nAcresce que os designados «medicamentos órfãos» já beneficiam atualmente de condições especiais de comparticipação na medida em que são disponibilizados pelos hospitais do SNS sem qualquer encargo para os doentes que deles necessitam. \nEsta realidade assume especial relevo como o comprova o facto de os gastos do SNS com medicamentos órfãos corresponderem a 8,6% do total dos gastos hospitalares com medicamentos (_in_ Análise do Mercado de Medicamentos no SNS, abril de 2012). \nNão é, pois, verdadeiro o pressuposto desta iniciativa legislativa do BE na medida em que não se verificam particulares constrangimentos ou limitações relevantes no que se refere à disponibilização dos medicamentos em questão, não se justificando, consequentemente, uma medida corretiva como a proposta. \nDe referir, ainda, que a proposta de majoração da comparticipação para 90% (escalão A) de todos os medicamentos utilizados pelos portadores de doenças raras, independentemente das respetivas indicações terapêuticas, criaria um regime adicional de comparticipação sem obedecer a qualquer critério objetivo ou evidência clínica. \nNesta conformidade, os Deputados abaixo assinados, do Grupo parlamentar do PSD, manifestam o seu desacordo relativamente ao projeto de lei n.º 234/XII (1.ª), que estabelece um regime especial de comparticipação de medicamentos destinados a portadores de doenças raras.\nOs Deputados do PSD, _Luís Montenegro — Nuno Reis_.", 
+   "type": "separador"
+  }, 
+  {
+   "text": "———\nRelativa à proposta de lei n.º 76/XII (1.ª):\nA proposta de lei n.º 76/XII (1.ª), visa alterar pontualmente o Código da Execução das Penas e Medidas Privativas da Liberdade (CEP), no sentido de flexibilizar a oportunidade de a pena acessória de expulsão ser antecipada, quer através da diminuição do tempo efetivo de cumprimento da pena de prisão necessário à execução da pena de expulsão, quer através da possibilidade de, mediante parecer fundamentado e favorável do diretor da cadeia e da reinserção social, e com a anuência do condenado, a execução da pena de expulsão poder ocorrer mesmo em momento anterior. \nA execução da pena acessória de expulsão é matéria prevista no artigo 182.º do CEP e, em termos similares, no artigo 151.º, n.os 3 e 4, da Lei n.º 23/2007, de 4 de julho (Regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional). \nEste projeto contém assim uma discriminação positiva dos condenados na pena de expulsão face aos demais cidadãos nacionais ou estrangeiros, que apenas tenham sido condenados em pena de prisão efetiva, mas não em pena de expulsão: na prática, aqueles beneficiarão de um regime de antecipação da libertação que a estes está vedado. \nPor outro lado, quando saem, fazem-no sem necessidade de cumprirem quaisquer regras ou obrigações e sem controlo do Tribunal de Execução de Penas, contrariamente aos segundos, que têm esses constrangimentos por força do regime da liberdade condicional (sendo ainda que, em caso de incumprimento deste regime, poderão ter de cumprir o remanescente da pena, o que com os primeiros não acontece). \nÉ precisamente esta discriminação positiva assente na motivação de que a esmagadora maioria dos reclusos estrangeiros condenados em penas privativas de liberdade e na pena acessória de expulsão, e a\nconsciência de que dificilmente reúnem condições que lhes permitam gozar saídas precárias, de liberdade condicional, por ausência de suporte familiar que apoie e colabore na sua reintegração, e que lhe permita manter os laços familiares e de amizade, que se entendeu preferível antecipar-lhes a execução da pena acessória de expulsão, com o firme objetivo de possibilitar a sua ressocialização nas sociedades de onde são nacionais. \nSe esta motivação merece a minha inteira adesão, dúvidas se me levantam quanto à sua aplicação prática e consequências discriminatórias que ela encerra, potenciadoras de violarem o princípio da igualdade. \nO constitucionalmente consagrado no artigo 13.º, que contem o princípio da igualdade, poderá estar em causa quando ao aplicar esta lei descriminaremos cidadãos nacionais, uma vez que estes terão que obedecer às regras da liberdade condicional, enquanto um cidadão estrangeiro que tenha sido condenado em pena acessória de expulsão ficará com a possibilidade de a antecipar desde que cumpridos os requisitos do artigo 188.º-A deste projeto de lei. \nPor sua vez, o regime atual só permite a antecipação da execução da pena: logo que estejam cumpridos dois terços da pena ou então, estando reunidos os requisitos para a concessão da liberdade condicional, o recluso condenado concorde com a substituição da eventual liberdade condicional pela execução da pena de expulsão. \nCom esta alteração, deixa de exigir a verificação dos pressupostos da concessão da liberdade condicional quando o recluso condenado ainda não tenha cumprido dois terços da pena, podendo ser decretada a antecipação da pena acessória de expulsão nos seguintes casos: \n— se o recluso tiver cumprido ou metade ou dois terços da pena, conforme tenha sido condenado, respetivamente, em pena até 5 anos ou superior a 5 anos; \n— mediante proposta fundamentada do diretor do estabelecimento prisional e com a concordância do recluso, se o mesmo tiver cumprido um terço ou metade da pena, consoante tenha sido condenado, respetivamente, em pena de prisão até 5 anos ou superior a 5 anos. \nSe a atrás referida motivação nos merece acolhimento, não podemos deixar de ponderar que devemos reformar com as devidas cautelas que a segurança jurídica e social nos impõe. \nA pena de expulsão extingue a pena, ou seja, assim que decretada, o remanescente da pena por cumprir extingue-se. \nCom a facilidade de mobilidade internacional que hoje em dia se verifica, a possibilidade de o expulso regressar ao nosso País deve ser tida em consideração e devidamente acautelada, especialmente em condenações por terrorismo, tráfico de seres humanos e abuso sexual de menores, entre outros de importância semelhante. \nUma vez que não se aquilatando nos termos da liberdade condicional se o condenado dá ou não mostras e garantias de efetiva ressocialização e que está preparado para se integrar na vida social, não fará sentido antecipar-lhe a execução da pena acessória de expulsão, até porque esta antecipação lhe permitirá (quando for cado disso) o mais rápido retorno à atividade criminosa. \nA última questão que me suscita dúvidas quanto à aplicabilidade de forma efetiva desta alteração prende-se com os casos em que o condenado esteja a cumprir, em execução sucessiva, uma pena de prisão com pena acessória de expulsão e uma ou mais penas de prisão sem pena acessória de expulsão. \nDe que forma se aplicam as regras agora estabelecidas neste projeto de lei? Não resulta claro a solução para esta hipótese que infelizmente é muito comum. \nQualquer das teses que em abstrato podíamos considerar deixam algumas dúvidas. \nSe, por um lado, poder-se-á atender apenas ao cumprimento do tempo exigido pela lei para a pena de prisão que tenha pena acessória de prisão, o que em tese levaria à prescrição de uma ou mais penas, transformando-se numa solução que por si viola o princípio da igualdade e colocaria em causa os efeitos preventivos do direito penal, por outro lado, se se exigir o cumprimento prévio de todas as penas que não tem pena acessória de expulsão, e só após terá que cumprir os tempos de prisão que tem também pena acessória de expulsão, deste modo o condenado vê a sua situação agravada. \nTodas estas ponderações levariam a que o meu sentido de voto fosse diferente do expresso favoravelmente, o que fiz por respeito às indicações do meu grupo parlamentar.\nA Deputada do PSD, _Maria Paula Cardoso_.", 
+   "type": "separador"
+  }, 
+  {
+   "text": "———\nRelativa à proposta de lei n.º 84/XII (1.ª):\nO Grupo Parlamentar do Partido Socialista apresentou, em 18 de maio passado, um projeto de lei que veio a ter o n.º 236/XII (1.ª) e que cria o tribunal arbitral do desporto. \nTal projeto foi sujeito a discussão na generalidade em Plenário em 29 de junho e foi aprovado, baixando à respetiva comissão para apreciação de especialidade. \nOra, a proposta de lei do Governo com o n.º 84/XII (1.ª), tendo embora o mesmo objetivo — criação do tribunal arbitral do desporto —, diverge profundamente daquele projeto do PS, designadamente, quanto à sua sede, instalação, gestão, composição e competências do Conselho de Arbitragem e Conselho Diretivo, requisitos dos árbitros, etc. \nTais divergências, já salientadas na discussão em Plenário, expressam de forma clara oposição à proposta de Governo. \nNão obstante, o Grupo Parlamentar do PS votou abstenção na generalidade, com o objetivo de, assim, viabilizar a discussão conjunta de ambas as propostas em sede de especialidade com manifesta vantagem para o processo legislativo.\nOs Deputados do PS, _Laurentino Dias — Acácio Pinto — Rui Pedro Duarte — Carlos Enes — Jacinto Serrão — Rui Santos — Elza Pais_.", 
+   "type": "separador"
+  }, 
+  {
+   "text": "———\nRelativa ao projeto de resolução n.º 425/XII (1.ª):\nA Assembleia da República aprovou por unanimidade, em 13 de Julho de 2012, o projeto de resolução n.º 425/XII (1.ª), que recomenda ao Governo a adoção das medidas necessárias ao reconhecimento da isenção de imposto municipal sobre imóveis (IMI) aos prédios sitos no Centro Histórico de Évora. \nO projeto subscrito pelos Grupos Parlamentares do PPD/PSD, CDS-PP, PCP, PS e BE decorre de uma petição de cidadãos no mesmo sentido e conclui pela recomendação ao Governo da «adoção das medidas necessárias ao reconhecimento da isenção de imposto municipal sobre imóveis nos prédios sitos no Centro Histórico de Évora, em condições semelhantes às existentes para os concelhos do Porto, Guimarães, Sintra e na região do Douro, onde existem igualmente zonas classificadas como Património da Humanidade». \nTendo em conta que a definição do perímetro da zona classificada em Évora teve critérios mais abrangentes do que noutras zonas do País, incluindo zonas de nova construção e edifícios sem valor patrimonial histórico e/ou com deficiências de conservação, e que a aplicação por analogia da norma legal da isenção criará graves problemas de gestão e equilíbrio financeiro à autarquia, os Deputados signatários declaram que votaram favoravelmente o projeto de resolução identificado, no pressuposto de que a autarquia de Évora será compensada em sede orçamental pelas isenções decorrentes da aplicação da lei por analogia genérica, comprometendo-se a, caso isso não aconteça por iniciativa do Governo, fazer a respetiva proposta em sede da discussão do Orçamento do Estado.\nOs Deputados do PS, _Carlos Zorrinho — António Serrano_.\nRelativa ao texto final, apresentado pela Comissão de Educação, Ciência e Cultura, sobre a proposta de lei n.º 53/XII (1.ª):", 
+   "type": "separador"
+  }, 
+  {
+   "text": "———\n1 — Na 32.ª Sessão da Conferência Geral da UNESCO ficou decidido que o combate à dopagem no desporto devia ser regulado mediante a elaboração de uma convenção internacional, a apresentar na 33.ª Sessão da Conferência Geral da UNESCO. \nCom efeitos vinculativos para os Estados, o único instrumento em vigor era, até então, a Convenção contra a Dopagem no Desporto do Conselho da Europa, com resultados efetivos na harmonização das políticas e práticas antidopagem, bem como no lançamento de programas de sensibilização e educação. \nNo entanto, esta Convenção tinha, como tem, o seu alcance limitado (a 46 Estados quando foi proposta a Convenção da UNESCO). Com a assinatura da Declaração de Copenhaga (assinada por 146 países), assinada em março de 2003, foi dado um novo passo no âmbito do combate à dopagem no desporto, nomeadamente dando suporte à ação da Agência Mundial Antidopagem e ao respetivo Código Mundial. \nA Agência Mundial Antidopagem com vista à harmonização das legislações nacionais procurou, através do Código Mundial Antidopagem, reunir os critérios e as regras que para tanto julgou convenientes. \nNo entanto, tratando-se de uma organização-não governamental, as regras plasmadas no Código Mundial Antidopagem careciam de ser enquadradas por um instrumento que as dotasse de coercibilidade. \nA Convenção Internacional contra a Dopagem da UNESCO, ao incorporar os princípios plasmados no Código Mundial Antidopagem, assegura, entre os países signatários, a harmonização de legislações, permitindo desta forma um maior agilizar de processos quanto ao combate à dopagem. \nA Convenção foi adotada por unanimidade pela 33.ª Sessão da Conferência Geral da Unesco, tendo sido aprovada, entre nós, pelo Decreto n.º 4-A/2007, de 20 de março. \nCom efeito, nos termos da alínea _c_) do n.º 1 do artigo 197.º da Constituição da República Portuguesa (CRP), competia ao Governo a aprovação da presente Convenção, em virtude de não abranger matérias da competência da Assembleia da República previstas nos artigos 161.º, alínea _i_), 164.º e 165.º da CRP. Em conformidade com o n.º 2 do artigo 197.º, a aprovação dos acordos internacionais reveste a forma de decreto. \n2 — A legislação vigente em Portugal, em matéria de combate à dopagem é a seguinte: \nI — Convenção Internacional contra a Dopagem no Desporto (UNESCO), aprovada pelo Decreto n.º 4-A/2007, de 20 de março; \nII — Convenção Europeia contra o Doping, aprovada pelo Decreto n.º 2/94, de janeiro; III — Lei n.º 27/2009, de 19 de junho. \n3 — A proposta de lei n.º 53/XII (1.ª) pretende, segundo as suas próprias palavras, aproveitar a legislação vigente que consta do atual regime jurídico do Centro contra a Dopagem no Desporto e adotar plenamente as disposições estruturantes do Código Mundial Antidopagem. \nOra, quer em sede de Comissão de Educação, Ciência e Cultura, quer em sede de Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, quando da discussão na especialidade, teve o Grupo Parlamentar do Partido Socialista oportunidade de afirmar o seu entendimento de que algumas das normas são violadoras de elementares princípios constitucionais. \nA título de exemplo dir-se-á que princípios básicos do Estado de direito como o da presunção de inocência, proibição do ónus da prova, princípio _in dubio pro reo_, princípio da culpa, direito ao silêncio, etc., são manifestamente violados em normas diversas, designadamente as constantes dos artigos 9.º, 60.º e seguintes da proposta. \nEm conformidade e pelas razões expostas, o Grupo Parlamentar do Partido Socialista votou contra a proposta de lei n.º 53/XII (1.ª), que aprova a lei antidopagem no desporto.\nOs Deputados do PS, _Laurentino Dias — Carlos Enes — Jacinto Serrão — Rui Santos — Carlos Zorrinho — Acácio Pinto — Odete João_.", 
+   "type": "separador"
+  }, 
+  {
+   "text": "———\nRelativa ao projeto de resolução n.º 418/XII (1.ª):\nRelativamente ao projeto de resolução n.º 418/XII (1.ª), que recomenda ao Governo que tome medidas de valorização da família que facilitem a conciliação entre a vida familiar e a vida profissional (PSD), o PCP\nentende que as medidas apresentadas, para além de profundamente vagas e insuficientes, são postas em causa todos os dias com a aplicação do pacto de agressão da troica, subscrito por PS, PSD e CDS, e executado por este Governo. \nO PCP desde há muito que vem apresentando um conjunto muito alargado de propostas legislativas muito concretas no sentido de valorizar o trabalho e os trabalhadores, designadamente as mulheres trabalhadoras, garantindo a articulação da vida pessoal, familiar e profissional. Estas propostas, a par de outras propostas de reforço da proteção da maternidade e paternidade e de incentivo à natalidade, têm sido sucessivamente rejeitadas por PS, PSD e CDS. \nAs alterações, para pior, ao Código do Trabalho aprovadas recentemente por PSD e CDS, com o apoio do PS, vão no sentido exatamente contrário aos objetivos enunciados no título deste projeto de resolução: \nalargamento do horário de trabalho, corte nos salários, agravamento da exploração, generalização da precariedade, criação de maiores dificuldades de articulação entre a vida familiar e profissional dos trabalhadores, designadamente das mulheres. \nParalelamente, o Governo PSD/CDS tem desenvolvido uma política antinatalidade de corte no subsídio de maternidade, aumento dos custos com creches e infantários, corte no subsídio de desemprego e de aumento da precariedade e da instabilidade na vida de milhares e milhares de jovens casais. \nEste projeto de resolução não dá resposta à necessidade urgente de garantir a articulação entre a vida familiar e profissional através da valorização do trabalho e dos trabalhadores. \nPor tudo isto, o PCP votou contra.\nA Deputada do PCP, _Rita Rato_.", 
+   "type": "separador"
+  }, 
+  {
+   "text": "———\nRelativa ao projeto de resolução n.º 419/XII (1.ª):\nO combate ao desemprego no Algarve, como, aliás, no resto do País, faz-se aplicando uma política de recuperação do sector produtivo e de promoção da produção nacional. O PCP tem apresentado inúmeras propostas neste sentido — como, por exemplo, a proposta em defesa da produção nacional e do consumo de produtos agroalimentares portugueses (Projeto de resolução n.º 276/XII (1.ª) ou a proposta em defesa do setor das pescas (Projeto de resolução n.º 404/XII (1.ª) —, todas elas rejeitadas pelo PSD e CDS. \nO Governo, assim como a maioria parlamentar que o sustenta, tem adotado uma política destruidora do emprego, imposta no âmbito do acordo com a troica. Uma das medidas implementadas pelo Governo que mais afetou negativamente os sectores da hotelaria, restauração e turismo no Algarve foi o aumento da taxa do IVA na restauração para 23%. No passado dia 8 de junho, o PSD e o CDS tiveram oportunidade de corrigir este erro, aquando da votação do projeto de lei do PCP que repunha a taxa do IVA na restauração a 13%. \nContudo, o PSD e o CDS votaram contra, insistindo numa medida que levará à extinção de inúmeros postos de trabalho e ao encerramento de centenas de estabelecimentos na região algarvia. \nOutro setor que atravessa no Algarve uma profunda crise, responsável por cerca de 7000 desempregados na região, é o setor da construção. A curto prazo, muitas das empresas algarvias ainda em atividade no setor da construção poderão encerrar as portas, lançando no desemprego mais 4000 trabalhadores. Esta situação podia ser evitada com a aprovação do programa de emergência para a construção civil e obras públicas que PCP propôs no passado dia 30 de maio. Contudo, também aqui, o PSD e o CDS votaram contra! \nUma outra medida, imposta pelo Governo PSD/CDS, que contribuiu para a destruição de emprego foi a introdução de portagens na Via do Infante. O PCP propôs, na Assembleia da República, por três vezes a abolição destas portagens. Três vezes o PSD e o CDS votaram contra! \nPerante isto, a «preocupação» do PSD sobre os alarmantes níveis do desemprego no Algarve só pode ser visto como um exercício da mais pura demagogia. O projeto de resolução apresentado pelo PSD, não tendo um conteúdo negativo, é vago e as suas recomendações são ineficazes para combater o flagelo do desemprego que assola a região algarvia, pelo que o Grupo Parlamentar do PCP opta pela abstenção.\nO Deputado do PCP, _Paulo Sá_.", 
+   "type": "separador"
+  }, 
+  {
+   "text": "Nota: A declaração de voto anunciada pelo Deputado do CDS-PP João Pinho de Almeida não foi entregue no prazo previsto no n.º 3 do artigo 87.º do Regimento da Assembleia da República.", 
+   "type": "nota"
+  }, 
+  {
+   "text": "———", 
+   "type": "separador"
+  }
+ ], 
+ "president": "", 
+ "secretaries": [], 
+ "session-date": "13-07-2012", 
+ "time_end": null, 
+ "time_start": null
+}

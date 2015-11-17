@@ -1,0 +1,1582 @@
+{
+ "entries": [
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, Sr. Primeiro-Ministro, Srs. Membros do Governo, Srs. Jornalistas, está aberta a sessão.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Eram 15 horas e 2 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Podem ser abertas as galerias. \nAntes de iniciarmos a ordem do dia, vou dar a palavra ao Sr. Secretário, para ler o expediente.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados, deram entrada na Mesa, e foram admitidas pela Sr.ª Presidente, as seguintes iniciativas legislativas: os projetos de lei n.os 237/XII (1.ª) — Cria um regime extraordinário de proteção de devedores de crédito à habitação em situação económica muito difícil (PSD), que baixou à 5.ª Comissão, e 238/XII (1.ª) — Cria salvaguardas para os mutuários de crédito à habitação, procedendo à 10.ª alteração ao Decreto-Lei n.º 349/98, de 11 de novembro (PSD), que baixou à 5.ª Comissão; os projetos de resolução n.os 341/XII (1.ª) — Solicitação de uma recomendação ao Conselho Nacional de Educação sobre o ensino e formação de adultos (BE), que baixou à 8.ª Comissão, 342/XII (1.ª) — Elaboração de um relatório anual sobre abandono escolar e empréstimos bancários no ensino superior (PCP), que baixou à 8.ª Comissão, 343/XII (1.ª) — Uma estratégia para a promoção de combustíveis alternativos na mobilidade rodoviária (PCP), que baixou à 6.ª Comissão, 344/XII (1.ª) — Recomenda a inclusão na TDT de todos os canais de serviço público de televisão e o alargamento da sua rede de emissão terrestre (PCP), que baixou à 12.ª Comissão, 345/XII (1.ª) — Recomenda ao Governo a reposição da taxa do IVA de 13% no setor da restauração (PS), que baixou à 5.ª Comissão, 346/XII (1.ª) — Garante o direito humano à água e ao saneamento (Os Verdes), que baixou à 11.ª Comissão, 347/XII (1.ª) — Recomenda a adoção de mecanismos de transparência relativos aos custos da energia e às medidas de eliminação das rendas excessivas (BE), que baixou à 6.ª Comissão, e 348/XII (1.ª) — Recomenda a introdução na televisão digital terrestre de todos os serviços de programas que constituem obrigações do serviço público de rádio e televisão (BE), que baixou à 12.ª Comissão. \nEm termos de expediente, é tudo, Sr.ª Presidente.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos entrar no período da ordem do dia, que consiste no debate quinzenal com o Primeiro-Ministro, ao abrigo da alínea _a_) do n.º 2 do artigo 224.º do Regimento, sobre o Sistema de Informações da República Portuguesa. \nPara abrir o debate, tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr.as e Srs. Deputados: Escolhi a temática do Sistema de Informações da República para objeto deste debate quinzenal no Parlamento. \nJulgo que o conjunto das notícias a este respeito que têm tomado conta das atenções da opinião pública, bem como a necessidade de explicitar bem o debate que deve ser feito em torno dos serviços de informação, é razão de Estado suficiente para que o Primeiro-Ministro, que tem a responsabilidade última de todo este edifício do Sistema de Informações, o traga a discussão aberta e de Estado, como disse, na Assembleia da República. \nEm primeiro lugar, quero afirmar que a minha convicção — na qual, evidentemente, não estou isolado — de que não há um Estado de direito nem há democracia sem serviços de informação que protejam a segurança interna e externa dos cidadãos e do Estado. \nA preservação, portanto, de um sistema com reputação e credibilidade é essencial para que o sistema possa, ele próprio, tal como a lei lhe confere, exercer as suas funções de despistagem das ameaças externas ou internas e de assegurar a segurança interna e externa dos cidadãos portugueses e do Estado português. \nPor essa mesma razão, é muito importante, nesta altura, separar «o trigo do joio» e não confundir «a nuvem com Juno». Se existiram notícias públicas que remontam ao início do segundo semestre do ano passado, que davam conta de possíveis fugas de informação comprometedoras para os próprios Serviços de Informação e, em particular, para um desses serviços, bem como notícias que davam conta de alegadas irregularidades que pudessem ter sido cometidas no âmbito do Sistema e, em particular, num determinado serviço, era importante, por parte do Governo e do Secretário-Geral do Sistema de Informações, que todas as medidas recomendáveis fossem tomadas, de modo a apurar exatamente os factos, a atuar em consequência desse apuramento e preservar — como aqui já uma vez havia referido — a integridade e a reputação dos serviços de informação.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Quero dizer que é importante notar que notícias têm vindo a público mais recentemente, envolvendo supostos relatórios, elaborados por pessoas que estiveram ligadas aos serviços de informação, sobre empresas ou empresários, ou qualquer outro cidadão em Portugal, no âmbito das conclusões que ficaram conhecidas da ação penal que foi desenvolvida no Ministério Público, da iniciativa, também, do próprio Secretário-Geral do Sistema de Informações, não têm qualquer relação — repito, qualquer relação — com a tradição, o trabalho e os factos apurados no âmbito dos próprios serviços. \nPortanto, não há matérias de relatórios, nem sobre empresas, nem sobre pessoas, como as que vieram visadas na comunicação social, que tenham sido produzidas pelos serviços. \nMas houve, evidentemente, necessidade de, com transparência e rapidez, apurar o que se tinha passado. \nApesar de as suspeitas e denúncias reportarem, maioritariamente, para ações que se teriam desenvolvido ainda durante o ano de 2010, no âmbito de outra legislatura, enquanto o Dr. Silva Carvalho era diretor do SIED (Serviço de Informações Estratégicas de Defesa), essas suspeitas e denúncias conduziram imediatamente à abertura de dois inquéritos consecutivos, um em julho do ano passado, outro em agosto do ano passado, por determinação minha e por proposta do Secretário-Geral do Sistema de Informações. \nNo âmbito dessas conclusões, que foram transmitidas ao Conselho de Fiscalização do Sistema de Informações, foram adotadas mais algumas conclusões que conduziram à participação ao Ministério Público para que investigasse aquilo que, em sede administrativa, não era possível mais apurar no âmbito dos serviços. \nQue fique claro, insisto nisto, que, findas as conclusões dos inquéritos e não havendo matéria suficiente apurada no âmbito das competências dos próprios serviços, recorreu-se à ação do Ministério Público para apurar o que se teria passado. \nNo âmbito desse processo, tive a ocasião de disponibilizar ao Ministério Público toda a informação relevante sobre esta matéria. \nNo entanto, durante todo este período, o próprio Secretário-Geral agiu também com proficiência e lealdade e pediu-me autorização para desencadear uma sindicância interna que pudesse apurar, ainda de forma mais precisa, algumas zonas cinzentas que os relatórios não tinham esclarecido. \nNo âmbito dessa sindicância, reforçaram-se novos elementos que foram carreados para o Ministério Público e houve elementos suficientes que conduziram ao afastamento de três funcionários do Sistema de Informações e daquele Serviço. \nO Conselho de Fiscalização não apenas acompanhou como se inteirou de todas as diligências que foram realizadas. \nFinalmente, cabe-me dizer que a cooperação com o Conselho de Fiscalização não podia ter sido mais intensa, na medida em que o próprio Conselho desenvolveu, durante este período, inquérito autónomo — nem sequer acompanhado por dirigentes dos serviços —, de modo a inquirir, dentro dos mesmos, quem o Conselho de Fiscalização entendesse para poder chegar às suas próprias conclusões, que foram cruzadas com aquelas a que chegaram os inquéritos e a sindicância ordenados por mim e executados pelo Secretário-Geral. \nQuero dizer, em conclusão, que não minto se disser que não tenho conhecimento de que, no passado, tivesse havido tanta transparência e tanta imperatividade de investigação como a que teve lugar nos últimos seis meses. Aliás, mais do que isso, porque se iniciou ainda em julho do ano passado. \nEm conclusão, quero dizer que não tenho nenhuma razão para pôr em causa nem a proficiência do Sr. Secretário-Geral do Sistema de Informações, nem a forma como, quer os próprios serviços, dentro da sua competência administrativa, quer o Ministério Público, no âmbito da ação penal, trataram de uma matéria sobre a qual era importante que se esclarecesse o País. \nMuitas conclusões se deverão retirar no fim deste processo. Algumas já tomaram o seu tempo, outras irão ainda ser devidamente avaliadas, nomeadamente a instauração de processos disciplinares, para que assim que o despacho de pronúncia no Ministério Público seja deduzido relativamente aos elementos que foram acusados e que no passado tinham funções importantes no SIED, ao nível dos próprios serviços, a ação disciplinar, que não prescreve neste caso, possa ser exercida. \nMas há outras conclusões que teremos de tirar. Em particular, como foi possível, ainda que de forma limitada, em 2010, terem existido situações de abuso de poder, de abuso de confiança e de desvio de funções que não tenham sido detetadas devidamente pelo Conselho de Fiscalização ou pelos próprios órgãos internos. \nEm segundo lugar, é importante que, ao nível parlamentar e ao nível do segredo de Estado, com certeza, os requisitos que determinam a saída de elementos dos Serviços de Informações desses serviços sejam melhor enquadrados na lei, de forma a evitar que exista qualquer suspeita de promiscuidade entre os serviços do Estado e os que são desencadeados à margem dos serviços do Estado e dos Serviços de Informação por elementos que estiveram, no passado, ligados aos Serviços. \nFinalmente, e porque o tempo não permite mais, gostaria de dar uma nota sobre o comportamento do Sr. Ministro Miguel Relvas em todo este processo. \nO Sr. Ministro Miguel Relvas prontificou-se a responder, perante o Parlamento, a todas as dúvidas suscitadas e vai fazê-lo novamente, se não estou em erro, ainda hoje. \nPortanto, o Sr. Ministro Miguel Relvas demonstrou toda a disponibilidade, como seria de esperar, para, em sede parlamentar, esclarecer tudo o que houver a esclarecer. \nQuero dizer-vos que, das alegações que li nos jornais e daquilo que conheço e confrontei com o respetivo Ministro, não tenho nenhuma dúvida em dizer que o Ministro atuou bem, no sentido em que não teve qualquer interferência neste processo. \nNão quero aqui a avaliar a ação…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Primeiro-Ministro.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Vou terminar, Sr.ª Presidente. \nNão vou aqui proceder à avaliação do mandato do Sr. Ministro noutras matérias. Nesta matéria, o Sr. Ministro comportou-se com a correção e a transparência devidas. Sobre esta matéria, posso, desde logo, dizer que, como Primeiro-Ministro, nunca tive do Ministro Miguel Relvas nenhuma comunicação, nem sobre serviços de informação, nem sobre sugestão para nomeações nos serviços de informação. Mas, mais do que isso, gostaria de dizer ao País, mais uma vez, e a esta Câmara que, por decisão própria do Primeiro-Ministro — minha própria —, não houve qualquer substituição nos lugares dirigentes dos serviços de informação, nem a substituição do secretário-geral, que já estava em funções. \nDeixem-me dizer, para terminar, Sr.ª Presidente,…", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Primeiro-Ministro.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… que o tempo bem mostrou que essa foi a melhor decisão que este Primeiro-Ministro podia ter tomado.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para formular perguntas, tem a palavra o Sr. Deputado António José Seguro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro e Sr.as e Srs. Membros do Governo, Sr.as e Srs. Deputados, há duas perguntas que os portugueses fazem: como foi possível chegar até aqui? O que se passou e quem são os seus responsáveis? \nComo é possível que, numa democracia, possam ser elaborados relatórios sobre jornalistas, em particular sobre o diretor do _Expresso_, e possa ser elaborado um relatório sobre a vida pessoal de um membro do Conselho de Estado, ex-Primeiro-Ministro e fundador de um dos principais partidos políticos portugueses? \nEsta é uma situação de enorme gravidade, que precisa de ser esclarecida. \nQuanto à segunda pergunta, sobre o que se passou e quem são os seus responsáveis, Sr. Primeiro-Ministro, não tiro conclusões antes do apuramento dos factos — não o faço! — e tratarei este assunto com o sentido de Estado que lhe é devido. Mas não posso ignorar, porque leio jornais, ouço rádio e vejo televisão, que há, no mínimo, uma nebulosa que precisa de ser esclarecida sobre um triângulo que junta o PSD, os serviços secretos e interesses privados, em Portugal.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Esse esclarecimento tem de ser feito e estou convencido de que um dos principais responsáveis e interessados nesse esclarecimento é o Sr. Primeiro-Ministro, nessa qualidade, porque é o primeiro responsável pelos serviços de informação, e também como líder do PSD. \nE, Sr. Primeiro-Ministro, não é a primeira vez que chamo a sua atenção para esta situação. No nosso primeiro debate quinzenal, em julho, chamei a sua atenção para o «caso Bairrão», ao que o Sr. Primeiro-Ministro respondeu «não há nenhum caso Bairrão». \nO certo é que o Sr. Primeiro-Ministro disse aqui, nesse debate, que não tinha havido qualquer informação proveniente dos serviços de informação que tivessem proporcionado uma alteração do convite feito, então, ao Dr. Bairrão. Mas o certo é que o diretor do jornal _Expresso_, dias depois, voltou a escrever que tinha havido. \nEsta é uma questão e um relacionamento que precisam de ser esclarecidos e clarificados. \nOutro aspeto que necessita de clarificação é este: os membros do Governo — pelo menos, dois — são, direta e indiretamente, envolvidos neste processo. Urge esse esclarecimento. Fico satisfeito que um desses membros do Governo, hoje, já possa prestar esse esclarecimento aqui, no Parlamento, isso é positivo para a nossa democracia. Tenho pena que não tivesse sido feito mais cedo, mas considero que isso é positivo. \nMas há outros casos que precisam de ser clarificados, Sr. Primeiro-Ministro. Um deles tem a ver com o seguinte: por altura da demissão do Dr. Silva Carvalho, há notícias públicas de que o secretário-geral do seu partido teria sido previamente informado dessa situação. \nAqui tem, Sr. Primeiro-Ministro, três factos que carecem de explicação. E volto a dizer: tratarei este assunto com a serenidade, a tranquilidade e o sentido de Estado que merecem. É que, quando os portugueses exigem saber o que se passou e que sejam punidos os seus responsáveis, é o Estado de Direito democrático que é interpelado. E, aí, Sr. Primeiro-Ministro, o Governo a que o senhor preside, o Parlamento, que tem obrigação de fiscalizar a atividade dos serviços de informação e a atividade política do Governo, o Sr. Presidente da República, que preside ao Conselho de Estado, e todos os atores do sistema judicial, em Portugal, têm de cooperar no sentido de, o mais rapidamente, com serenidade e com tranquilidade, esclarecer esta situação, afastar todas as nuvens, apurar as responsabilidades e restituir a credibilidade e a confiabilidade que os serviços de informação da República portuguesa merecem. \nÉ que não está só em causa a confiança nesses serviços, que os cidadãos portugueses vão perdendo; estão em causa o direito à liberdade e ao bom nome e os direitos fundamentais de pessoas que foram vítimas de inquéritos e está em causa a credibilidade e a imagem externa dos serviços de informação de um Estado de direito que é a República portuguesa.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado António José Seguro, congratulo-me muito que o Sr. Deputado não queira tirar conclusões precipitadas nem fazer julgamentos precipitados. Eu também não. \nPor isso, aguardo aquilo que é a missão da justiça portuguesa, que, de resto, foi acionada justamente pelos serviços de informação, para que pudesse esclarecer, em sede penal, estas matérias. São os tribunais que irão decidir o que aconteceu, em matéria de prova, e irão responsabilizar quem tiver de ser responsabilizado. \nNão é o Governo, nem são os serviços, e não é, evidentemente, o Parlamento. \nEm segundo lugar, pergunta o Sr. Deputado como foi possível que isto se tivesse passado, em 2010. Como é possível que, em 2010, um diretor do Serviço de Informações Estratégicas de Defesa possa, legitimamente, sem que o Secretário-Geral do Sistema possa ter-se apercebido disso e sem que o Primeiro-Ministro se tenha apercebido disto, ter dado indicações para que os telefonemas efetuados por um determinado jornalista pudessem ser objeto de investigação pelos serviços? Não sei, Sr. Deputado. Mas sei uma coisa: sei que, mal essa notícia de que possa ter existido essa irregularidade apareceu, este Governo abriu um inquérito para proceder a toda a averiguação sobre o acontecimento. \nE quero dizer-lhe, Sr. Secretário-Geral do Partido Socialista e Deputado António José Seguro, que, se evoquei aqui, muito precisamente, a ordem destes factos, não foi por querer implicar nem o Dr. Júlio Pereira, como Secretário-Geral do Sistema, nem o Eng.º José Sócrates, como Primeiro-Ministro, à época desses factos.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Protestos do PS.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "É apenas para dizer que considero, como disse na minha intervenção inicial, que não devemos «tomar a nuvem por Juno» e não podemos contaminar nem o governo de então nem o Secretário-Geral do Sistema de Informações da República Portuguesa por irregularidades que tenham sido cometidas, mesmo que por um diretor do Serviço de Informações Estratégicas de Defesa. Não confundo as duas coisas. \nEm terceiro lugar, pergunta o Sr. Deputado como é possível que sejam elaborados relatórios sobre jornalistas e sobre a vida pessoal de um membro do Conselho de Estado. Sr. Deputado, esses relatórios não foram efetuados pelos serviços de informação — que fique aqui claro! E espero que o Sr. Deputado ajude, por favor, a colocar a informação correta no local adequado. \nNo âmbito do processo penal que foi desencadeado, ficou provado (em matéria de investigação, evidentemente) que houve incumprimentos, desvios de poder e desvios de funções que não implicaram a produção destes relatórios que aqui são visados — já o tinha dito de início. Estes relatórios, como pode ser consultado no próprio processo — e os serviços de informação pediram certidão do processo, como é evidente, até para poderem agir disciplinarmente —, estes relatórios, dizia, que aqui são referidos foram efetuados por gente que não tem a ver com os serviços de informação. \nPortanto, Sr. Deputado, parece-me preocupante que exista, nomeadamente ao nível da guerra empresarial, em Portugal, gente que se dedica a violar a Constituição e os direitos dos cidadãos portugueses tutelados pela Constituição — e, como é evidente, isso merece a ação da justiça e, como Primeiro-Ministro, interessa-me que essa situação seja averiguada. Mas, Sr. Deputado, ajude-me, por favor, a explicar ao País que isso nada tem a ver com os serviços de informação. Isso não foi feito nos serviços de informação do Estado. \nEm quarto lugar, diz o Sr. Deputado que existe uma nebulosa que envolve o PSD, os serviços secretos e os interesses privados. Sr. Deputado, não há nebulosa nenhuma. Não há nebulosa nenhuma! O PSD não tem nada a ver nem com quaisquer interesses privados nem com serviços secretos.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "text": "Risos do PS.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Espero, Sr. Deputado, que isso não seja uma vaga interpretação sua do que anda pelos jornais, mas não junte, se fizer favor, as vagas suspeitas que andam por aí no «diz-se, diz-se», não as legitime, evocando-as aqui, em sede parlamentar, porque não há nebulosa nenhuma, Sr. Deputado.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "E se se refere a algum dado que conheça, diga, se fizer favor, para que quem de direito possa atuar. \nDigo-lhe, Sr. Deputado, mais uma vez: não requeri aos serviços de informação qualquer investigação sobre o Sr. Dr. Bairrão. Tinha acabado de tomar posse, ia dar posse, menos de meia dúzia de dias depois, aos Srs. Secretários de Estado, e não conhecia sequer o Sr. Secretário-Geral do Sistema de Informações da República Portuguesa. Segundo, mesmo que o conhecesse, não via qualquer interesse em pedir aos serviços de informação uma indicação que sei que eles não podem produzir, pois não está nas competências dos serviços de informação produzir _dossiers_ dessa matéria sobre quem quer que seja, que seja candidato ao Governo, evidentemente. Já sobre alguém que seja uma ameaça à segurança do Estado ou dos portugueses, sim, com certeza, e já várias vezes pedi aos serviços que fizessem investigações dessa natureza. Mas não sobre cidadãos portugueses e muito menos sobre candidatos a membros do Governo.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Portanto, Sr. Deputado, espero que acredite naquilo que lhe estou a dizer e não naquilo que um diretor de um jornal insiste em escrever sem provar. Não fiz nenhum pedido aos serviços de informação para investigar o Dr. Bairrão e não existe nenhum processo sobre o Dr. Bairrão nos serviços de informação. \nFinalmente, quero dizer-lhe, Sr. Deputado, que terá ocasião de perguntar ao Sr. Ministro Adjunto o que é que, na sua ex-qualidade de Secretário-Geral do PSD, possa ter, ou não, sabido — e ele responderá sobre isso, evidentemente, não sou eu que respondo por ele. \nMas quero dizer-lhe, Sr. Deputado, que não vale a pena insistir em criar um elo de ligação entre aquilo que seriam pretensões do Dr. Silva Carvalho e aquilo que são nomeações do atual Governo. O atual Governo não nomeou ninguém para os serviços de informação e não procedeu a nenhuma reestruturação particular dos serviços de informação. \nPortanto, Sr. Deputado, vamos ater-nos aos factos. E os factos são: este Governo não foi permeável nem a influências, nem a opiniões, que determinadas pessoas na sociedade portuguesa possam ter querido exercer para obter, da parte do Governo, seja o que for. Os factos falam por si mesmos. Essa nebulosa, Sr. Deputado, não existe.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado António José Seguro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, há pelo menos uma coisa em que estamos de acordo: que a justiça deve agir no seu âmbito, de acordo com os seus poderes. Mas isso não significa que esta Assembleia da República fique diminuída na sua função de fiscalização da ação política,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "… designadamente da fiscalização dos serviços de informação. \nAquilo a que aqui me referi foi à necessidade de haver esclarecimento, de haver apuramento dos factos e de haver verdade. E pode ter a certeza de uma coisa, Sr. Primeiro-Ministro: nós tudo faremos para que isso aconteça, para que haja esse apuramento dos factos, para que haja essa verdade e para que haja esse esclarecimento. Aliás, aquilo que tem ouvido do Partido Socialista é precisamente isso: que haja esclarecimento! \nMas quero dizer-lhe uma coisa, Sr. Primeiro-Ministro: eu não recebi nenhum SMS de nenhum espião nem de nenhum ex-espião dos serviços de informação.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Não recebi! Por isso, quero dizer-lhe que, em nome do sentido de Estado, Sr. Primeiro-Ministro, todas estas questões têm de ser clarificadas. \nE não há um antes nem um depois; há um Estado de direito democrático para defendermos, há direitos fundamentais dos portugueses para defendermos e os princípios que eu exijo aos meus adversários políticos são os que exijo a mim próprio e aos meus camaradas de partido, Sr. Primeiro-Ministro. Queria dizer-lhe isso!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Não vamos tirar nenhumas conclusões precipitadas, mas há algumas que devem, neste momento, ser colocadas em cima da mesa, pelo menos da minha parte. \nEm primeiro lugar, fiz bem, Sr. Primeiro-Ministro, quando lhe transmiti que não concordava com a fusão dos dois serviços de informação no nosso País,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "… porque a situação que está a acontecer num serviço não contaminou o outro serviço de informação.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Como é que sabe?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Em segundo lugar, quero dizer-lhe que seria importante que as bancadas da maioria pudessem aprovar o projeto de lei do PS que obriga os membros dos serviços de informação em Portugal a fazer a sua declaração de interesses e a ter um período de nojo de cinco anos entre a sua saída dos serviços e a ida para grupos empresariais no nosso País.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Carlos Abreu Amorim", 
+   "text": "Os senhores estiveram no Governo durante seis anos e não se lembraram disso!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Desde o dia 15 de março que este projeto de lei está disponível para ser votado e, eventualmente, aprovado. \nEm terceiro lugar, quero dizer-lhe que os serviços, tal como estão, precisam de reforçar a sua fiscalização, havendo da parte do Partido Socialista total disponibilidade para esse efeito.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado, em muito estamos de acordo. O Sr. Deputado diz que tudo fará para que haja esclarecimento e eu digo que já fiz muito para que haja esclarecimento. \nPortanto, não farei, já fiz muito para que haja total esclarecimento!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Em segundo lugar, para tentar sustentar, mais uma vez, a sua ideia de nebulosa, disse o Sr. Deputado, que não recebeu nenhum SMS do Dr. Silva Carvalho. Ó Sr. Deputado, eu não demito ministros por receberem SMS! Não demito ministros por receberem SMS!", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Em terceiro lugar, o Sr. Deputado disse que fez bem em ter dito ao Primeiro-Ministro que não concordava com a fusão dos dois serviços de informação. \nSr. Deputado, respeito a sua conclusão. De resto, eu tinha dito — e o Sr. Deputado sabe-o, porque lho disse diretamente —, que o Governo só avançaria com uma proposta nesse sentido se, como é tradição, o maior partido da oposição concordasse com essa alteração. \nPortanto, Sr. Deputado, desde 2004, data em que a lei-quadro foi aprovada, a hipótese de fusão dos dois serviços tem estado em discussão. Foi discutida assumidamente pelo anterior Governo, como o Sr. Deputado sabe, e foi defendida praticamente por toda a gente. \nMas, Sr. Deputado, como sempre, aguardaremos que o Partido Socialista esteja preparado para fazer essa discussão e para dar esse salto qualitativo que muitos outros países democráticos também deram. \nO Sr. Deputado, disse que deveríamos procurar junto das bancadas da maioria apoio para votar as suas propostas. Deixe-me dizer-lhe, Sr. Deputado, que na minha intervenção inicial referi que devíamos estar todos preparados para tirar conclusões sobre estes processos. \nAs conclusões não podem deixar de apontar para a necessidade de reforçar os mecanismos de fiscalização, para criar — como, de resto, tem sido sugerido quer pelo Conselho Consultivo, quer pelo próprio Conselho de Fiscalização — uma transição mais acautelada entre os trabalhos desenvolvidos no âmbito dos serviços e os que podem vir a ser desenvolvidos, uma vez os seus ex-dirigentes se encontrem despojados dessa ligação. E devemos até incluir, dentro do atual sistema, a possibilidade de os próprios diretores dos", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "serviços terem uma audição prévia parlamentar para que possamos conhecer um bocadinho melhor aqueles que são nomeados. E digo-lhe isto com à vontade, Sr. Deputado, porque eu não nomeei ninguém, mas acho que tal deveria ser feito. \nFinalmente, Sr. Deputado, só posso concordar consigo no seguinte: é preciso melhorar o Sistema, mas não devemos confundir nem os serviços nem o Sistema com as ações que possam ter sido praticadas por elementos isolados desse Sistema e desses serviços.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado António José Seguro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, não confundo absolutamente nada. Aquilo que eu quero é esclarecimento, Sr. Primeiro-Ministro!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Tenho muito respeito pelos serviços de informação, mas aquilo que digo, como dirigente do Partido Socialista, é que isto não pode continuar, Sr. Primeiro-Ministro! Temos de mudar! Porque estes assuntos dos serviços de informação afetam a vida pública do nosso País há pelo menos 11 meses. Nós temos de agir. \nE quando digo «nós» digo o Estado no seu conjunto. E o PS está disponível para colaborar nesse sentido, porque trata-se de uma questão de Estado, de uma questão de respeito por direitos constitucionais dos portugueses, pela sua liberdade, pelo direito à sua vida privada, afastando-se a promiscuidade entre interesses privados e interesses públicos. Aliás, Sr. Primeiro-Ministro, aconselho-o a pensar seriamente no seguinte: como sabe, temos, por razões ideológicas, divergências quanto à privatização da RTP. O senhor é a favor e eu sou contra! Mas eu aconselhava-o a ler todas as notícias que têm surgido e a pensar duas vezes sobre se o seu Governo ainda tem condições para avançar com a privatização d RTP.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Carlos Abreu Amorim", 
+   "text": "Aí é que está!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Sr. Primeiro-Ministro, quero dizer-lhe o seguinte: nós seremos implacáveis no apuramento de toda a verdade! Não tiramos nenhuma conclusão, nem lançamos insinuações!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "É o que está a fazer!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Todas as pessoas nos merecem o maior respeito, mas há uma coisa, Sr. Primeiro-Ministro, que pomos em primeiro lugar: o interesse nacional,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Oh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "… a defesa do Estado de direito democrático e as liberdades que devem ser garantidas por todos os serviços da República aos cidadãos portugueses.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "E se há um primeiro responsável por isso, esse responsável é o Sr. Primeiro-Ministro, do qual dependem todos os serviços de informação. \nO Sr. Primeiro-Ministro disse que agiu, e eu pergunto-lhe: tendo em atenção toda a informação que já veio a público, justifica-se que esteja, há dois meses e meio, numa comissão deste Parlamento, um projeto de lei que visa criar um período de nojo para os cidadãos que servem nos serviços de informação na sua passagem para a vida privada?", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Isso é com o Parlamento!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António José Seguro", 
+   "text": "Há matérias tão urgentes, tão óbvias, que entram pelos olhos dentro, que não se compreende a razão, à luz do dia, para não terem sido ainda aprovadas nesta Assembleia da República.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para formular perguntas em nome do PCP, tem agora a palavra o Sr. Deputado Jerónimo de Sousa.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Sr.ª Presidente, o Sr. Primeiro-Ministro trouxe aqui, antecipando-se a um inevitável questionamento, pelo menos da nossa parte, a grave situação existente nos serviços de informação e o envolvimento do Sr. Ministro Miguel Relvas neste processo e na sua relação com a imprensa. \nO primeiro comentário que me sugere a sua intervenção é o de que estamos perante o típico exercício da tentativa de «tapar o sol com uma peneira».", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Sobre o Sr. Ministro Miguel Relvas, os factos falam por si; não são só as notícias, são os factos! E a defesa assumida pelo Sr. Primeiro-Ministro tem um significado político: o significado da conivência de todo o Executivo, e particularmente do Sr. Primeiro-Ministro, que, do nosso ponto de vista, não fica bem na fotografia. \nA ação, a intervenção do Sr. Ministro Miguel Relvas não é uma questão pequena, mas a questão de fundo que se evidencia em todos estes recentes acontecimentos é a situação de degenerência dos serviços de informação da República, que são da responsabilidade do Sr. Primeiro-Ministro.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Bernardino Soares", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "O que irrompe em todo este caso é o grave problema das relações de promiscuidade entre o poder económico e os serviços de informação da República, que V. Ex.ª tutela.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "O Sr. Primeiro-Ministro disse que as informações que passaram não foram através dos serviços de informação. Não foram feitas pelos serviços, mas não podiam ter sido feitas sem os serviços.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Bernardino Soares", 
+   "text": "Ora bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "O que vem ao de cima em todo este processo é a recolha ilegal de informações, a sua utilização ilegítima para tráfico político e para os negócios por parte do poder económico, o que coloca um sério problema de liberdade e do próprio regime democrático.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Não exagero, Sr. Primeiro-Ministro — e permita-me que fale até por experiência própria —, se lhe disser que, nestas matérias tão sensíveis, sabemos sempre muito bem como é que isto começa, mas nunca sabemos como acaba.\nE esta é uma questão central que coloca uma outra questão: como é isto possível? Ainda não vale tudo, Sr. Primeiro-Ministro! Não vale tudo! \nNão estamos aqui a tratar de uma matéria que pode ser delegada num secretário de Estado ou num ministro! Não, é da responsabilidade do Primeiro-Ministro o acompanhamento desta matéria. \nNesse sentido, o que perguntamos é o seguinte: o Sr. Primeiro-Ministro vai ou não assumir as responsabilidades? Não somos criminologistas, não somos justiceiros, mas há aqui uma dimensão política de que o senhor tem particulares responsabilidades. \nPergunto, então, se o Sr. Primeiro-Ministro vai assumir essas responsabilidades ou se pensa que os portugueses vão dormir descansados só porque o senhor mandou fazer uma investigação, só porque mandou fazer um inquérito ou só porque confia na justiça. Não! O problema é político e, nesse sentido, nós queremos saber que responsabilidades vai assumir nesta matéria que está aqui hoje na ordem do dia.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Jerónimo de Sousa, por inerência de função, sou o responsável pelo Sistema de Informações em Portugal. \nNo âmbito dessas responsabilidades e competências, determinei a realização de ações muito específicas destinadas ao apuramento da verdade. \nQuero aqui dizer que, salvo o que vem descrito na própria peça de acusação que foi realizada pelo Ministério Público contra o Dr. Silva Carvalho e um outro elemento que já pertenceu aos serviços de informação estratégica, durante a vigência do meu Governo — repito, durante a vigência do meu Governo — foram apuradas responsabilidades sobre três funcionários que, no passado, ainda no tempo em que o Dr. \nSilva Carvalho dirigia os serviços, e a mando dele, realizaram ações que não são legítimas e que foram afastados em conclusão desses inquéritos. \nE foi também averiguado, no âmbito da ação penal que foi apurada e do material que foi recolhido na investigação, que durante a vigência do meu Governo, desde que tomei posse, houve dois elementos dos serviços de informação com quem o Dr. Silva Carvalho, já saído dos serviços, no último trimestre do ano de 2010, mantinha contato. \nNo âmbito desses contatos, Sr. Deputado, apurou-se na investigação penal que a informação que foi veiculada por esses dois elementos, que entretanto foram afastados dos serviços, era informação aberta e não classificada. Vamos pôr as coisas onde elas devem estar. \nÉ isto grave? É grave! Não é informação classificada, não é informação que não pudesse ser obtida por qualquer outra via, mas é grave, porque mostra que esses elementos nos serviços de informação, por qualquer razão sobre a qual não vou aqui divagar, pensaram que podiam fornecer indicações e informações a outros que não os membros do Sistema de Informações. E, nessa medida, foram demitidos! \nSr. Deputado, durante o tempo em que sou Primeiro-Ministro assumi as minhas funções e as minhas responsabilidades. Talvez o Sr. Deputado quisesse perguntar-me: «Porque não demite o Secretário-Geral do Sistema de Informações?» \nSr. Deputado, respondi aqui a isso logo de início: porque ele agiu com lealdade e com diligência, procurando apurar toda a verdade dos factos. \nPortanto, Sr. Deputado, mantenho a minha confiança no Sistema de Informações e no seu Secretário-Geral e não tenho, Sr. Deputado, sobre esta matéria, outra coisa para dizer.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Essa resposta não é para aqui, é para a bancada do PSD!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr. Deputado, quanto à questão do Sr. Ministro Miguel Relvas, não leve a mal que lhe devolva a pergunta: de que é acusado, exatamente, o Sr. Ministro Miguel Relvas?", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Jerónimo de Sousa.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, o senhor confundiu o alvo. A questão da demissão do responsável dos serviços de informação era mais dirigida para a bancada do PSD do que para a minha bancada, porque nunca ouviu da nossa parte qualquer referência a isso. Admito que queira resolver um problema interno, mas isso é consigo.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Problema interno?", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Sublinho que a questão central foi aquela a que o Sr. Primeiro-Ministro não respondeu, que é a de o poder económico, hoje, determinar muito do funcionamento dos próprios serviços de informação. \nEm relação ao Sr. Ministro Miguel Relvas — e eu referi a sua relação com a imprensa —, não me diga, Sr. Primeiro-Ministro, que são apenas notícias especulativas, que são posições de má formação de jornalistas que estão a fazer acusações gratuitas. Sinceramente, Sr. Primeiro-Ministro, pensa isso?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Boa pergunta!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Mas, para desdramatizar, e correspondendo até a um certo apelo do PSD, que ontem dizia que esta questão está no eixo das preocupações e das atenções dos portugueses em relação às questões do desemprego, o Sr. Primeiro-Ministro sabe que a troica veio aqui para mais uma visita e deu orientações claras dizendo que, em relação à questão do desemprego, era importante tomar uma medida: \nbaixar mais os salários dos portugueses! \nQuero, pois, colocar-lhe a seguinte questão: ouvi-o defender as alterações ao Código do Trabalho, dizendo que esse era o elemento crucial para aumentar a competitividade e o emprego. Agora, vem a troica dizer que a legislação laboral está bem e que a questão da competitividade e do crescimento do emprego passa por baixar os salários aos portugueses. \nNão sei qual é a sua interpretação desta expressão da troica, mas diga lá, Sr. Primeiro-Ministro, o que é que andam a «cozinhar» em relação aos salários dos trabalhadores portugueses? Será que vamos assistir, mais uma vez, a um golpe profundo neste direito fundamental de salários mal tratados, de salários que, na média da União Europeia, são baixíssimos, em que os portugueses veem as suas retribuições duramente atingidas? Não me diga, Sr. Primeiro-Ministro, que andam a «cozinhar» mais uma ofensiva contra os salários dos trabalhadores. Responda, se faz favor.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Jerónimo de Sousa, discordo da sua afirmação de que é o poder económico que manda nos serviços de informação.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "O senhor pode discordar, mas é o que está à vista!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr. Deputado, o senhor fala, julgo eu, com pouca propriedade nesta matéria. \nGostaria que o Sr. Deputado pudesse apresentar alguma evidência daquilo que diz. \nOs serviços de informação servem a República e o Estado português. \nSr. Deputado, gostaria muito que os Srs. Deputados pudessem questionar o Governo e até os serviços sobre toda a matéria objetiva, mas que evitassem confundir e alimentar sobre o País matérias de dúvidas que não têm fundamento. \nRepito, Sr. Deputado: não existe qualquer relatório produzido no sistema de informações respeitante nem ao Dr. Balsemão, nem à Impresa, nem a quaisquer dos outros elementos que têm sido veiculados, a propósito destas notícias, pela comunicação social.\nSr. Deputado, consultando o processo, é facilmente verificável que essa matéria está imputada a gente que já esteve ligada aos serviços de informação e que agora já não está ligada a esses serviços e que desenvolveu durante o ano de 2011 esse tipo de atividade numa empresa. \nEspero — e tenho a certeza que isso vai acontecer, até porque já houve queixa, pelo menos em público, dessa matéria — que a justiça também sirva para apurar o que se passou, porque não é pelo facto de não ter ocorrido nos serviços de informação que não deve ser investigado, mas não tem que ver com os serviços de informação. \nFinalmente, a propósito do Sr. Ministro Miguel Relvas, disse o Sr. Deputado que, afinal, não tem nada que ver com os serviços de informação, é um problema com a comunicação social. Sr. Deputado, confesso que nem sequer me vou pronunciar sobre essa matéria, porque o Sr. Ministro esteve muito disponível para dar todos os esclarecimentos…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Nem tanto! À Comissão de Ética não quis ir!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… relativamente à questão do jornal _Público._ E devo dizer, Sr. Deputado, que não tenho grande ansiedade com o termo dessa investigação. \nQuero finalizar, respondendo ao Sr. Deputado sobre a questão da troica. \nSr. Deputado, eu não falo em nome da troica, falo em nome do Governo português. E quero dizer-lhe que o Governo português não está a preparar qualquer baixa de salários em Portugal.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Pelo Bloco de Esquerda, tem a palavra o Sr. Deputado Francisco Louçã.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, começo por lhe colocar duas perguntas muito diretas. \nQueria saber, em primeiro lugar, se o Governo mantém a intenção de privatizar a RTP 1 até ao final do ano. E queria saber também se o Ministro Miguel Relvas vai ser o responsável por essa privatização.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Oh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Francisco Louçã, o Governo vai alienar um dos canais da RTP dentro dos prazos que estão previstos. É suposto que esse modelo de privatização, chamemos-lhe assim, esteja definido até ao final deste ano. Não sei se a privatização se concretizará até ao final deste ano, mas o modelo da privatização estará definido até ao final deste ano, como eu sempre disse. \nE, Sr. Deputado, a menos que o Sr. Ministro Miguel Relvas abandone o Governo por qualquer uma outra razão da sua própria vontade, não é por falta de confiança do Primeiro-Ministro que não manterá as funções de Ministro Adjunto e dos Assuntos Parlamentares. \nSr. Deputado, aproveito a pergunta que me fez para responder ao Sr. Deputado António José Seguro, que me dirigiu um conselho para que não privatizasse a RTP, insinuando que o Sr. Ministro Miguel Relvas não estaria em condições de proceder a essa privatização. Aproveito para agora — porque já não tinha tempo na altura — repudiar essa insinuação e dizer que o Governo fará, como sempre tem feito, aquilo a que se comprometeu.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Francisco Louçã.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, não posso deixar de registar a forma bastante distanciada com que o Sr. Primeiro-Ministro defendeu a posição do Ministro Miguel Relvas neste caso.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Oh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Mas vamos ao centro da questão: há hoje, Sr. Primeiro-Ministro, uma nebulosa no País e não há ninguém que tenha qualquer dúvida a esse respeito. \nÉ por isso que estou certo que no dia em que o Sr. Ministro Miguel Relvas tiver a bondade de esclarecer o País sobre o conteúdo das suas reuniões com Jorge Silva Carvalho a 16 e 30 de Março de 2011 — a última reunião, aliás, incluía o Presidente da Ongoing (é certo que não sei se Miguel Relvas estava nessa altura como Secretário-Geral do PSD se como administrador executivo da Finertec, uma empresa de capitais luso-angolanos) — perceberemos do cuidado que teve aqui nesta reunião. \nÉ que toda esta nebulosa tem que ver com uma coisa: comunicação social e luta pela comunicação social em Portugal. \nBernardo Bairrão foi apresentado ao Presidente da República e desapresentado — um ano depois ninguém sabe porquê; Pedro Rosa Mendes foi afastado da Antena 1 — sabemos porquê; o jornal _Público_ foi pressionado — neste caso sabemos porquê. \nE, Sr. Primeiro-Ministro, até agora nada nos disse de consistente e de claro sobre a enorme ameaça que representa, para qualquer pessoa neste País, o facto de termos a certeza que houve, por interesses empresariais na luta pela comunicação social, relatórios sobre o diretor do maior jornal português e sobre o dono do maior grupo de comunicação social em Portugal. \nSr. Primeiro-Ministro, nada disto é de 2010, não é do passado; é do presente. E devo dizer-lhe que o presente está mesmo a «arder».", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Francisco Louçã, confesso que não me sinto atraído por tais exercícios de suscetibilidade e de subjetividade acerca da forma como manifesto a minha confiança nos membros do meu Governo. \nQuando os membros do meu Governo não tiverem a minha confiança, não estão no meu Governo.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Quanto à sua insistência sobre as relações entre grupos de comunicação social e a privatização da RTP, deixe-me dizer-lhe que não deixa de ser curioso que o Ministro que tem a responsabilidade, por função e competência, de conduzir, juntamente com o Tesouro, o processo de alienação de um dos ativos públicos, que será a primeira peça da última retirada do Estado da comunicação social, seja justamente acusado de a querer controlar.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Parece realmente um absurdo, não é, Sr. Deputado?", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não é nada absurdo!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Por que é que, justamente, o Ministro que quer retirar o Estado da comunicação social está sob pressão da comunicação social?\nSr. Deputado, há uma coisa que lhe agradeço que diga em nome da verdade, da transparência e do combate à simples insinuação: o Sr. Deputado conhece algumas relações especiais do Sr. Ministro Miguel Relvas com os grupos empresariais de comunicação social? Gostaria que pudesse informar, se tiver. \nO Sr. Deputado não se esqueça que os relatórios a que aludiu, e que foram preparados no presente e não no passado, não foram preparados pelos serviços de informação do Estado. É muito importante, Sr. Deputado! \nNão foram preparados pelos serviços de Informação do Estado!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Tem a certeza?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "E, Sr. Deputado, acrescento também a isso que as duas empresas, em particular, que são visadas nessa «guerra» de comunicação social que o Sr. Deputado mencionou, são, justamente, sócias.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "Oh!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado Francisco Louçã.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, foi uma má representação, porque todos os que conhecem bem e apreciam a qualidade do Ministro Miguel Relvas sabem que ele não é uma vítima neste processo, que se há alguém que está, hoje, a fazer pressão sobre a comunicação social é o Ministro Miguel Relvas. Disto não há qualquer dúvida e é lamentável do ponto de vista democrático!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Mas a nebulosa é tão grave, Sr. Primeiro-Ministro, que mistura a pressão sobre a comunicação social, esta guerra, com a forma como são utilizados os serviços secretos. E não nos venha dizer que isto é uma milícia empresarial, porque, neste momento, temos certezas sobre algumas matérias. \nPrimeira certeza: este processo começou, em público, há um ano. Foi no dia 23 de julho que se soube que Silva Carvalho utilizava os recursos dos serviços secretos para a empresa que lhe veio a pagar 40 000 € por mês. \nFoi no dia 27 de agosto que se soube que havia investigação ilegal sobre um jornalista. Passou um ano, Sr. Primeiro-Ministro, repito, um ano, e não houve reestruturação dos serviços secretos. Não houve nenhuma alteração! E o senhor vem dizer-nos aqui que eram duas pessoas que lá estavam que faziam este berbicacho. \nDe uma coisa temos a certeza: nada de essencial foi feito na reestruturação dos serviços.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Ana Drago", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Mas, Sr. Primeiro-Ministro, digo-lhe o que sabemos. \nEm primeiro lugar, o SIED investigou um jornalista ilegalmente. \nEm segundo lugar, o SIED, ilegalmente, forneceu informações ao BCP, à Galp, à PT e à EDP. \nEm terceiro lugar, são utilizados meios do SIED para investigações ao serviço de uma empresa privada. \nEm quarto lugar, um diretor do SIED sai dos serviços secretos, levando listas secretas e continuando a receber informação permanente. \nPor isso, Sr. Primeiro-Ministro, ninguém está seguro. \nDiz-nos, além disso, que o Governo nada tem a ver com isto, que não recebeu nenhuma informação, mas há um secretário de Estado que reuniu com o ex-espião, há um ministro que recebeu informação e propostas dele, há um adjunto que já se demitiu, há até alguém que propôs, por presença numa loja do vice-presidente da bancada do PSD, que se alterassem as funções de uma pessoa que está hoje aí sentada. \nEm tudo isto, Sr. Primeiro-Ministro, o que temos é uma certeza: ninguém está seguro! E isto é absolutamente inaceitável!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Francisco Louçã, não posso acompanhá-lo naquilo que diz, quando refere que ninguém está seguro. \nJunta um conjunto de episódios que têm relevâncias diferentes, contextos diferentes, quer temporais, quer operacionais, para dar a ideia de que ninguém está seguro com o Sistema de Informações que temos, mas quero dizer-lhe, Sr. Deputado, que não estou de acordo. Não corresponde à verdade da situação! \nInsisto, mais uma vez, que não devemos «tomar a nuvem por Juno». O facto de existirem fugas de informação, nos tribunais portugueses, que põem em causa o segredo de justiça não abona o sistema de justiça, mas não torna todos os agentes nem o sistema de justiça perigosos para os portugueses.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Carlos Abreu Amorim", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "O facto de existirem, nos serviços de informação, pessoas que tenham exorbitado da sua competência, que tenham violado as regras de disciplina e obediência, é lamentável e, evidentemente, deve ser objeto de sanção disciplinar e de ação de responsabilização, como foi, mas não se pode dizer, como o Sr. Deputado disse, que são os serviços de informação e o Sistema de Informações que põem em causa a segurança dos portugueses. \nSr. Deputado, não é um bom serviço aquele que está a prestar aos serviços de informação nem ao Estado de direito! \nO Sr. Deputado diz que nada de essencial foi feito, mas, Sr. Deputado, tudo o que era essencial foi mesmo feito. Quando o Governo e o Primeiro-Ministro se aperceberam de que, no âmbito das competências administrativas, porque não há outras, os serviços de informação não têm competência penal, como o Sr. Deputado sabe, só o Ministério Público é que a tem, não era possível esclarecer melhor a situação, recorremos para o Ministério Público e, no âmbito das investigações do Ministério Público, apurou-se matéria que teve consequências, Sr. Deputado, pois houve demissões nos serviços, houve pessoas que foram afastadas e que estavam identificadas, justamente, como tendo exorbitado as suas funções.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Primeiro-Ministro.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Terminarei, Sr.ª Presidente, dizendo, novamente, aquilo que disse há pouco, mas que é importante, e peço desculpa por me repetir: para tranquilidade dos portugueses, é indispensável que saibam que os factos que são imputados, quer no passado, quer num passado mais recente, a pessoas que exorbitaram os seus deveres dentro do SIED — evidentemente, não me vou pronunciar sobre o que se passou fora dos serviços, porque já não cabe ao Primeiro-Ministro, como responsável pelos serviços, pronunciar-se sobre essa matéria — não têm a gravidade que lhes tem sido atribuída. Esta matéria tem de ser vista com proporcionalidade, é preocupante, mas teve uma resposta pronta do Governo, teve, por parte do Conselho de Fiscalização, uma ação muito apertada e irá permitir-nos, em sede parlamentar, o aperfeiçoamento do sistema — terá tido esta vantagem. \nDaí a dizer que não estamos seguros, Sr. Deputado, que ninguém está seguro, já não é uma questão de estilo, é uma questão de substância e de Estado, e não posso discordar mais do que diz.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Francisco Louçã, tem a palavra.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, quero repetir-lhe que o País inteiro sabe que ninguém está seguro.\nQuando Francisco Pinto Balsemão tem de dizer, indignado, que este conúbio entre os interesses empresariais e o poder político, que é o seu Governo, está a ameaçar a liberdade de Portugal, é porque ninguém está seguro. \nQuando o relatório sobre Ricardo Costa demonstra que nenhuma empresa tinha, por si só, os recursos suficientes para coligir aquela informação, é porque ninguém está seguro. \nQuando não se altera a estrutura de um serviço permeabilizado por todos os abusos, é porque ninguém está seguro. \nQuando todas as ligações das informações, antes e depois, vão ter a um ministro que, nos seus poderes, nada tem a ver com os serviços secretos, mas tem, certamente, um enorme magnetismo pessoal, que faz com que os _e-mails_ e _SMS_ se aproximem do seu telemóvel, então, ninguém está seguro. \nQuando há pressões sobre a comunicação social, como está a haver, de uma forma frenética, da parte deste Governo, e o Sr. Primeiro-Ministro nada diz sobre essa matéria, ninguém está seguro.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr. Deputado, isso é falso!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "O Sr. Primeiro-Ministro não tomou nenhuma atitude!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "É falso!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Teve um ano para tomar uma atitude!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "É falso!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Não, Sr. Primeiro-Ministro, não é falso, é verdade! Teve um ano para tomar uma atitude em relação à estrutura dos serviços, e podia tê-la tomado…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Vou concluir, Sr.ª Presidente. \nO Sr. Primeiro-Ministro podia ter tomado uma atitude em relação à estrutura dos serviços, em relação à sua liderança, em relação à sua hierarquia, em relação às garantias para as pessoas. \nSr. Primeiro-Ministro, temos hoje a convicção profunda de que o registo da atividade real daqueles serviços secretos não está nos computadores dos serviços e é por isso que se tornam perigosos. \nE, quando se fala de liberdade, Sr. Primeiro-Ministro, esperava aqui uma palavra unânime desta Assembleia, não esperava subterfúgios, não esperava a nebulosa, não esperava que fugisse à sua responsabilidade. \nSr. Primeiro-Ministro, o senhor, hoje, falhou ao País, porque falhou à luta pela liberdade.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para formular perguntas, por parte do Partido Ecologista «Os Verdes», tem a palavra a Sr.ª Deputada Heloísa Apolónia.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, a primeira pergunta que Os Verdes gostariam de fazer vai no sentido de saber por que é que só agora o Sr. Primeiro-Ministro se pronuncia sobre a matéria das secretas. Por que é que o Sr. Primeiro-Ministro tem andado silenciado em relação a esta matéria, designadamente no esclarecimento necessário à Assembleia da República e, por via dela, ao País, quando é o único membro do Governo que pode responder pelos serviços de Informação e que tutela esses serviços. \nO Sr. Primeiro-Ministro procurou hoje dar aqui a ideia de que o Governo se tem disponibilizado, à larga, para prestar informações sobre esta matéria. Olhe que não é verdade, Sr. Primeiro-Ministro! Não sei que informações é que lhe têm chegado aos ouvidos, mas, ainda noutro dia, Os Verdes apresentaram um requerimento, na Comissão para a Ética, a Cidadania e a Comunicação, para o Sr. Ministro Miguel Relvas vir prestar esclarecimentos à Assembleia da República, a propósito da questão com o jornal _Público_, e a maioria não deixou, preservou o Sr. Ministro.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Não sei se o Sr. Ministro queria vir e a maioria não deixou, certo é que o Sr. Ministro não veio e o requerimento não foi aprovado.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Nem se ofereceu, sequer!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Sr. Primeiro-Ministro, é capaz, porventura, de nos relembrar por que é que, há tempos, houve um adjunto do Sr. Ministro Adjunto e dos Assuntos Parlamentares que se demitiu. Teria alguma coisa a ver com as secretas, Sr. Primeiro-Ministro? Fará o favor de nos relembrar essa matéria e os motivos exatos da sua demissão. \nJulgo que, teoricamente, com uma coisa, todos concordaremos: não dá para tolerar promiscuidades entre o poder económico, o poder político e os serviços de informação. Não é possível tolerar! Isto não é digno de um país democrático! Os portugueses não podem pagar impostos para estes servicinhos! E o certo é que há desconfianças, naturalmente, de que tenham sido usados serviços dos serviços de informação para produzir coisas que não interessam ao País. Diz o Sr. Primeiro-Ministro: «não foram encomendados pelos serviços de informação». Não importa! Nós não podemos tolerar esta promiscuidade! \nSr. Primeiro-Ministro, face àquilo que já aqui foi dito relativamente à falha de fiscalização dos serviços de informação, está ou não na altura de passar a fiscalização dos serviços de informação para a Assembleia da República,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Para Os Verdes!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Olhe que não ficava pior!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "… com a presença de todos os grupos parlamentares?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Primeiro-Ministro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr.ª Deputada Heloísa Apolónia, pergunta a Sr.ª Deputada por que é que só agora é que o Primeiro-Ministro se pronuncia. Sr.ª Deputada, o Primeiro-Ministro já se pronunciou várias vezes, desde logo porque respondeu prontamente a todas as questões que os Srs. Deputados de diversos grupos parlamentares lhe dirigiram sobre estas matérias.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não quis foi cá vir para o contraditório!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Em segundo lugar, Sr.ª Deputada, já tive ocasião de responder, em debates quinzenais que tiveram lugar neste Parlamento, nomeadamente ao Sr. Deputado Francisco Louçã, sobre matérias desta natureza. \nMas, se bem me recordo, Sr.ª Deputada, nunca nenhum partido, num dia de debate parlamentar com o Primeiro-Ministro, escolheu, na sua vez, esta matéria para discussão. O Primeiro-Ministro escolheu, Sr.ª Deputada, e creio que isto é bastante elucidativo.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "A Sr.ª Deputada perguntou como é que explico a demissão de um Sr. Adjunto do Sr. Ministro Miguel Relvas. Sr.ª Deputada, não vou explicar.", 
+   "type": "pm_continuacao"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Não? Porquê?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Não, não! Não vou explicar, porque é conhecida a carta de demissão e, tanto quanto sei, o Sr. Ministro, que foi quem escolheu o Sr. Adjunto e quem o demitiu ou aceitou a sua demissão, dará, com certeza, conta disso ao Parlamento, e fá-lo-á, tanto quanto me disseram, ainda hoje. Portanto, como não pude inteirar-me dessa situação, Sr.ª Deputada,…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Nem lê jornais?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… não falo daquilo que não sei,…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Querem ver que também não lê jornais?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… mas o Sr. Ministro não deixará de dar as explicações que forem necessárias. \nSr.ª Deputada, mais uma vez, deixe-me dizer que, apesar de parecer apetitoso utilizar referências vagas, como fizeram aqui, de resto, o Sr. Deputado Francisco Louçã e o Sr. Deputado Jerónimo de Sousa,…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Não são referências vagas, são coisas concretas!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… mas também o Sr. Deputado António José Seguro, quando referiram a «promiscuidade», a «nebulosa», enfim, um somatório de insinuações vagas — e ainda bem que ficam só assim, porque se tivessem de explicar bem o que é não conseguiriam — que dão o aspeto de que alguma coisa não está bem,…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Não está, não!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… não posso acompanhá-la nesses exercícios. Não há nenhuma promiscuidade entre o Governo e os interesses económicos, Sr.ª Deputada! Não há nenhuma promiscuidade!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Não é promiscuidade, é subordinação!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Mas também não há nenhuma promiscuidade entre os partidos da maioria e os serviços de informação! Nenhuma promiscuidade!", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Que ideia!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Deputada, existe toda a responsabilidade assumida por mim, como Primeiro-Ministro, e pelo Governo, no seu todo, na direção daquilo que constitui a relevância de todo o Sistema de Informações em Portugal. \nPortanto, não posso pôr-me na posição fácil de juntar vagas suspeitas para obter um certo efeito final. Sr.ª Deputada, tenho de fazer o contrário, cabe-me fazer exatamente o contrário, que é manifestar a minha confiança dizendo que o Sistema de Informações em Portugal, apesar do que ainda precisa de evoluir, dos aperfeiçoamentos que necessita de conhecer, tem dado provas de maturidade e não pode ser contaminado por ações que possam ser imputadas a alguns, poucos, dos seus membros ou ex-titulares. Tenho que saber fazer essa separação! E, apesar de a Sr.ª Deputada estar nesta Assembleia do lado da oposição, também não lhe ficava mal que ajudasse a fazer essa distinção.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada Heloísa Apolónia, tem a palavra.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, quando nos queremos fazer passar por aquilo que não somos, as coisas tornam-se um bocadinho mais complicadas. \nO Sr. Primeiro-Ministro está todo contente porque hoje escolheu o tema. Escolheu, porque estava «entalado».", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Risos do PS e do PCP.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Desculpe a expressão, Sr. Primeiro-Ministro, mas é mesmo assim! Porque, na altura certa, o Sr. Primeiro-Ministro não quis vir à Assembleia da República dizendo o seguinte: «respondi aos Srs. Deputados por escrito». Pois! Mas, na altura, não sofreu o efeito do contraditório. Não quis!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Os Verde", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "E por alguma razão foi!… O Sr. Primeiro-Ministro escolheu o tema das secretas e nem sequer sabe por que é que o adjunto do Sr. Ministro se foi embora!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bruno Dias", 
+   "text": "Nem quer saber!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Teria algo que ver com alguma troca de mensagens com Silva Carvalho? Não sabe! Ao Sr. Primeiro-Ministro passou tudo ao lado! Bom, não sabe. Não sabe, mas o Ministro Miguel Relvas, pelos vistos, daqui a bocado… Hoje, despacha-se o assunto de uma só assentada. Não é, Sr. Primeiro-Ministro? Fala-se nos próximos dias sobre a matéria, e pode ser que as pessoas se esqueçam dele a seguir. Boa estratégia governamental! \nSr. Primeiro-Ministro, não falou sobre a questão da fiscalização, mas ela é fundamental para que não haja essa promiscuidade, que ninguém quer! Agora, já nem estou a dizer se há ou não, que é para ir encontro do Sr. Primeiro-Ministro. Todos queremos que não haja! Certo?! Então a questão da fiscalização é determinante. \nAquilo que se percebe — o Sr. Primeiro-Ministro disse-o aqui e o Sr. Deputado António José Seguro também; o PS e o PSD, os únicos que estão no Conselho de Fiscalização, assumem-no — é que a fiscalização está fragilizada! \nPergunto: não é altura de a Sr.ª Presidente da Assembleia da República assumir um papel fulcral nessa fiscalização, juntamente com todos os grupos parlamentares representados na Assembleia da República?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Ou há algum medo que se venha a descobrir alguma coisa que não se deve?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Isso é que é de desconfiar, Sr. Primeiro-Ministro. \nMesmo a terminar, quero referir o seguinte: Os Verdes desafiaram o Sr. Primeiro-Ministro a escolher, no debate quinzenal, o tema do desemprego. Não o escolheu. Hoje, também apreciamos um tema importante, mas o Sr. Primeiro-Ministro tem que vir à Assembleia da República rapidamente falar sobre a matéria do desemprego!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr.ª Deputada.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "Heloísa Apolónia", 
+   "text": "Estou mesmo a terminar, Sr.ª Presidente. \nO desemprego está a galopar. As previsões da Organização para a Cooperação e Desenvolvimento Económico (OCDE) para o próximo ano são absolutamente dramáticas e o Governo recusa-se a apresentar uma estratégia clara, objetiva e direta em matéria de combate ao desemprego. Não dá para esperar mais, Sr. Primeiro-Ministro!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos de Os Verdes e do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para formular perguntas, por parte do CDS-PP, tem a palavra o Sr. Deputado Nuno Magalhães.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, gostaria de fazer um conjunto de considerações em nome do CDS-PP e, no final, uma pergunta. \nAntes, vou colocar uma questão prévia, que tem que ver com a posição do CDS, que queria reafirmar, sobre os serviços de informação, posição essa que, de resto, não é de hoje, não é de ontem e tão-pouco de anteontem, é a mesma desde 1976. \nPara nós, os serviços de informação são, por definição e natureza, discretos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Francisco Louçã", 
+   "text": "Não têm sido!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "É por isso que não gostamos de indiscrições, ou de pessoas indiscretas, nos serviços de informação…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "… e foi também por isso que no Governo, como agora, ou na oposição, como outrora, evitámos sempre contribuir para alimentar polémicas sobre estes serviços por muito — para utilizar uma expressão que o Sr. Primeiro-Ministro já utilizou aqui — «apetitosas», do ponto de vista do aproveitamento político, que elas pudessem ser.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Por isso, Sr. Primeiro-Ministro, começo por dizer-lhe que fez bem em escolher este tema, que é muito sério, pois tem que ver com a defesa de interesses fundamentais do Estado, com a segurança de pessoas e bens, que estão também à guarda das informações que podem ser recolhidas por estes serviços interna e externamente. Contudo — reafirmo a posição do CDS —, tudo isto deve ser feito obedecendo sempre à Constituição, à lei, à hierarquia e até, diria mais, ao bom senso. Bom senso, aliás, que o Governo tem revelado sobre esta matéria. \nPor isso mesmo, para quem há algum tempo se dedica a estudar estas matérias, há alguns princípios básicos que, a nosso ver, importa respeitar quando se fala em serviços de informação. \nPrimeiro: quanto mais se discute um serviço de informações externas na praça pública, menos credibilidade tem esse serviço para desempenhar as suas funções e menos capacidade tem para recolher e obter informações que podem ser importantes nos serviços congéneres.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Tenhamos todos consciência exata dos nossos atos e das consequências que eles poderão ter.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Segundo: Sr. Primeiro-Ministro, a nosso ver, no Serviço de Informações Estratégicas de Defesa (SIED) ou no Serviço de Informações de Segurança (SIS) só pode ser agente ou diretor quem tenha um perfil «à prova de bala», pois são funções que requerem em todas as circunstâncias — antes, durante e depois do exercício das mesmas — sentido de Estado, sobriedade e estrito respeito pela legalidade. \nTerceiro: não foi este Governo, não foi o Sr. Primeiro-Ministro, que nomeou o Dr. Silva Carvalho como diretor do SIED.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "João Pinho de Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "É bom recordar essa matéria. \nQuarto: foi este Governo, e foi o Sr. Primeiro-Ministro, como bem disse, que ordenou inquéritos, que pediu sindicâncias ao que se passava no SIED. Foi por causa deste Governo e dessas iniciativas do Sr. Primeiro-Ministro que foi possível enviar um conjunto de conclusões ao Ministério Público e o País saber aquilo que a oposição inteira desconheceu durante sete anos e meio. E, hoje, a oposição parece estar completamente escandalizada, atribuindo a responsabilidade dos factos ao Sr. Primeiro-Ministro, que foi quem ordenou a realização das sindicâncias e dos relatórios que permitem que agora este tema possa ser discutido, que foi quem mandou investigar e enviar os elementos para a instância certa, que é o Ministério Público.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Isso não deixa de ser extraordinário. \nQuinto: daqui decorre uma consequência política que não é irrelevante, diria mesmo que é muito importante. Nada do que tenha sido feito no SIED é responsabilidade política deste Governo, porque as nomeações não foram feitas pelo Sr. Primeiro-Ministro. Tudo o que hoje, judicialmente, é possível saber sobre o que terá sido feito no SIED, isso, sim, só pôde acontecer devido à responsabilidade deste Governo e à atitude que o Sr. Primeiro-Ministro decidiu, desde logo, tomar. Isto é absolutamente essencial para nós. \nSexto: gostaria também de «separar as águas», Sr. Primeiro-Ministro. O CDS considera que para o Serviço de Informações externas funcionar de forma adequada tem, obviamente, que analisar e recolher informações económicas e empresariais por uma simples razão: Portugal tem interesses económicos no exterior — ainda bem que os tem! — e outros países também têm, pois vivemos em concorrência. Mas, na atividade de um serviço de informações é essencial, diria mesmo absolutamente essencial, respeitar a fronteira da legalidade. \nCom isto, quero dizer que, para nós, é totalmente inaceitável que um agente, ou ex-agente, um dirigente ou ex-dirigente, leve para fora do Serviço informações desse mesmo Serviço.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "É grave se o fizer durante o exercício das suas funções, porque significa que não preza o silêncio, valor fundamental no exercício deste tipo de funções. E é igualmente grave se o fizer depois de sair desses mesmos serviços, com ou sem lucro, pois significa que perde o respeito institucional sobre os serviços que teve oportunidade de desempenhar. \nSétimo: os serviços de informação visam proteger a segurança do Estado, e é bom que fique claro que nunca contará com a cumplicidade desta bancada quem confundir interesses do Estado com espionagem privada. Ou seja, tem que ficar absolutamente claro que nunca será função destes serviços produzir relatórios que nada têm que ver com ameaças ao interesse do Estado, sejam elas do ponto de vista da segurança, sejam elas do ponto de vista policial, sejam elas do ponto de vista económico! \nFinalmente, Sr. Primeiro-Ministro, dizem por aí — e disseram-no aqui, hoje — que o Dr. Jorge Silva Carvalho queria nomear esta ou aquela pessoa para os serviços. Querer não é poder, Sr. Primeiro-Ministro. E ainda bem — e aqui nada foi dito sobre essa matéria — que o Sr. Primeiro-Ministro não nomeou ninguém. É mesmo lamentável que tantas acusações tenham sido feitas, tantas especulações tenham sido realizadas pelos partidos da oposição e que ninguém se tenha recordado deste simbólico, mas importante, facto. \nDito isto e na ausência de propostas dos partidos da oposição, que tanto pretendiam falar sobre este tema, mas que, quando o Sr. Primeiro-Ministro o escolhe, não têm qualquer proposta a apresentar mas apenas simples acusações e especulações, quero ainda dizer-lhe que, a nosso ver, é preciso retirar lições do que se passou e melhorar, nalguns casos significativamente, as questões relativas aos serviços de informação.\nPor isso, a pergunta que lhe quero colocar é se estão ou não o Governo e o Sr. Primeiro-Ministro disponíveis para refletir, com serenidade, não se baseando em casos concretos mas, sim, no interesse nacional, sobre alterações ao Sistema, aos critérios de recrutamento para os serviços de informação, à formação dos agentes, ao regime de incompatibilidades dos dirigentes e à forma de fiscalização dos serviços. \nConsideramos que, se fizermos essa reflexão de uma forma aberta e conseguirmos ter resultados nessas áreas, poderemos criar condições para que os serviços de informação possam continuar o seu importante trabalho e para, durante algum tempo, não discutirmos na praça pública matéria que deve ter recato.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Sr. Primeiro-Ministro, se o fizermos, teremos prestado um enorme serviço ao País. Estou convencido de que assim acontecerá.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Isto pareceu-me uma demarcação!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Primeiro-Ministro para responder.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Nuno Magalhães, subescrevo muitas das considerações que expendeu durante a sua intervenção. \nPortanto, escuso-me a acrescentar algum elemento, exceto para dizer que, se é verdade que a discussão na praça pública enfraquece os serviços que, por definição, têm uma ação discreta, também verdade — e julgo que o Sr. Deputado concordará — que, quando ocorrem denúncias ou especulações que atingem ou podem vir a atingir a reputação dos próprios serviços, a pior coisa que podemos fazer é alimentar a especulação, o melhor que podemos fazer é uma discussão aberta sobre essa matéria e investigar aquilo que ocorreu. Mas, como o Sr. Deputado referiu na sua intervenção, e muito bem, foi isso que o Governo fez. Foi justamente isso que o Governo fez! \nQuis-se gerar a ideia de que o Governo tem algum envolvimento nesta matéria, que poderia ter conduzido a que elementos importantes para a investigação não fossem disponibilizados para preservar alguma informação não de caráter confidencial para o Estado mas que pudesse afetar o próprio Governo. Contudo, a verdade é que o Governo não poderia ter ido mais longe disponibilizando toda a informação, da sua iniciativa, relevante ao Ministério Público. \nO Primeiro-Ministro poderia ter invocado o segredo de Estado para não permitir que esta investigação dispusesse dos elementos de que dispôs para poder concluir aquilo que aqui, hoje, estivemos a discutir. \nMas ponderadas todas as vantagens e desvantagens, e em contacto com o Ministério Público, com as devidas cautelas que o Ministério Público aceitou — e aceitou-as porque não prejudicariam o essencial da investigação —, todos os elementos requeridos pelo Ministério Público foram disponibilizados para a investigação. \nPortanto, o Sr. Deputado tem toda a razão: se, hoje, temos elementos para discutir seriamente aquilo que se passou no passado, foi porque o Governo colocou acima de tudo o interesse da própria investigação, assimilando-o ao interesse da credibilidade dos serviços de informação. E julgo que fez bem, pois considero que serviços de informação que não sejam credíveis não servem a proteção dos cidadãos e a segurança do Estado, e aí, sim, poderia estar em causa a segurança de todos nós e do País. \nO Sr. Deputado disse que é importante que haja abertura para revisitar com seriedade, e acrescento também com alguma distância sobre os eventos, para que tenhamos a certeza de que todas as matérias relevantes foram tidas em atenção, é importante revisitar vários dos aspetos do nosso Sistema de Informações. \nO Sr. Deputado fez referência ao recrutamento e à formação. Com certeza que sim, embora seja minha convicção que, nestes dois aspetos, se evoluiu muitíssimo ao longo destes anos e que, portanto, hoje, o recrutamento e formação são já matéria que tem tido um apuramento muito relevante, de modo a evitar o recrutamento de personalidades menos adequadas a este tipo de funções. \nO facto de, na orgânica dos serviços, ter sido melhor explicitado, até, o nível de competências e aptidões que os novos candidatos devem ter ajudou a melhorar a transparência no recrutamento e na formação. Mas é evidente que temos de reforçar a fiscalização — isso parece evidente! \nO que se passou, apesar de tudo, quer em 2010 quer em 2011, no âmbito do que, agora, se apurou, merece que se revejam os mecanismos de fiscalização. Houve matéria que, no âmbito da ação administrativa dos serviços, não foi apanhada, quer dizer, só foi possível concluir que houve desvio de função e abuso de confiança e de poder através da ação penal — coisa que nunca os serviços nem o Conselho de Fiscalização poderão desenvolver, porque não estão investidos do poder para exercerem a ação penal. Mas, evidentemente, que devemos reforçar os meios de fiscalização e há recomendações do próprio Conselho de Fiscalização e do Conselho Consultivo que apontam para várias medidas que podem contribuir para esse aperfeiçoamento. \nO Partido Socialista fez eco de algumas delas, mas haverá outras; eu próprio sugeri aqui, no início, que, enquanto existirem dois serviços distintos, dirigidos por diretores de serviço, isto é, por dirigentes de primeiro grau, esses dirigentes também deviam ser ouvidos, em audição prévia, na Assembleia da República. Julgo que seria importante que aqueles que dirigem os serviços pudessem também ser previamente escrutinados por todo o Parlamento. \nClaro que devemos ter em melhor atenção tudo aquilo que envolve a desvinculação de membros dos serviços de informação. Porquê? Porque há uma fronteira, que nem sempre é nítida, entre a informação que se produziu no âmbito das funções e aquela que se pode levar, abusivamente, dos serviços para outros fins. E isso tem de estar melhor protegido e tutelado na própria lei. \nPortanto, Sr. Deputado Nuno Magalhães, a resposta é sim. Estamos todos empenhados, o Governo e todos os grupos parlamentares — julgo que ficou bem claro —, para que, na sequência de todo o apuramento em matéria penal, se possam tirar as melhores conclusões e incrementar os nossos mecanismos de fiscalização, de modo a garantir aos portugueses, não a infalibilidade dos serviços, porque isso não existe — nem dos serviços, nem dos tribunais, nem dos governos nem dos parlamentos, não há infalibilidade! —, mas que fazemos tudo o que está ao nosso alcance para proteger as finalidades dos serviços e das instituições. E isso, Sr. Deputado, está bem ao nosso alcance.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para formular perguntas pelo PSD, tem a palavra o Sr. Deputado Luís Montenegro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr.ª Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo, Sr.as e Srs. Deputados: Creio que está bem patente a importância do tema que V. Ex.ª trouxe, hoje, a este debate. \nEstá igualmente bem patente o contributo que todos — o Governo, o Parlamento, os partidos políticos — devem oferecer para preservar a credibilidade e a reputação dos serviços de informações da nossa República. \nÉ óbvio, Sr. Primeiro-Ministro (e também já se percebeu neste debate), que ninguém é indiferente — não pode ser indiferente! — à polémica que envolve um dos serviços do nosso Sistema de Informações. Mas é importante, como disse o Sr. Primeiro-Ministro no início deste debate, que não reduzamos a este episódio todo o trabalho e toda a ação quer do SIS quer do SIED, em Portugal.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Um e outro serviço têm a sua missão, têm as suas competências definidas na lei, onde se dispõe também sobre os respetivos meios de atuação e de onde se retiram igualmente as suas limitações, no que diz respeito à preservação dos direitos, liberdades e garantias dos cidadãos. \nSabemos que o SIED é um serviço que detém a exclusividade de produzir informações que contribuem para a salvaguarda da independência nacional, dos interesses e da segurança externa do Estado português, como o SIS é o organismo que, integrando as forças e os serviços de segurança, assim previsto na Lei de Segurança Interna, produz informações relevantes, tendentes a salvaguardar a segurança interna, a prevenir ameaças importantes, como o terrorismo, a criminalidade organizada económica e, até, crimes graves contra os seres humanos, como o tráfico de seres humanos, e que funcionam, um e outro serviço, como garantes da própria democracia e do próprio funcionamento do Estado de direito.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Teresa Leal Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "E, por isso, Sr. Primeiro-Ministro, é que a primeira questão que se coloca quando se fala desta matéria, e já foi aqui várias vezes colocada, é se, no essencial, naquilo que é o grosso do trabalho, do serviço que é prestado nestes organismos, se cumpre a lei, se respeita a missão e as competências que estão atribuídas a estes serviços.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Teresa Leal Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "É certo que o Sr. Primeiro-Ministro já o disse, mas creio que é importante que os portugueses saibam — e os portugueses merecem saber — que, para lá da intoxicação mediática que envolve a publicitação de ações anómalas, para além disso, há uma regra que funciona, e essa regra é o cumprimento da lei.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Teresa Leal Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "E, Sr. Primeiro-Ministro, termos a perceção de que essa é a regra de funcionamento dos serviços, é a principal resposta àqueles que querem alarmar o País, dizendo que não estamos seguros. Estamos seguros porque há uma lei,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… há uma lei que define competências e há uma lei que é maioritariamente cumprida, quase na sua totalidade, e, quando são identificadas situações anómalas, elas são averiguadas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr. Primeiro-Ministro, é por isso importante que se saiba que todas as ações, todos os comportamentos que indiciem o desrespeito da lei, o desvirtuamento da função dos serviços ou, mesmo, a prossecução de algum interesse privado ilegítimo são merecedores de averiguação e de apuramento incondicional de responsabilidades.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "O Sr. Primeiro-Ministro foi muito claro a este respeito e eu queria aqui registá-lo. \nAgora, Sr. Primeiro-Ministro, perante a notícia pública de indícios de irregularidades, V. Ex.ª instaurou dois inquéritos — disse-o aqui. Perante os elementos apurados nesses inquéritos, autorizou uma sindicância mais profunda e, perante os resultados desta sindicância, tirou consequências internas — teve até ocasião de dizer aqui que tinha havido já demissões de membros dos serviços — e remeteu os elementos recolhidos para as autoridades judiciais competentes. \nSr. Primeiro-Ministro, não há dúvida alguma que V. Ex.ª fez aquilo que devia ser feito.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Já agora, também quero aqui dizer que o Parlamento e os partidos que o integram também têm feito aquilo que lhes compete.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Com certeza!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Não nos podemos esquecer que foram promovidas audições e um trabalho de escrutínio no seio da 1.ª Comissão que levou a que cada grupo parlamentar tirasse, sobre esta matéria, as suas conclusões. E quero aqui dizer, de uma forma muito clara, que nós, no PSD, assumimos tranquila e integralmente as conclusões que tirámos também do trabalho que produzimos no Parlamento.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr. Primeiro-Ministro, é verdade que, mais recentemente, resultante também do nosso debate aqui e depois de conhecida e publicitada a acusação promovida pelo Ministério Público, no âmbito do tal processo-crime subsequente à sindicância interna, se sucedeu uma catadupa de notícias que têm gerado equívocos e que o Sr. Primeiro-Ministro fez muito bem em vir aqui, hoje, desfazer.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Teresa Leal Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Construiu-se, de facto, um enredo circundante aos factos que estão em causa, com extrapolações que visam envolver o Governo numa factualidade que, maioritariamente, quase totalmente, remonta de forma inequívoca à vigência não deste Governo mas do governo anterior.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Bem lembrado! Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr. Primeiro-Ministro, este debate é, de facto, importante para dissipar dúvidas e para esclarecer equívocos, mas deixe-me dizer-lhe que, muitas vezes, alguns dos que reivindicam os esclarecimentos são os mesmos que, voluntariamente, depois os não querem compreender ou aceitar.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Até parece que verdadeiramente não querem ser esclarecidos…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Oh!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Esse não é seguramente, o nosso caso, Sr. Primeiro-Ministro.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Isso é para o CDS!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Por isso, de uma forma direta, tornava a questioná-lo porque, embora saiba que esta pergunta já foi formulada e respondida, julgo que o assunto deve ficar claro, no fim deste debate: houve alguém a influenciar ilegitimamente a relação do Governo e do Sr. Primeiro-Ministro com os serviços de informações? O Governo nomeou alguém ou exonerou alguém por pressões ou influência de quem quer que seja, dentro ou fora dos serviços? O Governo promoveu alguma reestruturação dos serviços por influência ou sugestão de alguém? Ou mandatou alguém para poder estudar essa reestruturação? \nO Sr. Primeiro-Ministro já aqui respondeu a estas questões, eu sei! E foi muito factual nas respostas que deu, mas deixo-as aqui, novamente, para que tenhamos a oportunidade, no fim deste debate, de uma forma séria, honesta, com sentido de Estado e de responsabilidade, de podermos compreender e respeitar as respostas do Sr. Primeiro-Ministro. \nA esse propósito, Sr. Primeiro-Ministro, quero aqui reiterar também, desta bancada do PSD, que não reconhecemos em nenhum facto — repito, em nenhum facto — que haja, em Portugal, qualquer triângulo de interesses entre serviços de informações, empresas de comunicação social e o Partido Social Democrata. Isso não existe, Sr. Primeiro-Ministro,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "text": "Protestos do Deputado do BE Luís Fazenda.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… e deve ficar muito claro que não há nenhum facto que possa atestar uma teoria ou uma tese dessas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Já agora, Sr. Primeiro-Ministro, sobre uma outra questão que perpassou neste debate, queria perguntar-lhe se alguma vez a estratégia que o Governo tem em matéria de comunicação social e, no caso concreto, em matéria de privatização ou de alienação de um canal público de televisão, foi o poderá ser condicionada por episódios anómalos que se passaram nos serviços de informações ou mesmo por processos mediáticos que vêm na sequência desses episódios? \nSr. Primeiro-Ministro, não consegui perceber muito bem aquilo que aqui hoje se disse a esse respeito, porque tenho a convicção profunda de que o Governo decidirá sempre essa matéria com base no interesse nacional, com base no interesse das pessoas, das famílias portuguesas, e não com base em nenhum processo, seja ele dos serviços de informações ou sejam processos mediáticos, que vise atingir tal finalidade de condicionamento das decisões políticas, legítimas, do Governo da República.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr. Primeiro-Ministro, com as explicações que aqui hoje foram dadas, com o contributo que o Governo e o Sr. Primeiro-Ministro aqui hoje trouxeram para o esclarecimento da verdade dos factos envoltos nas polémicas que têm estado na praça pública, com as várias notícias que têm vindo a terreiro, quero dizer-lhe que quem não quiser compreender, como disse há pouco, com honestidade e seriedade as suas respostas está a tentar desviar as atenções daquilo que tem sido a agenda de transformação do País que o Governo está a implementar…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Teresa Leal Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… mas está, sobretudo, a caminhar voluntariamente para o campo da chicana do terrorismo político.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Olhe o Balsemão!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Isso tem também de ser denunciado, Sr. Primeiro-Ministro, porque é importante o esclarecimento democrático — o esclarecimento é muito importante, é devido a todos e a cada um dos Deputados que se sentam nesta Casa — mas é importante também que se respeitem as respostas aos esclarecimentos que se solicitam. \nÉ que às vezes, Sr. Primeiro-Ministro, com o desenvolvimento destes debates, ficamos com a sensação de que aquilo que se pretende não é o esclarecimento, aquilo que se pretende é levantar as tais «nebulosas» para poder aproveitar politicamente essas circunstâncias, para poder centrar o debate político nessas situações e não naquilo que é fundamental, isto é, o que cada um de nós defende para o futuro do nosso País.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Menezes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, peço-lhe que termine.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr. Primeiro-Ministro, como nota final, por falar em futuro e por falar também no desempenho do Governo, não quero perder esta oportunidade, este ensejo de lhe dirigir, a si e ao Governo, em particular ao Ministro de Estado e das Finanças Vítor Gaspar e ao Ministro-Adjunto e dos Assuntos Parlamentares Miguel Relvas, uma palavra de felicitação pelo acordo de concertação que esta semana o Governo celebrou com os municípios portugueses.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "É um acordo fundamental para o equilíbrio financeiro do País, fundamental para os municípios e para as populações que servem e fundamental para a economia local, para manter e criar muitos postos de trabalho e para pôr as nossas empresas a «respirar». Sr. Primeiro-Ministro, isto é o centro das nossas preocupações; é para governar e transformar Portugal que estamos aqui!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Primeiro-Ministro para responder.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Sr.ª Presidente, Sr. Deputado Luís Montenegro, sublinho aquilo que disse no início da sua intervenção: estamos seguros porque, não podendo responder pela infalibilidade nem da democracia nem das instituições democráticas, estas têm provado ser suficientemente escrutinadas para que os cidadãos possam com propriedade saber o que se passa, apurar a verdade, tirar consequências e responsabilizar quem deve ser responsabilizado.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Pedro Lynce", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "É por isso que estamos seguros e é por isso que divirjo inteiramente da forma como a questão da segurança foi colocada por alguns partidos da oposição. \nTudo o que se passou no âmbito do processo que vem agora a público, em sequência da ação penal que o próprio Governo suscitou, mostra que precisamos de progredir em matérias importantes, sobretudo nas que estão relacionadas com a fiscalização e com um quadro de transição que deverá existir para funcionários que abandonam os serviços e que não podem levar informação relevante ou classificada — mesmo tendo valor comercial é, evidentemente, segredo de Estado e não pode estar ao serviço de particulares, embora seja importante para todos os cidadãos —, e que temos de melhorar os processos de seleção e recrutamento, sobretudo dos dirigentes de primeiro nível. Temos, evidentemente, de tirar lições daquilo que se passou. \nO Sr. Deputado convidou-me a fazer uma síntese dos factos, e agradeço-lhe que me tenha permitido fazê-lo neste período final. \nEm primeiro lugar, decidi não substituir nenhum dos dirigentes de primeiro grau nem o Secretário-Geral do Sistema de Informações. Aproveito agora para dizer que entendi que nesta matéria, que é uma matéria de Estado muito sensível, não deviam os serviços ficar sujeitos à presunção de que a mudança de Governo determinaria uma mudança de cadeiras que pudesse confundir a intervenção dos serviços com outros propósitos que não fossem os do Estado e que pudessem ser associados aos partidos que apoiam o Governo.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Teresa Leal Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Porque será?…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Achei, por essa razão, que era importante dar aos serviços e ao País o sinal que damos na nossa diplomacia, ou seja, que confiamos nas instituições e o princípio da continuidade é um princípio que deve ser preservado. Foi esse o princípio que segui. \nDiz o Sr. Deputado que, apesar de tudo, fizemos alguma intervenção nos serviços. É verdade, aplicámos também aos serviços de informação o Plano de Redução e Melhoria da Administração Central do Estado (PREMAC), o que significa reduzir o número de chefias intermédias — isto foi feito em toda a Administração Pública —, mas isso não se confunde com o processo de reestruturação dos serviços, para o qual convidei o Partido Socialista a associar-se, para uma reflexão.\nEsse processo foi já defendido pelo governo em 2004, no primeiro projeto de proposta de lei-quadro para o sistema, e é sabido que ainda durante a vigência da anterior legislatura essa matéria foi discutida, embora no âmbito do Conselho Consultivo e do Conselho Superior de Informações, e que nesse âmbito foram várias as vozes, nomeadamente do governo de então, que defenderam que o caminho deveria ser o da fusão de serviços. \nIsso não tem a ver com nenhuma apropriação de visão nem ideológica nem partidária relativamente aos serviços de informação,…", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Que ideia!…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "… tem a ver com o facto, cada vez mais reconhecido, de que há ameaças à segurança interna que vêm do exterior e há ameaças à segurança externa que vêm do interior.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Já havia!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Isto significa, portanto, que, para ter uma visão integrada dessas ameaças e para ter uma resposta integrada à segurança do Estado, seja interna seja externa, não podemos somar a visão do SIED à visão do SIS, devemos ter uma visão integrada, que separasse, evidentemente, o plano operacional do plano da análise e tratamento de informação. \nEstas matérias são, porém, demasiado sensíveis para que um governo qualquer as determine unilateralmente. Por essa razão, uma vez que da parte do maior partido da oposição não houve abertura para considerar essa evolução dos serviços, que seria tida como natural e que é defendida por muitos especialistas há muitos anos, o Governo não a desencadeou e não trouxe, por isso, ao Parlamento. \nPerguntar-se-á o seguinte: «bem, então porque é que se estabelece este nexo de suposta causalidade entre gente que quer influenciar, quer ser nomeada, quer nomear e quer tirar obstáculos da frente quando, na prática, constatamos, pelos factos, que ninguém de novo foi nomeado, que os serviços não foram reestruturados e que, portanto, o suposto intuito que se tinha de pressionar e influenciar as decisões do Governo não conduziu rigorosamente a nada? E não porque a oposição tivesse condicionado a decisão do Governo mas, simplesmente, porque essa não foi a opção do Primeiro-Ministro, e não foi a opção do Governo na medida em que não foi a do Primeiro-Ministro, porque o Primeiro-Ministro não partilhou esta decisão com outros membros do Governo. \nIsto significa, portanto, que fica um imenso espaço — Sr. Deputado, concordo consigo! — para o romance político, fica um imenso espaço para todos aqueles que gostam de se dedicar à especulação, mas não fica qualquer espaço para quem, a partir dos factos, queira justificar especulações ou insinuações.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Vamos ver!…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Primeiro-Ministro", 
+   "speaker": "Pedro Passos Coelho", 
+   "text": "Estou, por isso, muito tranquilo quanto às minhas decisões em matéria de serviços de informação e de sistema de informações, e estou muito tranquilo porque, na vigência do meu Governo, toda a transparência foi dada para que as pessoas se sentissem seguras quanto àquilo que era preciso apurar, quer tivesse tido ocorrência na vigência do meu Governo quer tivesse tido ocorrência, sobretudo, em vigência de governos anteriores. Mas, Sr. Deputado, mais do que tudo isso, estou de consciência tranquila pela lealdade que até hoje me foi demonstrada e pela proficiência de quem tem responsabilidade perante mim sobre os serviços de informação, que fez o que estava ao seu alcance e diligentemente para que estas verdades fossem apuradas. \nFinalmente, diz o Sr. Deputado que se congratula com o acordo estabelecido com os municípios e com o Governo. Eu também me congratulo, Sr. Deputado, porque já iniciámos um processo de regularização de dívidas em atraso de curso prazo ao nível de todo o setor da saúde, que é cronicamente um setor devedor, e vamos iniciar agora também um processo ao nível do poder local. \nÉ indispensável que os municípios que estão mais sufocados financeiramente, e que em face da lei dos compromissos não se viam com espaço de manobra para continuar a aumentar a sua dívida ou sequer para poder pagar a atrasada, o possam agora fazer com mais flexibilidade, mas sem aumentar a dívida e sem aumentar os atrasos, pagando a quem devem, seja ao nível das economias locais seja ao nível de outras empresas. \nÉ indispensável que os municípios que vão receber esta facilidade de pagamento consigam também cumprir a sua parte do ajustamento económico e financeiro que precisam de fazer, porque é isso que exigem as crianças, os mais idosos e as empresas locais dos municípios que estão mais endividados ou que têm menos segurança financeira. \nÉ justamente para preservar a função social e económica dos municípios que este Governo, mais uma vez em diálogo com os autarcas e com a Associação Nacional de Municípios Portugueses, conseguiu fechar um acordo importante para defender a coesão social, para defender a estabilidade do emprego e, sobretudo, para defender a possibilidade de retoma económica do País.", 
+   "type": "pm_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, terminámos o debate de hoje. Cumprimento o Sr. Primeiro-Ministro e os demais membros do Governo, desejando-lhes um bom trabalho. \nSrs. Deputados, a próxima sessão plenária realizar-se-á amanhã, às 15 horas, constando da ordem do dia, por marcação de Os Verdes, o debate do projeto de resolução n.º 346/XII (1.ª) — Garante o direito humano à água e ao saneamento (Os Verdes), após o que poderá, eventualmente, ser votado. \nSrs. Deputados, está encerrada a sessão.", 
+   "type": "presidente_encerrada"
+  }, 
+  {
+   "text": "Eram 17 horas e 2 minutos.", 
+   "type": "hora"
+  }
+ ], 
+ "president": "", 
+ "secretaries": [], 
+ "session-date": "30-05-2012", 
+ "time_end": null, 
+ "time_start": null
+}

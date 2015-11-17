@@ -1,0 +1,1089 @@
+{
+ "entries": [
+  {
+   "text": "4 de setembro de 2014", 
+   "type": "nota"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, Srs. Jornalistas, está aberta a sessão.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Eram 15 horas e 3 minutos.", 
+   "type": "hora"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Os Srs. Agentes da autoridade podem abrir as galerias, por favor. \nSrs. Deputados, a Sr.ª Secretária vai proceder à leitura do expediente.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Maria Paula Cardoso", 
+   "speaker": "Secretária", 
+   "text": "Sr. Presidente e Srs. Deputados, deram entrada na Mesa, e foram admitidas, as seguintes iniciativas legislativas: projeto de lei n.º 645/XII (3.ª) — Primeira alteração ao Regime do Segredo de Estado e alteração ao Código Penal (PSD e CDS-PP), que baixa à 1.ª Comissão; inquérito parlamentar n.º 9/XII (3.ª) — Inquérito parlamentar à gestão do BES e do Grupo Espírito Santo, ao processo que conduziu à aplicação da medida de resolução e às suas consequências, nomeadamente quanto aos desenvolvimentos e opções relativos ao GES, ao BES e ao Novo Banco (PCP). \nÉ tudo, Sr. Presidente.", 
+   "type": "secretario"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos aqui uma pequena circunstância, de certo modo de período de antes da ordem do dia, que é a informação de que a Sr.ª Deputada Rosa Albernaz faz hoje anos.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Aplausos gerais.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Acrescento ainda, Srs. Deputados, que o Sr. Deputado Matos Rosa também faz anos.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Aplausos gerais.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Embora os Srs. Deputados sejam de dois partidos diferentes, parece o aniversário das rosas. \nSrs. Deputados, agora sim, vamos entrar no período da ordem do dia com a apreciação da proposta de lei n.º 244/XII (3.ª) — Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014). \nPara apresentar a proposta de lei, tem a palavra a Sr.ª Ministra de Estado e das Finanças.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Sr. Presidente da Assembleia da República, Sr.as e Srs. Deputados, a proposta de segunda alteração ao Orçamento do Estado para 2014 visa assegurar três objetivos em simultâneo: dar execução ao Acórdão do Tribunal Constitucional de 30 de maio, refletir nas contas públicas a evolução da atividade económica e da execução orçamental e assegurar o cumprimento do limite de 4% do produto interno bruto para o défice orçamental em 2014. \nÉ, assim, uma proposta que reflete a monitorização contínua do processo e da execução orçamentais, que comprova o empenho na construção de finanças públicas sustentáveis e que cumpre a necessária prestação de contas à Assembleia da República e a todos os contribuintes. É uma proposta de responsabilidade, ao contrário do que sugerem muitas críticas que têm surgido. \nDe facto, a apresentação de orçamentos retificativos por este Governo não denota menor rigor na elaboração da proposta inicial mas, sim, um rigor acrescido no controlo da execução orçamental. Recordo que a preparação de cada Orçamento do Estado se inicia quase cinco meses antes do início do ano ao qual o orçamento se refere. Se esta antecedência por si só já representa uma condicionante na elaboração das projeções macroeconómicas e orçamentais, o grau de incerteza e risco associado a um período de transformação profunda na economia e nas finanças públicas portuguesas torna o processo ainda mais complexo. \nPor sua vez, as decisões do Tribunal Constitucional, algumas com impactos retroativos no nível de despesa pública, constituem um fator de instabilidade adicional. Seria mais fácil não reabrir o exercício orçamental, ignorar as dinâmicas da execução…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Sr.ª Ministra, peço desculpa pela interrupção, mas queria solicitar aos Srs. Deputados que façam silêncio, uma vez que há dificuldades em ouvir devidamente a Sr.ª Ministra.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Muito obrigada, Sr. Presidente. \nComo dizia, seria mais fácil não reabrir o exercício orçamental, ignorar as dinâmicas da execução e desconsiderar as metas estabelecidas para o saldo orçamental? Talvez! Mas não seria transparente, não seria responsável e não seria justo para os portugueses.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD e do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Não seria a mudança prometida e concretizada face à desorçamentação e à indisciplina do passado.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "A segunda alteração ao Orçamento do Estado hoje proposta decorre de vários fatores mas advém, em primeiro lugar, do Acórdão do Tribunal Constitucional de 30 de maio, cujo impacto na despesa pública implica uma revisão dos tetos orçamentais. \nA impossibilidade de manter a redução remuneratória inicialmente prevista a partir de 31 de maio originou um aumento imediato de despesas com pessoal. Ainda que a reintrodução da redução remuneratória vigente entre 2011 e 2013 possa mitigar esse efeito, não o compensa totalmente, exigindo assim uma correção dos tetos de despesa. A decisão do Tribunal Constitucional obrigou, ainda, a uma correção do nível da despesa com pensões de sobrevivência, ao passo que a decisão de inconstitucionalidade relativa à contribuição sobre prestações de doença e desemprego teve impacto como perda de receita. No global, o impacto negativo da declaração de inconstitucionalidade destas três normas no saldo orçamental ascendeu a aproximadamente 0,5% do produto interno bruto, em termos brutos. \nDe forma a garantir o cumprimento do limite de 4% do PIB para o défice orçamental, a revisão dos tetos de despesa exigia, por sua vez, a reavaliação das perspetivas macroeconómicas e a análise da execução orçamental, tendo em conta a informação já disponível sobre o primeiro semestre do ano e as perspetivas de execução até ao seu final. \nNo que respeita às perspetivas macroeconómicas e em comparação com as projeções subjacentes ao Orçamento do Estado inicial, o exercício de reavaliação resultou na identificação de duas principais tendências na economia portuguesa desde outubro de 2013. \nPor um lado, o mercado de trabalho tem evoluído de modo mais favorável do que o esperado, destacando-se a queda da taxa de desemprego de modo consistente desde o início de 2013 e a melhoria gradual das perspetivas de crescimento de emprego em 2014. \nPor outro lado, a procura interna — e o consumo privado em particular — têm registado uma recuperação mais rápida face ao previsto, acentuando o seu contributo para o crescimento do PIB e comprovando uma maior confiança dos consumidores. \nEstas tendências são também observáveis na execução orçamental, especialmente na evolução da receita fiscal e do saldo da segurança social. \nA receita fiscal tem vindo a crescer acima do previsto na proposta de Orçamento do Estado, beneficiando tanto do maior crescimento do emprego como da recuperação da procura interna, refletindo também as inúmeras iniciativas no âmbito do combate à fraude e evasão fiscais. \nPor sua vez, o saldo da segurança social tem melhorado quer pelo lado da receita — devido ao aumento de contribuições explicado pelo maior volume de emprego —, quer pelo lado da despesa — pela redução de prestações sociais com a queda do desemprego. \nAssim, tendo em conta a execução orçamental até julho, bem como a melhoria das perspetivas macroeconómicas, a estimativa de receita fiscal para 2014 foi revista em alta em aproximadamente 0,7% do PIB e a previsão de saldo da segurança social foi melhorada em cerca de 0,3% do PIB — ambas em comparação com a conta resultante da primeira alteração ao Orçamento do Estado para este ano. \nA análise da execução orçamental permitiu, ainda, reavaliar o conjunto de pressões e riscos no ano corrente. \nAlguns destes fatores já tinham sido identificados em abril, aquando da apresentação do Documento de Estratégia Orçamental, mas apenas agora foram refletidos na conta das administrações públicas. Decorrem essencialmente da reavaliação do impacto esperado das medidas transversais definidas para 2014, nomeadamente a execução mais tardia de programas de rescisões por mútuo acordo e da utilização do sistema de requalificação de trabalhadores. \nPor um lado, o menor volume de poupanças estimado para 2014 constitui uma pressão adicional nas despesas com pessoal, ainda que parte do impacto transite para 2015. \nPor outro lado, o alargamento dos programas de rescisões a técnicos superiores e docentes permite obter um maior volume de poupanças a médio prazo, embora se traduza num custo superior com indemnizações no ano presente. \nDesde a elaboração do DEO, procedeu-se a uma nova avaliação global dos riscos, agora refletida nesta proposta de segunda alteração ao Orçamento, de entre os quais se destacam a execução de uma transferência adicional para os hospitais E.P.E. e a revisão em baixa do saldo da administração local. Por oposição, a incorporação da informação mais recente resultou também na revisão em baixa das estimativas de despesa em determinadas rubricas, sendo de salientar o volume adicional de poupanças esperado com parcerias público-privadas. \nImporta também salientar que esta proposta de alteração não só incorpora as pressões orçamentais identificadas até julho como também visa refletir a incerteza sobre a execução orçamental até ao final do ano, pelo que a dotação provisional é mantida num nível considerado adequado. Mantém-se, assim, um adequado e permanente controlo da despesa, porque controlo não significa apenas contenção da despesa, assenta igualmente na identificação de riscos, na sua monitorização e, caso se materializem, na sua acomodação. \nPor último, e reforçando o empenho do Governo em aumentar a transparência orçamental com a apresentação desta proposta de alteração, releva ainda a identificação de um conjunto de operações que poderão ter um impacto contabilístico no saldo orçamental. \nUma vez que os efeitos de algumas destas operações — de caráter pontual — dependem ainda da avaliação das autoridades estatísticas ou mesmo da versão do Sistema Europeu de Contas a utilizar, os mesmos não foram considerados na conta das administrações públicas apresentada. Não obstante, as operações foram descritas em detalhe no relatório que acompanha a proposta de lei, permitindo a avaliação completa do exercício orçamental. \nMais ainda, o impacto das operações no _stock_ da dívida pública foi já tido em conta na nova estimativa apresentada para o final de 2014. Este efeito é, na verdade, o principal fator na origem da ligeira revisão em alta apresentada. \nDe um modo geral, a reavaliação do exercício orçamental permitiu concluir que as pressões identificadas são inteiramente acomodadas pela revisão em alta da estimativa de receita fiscal, pela melhoria esperada no saldo da segurança social e pelo controlo adicional de rubricas da despesa. Deste modo, a presente proposta de alteração ao Orçamento assegura o cumprimento do limite do défice para este ano sem recurso a medidas de consolidação orçamental adicionais. \nAinda assim, é importante termos presente que os compromissos orçamentais e a necessidade de reduzir o nível de dívida pública vão muito além do ano de 2014. É imperativo manter a disciplina orçamental no futuro, ajustando perspetivas, revendo estimativas e retificando o Orçamento quando necessário. E é fundamental fazê-lo com a mesma determinação dos últimos três anos, porque a sustentabilidade das finanças públicas não pode ser uma preocupação apenas em períodos de emergência, tem de ser um objetivo permanente, sob pena de perda da credibilidade e confiança acumuladas.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Inscreveram-se nove Srs. Deputados para pedirem esclarecimentos à Sr.ª Ministra. O Governo já informou que a Sr.ª Ministra responde conjuntamente aos primeiros seis pedidos de esclarecimento e depois aos seguintes, pelo que tem, desde já, a palavra a Sr.ª Deputada Mariana Mortágua.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Mortágua", 
+   "text": "Sr. Presidente, Sr.ª Ministra de Estado e das Finanças, a pergunta que tenho para lhe fazer é se admite que para o seu Governo, em cumplicidade, naturalmente, com as instituições europeias, o défice não é um mecanismo de controlo orçamental mas é um mecanismo de controlo social. \nÉ que só isso pode explicar porque é que um subsídio extraordinário de desemprego, para ajudar pessoas que estão extraordinariamente no desemprego, entra para défice; um abono extraordinário de família, para ajudar famílias que estão numa situação de pobreza extraordinária, entra para défice; um investimento extraordinário na economia, no momento em que a economia viveu uma recessão extraordinária, entra para défice, mas os gastos com o BPN Crédito não entram para défice, os gastos com a «limpeza» de empresas públicas para entregar a privados, para concessionar as operações, não entram para défice e os gastos para recapitalizar o BES não entram para défice. \nAssim, não percebemos porque é que as regras mudam consoante o que está em jogo, porque é que nunca há um limite para aquilo que se gasta na banca, porque é que nunca há um limite naquilo que se gasta para salvar o sistema financeiro, mas há limites muito concretos naquilo que o Estado gasta para ajudar as pessoas em momentos de dificuldades extraordinárias, porque é isso que vivemos em Portugal. \nOutra pergunta é muito simples, Sr.ª Ministra: admite que o défice é um mecanismo de controlo social ao invés de um mecanismo orçamental? Se não o faz, admita que o verdadeiro valor do défice é de 10%, que é o défice incluindo as ajudas à banca, incluindo o salvamento do sistema financeiro, e admita também que o défice que o seu Governo fez chegar aos 10% é o défice mais alto dos últimos anos. \nSão estas as perguntas que gostava de ver respondidas.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Paulo Sá.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Sr. Presidente, Sr.ª Ministra de Estado e das Finanças, o discurso e a prática política do Governo contém uma contradição insanável. \nPor um lado, o Governo adota uma postura muito otimista sobre a evolução da economia e das finanças públicas, que por vezes chega a raiar o delírio, como o milagre económico do Sr. Ministro da Economia. O Governo não se cansa de repetir que o País está melhor, que os dias de recessão económica ou de estagnação pertencem ao passado, que a dívida pública vai, finalmente, começar a diminuir, que o défice está controlado, que o que não falta é criação de emprego. Enfim, se alguém se limitasse a ouvir a propaganda do Governo, ficaria com a impressão de que o País «está bem e recomenda-se!». \nPor outro lado, o Governo insiste em aplicar as chamadas medidas de consolidação orçamental, que nada mais são do que medidas de empobrecimento dos portugueses. \nHá apenas dois dias, nesta Sala, a maioria PSD/CDS aprovou um novo corte nos salários dos trabalhadores da Administração Pública, para entrar em vigor já em setembro; o novo corte pode ir até aos 10%. \nO Governo insiste em atacar os rendimentos dos reformados e pensionistas, insiste em despedir funcionários públicos, insiste em manter o saque fiscal aos rendimentos dos trabalhadores, insiste em cortar prestações sociais, insiste nos cortes na saúde e na educação, insiste no estrangulamento financeiro dos organismos do Estado, insiste na concentração e encerramento de serviços públicos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Sr.ª Ministra, se a situação económica está a melhorar — como o Governo e a Sr.ª Ministra não se cansam de apregoar —, se é tão sólida como querem fazer crer, então, porquê continuar a aplicar aos portugueses brutais medidas de empobrecimento?! Porquê impor novos cortes nos salários? \nPorquê manter os cortes nas reformas? Porquê tentar transformar em definitivo aquilo que foi anunciado como transitório? \nÉ essa a contradição insanável no discurso e na prática política do Governo, uma contradição que é bem reveladora da opção ideológica do Governo: atacar os direitos e rendimentos de quem vive do seu trabalho para poder beneficiar ainda mais quem vive à custa da exploração do trabalho alheio.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr. Presidente, Sr.ª Ministra de Estado e das Finanças, este Orçamento retificativo, apesar do discurso do Governo, reflete, antes de mais, o falhanço do Governo: o falhanço da estratégia, o falhanço das metas anunciadas há um ano e, sobretudo, o falhanço das políticas de austeridade impostas por esta maioria. \nMas há, ainda assim, neste Orçamento retificativo, algumas dúvidas que gostaríamos de ver esclarecidas. \nComo sabe, Sr.ª Ministra, há algumas operações que requerem a validação das autoridades estatísticas e que vão, certamente, ter impacto no défice. Devemos estar a falar de cerca de 5,9% do PIB. Entre estas operações está, por exemplo, a capitalização do Novo Banco, ou seja, o resgate do BES, que vale 2,9% do PIB. Nós já sabemos que o Governo não tem essa validação. Ora, se o Governo não tem ainda essa validação, o Governo está a falar de ficção, o Governo está a contar com aquilo que ainda não é certo, o Governo está a dar por garantido aquilo que ainda não é garantido e, sendo assim, importava saber o que é que o Governo pretende fazer se essa validação não vier a ocorrer. \nDepois, Sr.ª Ministra, o Sr. Primeiro-Ministro afirmou que não conhecia nenhuma derrapagem na despesa que não tivesse a ver com o chumbo do Tribunal Constitucional, mas este Orçamento retificativo vem mostrar que há cerca de 700 milhões de euros de derrapagem da despesa que nada têm a ver com as tentativas frustradas do Governo em fazer cortes à margem da lei e fora do quadro constitucional. Os números mostram que o aumento da despesa é muito superior aos 860 milhões que o Governo pretendia ir buscar aos salários dos portugueses de forma ilegal e, portanto, violando a nossa Constituição. Estamos, portanto, a falar de um buraco total de cerca de 1,5 mil milhões de euros, que o Governo, aliás, espera agora compensar com novos cortes salariais, com mais restrições nos acessos aos apoios sociais e com mais cortes nos serviços públicos. \nOra, face ao buraco total que este Orçamento retificativo reflete, e o buraco que o Governo não conseguiu tapar à margem da lei, gostaria que a Sr.ª Ministra nos dissesse se também está no patamar do Sr. Primeiro-Ministro, que diz não conhecer nenhuma derrapagem na despesa que não tenha origem no chumbo do Tribunal Constitucional. É que, Sr.ª Ministra, de duas uma: ou o Sr. Primeiro-Ministro faltou à verdade ou a Sr.ª Ministra não lhe deu a informação toda, porque este Orçamento retificativo não permite mais nenhuma leitura.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Também para pedir esclarecimentos, tem a palavra o Sr. Deputado Eduardo Cabrita.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Eduardo Cabrita", 
+   "text": "Sr. Presidente, Sr.ª Ministra de Estado e das Finanças, a Sr.ª Ministra chega-nos hoje, aqui, a esta sessão com caráter extraordinário, que antecipa, tal como a de anteontem, o normal retomar dos trabalhos parlamentares, com aquilo que é a marca deste Governo, uma marca de maior fator de instabilidade na sociedade portuguesa e de absoluta incapacidade quer de antecipar quer de reagir àquela que é a realidade. \nO Governo, que, em tempos de crise, deveria ser o maior agente de criação de fatores de esperança e de confiança para as famílias, para as empresas, para todos os cidadãos, traz-nos aqui o recorde histórico de um 8.º Orçamento retificativo em pouco mais de três anos de funções. Aquilo que temos aqui é um Governo que ainda não conseguiu fazer um Orçamento do Estado que não fosse declarado inconstitucional nalguma das suas normas,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António Gameiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Eduardo Cabrita", 
+   "text": "… aquilo que temos aqui é um Governo que, neste Orçamento retificativo, é confrontado com o total falhanço daquele que foi o próprio quadro financeiro e económico no âmbito do qual exerceu o seu mandato.\nVejamos, então. Este Governo chegou aqui porque as condições de financiamento quer da economia, quer do setor público haviam chegado a uma situação de bloqueio, de estrangulamento. Este é o Governo que recebeu uma dívida pública que era, em 2010, de 94% do PIB e que, hoje, está confrontado com uma dívida pública de 134% do PIB, de acordo com os últimos dados do Banco de Portugal.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Eduardo Cabrita", 
+   "text": "Este é o Governo que, ao fim de três anos de troica, ao fim de três anos de testes de _stress_, ao fim de três anos de prioridade à estabilidade do sistema financeiro, se tenta esconder atrás do Banco de Portugal,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PSD.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Eduardo Cabrita", 
+   "text": "… naquela que é a maior crise de credibilidade do sistema financeiro em quase 40 anos da democracia portuguesa. \nEste é o Governo que não pode esconder-se atrás de argumentos contabilísticos. O que a Sr.ª Ministra das Finanças tem de fazer hoje, aqui, é assumir o que está no relatório da UTAO hoje divulgado, ou seja, que o défice que ficará para a História, em 2014, é um défice à volta dos 10%, porque as medidas _one-off_ terão custos no futuro, já que a Sr.ª Ministra das Finanças não está em condições de assegurar que, designadamente, o financiamento da criação do Novo Banco não é feito com o dinheiro dos contribuintes e não trará responsabilidades futuras para os contribuintes. \nSr.ª Ministra, já sabemos que este Orçamento retificativo assenta num enorme aumento de impostos, que recai como nunca sobre os portugueses, e numa derrapagem da despesa que não se deve ao Tribunal Constitucional, como está por todos anunciado. Tudo o que ocorre é o contrário do que o Governo diz: são as exportações que falham e a procura interna que sobe, são as importações que sobem, desmentindo o milagre das contas externas. \nSr.ª Ministra, diga-nos: em que mundo está? Está com Mário Draghi? Está com aqueles que querem reforçar uma estratégia de crescimento, um papel que crie esperança para a Europa, para as famílias, para o desenvolvimento, ou continua agarrada à estratégia fundamentalista, ideológica, de ir além da troica, de destruição da economia e da esperança dos portugueses, que não sabem, por causa do seu Governo, não o que será o seu futuro mas, sequer, quanto vão receber de vencimento no próximo mês?!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Luís Montenegro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Sr. Presidente, Sr.ª Ministra de Estado e das Finanças, disse aqui, e muito bem, que a apresentação deste Orçamento retificativo é um ato de transparência, um ato de transparência para com o País e um ato de transparência para com o Parlamento, porque este Orçamento retificativo permite alterar o Orçamento do Estado, acomodando já aquele que é o resultado da execução orçamental deste ano, nomeadamente as repercussões do aumento da receita fiscal, da diminuição da despesa com subsídios de desemprego e do aumento das contribuições para a segurança social, mas é, sobretudo, um Orçamento de transparência porque visa também acomodar a sua execução do Orçamento, face àquelas que foram as decisões do Tribunal Constitucional. \nParece que a oposição, em particular o Partido Socialista, está muito admirada porque há um Governo que tem este nível de transparência e apresenta muitos orçamentos retificativos com estas justificações, que são as mais plausíveis que pode haver, mas esquece-se daquilo que também fez quando era Governo. \nQuero recordar que, por exemplo, em 2009, houve dois Orçamentos retificativos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Ah!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Não foi por causa de corrigir aquela que era a execução orçamental, que era melhor do que a que tinha sido prevista, nem foi por causa de decisões do Tribunal Constitucional,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Hugo Lopes Soares", 
+   "text": "Ora!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… foi, em janeiro de 2009, para aumentar o limite de endividamento em 10 000 milhões de euros — em janeiro, logo no primeiro mês de execução do Orçamento do Estado para 2009! — …", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… e foi, em dezembro de 2009, para aumentar o limite de endividamento mais 5000 milhões de euros e fazer face a uma execução orçamental onde a receita fiscal foi de menos 13,2% do que aquilo que tinha sido estimado na proposta de Orçamento do Estado. \nSr.ª Ministra, de facto, para quem tem este cadastro, é preciso ter um bocadinho de pudor para não vir aqui dizer aquilo que hoje aqui foi dito.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Mas há mais! Pior do que retificar um Orçamento, adequando-o à realidade e também às decisões de outros órgãos de soberania, como aconteceu agora, é vir retificar, após a execução do Orçamento, aquele que foi o desempenho orçamental do ano anterior. E isto também aconteceu em 2009! Sabe, Sr.ª Ministra, com certeza, qual era a previsão de défice do Governo do Partido Socialista em 2009? Era de 2,6%! Depois, apesar de dois Orçamentos retificativos, repito, apesar de dois Orçamentos retificativos, teve de haver uma outra retificação, porque o défice real foi de 10,4%. Essa é a retificação que não existe neste Orçamento do Estado, Sr.ª Ministra.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Este Orçamento retificativo, Sr.as e Srs. Deputados, garante, de facto, o cumprimento da meta do défice de 4%.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Jesus Marques", 
+   "text": "É de 10%!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "É um Orçamento que, não obstante as dificuldades que estão criadas pelas decisões do Tribunal Constitucional, e elas são reais, evita que haja um agravamento fiscal. \nMas este é também um Orçamento, e ainda ninguém aqui falou disto, Sr.ª Ministra, onde está a preocupação social da oposição. Por que é que a oposição ocultou dizer que, por exemplo, a taxa de desemprego é revista, também com base na realidade, para este ano, de 17,7% para 14,2%?! Não acham uma notícia positiva para o País?! Não significa ela que a recuperação da nossa economia e das nossas finanças públicas está, de facto, a chegar à vida quotidiana de muitos e muitos portugueses?! \nSr.ª Ministra, este é também um Orçamento retificativo que revê, felizmente, em alta aquele que é o desempenho da economia, já que, na proposta de orçamento inicial, o crescimento da economia era de 0,8% e o mesmo foi agora revisto para 1%. \nSr.ª Ministra, Sr.as e Srs. Deputados, que bom que era que, quando o Partido Socialista era Governo, os orçamentos retificativos tivessem este quadro…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António Gameiro", 
+   "text": "O quadro é o mesmo!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "… e não aquele que resultou das propostas de orçamentos retificativos que os senhores foram obrigados a trazer ao Parlamento. \nSr.ª Ministra, a verdade é que vivemos tempos de grande incerteza, muita dela criada por fatores externos ao Governo e às políticas do Governo, e é evidente que temos de ter uma postura de responsabilidade perante as incertezas que estão diante de nós. É isso que temos feito, acumulando e juntando nesta proposta de Orçamento retificativo o rigor e a disciplina que vem dos tempos em que tivemos um Programa de Assistência Económica e Financeira. Infelizmente, quer nesse período, quer agora, da oposição vêm sempre vozes de negativismo, de alarmismo, sempre a querer assustar o País, dizendo que vêm aí tempos piores, que vem aí o pior dos mundos. Não é verdade! A nossa economia está a recuperar, apesar de todas essas dificuldades e apesar de todas essas incertezas.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Jesus Marques", 
+   "text": "E apesar da procura externa!…", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Mas, Sr.ª Ministra, diria que o mais importante é o seguinte: este Governo apresentou uma proposta de Orçamento, este Governo está a executar o Orçamento do Estado e está hoje a adequar essa execução àqueles que foram já os meses percorridos no ano de 2014. Este Governo e esta maioria estão a responder àquela que é uma decisão legítima — da qual discordamos, é verdade, mas é legítima — do Tribunal Constitucional e apresentamos as nossas opções e as nossas medidas. \nJá falaram todos os partidos da oposição e cumpre perguntar: qual é a proposta dos partidos da oposição? \nQual é, em particular, a proposta do Partido Socialista, para que possamos chegar ao fim do ano e cumprir as metas que estão estabelecidas e são um elemento fundamental da nossa recuperação económica e financeira, são o suporte para que haja o tal crescimento, a tal recuperação de emprego que VV. Ex.as tanto gostam de apregoar? Onde estão as propostas do Partido Socialista? \nSrs. Deputados, nem agora, que discutem o vosso futuro, são capazes, uns e outros — um e outro candidato — de apresentar uma visão sobre o cumprimento dos vossos principais objetivos e pressupostos para, efetivamente, haver crescimento e criação de emprego. Essa é a grande diferença, essa é a grande leitura que se pode fazer do debate que já decorreu até agora. \nMas, Sr.ª Ministra de Estado e das Finanças, pode crer que, nesta maioria e nesta bancada, continuaremos, ao lado do Governo e, sobretudo, ao lado dos portugueses, a recuperar o País, a manter um caminho de disciplina orçamental que não é uma obsessão nem um capricho ideológico. É o pressuposto para que haja crescimento sólido, para que possamos recuperar o emprego e ter mais esperança no nosso futuro.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra a Sr.ª Deputada Cecília Meireles.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: \nHoje, que discutimos aqui o Orçamento retificativo, Sr.ª Ministra das Finanças, gostava de lhe apresentar questões sobre duas boas notícias que tivemos, uma delas já depois de apresentada a proposta de Orçamento retificativo, relativa ao reconhecimento da melhoria da situação que Portugal tem vindo a atravessar, felizmente, já há alguns meses.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Hugo Lopes Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "A primeira boa notícia prende-se com o facto de Portugal, no _ranking_ de competitividade do Fórum Económico Mundial, ter subido, não um, não 10 lugares, mas 15 lugares.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Mortágua", 
+   "text": "Voltámos a 2007!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Se reduzir os salários a um prato de lentilhas ainda sobe mais!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Ou seja, tornámo-nos bastante mais competitivos, invertendo, aliás, aquilo que era uma tendência quase ininterrupta de descida, desde 2005. Vale a pena lembrá-lo porque também a economia teve um impacto muito positivo naquilo que é este Orçamento retificativo. \nComo disse ontem o Ministro da Economia, António Pires de Lima, isto é mérito das empresas portuguesas e dos \ntrabalhadores portugueses. Mas significa \ntambém, Sr.ª Ministra, várias coisas: melhorar a \ncompetitividade é, sem dúvida, tornar mais fácil às empresas nacionais fazer negócios no mercado mundial, significa que melhoramos a nossa perceção externa, significa também tornar mais atrativo para as empresas estrangeiras instalarem-se aqui, em Portugal, e significa que melhoramos do ponto de vista do investimento estrangeiro. Por último e mais importante que tudo, na minha opinião, significa fazer a diferença na criação de postos de trabalho.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Quem salienta estas diferenças não sou eu — tem direitos de autor —, é um Ministro irlandês, designadamente o ministro com a tutela do emprego, que o diz acerca de a Irlanda ter subido 3 pontos neste _ranking._ Ora, nós subimos 15, Srs. Deputados!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP e do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Portanto, creio que se isto se aplica à Irlanda, certamente se aplicará a nós e não vejo porque não há de a oposição alegrar-se com isso, porque que é uma boa notícia para o País, é uma boa notícia para todos.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Em segundo lugar, Sr.ª Ministra, queria também perguntar-lhe acerca de uma excelente notícia, do meu ponto de vista, que ontem obtivemos, a emissão de dívida que foi levada a cabo com sucesso. \nSabemos — a Sr.ª Ministra tem-no dito e de forma bem clara — que a dívida pública é um problema bem real. Mas eu atrevo-me também a acrescentar, Sr.ª Ministra, que, quando chegou o Governo de que a senhora faz parte, a dívida pública era já um problema real, mas era um problema descontrolado e com o caos à vista. \nHoje em dia, Sr.ª Ministra, é um problema, é verdade, mas é um problema controlado e com solução à vista.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "E, desse ponto de vista, Sr.ª Ministra, ontem colocámos 3500 milhões de euros de dívida a 15 anos, a longo prazo, com uma procura que em muito superou as expetativas e com uma taxa inferior àquela que era prevista, e muitas vezes ouvimos dizer que «isso são coisas abstratas, são coisas lá dos mercados». \nA Sr.ª Ministra já tem explicado que isto não é bem assim, mas acho estranho que num país que, infelizmente, sofreu tanto e teve de fazer tantos sacrifícios quando perdeu precisamente esta capacidade de financiamento a longo prazo, sentindo na pele o que são as consequências concretas de perder esta capacidade de financiamento, ainda seja preciso explicar porque é que isto é muito importante e tem consequências muito positivas na vida dos portugueses e nos problemas concretos dos portugueses.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP João Oliveira.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Mas pedia-lhe, Sr.ª Ministra, que tivesse a paciência de, uma vez mais, explicar isto à oposição. \nTerminava, Sr. Presidente, dizendo que esta emissão de dívida significa responsabilidade financeira e credibilidade e eu creio que os portugueses, mas também o Governo, têm razões para estarem orgulhosos dela.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP e do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra a Sr.ª Ministra de Estado e das Finanças.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Sr. Presidente, Srs. Deputados, relativamente às questões colocadas, para que não sobrem dúvidas e para que as pessoas que nos ouvem e querem perceber o que se passa tenham um verdadeiro esclarecimento, direi que o défice, as medidas que contam para efeitos do défice e do cumprimento da meta dos 4%, excluem um conjunto de fatores extraordinários. \nOs Srs. Deputados referem o relatório da UTAO sobre o Orçamento retificativo. Podem citar igualmente o relatório que o Governo apresentou com o Orçamento retificativo, porque diz rigorosamente a mesma coisa e com toda a transparência.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Risos do PS.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Quanto à incerteza de o critério estatístico ser adotado de uma forma ou de outra, tem de ficar absolutamente claro que, independentemente do que venha a ser a classificação estatística destas operações, elas não são tidas em conta para a meta dos 4%, logo, não obrigam à adoção de medidas adicionais. \nGostaria ainda de dizer que os critérios que definem o que são medidas extraordinárias que contam, ou não, neste caso, como em todos, são critérios definidos pelas autoridades estatísticas europeias, que são entidades independentes, sobre as quais este Governo e todos os outros não têm qualquer intervenção. São regras que todos conhecemos e estamos obrigados a respeitar. \nPortanto, o défice, dependendo da classificação, estatisticamente pode ser mais elevado, mas para efeitos de medidas, que é aquilo que interessa, efetivamente, aos portugueses, o défice mantém-se no objetivo de 4%, que será cumprido. \nQuanto a dizerem que o Governo insiste em afirmar que o País está bem, a Sr.a Deputada Cecília Meireles referiu a questão do _ranking_ da competitividade. Realço que quem fornece dados para esse _rankig_ não é o Governo, são empresários, ou seja, não é a voz do Governo a falar mas a dos empresários, que a oposição acha que estão mal mas que os próprios reconhecem estar melhor.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Eu diria que, neste caso particular, a voz dos empresários será a mais credível. Não vos parece, Srs. Deputados?", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "O Sr. Deputado José Luís Ferreira fala ainda em derrapagem da despesa. Tive o cuidado de explicar detalhadamente na minha intervenção inicial, e está detalhadamente explicado no relatório, que o aumento da despesa é em rubricas particulares, em especial na despesa com pessoal, e deve-se particularmente à entrada tardia de alguns programas previstos para este ano, cuja poupança ainda em 2014 será menor, mas, em compensação, em 2015 será maior, e a poupança virá de acordo com as medidas previstas. \nÉ também necessário despender um montante maior para os programas de rescisão por mútuo acordo. E, Sr. Deputado Paulo Sá, não se pode falar em despedimento de trabalhadores, o Governo não despede funcionários públicos, são programas de rescisão de mútuo acordo — realço, de mútuo acordo, completamente voluntários.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Protestos do Deputado do PCP Paulo Sá.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "O Sr. Deputado Eduardo Cabrita — para além de eu achar curioso o Sr. Deputado do Partido Socialista falar em fatores de instabilidade, mas deixemos passar… — diz que este Governo herdou uma dívida de 94% do PIB e tem uma dívida de 134% do PIB. \nSr. Deputado, este Governo também herdou cofres vazios e tem, neste momento, um montante de financiamento acumulado que lhe dá para enfrentar sem sobressaltos um período muito considerável e sem ter de chamar a troica a correr e à pressa porque deixa de ter dinheiro para pagar salários e pensões.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Falemos em erros de previsão. A oposição previu, desde 2011, que haveria um segundo programa, que a troica não se ia embora, que não regressávamos aos mercados, que o Governo não cumpria o seu mandato, que a espiral recessiva viria, que a economia não crescia, que o desemprego não baixava. \nSrs. Deputados, ficava-lhes muito bem reconhecerem os vossos erros de previsão e apresentá-los no Parlamento, com espírito democrático, retificando também aquilo que têm sido as previsões sucessivamente erradas. \nDirei, como última nota — isto é para os Srs. Deputados do Partido Socialista —, que com dois cenários macroeconómicos no Orçamento retificativo torna-se mais fácil acertar. Infelizmente, nem assim o fizeram.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para formular o seu pedido de esclarecimentos, tem a palavra o Sr. Deputado Pedro Filipe Soares.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Pedro Filipe Soares", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: \nOlhando para o Orçamento retificativo ou para o relatório que a UTAO fez sobre o mesmo, percebemos que, de facto, é difícil esconder o valor do défice: 10%! Mesmo que o Governo repita que é extraordinário, mesmo que diga que não conta para as estatísticas e que, por isso, é aceite do ponto de vista europeu, a verdade é que o número é assustador: 10%! Isto do Governo que dizia que tinha no défice o seu alfa e o seu ómega, que agora também nos diz que não conta para as estatísticas mas conta para a dívida. \nVamos, então, à dívida e ao que conta para a dívida. Da derrapagem no défice, metade é relativa ao Banco Espírito Santo — são 4900 milhões de euros para o fundo de resolução. Diz a Sr.ª Ministra, diz-nos o Governo, repetidamente, que não há riscos, quando vemos todos os dias os riscos a baterem à porta do Estado e do Novo Banco. Os riscos não param, estão aí: desde a Tranquilidade, cuja venda já está para ser colocada em tribunal, aos ativos que se desvalorizam e ao Novo Banco, que continua a ter tantos problemas do velho banco. \nPor isso, de facto, os riscos estão aí e dizem que se podem materializar, batendo à porta dos contribuintes. \nE esta não é, afinal, uma história nova, porque se olharmos para o que ainda hoje está no Orçamento retificativo e para o que ainda hoje estamos a pagar, percebemos como é que o sistema financeiro tem sido tão caro ao País. \nPor isso, faço-lhe uma pergunta muito direta, Sr.ª Ministra: há meses, o Governo decidiu alienar uma parte daquilo que restava do BPN e uma das empresas era o BPN Crédito. Ora, vendendo o BPN Crédito, o Governo assumiu que vendia mas que ia ter um prejuízo. Como sempre, os negócios financeiros, os desmandos da banca, dão prejuízo aos cofres públicos. Mas dizia que, no máximo, estávamos a falar de um valor controlado, que seria sempre muito pior a liquidação e, por isso, vendeu, perdendo cerca de 62,9 milhões de euros. \nOlhamos para os dados da Unidade Técnica de Apoio Orçamental e, dois meses depois, percebemos que, afinal, os problemas que existiam no BPN Crédito, os buracos que existiam nas suas contas, já estão a aumentar. Diz-nos a UTAO que o valor do buraco do BPN Crédito pode chegar aos 150 milhões de euros. \nSr.ª Ministra, pergunto-lhe muito diretamente o seguinte: afinal, o que se passa? O Governo não sabe o que tem, não sabe o que faz, ou sabe o que tem e o que faz e engana as pessoas? \nDisse que vendia bem o BPN e, afinal, continuamos a pagar caro a fatura dessas escolhas numa privatização que nos deixou, de facto, «com as calças na mão».", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Miguel Tiago.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Miguel Tiago", 
+   "text": "Sr. Presidente, Sr.ª Ministra de Estado e das Finanças, as contradições discursivas do Governo, a que o meu camarada Paulo Sá já aqui se referiu, encobrem o verdadeiro conflito, a verdadeira contradição, a contradição de classe que as políticas deste Governo encerram e que a cada política se manifesta. \nO mesmo Governo que disponibiliza agora 4,9 milhões de euros para salvar bancos, e que ao longo dos últimos três anos já disponibilizou 9,5 milhões de euros para recapitalização da banca privada, o mesmo Governo que dá de mão beijada milhões de euros, aliás, no ano passado mais de um milhar de milhão de euros em benefícios fiscais a grandes grupos económicos, o mesmo Governo que diminui o IRC para os grandes grupos económicos, sacrificando a receita fiscal no Orçamento do Estado, o mesmo Governo que prevê e governa no sentido do endividamento do País, do empobrecimento da população, da fragilização do aparelho produtivo para aumentar a parcela dos recursos públicos que é afeta a juros da dívida, é o Governo que corta os salários aos trabalhadores da função pública, pressionando assim todos os salários, ao dar o exemplo, para que também no privado se passe aquilo que se vai passando, que é a redução salarial. \nEsta contradição de classe, Sr.ª Ministra, não lhe pedimos que explique porque a compreendemos bem. \nQuem está do lado dos poderosos, quem defende os grandes grupos económicos, quem se comporta como uma comissão de negócios e usa a República como se fosse o espaço do negócio dos grandes grupos económicos não pode estar do lado das populações, não pode estar do lado dos homens, mulheres e jovens que, em Portugal, vivem do seu trabalho e não pode estar do lado daqueles que passaram uma vida a trabalhar e que, agora, em vez de descanso, têm cortes e roubos nas pensões. \nSr.ª Ministra, se não lhe pedimos que explique, deixamos aqui uma nota importante. É que este Governo já só tem o apoio desses para quem governa, já só tem o apoio dos poderosos e um governo, mesmo com o apoio dos poderosos, que governe contra o seu povo, numa democracia, não pode continuar a governar, Sr.ª Ministra.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado António Galamba.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Galamba", 
+   "text": "Não é Deputado, Sr. Presidente!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Peço desculpa, retiro o António. \nTem a palavra o Sr. Deputado João Galamba.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Galamba", 
+   "text": "Sr. Presidente, Sr.ª Ministra, não deixa de ser um pouco caricato que a Sr.ª Ministra aponte erros à oposição. Tratando-se do Governo que mais orçamentos retificativos fez, que mais errou em todas as previsões, não é sequer aceitável vir falar de erros de terceiros, Sr.ª Ministra.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Galamba", 
+   "text": "Podia estar meia hora a apontar erros do seu Governo e da Sr.ª Ministra, mas vou falar apenas de dois, porque são significativos e estão presentes neste Orçamento retificativo. \nTodos nos lembramos de, no ano passado, o seu antecessor ter dito que chegou o tempo do investimento. \nOnde é que ele está, Sr.ª Ministra? É que neste Orçamento retificativo e neste quadro macroeconómico ele não está. Depois de um certo entusiasmo no primeiro Orçamento retificativo deste ano, eis que o Governo revê para um terço a taxa de crescimento e, segundo a UTAO, até 2017, o investimento vai ser tão baixo (segundo os números do Governo, pode ser ainda pior!) que o investimento líquido é negativo, Sr.ª Ministra. \nPortanto, o País cujo tempo do investimento tinha chegado é, afinal, um País que terá investimento negativo, que não é muito diferente de pôr bombas num Pais, porque o investimento negativo destrói capacidade produtiva. \nPortanto, a Sr.ª Ministra das Finanças anunciou o tempo do investimento e temos exatamente o contrário. \nHá outro pormenor também muito interessante neste Orçamento retificativo. A Sr.ª Ministra tem retificado muito; este Governo retifica mapas, retifica normas, mas há uma coisa que ainda não retificou e que, se calhar, já era tempo de retificar, que é o discurso da transformação estrutural da economia portuguesa. \nOuvimos um vice-presidente do PSD falar de um Portugal novo. Este Orçamento retificativo, como aliás, o Partido Socialista tem dito nos últimos tempos, é a prova definitiva de que não há qualquer transformação estrutural da economia portuguesa. \nO País ia subitamente ver a economia a crescer pela procura externa líquida, não podia nunca ver a sua economia crescer pela procura interna, porque era um crescimento insustentável e correspondia a um padrão de crescimento do passado. O que a Sr.ª Ministra vem aqui dizer é que não; afinal todo o crescimento é pela procura interna. A procura externa líquida é negativa e a Sr.ª Ministra apresenta-nos este quadro fantástico, o de que a alegada década perdida tinha um crescimento de 1.4 do PIB e, agora, com o País novo e depois das magníficas reformas estruturais, a economia portuguesa crescerá quase metade do que cresceu nessa década onde houve estagnação e vai crescer sobretudo pela procura interna. \nPortanto, Sr.ª Ministra, está na hora não só de retificar orçamentos mas também de retificar o discurso.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para responder a este conjunto de pedidos de esclarecimento, tem a palavra a Sr.ª Ministra de Estado e das Finanças.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Sr. Presidente, começo por responder ao Sr. Deputado Pedro Filipe Soares relativamente à questão do BPN Crédito, o que não é complicado e fá-lo-ei rapidamente. \nAquilo que está registado no Orçamento retificativo, o valor que aparece, que pode ir até 150, será, de acordo com o que as autoridades estatísticas decidirem fazer, registado ao valor contabilístico ou ao valor de mercado, e isso é que faz a diferença, que pode ser 100 ou 150. \nNo entanto, o valor de 62 milhões que foi referido tem a ver com o facto de estarmos a falar do impacto negativo que pode ter no défice, mas entram 36 milhões de receita da venda. Portanto, se aos 100, que é o valor que achamos que deve ser registado, descontarmos o valor da venda, efetivamente, a perda associada são os 62 milhões que tinham sido divulgados. \nDirei ainda que a venda do BPN Crédito foi muito bem acolhida pelos trabalhadores da instituição, com quem tive ocasião de falar por diversas vezes enquanto fui Secretária de Estado e a quem expliquei por que razão era difícil vender a instituição. É que ela estava a ser subsidiada pela casa-mãe, sendo impossível recuperar um valor, e teríamos de procurar um comprador e ter condições para acomodar esse impacto e ainda assim preservar os postos de trabalho. Fico muito satisfeita que tenha sido possível fazê-lo e sei que os trabalhadores do BPN Crédito também. \nQuanto à questão dos riscos sobre o novo banco, quero esclarecer o seguinte: o valor que foi emprestado pelo Estado, pelo Tesouro, ao fundo de resolução é para ser devolvido pelo sistema financeiro. Nem que o Governo quisesse poderia abdicar desse facto! Nem que o Governo quisesse poderia perdoar essa dívida aos bancos! É importante que isso fique claro. A lei não permite que sejam os contribuintes a suportar esse custo, tem de ser o sistema financeiro. Não depende da vontade do Governo. E esta não é sequer uma lei apenas de Portugal, é uma decisão que foi tomada para toda a Europa. \nQuanto ao que o Sr. Deputado Miguel Tiago diz sobre o facto de o Governo não poder, em democracia, continuar a governar contra o povo, recordo ao Sr. Depurado que, em democracia, se respeita o resultado das eleições e a duração dos mandatos. Quando voltarmos a apresentar-nos às urnas veremos quem os portugueses escolhem para governar e respeitaremos esse resultado.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Vou fazer uma correção ao que disse o Sr. Deputado João Galamba, dizendo que a procura externa líquida não é negativa.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "João Galamba", 
+   "text": "Não é negativa?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "É verdade, Sr. Deputado. Não está a reagir com a dinâmica que gostaríamos mas o Governo não fabrica previsões. O Governo observa a realidade e, a partir de modelos macroeconómicos, tenta estimar o que vai acontecer, quer seja simpático, quer seja antipático. Não fabricamos as previsões, observamos a realidade e tentamos prever o melhor possível o que vai acontecer. \nGostaríamos de ver um maior dinamismo do investimento. Se formos surpreendidos pela positiva, ótimo. \nMas também pediria àqueles que dizem que não houve transformação estrutural da economia que me explicassem, então, como é que o País subiu cinco posições no _ranking_ da competitividade, porque uma coisa não bate com a outra!", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "15!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Pedro Jesus Marques.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Jesus Marques", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Este Orçamento retificativo é mais um exemplo da «marca de água» deste Governo. Neste Orçamento retificativo encontramos os já habituais cortes de salários e aumentos de contribuições dos funcionários públicos, mesmo depois do fim do Programa de Ajustamento e mesmo depois destes cidadãos estarem sobrecarregados massivamente com aumentos de impostos. \nNeste Orçamento retificativo não faltam os cortes de pensões, através da contribuição extraordinária de solidariedade. E, não fosse o Tribunal Constitucional, não teria ficado por aqui, teria mesmo cortado pensões de modo permanente. Mas, para já, os pensionistas sabem que em 2014 é o costume: as pensões continuam cortadas, os rendimentos perdidos, mesmo para lá do brutal agravamento de IRS. \nNeste Orçamento retificativo encontramos um reforço, sim, para as transferências para o Instituto de Emprego e Formação Profissional, para financiar as políticas ativas de emprego, que são as grandes responsáveis pela suposta «criação» de emprego em Portugal. \nMas neste Orçamento retificativo o que não encontramos é um reforço das verbas disponíveis para financiar o apoio aos mais pobres e aos mais excluídos. Não encontramos um reforço do complemento solidário para idosos, do rendimento social de inserção ou do abono de família. Neste Orçamento retificativo o Governo não arrepia caminho, não revoga o Decreto-Lei n.º 13/2013, onde cortou a todos os beneficiários o respetivo complemento solidário para idosos, retirando-o a dezenas de milhares de idosos. \nEste Governo, que até se diz agora um dos mais à esquerda na Europa, também não revoga o corte de 40 € a cada criança pobre e 40 € a cada mãe pobre, que ostenta orgulhosamente como uma marca do seu mandato.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Jesus Marques", 
+   "text": "Neste Orçamento retificativo encontramos todas as marcas e todas as consequências da política do Governo PSD/CDS: a austeridade a dobrar, a vontade obstinada de ir além da troica redundou no contínuo aumento da dívida pública, que já ultrapassa em muito os 130% do PIB e que não dá sequer sinais de redução. \nA gestão da economia (e da dívida) de um País é muito mais complexa do que apregoam aqueles que mais parecem formados em economia doméstica. De cada vez que o Governo foi além da troica e cortou mais os salários e pensões, teve a resposta em queda do consumo, do emprego e da receita fiscal. \nComo alguém dizia, é a economia que faz e fará a diferença. A equação — difícil, é certo — da sustentabilidade das contas públicas só se resolve agindo sobre o denominador comum do problema, o crescimento económico. \nResultado: no primeiro pilar do programa de ajustamento, a dívida pública é muito maior do que qualquer previsão que o Governo ou a troica tivessem feito, e não tendo ainda o défice público atingido um valor sequer comparável com a sua versão de 2007 — o mais baixo do período democrático em Portugal, pasme-se! —, anuncia-se para este ano, com todas as revisões e medidas extraordinárias, um défice que pode chegar a 10% do PIB, diz-nos agora a UTAO. \nA fraqueza do segundo pilar fundamental deste processo de ajustamento é também exposta neste Orçamento retificativo. A transformação estrutural da economia e os seus resultados estão à vista de todos. O Governo consegue a proeza de, passados três anos a estrangular salários, a destruir a contratação coletiva e a acreditar em fadas da confiança, no final, tudo se esfumar. Nem as fadas existem, nem os resultados da transformação estrutural aí estão. \nCom este Orçamento retificativo chega a triste constatação de que todo o crescimento económico que possa ocorrer em 2014, que foi, aliás, revisto em baixa, é da responsabilidade da procura interna, pois a procura externa até dará um contributo negativo para tal resultado. \nSr.ª Ministra das Finanças, a não ser que queira retificar o seu Orçamento retificativo, o seu relatório do Orçamento retificativo, na página 5, apresenta, para 2014, um contributo da procura externa negativo em 0,1%. Portanto, o que disse há pouco é falso. É afinal verdade que é a procura interna a única responsável pelo crescimento em 2014.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Jesus Marques", 
+   "text": "Outro modelo de política económica impunha-se, impõe-se, na atual conjuntura. Agir certamente sobre os défices crónicos da energia e das qualificações tem sido até a menor das prioridades do Governo. Mas também agir sobre a procura, apoiar os salários dos trabalhadores mais pobres, favorecendo o aumento do salário mínimo nacional; apoiar os mais pobres, com transferências sociais destinadas a aliviar a pobreza e sustentar algum consumo; apoiar e facilitar o investimento privado, desde logo estancando a queda da procura dirigida aos produtos nacionais; parar a sangria do investimento público, cuja queda vertiginosa é a única responsável pela intervenção do «Ministro da Propaganda» Poiares Maduro, quando se referiu a uma queda da despesa primária. \nTrata-se de agir, pois, sobre a procura na economia portuguesa, mas agir também na Europa, de explorar a margem de flexibilidade dos tratados europeus na política orçamental, como defendeu Mário Draghi, numa intervenção bem clara que fez há muito poucos dias, e que hoje reiterou, que bem dispensava a apressada vontade de reinterpretação da Ministra das Finanças portuguesa, sempre preocupada em secundar o seu homólogo alemão. \nEste Orçamento retificativo acaba por ser também um símbolo do falhanço do terceiro pilar do programa de ajustamento, porque é aqui que estão consignadas as transferências das contribuições para o fundo de resolução e também aqui está, para evidencia e todos, o que se passou com o Banco Espírito Santo e a necessidade, no período estival, da intervenção massiva que então ocorreu. \nEste retificativo, por tudo isto, é bem o espelho da teimosia obstinada da duplicação da austeridade, que redundou em muito mais dívida pública, uma limitação severa da transformação estrutural, e até mesmo numa situação negativa na estabilização do sistema financeiro. \nEste retificativo (o oitavo!) é bem o espelho deste Governo. E mesmo assim, que nunca nos falhe a memória, que nunca deixemos de ter bem presente quão pior tudo isto poderia ter sido se Portugal não fosse um verdadeiro Estado de direito democrático, se o afrontamento continuado da Lei Fundamental da República, dos direitos fundamentais dos cidadãos, não tivesse sido sucessivamente travado. \nDeste retificativo não rezará a história, mas das consequências das opções políticas deste Governo muito se pode já avaliar. Este é um período da nossa história coletiva que ficará pintado a cinzento bem carregado, disso não temos dúvidas. E isso já nenhuma pincelada com fins eleitorais poderá transformar.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Nuno Serra.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Nuno Serra", 
+   "text": "Sr. Presidente, Sr. Deputado Pedro Jesus Marques, há poucos dias, ouvimos o líder do seu partido dizer que o que esperava para este Orçamento — antes de o conhecer — e o que era fundamental era que não assentasse numa estratégia de cortes ou de aumento de impostos mas, sim, no rigor e disciplina orçamental e, simultaneamente, no crescimento económico.\nPois bem, não há dúvidas que rigor e disciplina orçamental foram o que este Governo sempre teve e que mudou muito do passado. Quanto aos cortes nos salários, só aqueles que os senhores propuseram em 2010 e que o Sr. Deputado votou favoravelmente, e não há aumento de impostos, há, efetivamente, um maior crescimento económico do que se esperava. Afinal, como é que o Sr. Deputado e o Partido Socialista justificam tal posição sobre este Orçamento retificativo? Ou será que a única razão foi a de o Partido Socialista ter-se abstido no Orçamento de 2012, tendo sido uma fraqueza, como disse um dos candidatos, em debate de campanha interna? Será que a única razão para um partido ser fraco ou forte é dependente de como vota o Orçamento? \nPois bem, um partido é fraco ou forte dependente das propostas que tem para melhorar um País, e aí o Partido Socialista tem sido muito fraco. \nSr. Deputado, tivemos uma emissão de dívida a 15 anos com um grande sucesso, o que não acontecia desde 2008; os juros da dívida descem constantemente; o saldo externo da balança é positivo; o desemprego tem vindo a diminuir; o crescimento económico é maior do que o esperado; o saldo primário é de 0,3%, quando, em 2009, era de menos 7,3%; o saldo primário estrutural é o melhor desde 2007; subimos 15 lugares no _ranking_ da competitividade global, índice que desde 2005 — deve saber bem, porque 2005 foi quando o Partido Socialista foi para o Governo — tem vindo a descer. \nPergunto-lhe: para o PS, estas não são boas notícias para Portugal? Para o PS, estes dados que estão no Orçamento não significam que Portugal está diferente e está melhor? Para o PS, simplesmente é inaceitável votar um Orçamento, porque se o votar favoravelmente ou se abstiver é um partido fraco? \nSr. Deputado, então, quais são as propostas que o PS tem de apresentar para ser menos fraco do que tem sido até agora?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Pedro Jesus Marques, que dispõe de 55 segundos.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Jesus Marques", 
+   "text": "Sr. Presidente, Sr. Deputado Nuno Serra, pergunto-lhe: este Orçamento retificativo não tem cortes? Então, não foi aqui aprovada, no último Plenário, uma lei que corta salários na função pública, apesar do aumento brutal de IRS que os senhores promoveram, que também afetou estas pessoas, e do aumento das contribuições para a ADSE? \nEste Orçamento não tem contemplado a receita da contribuição extraordinária de solidariedade, que os senhores insistem em manter sobre os pensionistas, cortando-lhes as pensões, apesar do aumento brutal de IRS que fizeram? \nSr. Deputado, este Orçamento não tem menos crescimento do que na última previsão que tinham feito e não é todo ele sustentado na procura interna, acabando com essa fábula da transformação que vinha com base nas fadas da confiança? É que nem vieram as fadas nem veio essa transformação estrutural. O fracasso da política de transformação estrutural que estava na base da lei da concorrência e das privatizações está à vista no resultado que agora apresentam para 2014.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de terminar, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Pedro Jesus Marques", 
+   "text": "O Sr. Deputado quer que acompanhemos o Orçamento que continua a aumentar a dívida pública em percentagem do PIB, que põe o défice em valores, com todos os fatores incluídos, em 10% do PIB? Quer que acompanhemos essas medidas, Sr. Deputado? Quer que acompanhemos essa estratégia orçamental? Não pode ter o apoio do Partido Socialista! \nHá mais dívida, ausência de transformação estrutural, mais défice, crescimento económico anémico e todo sustentado na procura interna. E quer que o Partido Socialista apoie a errática estratégia orçamental do vosso Governo? Isso não fará, Sr. Deputado!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Duarte Pacheco.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Há algo que podemos já identificar como sendo a marca deste debate. É que, de um lado, temos a serenidade e a confiança do Governo e da maioria e, do outro lado, temos a amargura e o azedume das intervenções da oposição.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD e do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
+   "text": "O que nos leva a perguntar porque é que boas notícias e porque é que o que corre bem ao País é tão triste e tão amargo para os Srs. Deputados da oposição. \nMas não há nada como dar uma segunda oportunidade para que os Srs. Deputados se possam congratular com o que de bom e positivo tem ocorrido em Portugal, o que é baseado em dados que são insuspeitos, porque vêm de organizações internacionais ou de instituições independentes. \nJá aqui foi referenciado: Portugal subiu 15 lugares no _ranking_ da competitividade. Para além disso, o comércio a retalho subiu, em julho, 2,6%, quando, na União Europeia, as vendas caíam no mesmo período; o indicador de produção industrial cresceu 3,5%, em julho, face ao período homólogo; o indicador de confiança dos consumidores está em máximo histórico desde janeiro de 2007; o indicador do clima económico mostra uma tendência em crescente e atingiu o valor mais alto desde julho de 2008; a taxa de desemprego recuou para 14%, em julho, menos 2,3% do que em 2013, a maior queda homóloga da União Europeia; a taxa de desemprego de longa duração, de janeiro a julho, caiu de 10 para 9,4%; entre o 2.º trimestre de 2013 e o 2.º trimestre de 2014, mais de 90 000 pessoas ficaram empregadas, em Portugal; a população empregada, com habilitações académicas de nível superior, cresceu 153 000 no mesmo período; os juros da dívida pública estão em queda em todas as maturidades. \nSrs. Deputados, não lhes ficava mal uma palavra de congratulação com as boas notícias para Portugal, porque resultaram do esforço de muitos portugueses, do esforço das instituições europeias, mas também do esforço e da ação do Governo. Quando as coisas correm mal, não podem dizer que é responsabilidade do Governo; quando as coisas correm bem dizem que o Governo não teve nada a ver com isso. \nTemos de nos congratular com o esforço dos portugueses e com a ação deste Governo por isto que está a acontecer no nosso País. Foi neste contexto que surgiu o Orçamento retificativo e quando todos diziam que as metas não seriam alcançadas, quando todos diziam que era necessário aumentar impostos para acomodar as despesas decorrentes, nomeadamente, das decisões do Tribunal Constitucional, aqui temos uma proposta orçamental. De novo, os senhores deviam mostrar-nos satisfação, porque ela cumpre as metas com as quais estamos comprometidos. \nEsta proposta visa uma melhoria da situação de desemprego com consequências orçamentais, não aumenta os impostos, o que tem de ser dito várias vezes, e, felizmente, traz uma despesa menor em termos de juros, porque a taxa de juro, na sequência da credibilidade conquistada, tem vindo a baixar nos mercados internacionais. \nSrs. Deputados, é lamentável. Perante isto, o que é que diz a oposição? Nada! Alternativas, zero! Só críticas com o azedume constante nas suas intervenções. \nSr. Presidente, Srs. Deputados, nós, nesta bancada, mostramos a nossa confiança no Governo, porque o Governo soube conquistar a confiança dos mercados, dos agentes externos, dos nossos credores, dos nossos parceiros, mas, sobretudo, porque nunca hesitou, nunca mudou o rumo, nunca recuou e, perante esta firmeza, conseguimos mudar Portugal.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Paulo Sá.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Usando a declaração de inconstitucionalidade do Orçamento como desculpa, o Governo aproveita o segundo Orçamento retificativo para dar continuidade à mesma política, com medidas adicionais de empobrecimento do País e dos portugueses, tentando disfarçá-la por causa das eleições do próximo ano. \nNa realidade, com este Orçamento retificativo, o Governo e a maioria PSD/CDS dão início à campanha eleitoral para as próximas eleições legislativas, tentando, tal como fizeram há três anos, vender aos portugueses «gato por lebre». \nA primeira mentira surge logo no primeiro parágrafo do relatório do Orçamento retificativo, em que se afirma que o cumprimento do défice para 2014 é assegurado sem recurso a novas medidas de austeridade. \nOs cortes nos salários da Administração Pública, aprovados pelo PSD e CDS há apenas dois dias para vigorarem já em setembro, são, obviamente, uma medida adicional de austeridade que, na linha de tantas outras impostas por este Governo, irá empobrecer ainda mais os portugueses. \nTambém os cortes nas despesas dos diferentes ministérios se irão traduzir na degradação da capacidade de estes prestarem os serviços públicos que lhes estão atribuídos por lei. Este aprofundamento do ataque às funções do Estado, em particular às suas funções sociais, não deixará de ter sérias implicações na qualidade de vida dos cidadãos, principalmente dos mais desfavorecidos. \nA redução do défice orçamental, na realidade, não passa de um pretexto para, ano após ano, o Governo ir impondo brutais sacrifícios à esmagadora maioria dos portugueses, ao mesmo tempo que concede mais e mais benefícios e privilégios a uma ínfima minoria.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "João Oliveira", 
+   "text": "Exatamente!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Paulo Sá", 
+   "text": "Não há dinheiro para salários, reformas e pensões, não há dinheiro para as prestações sociais, não há dinheiro para a saúde e a educação, não há dinheiro para a cultura, mas há «pipas de massa», como dizia Durão Barroso, para entregar à banca e aos grandes grupos económicos. \nApesar de já ter comprometido 4900 milhões de euros de fundos públicos no buraco do BES, montante que pode vir a ser da responsabilidade do Estado, tal como aconteceu no BPN, o Governo recusa-se a assumir as consequências desta decisão no Orçamento retificativo, certamente para não beliscar a sua propaganda pré-eleitoral. \nSr. Presidente, Srs. Deputados, Srs. Membros do Governo, o Governo admite, no Orçamento retificativo, um abrandamento no ritmo de crescimento da economia. Razão tinha o PCP quando, em abril, na discussão do Documento de Estratégia Orçamental, afirmou que as irrealistas previsões governamentais eram apenas para consumo eleitoral, destinadas a evitar o justo castigo nas eleições para o Parlamento Europeu. \nTambém as previsões sobre a evolução das exportações e das importações não tinham qualquer adesão à realidade. O Governo é, agora, obrigado a revê-las, num cenário que, mesmo assim, continua a ser demasiado otimista. Perante isto, é caso para se dizer: «O milagre económico foi-se». \nO Governo prevê, no Orçamento retificativo, um aumento significativo da receita fiscal até ao final do ano. \nEste crescimento é conseguido à custa dos impostos sobre os rendimentos do trabalho e sobre o consumo, ao mesmo tempo que o imposto sobre os lucros das empresas cai. \nEste ano, a receita do IRC representará apenas 35% da receita do IRS, quando, em 2008, por exemplo, esta percentagem era de 63%. A alteração do peso relativo do IRS e do IRC na receita fiscal ilustra, de forma exemplar, a política de transferência de rendimento do trabalho para o capital que o atual Governo, assim como os anteriores, insiste em aplicar. \nTambém relativamente ao gravíssimo problema do desemprego, o Governo e a maioria insistem em «tapar o sol com a peneira». Vangloriam-se da redução da taxa de desemprego, ignorando olimpicamente a emigração em massa; os 170 000 desempregados que, por se encontrarem temporariamente em formação, não são contabilizados; os mais de 250 000 inativos que estão disponíveis para trabalhar e que também não são contabilizados; os 250 000 trabalhadores que, por não conseguirem um trabalho a tempo completo, são obrigados a trabalhar a tempo parcial. \nOs 540 milhões de euros que o Governo se gaba de poupar com o subsídio de desemprego não traduzem uma evolução mais favorável do mercado de trabalho, são antes o reverso da medalha de uma situação dramática, com incalculáveis custos pessoais e sociais. \nSr. Presidente, Srs. Deputados, Srs. Membros do Governo, se, porventura, alguém ainda tivesse dúvidas, este Orçamento retificativo dissipá-las-ia: com este Governo e esta política, a descida dos portugueses ao inferno irá continuar.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PCP e de Os Verdes.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Cecília Meireles.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: \nEste Orçamento retificativo que hoje discutimos — aliás, a discussão já vai longa e tem sido, creio eu, profícua — é, sem dúvida nenhuma, um bom compromisso político, e é um bom compromisso face àquilo que é um problema objetivo que este Governo teve de resolver e que tem a ver com as decisões do Tribunal Constitucional. São legítimas? Sem dúvida, mas tiveram, e têm, consequências orçamentais e coube a este Governo resolver o problema das consequências orçamentais. É por isso que aqui estamos hoje. \nMas este Orçamento retificativo é um bom compromisso político porque, primeiro, temos um crescimento económico que está a produzir receita fiscal e receita contributiva que é virtuosa. \nO contexto internacional na Europa é menos positivo do que aquilo que estávamos à espera, e, porque o crescimento económico tem sido hoje aqui abundantemente debatido, vale a pena dizer que este crescimento se tem feito sentir, muito concretamente, neste Orçamento retificativo, na receita. \nÉ curioso porque, sobre este assunto, a oposição tem passado por várias fases: a primeira fase, diria eu, é a fase da negação absoluta — não havia crescimento económico, era tudo uma invenção do Governo, era um truque, era uma manigância. \nDepois, passaram a uma segunda fase, porque há uma certa altura em que as evidências se tornam absolutamente indiscutíveis, e era um efeito sazonal, isto era uma coisa que tinha acontecido mas tinha acontecido por acaso e rapidamente iria desaparecer. \nAgora, parece que, finalmente, já ultrapassámos esta fase e estamos na terceira fase de diversão, para não reconhecer uma coisa que é óbvia, que é boa para os portugueses e que, creio eu, todos gostaríamos que fosse mais profunda. Portanto, se os senhores têm tanta vontade de criticar, ao menos, podiam fazer uma crítica construtiva e que até, porventura, poderia ser pertinente, ao invés de se estarem a perder noutras críticas de mais difícil compreensão. \nMas, como dizia, estamos na terceira fase, que é aceitar que há crescimento mas não é nas exportações, é no consumo. Passamos, de facto, de negação em negação, de argumento em argumento, e a oposição demonstra aqui uma criatividade que só posso saudar. Em todo o caso, acho que seria muito mais simples para todos nós concentrarmo-nos e aceitarmos o facto de que há crescimento e discutirmos como é que o podemos tornar maior ou como é que podemos ter um ritmo mais rápido. Penso eu que seria mais construtivo, mas os senhores estão perdidos nessa negação absoluta. \nEste Orçamento retificativo mostra também, como, aliás, sempre defendemos, que a atividade económica ajuda na consolidação, que consolidação orçamental e crescimento económico não são incompatíveis, pelo contrário, são compatíveis e são possíveis e este Orçamento retificativo demonstra isto mesmo.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Além disso, na receita fiscal, há também o papel do combate à fraude fiscal, que foi ontem noticiado, pois uma parte substancial do aumento da receita advém do combate à fraude, e isso, do nosso ponto de vista, é também muito importante, porque se todos pagarmos aquilo que é devido isso abre caminho para todos pagarmos um bocadinho menos, o que é, sem dúvida, mais justo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Hélder Amaral", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Em segundo lugar, este Orçamento retificativo é um bom compromisso porque resulta de menos desemprego. O desemprego é a pior das fraturas sociais, é a prioridade dos problemas que Portugal tem para resolver e a verdade é que paulatinamente — mais lentamente do que queríamos, é verdade, mas certamente no bom caminho —, décima a décima, o desemprego tem vindo a diminuir e, neste caso, isto também ajuda à consolidação. É que, obviamente, menos desemprego significa menos despesa em subsídio de desemprego e mais emprego significa também mais contribuições para a segurança social, que, aliás, se verificam neste Orçamento retificativo.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Em terceiro lugar, este Orçamento é um bom compromisso porque mantém a lucidez em relação às pressões sobre a despesa, ou seja, reconhece que nem todas as despesas são de igual importância e nem todas as despesas são de igual valor, mas faz escolhas e percebe que o controlo da despesa é uma solução e é um caminho que temos sempre de seguir, temos de estar sempre a pôr em prática sem distrações. \nEm quarto lugar, obviamente, e a frase tem direitos de autor, que são do Deputado Hélder Amaral, é um bom compromisso porque não há aumento de impostos. Esta é a frase que melhor o define e essa escolha é sem dúvida boa, justa e lúcida, num País, como Portugal, em que a carga fiscal, por desmandos do passado, é já muito, muito elevada. \nPor último, Sr.ª Ministra, gostava de deixar duas notas sobre assuntos que foram aqui mencionados e que são sem dúvida pertinentes, sendo que o primeiro tem que ver com o BES. Ouvi muitas críticas à atuação do Governo, aquilo que não ouvi aqui foi uma solução, uma proposta, enfim, já não digo uma alternativa mas uma ideia, uma pista, qualquer coisa, mas só ouvi críticas. \nSrs. Deputados, abstraindo até de outras consequências, também elas extraordinariamente gravosas, gostava que meditássemos no seguinte: este Governo foi confrontado com o problema do BES, que não foi o Governo a criar, e, sendo confrontado com esse problema, gostava de perguntar aos Srs. Deputados se, por acaso, deixássemos falir o BES, se, por acaso, deixássemos todos os depositantes BES sem um tostão do que lá tinham, não acham que isso também teria consequências orçamentais muitíssimo mais gravosas do que quaisquer umas que possamos estar aqui a discutir.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Pergunto também, se nacionalizássemos como o Partido Socialista fez no BPN, se isso, por acaso, também não teve consequências orçamentais muito mais gravosas do que estas que estamos aqui a discutir.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Portanto, Sr.ª Ministra, quando se fala em consequências, é bom perceber isto, porque os senhores confundem consequências com causas. Os senhores podem não gostar que a causa tenha acontecido — eu também não gostei! — mas, em todo o caso, coube ao Governo resolver o problema e, portanto, a quem quer discutir consequências convém, pelo menos, ter uma ideia de como é que o teria resolvido, em alternativa, e os senhores manifestamente não têm.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Cecília Meireles", 
+   "text": "Sr.ª Ministra, por último, gostava de lhe perguntar se este Orçamento não será, também, uma excelente oportunidade para resolver alguns problemas de pagamentos em atraso, que se arrastam há muitos e muitos anos em Portugal.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Mariana Mortágua.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Mortágua", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: Sr.ª Ministra de Estado e das Finanças, a senhora veio aqui tentar passar a imagem de que o Orçamento retificativo surge para se adaptar a um cenário macroeconómico mais favorável, mas os dados do Orçamento retificativo são outros e é ele próprio que desmente esse discurso do cenário macroeconómico mais favorável. \nO DEO (Documento de Estratégia Orçamental), um documento feito há três meses atrás, apontava um crescimento de 1.1% para a economia portuguesa. Esse crescimento foi revisto em baixa, e não só foi revisto em baixa como os motores de crescimento mudaram. O DEO dizia que o crescimento ia ser fundamentado nas exportações e no investimento e agora, além de o crescimento ser revisto em baixa, é o consumo o motor do crescimento. \nAs exportações, que eram um motor do crescimento, agora, quando descontadas das importações, imagine-se que dão um contributo negativo para o PIB, contribuem negativamente para o crescimento da economia. O investimento, que ia ser 3.3% do PIB e um motor de crescimento, afinal vai ser 1.1%, e o investimento em novo _stock_ de capital, já aqui foi dito, não chega sequer para repor o _stock_ que se desgasta, há uma destruição líquida, continuamos a destruir aparelho produtivo. \nPortanto, chegamos aqui com uma amarga conclusão: é que o modelo de crescimento, baseado no consumo de um povo que vivia acima das possibilidades, é, agora, o modelo de crescimento que o Governo tem para apresentar. O modelo de crescimento que tanto criticavam, porque era baseado no consumo, é o modelo de crescimento que têm para apresentar, porque o consumo é a única variável que cresce. \nA Sr.ª Ministra perguntava: «mas será que o facto de termos subido 15 lugares no fórum da competitividade não quer dizer que há uma mudança estrutural na economia?». A verdade é que a senhora não disse que subimos 15 lugares para o mesmo lugar onde estávamos em 2007. Isso nunca foi dito! Não disse que podemos ter subido 15 lugares porque outros países desceram na competitividade…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Risos do PSD e do CDS-PP.", 
+   "type": "riso"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Mortágua", 
+   "text": "…e não disse que não temos nenhuma mudança estrutural na economia, pois temos a mesma economia mas com mais desemprego, menos produção e mais impostos. \nPercebo que isto incomode o CDS, porque se eu me tivesse afirmado na sociedade portuguesa como sendo o partido do contribuinte, também me sentiria desconfortável ao ver que este Governo, como nenhum outro, depende do saque fiscal para sobreviver, ao mesmo tempo que aumenta a dívida que todos os contribuintes pagarão no futuro.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do BE", 
+   "text": "Bem lembrado!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Mortágua", 
+   "text": "Portanto, percebo o desconforto do partido do contribuinte ao ver que a economia estrutural é a mesma, uma economia baseada em consumo — e os dados não são meus, são do Orçamento retificativo —, sem exportações que contribuam positivamente para o crescimento e sem investimento líquido que melhore o sistema produtivo. \nOra, isto leva-nos à segunda contradição: um Governo eleito dizendo que ia cortar nas «gorduras» do Estado, dizendo que o ajustamento orçamental não era feito com impostos nem com o aumento de receita, o que tem para nos apresentar agora é um ajustamento orçamental baseado no saque fiscal, um ajustamento orçamental baseado em mais receita fiscal e em mais cortes nos salários.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Protestos do PSD e do CDS-PP.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Mortágua", 
+   "text": "Portanto, aquilo que temos de concluir, e está provado neste Orçamento, é que a austeridade…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faço favor de terminar, Sr.ª Deputada.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Mortágua", 
+   "text": "Termino já, Sr. Presidente.\nComo dizia, aquilo que temos de concluir, e está provado neste Orçamento, é que as austeridade não aumentou as exportações nem o seu contributo para o PIB, a austeridade não aumentou o contributo do investimento para o PIB, a austeridade não pagou dívidas, a única variável que sobrevive é o consumo.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faço favor de terminar, Sr.ª Deputada.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Mortágua", 
+   "text": "O que não se percebe, e a Sr.ª Deputada Cecília Meireles pedia alternativas e sugestões, é porque é que não repõem os salários e não deixam o consumo fazer de motor de crescimento da economia e assim aumentar as receitas fiscais que permitem consolidar o défice?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, faça favor de terminar, pois já excedeu largamente o seu tempo.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Mariana Mortágua", 
+   "text": "É que é esta a lição que se tira deste Orçamento e é pena que o radicalismo do Governo não o permita ver isto.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do BE.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Luís Ferreira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Diga o Governo o que disser, a verdade é que este Orçamento retificativo nos mostra que o Governo falhou, falhou nas suas políticas e falhou nas suas previsões. Mas isso não é o pior, o pior é que o Governo insiste no erro, o Governo insiste nas mesmas previsões e nas mesmas políticas. \nO Vítor Gaspar foi-se embora mas as previsões continuam na mesma linha; a troica foi-se embora mas a política de austeridade continua. Portanto, longe vão os tempos da luz ao fundo do túnel, dos milagres económicos e dos inúmeros sinais positivos. \nDizer-se que depois da troica acabava a austeridade foi mesmo conversa fiada. Afinal, o relógio do Sr. Vice-Primeiro-Ministro que andava para trás continua a andar, não parou com a saída da troica, e a cada recuo dos ponteiros é mais uma dose de austeridade que o Governo impõe aos portugueses, como, aliás, faz no Orçamento retificativo. \nEste Orçamento retificativo mostra-nos a dimensão da derrapagem mas também nos mostra a natureza ideológica deste Governo. Senão, vejamos: perante esta derrapagem, como é que o Governo pretende resolver o problema? Cortando nas «gorduras» do Estado! Mas as «gorduras» do Estado, para este Governo, não são as parcerias público-privadas, não são as rendas excessivas da eletricidade, não são os contratos _swap._ Não, para este Governo, as «gorduras» do Estado continuam a ser os salários das pessoas, continuam a ser os apoios sociais e continuam a ser os serviços públicos. \nÉ desta forma que o Governo pretende fazer face à derrapagem das suas previsões e das suas políticas: \ncortes nos rendimentos de quem trabalha, que, para além da injustiça que representam, ainda vão agravar a nossa economia, porque vão contrair ainda mais o poder de compra das famílias e, portanto, diminuir o consumo privado; cortes nos apoios sociais, e, em consequência, mais pessoas desempregadas sem qualquer apoio social, e cortes nos serviços públicos, agravando ainda mais o estado deplorável em que se encontram muitos hospitais, escolas, centros de saúde, finanças e por aí fora. \nSão estas as «gorduras» do Estado para o Governo PSD/CDS. Cortes atrás de cortes, numa altura em que até a OCDE veio dizer que mais cortes salariais seriam contraproducentes. Políticas que continuam a promover as reduções salariais não ajudam a competitividade, não ajudam a nossa economia, quem o diz é a OCDE, e diz mais, diz que Portugal foi um dos países com maior registo de cortes salariais. Entre 2009 e 2013, os salários, em Portugal, registaram uma quebra anual média de 2,5%, a segunda mais alta do conjunto dos 29 países analisados pela OCDE. E mesmo assim o Governo PSD/CDS insiste nos cortes salariais e nas políticas de austeridade que, de Orçamento retificativo em Orçamento retificativo, continuam a empobrecer os portugueses e a não resolver nenhum dos nossos problemas. \nÉ por isso que dizemos que este Orçamento retificativo não passa de um novo episódio na saga da austeridade…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Presidente.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "party": "Os Verdes", 
+   "speaker": "José Luís Ferreira", 
+   "text": "Termino já, Sr. Presidente. \nEste Orçamento retificativo não passa de um novo episódio na saga da austeridade que o Governo PSD/CDS teima em prosseguir, apesar dos desastrosos resultados das suas políticas, que todos conhecem, inclusivamente o Governo. Assim não vamos lá!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos de Os Verdes e do PCP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Fernando Virgílio Macedo.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Fernando Virgílio Macedo", 
+   "text": "Sr. Presidente, Srs. Deputados, no final deste debate, relativo à segunda alteração do Orçamento do Estado para 2014, é importante relembrarmos os seus aspetos mais relevantes. \nEm primeiro lugar, este Orçamento vai ao encontro das exigências do acórdão do Tribunal Constitucional do passado mês de Maio, que, como sabemos, teve incremento na despesa pública de aproximadamente 0,5% do PIB. Mas este é também um Orçamento retificativo que, para além de garantir a meta do défice público em 4% para 2014, reflete os novos dados e perspetivas para a economia portuguesa, a saber: prevê um crescimento económico de 1%, quando inicialmente se previa um crescimento económico de 0,8%, e revê em baixa a taxa de desemprego para 14,2%, quando inicialmente estava prevista uma taxa de 17,7%. \nMas a notícia mais relevante para os portugueses é que se consegue manter a meta do défice público, através da revisão dos tetos orçamentais da despesa, não havendo necessidade de efetuar qualquer aumento de impostos adicional. Ou seja, fica provado que, como sempre foi dito, este Governo é, sempre foi e será ideologicamente contra o aumento de impostos. \nComo sempre foi afirmado, o aumento de impostos é e será sempre a última e derradeira medida de consolidação orçamental a implementar pelo Governo, e só será opção depois de esgotadas todas as outras possibilidades. \nSrs. Deputados, repito, este Orçamento retificativo garante que Portugal vai cumprir as metas orçamentais previstas para 2014, de 4%, e que não irá haver qualquer aumento de impostos. Esta é uma boa notícia para os portugueses! \nFelizmente, nas últimas semanas, existiram muitas boas notícias para os portugueses, e muitas já foram aqui referenciadas: a emissão de dívida pública; a subida no _ranking_ da competitividade por parte de Portugal; o índice de produção industrial; o indicador de clima económico; e, ainda, o indicador de confiança dos consumidores, que, em julho, foi o mais elevado desde julho de 2007. Ou seja, tudo isto são excelentes notícias para Portugal e para os portugueses, o que contraria os discursos dos arautos da desgraça, diga-se, partidos da oposição, os quais parecem ser verdadeiras aves agoirentas que querem que tudo corra mal a Portugal e aos portugueses para terem razão.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Faça favor de concluir, Sr. Deputado.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Fernando Virgílio Macedo", 
+   "text": "Mas, Sr.as e Srs. Deputados da oposição, vão ter de ter paciência, a vossa vontade não está nem irá ser cumprida. \nOs portugueses, no final, irão conseguir tirar Portugal do abismo em que o PS o deixou em 2011. \nEste Orçamento retificativo é, assim, só mais um passo para cumprir esse objetivo.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra a Sr.ª Ministra de Estado e das Finanças.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Sr. Presidente, Srs. Deputados: Uma intervenção final onde tentarei clarificar alguns pontos que me parece que podem ainda ser objeto de alguma confusão, nomeadamente as matérias que têm a ver com a dívida pública. \nGostaria de esclarecer os Srs. Deputados que os efeitos extraordinários que estão refletidos no défice, ainda que não contem para efeitos da meta de 4%, incluem, por exemplo, as dívidas da CP, da Carris e dos STCP…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "E então?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "… e gostaria de realçar que os 94% que herdámos de dívida registada não continham esta dívida, que é, também ela, herdada. A dívida das empresas de transportes não foi criada por este Governo, aliás, este Governo fez mais para o equilíbrio operacional, para restaurar a saúde financeira destas empresas do que qualquer um dos Governos anteriores.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Esta dívida também foi herdada! A diferença é que este Governo deixou de desorçamentar e refletiu transparentemente, porque isso permite poupar dinheiro aos portugueses, uma vez que, enquanto se mantém fora das contas, tem de pagar mais do que se fosse dívida pública. Esta é uma parte importante a ter em conta, quando olhamos para a evolução da dívida pública. É que uma grande parte da evolução da dívida pública decorre precisamente de ser reconhecida a desorçamentação do passado…", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Carlos Abreu Amorim", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "… que, sucessivamente, vai tendo de ser refletida nas contas públicas. \nGostaria também de dizer, para que fique bem claro, que as exportações continuam a crescer, o que temos é um crescimento superior ao esperado das importações, fruto do aumento do consumo interno, que resultará, em qualquer caso, de um aumento da confiança dos portugueses. Ora, para o cenário tão negro que a oposição pinta, perguntar-se-á: onde foram os portugueses buscar confiança para aumentar o seu consumo? \nHá qualquer coisa que não bate certo, Srs. Deputados.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Magalhães", 
+   "text": "Ao Tribunal Constitucional!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Relativamente às prestações sociais, e para que fique também claro, as prestações sociais, com este Governo, têm vindo sempre a subir quer em percentagem do PIB, quer em valor absoluto — sempre! —, porque nunca afetámos os mais desprotegidos.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Protestos do PCP e do BE.", 
+   "type": "protesto"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Os Srs. Deputados falam constantemente dos pensionistas, mas mais de 85% dos pensionistas nunca foram afetados por qualquer medida de redução.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Este Orçamento retificativo e a boa execução da receita permitiram, ainda, criar espaço, como disse a Sr.ª Deputada Cecília Meireles, e bem, para pagar mais uma parte de outras dívidas que herdámos e que, hoje, podem ser aqui discutidas abertamente, porque este Governo põe em todos os relatórios o que está em atraso em termos de pagamento. Antes, era menos discutido, não porque os atrasos não existissem, mas porque, simplesmente, não eram reportados. O preço da transparência, que é um princípio básico da democracia, é o de que os Srs. Deputados, depois, tentam deturpar os factos contra o Governo, mas os factos são factos, independentemente da forma como os Srs. Deputados os apresentam.", 
+   "type": "ministro_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "Isso é verdade!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "Ministra de Estado e das Finanças", 
+   "speaker": "Maria Luís Albuquerque", 
+   "text": "Relativamente à questão de o cenário macroeconómico ser ou não ser um modelo de crescimento, o cenário macroeconómico, mais uma vez, Srs. Deputados e Sr.ª Deputada Mariana Mortágua, reflete a realidade que observamos e a forma como ela é projetada. Felizmente, em Portugal, vivemos num regime em que o cenário macroeconómico não é decidido por um Governo sem contraditório e explicações públicas. Vivemos num País onde temos de reconhecer, explicar, perante o Parlamento e perante os portugueses, o que vai acontecendo, sendo que aquilo que está a acontecer à nossa volta, nomeadamente em termos de crescimento externo dos nossos principais parceiros comerciais, não pode deixar de ser tido em conta. \nAinda assim, graças ao esforço das nossas empresas, as exportações continuam a crescer e continuamos a ter muito boas notícias. Não estão os problemas todos resolvidos? Pois não! Gostaríamos muito que estivessem, infelizmente, não estão e teremos de continuar a trabalhar, mas muitos, muitos, muitos dos problemas que este Governo encontrou estão hoje resolvidos e muitos estão incomparavelmente melhor. \nBasta olhar para os números para ver.", 
+   "type": "ministro_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PSD e do CDS-PP.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, não há mais inscrições e também não há tempos disponíveis, pelo que está concluído o debate do Orçamento retificativo. \nVamos, então, dar início ao processo de votação, para o que importa proceder à verificação eletrónica do quórum de deliberação. Peço, pois, aos serviços para acionarem o sistema eletrónico.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Pausa.", 
+   "type": "pausa"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o quadro eletrónico regista a presença de 207 Deputados, a que acrescem os Deputados Idália Salvador Serrão, do PS, Telmo Correia, do CDS-PP, e Jerónimo de Sousa, do PCP, que não conseguiram registar eletronicamente a sua presença, perfazendo um total de 210 Deputados presentes, havendo, por isso, quórum de deliberação. \nVamos, então, proceder à votação, na generalidade, da proposta de lei n.º 244/XII (3.ª) — Procede à segunda alteração à Lei n.º 83-C/2013, de 31 de dezembro (Orçamento do Estado para 2014).", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Submetida à votação, foi aprovada, com votos a favor do PSD e do CDS-PP e votos contra do PS, do PCP, do BE e de Os Verdes.", 
+   "type": "voto"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "A proposta de lei que acabámos de votar baixa à 5.ª Comissão. \nSrs. Deputados, chegámos ao fim dos nossos trabalhos de hoje. \nA próxima sessão plenária realizar-se-á na quinta-feira, dia 11, às 15 horas, e terá a seguinte ordem do dia: \ndeclarações políticas e votações. \nHá pouco, não mencionei que o Sr. Deputado Jorge Lacão também faz anos hoje. Chegou um pouquinho atrasado, naturalmente, porque esteve no almoço de aniversário, e não vou dar-lhe a palavra, porque, se não, prolongaríamos demasiado a nossa sessão, mas apresento-lhe os parabéns.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Aplausos gerais.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está encerrada a sessão.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "text": "Eram 16 horas e 44 minutos.", 
+   "type": "hora"
+  }
+ ], 
+ "president": "", 
+ "secretaries": [], 
+ "session-date": null, 
+ "time_end": null, 
+ "time_start": null
+}
