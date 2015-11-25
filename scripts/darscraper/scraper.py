@@ -80,7 +80,6 @@ def get_diary(leg, sess, num):
     f.write(content)
     f.close()
 
-
 if __name__ == '__main__':
     #if len(sys.argv) != 4:
     #    print 'I need 3 arguments: <leg> <sess> <num>'

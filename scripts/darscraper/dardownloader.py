@@ -7,52 +7,55 @@ from urllib2 import urlopen
 import shutil
 import urlparse
 
-FILENAME_TEMPLATE = 'dar_%d_%02d_%03d.pdf'
+FILENAME_TEMPLATE = 'dar_%d_%02d_%03d.'
 
-def make_filename(leg, sess, number):
+def make_filename(leg, sess, number, format="pdf"):
     leg = int(leg)
     sess = int(sess)
     number = int(number)
-    return FILENAME_TEMPLATE % (leg, sess, number)
+    return (FILENAME_TEMPLATE % (leg, sess, number)) + format.lower()
 
-def download(leg, sess, number):
+def download(leg, sess, number, format="pdf"):
     leg = int(leg)
     sess = int(sess)
     number = int(number)
-    url = encode_url(leg, sess, num)
-    filename = make_filename(leg, sess, number)
+    url = encode_url(leg, sess, num, format)
+    filename = make_filename(leg, sess, number, format)
     cmd = 'wget "%s" --quiet --output-document %s' % (url, filename)
     import subprocess
     subprocess.call(cmd, shell=True)
 
-def dar_exists(leg, sess, num):
-    url = encode_url(leg, sess, num)
+def dar_exists(leg, sess, num, format="pdf"):
+    url = encode_url(leg, sess, num, format)
     # Now we check if there's anything at the URL.
     # We always get return code 200 since there's a HTML error message, 
     # so we check if we're getting a PDF file or a HTML response.
     from urllib2 import urlopen
     response = urlopen(url)
     mimetype = response.info().values()[-1].split(';')[0]
-
-    if mimetype == 'application/pdf':
+    
+    if format.lower() == 'pdf' and mimetype == 'application/pdf':
         return True
         print "Resource exists!"
-    elif mimetype == 'text/html':
+    elif format.lower() == 'pdf' and mimetype == 'text/html':
         return False
+    elif format.lower() == 'txt' and mimetype == 'text/html':
+        content = response.read()
+        if "<p>" in content:
+            return True
+            print "Resource exists!"    
     else:
         print mimetype
         raise ValueError
 
 if __name__ == '__main__':
-    if not len(sys.argv) == 4:
-        print 'Give me 3 args (leg, session, number)'
+    if not len(sys.argv) == 5:
+        print 'Give me 4 args (leg, session, number, file_format)'
         sys.exit()
 
-    leg, sess, num = sys.argv[1:]
-    if dar_exists(leg, sess, num):
-        print "Resource exists! Downloading to %s..." % make_filename(leg, sess, num)
-        download(leg, sess, num)
+    leg, sess, num, format = sys.argv[1:]
+    if dar_exists(leg, sess, num, format):
+        print "Resource exists! Downloading to %s..." % make_filename(leg, sess, num, format)
+        download(leg, sess, num, format)
     else:
         print "Resource does not exist."
-
-
