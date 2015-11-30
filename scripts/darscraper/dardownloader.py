@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 from darpdfurls import encode_url
-import sys, os
-
+import sys, os, re
 import urllib2
 from urllib2 import urlopen
 import shutil
@@ -22,9 +21,18 @@ def download(leg, sess, number, format="pdf"):
     url = encode_url(leg, sess, num, format)
     filename = make_filename(leg, sess, number, format)
     cmd = 'wget "%s" --quiet --output-document %s' % (url, filename)
+    if format.lower() == 'txt':
+        cmd = 'lynx -dump -nolist -force_html -display_charset UTF-8 "%s" >%s' % (url, filename)
     import subprocess
     subprocess.call(cmd, shell=True)
-
+    if format.lower() == 'txt':
+        html = open(filename, 'r').read()
+        raw = html.splitlines()
+        file = open(filename, 'w')
+        for line in raw:
+            if not(re.match(r'.*[0-9]+ \| [XVI]+',line)): file.write(line + "\n")
+        file.close()
+        
 def dar_exists(leg, sess, num, format="pdf"):
     url = encode_url(leg, sess, num, format)
     # Now we check if there's anything at the URL.
