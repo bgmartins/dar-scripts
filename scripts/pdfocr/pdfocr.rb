@@ -338,7 +338,7 @@ Dir.chdir(tmp+"/") {
   if usecuneiform
     sh "cuneiform", "-l", language, "-f", "hocr", "-o", basefn+'.hocr', basefn+'.ppm'
   elsif usetesseract
-    sh "tesseract", "-l", language, basefn+'.ppm', basefn+'-new', "pdf"
+    sh "tesseract", "-l", language, "-c", "language_model_penalty_spacing=0.1", "-c", "language_model_ngram_on=1", "-c", "language_model_ngram_space_delimited_language=1", "-c", "tessedit_enable_dict_correction=1", "-c", "tessedit_dont_blkrej_good_wds=1", "-c", "textord_show_new_words=1", "-c", "suspect_space_level=50", "-c", "segment_nonalphabetic_scripts=1", basefn+'.ppm', basefn+'-new', "pdf"
     if not File.file?(basefn+'-new.pdf')
       puts "Error while running OCR on page #{i}"
       sh "mv #{basefn+'.pdf'}  #{basefn+'-new.pdf'}"
