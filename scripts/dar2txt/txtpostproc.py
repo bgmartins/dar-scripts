@@ -76,7 +76,10 @@ def split_speaker(entry):
     elif len(parts) == 2:
         speaker, text = parts
         # TODO: Regex?
-        speakername = speaker.split('*')[1]
+        try:
+            speakername = speaker.split('*')[1]
+        except IndexError:
+            speakername = speaker
         try:
             speakertitle = speaker.split('(')[1].rstrip(')')
             if speakername.startswith(('Ministr', u'Secretário de Estado', u'Secretária de Estado', 'Primeiro-Ministro')):

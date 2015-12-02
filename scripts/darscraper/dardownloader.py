@@ -30,6 +30,18 @@ def download(leg, sess, number, format="pdf"):
         raw = html.splitlines()
         file = open(filename, 'w')
         for line in raw:
+            line = re.sub(r"^( +)(Aplausos.*)\.$", "\g<1>_\g<2>_.", line, re.UNICODE)
+            line = re.sub(r"^( +)(Pausa)\.$", "\g<1>_\g<2>_.", line, re.UNICODE)
+            line = re.sub(r"^( +)(Procedeu-se .{1,10} vota.{3,10})\.$", "\g<1>_\g<2>_.", line, re.UNICODE)
+            line = re.sub(r"^( +)(Submetido .{1,10} vota.{3,50})\.$", "\g<1>_\g<2>_.", line, re.UNICODE)
+            line = re.sub(r"^( +)(Eram [0-9]+ horas e [0-9]+ minutos)\.$", "\g<1>_\g<2>_.", line, re.UNICODE)
+            line = re.sub(r"^( +)(Eram [0-9]+ horas)\.$", "\g<1>_\g<2>_.", line, re.UNICODE)            
+            line = re.sub(r"^(.{0,10} Sr..? )([^:]*) (\([A-Z-]+\)): ", "\g<1>*\g<2>* \g<3>: ", line, re.UNICODE)
+            line = re.sub(r"^(.{0,10} Sr..{0,2} )(Presidente)(( \([^\)]+\))?: )", "\g<1>*\g<2>*\g<3>", line, re.UNICODE)
+            line = re.sub(r"^(.{0,10} Sr..{0,2} )(Secret.*ri[oa])([^:]{0,50}): ", "\g<1>*\g<2>*\g<3>: ", line, re.UNICODE)
+            line = re.sub(r": - ",": ", line, re.UNICODE)
+            line = re.sub(r"^ *","", line, re.UNICODE)
+            line = re.sub(r"(.*[^\.])$","\g<1> ", line, re.UNICODE)
             if not(re.match(r'.*[0-9]+ \| [XVI]+',line)): file.write(line + "\n")
         file.close()
         

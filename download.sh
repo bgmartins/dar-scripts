@@ -43,7 +43,8 @@ cp ../../scripts/dar2txt/*.py .
 for i in `seq 11 15`; do
 for j in `seq 100`; do
 for k in `seq 350`; do
- python dardownloader.py $i $j $k
+ python dardownloader.py $i $j $k pdf
+ python dardownloader.py $i $j $k txt
 done
 done
 done
@@ -66,6 +67,15 @@ for file in *.pdf; do
  cd pdf
 done
 cd ..
+
+## Converter os TXTs do diario da republica em ficheiros json
+mkdir -p txt
+mkdir -p json
+for file in *.txt; do
+ python txtpostproc.py ${file} txt/${file}
+ python txt2json.py txt/${file} json/${file}.json
+ rm -rf $file
+done
 
 ## Remover ficheiros temporarios
 rm -rf *.py *.pyc temp
