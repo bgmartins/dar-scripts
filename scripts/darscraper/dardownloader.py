@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from darpdfurls import encode_url
 import sys, os, re
 import urllib2
@@ -39,7 +40,7 @@ def download(leg, sess, number, format="pdf"):
             line = re.sub(r"^(.{0,10} Sr..? )([^:]*) (\([A-Z-]+\)): ", "\g<1>*\g<2>* \g<3>: ", line, re.UNICODE)
             line = re.sub(r"^(.{0,10} Sr..{0,2} )(Presidente)(( \([^\)]+\))?: )", "\g<1>*\g<2>*\g<3>", line, re.UNICODE)
             line = re.sub(r"^(.{0,10} Sr..{0,2} )(Secret.*ri[oa])([^:]{0,50}): ", "\g<1>*\g<2>*\g<3>: ", line, re.UNICODE)
-            line = re.sub(r": - ",": ", line, re.UNICODE)
+            line = re.sub(r": - ",": — ", line, re.UNICODE)
             line = re.sub(r"^ *","", line, re.UNICODE)
             line = re.sub(r"(.*[^\.])$","\g<1> ", line, re.UNICODE)
             if not(re.match(r'.*[0-9]+ \| [XVI]+',line)): file.write(line + "\n")
