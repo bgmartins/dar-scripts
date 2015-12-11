@@ -123,65 +123,64 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* (Reinaldo Gomes): Srs. Deputados, deu entrada na Mesa o projecto de lei n.º 572/V (adopta medidas de prevenção do consumo de drogas e de tratamento e reinserção social de \ntoxicodependentes), apresentado pela Sr.ª Deputada Paula Coelho e outros, do PCP, que foi admitido e baixou às 3.º e 14.s Comissões.", 
-   "type": "deputado_continuacao"
+   "party": "Reinaldo Gomes", 
+   "speaker": "Secretário", 
+   "text": "Srs. Deputados, deu entrada na Mesa o projecto de lei n.º 572/V (adopta medidas de prevenção do consumo de drogas e de tratamento e reinserção social de \ntoxicodependentes), apresentado pela Sr.ª Deputada Paula Coelho e outros, do PCP, que foi admitido e baixou às 3.º e 14.s Comissões.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, a primeira parte dos nossos trabalhos diz respeito à apreciação conjunta dos Decretos-Leis n.ºs 34-A/90, de 24 de Janeiro (aprova o Estatuto dos Militares das Forças Armadas) -ratificação n.º 110/V (PCP)- e n.º 57/90, de 14 de Fevereiro (estabelece o regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato dos três ramos das Forças Armadas) - ratificação n.º 118/V (PCP).\nGostaria de informar os Srs. Deputados que a instalação das comissões eventuais e de inquérito que estava prevista para dia 12 às 17 horas passou para as 15 horas, no meu gabinete.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a primeira parte dos nossos trabalhos diz respeito à apreciação conjunta dos Decretos-Leis n.ºs 34-A/90, de 24 de Janeiro (aprova o Estatuto dos Militares das Forças Armadas) -ratificação n.º 110/V (PCP)- e n.º 57/90, de 14 de Fevereiro (estabelece o regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato dos três ramos das Forças Armadas) - ratificação n.º 118/V (PCP).\nGostaria de informar os Srs. Deputados que a instalação das comissões eventuais e de inquérito que estava prevista para dia 12 às 17 horas passou para as 15 horas, no meu gabinete.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Para melhor organizarmos os nossos trabalhos, vou suspender a sessão por cinco minutos. Está suspensa a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 10 horas e 30 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, está reaberta a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 10 horas e 45 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Estão inscritos os Srs. Deputados João Amaral, José Lello, Marques Júnior e Ângelo Correia.\nPara uma intervenção, tem, pois, a palavra o Sr. Deputado João Amaral.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Pela circunstância de a grelha de tempos fixada atribuir apenas cinco minutos a cada partido para o debate, a minha intervenção limitar-se-á, contra o que seria minha vontade, a enunciar alguns pontos capitais relativos ao processo de ratificações e aos diplomas em análise.\nSobre a ratificação diria o seguinte: a iniciativa do Partido Comunista Português de chamar à ratificação da Assembleia o Estatuto dos Militares das Forças Armadas e o regime remuneratório foi tomada numa conjuntura que importa relembrar.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Pela circunstância de a grelha de tempos fixada atribuir apenas cinco minutos a cada partido para o debate, a minha intervenção limitar-se-á, contra o que seria minha vontade, a enunciar alguns pontos capitais relativos ao processo de ratificações e aos diplomas em análise.\nSobre a ratificação diria o seguinte: a iniciativa do Partido Comunista Português de chamar à ratificação da Assembleia o Estatuto dos Militares das Forças Armadas e o regime remuneratório foi tomada numa conjuntura que importa relembrar.\n3334 I SÉRIE - NÚMERO 97", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "3334 I SÉRIE - NÚMERO 97", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "João Amaral", 
    "text": "A reforma dos estatutos militares- estava atrasada em muitos anos.\nAprovada a Lei de Defesa Nacional em Dezembro de 1982, sucederam-se vários ministros da Defesa (todos do PSD) e mais de seis anos até à aprovação, da Lei de Bases do Estatuto da Condição Militar, sobre proposta governamental. A Lei de Bases foi aprovada por esta Assembleia em 7 de Março de 1989 e fixou um prazo de seis meses para aprovação dos estatutos. No decurso do processo, o Governo comprometeu-se a consultar, previamente, a Comissão de Defesa Nacional. Não o fez! Foi uma quebra de compromisso, uma desconsideração e um erro. Talvez se tivesse evitado a publicação de normas num estatuto tão desastrosas.\nEsta publicação, do Estatuto teve um processo final de aprovação e publicação rodeado de boatos, de conflitos institucionais, de demissões, inclusive.\nO PCP anunciou, quando se gorou o trabalho prévio da Comissão, que chamaria o Estatuto à ratificação da Assembleia, tendo em vista o seu debate e a apresentação e aprovação de propostas de alteração. Isto significa que, no termo deste debate, não proporemos a revogação de todo o Estatuto. Proporemos, sim, a sua profunda alteração. O debate e votação das propostas de alteração será feito na Comissão de Defesa Nacional. O PCP propõe que a Comissão trabalhe nos meses de Julho e Setembro e conclua o seu trabalho até 30 de Setembro. Haverá, seguramente, muitas dezenas de propostas de alteração, o que obrigará a um trabalho intenso e relativamente prolongado.\nSobre os decretos-leis e o Estatuto importa dizer o seguinte: a primeira nota é a da falta de auscultação prévia, a falta de participação na sua elaboração. Ninguém ignora, por exemplo, a importância que teve a acção dos sargentos na equacionação dos problemas, na apresentação de propostas, na própria reclamação da aprovação dos estatutos. Tê-los ignorado no processo de elaboração, não ter criado os adequados mecanismos de participação, não podia conduzir a bons resultados. E não conduziu! \nO Estatuto pode definir-se como um diploma frustrante, antiquado, injusto e, limitativo. Frustrante das expectativas de melhoria de carreira e condições de vida: injusto, para além do mais, por violar direitos adquiridos; de concepção antiquada sobre a sociedade, as Forcas Armadas e o militar, limitativo no campo dos direitos (embora mãos largas no campo dos deveres).\nQuem esperasse encontrar no Estatuto uma doutrina, um enquadramento conceptual, pode desiludir-se. O Governo, que aprovou os estatutos, não sabia o que queria. Gastar menos é o único fio condutor visível em todo o diploma. O economicismo e o ,único critério de gestão do pessoal a que o Governo teve capacidade de recorrer. Não existe uma perspectiva de modernização e de inovação, de tomar as carreiras aliciantes, de valorizar a formação militar, de rasgar barreiras.\nPelo contrário, o Estatuto cortou caminhos; estabelece diferenciações inaceitáveis entre oficiais, por exemplo, da mesma formação, no que respeita às possibilidades de acesso a postos superiores; introduz uma enorme margem de arbítrio e falta de transparência de critérios de avaliação, portando de promoção; dificulta a comunicação e acesso a carreiras superiores; não define tempos máximos nem garante a progressão; bloqueia-o acesso e impede o rejuvenescimento; e é de uma fragilidade confrangedora na descrição de funções.\nNeste campo central do direito à carreira, à dignificação dos militares, o Estatuto é um mau documento, um documento que não presta.\nTem de se definir para onde vão as Forcas Armadas, qual a relevância da componente humana, como valorizá-la e dignificá-la Tudo o que o Estatuto não faz e por isso é necessário reformá-lo profundamente.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "João Amaral", 
    "text": "Vozes do PCP:- Muito bem!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: A aplicação - e esta é uma outra questão- sem garantias transitórias de várias normas a militares, na casa dos 30, 40 ou 50 anos, configura uma violência sobre as suas perspectivas pessoais e uma violação do acordo tácito de garantias com eles firmado quando abraçaram a carreira militar. É o que se passa, por exemplo, com as alterações relativas ao cálculo da pensão de reserva, com os limites agora impostos à situação de reserva, com o bloqueamento resultante da elevação dos limites da situação do activo. São estes os homens, na sua maioria, que fizeram a guerra de África e que fizeram a revolução.\nPretende-se puni-los? Porquê? Por terem feito a guerra ou por terem feito a revolução? \nEm toda esta área, de direitos fundamentais, perpassa um ambiente de desconfiança e de rejeição. A linguagem tende, por vezes, para a esotérica de uma «ordem militar» e não para a linguagem de umas Forças Armadas modernas, do fim do século XX. Formas de participação, como, por exemplo, os conselhos de armas, especialidades, ramos ou serviços, são encaradas ambiguamente, tendendo a ser esvaziadas de funções, enquanto outras são, pura e simplesmente, negadas, como é o caso do serviço militar obrigatório. O exercício de direitos aparece filtrado administrativamente. Por exemplo, o direito de acesso ao processo individual é inscrito com a fórmula equívoca de um requerimento apresentado fundamentadamente. Os conceitos mais inovadores da Lei de Bases do Estatuto da Condição Militar são «manhosamente» alterados, como é um bom exemplo o conselho de disciplina.\nO remate mais grave neste campo de direitos é o que consta do artigo 166.º e da sua previsão de umas sanções extraordinárias, como a reforma compulsiva e separação de serviços, aplicadas discricionariamente, sem discrição tipificada de qualquer infracção, sem as regras de processo disciplinar ou judicial. A inconstitucionalidade é óbvia e a violação dos direitos fundamentais é patente. Pergunta-se: como é que é possível apresentar tal norma? \nEstas, Srs. Deputados, são as notas mais sintéticas que, neste curto espaço dt tempo, é possível fazer ao diploma.\nO PCP entrega na Mesa um lote significativo de propostas (145, das quais 132 ao Estatuto e as restantes aos decretos-leis), mas isto não significa que estejamos satisfeitos com as nossas propostas. Queremos aperfeiçoá-las e desenvolvê-las no trabalho da Comissão Parlamentar, na audição de todos os que possam contribuir para que se faça um Estatuto moderno, estimulante, justo e dignificador. Apresentamos também propostas que respondem a pequenas reclamações. É justo fazê-lo. Um bom Estatuto tem de responder não só às grandes questões mas também à malha das situações dos agrupamentos mais pequenos, mais desprotegidos. Com um bom Estatuto, e a Assembleia da República pode fazê-lo, ganharão os militares, evidentemente, mas também as Forças Armadas e o País. É o que nos guia neste processo.", 
+   "speaker": "O Orador", 
+   "text": "A aplicação - e esta é uma outra questão- sem garantias transitórias de várias normas a militares, na casa dos 30, 40 ou 50 anos, configura uma violência sobre as suas perspectivas pessoais e uma violação do acordo tácito de garantias com eles firmado quando abraçaram a carreira militar. É o que se passa, por exemplo, com as alterações relativas ao cálculo da pensão de reserva, com os limites agora impostos à situação de reserva, com o bloqueamento resultante da elevação dos limites da situação do activo. São estes os homens, na sua maioria, que fizeram a guerra de África e que fizeram a revolução.\nPretende-se puni-los? Porquê? Por terem feito a guerra ou por terem feito a revolução? \nEm toda esta área, de direitos fundamentais, perpassa um ambiente de desconfiança e de rejeição. A linguagem tende, por vezes, para a esotérica de uma «ordem militar» e não para a linguagem de umas Forças Armadas modernas, do fim do século XX. Formas de participação, como, por exemplo, os conselhos de armas, especialidades, ramos ou serviços, são encaradas ambiguamente, tendendo a ser esvaziadas de funções, enquanto outras são, pura e simplesmente, negadas, como é o caso do serviço militar obrigatório. O exercício de direitos aparece filtrado administrativamente. Por exemplo, o direito de acesso ao processo individual é inscrito com a fórmula equívoca de um requerimento apresentado fundamentadamente. Os conceitos mais inovadores da Lei de Bases do Estatuto da Condição Militar são «manhosamente» alterados, como é um bom exemplo o conselho de disciplina.\nO remate mais grave neste campo de direitos é o que consta do artigo 166.º e da sua previsão de umas sanções extraordinárias, como a reforma compulsiva e separação de serviços, aplicadas discricionariamente, sem discrição tipificada de qualquer infracção, sem as regras de processo disciplinar ou judicial. A inconstitucionalidade é óbvia e a violação dos direitos fundamentais é patente. Pergunta-se: como é que é possível apresentar tal norma? \nEstas, Srs. Deputados, são as notas mais sintéticas que, neste curto espaço dt tempo, é possível fazer ao diploma.\nO PCP entrega na Mesa um lote significativo de propostas (145, das quais 132 ao Estatuto e as restantes aos decretos-leis), mas isto não significa que estejamos satisfeitos com as nossas propostas. Queremos aperfeiçoá-las e desenvolvê-las no trabalho da Comissão Parlamentar, na audição de todos os que possam contribuir para que se faça um Estatuto moderno, estimulante, justo e dignificador. Apresentamos também propostas que respondem a pequenas reclamações. É justo fazê-lo. Um bom Estatuto tem de responder não só às grandes questões mas também à malha das situações dos agrupamentos mais pequenos, mais desprotegidos. Com um bom Estatuto, e a Assembleia da República pode fazê-lo, ganharão os militares, evidentemente, mas também as Forças Armadas e o País. É o que nos guia neste processo.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -189,384 +188,339 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "7 DE JULHO DE 1990 3335", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado José Lello.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Lello.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): Sr. Presidente, Srs. Deputados: O Partido Socialista encarou sempre a problemática da defesa nacional com um elevado sentido de Estado, relevando o primado dos valores nacionais em detrimento de interesses sectoriais ou partidários.\nÉ assim que, nesta matéria, os socialistas têm privilegiado a eficácia do trabalho parlamentar, em sede de comissão especializada, a todo e qualquer tipo de especulação mediática, visando eventuais objectivos eleitoralistas ou conjunturais.\nDentro deste espírito, o PS colaborou activamente na elaboração da Lei de Bases Gerais do Estatuto da Condição Militar, onde iria prevalecer uma base consensual, na sua análise e votação.\nA tal ponto que, na decorrência desse debate, em tomo de um diploma que, naturalmente, se deveria constituir em matriz de referência para a subsequente elaboração da legislação complementar prevista no n.º 2 do artigo 27.º da Lei de Defesa Nacional e das Forças Armadas, o ministro da Defesa Nacional de então, em face do clima exemplar de trabalho e cooperação desenvolvido em sede de comissão, prometeu que enviaria o Estatuto dos Militares das Forças Armadas à apreciação daquela instância militar. Embora tal iniciativa legislativa constituísse matéria de competência governamental, o Sr. Ministro Eurico de Melo, perante os bons resultados anteriormente adquiridos, pretenderia, assim, suscitar a colaboração daquele orgão na elaboração de legislação tão complexa, quanto sensível.\nInfelizmente, porventura em razão dos sucessivos sobressaltos por que o Ministério passaria, tal promessa não iria ser cumprida e, assim, o estatuto seria aprovado à revelia de qualquer contributo parlamentar. O que foi pena, designadamente porque se poderiam ter evitado \nsubsequentes polémicas e mitigado tensões, visíveis na própria instituição militar.\nA eventual intervenção dos socialistas na feitura do citado Estatuto iria, necessariamente, contribuir para a sua compatibilização com os cenários de reestruturação em estudo, bem como com as implicações genéricas para a globalidade funcional das Forças Armadas decorrente das modalidades de cumprimento do serviço militar.\nNa verdade, a legislação enquadradora de uma política de defesa nacional pressuporia uma coerência mínima entre princípios conceptuais, esquemas estruturantes e medidas de carácter executivo.\nDaí que se não entenda lá muito bem como poderá prevalecer um Estatuto em natural consonância com as grandes linhas de orientação política de um ministro que, entretanto, sofreriam radical mutação, após a substituição do responsável pela pasta da defesa nacional. Estará, pois, ferida de qualquer coerência lógica a decisão governamental de ter alterado o Estatuto dos Militares das Forças Armadas, antes de se ter indicado com precisão qual o futuro das estruturas das Forças Armadas.\nQuer dizer, aprovou-se um novo Estatuto, para, logo de seguida, se sugerirem esquemas de reestruturação militar e se perspectivarem conceitos de serviço militar, que, a serem levados à prática, obviamente iriam contender ou, pelo menos, implicar com o estatuto dos militares visados em tais medidas.\nAcrescerá referir que alguns dos mais prementes problemas e \ncontradições do presente Estatuto poderiam ter sido eventualmente minimizados pela via da regulamentação legislativa. Todavia, desde 24 de Janeiro último, data da respectiva publicação, carece ainda de aprovação um amplo quadro de legislação complementar prevista no Estatuto.\nPara nós, a questão política de fundo reverte do facto de o Sr.Ministro da Defesa Nacional de então ter prometido que o Estatuto dos Militares das Forcas Armadas viria à apreciação da Assembleia da República antes da sua aprovação em Conselho de Ministros, promessa que não foi cumprida.\nA disponibilidade então manifestada pelo PS, no sentido de dar um contributo construtivo para a elaboração desse Estatuto, mantém-se, assim, inalterável, mau-grado os incumprimentos já citados.\nPor tudo isto, será desejável que o Estatuto dos Militares das Foiças Armadas seja objecto de adequadas alterações, que, julgamos, deverão ser efectuadas em sede da Comissão de Defesa Nacional.\nQuanto à questão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato dos três ramos das Forças Armadas, mau-grado a alegada pretensão de inovar, ao prever a possibilidade de aprovação de vencimentos, independentemente da promoção ao posto imediato, e de sugerir perspectivas de melhor gestão de pessoal, por um lado, e expectativas económicas e de carreira, por outro. O facto é que se encontra intimamente ligado à problemática dos novos estatutos militares. Daí decorre, como refere o preâmbulo do decreto-lei, a existência de uma interligação natural entre as opções relacionadas com as carreiras militares e as soluções prescritas para o sistema retributivo, relevando um equilíbrio coerente, designadamente tendo em vista a agregação às remunerações previstas na lei das subvenções específicas decorrentes da condição militar.\nAssim, sem pretender, em sede deste debate, abordar a questão específica do sistema retributivo das Forças Armadas, importará sublinhar o carácter de complementariedade existente entre o presente decreto-lei e o relativo aos estatutos militares das Forças Armadas, cujo pedido de ratificação está a ser apreciado.\nPor tudo isto, e porque a haver reponderação dos termos do referido Estatuto, o sistema remuneratório sofreria, necessariamente, as alterações inerentes.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Sr. Presidente, Srs. Deputados: O Partido Socialista encarou sempre a problemática da defesa nacional com um elevado sentido de Estado, relevando o primado dos valores nacionais em detrimento de interesses sectoriais ou partidários.\nÉ assim que, nesta matéria, os socialistas têm privilegiado a eficácia do trabalho parlamentar, em sede de comissão especializada, a todo e qualquer tipo de especulação mediática, visando eventuais objectivos eleitoralistas ou conjunturais.\nDentro deste espírito, o PS colaborou activamente na elaboração da Lei de Bases Gerais do Estatuto da Condição Militar, onde iria prevalecer uma base consensual, na sua análise e votação.\nA tal ponto que, na decorrência desse debate, em tomo de um diploma que, naturalmente, se deveria constituir em matriz de referência para a subsequente elaboração da legislação complementar prevista no n.º 2 do artigo 27.º da Lei de Defesa Nacional e das Forças Armadas, o ministro da Defesa Nacional de então, em face do clima exemplar de trabalho e cooperação desenvolvido em sede de comissão, prometeu que enviaria o Estatuto dos Militares das Forças Armadas à apreciação daquela instância militar. Embora tal iniciativa legislativa constituísse matéria de competência governamental, o Sr. Ministro Eurico de Melo, perante os bons resultados anteriormente adquiridos, pretenderia, assim, suscitar a colaboração daquele orgão na elaboração de legislação tão complexa, quanto sensível.\nInfelizmente, porventura em razão dos sucessivos sobressaltos por que o Ministério passaria, tal promessa não iria ser cumprida e, assim, o estatuto seria aprovado à revelia de qualquer contributo parlamentar. O que foi pena, designadamente porque se poderiam ter evitado \nsubsequentes polémicas e mitigado tensões, visíveis na própria instituição militar.\nA eventual intervenção dos socialistas na feitura do citado Estatuto iria, necessariamente, contribuir para a sua compatibilização com os cenários de reestruturação em estudo, bem como com as implicações genéricas para a globalidade funcional das Forças Armadas decorrente das modalidades de cumprimento do serviço militar.\nNa verdade, a legislação enquadradora de uma política de defesa nacional pressuporia uma coerência mínima entre princípios conceptuais, esquemas estruturantes e medidas de carácter executivo.\nDaí que se não entenda lá muito bem como poderá prevalecer um Estatuto em natural consonância com as grandes linhas de orientação política de um ministro que, entretanto, sofreriam radical mutação, após a substituição do responsável pela pasta da defesa nacional. Estará, pois, ferida de qualquer coerência lógica a decisão governamental de ter alterado o Estatuto dos Militares das Forças Armadas, antes de se ter indicado com precisão qual o futuro das estruturas das Forças Armadas.\nQuer dizer, aprovou-se um novo Estatuto, para, logo de seguida, se sugerirem esquemas de reestruturação militar e se perspectivarem conceitos de serviço militar, que, a serem levados à prática, obviamente iriam contender ou, pelo menos, implicar com o estatuto dos militares visados em tais medidas.\nAcrescerá referir que alguns dos mais prementes problemas e \ncontradições do presente Estatuto poderiam ter sido eventualmente minimizados pela via da regulamentação legislativa. Todavia, desde 24 de Janeiro último, data da respectiva publicação, carece ainda de aprovação um amplo quadro de legislação complementar prevista no Estatuto.\nPara nós, a questão política de fundo reverte do facto de o Sr.Ministro da Defesa Nacional de então ter prometido que o Estatuto dos Militares das Forcas Armadas viria à apreciação da Assembleia da República antes da sua aprovação em Conselho de Ministros, promessa que não foi cumprida.\nA disponibilidade então manifestada pelo PS, no sentido de dar um contributo construtivo para a elaboração desse Estatuto, mantém-se, assim, inalterável, mau-grado os incumprimentos já citados.\nPor tudo isto, será desejável que o Estatuto dos Militares das Foiças Armadas seja objecto de adequadas alterações, que, julgamos, deverão ser efectuadas em sede da Comissão de Defesa Nacional.\nQuanto à questão do regime remuneratório aplicável aos militares dos quadros permanentes e em regime de contrato dos três ramos das Forças Armadas, mau-grado a alegada pretensão de inovar, ao prever a possibilidade de aprovação de vencimentos, independentemente da promoção ao posto imediato, e de sugerir perspectivas de melhor gestão de pessoal, por um lado, e expectativas económicas e de carreira, por outro. O facto é que se encontra intimamente ligado à problemática dos novos estatutos militares. Daí decorre, como refere o preâmbulo do decreto-lei, a existência de uma interligação natural entre as opções relacionadas com as carreiras militares e as soluções prescritas para o sistema retributivo, relevando um equilíbrio coerente, designadamente tendo em vista a agregação às remunerações previstas na lei das subvenções específicas decorrentes da condição militar.\nAssim, sem pretender, em sede deste debate, abordar a questão específica do sistema retributivo das Forças Armadas, importará sublinhar o carácter de complementariedade existente entre o presente decreto-lei e o relativo aos estatutos militares das Forças Armadas, cujo pedido de ratificação está a ser apreciado.\nPor tudo isto, e porque a haver reponderação dos termos do referido Estatuto, o sistema remuneratório sofreria, necessariamente, as alterações inerentes.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Ângelo Correia.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Ângelo Correia.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Ângelo Correia* (PSD): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: É óbvia a desproporção entre o tempo distribuído a cada grupo parlamentar, de cinco minutos, para a discussão conjunta de dois diplomas e o conjunto das propostas de alteração apresentadas, quando apenas um só partido apresenta 145, o que significa a impossibilidade e a inadequação entre um tipo de debate desta natureza e o conteúdo do mesmo.\nÉ por isso, Sr. Presidente e Srs. Deputados, que, obviamente, o PSD não pode nem deve fazer uma análise de fundo às propostas de alteração apresentadas pela oposição. Mas também é óbvio que o PSD deve, nesta matéria, orientar a sua intervenção segundo dois critérios já anteriormente utilizados neste tipo de questões: o primeiro, tem a ver com a natureza destas questões. Foi tradição aceite, partilhada e vivida pelos órgãos insti-", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Ângelo Correia", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: É óbvia a desproporção entre o tempo distribuído a cada grupo parlamentar, de cinco minutos, para a discussão conjunta de dois diplomas e o conjunto das propostas de alteração apresentadas, quando apenas um só partido apresenta 145, o que significa a impossibilidade e a inadequação entre um tipo de debate desta natureza e o conteúdo do mesmo.\nÉ por isso, Sr. Presidente e Srs. Deputados, que, obviamente, o PSD não pode nem deve fazer uma análise de fundo às propostas de alteração apresentadas pela oposição. Mas também é óbvio que o PSD deve, nesta matéria, orientar a sua intervenção segundo dois critérios já anteriormente utilizados neste tipo de questões: o primeiro, tem a ver com a natureza destas questões. Foi tradição aceite, partilhada e vivida pelos órgãos insti- 3336 I SÉRIE - NÚMERO 97", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "3336 I SÉRIE - NÚMERO 97", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Ângelo Correia", 
    "text": "tucionais do País, nos últimos anos, que as matérias relevantes no domínio da defesa -que têm sempre o concurso de três órgãos de soberania, pelo menos, e; de instituição militar- tivessem uma sede, uma instância e uma moldura de abordagem que permitisse a todas pronunciarem-se.\nFoi e tem sido assim na maior parte da legislação, a tal ponto que até o próprio Conselho Superior de Defesa Nacional, órgão compósito dessas quatro instituições, tem, em ultima instância, e mesmo antes da vinda ao Parlamento - e às vezes, até, a seu pedido-, vindo a pronunciar-se sobre esse conjunto de questões. Estes são diplomas extremamente sensíveis, que tiveram, portanto, o concurso dos vários órgãos de soberania, e, se agora aceitássemos politicamente um conjunto de propostas de alteração, pelo número apresentado, 145 por parte de um partido e mais de 40 por parte de outro, que aconteceria? \nInevitavelmente alteraríamos radical e substantivamente este diploma.\nO que significa, Sr. Presidente e Srs. Deputados, que introduziríamos em Portugal uma prática operativa inovadora numa matéria onde a prática tem sido o contrário. Introduziríamos a prática de um trabalho parlamentar ao arrepio das outras sedes institucionais, onde o problema sempre foi modelado, discutido e abordado de modo a obter-se o consenso nacional institucional. O que aconteceria era que esta postura romperia com uma tradição positiva e consensual na vida portuguesa, que é tentarmos encontrar um acordo institucional entre os órgãos de soberania para a edificação do edifício que, em matéria de defesa nacional, é importante.\nMas esta ruptura com uma tradição correcta, positiva e necessária, que hoje nos é sugerida pela oposição, tem ainda uma outra dificuldade, para a qual tenho de chamar a atenção: ela fez-se e faz-se num diploma que teve repercussões políticas importantes em Portugal. Mais: em que as repercussões visíveis foram a ponta de um icebergue mais poderoso.\nTocar novamente, da forma como o estamos a fazer, remodelando algo que até se pode justificar que deva ser remodelado -e não nego essa necessidade-, mas fazê-lo num diploma que, como todos se lembram em Portugal, criou problemas sérios de relacionamento institucional, problemas de relação Forças Armadas/poder político e Forças \nArmadas/sociedade civil, tencionais e difíceis; penso que não é o método político mais adequado, isto é, estarmos a encontrar, via exclusivamente parlamentar, a metodologia razoável e oportuna para tocar num problema desta natureza.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Ângelo Correia", 
    "text": "Vozes do PSD:- Muito bem!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Sr. Presidente, Srs. Deputados: Não nego - e o PSD não nega- legitimidade, capacidade, competência e nacionalidade para os partidos da oposição apresentarem estas propostas de alteração. Longe de nós essa postura! O que está em causa é uma diferença de métodos e um método numa matéria diferente e sensível. Estaríamos, assim, a romper com um método que deu frutos, e o facto de o rompermos nesta matéria, nesta incidência e neste momento pode ser perturbador, não tanto para nós, mas, na generalidade, para a própria instituição militar.", 
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Srs. Deputados: Não nego - e o PSD não nega- legitimidade, capacidade, competência e nacionalidade para os partidos da oposição apresentarem estas propostas de alteração. Longe de nós essa postura! O que está em causa é uma diferença de métodos e um método numa matéria diferente e sensível. Estaríamos, assim, a romper com um método que deu frutos, e o facto de o rompermos nesta matéria, nesta incidência e neste momento pode ser perturbador, não tanto para nós, mas, na generalidade, para a própria instituição militar.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *João Amaral* (PCP): O ministro é que rompeu o método!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador:- É por isso, Sr. Presidente e Srs. Deputados, que faço uma sugestão ao Partido Comunista Português, ao Partido Socialista e ao Partido Renovador Democrático. Algumas das propostas que o senhores vão apresentar são, seguramente, aceitáveis, porque eu próprio tenho dúvidas sobre muitos aspectos do diploma aprovado pelo Governo em Dezembro. Acho que ele pode e deve ser francamente melhorado, mas também sei quais são os limites da acção política, pelo que a única solução que teríamos era a de que as propostas de alteração que os senhores hoje apresentam não fossem consideradas propostas de correcção do diploma mas, sim, um jogo de alertas deixados ao Governo, à Assembleia, ao Presidente da República e às instituições militares e um conjunto de reflexões, em voz alta e por via escrita, que significam a necessidade de mudança.\nMas, então, operemo-la, outra vez, através do mesmo processo que deu frutos no passado, ou seja, que as alterações que os senhores hoje aqui propõem sejam consideradas matéria de. reflexão para, num tempo próprio -de curto ou médio prazo-, e depois de algumas evoluções e de algumas concretizações que o próprio diploma já produziu, já fez produzir e vai produzir a curto prazo, o diploma poder ser globalmente revisto, não apenas na instância parlamentar, mas também nas outras instâncias institucionais onde o problema deve ser abordado.\nA minha sugestão é, pois, a seguinte: não discuto o fundo das vossas propostas, pois não é em cinco minutos que o poderia fazer, mas sobretudo não o quero fazer numa instância parlamentar, sem previamente ter uma moldura mais ampla e institucional onde o mesmo problema deva ser vertido e estudado.\nNão quero anular o conteúdo político das vossas propostas, quero é retirar-lhe o conteúdo legal, nesta Assembleia, mas quero também que fique a ideia, o alerta e a chamada de atenção para que, em momento próprio, o poder político, na tal moldura institucional mais ampla, e sobretudo, na sua interface com a instituição militar, possa abordar o problema de uma forma mais clara e mais sensível para o País.\nA minha proposta não é contra a vossa mas, sim, a de encontrar uma sede, mais sólida para que o trabalho político a favor do País possa ser mais positivo. É uma proposta que tem um sentido político de ajudar, mas que tem um sentido prático de não deixar auscultar o Parlamento numa situação de, sozinho, poder abordar uma questão que nunca abordou e que, por isso, não deve abordar.\nEsta a razão de não podermos aceitar as vossas propostas, embora reconheçamos que algumas iriam enriquecer o trabalho legislativo útil para o País, no entanto não é esta a instância, não é este o momento e não é esta a moldura própria para a edificação de um tal trabalho.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "O ministro é que rompeu o método!\nO Orador:- É por isso, Sr. Presidente e Srs. Deputados, que faço uma sugestão ao Partido Comunista Português, ao Partido Socialista e ao Partido Renovador Democrático. Algumas das propostas que o senhores vão apresentar são, seguramente, aceitáveis, porque eu próprio tenho dúvidas sobre muitos aspectos do diploma aprovado pelo Governo em Dezembro. Acho que ele pode e deve ser francamente melhorado, mas também sei quais são os limites da acção política, pelo que a única solução que teríamos era a de que as propostas de alteração que os senhores hoje apresentam não fossem consideradas propostas de correcção do diploma mas, sim, um jogo de alertas deixados ao Governo, à Assembleia, ao Presidente da República e às instituições militares e um conjunto de reflexões, em voz alta e por via escrita, que significam a necessidade de mudança.\nMas, então, operemo-la, outra vez, através do mesmo processo que deu frutos no passado, ou seja, que as alterações que os senhores hoje aqui propõem sejam consideradas matéria de. reflexão para, num tempo próprio -de curto ou médio prazo-, e depois de algumas evoluções e de algumas concretizações que o próprio diploma já produziu, já fez produzir e vai produzir a curto prazo, o diploma poder ser globalmente revisto, não apenas na instância parlamentar, mas também nas outras instâncias institucionais onde o problema deve ser abordado.\nA minha sugestão é, pois, a seguinte: não discuto o fundo das vossas propostas, pois não é em cinco minutos que o poderia fazer, mas sobretudo não o quero fazer numa instância parlamentar, sem previamente ter uma moldura mais ampla e institucional onde o mesmo problema deva ser vertido e estudado.\nNão quero anular o conteúdo político das vossas propostas, quero é retirar-lhe o conteúdo legal, nesta Assembleia, mas quero também que fique a ideia, o alerta e a chamada de atenção para que, em momento próprio, o poder político, na tal moldura institucional mais ampla, e sobretudo, na sua interface com a instituição militar, possa abordar o problema de uma forma mais clara e mais sensível para o País.\nA minha proposta não é contra a vossa mas, sim, a de encontrar uma sede, mais sólida para que o trabalho político a favor do País possa ser mais positivo. É uma proposta que tem um sentido político de ajudar, mas que tem um sentido prático de não deixar auscultar o Parlamento numa situação de, sozinho, poder abordar uma questão que nunca abordou e que, por isso, não deve abordar.\nEsta a razão de não podermos aceitar as vossas propostas, embora reconheçamos que algumas iriam enriquecer o trabalho legislativo útil para o País, no entanto não é esta a instância, não é este o momento e não é esta a moldura própria para a edificação de um tal trabalho.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Marques Júnior.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Marques Júnior.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Marques Júnior ,(PRD): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: A Assembleia da República é hoje chamada a \npronunciar-se sobre os decretos-lei que aprovam o Estatuto dos Militares das Forcas Armadas e o regime remuneratório dos militares das Forças Armadas.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: A Assembleia da República é hoje chamada a \npronunciar-se sobre os decretos-lei que aprovam o Estatuto dos Militares das Forcas Armadas e o regime remuneratório dos militares das Forças Armadas.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "7 DE JULHO DE 1990 3337", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "Antes de mais, parece-me importante sublinhar que esta discussão só é possível por iniciativa da Assembleia da República, através do pedido de ratificação n.º 110/V, apresentado pelo PCP, sendo, de certo modo, uma discussão de recurso.\nNa verdade, o Governo, através do Ministro da Defesa Nacional, tinha assumido o compromisso, aquando da aprovação da Lei de Bases do Estatuto da Condição Militar, de discutir, em sede da Comissão Parlamentar de Defesa Nacional, este Estatuto, compromisso esse que, em alguns casos, pode ter sido, inclusive, condicionador do próprio voto relativo àquele Estatuto da Condição Militar.\nEsta atitude, relacionada precisamente com a discussão do Estatuto dos Militares das Forças Armadas, contrasta, aliás, com a disponibilidade que o Ministério da Defesa Nacional tem tido para, em diálogo com a Assembleia da República, procurar encontrar as melhores soluções em tudo aquilo que se relacione com matéria de defesa nacional, em especial com as questões relacionadas com as Forças Armadas, parecendo compreender a sua especificidade implícita.\nÉ, pois, esta a oportunidade para tecer algumas considerações sobre tão importante diploma.\nJá por diversas vezes tenho afirmado -ainda recentemente o fiz em declaração política realizada nesta Câmara- que as Forças Armadas Portuguesas, que tantas provas tem dado da total identificação e dedicação à causa pública, identificando-se mesmo com a própria história- de Portugal, se vêem hoje confrontadas com uma certa ideia de desnecessidade que começa a persistir na opinião pública e que tem como reflexo, na própria instituição, a existência de uma grande frustração a todos os níveis.\nNinguém ignora que a carreira das Forças Armadas tem vindo rapidamente a degradar-se, com especial incidência nos últimos dez anos, fruto de contingências várias a que não é alheia uma falta de informação pública ou a existência de uma informação orientada no sentido do desprestígio da própria instituição castrense.\nNão é meu hábito procurar bodes expiatórios para esta situação, mas é evidente que a responsabilidade tem de ser imputada a quem detém os mecanismos de acção capazes de corrigir esta situação, ou seja, o Governo.\nNa verdade, para além dos discursos institucionais que os governantes fazem cheios de boas intenções, a prática aí está a demonstrar precisamente o contrário, procurando o Governo, demagogicamente, encontrar não soluções para os problemas, mas tomar ou anunciar com grande solenidade decisões que não têm em conta o correcto estudo dos problemas e as soluções adequadas a dirimi-los.\nA título de exemplo, ainda recentemente o Governo anunciava que iria reduzir o serviço militar obrigatório para quatro meses, e todos o aplaudiram. Os mais atentos diziam que tal decisão, tomada de forma desenquadrada, iria, de imediato, implicar um grande acréscimo orçamental, afirmando o Governo que não. No entanto, os estudos apontam o contrário, e o Governo toma a decisão, anunciada ontem, de diminuir os efectivos, a qual, aliás, não se entende muito bem, pois não se sabe o que é que o Governo pretende, uma vez que não foram ainda realizados os estudos adequados susceptíveis de permitir ao Governo, com base séria, dizer quais os efectivos e que efectivos pretende. Para fazer o quê? Para fazer como? \nEste é apenas um exemplo de como o Governo entende as questões relacionadas com as Forcas Armadas...\nOs diplomas que estamos a analisar são o exemplo acabado de que as decisões que estão a ser tomadas não têm em conta qualquer estudo integrado para as Forças Armadas. Com efeito, o próprio facto de se enunciar, no preâmbulo do Decreto-Lei n.º 34-A/90, a pretensão de se contribuir para a estabilização dos quadros em detrimento do seu rejuvenescimento, para justificar as alterações dos limites de idade, veio tão-somente trazer a instabilidade geral, vindo, inclusive, ao arrepio da intenção, várias vezes manifestada, no sentido de redimensionar, reestruturar e reorganizar as Forças Armadas.\nCom efeito, no Estatuto dos Militares das Forças Armadas, em vez de se apontar para soluções correspondentes a uma política de reestruturação, redimensionamento e rejuvenescimento das Forcas Armadas, que se querem modernas e eficazes, aprovou-se uma série de normas que, pelo contrário, são totalmente incompatíveis com esses desígnios, tantas vezes anunciados, mas nunca postos em prática.\nEfectivamente, num momento em que se fala em desmobilizar -e talvez seja necessário fazê-lo através da redução de contingentes-, em vez de incentivar a saída de quadros menos jovens, como se faz em qualquer país nesta situação, cria-se uma série de condicionamentos que irão provocar nos quadros um desejo e uma procura de prolongamento do serviço activo pelo maior espaço de tempo possível.\nAcresce que, relativamente aos militares na situação de reserva, se aprova uma série de soluções que põem claramente em causa muitos direitos adquiridos, modificando profundamente as condições existentes relativamente aos que transitaram para essa situação, quer por decisão própria, quer por atingirem os limites de idade.\nPor outro lado, se as alterações da idade de reforma - unicamente, no momento actual, para os militares - já por si representam a vontade política de prejudicar os militares dos quadros permanentes, o recurso à figura de nove anos na reserva para a passagem compulsiva àquela situação traduz uma forma subtil de condenar aqueles que fizeram a guerra e tiveram o reconhecimento por tal através do aumento compensatório do tempo de serviço. É que, se em todas as instituições, o aumento do tempo de serviço representa a compensação do desgaste, ele parece ter-se transformado, nas Forças Armadas, em mais um aviltamento em decorrência da guerra injusta em que participaram. Só assim se entende que, administrativa? mente, «se obrigue» à permanência de militares no serviço, mesmo que envelhecidos prematuramente.\nRelativamente aos militares, o custo de 14 anos de guerra parece ser um ajuste de contas: eles, os militares, que paguem os custos da guerra que eles, os políticos, os obrigaram a fazer!...\nTenho naturalmente mais dificuldade em falar no estatuto remuneratório dos militares, não porque não seja, quer comparado com outros regimes remuneratórios quer comparado com a especificidade da função militar, um regime injusto para os militares, mas porque se tem criado a ideia de que os militares só pensam em dinheiro e ligam o aumento do prestígio a melhores remunerações.\nTrata-se de acusações sem sentido, vindas de pessoas que não têm outros argumentos ou que desconhecem a situação real das Forças Armadas.\nA correlação entre o Estatuto dos Militares das Forcas Armadas e o regime remuneratório é evidente. As chamadas carreiras horizontais subjacentes ao Estatuto vieram substituir a carreira vertical específica da condição", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "3338 I SÉRIE - NÚMERO 97", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "militar. E se são justos vários escaldes de vencimentos nos diversos postos, é aviltante que se procure fazer crer que o que os militares querem é dinheiro, limitando-se a carreira vertical com a desculpa da existência da carreira horizontal.\nHá, no novo regime remuneratório; um tratamento que uma vez mais não tem em conta a especificidade da função militar, procurando, além disso, criar um fosso entre os militares, favorecendo, de forma perfeitamente desajustada, os mais altos postos da hierarquia, com prejuízo evidente para todas as outras classes e que corresponde a uma filosofia que ignora (ou não) o entendimento que sempre existiu entre os militares e que, simultaneamente, se relaciona com o princípio óbvio da hierarquia e com a responsabilidade e autoridade delegadas em todos os escalões de comando.\nEm sede de especialidade, teremos propostas concretas que permitirão justificar e perspectivar novas soluções.\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: quem ler o preâmbulo do Decreto-Lei n.º 34-A/90, fica com a ideia de que as Forcas Armadas são uma instituição valorizada e considerada, quando - aquele estabelece que a instituição militar tem uma natureza especial sujeita a riscos inerentes ao cumprimento das missões, indiciando a necessidade de fixação de princípios deontológicos e éticos próprios. No entanto, todo o articulado do diploma tem subjacente a ideia de que as Forças Armadas são um fardo que há que ir suportando não se sabe até quando.\nMais uma vez a teoria e a prática, o discurso e a acção, são diferentes e muitas vezes antagónicos, procurando apenas iludir a opinião pública.\nO Governo não pode ignorar o desprestígio cada vez mais acentuado da instituição militar.\nA desmotivação e a frustração são os sentimentos que animam a generalidade dos militares dos quadros permanentes. Por conseguinte, há que fazer algo, e depressa, para inverter esta situação. No entanto, julga-se que a particular problemática do Estatuto não poderá desenquadrar-se de uma perspectiva mais ampla, porque, na realidade, ela resulta de uma situação estrutural que tem vindo a afectar as Forças Armadas em matéria de prestígio interno e externo.\nVerdadeiramente esperamos e desejamos que seja' ainda possível corrigir os aspectos mais gravosos destes diplomas, sendo nesse sentido que irei apresentar algumas dezenas de propostas de alteração, através delas se podendo ver melhor o nosso entendimento relativamente ao Estatuto dos Militares das Forças Armadas. Fazemo-lo com o único objectivo de dar o nosso contributo para que se encontre, não o Estatuto ideal que satisfaça todos os militares, mas um Estatuto que procure, \nsimultaneamente, dignificar e responsabilizar as Forças Armadas e que permita perspectivar umas Forças Armadas modernas, eficientes e identificadas, plena e permanentemente, com o sentir do povo português, que é um desejo das Forças Armadas e deveria ser - quero crer que seja - um objectivo do Governo.", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
    "text": "Aplausos do PRD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr.Secretário de Estado-Adjunto do Ministro da Defesa Nacional.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr.Secretário de Estado-Adjunto do Ministro da Defesa Nacional.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Secretário de Estado-Adjunto do Ministro da Defesa Nacional (Eugénio Ramos): Sr. Presidente; Srs. Deputados: É manifesta, tal como disse o Sr. Deputado Ângelo Correia, a insuficiência de cinco minutos para se tratar destas questões. Sem prejuízo de me mostrar, globalmente, de acordo com o sentido da intervenção, entendo, todavia, que se justifica fazer um conjunto de considerações sobre esta matéria.\nO Estatuto dos Militares das Forças Armadas foi aprovado na sequência de um trabalho conjunto, que deu origem à aprovação das bases gerais do Estatuto da Condição Militar. O novo sistema retributivo dos militares foi aprovado em estreita articulação com este Estatuto e no âmbito de um processo global de restruturação do sistema remuneratório da Administração Pública e, de uma forma mais global, dos servidores do Estado.\nEsta visão articulada tinha por objectivo proporcionar melhores condições de gestão dos recursos humanos no âmbito das Forças Armadas, adequar a legislação à situação real e dignificar, de uma forma global, o estatuto dos militares.\nNa altura, o Governo entendeu que a situação vigente não era adequada e corrigiu-a Entende agora que importa pôr em aplicação a legislação aprovada e, assim, corrigir, progressivamente, as suas eventuais insuficiências à medida que, na prática, elas forem sendo comprovadas.\nTem vindo a lume um conjunto de criticas que, em nosso entender, não se justifica na sua globalidade. Pensamos que o que é importante é garantir um quadro de estabilidade às Forças Armadas e não andar a arrastar decisões, que apenas significam que, mês após mês, nós não temos a certeza absoluta de qual a legislação por que nos regemos.\nNo âmbito dessas criticas que têm vindo a lume, destacaria aquilo que se pode considerar o «canto da sereia». Estamos imunes a esse canto, mas não gostaria de deixar passar em aberto uma pequena observação: é que algumas dessas sereias tiveram responsabilidades, competências e capacidades de intervenção política, militar e legislativa desde 1974 a 1982; não resolveram nenhum dos problemas estruturais das Forças Armadas; fizeram correcções pontuais, que, em muitos casos, ainda agravaram mais esses problemas. Agora, aos seus cânticos, juntam lágrimas de crocodilo. Pretende-se,, sobretudo, a paralização da legislação, bem como de tudo o resto. Esquecem-se que o mundo está a mudar e, por muito que isso custe a alguns, para melhor.\nFalam em dignificação. Só falam, mas, entretanto, o Governo realiza! \nFalam em dignificação em relação aos militares que se encontram no activo, na situação de reserva, na situação de reforma, mas não se dignifica a situação do activo quando, aos í 53 anos, se diz a um militar que já não está capaz de ocupar um lugar de quadro e que tem de dar lugar a outros; não se dignifica a instituição militar quando se duplica o número de efectivos necessários em alguns postos; não se dignifica a função militar quando se reduz a metade de uma carreira normal o tempo mínimo de permanência dos postos para se ascender ao posto superior; não se dignifica o conceito e a situação de reserva, que, como todos nós sabemos, foi instituído para que as Forças Armadas possam crescer por mobilização e por convocação e para que possam ter uma reserva permanente de militares disponíveis para exercer a actividade; não se dignifica a carreira militar quando se entende que se deve continuar a fazer transitar para a reserva militar todos aqueles que foram objecto de uma punição em processo disciplinar ou aqueles que foram considerados por uma junta médica total e \npermanentemente incapazes para o serviço.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente; Srs. Deputados: É manifesta, tal como disse o Sr. Deputado Ângelo Correia, a insuficiência de cinco minutos para se tratar destas questões. Sem prejuízo de me mostrar, globalmente, de acordo com o sentido da intervenção, entendo, todavia, que se justifica fazer um conjunto de considerações sobre esta matéria.\nO Estatuto dos Militares das Forças Armadas foi aprovado na sequência de um trabalho conjunto, que deu origem à aprovação das bases gerais do Estatuto da Condição Militar. O novo sistema retributivo dos militares foi aprovado em estreita articulação com este Estatuto e no âmbito de um processo global de restruturação do sistema remuneratório da Administração Pública e, de uma forma mais global, dos servidores do Estado.\nEsta visão articulada tinha por objectivo proporcionar melhores condições de gestão dos recursos humanos no âmbito das Forças Armadas, adequar a legislação à situação real e dignificar, de uma forma global, o estatuto dos militares.\nNa altura, o Governo entendeu que a situação vigente não era adequada e corrigiu-a Entende agora que importa pôr em aplicação a legislação aprovada e, assim, corrigir, progressivamente, as suas eventuais insuficiências à medida que, na prática, elas forem sendo comprovadas.\nTem vindo a lume um conjunto de criticas que, em nosso entender, não se justifica na sua globalidade. Pensamos que o que é importante é garantir um quadro de estabilidade às Forças Armadas e não andar a arrastar decisões, que apenas significam que, mês após mês, nós não temos a certeza absoluta de qual a legislação por que nos regemos.\nNo âmbito dessas criticas que têm vindo a lume, destacaria aquilo que se pode considerar o «canto da sereia». Estamos imunes a esse canto, mas não gostaria de deixar passar em aberto uma pequena observação: é que algumas dessas sereias tiveram responsabilidades, competências e capacidades de intervenção política, militar e legislativa desde 1974 a 1982; não resolveram nenhum dos problemas estruturais das Forças Armadas; fizeram correcções pontuais, que, em muitos casos, ainda agravaram mais esses problemas. Agora, aos seus cânticos, juntam lágrimas de crocodilo. Pretende-se,, sobretudo, a paralização da legislação, bem como de tudo o resto. Esquecem-se que o mundo está a mudar e, por muito que isso custe a alguns, para melhor.\nFalam em dignificação. Só falam, mas, entretanto, o Governo realiza! \nFalam em dignificação em relação aos militares que se encontram no activo, na situação de reserva, na situação de reforma, mas não se dignifica a situação do activo quando, aos í 53 anos, se diz a um militar que já não está capaz de ocupar um lugar de quadro e que tem de dar lugar a outros; não se dignifica a instituição militar quando se duplica o número de efectivos necessários em alguns postos; não se dignifica a função militar quando se reduz a metade de uma carreira normal o tempo mínimo de permanência dos postos para se ascender ao posto superior; não se dignifica o conceito e a situação de reserva, que, como todos nós sabemos, foi instituído para que as Forças Armadas possam crescer por mobilização e por convocação e para que possam ter uma reserva permanente de militares disponíveis para exercer a actividade; não se dignifica a carreira militar quando se entende que se deve continuar a fazer transitar para a reserva militar todos aqueles que foram objecto de uma punição em processo disciplinar ou aqueles que foram considerados por uma junta médica total e \npermanentemente incapazes para o serviço.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "7 DE JULHO DE 1990 3339", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "Diz-se que se quer dignificar a situação de reserva, mas o que se está a fazer é, ao fim e ao cabo, a aviltá-la e a negá-la nos seus fundamentos.\nO Governo, ao alterar a legislação, fez exactamente o contrário, porque, apesar de estabelecer uma distinção permanente entre situações de reserva e de reforma, não prejudicou, de forma nenhuma, \ndesignadamente do ponto de vista remuneratório, as situações que alterou. Inclusivamente, todos os militares que, por doença adquirida em serviço, sejam considerados permanentemente incapazes mantêm a situação de reforma extraordinária, portanto não passam, pura e simplesmente, para uma situação de pensão de invalidez.\nDa mesma forma, e de acordo com os estudos feitos -e reconhecidos hoje unanimamente -, é difícil aceitar que um militar que foi afastado seis, sete anos das fileiras esteja capaz de assumir a actividade. Nós fomos mais longe, já que permitimos uma situação de reserva que se mantenha, durante nove anos, numa situação transitória de dez anos. Mas, contrariamente àquilo que já ouvimos aqui hoje dizer no sentido de condenar quem fez a guerra, o que mudou não mudou no sentido de prejudicar ninguém, porque, em termos de prejuízos, só é admissível que entendamos a situação do ponto de vista remuneratório, uma vez que não existe outra. Este aspecto não foi, nem sequer ao de leve, tocado.\nCreio que a reforma não se dignifica quando se faz dela a situação para a qual os militares apenas a querem em última instância e como último recurso mas, antes, quando se criam condições para a melhoria e para o melhor acompanhamento das pensões de reforma, face à situação do activo. Foi por isso mesmo que ainda muito recentemente, ontem mesmo, o Governo, ao mesmo tempo que aprovou o diploma que fixa os quadros permanentes das Forcas Armadas, aprovou um fundo de pensões, que vai permitir a atribuição de complementos de reforma e atingir situações de indexação das pensões de reforma dos militares dos quadros permanentes.\nQuanto ao novo sistema retributivo, penso, sem sombra de dúvidas, que é preciso ter uma visão muito curta quando apenas se pensa na situação a curto prazo, ou seja, nos aumentos imediatos e na forma de transição. O novo sistema retributivo é muito mais do que isso! Foi uma reforma estrutural e vai ter amplas e benéficas consequências a médio e a longo prazo no que respeita à gestão dos recursos humanos.\nTal como referi, o Governo acaba de aprovar alguns dos principais diplomas decorrentes do Estatuto dos Militares das Forcas Armadas, tais como os quadros de natureza transitória, como o estatuto provisório prevê. Os estudos que estão a ser feitos levarão à conclusão de quais vão ser os quadros definitivos a aprovar em 1992, para vigorarem a partir de 1993. São, certamente, quadros inferiores aos quadros anteriores, na medida em que foram quadros dimensionados para as necessidades de um conflito em África, o que, felizmente, não acontece hoje. A aprovação deste quadro integra-se dentro da política global do Governo: «menos e melhor». A flexibilidade adequada para que não se criem bloqueamentos de carreiras foi também instituída e o sistema de promoções está, apesar de tudo, garantido.\nOs incentivos para uma reforma antecipada significam que, conjuntamente com o fundo de pensões, estamos a continuar a estimular um \ndescongestionamento de quadros, que todos julgamos e cremos necessário.\nO fundo de pensões é manifestamente inovador no âmbito da administração central do Estado, e outros certamente se seguirão para completarmos a terceira vertente da Segurança Social. Às pensões sociais e às pensões no âmbito da Segurança Social por motivo da cessação da prestação de trabalho irão juntar-se outras, fruto da participação voluntária e previdente dos próprios militares nesta primeira fase e, certamente, de muitos funcionários públicos que se lhes seguirão.\nComo disse, tivemos o cuidado de, com as medidas transitórias adequadas, evitar que se criassem situações de bloqueio. Segue-se todo um conjunto de legislação, que está, neste momento, em preparação final, relativa à mobilização e requisição, à alteração da lei do serviço militar após o termo dos estudos em curso, face à redução do serviço militar obrigatório, que, apesar daquilo que hoje aqui ouvimos, não significa necessariamente os valores em termos de acréscimo orçamental que têm vindo a lume, até porque o estudo fez-se com base no sistema de forças e grau de prontidão hoje definido, e, certamente, estes valores vão ser redefinidos, no futuro.\nPara continuar todo o pacote de legislação complementar, no que respeita ao estatuto dos militares e ao novo sistema retributivo, precisamos de estabilidade. Ora, esta estabilidade legislativa não se obtém com a indefinição a que a aprovação desta proposta levaria.\nNaturalmente, trata-se de matéria que compete à Assembleia da República, mas o Governo entende que não deve fugir ao diálogo. Aliás, ainda há dois dias, o Governo deu aqui provas de que pretende esclarecer os assuntos que, do seu ponto de vista, considera mais duvidosos-estou a referir-me, como sabem, ao regime jurídico das queixas dos militares para o Provedor de Justiça.\nQuanto a este diploma, apesar de admitirmos que possam vir a verificar-se algumas insuficiências legais na sequência da aprovação e da aplicação prática dos estatutos, temos a consciência e a certeza de que, globalmente, se trata de um diploma extraordinariamente positivo.\nMais tarde, no âmbito da concertação institucional, que já hoje foi aqui referida, haverá, eventualmente, lugar para colmatar estas insuficiências.\nSe me permitem, Sr. Presidente e Srs. Deputados, gostaria de terminar referindo duas ou três questões pontuais que aqui foram focadas.\nOuvi referir os direitos e os deveres que constam do Estatuto. Deixo apenas uma pergunta: será que quem referiu este assunto contou quantos são os artigos que definem deveres e quantos são os que regulamentam direitos, num total de 489 artigos? \nOuvi também referir que o Governo está a mudar a legislação sem ter em atenção a legislação que vigorava na altura, em que os militares ingressaram nos quadros permanentes. Pergunto: que tempos médios de promoção vigoravam nessa altura? Como se calculavam as pensões de reserva e como se calculam hoje? Certamente, é muito mais favorável a situação que presentemente se vive.", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Marques Júnior* (PRD): Sr. Presidente, peço a palavra para usar a figura regimental de defesa da honra.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Marques Júnior", 
+   "text": "Sr. Presidente, peço a palavra para usar a figura regimental de defesa da honra.", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, antes de dar a palavra ao Sr.Deputado Marques Júnior, informo que deu entrada na Mesa um \nrequerimento, apresentado pelo PSD, no sentido de se passar à discussão e votação, na espe-", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, antes de dar a palavra ao Sr.Deputado Marques Júnior, informo que deu entrada na Mesa um \nrequerimento, apresentado pelo PSD, no sentido de se passar à discussão e votação, na espe- 3340 I SÉRIE - NÚMERO 97", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "3340 I SÉRIE - NÚMERO 97", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "cialidade, das propostas de alteração aos Decretos-Leis n.º 34-A/90 e 57/90.\nOra, como isto significa a distribuição de várias fotocópias, logo que o Sr. Deputado Marques Júnior, que se inscreveu para defesa da honra, exerça o seu direito e que o Sr. Secretário de Estado dê as explicações que entender, pedindo naturalmente que sejam respeitados o princípio e a letra do Regimento, interrompo a sessão por alguns minutos, para que possa ser feita a distribuição das propostas em causa.\nPara defesa da honra, tem a palavra o Sr. Deputado Marques Júnior.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Marques Júnior* (PRD): Sr. Presidente, Srs. Deputados: Não gostaria de utilizar a figura da defesa da honra ou consideração - que, aliás, nunca utilizei nesta Casa- de forma desajustada e desadequada, mas penso que, apesar de tudo, vou fazê-lo, pedindo desculpa ao Sr.Presidente e aos colegas das restantes bancadas.\nCreio que posso enquadrar isto em termos da defesa da consideração, porque o Sr. Secretário de Estado fez uma alusão - e «quem não se sente não é filho de boa gente»! -, e, no que disse, há um recado para mim, não em lermos individuais, mas para o órgão institucional do qual fiz parte e que, em determinada altura, teve competência para legislar em matéria militar.\nPermito-me explicar ao Sr. Secretário de Estado aquilo que, certamente, já sabe, ou seja, a seguir ao 25 de Abril, e como consequência da revolução, muitas coisas foram feitas em termos das Forças Armadas, como sabe. Certamente que o senhor não ignora que as Forças Armadas estavam presentes em cinco ex-colónias, tinham três teatros de operações em guerra, com um efectivo de mais de 200 000 homens em armas e foi necessário fazer muita coisa no sentido de eliminar e adequar essa situação a uma estrutura territorial no continente.\nFoi necessário planear e preparar os militares para as novas funções que irão ser chamados a desempenhar, tendo sido um trabalho muito difícil. Apesar de tudo, a autonomia que o Conselho da Revolução detinha em termos de legislação militar, como o Sr. Secretário de Estado sabe, era relativa, pois nós não podíamos legislar em nenhuma matéria que implicasse aumento de um tostão relativamente a despesas ou diminuísse um tostão de receitas. Portanto, a limitação era grande e criava uma alguma incapacidade de legislar de forma adequada.\nNo entanto, reconheço que, nessa altura, «a quente», talvez se pudesse ter feito mais do que aquilo que se fez. Mas, Sr. Secretário de Estado, é preciso lembrar que havia condições que não existem hoje: havia condições políticas supervenientes que tinham de ser tomadas em conta, sob o perigo de as decisões políticas ou militares que se tomassem virem a degenerar em conflitos de consequências imprevisíveis.\nNós, de facto, defrontámo-nos com uma situação desse tipo logo a seguir ao 25 de Abril, e ainda durante alguns anos, situação que, felizmente, o actual governo, já desde há alguns anos, não tem de enfrentar, estando, pois, em muito melhores condições para tomar as medidas, mas - pressupõe-se- medidas correctas e adequadas, e não medidas ao arrepio daquilo que deve ser tomado. Uma das coisas que mais condeno neste governo -já o disse várias vezes e acabei de dizê-lo na minha intervenção- é ter uma teoria diferente da prática. O Sr. Secretário de Estado disse, na sua intervenção, que não se dignificam as Forças Armadas fazendo «isto», «aquilo» ou «aqueloutro». Concordo com tudo o que o Sr. Secretário de Estado disse, só que apenas leu o preâmbulo do Estatuto, quando a questão fundamental não é o preâmbulo mas, sim, o articulado. Eu também concordo com o preâmbulo, mas o Sr. Secretário de Estado tem de ler o texto para além do preâmbulo.\nDisse o Sr. Secretário de Estado uma coisa que gostaria de sublinhar, por me parecer importante. Como deu a entender que não há violação de direitos adquiridos, quero crer que tal facto ficará subjacente em tudo o que vier a seguir na interpretação que se fizer deste Estatuto, ou seja, que, na prática, os militares não verão violados os seus direitos adquiridos. Isso é uma profissão de. fé feita pelo Sr. Secretário de Estado; que penso ser muito importante, até porque relativamente à própria interpretaçâo do Estatuto pode colocar-se a dúvida num ou noutro sentido. O problema da interpretação é também muito relevante, admitindo eu até que haja interpretações menos correctas ou menos adequadas do próprio Estatuto. Sc a interpretaçâo do Sr. Secretário de Estado, que é quem tem o poder de emitir a interpretação correcta, é no sentido de não se violarem os direitos adquiridos, não há qualquer problema.\nQuanto, ao fundo de pensões, creio que esse é exactamente um exemplo que está em contradição com isto. É que, segundo deduzo do Estatuto, o fundo de pensões procura substituir os militares naquilo que hoje é uma responsabilidade do Governo, o que penso ser, de facto, uma violação de direitos adquiridos. Até agora as situações eram suportadas pelo Governo em termos de Orçamento do Estado, mas agora o Governo pretende que esses subsídios e compensações sejam suportados pelos militares.\nCreio que isso constitui violação de um direito adquirido. Se assim não for, tanto melhor.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Marques Júnior", 
+   "text": "Sr. Presidente, Srs. Deputados: Não gostaria de utilizar a figura da defesa da honra ou consideração - que, aliás, nunca utilizei nesta Casa- de forma desajustada e desadequada, mas penso que, apesar de tudo, vou fazê-lo, pedindo desculpa ao Sr.Presidente e aos colegas das restantes bancadas.\nCreio que posso enquadrar isto em termos da defesa da consideração, porque o Sr. Secretário de Estado fez uma alusão - e «quem não se sente não é filho de boa gente»! -, e, no que disse, há um recado para mim, não em lermos individuais, mas para o órgão institucional do qual fiz parte e que, em determinada altura, teve competência para legislar em matéria militar.\nPermito-me explicar ao Sr. Secretário de Estado aquilo que, certamente, já sabe, ou seja, a seguir ao 25 de Abril, e como consequência da revolução, muitas coisas foram feitas em termos das Forças Armadas, como sabe. Certamente que o senhor não ignora que as Forças Armadas estavam presentes em cinco ex-colónias, tinham três teatros de operações em guerra, com um efectivo de mais de 200 000 homens em armas e foi necessário fazer muita coisa no sentido de eliminar e adequar essa situação a uma estrutura territorial no continente.\nFoi necessário planear e preparar os militares para as novas funções que irão ser chamados a desempenhar, tendo sido um trabalho muito difícil. Apesar de tudo, a autonomia que o Conselho da Revolução detinha em termos de legislação militar, como o Sr. Secretário de Estado sabe, era relativa, pois nós não podíamos legislar em nenhuma matéria que implicasse aumento de um tostão relativamente a despesas ou diminuísse um tostão de receitas. Portanto, a limitação era grande e criava uma alguma incapacidade de legislar de forma adequada.\nNo entanto, reconheço que, nessa altura, «a quente», talvez se pudesse ter feito mais do que aquilo que se fez. Mas, Sr. Secretário de Estado, é preciso lembrar que havia condições que não existem hoje: havia condições políticas supervenientes que tinham de ser tomadas em conta, sob o perigo de as decisões políticas ou militares que se tomassem virem a degenerar em conflitos de consequências imprevisíveis.\nNós, de facto, defrontámo-nos com uma situação desse tipo logo a seguir ao 25 de Abril, e ainda durante alguns anos, situação que, felizmente, o actual governo, já desde há alguns anos, não tem de enfrentar, estando, pois, em muito melhores condições para tomar as medidas, mas - pressupõe-se- medidas correctas e adequadas, e não medidas ao arrepio daquilo que deve ser tomado. Uma das coisas que mais condeno neste governo -já o disse várias vezes e acabei de dizê-lo na minha intervenção- é ter uma teoria diferente da prática. O Sr. Secretário de Estado disse, na sua intervenção, que não se dignificam as Forças Armadas fazendo «isto», «aquilo» ou «aqueloutro». Concordo com tudo o que o Sr. Secretário de Estado disse, só que apenas leu o preâmbulo do Estatuto, quando a questão fundamental não é o preâmbulo mas, sim, o articulado. Eu também concordo com o preâmbulo, mas o Sr. Secretário de Estado tem de ler o texto para além do preâmbulo.\nDisse o Sr. Secretário de Estado uma coisa que gostaria de sublinhar, por me parecer importante. Como deu a entender que não há violação de direitos adquiridos, quero crer que tal facto ficará subjacente em tudo o que vier a seguir na interpretação que se fizer deste Estatuto, ou seja, que, na prática, os militares não verão violados os seus direitos adquiridos. Isso é uma profissão de. fé feita pelo Sr. Secretário de Estado; que penso ser muito importante, até porque relativamente à própria interpretaçâo do Estatuto pode colocar-se a dúvida num ou noutro sentido. O problema da interpretação é também muito relevante, admitindo eu até que haja interpretações menos correctas ou menos adequadas do próprio Estatuto. Sc a interpretaçâo do Sr. Secretário de Estado, que é quem tem o poder de emitir a interpretação correcta, é no sentido de não se violarem os direitos adquiridos, não há qualquer problema.\nQuanto, ao fundo de pensões, creio que esse é exactamente um exemplo que está em contradição com isto. É que, segundo deduzo do Estatuto, o fundo de pensões procura substituir os militares naquilo que hoje é uma responsabilidade do Governo, o que penso ser, de facto, uma violação de direitos adquiridos. Até agora as situações eram suportadas pelo Governo em termos de Orçamento do Estado, mas agora o Governo pretende que esses subsídios e compensações sejam suportados pelos militares.\nCreio que isso constitui violação de um direito adquirido. Se assim não for, tanto melhor.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Hermínio Martinho* (PRD): Muito bem!", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Hermínio Martinho", 
+   "text": "Muito bem!", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para dar explicações, tem a palavra o Sr.Secretário de Estado-Adjunto do Ministro da Defesa Nacional.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para dar explicações, tem a palavra o Sr.Secretário de Estado-Adjunto do Ministro da Defesa Nacional.\nO Sr. *Secretário* de Estado-Adjunto do Ministro da Defesa Nacional: - Sr. Deputado Marques Júnior, a minha observação de uma instituição vigente entre 1974 e 1982 interpretou-a correctamente. Não se trata de uma crítica pessoal mas, sim, institucional. Trata-se, sobretudo, de estabelecer a relação entre aquilo que não foi feito na altura e aquilo que alguns - e, como o Sr. Deputado muito bem sabe, não o incluo nesses alguns - fazem hoje em dia quanto a problemas que, naturalmente, conhecem muito menor do que os civis e que tiveram oito anos para resolver, mas não resolveram. Tentámos pelo menos, em consonanciar com as chefias militares e com a audiência dos interessados, através dos mecanismos específicos que são próprios da instituição, resolver esses problemas.\nEsclareço, em segundo lugar, que não haverá violação de direitos adquiridos. As suas interpretações nesta matéria são correctas e adequadas.\nJá quanto ao fundo de pensões o Sr. Deputado fez uma interpretação totalmente incorrecta. O que consta do decreto-lei que aprova o Estatuto dos Militares das Forças Armadas, no que toca ao fundo de pensões, é que de terá por objectivo pagar dois tipos perfeitamente distintos de complementos. Um desses complementos deriva do facto de se garantir a quem passar à situação de reforma", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* de Estado-Adjunto do Ministro da Defesa Nacional: - Sr. Deputado Marques Júnior, a minha observação de uma instituição vigente entre 1974 e 1982 interpretou-a correctamente. Não se trata de uma crítica pessoal mas, sim, institucional. Trata-se, sobretudo, de estabelecer a relação entre aquilo que não foi feito na altura e aquilo que alguns - e, como o Sr. Deputado muito bem sabe, não o incluo nesses alguns - fazem hoje em dia quanto a problemas que, naturalmente, conhecem muito menor do que os civis e que tiveram oito anos para resolver, mas não resolveram. Tentámos pelo menos, em consonanciar com as chefias militares e com a audiência dos interessados, através dos mecanismos específicos que são próprios da instituição, resolver esses problemas.\nEsclareço, em segundo lugar, que não haverá violação de direitos adquiridos. As suas interpretações nesta matéria são correctas e adequadas.\nJá quanto ao fundo de pensões o Sr. Deputado fez uma interpretação totalmente incorrecta. O que consta do decreto-lei que aprova o Estatuto dos Militares das Forças Armadas, no que toca ao fundo de pensões, é que de terá por objectivo pagar dois tipos perfeitamente distintos de complementos. Um desses complementos deriva do facto de se garantir a quem passar à situação de reforma", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "7 DE JULHO DE 1990 3341", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "antes dos 70 anos os níveis de pensão a que teria direito se só passasse à reforma a partir dos 70 anos, o que significa que, sendo o indivíduo apanhado pelo calendário de transição, não há perda remuneratória. Simultaneamente e a par desse complemento, o fundo de pensões pagará - o que, em meu entender, é mais importante para o futuro- complementos de pensão a todos os militares, quer aos actuais reformados, quer aos que venham a passar à situação de reforma, por forma a que as pensões nunca estejam abaixo de determinadas \npercentagens do valor de referência, percentagens essas que serão sucessivamente aumentadas todos os anos, até atingirem um plafond máximo.\nO financiamento deste fundo, em termos de capitais de cobertura e de capitais iniciais, será feito com base em duas vertentes: a \nparticipação dos próprios militares e uma parte de receitas geradas pela alienação de património, como aliás consta do diploma. Os estudos técnicos, actuariais e financeiros que foram feitos permitem confirmar aquilo que já sabíamos à partida: se para o primeiro conjunto de complementos de pensão a intervenção do Estado é perfeitamente justificada -neste aspecto estou de acordo com o Sr. Deputado-, já em relação ao segundo, naturalmente, não tem de existir qualquer responsabilidade da parte do Estado. Os cálculos feitos apontam, todavia, para que o financiamento inicial do fundo por parte do Estado vá muito além daquilo que seria necessário para garantir a cobertura financeira destinada ao pagamento dos complementos de pensão, que são da responsabilidade do Estado.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, inscreveram-se, para uma intervenção, o Sr. Deputado João Amaral e, para interpelar a Mesa, o Sr. Deputado José Lello.\nAntes, porém, de dar a palavra ao Sr. Deputado José Lello, devo recordar que temos ainda um requerimento para votar. Pergunto ao Grupo Parlamentar do PSD, que apresentou o dito requerimento, se entende que a interrupção da sessão deve ser feita já, para, então mais preparados, continuarmos os trabalhos com as duas intervenções previstas, eventualmente a interpelação à Mesa solicitada e só depois a votação do requerimento, ou se, pelo contrário, entende que deve ser dada de imediato a palavra aos Srs. Deputados José Lello e João Amaral e de seguida votado o requerimento, para só depois fazermos o intervalo.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, inscreveram-se, para uma intervenção, o Sr. Deputado João Amaral e, para interpelar a Mesa, o Sr. Deputado José Lello.\nAntes, porém, de dar a palavra ao Sr. Deputado José Lello, devo recordar que temos ainda um requerimento para votar. Pergunto ao Grupo Parlamentar do PSD, que apresentou o dito requerimento, se entende que a interrupção da sessão deve ser feita já, para, então mais preparados, continuarmos os trabalhos com as duas intervenções previstas, eventualmente a interpelação à Mesa solicitada e só depois a votação do requerimento, ou se, pelo contrário, entende que deve ser dada de imediato a palavra aos Srs. Deputados José Lello e João Amaral e de seguida votado o requerimento, para só depois fazermos o intervalo.\nO Sr. Ângelo Correia (PSD):- Como o Sr. Presidente pode calcular, estou numa posição extremamente difícil, não só pela pergunta que V. Ex.ª acabou de fazer e pelo facto de eu não possuir qualquer estatuto de relevância parlamentar no meu partido mas lambem por ser obrigado a responder à pergunta colocada.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Ângelo Correia (PSD):- Como o Sr. Presidente pode calcular, estou numa posição extremamente difícil, não só pela pergunta que V. Ex.ª acabou de fazer e pelo facto de eu não possuir qualquer estatuto de relevância parlamentar no meu partido mas lambem por ser obrigado a responder à pergunta colocada.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Vozes do PS:- Não apoiado!", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Muito agradecido, Srs. Deputados! \nEstamos perante uma circunstância regimental complicada cuja abordagem demoraria bastante tempo, mas, em nome da eficácia dos trabalhos parlamentares e aproveitando a presença dos Srs. Ministro do Ambiente e dos Recursos Naturais e Secretário de Estado do Ambiente e da Defesa do Consumidor, talvez pudéssemos fazer o seguinte: a discussão ora em curso seria suspensa nesta altura, a Assembleia continuaria a funcionar com a discussão do outro diploma agendado, aproveitando até a presença dos referidos membros do Governo, e logo que esgotada essa questão reiniciaríamos a discussão desta matéria Penso que assim se resolve o problema, já que o PCP, o PS e o PRD estão de acordo.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Muito agradecido, Srs. Deputados! \nEstamos perante uma circunstância regimental complicada cuja abordagem demoraria bastante tempo, mas, em nome da eficácia dos trabalhos parlamentares e aproveitando a presença dos Srs. Ministro do Ambiente e dos Recursos Naturais e Secretário de Estado do Ambiente e da Defesa do Consumidor, talvez pudéssemos fazer o seguinte: a discussão ora em curso seria suspensa nesta altura, a Assembleia continuaria a funcionar com a discussão do outro diploma agendado, aproveitando até a presença dos referidos membros do Governo, e logo que esgotada essa questão reiniciaríamos a discussão desta matéria Penso que assim se resolve o problema, já que o PCP, o PS e o PRD estão de acordo.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "O Sr. Herculano Pombo (Os Verdes):- Chama-se a isso fazer um intervalo na guerra!", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "O Orador:- Resta acrescentar que, em meu entender, não deve haver intervalo.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Herculano Pombo (Os Verdes): Ah, não há intervalo na guerra!...", 
-   "type": "deputado_continuacao"
+   "text": "Ah, não há intervalo na guerra!...", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Posso entender que as palavras do Sr. Deputado Ângelo Correia têm o apoio do PS e do PCP?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Posso entender que as palavras do Sr. Deputado Ângelo Correia têm o apoio do PS e do PCP?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "A informação que tenho é a de que não estão de acordo.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Posso interpelar a Mesa, Sr. Presidente?\nO Sr. Presidente:- Para que efeito, Sr. Deputado?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Sr. Presidente, antes de mais, lembro que me tinha inscrito para pedir esclarecimentos ao Sr. Secretário de Estado-Adjunto do Ministro da Defesa Nacional.\nO Sr. Presidente:- A Mesa não viu, Sr. Deputado.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): Posso interpelar a Mesa, Sr. Presidente?", 
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Neste momento, peço a palavra para interpelar a Mesa, no sentido de contribuir para a boa sequência dos trabalhos.\nO Sr. Presidente:- Tem a palavra, Sr. Deputado.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Presidente:- Para que efeito, Sr. Deputado?", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): Sr. Presidente, antes de mais, lembro que me tinha inscrito para pedir esclarecimentos ao Sr. Secretário de Estado-Adjunto do Ministro da Defesa Nacional.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Presidente:- A Mesa não viu, Sr. Deputado.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): Neste momento, peço a palavra para interpelar a Mesa, no sentido de contribuir para a boa sequência dos trabalhos.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Presidente:- Tem a palavra, Sr. Deputado.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PS", 
+   "speaker": "José Lello", 
    "text": "O Sr. *José Lello* (PS): -Sr. Presidente, o Grupo Parlamentar do Partido Socialista não concorda com a sugestão feita pelo Sr. Deputado Ângelo Correia, pois, embora ela pareça não ter relevância constitucional na sua bancada, já a tem na minha, e o Sr. Deputado não pode falar pelo Partido Socialista.\nConsideramos que, para a boa lógica dos trabalhos, deverá proceder-se à votação do requerimento, embora não compreendamos muito bem como é que ele se compatibiliza com a proposta feita pelo Sr. Deputado Ângelo Correia no sentido de remeter o debate destas propostas para sede de comissão parlamentar especializada.\nNeste quadro, achamos que deve proceder-se, de imediato, à votação do requerimento.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Sr. *Presidente*: Srs. Deputados, o requerimento é do seguinte teor", 
-   "text": "", 
-   "type": "inicio_documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o requerimento é do seguinte teor:\nOs deputados abaixo assinados requerem, ao abrigo do artigo n.º 203 do Regimento, que se proceda, de imediato, à discussão e votação, na especialidade, das propostas de alteração aos Decretos-Leis n.º 34-A/90 e 57/90.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Os deputados abaixo assinados requerem, ao abrigo do artigo n.º 203 do Regimento, que se proceda, de imediato, à discussão e votação, na especialidade, das propostas de alteração aos Decretos-Leis n.º 34-A/90 e 57/90.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Peço a palavra, Sr. Presidente.\n3342 I SÉRIE - NÚMERO 97", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "3342 I SÉRIE - NÚMERO 97", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "João Amaral", 
    "text": "O Sr. Presidente:- O Sr. Deputado pede a palavra para fazer a sua intervenção no minuto que lhe foi cedido?", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, pretendo apenas interpelar a Mesa, para esclarecer o sentido da proposta do Sr. Deputado Angelo Correia.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, pretendo apenas interpelar a Mesa, para esclarecer o sentido da proposta do Sr. Deputado Angelo Correia.\nO Sr. Presidente:- Tem a palavra, Sr.: Deputado.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. Presidente:- Tem a palavra, Sr.: Deputado.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, a questão que se me levanta é a seguinte: procurará o PSD um espaço para reflectir um pouco? Se assim é, poderá recorrer à meia hora de intervalo regimental e, então, reunir o seu grupo parlamentar e reflectir sobre a questão. Não o fazendo, fico com muitas dúvidas sobre o alcance da proposta feita pelo Sr. Deputado Ângelo Correia.\nDepois das declarações do Sr. Deputado José Lello, do Partido Socialista, vejo pouca margem para outra alternativa que não seja a de o Sr. Deputado Ângelo Correia pedir o intervalo ou a de continuarmos o debate, passando-se à votação do requerimento. Penso que o Sr. Deputado Ângelo Correia talvez tenha conveniência em pedir o intervalo.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, a questão que se me levanta é a seguinte: procurará o PSD um espaço para reflectir um pouco? Se assim é, poderá recorrer à meia hora de intervalo regimental e, então, reunir o seu grupo parlamentar e reflectir sobre a questão. Não o fazendo, fico com muitas dúvidas sobre o alcance da proposta feita pelo Sr. Deputado Ângelo Correia.\nDepois das declarações do Sr. Deputado José Lello, do Partido Socialista, vejo pouca margem para outra alternativa que não seja a de o Sr. Deputado Ângelo Correia pedir o intervalo ou a de continuarmos o debate, passando-se à votação do requerimento. Penso que o Sr. Deputado Ângelo Correia talvez tenha conveniência em pedir o intervalo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, não chegaram à Mesa quaisquer pedidos de inscrição...\nO Sr. *João Amaral* (PCP): -Sr. Presidente, peço a palavra para lembrar que me tinha inscrito para uma intervenção, no minuto que nos foi cedido.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, não chegaram à Mesa quaisquer pedidos de inscrição...", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, desculpe, mas pensei que unha usado esse minuto. Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): -Sr. Presidente, peço a palavra para lembrar que me tinha inscrito para uma intervenção, no minuto que nos foi cedido.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, Srs. Deputados: Mantemos a nossa posição de que o diploma e as propostas de alteração devem ser analisadas com cuidado, em sede de comissão parlamentar. Se chegámos a esta situação, isso deve-se ao facto de o Governo não ter cumprido aquilo a que se comprometeu fazer com a Comissão Parlamentar de Defesa Nacional, ou seja, fazer chegar a essa Comissão, e com ela discutir atempadamente, o articulado dos diplomas, na especialidade. Não o fez e, por isso, o problema foi chamado' aqui à ratificação.\nNeste momento, registei, com muita atenção, o que disse o Sr. Deputado Angelo Correia quanto à possibilidade de o Governo ter, ele próprio, as suas ideias sobre a alteração dos diplomas ou sobre a alteração de alguns dos seus aspectos.\nPenso que entrámos agora na altura, no fomento e no processo normal de trabalho de remeter a actividade da Comissão de Defesa Nacional a processo normal de trabalho, isto é, entrámos na altura de, com espírito de colaboração, analisarmos, inclusive com o Governo, as propostas de alteração -as que foram apresentadas è outras- e, em sede de comissão, termos o trabalho, a atenção e o cuidado que sempre tivemos em tomo de questões de natureza político-militar, como o são as que se encontram envolvidas no Estatuto.\nO requerimento que o PSD apresentou carece de qualquer forma de sentido, uma vez que não visa fazer uma discussão, não é uma questão séria nem uma postura que se possa ter. Acho-o completamento indigno desta Assembleia e só pode ter sido imaginado por quem desconhece os processos de trabalho da Comissão dê Defesa Nacional, por quem nunca nela se sentou.\nVozes do PCP e do PS: -Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, desculpe, mas pensei que unha usado esse minuto. Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Posso interpelar a Mesa, Sr. Presidente?", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, Srs. Deputados: Mantemos a nossa posição de que o diploma e as propostas de alteração devem ser analisadas com cuidado, em sede de comissão parlamentar. Se chegámos a esta situação, isso deve-se ao facto de o Governo não ter cumprido aquilo a que se comprometeu fazer com a Comissão Parlamentar de Defesa Nacional, ou seja, fazer chegar a essa Comissão, e com ela discutir atempadamente, o articulado dos diplomas, na especialidade. Não o fez e, por isso, o problema foi chamado' aqui à ratificação.\nNeste momento, registei, com muita atenção, o que disse o Sr. Deputado Angelo Correia quanto à possibilidade de o Governo ter, ele próprio, as suas ideias sobre a alteração dos diplomas ou sobre a alteração de alguns dos seus aspectos.\nPenso que entrámos agora na altura, no fomento e no processo normal de trabalho de remeter a actividade da Comissão de Defesa Nacional a processo normal de trabalho, isto é, entrámos na altura de, com espírito de colaboração, analisarmos, inclusive com o Governo, as propostas de alteração -as que foram apresentadas è outras- e, em sede de comissão, termos o trabalho, a atenção e o cuidado que sempre tivemos em tomo de questões de natureza político-militar, como o são as que se encontram envolvidas no Estatuto.\nO requerimento que o PSD apresentou carece de qualquer forma de sentido, uma vez que não visa fazer uma discussão, não é uma questão séria nem uma postura que se possa ter. Acho-o completamento indigno desta Assembleia e só pode ter sido imaginado por quem desconhece os processos de trabalho da Comissão dê Defesa Nacional, por quem nunca nela se sentou.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "Vozes do PCP e do PS: -Muito bem!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Sr. Presidente, julgava que o debate ia continuar e que eu iria ter. oportunidade de pedir esclarecimentos.\nNeste contexto, não o farei, a menos que o debate continue até se resolver este problema.\nO Sr. Presidente:- Não, Sr. Deputado, não vai continuar.\nSrs. Deputados, face às posições tomadas, a Mesa vai submeter à votação o requerimento apresentado pelo PSD.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Lello* (PS): Posso interpelar a Mesa, Sr. Presidente?", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *José Lello* (PS): Sr. Presidente, julgava que o debate ia continuar e que eu iria ter. oportunidade de pedir esclarecimentos.\nNeste contexto, não o farei, a menos que o debate continue até se resolver este problema.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. Presidente:- Não, Sr. Deputado, não vai continuar.\nSrs. Deputados, face às posições tomadas, a Mesa vai submeter à votação o requerimento apresentado pelo PSD.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, peço a palavra para solicitar a contagem de quórum de votação.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, peço a palavra para solicitar a contagem de quórum de votação.", 
+   "type": "deputado_aparte"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "text": "Q Sr. *Presidente*: Srs. Deputados, a informação unânime que obtive da Mesa é a de que não há quorum de votação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a informação unânime que obtive da Mesa é a de que não há quorum de votação.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, neste contexto, com o debate encerrado e não havendo quórum de votação, o requerimento não poderá ser votado hoje. Só poderá ser considerado na próxima terça-feira se, entretanto -e é isso o que deverá suceder-, não houver condições para, na própria sede de comissão, se encontrar uma solução aceitável para um diferendo que não tem razão de ser, pelo contrário, e que tem de ser resolvido onde sempre foram resolvidas - e bem! - estas questões, ou seja, em sede de comissão. Nessa sede, sempre se resolveram bem estas questões.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, neste contexto, com o debate encerrado e não havendo quórum de votação, o requerimento não poderá ser votado hoje. Só poderá ser considerado na próxima terça-feira se, entretanto -e é isso o que deverá suceder-, não houver condições para, na própria sede de comissão, se encontrar uma solução aceitável para um diferendo que não tem razão de ser, pelo contrário, e que tem de ser resolvido onde sempre foram resolvidas - e bem! - estas questões, ou seja, em sede de comissão. Nessa sede, sempre se resolveram bem estas questões.\nVozes do PCP e do PS:- Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PCP e do PS:- Muito bem!", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, passamos ao ponto seguinte da ordem do dia, ou seja, à apreciação conjunta dos Decretos-Leis n.ºs 70/30, de 2 de Março (define o regime de bens do domínio público hídrico do Estado) - ratificações n.ºs 116/V (PCP) e 123/V (PS)-, e 186/90, de 6 de Junho (sujeita a uma avaliação de impacte ambiental os planos e projectos que, pela sua localização, dimensão ou características, sejam susceptíveis de provocar incidências significativas no ambiente) - ratificações n.º 135/V (PCP) e 136/V (PRD, Os Verdes e deputados independentes Helena Roseta, João Corregedor da Fonseca e Raul Castro).\nEntretanto, assumiu a presidência o Sr. Vice-Presidente Ferraz de Abreu.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, passamos ao ponto seguinte da ordem do dia, ou seja, à apreciação conjunta dos Decretos-Leis n.ºs 70/30, de 2 de Março (define o regime de bens do domínio público hídrico do Estado) - ratificações n.ºs 116/V (PCP) e 123/V (PS)-, e 186/90, de 6 de Junho (sujeita a uma avaliação de impacte ambiental os planos e projectos que, pela sua localização, dimensão ou características, sejam susceptíveis de provocar incidências significativas no ambiente) - ratificações n.º 135/V (PCP) e 136/V (PRD, Os Verdes e deputados independentes Helena Roseta, João Corregedor da Fonseca e Raul Castro).", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Entretanto, assumiu a presidência o Sr. Vice-Presidente Ferraz de Abreu.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Ilda Figueiredo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "A Sr.ª Ilda Figueiredo (PCP): Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Estão em debate ratificações sobre dois \ndecretos-lei que tratam", 
-   "type": "documento"
+   "text": "Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Estão em debate ratificações sobre dois \ndecretos-lei que tratam", 
+   "type": "speaker_error"
   }, 
   {
    "text": "7 DE JULHO DE 1990 3343", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "assuntos da maior importância para a definição de uma política de ambiente. Trata-se do processo de avaliação do impacte ambiental e da definição do regime de bens do domínio público hídrico do Estado.\nHá mais de três anos que a Lei de Bases do Ambiente define os princípios a que deve obedecer a regulamentação que o Governo devia ter feito no prazo de um ano. Só que o Governo regulamentou tarde e mal, não respeitando princípios da Lei de Bases do Ambiente, nomeadamente o da participação dos diferentes grupos sociais na formulação e execução da política do ambiente. Pelo contrário: o Governo, onde devia descentralizar decisões, centraliza; onde devia ser claro e \ntransparente, é confuso e admite a intensificação das peias \nburocráticas, que podem conduzir às maiores arbitrariedades e discriminações na aplicação da lei; onde devia legislar com realismo, tendo em conta a possibilidade de aplicação da lei, opta pela indefinição de conceitos e aplicação arbitrária de multas, que não se aplicam à realidade portuguesa.\nOu seja, o Governo regulamentou a Lei de Bases do Ambiente, para cumprir os prazos, com dois anos de atraso, mas fê-lo de forma a que tudo se passe como se nada estivesse regulamentado. A lei continuará a não ser cumprida! E só o será, pontualmente, quando qualquer interesse particular seja confundido com o interesse nacional.\nComo destacam cinco associações profissionais (a Associação Portuguesa dos Engenheiros do Ambiente, a Associação Portuguesa dos Arquitectos Paisagísticos, a Associação Portuguesa dos Biólogos, a Associação Portuguesa dos Geólogos e a Associação dos Arquitectos Portugueses), a propósito do Decreto-Lei n.º 186/90, que define o processo de avaliação do impacte ambiental, o grave é predominar na legislação a lógica de que «quem encomenda os estudos, encomenda os resultados».\nDaí a necessidade de alterar profundamente o conteúdo desta legislação governamental. É o que vamos procurar fazer com as propostas que apresentamos e que vou resumir, dado o tempo muito limitado de que disponho.\nNa elaboração das propostas, tivemos em conta, quer as opiniões de várias associações de ambiente, de profissionais, técnicos e especialistas neste campo, quer os princípios definidos na Lei de Bases do Ambiente.\nAssim, em concreto, quanto ao Decreto-Lei n.º 186/90, que define o processo de avaliação do processo ambiental, partimos do princípio de que deve caminhar-se no sentido do desenvolvimento integrado, incluindo as vertentes social e ambiental, ou seja, que o fim último do desenvolvimento é o bem-estar e a qualidade de vida das gerações presentes e futuras, sendo indispensável atender à qualidade do ambiente e à gestão equilibrada dos recursos naturais.\nIsto implica que se dê particular atenção aos aspectos preventivos.\nComo diz o nosso povo, «mais vale prevenir que remediar»! Daí a importância de uma regulamentação adequada da avaliação do impacte ambiental como instrumento fundamental na prossecução deste objectivo.\nDesde logo, é necessário definir com clareza os projectos sujeitos a avaliação do impacte ambiental, alargando o seu âmbito e impedindo excepções discricionárias. É o que procuramos fazer alterando o anexo 1 e os artigos 2.º e 11.º do decreto-lei, que prevêem não só um número muito restrito de projectos sujeitos a avaliação do impacte ambiental como admitem isenções e excepções, de tal modo que na prática só fica sujeito a estudos de impacte ambiental quem o Governo quiser, o que, além do mais, contraria a directiva n.º 337/85, que está em vigor para todos os Estados membros da CEE, desde 3 de Julho de 1988.\nPor outro lado, como o processo de avaliação do impacte ambiental deve servir para influenciar as características estruturais do projecto da obra que se pretende realizar -por exemplo, a construção de \nauto-estradas -, as propostas que apresentamos visam definir com antecedência as directrizes para o estudo de impacte ambiental e sujeitar a consulta pública, consequente e alargada a todo o processo, antes da decisão a tomar, para permitir uma adequada participação no debate público de todos os possíveis interessados, incluindo municípios, freguesias, associações e público, em geral.\nConsideramos da maior importância a descentralização e a participação das diversas instituições no processo de decisão. Por isso, nas propostas que fazemos e, seguindo de perto o nosso próprio projecto de lei n.º 525/V, que apresentámos sobre este assunto, é criada uma comissão nacional de avaliação do impacte ambiental, na dependência do Ministério do Ambiente e, a nível regional, comissões regionais de avaliação, na dependência dos órgãos executivos das regiões e, transitoriamente, das CCR, enquanto o PSD bloquear o processo de regionalização.\nNestas condições, participarão representantes das universidades, municípios, associações de defesa do ambiente e do património, do movimento sindical e das associações empresariais. Propomos que os pareceres destas comissões sejam sempre obrigatórios e vinculativos, ao contrário do que prevê o decreto-lei hoje objecto de ratificação, nos seus artigos 5.º e 6.º \nComo referem, em carta aberta, as cinco associações profissionais de técnicos ligados ao ambiente, «é necessário que as soluções propostas sejam devidamente consideradas e postas em prática e não vistas apenas como simples documentos obrigatórios e burocráticos - facto que é, necessariamente desmotivador para os técnicos que as projectam, planeiam e acompanham».\nQuanto ao Decreto-Lei n.º 70/90, que define o regime de bens do domínio público hídrico do Estado, trata-se, como refere a Associação Portuguesa de Recursos Hídricos, de «um diploma dificilmente caracterizável. Não é uma nova Lei da Água, nem tão pouco define uma nova política de gestão dos recursos hídricos.» Limita-se a enumerar alguns princípios, por vezes contraditórios, sem definir os \ninstrumentos necessários para a sua implementação. Mistura alterações de estrutura orgânica com modificações do montante das coimas aplicáveis sem qualquer critério. Por exemplo, quem destruir total ou parcialmente obras hidráulicas de qualquer natureza, mesmo que seja uma barragem, fica sujeito a uma multa de 50 a 200 contos. Mas, diz o decreto-lei, «os estabelecimentos industriais que evacuem», e passo o anedótico do termo, «águas degradadas directamente para o sistema de esgotos ou para cursos de água ficam sujeitos a multas que variam entre 200 000 e 500 000 contos». A que estabelecimentos industriais vai o Governo aplicar estas multas? É bom que o esclareça!", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "O Sr. Herculano Pombo (Os Verdes):- Muito bem!", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "A Oradora:- É certo que o decreto-lei cria as associações de utilizadores, mas fá-lo de forma indefinida e", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "3344 I SÉRIE - NÚMERO 97", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "não institui mecanismos para a participação efectiva dos utilizadores a nível nacional e regional, nem tão-pouco esclarece qual o tipo de relacionamento entre os utilizadores e as autarquias. Aliás, o decreto-lei ignora pura e simplesmente os municípios, não lhes faz uma única referência. E, quanto aos utilizadores individuais ou \nassociações, só aparentemente lhes é dada toda a iniciativa, porque na prática, através do artigo 16.º, é criado um vasto e confuso conjunto de requisitos que impedem a generalidade dos utilizadores de obter qualquer licença de utilização do domínio público hídrico.\nQuanto à «taxa de utilização» do domínio público hídrico que o decreto-lei cria, tudo fica na maior das indefinições, com excepção do destino a dar ao produto da taxa É que o Governo pretende financiar os serviços da Administração Pública do sector com essa taxa-talvez consequências da falta de orçamento do Ministério do Ambiente. Quanto aos trabalhadores da Direcção-Geral de Recursos Naturais que o decreto-lei extingue, tudo fica na maior incerteza.\nImpõe-se, pois, não só uma profunda alteração de todo o decreto-lei como a clarificação da generalidade do seu articulado.\nCom as propostas que apresentamos, pretendemos fazê-lo descentralizando as funções do Instituto da Agua para as administrações de recursos hídricos a nível da bacia hidrográfica e onde devem participar, com direito a voto, representantes dos municípios, das associações de utilizadores e das associações de ambiente, além, naturalmente, de representantes do INAG.\nPropomos a eliminação de vários artigos que, ou são confusos, ou não respeitam a Lei de Bases do Ambiente, ou põem em causa direitos dos trabalhadores da Administração Pública. E apresentamos propostas que visam pôr em prática os princípios da Lei de Bases, a transparência, a clareza do processo administrativo e a descentralização efectiva.\nEsperemos que, da parte do Governo e do PSD, haja um mínimo de bom senso para alterar profundamente os dois decretos-leis, de forma a torná-los instrumentos de uma tão necessária política de ambiente.", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "Aplausos do PCP.", 
@@ -574,159 +528,155 @@
   }, 
   {
    "text": "O Sr. Presidente:- Srs. Deputados, quero informá-los de que também será discutida, conjuntamente com os pedidos de ratificação que constam da ordem de trabalhos e que já anunciei, a ratificação n.º 137/V, apresentada pelo Sr. Deputado António Guterres, e outros, do PS, relativa ao Decreto-Lei n.º 186/90, de 6 de Junho, que, só por lapso, não veio agendada no Boletim Informativo.\nPara uma intervenção, tem a palavra o Sr. Deputado Armando Vara.", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "O Sr. Armando Vara (PS):- Sr. Presidente, Sr.ªs e Srs. Deputados: Temos hoje para verificação dois diplomas fundamentais para uma política de ambiente. Todavia, a legítima expectativa criada pela aprovação unânime da Lei de Bases do Ambiente - já lá vai uma eternidade que o Governo procura fazer esquecer! - encontra apenas parcial satisfação nos textos que nos são presentes.\nEm primeiro lugar, porque defraudam as próprias promessas do PSD. Em 1987, nas comemorações do Dia Nacional da Água, promovido pela Associação Portuguesa de Recursos Hídricos (APRH), o representante do PSD anunciou que estava para muito breve a publicação da Lei da Água, que viria unificar, corrigir, actualizar e dar coerência à legislação avulsa que há dezenas de anos se vem acumulando para desespero do cidadão.\nO Decreto-Lei n.º 70/90, hoje presente, não é a criança longamente esperada mas, antes, apenas um' aborto a destempo para assustar o público. Mas lá voltaremos! \nEm segundo lugar, porque aquela expectativa. não é cumprida dentro dos prazos legais, correspondendo a uma «burla» às disposições da Lei de Bases do Ambiente e da legislação comunitária. Atente-se apenas que, tendo o Tratado de Adesão entrado em vigor em 1 de Janeiro de 1986 e sendo a directiva de impacte ambiental notificada aos Estados membros em 3 de Julho de 1988, o Estado esperou pelo segundo aniversário do anúncio da sua iniciativa para nos vir lembrar a necessidade dos.\nestudos de impacte ambiental.\nEste atraso é tanto mais curioso quando leva Portugal a transcrever aproximadamente uma directiva, quando o processo de revisão dessa mesma directiva anuncia já a sua modificação a curto prazo. Não se sabe se o Governo resolveu preferir o mal menor, mas o que é certo é que, dentro de meses, estaremos, de novo, nesta Sala a discutir as alterações ao presente decreto-lei. O Governo já nos vem habituando a este passatempo de revisão permanente! \nEm terceiro lugar, porque os diplomas defraudam também a expectativa da sociedade civil, que o Governo tanto preza e tanto engana. Para prová-lo, aí estão as conclusões do debate promovido pela APRH sobre o Decreto-Lei n.º 70/90 e as representações de associações de defesa do ambiente em ataque ao Decreto-Lei n.º 186/90.\nMas cabe dizer que os decretos tiveram uma história diferente.\nNo caso do impacte ambiental, o Primeiro-Ministro resolveu ignorar o Governo e produzir obra na matéria. O resultado foi catastrófico. Até associações de defesa do ambiente, aninhadas sob a asa protectora do IPSO, bradaram aos céus, ou seja, a Belém. Felizmente, foram ouvidas por ouvidos atentos. E do aborto inicial foi possível corrigir defeitos fundamentais e assegurar um mínimo de compatibilidade entre a legislação portuguesa e a ainda presente directiva comunitária No entanto, as dimensões precisas do diploma ainda permanecem \ndesconhecidas, aguardando a publicação do respectivo decreto regulamentar, cuja ratificação constituiria certamente ocasião mais propícia para um comentário em. detalhe.\nMas, reconhecendo o progresso realizado entre São Bento e Belém, entendemos que existem pontos que ganhariam em ser diferentemente enunciados: isenção do presente regime dos projectos em curso de aprovação (não se sabendo ao certo o que é esta fase) - pretende, com uma esperteza que não qualificamos, fazer escapar à lei portuguesa os disparates quase contemporâneos do Sr. Secretário de Estado,, que, todavia, não escapam às disposições comunitárias em vigor \nobrigatoriamente desde 3 de Julho de 1988. Assim, o Governo parece preferir a queixa às Comunidades ao exame dos projectos submetidos a licenciamento desde Julho de 1988. Talvez o Governo prefira lavar a roupa suja em Bruxelas; isenção global dos projectos em relação com a defesa e segurança ou assim tidos de avaliação de impacte ambiental - criando um regime exclusivo que não é desejado e que poderia ser correctamente enunciado nos termos da proposta do meu partido, ou seja, exame em comissão parlamentar.\nSr. Presidente, Sr.ªs e Srs. Deputados: Este projecto é claramente provisório. Sucede ao vazio e deve dar lugar", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "7 DE JULHO DE 1990 3345", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "a melhor legislação. Nesta deverá, certamente, procurar-se protecção mais alargada a sectores até agora não incluídos na presente directiva, assisada da componente urbana do ambiente, da preocupação mais expressa pela qualidade de vida dos cidadãos. Perante esta marcha para o futuro, o Governo contempla ainda timidamente os anos distantes de 1985 que viram nascer a presente directiva. O Partido Socialista, habituado a perspectivar a construção do futuro, gostaria de constatar que o PSD não olhava apenas para trás.\nO Decreto-Lei n.º 70/90 é claramente uma vítima predestinada ao sacrifício no altar do bom senso. Costuma dizer-se que não vale a pena gastar cera com ruim defunto e, por isso, as nossas considerações serão breves. Apenas aconselhar, mais uma vez, a maioria a reler as conclusões do debate da Associação Portuguesa de Recursos Hídricos.\nMas se a capacidade de entendimento do Governo estiver tão diminuída que não perceba a mensagem clara dos técnicos, pelo menos que entenda o ridículo das coimas que excedem em muito o capital social da maior parte das empresas portuguesas e que contrasta com o que é previsto em relação ao impacte ambiental.\nAcreditamos que entre os votantes desta lei e do PSD ainda se encontram alguns empresários. A sua voz deverá ser o melhor argumento para a não ratificação deste decreto.", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Ministro do Ambiente e Recursos Naturais.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Ministro do Ambiente e Recursos Naturais.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Ministro do Ambiente e Recursos Naturais (Fernando Real) : Sr.Presidente, Srs. Deputados: Irei referir-me especialmente ao Decreto-Lei n.º 70/90, e o Sr. Secretário de Estado referir-se-á ao decreto-lei sobre impacte ambiental.\nQuero referir que Portugal esperou cerca de um século para produzir um sistema institucional de água, que é fundamental para o desenvolvimento do País. O sistema que vigorou até há pouco tempo é um sistema absolutamente obsoleto, e, por isso, ao contrário de governos anteriores, este governo teve a coragem de realizar um documento sobre os recursos hídricos que era fundamental para estruturar os mesmos.\nAssim, o Governo procurou, num período de modernização, que fosse possível encontrar os meios para defender o recurso natural mais importante que hoje temos. Nesse sentido, refiro-lhes que este decreto-lei procurou, logo de imediato, fazer a distribuição da análise e da intervenção e do planeamento dos nossos recursos hídricos, através de administrações regionais de recursos hídricos.\nCriou também as associações de utilizadores, representativas de todos os utilizadores. E quem são esses utilizadores? São as câmaras e as empresas, ou seja, as entidades que estão mais ligadas a este recurso fundamental.\nOra, além das associações de utilizadores, considerámos ainda os conselhos regionais da água, que, como já aqui foi referido, abrangem, além das câmaras, as associações e outras entidades no domínio da defesa deste recurso fundamental. Por isso, devo referir que, de momento, pretendemos fundamentalmente uma gestão integrada, planeada e que defenda, essencialmente, a qualidade da água.\nO Sr. Deputado Armando Vara referiu-se às coimas, considerando-as muito elevadas. Em relação a esta questão, vou salientar apenas alguns aspectos, Srs. Deputados. As coimas são elevadas, mas a vida humana e os recursos naturais ainda são mais elevados e têm um valor muito maior.", 
-   "type": "documento"
+   "text": "Sr.Presidente, Srs. Deputados: Irei referir-me especialmente ao Decreto-Lei n.º 70/90, e o Sr. Secretário de Estado referir-se-á ao decreto-lei sobre impacte ambiental.\nQuero referir que Portugal esperou cerca de um século para produzir um sistema institucional de água, que é fundamental para o desenvolvimento do País. O sistema que vigorou até há pouco tempo é um sistema absolutamente obsoleto, e, por isso, ao contrário de governos anteriores, este governo teve a coragem de realizar um documento sobre os recursos hídricos que era fundamental para estruturar os mesmos.\nAssim, o Governo procurou, num período de modernização, que fosse possível encontrar os meios para defender o recurso natural mais importante que hoje temos. Nesse sentido, refiro-lhes que este decreto-lei procurou, logo de imediato, fazer a distribuição da análise e da intervenção e do planeamento dos nossos recursos hídricos, através de administrações regionais de recursos hídricos.\nCriou também as associações de utilizadores, representativas de todos os utilizadores. E quem são esses utilizadores? São as câmaras e as empresas, ou seja, as entidades que estão mais ligadas a este recurso fundamental.\nOra, além das associações de utilizadores, considerámos ainda os conselhos regionais da água, que, como já aqui foi referido, abrangem, além das câmaras, as associações e outras entidades no domínio da defesa deste recurso fundamental. Por isso, devo referir que, de momento, pretendemos fundamentalmente uma gestão integrada, planeada e que defenda, essencialmente, a qualidade da água.\nO Sr. Deputado Armando Vara referiu-se às coimas, considerando-as muito elevadas. Em relação a esta questão, vou salientar apenas alguns aspectos, Srs. Deputados. As coimas são elevadas, mas a vida humana e os recursos naturais ainda são mais elevados e têm um valor muito maior.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Muito bem!", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Orador:-A propósito desta matéria, posso dizer-lhes que, segundo afirmações do Sr. Ministro do Ambiente da Roménia, feitas na última reunião do Conselho de Ministros do Ambiente, os rios romenos, numa extensão de 4000 km, não têm vida Porquê? Porque neles foram lançadas milhões de toneladas de produtos que, poluindo as águas, provocaram a morte de todos os seres vivos. Também o ministro da Checoslováquia, aquando da última reunião em Dublin, afirmou publicamente que 50% das águas do seu país estão mortas. Sabemos o que sucedeu no Reno, quando ardeu um depósito de produtos de pesticidas na Suíça, pois esses produtos, solventes e mercúrio, utilizados em pesticidas, foram lançados no rio Reno e provocaram a morte de milhões de peixes e durante, aproximadamente, 15 dias foi proibido utilizar a água para beber.\nNão podemos esquecer o acidente de Bhopal, que provocou a morte de 2000 pessoas e feriu 200000, por falta de cuidado na utilização dos produtos químicos. Assim, gostaria de saber se os Srs. Deputados que acabam de intervir consideram que 200 000 ou mesmo 500 000 contos pagariam, por exemplo, um acidente provocado por uma descarga importante de cianeto feita para um local de abastecimento de água, como é o caso de Lisboa, ou outra cidade qualquer. E ainda se esses 500 000 contos poderiam, na realidade, pagar a vida dos homens e todos os demais prejuízos que se fariam sentir.\nNeste momento, o regulamento do INAG já está concluído, pelo que vai ser posto à discussão e à apreciação das entidades mais interessadas nos problemas da água, nomeadamente as associações industriais, a EPAL e a Associação de Municípios, para que, com a sua experiência, nos possam dar contributos válidos, permitindo que esse regulamento venha a corresponder às necessidades de uma correcta gestão da água no nosso País.\nPor isso, o Governo não transigirá, apesar das críticas fáceis dos que nada souberam mudar, e vai continuar a pôr em prática as reformas de que o País tanto necessita.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Muito bem!\nO Orador:-A propósito desta matéria, posso dizer-lhes que, segundo afirmações do Sr. Ministro do Ambiente da Roménia, feitas na última reunião do Conselho de Ministros do Ambiente, os rios romenos, numa extensão de 4000 km, não têm vida Porquê? Porque neles foram lançadas milhões de toneladas de produtos que, poluindo as águas, provocaram a morte de todos os seres vivos. Também o ministro da Checoslováquia, aquando da última reunião em Dublin, afirmou publicamente que 50% das águas do seu país estão mortas. Sabemos o que sucedeu no Reno, quando ardeu um depósito de produtos de pesticidas na Suíça, pois esses produtos, solventes e mercúrio, utilizados em pesticidas, foram lançados no rio Reno e provocaram a morte de milhões de peixes e durante, aproximadamente, 15 dias foi proibido utilizar a água para beber.\nNão podemos esquecer o acidente de Bhopal, que provocou a morte de 2000 pessoas e feriu 200000, por falta de cuidado na utilização dos produtos químicos. Assim, gostaria de saber se os Srs. Deputados que acabam de intervir consideram que 200 000 ou mesmo 500 000 contos pagariam, por exemplo, um acidente provocado por uma descarga importante de cianeto feita para um local de abastecimento de água, como é o caso de Lisboa, ou outra cidade qualquer. E ainda se esses 500 000 contos poderiam, na realidade, pagar a vida dos homens e todos os demais prejuízos que se fariam sentir.\nNeste momento, o regulamento do INAG já está concluído, pelo que vai ser posto à discussão e à apreciação das entidades mais interessadas nos problemas da água, nomeadamente as associações industriais, a EPAL e a Associação de Municípios, para que, com a sua experiência, nos possam dar contributos válidos, permitindo que esse regulamento venha a corresponder às necessidades de uma correcta gestão da água no nosso País.\nPor isso, o Governo não transigirá, apesar das críticas fáceis dos que nada souberam mudar, e vai continuar a pôr em prática as reformas de que o País tanto necessita.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. Herculano Pombo (Os Verdes): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "documento"
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.\nO Sr. Herculano Pombo (Os Verdes): -Sr. Presidente, como é do conhecimento de V. Ex.ª, considerando que, apenas por lapso imputável à Mesa, cuja responsabilidade ela já assumiu, não me foi permitido usar da palavra antes do Sr. Ministro do Ambiente e Recursos Naturais para fazer a minha intervenção - embora eu seja o primeiro subscritor de um dos pedidos de ratificação hoje em debate-, solicito à Mesa, na sequência da conversa telefónica que já tive com um dos seus membros, que me permita pedir esclarecimentos, sobre a matéria relativa ao Decreto-Lei n.º 70/90, ao Sr. Minis-", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Herculano Pombo (Os Verdes): -Sr. Presidente, como é do conhecimento de V. Ex.ª, considerando que, apenas por lapso imputável à Mesa, cuja responsabilidade ela já assumiu, não me foi permitido usar da palavra antes do Sr. Ministro do Ambiente e Recursos Naturais para fazer a minha intervenção - embora eu seja o primeiro subscritor de um dos pedidos de ratificação hoje em debate-, solicito à Mesa, na sequência da conversa telefónica que já tive com um dos seus membros, que me permita pedir esclarecimentos, sobre a matéria relativa ao Decreto-Lei n.º 70/90, ao Sr. Minis-", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "3346 I SÉRIE - NÚMERO 97", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "tro do Ambiente e Recursos Naturais e ainda fazer uma intervenção -não de fundo, porque o tempo já não permite- sobre a questão do impacte ambiental, antes de o Sr. Secretário de Estado do Ambiente e Defesa do Consumidor usar da palavra.\nSei que o tempo de que disponho é pouco, mas...", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Herculano Pombo, V. Ex.ª sabe o tempo que o seu partido e o Governo dispõem, embora este último o tenha já esgotado. Mas, enfim, a Mesa terá a condescendência necessária para permitir uma curta resposta do Sr. Ministro do Ambiente e Recursos Naturais ao seu pedido de esclarecimento.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado Herculano Pombo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Herculano Pombo, V. Ex.ª sabe o tempo que o seu partido e o Governo dispõem, embora este último o tenha já esgotado. Mas, enfim, a Mesa terá a condescendência necessária para permitir uma curta resposta do Sr. Ministro do Ambiente e Recursos Naturais ao seu pedido de esclarecimento.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado Herculano Pombo.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. Herculano Pombo (Os Verdes): Sr. Ministro do Ambiente e Recursos Naturais, a propósito do Decreto-Lei n.º 70/90, aconteceu que hoje aqui, pela primeira vez, numa Assembleia - coisa interessante! -, alguém se levantou em defesa deste diploma.\nNa verdade, eu e os meus colegas de grupo parlamentar temos participado em inúmeras discussões e debates públicos sobre a questão do sistema institucional e nunca, apesar de muitos desafios já terem sido lançados nesse sentido, apareceu ninguém a defender este decreto-lei, que é o diploma mais enjeitado de todo o nosso ordenamento jurídico. No entanto, o Sr. Ministro acabou mesmo agora de assumir aqui a defesa do referido decreto-lei, e, embora o tenha feito num curto espaço de tempo, penso que é um facto que deve ser assinalado.\nObviamente, já não disponho de tempo suficiente que me permita escalpelizar este diploma; contudo, quanto à questão dos 18 tipos de coimas, que ele prevê, penso que são mais as coimas do que os artigos,* e gostaria apenas de fazer ressaltar algumas.\nJá aqui constatámos que um industrial, ou melhor, um pobre industrial que mande lançar águas degradadas, sem tratamento, para o sistema de esgotos ou para os cursos de água paga de 200 000 a 500 000 contos.\nOra, 500 000 contos ainda são meio milhão de contos!... Aliás, qualquer destas verbas é muito superior ao capital social da grande maioria das empresas portuguesas.\nSe as empresas portuguesas não estão habituadas a pagar coimas desta espécie -apenas algumas pagaram coimas de 30 000$ e 40 000$-, não sei como é que se irão «habituar»!...\nSr. Ministro, ocorre-me perguntar: quem é que vai ser o bode expiatório das empresas portuguesas e qual é o alvo do Sr. Ministro no leque das empresas portuguesas? É alguma empresa de celulose, de curtumes ou de químicos? Quem é que vai pagar por todos aqueles que poluem o ambiente? \nO Sr. Ministro, na sua intervenção, disse ainda que, em Portugal, nunca houve acidentes como os que ocorreram no Reno, em Bhopal ou em Seveso.\nOra bem, Sr. Ministro, situação semelhante à vivida no Reno já tivemos e, quanto aos casos como os de Bhopal e Seveso, Deus queira que não, mas, infelizmente temos condições para isso. Estarreja, Seixal e outras mais- bolsas poderão, um dia destes, vir a transformar-se em Seveso ou Bhopal!...\nQuanto ao desastre do Reno, devo lembrar que, há já algum tempo atrás, o Mondego transformou-se no Reno. Ora, o Sr. Ministro, ao autorizar, como autorizou ou parece ter autorizado -para mim a situação é clara, mas parece que o não é para muita gente!-, o emprego de pesticidas, ainda que a título excepcional, em certos casos (quanto a mim não justificados), e não respeitando, sequer, as instruções mínimas do rótulo, o Sr. Ministro acabou por incorrer na coima mínima de 1 milhão a 200 milhões de escudos. Irá o Sr. Ministro pagar esta coima, dado haver uma violação clara deste decreto-lei, prevista pela coima n.º 17? \nIsto foi o que aconteceu no Mondego, há três ou quatro semanas. Assim, torno a perguntar-lhe se o Sr. Ministro ou o seu Ministério irão pagar esta coima e, em caso afirmativo, a quem.", 
-   "type": "documento"
+   "text": "Sr. Ministro do Ambiente e Recursos Naturais, a propósito do Decreto-Lei n.º 70/90, aconteceu que hoje aqui, pela primeira vez, numa Assembleia - coisa interessante! -, alguém se levantou em defesa deste diploma.\nNa verdade, eu e os meus colegas de grupo parlamentar temos participado em inúmeras discussões e debates públicos sobre a questão do sistema institucional e nunca, apesar de muitos desafios já terem sido lançados nesse sentido, apareceu ninguém a defender este decreto-lei, que é o diploma mais enjeitado de todo o nosso ordenamento jurídico. No entanto, o Sr. Ministro acabou mesmo agora de assumir aqui a defesa do referido decreto-lei, e, embora o tenha feito num curto espaço de tempo, penso que é um facto que deve ser assinalado.\nObviamente, já não disponho de tempo suficiente que me permita escalpelizar este diploma; contudo, quanto à questão dos 18 tipos de coimas, que ele prevê, penso que são mais as coimas do que os artigos,* e gostaria apenas de fazer ressaltar algumas.\nJá aqui constatámos que um industrial, ou melhor, um pobre industrial que mande lançar águas degradadas, sem tratamento, para o sistema de esgotos ou para os cursos de água paga de 200 000 a 500 000 contos.\nOra, 500 000 contos ainda são meio milhão de contos!... Aliás, qualquer destas verbas é muito superior ao capital social da grande maioria das empresas portuguesas.\nSe as empresas portuguesas não estão habituadas a pagar coimas desta espécie -apenas algumas pagaram coimas de 30 000$ e 40 000$-, não sei como é que se irão «habituar»!...\nSr. Ministro, ocorre-me perguntar: quem é que vai ser o bode expiatório das empresas portuguesas e qual é o alvo do Sr. Ministro no leque das empresas portuguesas? É alguma empresa de celulose, de curtumes ou de químicos? Quem é que vai pagar por todos aqueles que poluem o ambiente? \nO Sr. Ministro, na sua intervenção, disse ainda que, em Portugal, nunca houve acidentes como os que ocorreram no Reno, em Bhopal ou em Seveso.\nOra bem, Sr. Ministro, situação semelhante à vivida no Reno já tivemos e, quanto aos casos como os de Bhopal e Seveso, Deus queira que não, mas, infelizmente temos condições para isso. Estarreja, Seixal e outras mais- bolsas poderão, um dia destes, vir a transformar-se em Seveso ou Bhopal!...\nQuanto ao desastre do Reno, devo lembrar que, há já algum tempo atrás, o Mondego transformou-se no Reno. Ora, o Sr. Ministro, ao autorizar, como autorizou ou parece ter autorizado -para mim a situação é clara, mas parece que o não é para muita gente!-, o emprego de pesticidas, ainda que a título excepcional, em certos casos (quanto a mim não justificados), e não respeitando, sequer, as instruções mínimas do rótulo, o Sr. Ministro acabou por incorrer na coima mínima de 1 milhão a 200 milhões de escudos. Irá o Sr. Ministro pagar esta coima, dado haver uma violação clara deste decreto-lei, prevista pela coima n.º 17? \nIsto foi o que aconteceu no Mondego, há três ou quatro semanas. Assim, torno a perguntar-lhe se o Sr. Ministro ou o seu Ministério irão pagar esta coima e, em caso afirmativo, a quem.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "O Sr. Presidente:- Sr. Ministro, ainda há mais dois pedidos de esclarecimentos e, como o Governo já não dispõe de tempo para responder, no fim, a Mesa conceder-lhe-á um minuto para fazê-lo. Além disso, a Mesa concederá também um minuto ao Sr. Secretário de Estado para poder fazer uma intervenção.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado Armando Vara.", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Armando Vara* (PS): Sr. Presidente, Srs. Deputados: O Sr.Ministro referiu o meu nome para dizer que eu tinha considerado as coimas exageradas. Ora, o que eu pretendi foi chamar a atenção para a irracionalidade deste problema.\nÉ que, em nossa opinião, aquelas coimas nunca virão a ser aplicadas, de tão irracionais e tão altas que são relativamente a certos parâmetros.\nJulgamos que se destinam a nunca ser aplicadas.\nNa verdade, cada vez que surja um problema do género apontado, a entidade a quem cabe a decisão de aplicação das coimas defrontar-se-á sempre com a hipótese da eventual falência da empresa transgressora.\nAssim, como se trata de uma coima irracional, não se aplica. Há ainda o contraste com o decreto-lei sobre impacte ambiental, em cujo artigo 10.º se diz que «[...] a execução de projectos sujeitos a avaliação de estudos de impacte ambiental, sem a necessária aprovação ou com a violação do conteúdo, é punível por contra-ordenação com coima de 500 a 6000 contos [...]».\nRepito, pois, que há uma irracionalidade na forma como este problema nos é apresentado e que é isso que queremos salientar.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Vara", 
+   "text": "Sr. Presidente, Srs. Deputados: O Sr.Ministro referiu o meu nome para dizer que eu tinha considerado as coimas exageradas. Ora, o que eu pretendi foi chamar a atenção para a irracionalidade deste problema.\nÉ que, em nossa opinião, aquelas coimas nunca virão a ser aplicadas, de tão irracionais e tão altas que são relativamente a certos parâmetros.\nJulgamos que se destinam a nunca ser aplicadas.\nNa verdade, cada vez que surja um problema do género apontado, a entidade a quem cabe a decisão de aplicação das coimas defrontar-se-á sempre com a hipótese da eventual falência da empresa transgressora.\nAssim, como se trata de uma coima irracional, não se aplica. Há ainda o contraste com o decreto-lei sobre impacte ambiental, em cujo artigo 10.º se diz que «[...] a execução de projectos sujeitos a avaliação de estudos de impacte ambiental, sem a necessária aprovação ou com a violação do conteúdo, é punível por contra-ordenação com coima de 500 a 6000 contos [...]».\nRepito, pois, que há uma irracionalidade na forma como este problema nos é apresentado e que é isso que queremos salientar.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado Nogueira de Brito.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado Nogueira de Brito.\nO Sr. Nogueira de Brito (CDS):- Sr. Presidente, Sr. Ministro e Srs.Deputados: Também quero voltar a esta questão das coimas.\nEm primeiro lugar,- não posso deixar de sublinhar duas alíneas que prevêem coimas máximas de 500 000 contos - meio milhão de contos! \nOra, em alguns casos, é inegável que não se alcança muito bem qual a razão da distinção, por exemplo, entre as alíneas m) e n). Mas por que é que os limites mínimos são tão diferentes: 10 000 contos, no primeiro caso, e 200 000 contos, no segundo? \nPara além de estes limites, serem graves, certo é que VV. Ex.ªs apenas prevêem que, nos casos de mera negligencia - isto é, naqueles em que o agente esteja a cometer a infracção sem - consciência de estar a fazê-la-, a coima máxima possa apenas ser reduzida para metade.\nPortanto, em casos de simples negligência, estas duas infracções poderão dar lugar ao pagamento de coimas de", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Nogueira de Brito (CDS):- Sr. Presidente, Sr. Ministro e Srs.Deputados: Também quero voltar a esta questão das coimas.\nEm primeiro lugar,- não posso deixar de sublinhar duas alíneas que prevêem coimas máximas de 500 000 contos - meio milhão de contos! \nOra, em alguns casos, é inegável que não se alcança muito bem qual a razão da distinção, por exemplo, entre as alíneas m) e n). Mas por que é que os limites mínimos são tão diferentes: 10 000 contos, no primeiro caso, e 200 000 contos, no segundo? \nPara além de estes limites, serem graves, certo é que VV. Ex.ªs apenas prevêem que, nos casos de mera negligencia - isto é, naqueles em que o agente esteja a cometer a infracção sem - consciência de estar a fazê-la-, a coima máxima possa apenas ser reduzida para metade.\nPortanto, em casos de simples negligência, estas duas infracções poderão dar lugar ao pagamento de coimas de", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "7 DE JULHO DE 1990 3347", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "250 000 contos já aqui foram feitas referências à relação entre este montante e o capital social das empresas, o que é importante.\nPara além da gravidade do que acabo de expor, gostaria de chamar a atenção do Sr. Ministro para um outro aspecto.\nÉ que não vejo, neste diploma, qualquer disposição transitória que permita a passagem para um outro, de um regime que era radicalmente diferente - como V. Ex.ª salientou -, de grande anarquia legislativa, designadamente no que, ultimamente, respeitava à própria estrutura administrativa de gestão dos recursos hídricos e de grande complacência quanto a esta matéria das contra-ordenações. Assim, passa-se de um regime para um outro, com os cinco dias da praxe, porque este diploma entra em vigor com os cinco dias de vacado legis normais.\nSó não acontecerá assim porque parto do princípio de que, como o Sr.Ministro vai fazer depender da regulamentação do INAG (Instituto Nacional da Água) a existência desta entidade, e como, em princípio, esta é responsável pela aplicação das coimas, estamos dependentes desta vacatio legis um pouco fluida.\nIsto é, quando é que este diploma vai entrar em vigor? Será de repente, sem que as pessoas estejam prevenidas! Repito, Sr. Ministro, que não há uma disposição transitória, o que é extremamente grave!", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Sr. Herculano Pombo (Os Verdes):- As pessoas já estão a amealhar para pagarem as coimas!", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Orador:- Por outro lado, V. Ex.ª falou nos conselhos regionais da água e atribuiu-lhes vantagens participativas amplas.\nAssim, pergunto ao Sr. Ministro: aquelas resultam da sua vontade, estão no seu pensamento? Por que é que aquelas vantagens não encontraram tradução no decreto--lei? Por que é que, neste diploma, a composição do conselho regional da água não encontrou tradução directa de forma mais completa, quanto às suas estrutura e composição e até quanto à sua competência? \nSão estas as perguntas que tenho para deixar a V. Ex.ª", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "A Sr.ª Ilda Figueiredo (PCP): Sr. Presidente, peço a palavra.", 
-   "type": "documento"
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "O Sr. Presidente:- Para que efeito. Sr.ª Deputada?", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "A Sr.ª Ilda Figueiredo (PCP):- Sr. Presidente, é também para um breve pedido de esclarecimento.", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "O Sr. Presidente:- Bom, Srs. Deputados, a Mesa enveredou pelo caminho das condescendências, que, pelos vistos, é um mau caminho. Assim, dada a conjuntura que foi criada, a Mesa vai conceder-lhe 30 segundos, Sr.ª Deputada Ilda Figueiredo.", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "A Sr.ª Ilda Figueiredo (PCP): Muito obrigada, Sr. Presidente.\nSr. Ministro, não acha que é um exagero colocar nas mãos de uma única pessoa -o presidente do INAG - a possibilidade de aplicação destes 18 tipos de multas, atendendo a toda a gravidade que as mesmas implicam, nomeadamente quanto à falta de definição de critérios objectivos, para além dos montantes envolvidos, de que já aqui se falou?", 
-   "type": "documento"
+   "text": "Muito obrigada, Sr. Presidente.\nSr. Ministro, não acha que é um exagero colocar nas mãos de uma única pessoa -o presidente do INAG - a possibilidade de aplicação destes 18 tipos de multas, atendendo a toda a gravidade que as mesmas implicam, nomeadamente quanto à falta de definição de critérios objectivos, para além dos montantes envolvidos, de que já aqui se falou?", 
+   "type": "speaker_error"
   }, 
   {
    "text": "O Sr. Presidente:- Para responder, tem a palavra o Sr. Ministro do Ambiente e dos Recursos Naturais.", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "O Sr. Ministro do Ambiente e dos Recursos Naturais:- Srs. Deputados, compreendo em parte as vossas preocupações, mas não posso deixar de referir que temos de defender, intransigentemente, o recurso natural mais importante que é a água.\nNa verdade, a água é um recurso que, neste momento, começa a ser escasso em todo o mundo. Por exemplo, basta ler O Estado do Planeta em 1990 para verificar que está a ter-se conhecimento de que, cada vez mais, a água é um produto mais caro e fundamental para a vida.\nSr. Deputado Herculano Pombo, a propósito da referência que fez sobre o caso do Mondego, quero dizer-lhe que fui procurado pela associação dos agricultores e que apenas constituí uma comissão, da qual exigi que fizessem parte representantes dos Ministérios da Saúde e da \nAgricultura, das associações dos agricultores e dos industriais. Além disso, deixei uma série de recomendações por escrito, dizendo que só poderiam utilizar o referido pesticida se, em reunião dessa comissão, ficasse provado que tal utilização não implicaria perigo para a região.\nPortanto, a decisão foi tomada por aquela comissão, após tudo ter sido analisado, e, precisamente para não dar lugar a dúvidas, deixei documentos escritos sobre esta matéria.\nMais lhe digo que talvez estivesse em perigo o sustento de muitas centenas de agricultores e, portanto, a produção de arroz em toda aquela zona.\nSr. Deputado Nogueira de Brito, em primeiro lugar, quero dizer-lhe que reconheço quê analisou este diploma com muita atenção. Quanto à incompreensão que manifestou relativamente à discrepância entre as duas alíneas que citou, quero esclarecê-lo de que houve aí uma gralha que já foi rectificada. Portanto, julgo que, possivelmente, V. Ex.ª não teve oportunidade de ver a rectificação.\nSr. Deputado Armando Vara, noto em si também uma grande preocupação, como, aliás, o Governo tem, na defesa deste recurso que é, talvez, o mais precioso.\nSe nós somos ricos no Norte do País em água, no Sul somos pobres.\nTemos, por isso, de fazer uma distribuição racional e integrada e um planeamento correcto para que esse bem fundamental chegue a todo o País.\nFinalmente, à Sr.ª Deputada Ilda Figueiredo, quero dizer-lhe, muito rapidamente, que no regulamento que estamos a lazer do INAG vamos ter todos os cuidados para que, na realidade, a responsabilidade na cominação das multas não caiba a uma única pessoa. A aplicação dessas multas, nos casos máximos -e, como disse há pouco, podem ser dependentes de verdadeiros desastres ecológicos, que possam resultar por defeito de alguma indústria ou outra entidade que vá contaminar as águas-, será analisada com todo o cuidado!", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, estão inscritos para intervenções os Srs. Deputados Herculano Pombo, Manuel Moreira e Nogueira de Brito.\nO Sr. Secretário de Estado fica também inscrito e, além de um minuto que a Mesa lhe concedeu, o PSD dispensa-lhe mais dois minutos, pelo que ficará com três minutos para a sua intervenção.\nTem a palavra o Sr. Deputado Herculano Pombo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, estão inscritos para intervenções os Srs. Deputados Herculano Pombo, Manuel Moreira e Nogueira de Brito.\nO Sr. Secretário de Estado fica também inscrito e, além de um minuto que a Mesa lhe concedeu, o PSD dispensa-lhe mais dois minutos, pelo que ficará com três minutos para a sua intervenção.\nTem a palavra o Sr. Deputado Herculano Pombo.\n3348 I SÉRIE - NÚMERO 97", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "3348 I SÉRIE - NÚMERO 97", 
-   "type": "documento"
+   "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Depois deste esclarecimento do Sr. Ministro e antes de entrar na questão do impacte ambiental, sentia-me tentado a apresentar publicamente uma proposta de alteração ao Decreto-Lei n.º 70/90, no sentido de que as coimas pudessem ser pagas em dinheiro ou em géneros, isto para que a comissão que acaba de desinfestar o Baixo Mondego, mesmo no Paul de Argila, pudesse pagar em arroz esta coima de, no mínimo, 1000 contos, que, pelos vistos, vai ter de pagar.\nFeita esta proposta, que, penso, será aceite por unanimidade - pelo menos infiro isso dos sorrisos que vejo!...-, passaria a analisar a questão do impacte ambiental.\nA avaliação do impacte ambiental é, como todos sabemos, um instrumento fundamental de qualquer política de ambiente e, como tal, está prevista na nossa Lei de Bases.\nEste decreto-lei que hoje aqui chamamos a ratificação 6 um diploma, de alguma forma, «sebastiânico», uma vez que andou envolto em nevoeiro, durante largos meses, e ninguém sabia muito bem onde parava... Havia quem dissesse que parava em gavetas do Palácio de Belém; havia quem apontasse para outras gavetas, bem mais próximas, da Rua do Século...\nE, enfim, estava, com efeito, em gavetas, mas estava também na mente de muita gente e estava, sobretudo, na esperança e na exigência dos ecologistas portugueses e não só! \nAconteceu que, depois de todos nos termos pronunciado bastamente sobre o projecto e de lhe termos proposto alterações de fundo, sai o decreto-lei sem consagrar qualquer das alterações propostas, o que suscitou ao Sr. Presidente da República sérias dúvidas quanto à qualidade do instrumento de política que se queria implementar e que veio, de facto, a publicar-se.\nDe qualquer modo, o Governo, depois das dúvidas do Sr. Presidente da República, levou em consideração que havia, de facto, que alterar alguma coisa e - vá lá! - alterou a questão dos prazos de apresentação do estudo de 60 para 120 dias, mas ficou-se por aí! \nOra, sabemos que um instrumento desta magnitude tem de ser de alta qualidade e acima de tudo respeitado, começando por despertar, logo desde o seu início, o interesse e a vinculação dos técnicos \nencarregados de elaborá-lo.\nNão é, porém, o que acontece com o instrumento proposto no decreto-lei, já que ele não é vinculativo e, por isso, perde qualquer eficácia, começando por aí a sua perversão-digamos assim. Diria, até, que o Governo está a tentar vender-nos uma ferramenta com defeito de fabrico, passando-a por boa. Ora, esta «ferramenta» tem defeitos graves de fabrico, pelo que nunca funcionará, nunca será um instrumento de política ambiental - aliás, também não temos política ambiental, e, portanto, condiz a ferramenta com o ferramentista.\nContudo, este decreto-lei prevê uma coisa que é extraordinária, ou seja, a aprovação tácita dos estudos de impacte ambiental. E que quer isto dizer? Muito simplesmente que, como o ministério da tutela não tem pessoal disponível para analisar os estudos, passado que seja um determinado prazo, eles ficam aprovados tacitamente, o que irá acontecer na maioria dos casos, como hoje já acontece, por exemplo, com os estudos para a implantação das chamadas mini-hídricas, com mais de 800 projectos que o Ministério não tem dinheiro nem gente para analisar e, portanto, ficam tacitamente aprovados.\nDepois, exige-se que o processo de avaliação do impacte ambiental se faça não na altura inicial do projecto mas apenas durante o \nlicenciamento, ou seja, quando a localização já está decidida, e, portanto, é como que uma confirmação. É como se encomendássemos um estudo confumador e não um estudo que levantasse dúvidas ou questões.\nHá, depois, um sem número de actividades industriais extremamente poluidoras que não estuo sujeitas à avaliação do impacte ambiental e, portanto, aqui -pasme-se!- há um anexo que é a cópia fiel, exacta, do anexo da directiva comunitária e, depois, pretende-se -como o Sr.Secretário de Estado dirá, a seguir, certamente- incluir um lote de outras indústrias num decreto regulamentar. Porquê umas num decreto regulamentar e porquê outras numa «fotocópia» de uma directiva comunitária?\nO Orador:- Termino já Sr. Presidente... Isto é, enfim, muito pouco tempo para tão grande impacte, mas vou tentar «avaliá-lo», todo!...", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. Herculano Pombo (Os Verdes): Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Depois deste esclarecimento do Sr. Ministro e antes de entrar na questão do impacte ambiental, sentia-me tentado a apresentar publicamente uma proposta de alteração ao Decreto-Lei n.º 70/90, no sentido de que as coimas pudessem ser pagas em dinheiro ou em géneros, isto para que a comissão que acaba de desinfestar o Baixo Mondego, mesmo no Paul de Argila, pudesse pagar em arroz esta coima de, no mínimo, 1000 contos, que, pelos vistos, vai ter de pagar.\nFeita esta proposta, que, penso, será aceite por unanimidade - pelo menos infiro isso dos sorrisos que vejo!...-, passaria a analisar a questão do impacte ambiental.\nA avaliação do impacte ambiental é, como todos sabemos, um instrumento fundamental de qualquer política de ambiente e, como tal, está prevista na nossa Lei de Bases.\nEste decreto-lei que hoje aqui chamamos a ratificação 6 um diploma, de alguma forma, «sebastiânico», uma vez que andou envolto em nevoeiro, durante largos meses, e ninguém sabia muito bem onde parava... Havia quem dissesse que parava em gavetas do Palácio de Belém; havia quem apontasse para outras gavetas, bem mais próximas, da Rua do Século...\nE, enfim, estava, com efeito, em gavetas, mas estava também na mente de muita gente e estava, sobretudo, na esperança e na exigência dos ecologistas portugueses e não só! \nAconteceu que, depois de todos nos termos pronunciado bastamente sobre o projecto e de lhe termos proposto alterações de fundo, sai o decreto-lei sem consagrar qualquer das alterações propostas, o que suscitou ao Sr. Presidente da República sérias dúvidas quanto à qualidade do instrumento de política que se queria implementar e que veio, de facto, a publicar-se.\nDe qualquer modo, o Governo, depois das dúvidas do Sr. Presidente da República, levou em consideração que havia, de facto, que alterar alguma coisa e - vá lá! - alterou a questão dos prazos de apresentação do estudo de 60 para 120 dias, mas ficou-se por aí! \nOra, sabemos que um instrumento desta magnitude tem de ser de alta qualidade e acima de tudo respeitado, começando por despertar, logo desde o seu início, o interesse e a vinculação dos técnicos \nencarregados de elaborá-lo.\nNão é, porém, o que acontece com o instrumento proposto no decreto-lei, já que ele não é vinculativo e, por isso, perde qualquer eficácia, começando por aí a sua perversão-digamos assim. Diria, até, que o Governo está a tentar vender-nos uma ferramenta com defeito de fabrico, passando-a por boa. Ora, esta «ferramenta» tem defeitos graves de fabrico, pelo que nunca funcionará, nunca será um instrumento de política ambiental - aliás, também não temos política ambiental, e, portanto, condiz a ferramenta com o ferramentista.\nContudo, este decreto-lei prevê uma coisa que é extraordinária, ou seja, a aprovação tácita dos estudos de impacte ambiental. E que quer isto dizer? Muito simplesmente que, como o ministério da tutela não tem pessoal disponível para analisar os estudos, passado que seja um determinado prazo, eles ficam aprovados tacitamente, o que irá acontecer na maioria dos casos, como hoje já acontece, por exemplo, com os estudos para a implantação das chamadas mini-hídricas, com mais de 800 projectos que o Ministério não tem dinheiro nem gente para analisar e, portanto, ficam tacitamente aprovados.\nDepois, exige-se que o processo de avaliação do impacte ambiental se faça não na altura inicial do projecto mas apenas durante o \nlicenciamento, ou seja, quando a localização já está decidida, e, portanto, é como que uma confirmação. É como se encomendássemos um estudo confumador e não um estudo que levantasse dúvidas ou questões.\nHá, depois, um sem número de actividades industriais extremamente poluidoras que não estuo sujeitas à avaliação do impacte ambiental e, portanto, aqui -pasme-se!- há um anexo que é a cópia fiel, exacta, do anexo da directiva comunitária e, depois, pretende-se -como o Sr.Secretário de Estado dirá, a seguir, certamente- incluir um lote de outras indústrias num decreto regulamentar. Porquê umas num decreto regulamentar e porquê outras numa «fotocópia» de uma directiva comunitária?", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Sr. Deputado, queira terminar, porque também já foi contemplado com a cedência, pela Mesa, de mais um minuto.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Orador:- Termino já Sr. Presidente... Isto é, enfim, muito pouco tempo para tão grande impacte, mas vou tentar «avaliá-lo», todo!...", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, queira terminar, porque também já foi contemplado com a cedência, pela Mesa, de mais um minuto.", 
+   "type": "presidente_aparte"
   }, 
   {
    "text": "Risos.", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
    "text": "Não se prevê também qualquer tipo de regime especial para as áreas protegidas, ou seja, instalar uma fabriqueta num lado qualquer não é a mesma coisa que instalá-la dentro de uma área protegida, ainda que seja um sítio de paisagem protegida. Portanto, deveria haver normas especiais de protecção para as chamadas áreas protegidas, normas que não existem nem estão contempladas neste diploma.\nDepois -e com isto terminarei- há uma possibilidade 'de «isenção de estudo de impacte ambiental», que depende, apenas, do Governo, que afinal pode isentar \n- sabe-se lá porquê!...- determinado tipo de indústria, ainda que muito poluente. E há uma que está desde logo isenta: é a indústria militar ou as instalações de interesse para a defesa e segurança nacionais.\nOra, todos sabemos qual é a intenção disto...! É, de facto, não fazer qualquer estudo sério, nomeadamente sobre a instalação da estrutura do Campo de Tiro de Alcochete ou do Campo Militar de Mértola ou de onde quer que seja! \nSabemos todos que a defesa nacional, sendo um objectivo de todos e importante para a segurança de todos, é, apesar de tudo, menos importante do que a qualidade de vida das pessoas e que a segurança, em termos gerais, do seu ambiente, e que a defesa nacional começa ou deve começar pela defesa dos recursos naturais! \nSr. Presidente, termino fazendo um último apelo ao Governo no sentido de que tente, no decreto regulamentar que vai fazer publicar, corrigir, ao menos, aquilo que foi uma transposição infeliz, minimalista, sem consciência, de uma directiva comunitária, sabendo nós que uma directiva é já de si um acordo de princípios mínimos, que reúne o consenso de todos os países e se destina apenas à ser um ponto de partida para que os Estados membros, dentro da sua soberania, vão mais além.\nO Estado Português ficou-se aquém, e é pena!", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
    "text": "Aplausos de Os Verdes e do PCP.", 
@@ -734,151 +684,164 @@
   }, 
   {
    "text": "7 DE JULHO DE 1990 3349", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Manuel Moreira.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Manuel Moreira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Sr. Presidente, Srs. Deputados: O PCP e o PS requereram a ratificação, pela Assembleia da República, do Decreto-Lei n.º 70/90, de 2 de Março, que define o regime de bens de domínio público hídrico do Estado. Portugal dispunha de um regulamento de serviços hidráulicos que datava de 1892 e de uma lei de águas de 1919.\nO Governo decidiu -e bem!- elaborar e aprovar o decreto-lei agora em ratificação e que consagra um conjunto de princípios filosóficos novos, tais como o do poluidor/pagador, o da gestão por unidade de bacia, participação dos utilizadores de gestão, etc. Este é o primeiro de um conjunto de diplomas que vão definir uma nova filosofia e estratégia geral sobre a utilização da água no nosso país.\nO Governo irá, no futuro, criar, através de decreto-lei, o Instituto Nacional da Água; irá aprovar, através de um outro diploma, o regime económico e financeiro do domínio público hídrico, etc., e, em 1991, poderemos discutir e aprovar nesta Câmara uma nova lei da água.\nAssim sendo, consideramos que o Decreto-Lei n.º 70/90 é um bom diploma de planeamento e de gestão equilibrada e racional dos recursos hídricos. Por isso, iremos ratificá-lo.\nSr. Presidente, Srs. Deputados: Passarei, agora, a analisar as ratificações n.ºs 135/V (PCP) e 136/V (PEV, PRD e deputados \nindependentes João Corregedor da Fonseca, Helena Roseta e Raul Castro), relativas ao Decreto-Lei n.º 186/90, de 6 de Junho, que sujeita a uma avaliação de impacte ambiental os planos e projectos que, pela sua localização, dimensão ou características, sejam susceptíveis de provocar incidências significativas no ambiente.\nExiste, como é sabido, uma directiva comunitária, a Directiva n.º 85/337/CEE, do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente.\nE o Decreto-Lei n.º 186/90, de 6 de Junho, transpõe, para o direito interno, uma directiva naquilo que é obrigatório em termos de avaliação do impacte ambiental para empreendimentos constantes do seu anexo i e dá cumprimento à Lei de Bases do Ambiente, a Lei n.º 11/87, que, no seu artigo 30.º, obriga à realização de estudos de impacte ambiental para empreendimentos vultosos, que possam danificar o ambiente. O anexo n do Decreto-Lei n.º 186/90 explicita o conteúdo e enumera os requisitos de um estudo de impacte ambiental.\nOs partidos da oposição referem como razão principal para o pedido de ratificação deste Decreto-Lei n.º 186/90, de 6 de Junho, a de que o mesmo não aplica o anexo n da directiva comunitária, mas apenas o anexo 1, visto que se trata de empreendimentos que raramente se constróem em Portugal.\nPara o PSD, o Governo Português limita-se a transpor para o direito interno aquilo a que a CEE o obrigava como Estado membro, em termos de avaliação do impacte ambiental. Não se está, por isso, a incorrer em qualquer situação de ilegalidade ou de desrespeito pelas normas comunitárias. Quanto aos anexos n e m da directiva, que são \nfacultativos, o Governo Português entende que deve prever uma natural e gradual transitoriedade de exigência, por forma a não haver causas súbitas de bloqueamentos e constrangimentos que se não coadunam com o esforço de desenvolvimento em curso em Portugal e que outros países europeus, bem mais ricos, já fizeram.\nTodavia, este governo quer compatibilizar o desenvolvimento económico com uma política de ambiente e, por isso, não só os empreendimentos desses anexos serão gradualmente objecto de avaliação de impacte ambiental, mas também este decreto-lei prevê até, no seu artigo 7.º, ao 1, que os projectos constantes do seu anexo m sejam submetidos à avaliação de impacte ambiental com critérios e limites a definir por decreto regulamentar.\nPor isso, ao pedir a ratificação deste diploma, a oposição mais não faz do que manifestar claramente o seu ecologismo demagógico e utópico.\nSr. Presidente, Srs. Deputados: Posto isto, o PSD irá ratificar o Decreto-Lei n.º 186/90, de 6 de Junho, que consagra um conjunto positivo de princípios gerais de avaliação do impacte ambiental em projectos públicos ou privados do ambiente, com vista a coordenar os processos da respectiva aprovação e, assim, fazer a promoção da qualidade de vida dos Portugueses.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Sr. Presidente, Srs. Deputados: O PCP e o PS requereram a ratificação, pela Assembleia da República, do Decreto-Lei n.º 70/90, de 2 de Março, que define o regime de bens de domínio público hídrico do Estado. Portugal dispunha de um regulamento de serviços hidráulicos que datava de 1892 e de uma lei de águas de 1919.\nO Governo decidiu -e bem!- elaborar e aprovar o decreto-lei agora em ratificação e que consagra um conjunto de princípios filosóficos novos, tais como o do poluidor/pagador, o da gestão por unidade de bacia, participação dos utilizadores de gestão, etc. Este é o primeiro de um conjunto de diplomas que vão definir uma nova filosofia e estratégia geral sobre a utilização da água no nosso país.\nO Governo irá, no futuro, criar, através de decreto-lei, o Instituto Nacional da Água; irá aprovar, através de um outro diploma, o regime económico e financeiro do domínio público hídrico, etc., e, em 1991, poderemos discutir e aprovar nesta Câmara uma nova lei da água.\nAssim sendo, consideramos que o Decreto-Lei n.º 70/90 é um bom diploma de planeamento e de gestão equilibrada e racional dos recursos hídricos. Por isso, iremos ratificá-lo.\nSr. Presidente, Srs. Deputados: Passarei, agora, a analisar as ratificações n.ºs 135/V (PCP) e 136/V (PEV, PRD e deputados \nindependentes João Corregedor da Fonseca, Helena Roseta e Raul Castro), relativas ao Decreto-Lei n.º 186/90, de 6 de Junho, que sujeita a uma avaliação de impacte ambiental os planos e projectos que, pela sua localização, dimensão ou características, sejam susceptíveis de provocar incidências significativas no ambiente.\nExiste, como é sabido, uma directiva comunitária, a Directiva n.º 85/337/CEE, do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente.\nE o Decreto-Lei n.º 186/90, de 6 de Junho, transpõe, para o direito interno, uma directiva naquilo que é obrigatório em termos de avaliação do impacte ambiental para empreendimentos constantes do seu anexo i e dá cumprimento à Lei de Bases do Ambiente, a Lei n.º 11/87, que, no seu artigo 30.º, obriga à realização de estudos de impacte ambiental para empreendimentos vultosos, que possam danificar o ambiente. O anexo n do Decreto-Lei n.º 186/90 explicita o conteúdo e enumera os requisitos de um estudo de impacte ambiental.\nOs partidos da oposição referem como razão principal para o pedido de ratificação deste Decreto-Lei n.º 186/90, de 6 de Junho, a de que o mesmo não aplica o anexo n da directiva comunitária, mas apenas o anexo 1, visto que se trata de empreendimentos que raramente se constróem em Portugal.\nPara o PSD, o Governo Português limita-se a transpor para o direito interno aquilo a que a CEE o obrigava como Estado membro, em termos de avaliação do impacte ambiental. Não se está, por isso, a incorrer em qualquer situação de ilegalidade ou de desrespeito pelas normas comunitárias. Quanto aos anexos n e m da directiva, que são \nfacultativos, o Governo Português entende que deve prever uma natural e gradual transitoriedade de exigência, por forma a não haver causas súbitas de bloqueamentos e constrangimentos que se não coadunam com o esforço de desenvolvimento em curso em Portugal e que outros países europeus, bem mais ricos, já fizeram.\nTodavia, este governo quer compatibilizar o desenvolvimento económico com uma política de ambiente e, por isso, não só os empreendimentos desses anexos serão gradualmente objecto de avaliação de impacte ambiental, mas também este decreto-lei prevê até, no seu artigo 7.º, ao 1, que os projectos constantes do seu anexo m sejam submetidos à avaliação de impacte ambiental com critérios e limites a definir por decreto regulamentar.\nPor isso, ao pedir a ratificação deste diploma, a oposição mais não faz do que manifestar claramente o seu ecologismo demagógico e utópico.\nSr. Presidente, Srs. Deputados: Posto isto, o PSD irá ratificar o Decreto-Lei n.º 186/90, de 6 de Junho, que consagra um conjunto positivo de princípios gerais de avaliação do impacte ambiental em projectos públicos ou privados do ambiente, com vista a coordenar os processos da respectiva aprovação e, assim, fazer a promoção da qualidade de vida dos Portugueses.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
    "text": "O Sr. Presidente:- Sr. Deputado Nogueira de Brito, V. Ex.ª pede a palavra para que efeito?", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
    "text": "O Sr. Nogueira de Brito (CDS):- Para um breve pedido de esclarecimento, Sr. Presidente.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
    "text": "O Sr. Presidente:- Com certeza, Sr. Deputado, mas como ainda está inscrito para uma intervenção, este tempo vai ser-lhe descontado.\nTem V. Ex.ª a palavra, Sr. Deputado Nogueira de Brito.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
    "text": "O Sr. Nogueira de Brito (CDS):- Sr. Deputado Manuel Moreira, V. Ex.ª afirmou claramente que o PSD irá viabilizar o diploma disciplinador da avaliação de impacte ambiental, mas V. Ex.ª não fez a mesma afirmação - suponho- no que respeita ao diploma do domínio público hídrico. Isto porque referi aqui, numa pergunta que coloquei ao Sr. Ministro, um aspecto que me parece importante sobre a necessidade de prever uma disposição transitória com a consagração de um período para a entrada em vigor das disposições de carácter contra-ordenacional, período esse com uma certa largueza, já que há uma alteração radical. E parece-me que, quando V. Ex.ª fala no princípio do poluidor/pagador, é nas coimas que encontra a tradução desse princípio. No entanto, isso não é claro, porque as coimas podem servir unicamente para aguentar a estrutura pública da Administração neste sector.\nDe qualquer modo, trata-se de uma estrutura muito pesada de coimas e suponho que tudo aconselha a que haja um período transitório, uma vacado legis, para a entrada em vigor deste diploma-e especial, não a geral! \nJulgo, pois, que esta é uma lacuna que conviria colmatar, e é esse aspecto que ponho à sua consideraçâo. Sr. Deputado Manuel Moreira.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Manuel Moreira, apesar de V. Ex.ª já não dispor de tempo para responder, a Mesa concede-lhe 30 segundos para esse efeito.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Manuel Moreira, apesar de V. Ex.ª já não dispor de tempo para responder, a Mesa concede-lhe 30 segundos para esse efeito.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Sr. Deputado Nogueira de Brito, julgo que o Governo terá o bom-", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Sr. Deputado Nogueira de Brito, julgo que o Governo terá o bom- 3350 I SÉRIE - NÚMERO 97", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "3350 I SÉRIE - NÚMERO 97", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
    "text": "-senso até porque dispõe de um leque vastíssimo de coimas- de fazer .uma aplicação sensata e equilibrada do diploma. Por isso, julgo que não haverá necessidade desse período de transitoriedade.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr.Secretário de Estado do Ambiente e da Defesa do Consumidor.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr.Secretário de Estado do Ambiente e da Defesa do Consumidor.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Secretário de Estado do Ambiente e da Defesa do Consumidor (Macário Correia): Sr. Presidente, Srs. Deputados: Quero, em primeiro lugar, agradecer a manifestação de interesse que, durante esta manhã, VV. Ex.ªs têm demonstrado pelas questões do ambiente, o que me agrada particularmente. Registei também com agrado as referências que aqui foram feitas à Presidência da República, o que demonstra que o Governo, a Assembleia e o Presidente estão profundamente empenhados nas matérias do ambiente, e isso foi hoje salientado com a apresentação destes diplomas.\nEm segundo lugar, quero dizer que o Governo já cumpriu a directiva comunitária relativa ao impacte ambiental e pretende ir mais além. O Governo elaborou um decreto-lei, publicado no dia 6 de Junho, que cumpre integralmente a directiva comunitária, mas quer ir mais além e, nesse sentido, foi por mim anunciado, publicamente, há algum tempo, que seria preparado um decreto regulamentar, que, neste momento, já está concluído, sendo brevemente publicado no Diário da República. Esse decreto regulamentar define a obrigatoriedade interna -constante do anexo 1 da referida directiva comunitária- de grande parte dos projectos figurarem depois naquilo que é obrigatório sujeitar a impacte ambiental. Com isto, vamos além de muitos outros Estados membros que se ficaram apenas pelo anexo l da directiva.\nDe resto, em relação a essa matéria do decreto regulamentar, será ainda definido, detalhadamente, o modo como se irá fazer a consulta pública que pretendemos seja feita, particularmente junto das autarquias, das associações de defesa do ambiente e do público em geral. Isso vai ser letra do Diário da República, e a muito breve trecho, consoante documentos que já tenho em meu poder e que traduzem a versão aprovada em publicação.\nPor outro lado, quero manifestar a minha preocupação em relação a alguns comentários que ouvi aqui e que põem em causa não só o Governo mas também a figura do Presidente da República, que promulgou e subscreveu aquilo que está hoje publicado, com data de 6 de Junho, no Diário da República.\nPreocupa-me ainda o facto de alguns partidos, com as relações políticas que têm com outros países membros da Comunidade, não fazerem essas críticas tendo em conta aquilo que ocorre noutros países, \nparticularmente em Espanha, onde aquilo que neste momento vigora é bastante diferente daquilo que queremos fazer aqui em Portugal. É por isso que chamo a atenção do PS, quando faz citações de legislação vária de outros países, no sentido de ter em conta o conhecimento amplo dessa matéria.\nPor outro lado, em relação às preocupações ecológicas do PCP, e embora não queira entrar aqui em detalhes, sempre direi que conhecemos os resultados da política de ambiente noutros países que seguiram o modelo de sociedade pelo qual, durante todos estes anos, o PCP tem lutado!...", 
-   "type": "documento"
+   "text": "Sr. Presidente, Srs. Deputados: Quero, em primeiro lugar, agradecer a manifestação de interesse que, durante esta manhã, VV. Ex.ªs têm demonstrado pelas questões do ambiente, o que me agrada particularmente. Registei também com agrado as referências que aqui foram feitas à Presidência da República, o que demonstra que o Governo, a Assembleia e o Presidente estão profundamente empenhados nas matérias do ambiente, e isso foi hoje salientado com a apresentação destes diplomas.\nEm segundo lugar, quero dizer que o Governo já cumpriu a directiva comunitária relativa ao impacte ambiental e pretende ir mais além. O Governo elaborou um decreto-lei, publicado no dia 6 de Junho, que cumpre integralmente a directiva comunitária, mas quer ir mais além e, nesse sentido, foi por mim anunciado, publicamente, há algum tempo, que seria preparado um decreto regulamentar, que, neste momento, já está concluído, sendo brevemente publicado no Diário da República. Esse decreto regulamentar define a obrigatoriedade interna -constante do anexo 1 da referida directiva comunitária- de grande parte dos projectos figurarem depois naquilo que é obrigatório sujeitar a impacte ambiental. Com isto, vamos além de muitos outros Estados membros que se ficaram apenas pelo anexo l da directiva.\nDe resto, em relação a essa matéria do decreto regulamentar, será ainda definido, detalhadamente, o modo como se irá fazer a consulta pública que pretendemos seja feita, particularmente junto das autarquias, das associações de defesa do ambiente e do público em geral. Isso vai ser letra do Diário da República, e a muito breve trecho, consoante documentos que já tenho em meu poder e que traduzem a versão aprovada em publicação.\nPor outro lado, quero manifestar a minha preocupação em relação a alguns comentários que ouvi aqui e que põem em causa não só o Governo mas também a figura do Presidente da República, que promulgou e subscreveu aquilo que está hoje publicado, com data de 6 de Junho, no Diário da República.\nPreocupa-me ainda o facto de alguns partidos, com as relações políticas que têm com outros países membros da Comunidade, não fazerem essas críticas tendo em conta aquilo que ocorre noutros países, \nparticularmente em Espanha, onde aquilo que neste momento vigora é bastante diferente daquilo que queremos fazer aqui em Portugal. É por isso que chamo a atenção do PS, quando faz citações de legislação vária de outros países, no sentido de ter em conta o conhecimento amplo dessa matéria.\nPor outro lado, em relação às preocupações ecológicas do PCP, e embora não queira entrar aqui em detalhes, sempre direi que conhecemos os resultados da política de ambiente noutros países que seguiram o modelo de sociedade pelo qual, durante todos estes anos, o PCP tem lutado!...", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "A Sr.ª Ilda Figueiredo (PCP): Essa cassette já é velha!", 
-   "type": "documento"
+   "text": "Essa cassette já é velha!", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Orador: Sr.ª Deputada, nós não utilizamos cassettes, apenas tentamos lembrar às pessoas as realidades, e é isso que estou a fazer em relação aos Srs. Deputados do PCP, que, eventualmente, podem não ter lido alguns documentos vindos a lume na imprensa portuguesa, e cuja leitura aconselho vivamente, pelo facto de ficar aí demonstrado qual seria a política de ambiente em Portugal caso o PCP fosse poder.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Sr.ª Deputada, nós não utilizamos cassettes, apenas tentamos lembrar às pessoas as realidades, e é isso que estou a fazer em relação aos Srs. Deputados do PCP, que, eventualmente, podem não ter lido alguns documentos vindos a lume na imprensa portuguesa, e cuja leitura aconselho vivamente, pelo facto de ficar aí demonstrado qual seria a política de ambiente em Portugal caso o PCP fosse poder.", 
+   "type": "continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: A Sr.ª Deputada Ilda Figueiredo pediu a palavra para que efeito?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "A Sr.ª Deputada Ilda Figueiredo pediu a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "text": "A Sr.ª Ilda Figueiredo (PCP): Para pedir esclarecimentos ao Sr.Secretário de Estado, a fim de que ele clarifique melhor algumas afirmações que fez. Utilizarei, para o efeito, tempo cedido pelo PRD, Sr. Presidente.", 
-   "type": "documento"
+   "text": "Para pedir esclarecimentos ao Sr.Secretário de Estado, a fim de que ele clarifique melhor algumas afirmações que fez. Utilizarei, para o efeito, tempo cedido pelo PRD, Sr. Presidente.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: A Mesa está informada de que o PRD cedeu algum tempo ao PCP, mas o que acontece é que o Sr. Secretário de Estado já não dispõe de tempo para responder.\nAliás, a Mesa deve explicar que a razão de ser da sua condescendência relativamente aos tempos deve-se apenas ao facto de também estar muito interessada nos problemas relacionados com o ambiente-embora o Sr.Secretário de Estado se tenha mostrado muito agradecido aos deputados e tenha omitido a Mesa nesse seu agradecimento...", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "A Mesa está informada de que o PRD cedeu algum tempo ao PCP, mas o que acontece é que o Sr. Secretário de Estado já não dispõe de tempo para responder.\nAliás, a Mesa deve explicar que a razão de ser da sua condescendência relativamente aos tempos deve-se apenas ao facto de também estar muito interessada nos problemas relacionados com o ambiente-embora o Sr.Secretário de Estado se tenha mostrado muito agradecido aos deputados e tenha omitido a Mesa nesse seu agradecimento...\nRisos.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Risos.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "O Sr. Presidente Ferraz de Abreu é um verdadeiro social-democrata!\nRisos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): O Sr. Presidente Ferraz de Abreu é um verdadeiro social-democrata!", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Risos.", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
    "text": "O Sr. Presidente:- Ó Sr. Deputado, não tenho qualquer dúvida disso! Só não sei é a quem é que V. Ex.ª quer associar-me!...", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
    "text": "O Sr. Deputado Armando Vara pediu a palavra para que efeito?", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
    "text": "O Sr. Armando Vara (PS):- É também para pedir esclarecimentos.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos fazer aqui um acordo: darei a cada um dos Srs. Deputados 30 segundos para pedirem esclarecimentos e outros 30 segundos ao Sr. Secretário de Estado para poder responder.\nTem, então, a palavra a Sr.ª Deputada Ilda Figueiredo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos fazer aqui um acordo: darei a cada um dos Srs. Deputados 30 segundos para pedirem esclarecimentos e outros 30 segundos ao Sr. Secretário de Estado para poder responder.\nTem, então, a palavra a Sr.ª Deputada Ilda Figueiredo.\nA Sr.ª Ilda Figueiredo (PCP): -Sr. Secretário de Estado, o que me preocupa é que este diploma sobre a avaliação do impacte ambiental, além de não definir quem é a entidade que vai realizá-lo, também não define como é que vai ser feita a audição pública, que, como o Sr.Secretário de Estado sabe, é uma questão essencial para a participação das populações numa política de ambiente e, sobretudo, na prevenção.\nPara além disso, repito, no artigo 2.º, n.º 4, o decreto-lei diz que «em casos excepcionais os projectos referidos no número anterior podem ser isentos de avaliação", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Ilda Figueiredo (PCP): -Sr. Secretário de Estado, o que me preocupa é que este diploma sobre a avaliação do impacte ambiental, além de não definir quem é a entidade que vai realizá-lo, também não define como é que vai ser feita a audição pública, que, como o Sr.Secretário de Estado sabe, é uma questão essencial para a participação das populações numa política de ambiente e, sobretudo, na prevenção.\nPara além disso, repito, no artigo 2.º, n.º 4, o decreto-lei diz que «em casos excepcionais os projectos referidos no número anterior podem ser isentos de avaliação", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "7 DE JULHO DE 1990 3351", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "de impacte ambiental por decisão conjunta de um membro do Governo competente na área do projecto», ou seja, isto não significa, Sr.Secretário de Estado, que, na prática, todos os projectos possam ser isentos de avaliação de impacte ambiental.\nRelativamente à segunda questão, quero dizer, muito rapidamente, que no artigo 11.º, n.º 2, o decreto-lei diz o seguinte: «O presente regime não se aplica aos projectos cujo processo de aprovação esteja em curso à data de entrada em vigor do presente diploma».\nSr. Secretário de Estado, não acha que é demais? Não acha que assim, afinal, ficam fora de avaliação de impacte ambiental todos os projectos de auto-estradas, o alargamento do Campo de Tiro de Alcochete..., isto é, todos os grandes projectos que estão a ser contestados, neste momento, no nosso país, incluindo o alargamento de portos, de aeroportos, etc.?", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Sr. Presidente:- Tem a palavra o Sr. Deputado Armando Vara, utilizando apenas 30 segundos, como ficou acordado.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Armando Vara* (PS): É sempre difícil seleccionar uma pergunta para ser feita em 30 segundos, quando as questões relacionadas com este problema são tantas, Sr. Presidente.\nDe qualquer forma, quero fazer um breve comentário à observação feita pelo Sr. Secretário de Estado relacionada com aquilo que ele considerou o pouco respeito que algumas forcas políticas teriam pela figura do Sr.Presidente da República, que, tanto quanto referiu, interveio neste processo.\nCertamente o Sr. Secretário de Estado não ouviu o que tive oportunidade de dizer quando caracterizei o processo de como este decreto-lei relativo ao impacte ambiental se revestiu e, desde logo, o facto de o Primeiro-Ministro ter ignorado os responsáveis governamentais pela área do ambiente e ter pedido, tanto quanto foi tornado público, a alguns especialistas, fora da área do Ministério, para desenvolverem e apresentarem um projecto diferente daquilo que seriam os estudos já existentes no Ministério!...\nEm segundo lugar -e cito até de novo o que tive oportunidade de dizer -, reconhecendo o progresso realizado entre São Bento e Belém, entendemos que existem pontos que ganhariam em ser diferentemente enunciados, tendo referido quais. Consideramos, portanto, que houve uma evolução positiva entre aquilo que foram os esforços do Sr. Presidente da República no sentido de alterar algumas das questões que o decreto-lei previa, mas não deixámos, apesar de tudo, de ter em atenção algumas observações em relação a um ou dois pontos.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Vara", 
+   "text": "É sempre difícil seleccionar uma pergunta para ser feita em 30 segundos, quando as questões relacionadas com este problema são tantas, Sr. Presidente.\nDe qualquer forma, quero fazer um breve comentário à observação feita pelo Sr. Secretário de Estado relacionada com aquilo que ele considerou o pouco respeito que algumas forcas políticas teriam pela figura do Sr.Presidente da República, que, tanto quanto referiu, interveio neste processo.\nCertamente o Sr. Secretário de Estado não ouviu o que tive oportunidade de dizer quando caracterizei o processo de como este decreto-lei relativo ao impacte ambiental se revestiu e, desde logo, o facto de o Primeiro-Ministro ter ignorado os responsáveis governamentais pela área do ambiente e ter pedido, tanto quanto foi tornado público, a alguns especialistas, fora da área do Ministério, para desenvolverem e apresentarem um projecto diferente daquilo que seriam os estudos já existentes no Ministério!...\nEm segundo lugar -e cito até de novo o que tive oportunidade de dizer -, reconhecendo o progresso realizado entre São Bento e Belém, entendemos que existem pontos que ganhariam em ser diferentemente enunciados, tendo referido quais. Consideramos, portanto, que houve uma evolução positiva entre aquilo que foram os esforços do Sr. Presidente da República no sentido de alterar algumas das questões que o decreto-lei previa, mas não deixámos, apesar de tudo, de ter em atenção algumas observações em relação a um ou dois pontos.\nO Sr. Presidente:- Tem a palavra o Sr. Secretário de Estado do Ambiente e da Defesa do Consumidor, utilizando também apenas 30 segundos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. Presidente:- Tem a palavra o Sr. Secretário de Estado do Ambiente e da Defesa do Consumidor, utilizando também apenas 30 segundos.", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Armando Vara", 
    "text": "O Sr. Secretário de Estado do Ambiente e da Defesa do Consumidor:- Sr.Presidente, Srs. Deputados: De uma forma naturalmente breve e em relação às preocupações da Sr.ª Deputada Ilda Figueiredo, quanto ao carácter excepcional, devo dizer que, se a Sr.ª Deputada verificar a leitura da versão portuguesa da directiva, é essa a excepção que está lá igualmente consagrada e que está transposta no artigo do decreto-lei que está, naturalmente, publicado no Diário da República.\nPor outro lado, devo dizer-lhe que, em relação a essa matéria, da interpretação do «11.º», aquilo que é claro é que os estudos das grandes obras tem geralmente um estudo de viabilidade, um estudo prévio, um anteprojecto e um projecto. Importa clarificar em que fase é que se considera a decisão tomada e em que momento é que o estudo do impacte ambiental deve ser encomendado neste processo de aprovação dos grandes empreendimentos, pois aquilo que se acordou com Bruxelas foi que seja no momento da elaboração do estudo prévio que deva fazer--se, naturalmente, essa encomenda do estudo de impacte.\nDaí que alguns casos, neste momento, em adjudicação de obra ou a partir de 3 de Julho de 1988, não possam, por razões de direito comunitário, ser obrigados a isso. No entanto, desde 1988, e antes de estas medidas estarem publicados no Diário da República, já se vinham fazendo muitos estudos de impacte ambiental, estudos que, aliás, são conhecidos. O caso da Auto-Estrada Lisboa/Estoril, o caso da Auto-Estrada do Norte, que atravessa o Parque Natural da Serra de Aire e Candeeiros, e o da Via do Infante tiveram estudos de impacte ambiental, efectuados antes de o decreto-lei estar publicado em Portugal-estes além de outros casos que poderia referir-lhe e em que houve o cuidado de fazer esses estudos.\nEm relação às preocupações do Sr. Deputado Armando Vara, fiquei esclarecido com a leitura das suas notas, como já tinha ficado, aliás, aquando da sua intervenção. De facto, aquilo que acho salutar e por que este governo se tem naturalmente batido é para que as instituições funcionem, que não sejam meras figuras decorativas e de «cortar fitas».\nEu prestigio e quero vir ao Parlamento, com dignidade, contribuir politicamente para que o ambiente tenha melhores instrumentos, tal como creio ser certamente esse o sentimento em Belém. De maneira que aquilo que a legislação reflecte no Diário da República será um esforço e um contributo de Belém, daqui de São Bento e também do Governo. É nesse sentido que interpreto aquilo que o Diário da República naturalmente vincula e é essa colaboração que é salutar. É por isso que estou aqui, de outra maneira não poderia estar.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, não havendo mais inscrições, está encerrado o debate destes pedidos de ratificação, cujas votações serão naturalmente feitas em tempo adequado.\nQuero ainda informar que a próxima reunião plenária terá lugar na terça-feira, dia 10, com início às 10 horas.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Está encerrada a sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, não havendo mais inscrições, está encerrado o debate destes pedidos de ratificação, cujas votações serão naturalmente feitas em tempo adequado.\nQuero ainda informar que a próxima reunião plenária terá lugar na terça-feira, dia 10, com início às 10 horas.\nEstá encerrada a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 12 horas e 50 minutos.", 
@@ -887,17 +850,19 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Amândio Santa Cruz Basto Oliveira.\nAristides Alves do Nascimento Teixeira.\nDinah Serrão Alhandra. Francisco Mendes Costa.\nVítor Pereira Crespo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

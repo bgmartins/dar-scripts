@@ -29,8 +29,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Está aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Está aberta a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 16 horas e 15 minutos.", 
@@ -39,7 +40,7 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -144,389 +145,336 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o representante da ASDI, Sr. Deputado Magalhães Mota.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante da ASDI, Sr. Deputado Magalhães Mota.\nO Sr. Magalhães Mota (ASDI):- Sr. Presidente, da República, Sr.Presidente da Assembleia da República, Srs. Deputados: Não é fácil celebrar uma memória comum.\nPorque, para o fazer, é necessária uma afirmação de identidade. Sermos os mesmos, a honrar o mesmo, permanecermos fiéis ao que fomos, querermos continuar. Por isso se diz que comemorar, acaba por ser uma festa de família.\nCreio que, até por assim ser, o 25 de Abril não pode ser apenas memória.\nÉ importante lembrar.\nLembrar que antes se emigrava. A salto, para a tropa. E por dentro, que é igualmente duro e dói ainda mais.\nLembrar que a liberdade foi esperança e sonho e sentido de muitas vidas. Lembrar também que foram capitães de Abril que nos deram a liberdade.\nLembrar que falamos de revolução - e não de golpe militar - porque nunca os militares pensaram confiscar em proveito próprio o poder político.\nLembrança pode ser agradecimento renovado.\nAté do simbolismo com que no Largo de Camões, uma voz - a do actual Presidente de Honra das Comemorações do X Aniversário da Revolução- se pôde ouvir, porque o capitão Salgueiro Maia lhe cedeu um megafone.\nE importante lembrar.\nPorque nem hoje - e alguns de nós, pelo menos, o dizemos com mágoa- é consentido falar a esses mesmos militares.\nNão se apaga a História. Só os totalitários a julgam poder emendar. Por isso a memória, grata ou buscando ajustes de contas, de desencantos e desilusões, de sonhos teimosamente reconstruídos, de esperanças vivas.\nNão creio, retomando o que comecei por dizer, sequer possível celebrar o 25 de Abril como memória comum.\nTemos que assumir que o 25 de Abril em que ficámos, com os outros, solidários e universais, foi há 10 anos e que hoje, a sua lembrança, nos divide.\nPor isso, Sr. Presidente, Srs. Deputados, outro tem que ser o sentido do que nos reúne.\nFestejamos a liberdade.\nE não é indiferente que o façamos em época de crise.\nRedescobrimos o valor positivo dos direitos do Homem. Sabemos hoje da sua capacidade protectora na vida quotidiana.\nApercebemo-nos de que os direitos e liberdades, ditos formais, são, afinal, profundamente reais, precisamente porque, para além das condições sociais, protegem o Homem.\nSabemos que a liberdade, não é um privilégio, mas uma prerrogativa de existência social dos homens.\nPor isso, se não pode fazer encolher a liberdade à medida dos interesses.\nConhece-se o protesto de Tocqueville contra um sistema social em que o despotismo não tivesse necessidade de oprimir a liberdade por os homens perderem até o desejo de ser livres.\nNós queremos festejar a liberdade.\nE queremos comemorar futuro.\nPaís com cerca de 1 milénio de história vivida, não queremos desistir.\nNem falhar encontros com a vida, nem perdermo-nos nos caminhos a achar.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. Magalhães Mota (ASDI):- Sr. Presidente, da República, Sr.Presidente da Assembleia da República, Srs. Deputados: Não é fácil celebrar uma memória comum.\nPorque, para o fazer, é necessária uma afirmação de identidade. Sermos os mesmos, a honrar o mesmo, permanecermos fiéis ao que fomos, querermos continuar. Por isso se diz que comemorar, acaba por ser uma festa de família.\nCreio que, até por assim ser, o 25 de Abril não pode ser apenas memória.\nÉ importante lembrar.\nLembrar que antes se emigrava. A salto, para a tropa. E por dentro, que é igualmente duro e dói ainda mais.\nLembrar que a liberdade foi esperança e sonho e sentido de muitas vidas. Lembrar também que foram capitães de Abril que nos deram a liberdade.\nLembrar que falamos de revolução - e não de golpe militar - porque nunca os militares pensaram confiscar em proveito próprio o poder político.\nLembrança pode ser agradecimento renovado.\nAté do simbolismo com que no Largo de Camões, uma voz - a do actual Presidente de Honra das Comemorações do X Aniversário da Revolução- se pôde ouvir, porque o capitão Salgueiro Maia lhe cedeu um megafone.\nE importante lembrar.\nPorque nem hoje - e alguns de nós, pelo menos, o dizemos com mágoa- é consentido falar a esses mesmos militares.\nNão se apaga a História. Só os totalitários a julgam poder emendar. Por isso a memória, grata ou buscando ajustes de contas, de desencantos e desilusões, de sonhos teimosamente reconstruídos, de esperanças vivas.\nNão creio, retomando o que comecei por dizer, sequer possível celebrar o 25 de Abril como memória comum.\nTemos que assumir que o 25 de Abril em que ficámos, com os outros, solidários e universais, foi há 10 anos e que hoje, a sua lembrança, nos divide.\nPor isso, Sr. Presidente, Srs. Deputados, outro tem que ser o sentido do que nos reúne.\nFestejamos a liberdade.\nE não é indiferente que o façamos em época de crise.\nRedescobrimos o valor positivo dos direitos do Homem. Sabemos hoje da sua capacidade protectora na vida quotidiana.\nApercebemo-nos de que os direitos e liberdades, ditos formais, são, afinal, profundamente reais, precisamente porque, para além das condições sociais, protegem o Homem.\nSabemos que a liberdade, não é um privilégio, mas uma prerrogativa de existência social dos homens.\nPor isso, se não pode fazer encolher a liberdade à medida dos interesses.\nConhece-se o protesto de Tocqueville contra um sistema social em que o despotismo não tivesse necessidade de oprimir a liberdade por os homens perderem até o desejo de ser livres.\nNós queremos festejar a liberdade.\nE queremos comemorar futuro.\nPaís com cerca de 1 milénio de história vivida, não queremos desistir.\nNem falhar encontros com a vida, nem perdermo-nos nos caminhos a achar.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Presidente", 
    "text": "4122 I SÉRIE- NÚMERO 97", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Presidente", 
    "text": "Este é o desafio.\nPara cada um de nós.\nA não permitir que gelemos no que nos pareceu interessante. Ou que façamos, do que somos, profissão. Ou atitudes, em lugar de pessoas.\nCada um de nós tem de ser tão inteiro como a liberdade que nos habita.\nCapaz de dizer sim e dizer não.\nEsse é o 25 de Abril que será.\nPorque da democracia e da liberdade se pode dizer, como no poema, «quem tem uma obra, a obra o tem. Quem traz uma mensagem, há-de lê-la e há-de lê-la diante do Rei. Sufoca mas lê. Arqueja mas lê. E só pode cair por terra quando já a leu».", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos da ASDI, do PS e do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o representante da UEDS, Sr. Deputado Lopes Cardoso.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante da UEDS, Sr. Deputado Lopes Cardoso.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Sr. Presidente da República, Sr.Presidente da Assembleia da República, Sr. Primeiro-Ministro, Srs.Deputados, minhas senhoras e meus senhores: A distância que separa a esperança sonhada em 25 de Abril de 1974 e a realidade hoje vivida, distância feita dos nossos erros e dos nossos sucessos, das nossas certezas e das nossas dúvidas, das nossas ilusões e também das nossas decepções, das batalhas que se ganharam e se perderam, é no fundo a exacta medida da nossa capacidade colectiva de enfrentar a vida e construir o futuro.\nO 25 de Abril não é, nem poderia ter sido, o que cada um sonhou na manhã de há 10 anos e no entanto o 25 de Abril está vivo no que foi o seu sentido mais autêntico: o da libertação de um povo, passo decisivo na libertação de outros povos.\nEstá vivo na promessa cumprida dos militares de Abril.\nE se o ritual obriga a que lhes prestemos aqui e agora a nossa homenagem, mais importante seria que cada um de nós fosse capaz de, no dia-a-dia, lhes prestar a única homenagem que deles não desmerece: a homenagem de sermos capazes de respeitar a palavra dada, como, no seu conjunto, o foram capazes os capitães de Abril.\nOs que quiseram tudo já, os que se recusam a reconhecer que a revolução é uma longa paciência, desesperam e, no seu desespero, vão tecendo balanços catastróficos onde a palavra traição surge ao virar de cada linha.\nOs neófitos da democracia, que se não conformam com uma democracia que é - por ser democracia - feita de conflitos e contradições, uma democracia que é também o direito ao erro e que é, sobretudo, a recusa dos que querem fazer a felicidade colectiva sobre os escombros do querer de cada um de nós, descobriram as virtudes do apelo, por cima das instituições, a uma entidade transformada em mito - o Povo.\nOs que se calaram perante as prisões, a tortura, u guerra colonial, não poupam hoje as acusações e as críticas ao regime democrático, esquecidos, talvez, que essas acusações e essas críticas contêm em si mesmas uma das mais belas homenagens ao 25 de Abril: o reconhecimento implícito de que o 25 de Abril lhes trouxe a liberdade de poderem formular essas críticas e essas acusações, sem peias nem riscos.", 
-   "type": "deputado_continuacao"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Sr. Presidente da República, Sr.Presidente da Assembleia da República, Sr. Primeiro-Ministro, Srs.Deputados, minhas senhoras e meus senhores: A distância que separa a esperança sonhada em 25 de Abril de 1974 e a realidade hoje vivida, distância feita dos nossos erros e dos nossos sucessos, das nossas certezas e das nossas dúvidas, das nossas ilusões e também das nossas decepções, das batalhas que se ganharam e se perderam, é no fundo a exacta medida da nossa capacidade colectiva de enfrentar a vida e construir o futuro.\nO 25 de Abril não é, nem poderia ter sido, o que cada um sonhou na manhã de há 10 anos e no entanto o 25 de Abril está vivo no que foi o seu sentido mais autêntico: o da libertação de um povo, passo decisivo na libertação de outros povos.\nEstá vivo na promessa cumprida dos militares de Abril.\nE se o ritual obriga a que lhes prestemos aqui e agora a nossa homenagem, mais importante seria que cada um de nós fosse capaz de, no dia-a-dia, lhes prestar a única homenagem que deles não desmerece: a homenagem de sermos capazes de respeitar a palavra dada, como, no seu conjunto, o foram capazes os capitães de Abril.\nOs que quiseram tudo já, os que se recusam a reconhecer que a revolução é uma longa paciência, desesperam e, no seu desespero, vão tecendo balanços catastróficos onde a palavra traição surge ao virar de cada linha.\nOs neófitos da democracia, que se não conformam com uma democracia que é - por ser democracia - feita de conflitos e contradições, uma democracia que é também o direito ao erro e que é, sobretudo, a recusa dos que querem fazer a felicidade colectiva sobre os escombros do querer de cada um de nós, descobriram as virtudes do apelo, por cima das instituições, a uma entidade transformada em mito - o Povo.\nOs que se calaram perante as prisões, a tortura, u guerra colonial, não poupam hoje as acusações e as críticas ao regime democrático, esquecidos, talvez, que essas acusações e essas críticas contêm em si mesmas uma das mais belas homenagens ao 25 de Abril: o reconhecimento implícito de que o 25 de Abril lhes trouxe a liberdade de poderem formular essas críticas e essas acusações, sem peias nem riscos.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos da UEDS, do PS, da ASDI e de alguns deputados do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
    "text": "Como eu gostaria de ter visto o Sr. Cardeal-Patriarca, com a mesma veemência e aplicação com que invectiva o Governo e as leis a que chama iníquas, denunciar, como o fizeram outros que se reclamavam e reclamam dos mesmos valores, os crimes da ditadura.\nNão questiono, nem recuso, a S. E. o direito à crítica; foi para que também ele o pudesse exercer que, na insignificância da minha capacidade e da minha coragem, com outros lutei pela liberdade Mas perdoar-me-ão que me não cale se o não vi reivindicar essa mesma liberdade quando ela nos era negada.\nFica-nos a certeza, ao ouvir S. E., que a democracia existe e, porque a democracia existe, o 25 de Abril está vivo.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos da UEDS e do PS.", 
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
    "text": "Os erros inevitáveis cometidos na aprendizagem da democracia são aproveitados para denegrir as instituições.\nE, no entanto, as instituições estão vivas e, quer se queira quer não, os cidadãos reconhecem-nas como suas, até quando as criticam, até quando lhes apontam os defeitos; reconhecem-nas como suas, quando participam no seu funcionamento, com um interesse e uma persistência que vão desmentindo o tão decantado desencanto das gentes pelas coisas da República e da democracia.\n10 anos depois do 25 de Abril os partidos políticos, e com eles esta Assembleia, tornaram-se os bodes expiatórios de todos os males de que o País padece.\nCada vez com maior frequência se ouve, dos mais opostos sectores do quadrante político, acusar os partidos de defenderem tão-só os seus interesses e a Assembleia da República de mais não ser do que o palco de intermináveis, estéreis e absurdas discussões.\nMas mais grave: aquele que é o garante último das instituições, vem juntar agora a sua voz à voz dos que prosseguem uma campanha continuada de descrédito da instituição parlamentar.\nPor isso, Sr. Presidente da República, ouso dizer-lhe, desta tribuna que não é minha, mas a tribuna dos que me elegeram, que ao fazê-lo prestou V. Ex.a, Sr. Presidente da República, um mau serviço à democracia reconquistada no dia 25 de Abril.\nPrestou um mau serviço à democracia, lançando a dúvida sobre o comportamento dos deputados e, por consequência, quer o desejasse ou não, sobre a legitimidade desta Assembleia como expressão que é da vontade popular.\nNós, deputados, estamos aqui porque assim o quiseram aqueles que livremente nos elegeram.\nAo votarmos as leis que votamos, fazêmo-lo no exercício do mandato que nos concederam. Mandato que não sofre outras limitações que não sejam as que a Constituição da República lhe impõe.\nMandato cuja dimensão e significado não podem variar ao sabor das circunstâncias ou das conveniências.\nAo votarmos as leis que votámos, fazemo-lo assumindo as nossas responsabilidades; todos nós, qualquer que seja o sentido do nosso voto. Aos outros mais se não pede que assumam igualmente as suas.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
    "text": "26 DE ABRIL DE 1984 4123", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
    "text": "Em democracia, os que nos elegeram serão os juízes do nosso \ncomportamento. Haverá talvez quem pense que, ao dizer o que digo, estou a ser no mínimo descortês para com V. Ex.ª, Sr. Presidente, no mínimo inconveniente, dizendo o que disse num dia que se quer de festa: a festa da liberdade.\nMas porque a cortesia não se confunde com a hipocrisia e porque esta é a festa da liberdade, entendi que, no uso dessa liberdade, devia dizer aquilo que disse.\nÉ que talvez uma das formas de respeitarmos essa liberdade seja o aprendermos a falar, sem rodeios, sem subterfúgios, sem simulações.\nTambém foi para isso que o 25 de Abril se fez.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos da UEDS, do PS e de alguns deputados do PSD e do CDS.", 
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
    "text": "Sr. Presidente, Srs. Deputados: A Assembleia da República é, sem dúvida, o órgão de soberania mais vulnerável, sendo, no entanto, ou talvez por isso mesmo, o de mais transparente funcionamento. Por ela passa hoje uma das primeiras linhas de defesa do regime democrático.\nO seu funcionamento está muito longe de ser perfeito; os deputados longe de corresponderem sempre, senão porventura a maior parte das vezes, ao que deles esperavam os que os elegeram; o sistema eleitoral comporta vícios que cavam o fosso entre eleitos e eleitores. Nenhum de nós ousará, em verdade, negá-lo.\nImporta corrigir o que é possível corrigir. É urgente encontrar soluções que potenciem as virtualidades do Parlamento e lhe reduzam os defeitos. Sem dúvida. Mas só por estultícia, ingenuidade ou má fé se pode tomar o todo pela parte, recusar as instituições porque não são perfeitas; no fundo, lançar fora a criança com a água do banho.\nOs acusadores acima de todo o partido, os que se pretendem acima de toda a suspeita, o que é que nos propõem em troca? \nTerão reflectido nesta coisa simples de que o confronto de ideias e projectos é a própria essência da democracia? Que os consensos possíveis em cada momento terão de nascer desses confrontos e não situar-se acima deles? \nTerão compreendido que a Assembleia da República é, no fundo, a expressão possível, ainda que distorcida, do país real? Imagem que reflecte, mesmo que deformada, os seus defeitos e as suas virtudes, não imagem feita à semelhança do que gostaríamos que fosse.\nOs espelhos construídos para nos devolverem o perfil de um país idealizado, o eco das virtudes da raça, da piedosa bondade do povo ou da sua omnisciência ignorada; para nos trazerem o reflexo bem comportado de uma ordem imposta ou de um unanimismo feito na negação das diferenças, conhecemo-los, Srs. Deputados, por demais.\nE os que se esfalfam a sublinhar as imperfeições do sistema, os riscos que inevitavelmente comporta, deveriam dizer-nos, primeiro, claramente, para onde querem ir, para onde nos querem levar.\nÉ que se porventura não sabemos para onde nos pode encaminhar a conflitualidade de interesses assumida pelos partidos e traduzida no funcionamento das instituições, sabemos bem demais para onde nos arrastaria o calar dessa conflitualidade.\nOs partidos não são por si sós a democracia, mas não há democracia sem partidos políticos.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos da UEDS e do PS.", 
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
    "text": "A democracia representativa não basta, mas a democracia de «base», a democracia «participativa», nunca existirá sem ela.\nDemocracia representativa e democracia participativa não se opõem, completam-se. Uma é o garante da outra, uma serve ao aprofundamento da outra.\nSe a democracia de base dá corpo à participação colectiva em torno de interesses imediatamente comuns, os órgãos da democracia representativa são as instâncias onde, do conflito entre interesses díspares,, terá de surgir a necessária síntese, a indispensável arbitragem.\nA democracia de base não é, não se confunde, nem se realiza na oratória ambiguamente paternalista de uns quantos iluminados falando em praças cheias, onde, após o discurso, surja uma resposta popular, emocional e confusa, resultado da maior ou menor capacidade de comunicação dos que assim julgam «falar ao povo».\nA participação popular realiza-se no dia-a-dia, e no dia-a-dia se vem construindo desde o 25 de Abril: nas colectividades, nas autarquias, nos sindicatos, nas comissões de trabalhadores, nas organizações recreativas, culturais, desportivas, que por todo o País se fazem e desfazem, mas que por todo o País vivem.\nSr. Presidente, Srs. Deputados: Os balanços do 25 de Abril não deveriam ser a expressão das ilusões ou desilusões de cada um.\nO esforço que devemos aos que o fizeram e ao povo que o transformou numa revolução é um esforço de verdade, de apreciação séria, de análise do que foi, de imaginação e de coragem, para tentarmos criar colectivamente aquilo que será.\nVivemos 10 anos de esperanças e de desilusões, de experiências partilhadas e de conquistas limitadas, mas reais. Conservar essas conquistas é importante, aprofundá-las é talvez mais importante ainda, porque só o seu aprofundamento as irá tornando irreversíveis. Caminhar em frente foi sempre, e é ainda, o papel das forças de esquerda; nessa caminhada fica aos conservadores o papel que é o deles: «conservarem» as conquistas da esquerda, quando esta as aprofunda e ultrapassa.\nSe a revolução é uma longa paciência, continuar Abril terá de ser, para quem Abril foi a conquista da liberdade e o abrir de portas de um futuro diferente, o empenhamento num projecto que dê expressão aos anseios mais profundos do nosso povo.\nAs forças socialistas e democráticas podem, se assim o quiserem, ser as portadoras e protagonistas de um tal projecto.\nAssim sejamos capazes de o querer.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos da UEDS e do PS.", 
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Em representação do MDP/CDE, tem a palavra o Sr.Deputado José Manuel Tengarrinha.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Em representação do MDP/CDE, tem a palavra o Sr.Deputado José Manuel Tengarrinha.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. José Manuel Tengarrinha (MDP/CDE): Sr. Presidente da República, Sr. Presidente da Assembleia da República, Sr, Primeiro-Ministro e Srs.Membros do Governo, Srs. Deputados, Senhoras e Senhores: Voltemos atrás 10 anos. Há 10 anos, isolado,", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente da República, Sr. Presidente da Assembleia da República, Sr, Primeiro-Ministro e Srs.Membros do Governo, Srs. Deputados, Senhoras e Senhores: Voltemos atrás 10 anos. Há 10 anos, isolado,", 
+   "type": "speaker_error"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
    "text": "4124 I SÉRIE - NÚMERO 97", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
    "text": "incomunicável, numa pequena cela. Durante o dia, apenas meia dúzia de palavras, com o carcereiro. Era o silêncio total, o completo isolamento. Nada sabia do que se passara lá fora. Todo o dia 25 de Abril foi ainda vivido sob o fascismo, a prisão, a tortura.\nAo princípio da noite, sinais na parede informavam que tinha havido uma revolução. Revolução dos ultras, como há tempo se ouvira, seria a liquidação imediata; revolução democrática, que sabíamos preparar-se, possivelmente também. Lembrava a ameaça do inspector da PIDE, na véspera, durante o longo interrogatório: «Se houver alguma coisa, eu próprio irei matar, um a um, os da incomunicabilidade, os mais perigosos.» \nO dia 26 amanheceu sob a expectativa tensa, a opção mais decisiva: no torpor, na sonolência, na febre.\nSúbita, a palavra liberdade, aí, soou falsa: gritada por um oficial, na nossa frente, metralhadora na mão.\nNão foi o choque brusco, a viragem imediata no fio da vida e na História. Foi o acordar lento, a memória repetida, do fundo da lembrança mais sentida: familiares mortos e perseguidos, amigos presos, alguns ainda enlouquecidos pelas torturas, outros exilados, outros ainda mortos na guerra; os despedimentos, as privações, as humilhações morais, o horizonte fechado, o desespero sem luz, as opressões seculares - mas também a resistência longínqua do povo, o sofrimento e a luta, a esperança renovada no fundo da noite, finalmente a claridade.\nFoi assim o lento acordar do fundo da memória.\nMas a luz da manhã não foi imediatamente o nascer do dia. Demorava-se em abrir a porta gradeada. Hesitava-se em dar a liberdade por inteiro e a todos por igual. Foi, já no Portugal democrático, a primeira luta unitária vitoriosa: à [unta de Salvação Nacional dissemos - «ou todos saem ou continuarão todos em Caxias». E quando, quase 2 dias depois, as portas finalmente se abriram, foi o abraço da multidão, que com a sua força nos libertara. Aí houve, desde logo, maior lição do que milhares de páginas lidas: o valor da unidade e o poder do povo desperto, como as traves mais sólidas em que uma democracia pode assentar.\nAs pessoas que isto viveram não voltaram a ser as mesmas e o País também não voltaria, não poderia voltar a ser o mesmo.\nTrajecto acidentado depois, com avanços e retrocessos, esperanças e desilusões, grandezas e desacertos, justezas e erros.\nE hoje, 10 anos depois, vemos como estamos longe e como estamos tão perto do 25 de Abril! \nHoje pode ver-se como, para muitos, a política não é uma actividade com o objectivo central do bem de todos, mas campo fértil de ambições e interesses pessoais de alguns, e como alguns partidos, subalternizando o sentido nacional da sua acção, se transformaram em veículos de obtenção de influências e de conseguir rendosos negócios.\nPode ver-se como foram iludidos os que deram o seu voto aos que depois contra eles governaram e como tantas vezes se tem feito do governar um jogo permanente de grosseira mistificação ou um cálculo tecnocrático de gabinete sem a perspectiva social que, acima de tudo, o deveria orientar. Pode ver-se como aqueles que nas suas empresas se dispuseram a trabalhar honestamente, valorizando e enriquecendo o País, contrastam com os que vivem lautamente no submundo já hoje dominante da economia paralela, visando o máximo lucro imediato sem visão do seu futuro como empresários e muito menos do País, e como a corrupção campeia, já considerada natural, com total impunidade, por se saber que qualquer eventual inquérito administrativo terá o mesmo silêncio que todos os outros, e como a crise moral, a mais grave de todas as crises, vai corroendo inexoravelmente o País.\nPode ver-se como as aspirações de uma sociedade mais justa, com melhoria da situação das camadas desfavorecidas, deram lugar a desigualdades sociais cada vez mais marcadas e a sofrimentos cada vez mais dolorosos de grande parte da população, e como estão longe de alcançar os direitos fundamentais da habitação, da saúde, da educação.\nPode ver-se como, nos últimos tempos, por todo o lado e especialmente na função pública, recrudescem as perseguições e saneamentos por motivo das ideias, numa acção que do fascismo se distingue apenas pelo facto de pretender cobrir-se com uma hipócrita máscara legal, e como, limitando a liberdade, se vêem os mais poderosos órgãos de comunicação social estatizados serem ostensivamente manobrados pelos governantes, abafadas as vozes contrárias, projectada a criação de um inquietante serviço de informações, bloqueada a vida política, bloqueada a própria democracia, e o medo, que se quisera acima de tudo afastar da nossa terra, de novo aqui se fixa e alastra e, com ele, o obscurantismo, o envilecimento das relações sociais a todos os níveis.\nPode ver-se como a independência nacional cada vez mais se compromete, quer por interesses políticos quer por uma visão messiânica do papel dos investimentos estrangeiros, e como é humilhante para o País a subserviência dos governantes em face dos Estados Unidos.", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PS: Não apoiado!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Não apoiado!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: A democracia aberta em 25 de Abril tinha leis bem \ndiferentes das da selva, pois a protecção dos fracos se deveria sobrepor quer aos interesses egoístas de pequenos grupos privilegiados quer aos de grandes potências estrangeiras, fossem elas quais fossem.\nComo soa falso, ridículo até, nestas condições, falar-se em Estado de direito, quando, nem na substância nem sequer em muitos dos seus aspectos formais, ele é respeitado! \nEncontramo-nos actualmente no pleno reinado da política politiqueira, da mediocridade, baça e absurda, num País sem rumo, sem sentido, sem nexo, num País que vive do e para o imediato, sem projecto, sem futuro, num País como que suspenso no tempo, adiado, em que pessoas e coisas se agitam sem saber para onde nem porquê, nem sequer como borboletas tontas atraídas por qualquer luz, mas na penumbra incaracterística, cinzenta, movendo-se em gestos lentos, macilentos, soturnos.\nVê-se como a pior anarquia não é a do tumulto, do vozear nas ruas, da exaltação apaixonada. A pior é a anarquia organizada, com a falsa aparência de ordem, como a que vivemos agora. É desta que, sobretudo, irrompem os antípodas da liberdade, os arautos de ordens novas, de estados novos.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "A democracia aberta em 25 de Abril tinha leis bem diferentes das da selva, pois a protecção dos fracos se deveria sobrepor quer aos interesses egoístas de pequenos grupos privilegiados quer aos de grandes potências estrangeiras, fossem elas quais fossem.\nComo soa falso, ridículo até, nestas condições, falar-se em Estado de direito, quando, nem na substância nem sequer em muitos dos seus aspectos formais, ele é respeitado! \nEncontramo-nos actualmente no pleno reinado da política politiqueira, da mediocridade, baça e absurda, num País sem rumo, sem sentido, sem nexo, num País que vive do e para o imediato, sem projecto, sem futuro, num País como que suspenso no tempo, adiado, em que pessoas e coisas se agitam sem saber para onde nem porquê, nem sequer como borboletas tontas atraídas por qualquer luz, mas na penumbra incaracterística, cinzenta, movendo-se em gestos lentos, macilentos, soturnos.\nVê-se como a pior anarquia não é a do tumulto, do vozear nas ruas, da exaltação apaixonada. A pior é a anarquia organizada, com a falsa aparência de ordem, como a que vivemos agora. É desta que, sobretudo, irrompem os antípodas da liberdade, os arautos de ordens novas, de estados novos.", 
+   "type": "continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
    "text": "26 DE ABRIL DE 1984 4125", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
    "text": "E não se procurem novos álibis, gastos que foram sendo, sucessivamente, os muitos até agora usados. Um dos principais fora a Constituição; revista, a contento da maioria parlamentar, a degradação económica e social continuou a acelerar-se. Outro fora a existência de poderes políticos paralelos, com as competências que se diziam excessivas do Presidente da República; reduzidas estas, nem por isso o declive da crise se deteve. Outro foi o Conselho da Revolução, nova boceta de Pandora que sobre o indefeso País civil se dizia fazer derramar os maiores males e as maiores perversidades; agora, que foi extinto, a quem vão assacar-se as culpas do agravamento da situação nacional? \nChegou-se a este absurdo: não apenas não mostrar reconhecimento pelos militares que fizeram o 25 de Abril e que sempre disseram e provaram não querer conservar o poder, como até responsabilizá-los pelos males da sociedade democrática que eles geraram. Acto não só absurdo, como um dos mais indignos a que a nossa democracia assistiu, a que a nossa democracia está a assistir.\nOs militares que fizeram o 25 de Abril e a sua associação foram completamento marginalizados das comemorações oficiais, não foram consultados nem convidados a participar na promoção das comemorações do 10.º aniversário da revolução libertadora que fizeram.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PS: Não apoiado!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Não apoiado!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Sem o apoio dos militares do 25 de Abril, sem o apoio das organizações populares e do próprio povo, as comemorações oficiais perderam todo o significado autêntico. Não basta o que se fez no passado para justificar o que se faz no presente! Não bastam as belas palavras, os ornamentos retóricos, as intenções altissonantes, para esconder o verdadeiro sentido do que, em concreto, se faz. E esse sentido mostra que a comemoração é incómoda para o Governo.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Sem o apoio dos militares do 25 de Abril, sem o apoio das organizações populares e do próprio povo, as comemorações oficiais perderam todo o significado autêntico. Não basta o que se fez no passado para justificar o que se faz no presente! Não bastam as belas palavras, os ornamentos retóricos, as intenções altissonantes, para esconder o verdadeiro sentido do que, em concreto, se faz. E esse sentido mostra que a comemoração é incómoda para o Governo.", 
+   "type": "continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PS e do PSD: É falso!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS e do PSD", 
+   "text": "É falso!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, pedia o favor de não esquecerem a natureza desta sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, pedia o favor de não esquecerem a natureza desta sessão.", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do MDP/CDE e do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do MDP/CDE e do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Presidente", 
    "text": "Vozes de protesto do PS, do PSD e do CDS.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Este não se ajusta à dimensão e aos valores de uma revolução que não foi apenas um golpe militar, mas um acto colectivo, em que o povo teve intervenção decisiva ao lado das Forças Armadas e desencadeou um profundo processo de democratização da sociedade portuguesa.\nNão quis o Governo, de facto, comemorar o primeiro decénio de um dos maiores actos libertadores da nossa história; fez apenas o que era indispensável para que essa intenção não fosse evidente.\nEstamos, sem dúvida, longe do 25 de Abril. E, ao mesmo tempo, nunca estivemos tão perto dele. Perto dele pelo apreço cada vez maior em que temos o muito que nos deixou de bom: o fim da guerra e a independência das ex-colónias, a uberdade de expressão e de organização, o direito à greve, a legislação laboral mais favorável aos trabalhadores, a libertação social dos assalariados rurais na zona de intervenção da Reforma Agrária, os avanços consideráveis no plano da solidariedade social e tantos outros benefícios sociais que, apesar dos \ncondicionamentos e restrições, continuam vigentes; e ainda outro, que por ter entrado no nosso quotidiano dele já quase nos não apercebemos: \na democratização da vida e das relações entre as pessoas, que introduziu uma alteração profunda e irreversível no viver social.\nTais benefícios só foi possível lançar e manter devido às alterações estruturais registadas na sociedade portuguesa e que, em muitos aspectos fundamentais, continuam a existir.\nPor isso, os benefícios do 25 de Abril não podem ser compreendidos isolada e pontualmente, mas como aspectos de um processo profundo de democratização do País. E é isso o mais difícil de suster porque faz parte da nossa dinâmica social, e inerente ao próprio processo social, emerge na conduta dos homens em sociedade, nas suas lutas, nas suas reivindicações, nas suas aspirações, irmana homens de diferentes concepções ideológicas e religiosas, evidencia a essencial convergência de forcas sociais aparentemente distantes, demonstra que essa unidade social é base fundamental para a resolução de problemas comuns, revela que, para além das salutares divergências partidárias, é possível o entendimento em questões fundamentais que afectam largas camadas da população e o País em geral.\nDe nada serve, parafraseando o ministro hitleriano da cultura, puxar da pistola quando se fala em unidade. Ela existe como um facto social impossível de regulamentar, porque faz parte intrínseca da própria vida dos homens. Ê um dado essencial para a defesa da democracia e para o indispensável empenhamento colectivo que faça sair o País da crise em que cada vez mais se afunda.\nE por isso, também hoje estamos ainda mais próximos do 25 de Abril.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Este não se ajusta à dimensão e aos valores de uma revolução que não foi apenas um golpe militar, mas um acto colectivo, em que o povo teve intervenção decisiva ao lado das Forças Armadas e desencadeou um profundo processo de democratização da sociedade portuguesa.\nNão quis o Governo, de facto, comemorar o primeiro decénio de um dos maiores actos libertadores da nossa história; fez apenas o que era indispensável para que essa intenção não fosse evidente.\nEstamos, sem dúvida, longe do 25 de Abril. E, ao mesmo tempo, nunca estivemos tão perto dele. Perto dele pelo apreço cada vez maior em que temos o muito que nos deixou de bom: o fim da guerra e a independência das ex-colónias, a uberdade de expressão e de organização, o direito à greve, a legislação laboral mais favorável aos trabalhadores, a libertação social dos assalariados rurais na zona de intervenção da Reforma Agrária, os avanços consideráveis no plano da solidariedade social e tantos outros benefícios sociais que, apesar dos \ncondicionamentos e restrições, continuam vigentes; e ainda outro, que por ter entrado no nosso quotidiano dele já quase nos não apercebemos: \na democratização da vida e das relações entre as pessoas, que introduziu uma alteração profunda e irreversível no viver social.\nTais benefícios só foi possível lançar e manter devido às alterações estruturais registadas na sociedade portuguesa e que, em muitos aspectos fundamentais, continuam a existir.\nPor isso, os benefícios do 25 de Abril não podem ser compreendidos isolada e pontualmente, mas como aspectos de um processo profundo de democratização do País. E é isso o mais difícil de suster porque faz parte da nossa dinâmica social, e inerente ao próprio processo social, emerge na conduta dos homens em sociedade, nas suas lutas, nas suas reivindicações, nas suas aspirações, irmana homens de diferentes concepções ideológicas e religiosas, evidencia a essencial convergência de forcas sociais aparentemente distantes, demonstra que essa unidade social é base fundamental para a resolução de problemas comuns, revela que, para além das salutares divergências partidárias, é possível o entendimento em questões fundamentais que afectam largas camadas da população e o País em geral.\nDe nada serve, parafraseando o ministro hitleriano da cultura, puxar da pistola quando se fala em unidade. Ela existe como um facto social impossível de regulamentar, porque faz parte intrínseca da própria vida dos homens. Ê um dado essencial para a defesa da democracia e para o indispensável empenhamento colectivo que faça sair o País da crise em que cada vez mais se afunda.\nE por isso, também hoje estamos ainda mais próximos do 25 de Abril.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Viva o 25 de Abril!", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PCP e do MDP/CDE: Viva!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PCP e do MDP/CDE", 
+   "text": "Viva!", 
+   "type": "vozes_aparte"
   }, 
   {
    "text": "Aplausos do PCP e do MDP/CDE.", 
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Como representante do CDS, tem a palavra o Sr.Deputado Azevedo Soares.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Como representante do CDS, tem a palavra o Sr.Deputado Azevedo Soares.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Azevedo Soares* (CDS): Sr. Presidente da República, Sr.Presidente da Assembleia da República, Sr. Primeiro-Ministro, Srs.Deputados, Senhoras e Senhores: Evocar uma data. Avaliar uma década.\nPensar no futuro.\nNa história dos povos e das nações sobressaem certas datas, assumem especial significado certos momentos. De todos esses momentos é herdeira a realidade que somos. Esta e não outra. Esta e não aquela com que porventura sonharam quantos inspiraram e se destacaram nesses momentos.\nHá 10 anos um regime político incapaz de responder aos desafios da época e desprovido de mecanismos de regeneração, dada a sua natureza não democrática, foi derrubado pelas Forcas Armadas Portuguesas, mais propriamente por um numeroso grupo dos seus oficiais, dos mais novos e, talvez por isso, dos mais preocupados quanto ao futuro do País.\nAvançaram audaciosamente", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Azevedo Soares", 
+   "text": "Sr. Presidente da República, Sr.Presidente da Assembleia da República, Sr. Primeiro-Ministro, Srs.Deputados, Senhoras e Senhores: Evocar uma data. Avaliar uma década.\nPensar no futuro.\nNa história dos povos e das nações sobressaem certas datas, assumem especial significado certos momentos. De todos esses momentos é herdeira a realidade que somos. Esta e não outra. Esta e não aquela com que porventura sonharam quantos inspiraram e se destacaram nesses momentos.\nHá 10 anos um regime político incapaz de responder aos desafios da época e desprovido de mecanismos de regeneração, dada a sua natureza não democrática, foi derrubado pelas Forcas Armadas Portuguesas, mais propriamente por um numeroso grupo dos seus oficiais, dos mais novos e, talvez por isso, dos mais preocupados quanto ao futuro do País.\nAvançaram audaciosamente", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "CDS", 
+   "speaker": "Azevedo Soares", 
    "text": "4126 I SÉRIE - NÚMERO 97", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "CDS", 
+   "speaker": "Azevedo Soares", 
    "text": "em 16 de Março e, contidos, não recuaram nos seus propósitos, desencadeando um mês depois o movimento que resultou. Foram militares - e apenas eles - que formaram a decisão e assumiram os riscos.\nDo seu gesto, que hoje evocamos, o CDS retém a sua matriz fundamental - a instituição de um regime democrático. Com ela se identifica o CDS, como nesse momento e ainda hoje se identifica o País. Mas há que ser mais exigente. A democracia é mesmo o regime da exigência e importa avaliar estes 10 anos pelos seus resultados, para além da democracia e da liberdade.\nE o facto é que, 10 anos passados, Portugal é hoje, seguramente, um país mais pobre.\nAs desigualdades sociais e os desequilíbrios regionais mantêm-se e, em alguns casos, acentuaram-se; aumentaram brutalmente os impostos e pioraram de uma forma geral os serviços prestados pelo Estado; a crise da habitação não conhece paralelo; o desemprego aumentou 8 vezes; os salários reais, em queda vertiginosa, recuaram já em relação há 10 anos; a agricultura estagnou e não chega para alimentar metade do País; o ensino degradou-se e das nossas universidades não saem homens apetrechados e educados a pensar; o investimento produtivo diminui e o património industrial torna-se obsoleto; atinge-se a escandalosa e degradante realidade de haver em Portugal quem trabalha e não recebe atempadamente o seu salário; nos centros de decisão internacionais, Portugal pede mas não influencia; enfim, a nossa moeda é fraca e enfraquece.\nNeste quadro, e apesar dos aspectos positivos que também se reconhecem, cresce a incerteza dos portugueses e instala-se o desânimo. Surge e alastra a angústia e, sendo cada vez menos apercebido o próprio destino, a energia esgota-se na sobrevivência, no dia que passa.\nUm povo que acreditou e acredita nas virtualidades do regime democrático não esperava tais resultados. E muito justamente! \nPorquê, então esta realidade? \nPercorridos 10 anos, o problema continua a ser essencialmente político.\nNuma atitude consciente e programada, mas abusiva, desde cedo se foi gerando a falsa identificação do socialismo com a liberdade.\nA tal ponto que para muitos o socialismo deixou de ser uma opção entre outras, mas antes um corolário dessa mesma liberdade. Contrariar o socialismo significava combater a liberdade e, por isso, o próprio regime democrático. E, no entanto, nada há de mais falso.\nSó que as forcas políticas que se reclamam do socialismo - democrático ou não, mais ou menos social- democrático - capturaram o Estado e, servindo-se dele, propagandearam, por vezes até ao absurdo, essa mistificação. Transformaram o 25 de Abril num mito e desdobraram-no em tantos mitos quantos os necessários à sua manutenção no poder e à defesa dos seus interesses particulares, materiais e ideológicos.\nDistorcido assim o regime, mutilada constitucionalmente a liberdade, reduzidas as escolhas, a história destes últimos 10 anos reduz-se pois e principalmente à história do socialismo e da sua incapacidade para resolver os principais problemas de Portugal. E perante isto, talvez seja legítimo considerar o actual bloco político dominante como o epílogo e o resumo dessa mesma história.\nO Partido Socialista e o Partido Social-Democrata governam um Estado imenso do alto da sua imensa maioria. O próprio Primeiro-Ministro, certamente num lapso de desrespeito pelas regras da democracia, compraz-se em pretender fazer acreditar aos portugueses que não há alternativa ao seu Governo.\nÉ certo que, no entender desses partidos, o enfrentar da realidade ainda pode ser adiado através do desvio das atenções e das energias para a luta pela ocupação do último e importante cargo do Estado que lhes escapa.\nDe pouco ou nada valerá o esforço. A aguda realidade económica e social não consente mais protelamentos e acabará por impor os seus direitos, entre os quais não consta o de se poder governar sem decidir o de se distribuir riqueza que se não cria. O que a história destes 10 anos e deste governo prova é que o melhor aliado da democracia não é o socialismo mas a liberdade.\nTudo o que foi feito pela liberdade continua a ser um princípio de esperança; tudo o que foi feito em nome e por causa do socialismo provou mal e é um fardo que o País carrega.\nSr. Presidente da República, Sr. Presidente, Srs. Deputados: Evocar uma data e reflectir no passado faz mais sentido se de tal gesto resultar a preparação do futuro. É o que ao CDS mais importa, pois uma nova década do regime hoje mesmo se inicia.\nEncaremo-la, apesar de tudo, com esperança e optimismo. Por entre vicissitudes e distorções, o regime democrático mantém-se e, se for respeitado, nele se há-de gerar a alternativa no actual estado de coisas; para ela acreditamos fundamentalmente na capacidade colectiva do povo português, na recuperação das suas energias abafadas, no seu orgulho, no seu sentido de Pátria.\nÉ forçoso, porém, que arredemos do nosso horizonte e do nosso dia os preconceitos ideológicos, a defesa de privilégios injustos e as ilusórias garantias em que se traduzem o paternalismo social e proteccionismo do Estado.\nUma nova atitude e um novo espírito deverão demarcar os próximos anos.\nÉ na vontade, no querer, na liberdade, no trabalho de cada um e na solidariedade de todos que há-de assentar o nosso futuro.\nUma sociedade só progride, só se desenvolve se os homens aceitarem a responsabilidade dos seus actos, assumirem com bom senso os riscos das suas acções e virem premiado o seu mérito.\nDe contrário, tudo se apaga no magma da irresponsabilidade colectiva, desaparecem os estímulos à criatividade e ao trabalho, campeia o egoísmo.\nProgramas, projectos, promessas - tudo tem sido apresentado aos Portugueses. Hoje, porém, importa essencialmente defender o ideal, afirmar uma vontade e manifestar uma esperança; e importa fazê-lo com a força de quem acredita e a serenidade de quem não desespera.\nTal tarefa só pode ser realizada por uma nova geração, portadora destes ideais e fiel àqueles princípios, não comprometida com o sistema nem prisioneira de interesses pessoais ou de grupo. E competente bastante para delinear e executar uma política de recuperação nacional.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "CDS", 
+   "speaker": "Azevedo Soares", 
    "text": "26 DE ABRIL DE 1984 4127", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "CDS", 
+   "speaker": "Azevedo Soares", 
    "text": "Competir-lhe-á, antes de tudo, reorganizar o poder político, conferindo-lhe autoridade e eficácia, pois só um poder político forte, organizado e coerentemente disposto a seguir uma política concreta e clara poda realizar obra válida.\nHoje ninguém decide nada sobre nada, poucos assumem abertamente a responsabilidade dos seus actos e os próprios órgãos de soberania esgotam muito do seu tempo a degladiarem-se e a anularem-se.\nSimplificar o funcionamento das instituições, clarificar o modo do seu relacionamento e adoptar mecanismos rápidos e eficazes de decisão são tarefas urgentes.\nPor outro lado, a recuperação há-de assentar na força da sociedade, com a aceitação e no respeito das suas próprias regras.\nRever as leis - constitucionais, laborais e outras - que constituem entrave a um sadio e progressivo funcionamento dos mecanismos sociais e criar um melhor Estado, racionalizando os sectores públicos \nadministrativo e empresaria], são condições necessárias.\nFinalmente, urge pôr cobro ao emaranhado de complexas e contraditórias regras económicas, substituindo-o por um conjunto simples, claro e coerente; relativizar a questão da propriedade da terra e criar condições reais ao aparecimento de verdadeiras e fortes empresas agrícolas; reformar o ensino, no sentido de uma maior formação técnica e de uma maior formação humanística, ao mesmo tempo, que permita às novas gerações conjugar a História de Portugal com a era da \nelectrónica, em vez de um ensino como o actual, que abstrai da História portuguesa e que, no plano técnico, se limita a reensinar a utilização dos meios da primeira revolução industrial.\nDe hoje a 10 anos estaremos de novo a evocar esta data.\nEntão, o quadro que traçarmos terá de ser diferente e terá sido atirada para o esquecimento da História a bizarra disputa entre históricos do 25 de Abril, clamando uns pelos seus capitães, reclamando outros os seus generais, parecendo esquecer simultaneamente duas coisas: que a História é só uma e que o futuro é sempre o mais importante.\nMas deixemos para trás os mitos, os preconceitos e as amarras e façamos da próxima década a década da liberdade, do trabalho e da esperança.\nEntão, será com outro espírito, com outro ânimo e, certamente, com outros resultados que assinalaremos, o aniversário do 25 de Abril.\nEntão, sim, haverá alegria e a festa terá todo o seu sentido!", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS.", 
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Pelo PCP, tem a palavra o Sr. Deputado Dias Lourenço.", 
+   "speaker": "Presidente", 
+   "text": "Pelo PCP, tem a palavra o Sr. Deputado Dias Lourenço.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Dias Lourenço", 
+   "text": "Sr. Presidente da República, Sr.Presidente da Assembleia da República, Srs. Deputados, Minhas Senhoras, Meus Senhores: Desde o seu primeiro ano, e como segundo orgão de soberania, reúne esta Assembleia da República, por sua própria iniciativa e sob a presidência do Sr. Presidente da República, para comemorar o 25 de Abril. É um dia singular na nossa História.\nCelebramos o 10.º aniversário da Revolução de Abril numa situação em que avultam motivos de reflexão, de preocupação, mas também poderosas razões de confiança: confiança nos grandes ideais que a inspiraram, confiança na perenidade e solidez das conquistas democráticas alcançadas.\nFeitos como o que celebramos hoje marcam uma época. Poucos mereceram evocação tão solene do povo português.\nMas que a solenidade da evocação não ofusque a grandeza real do acontecimento. Ê que a projecção dos sucessos daquela radiosa madrugada do Abril português de 1974 ultrapassa-nos.\nO 25 de Abril representa uma viragem histórica na vida da nossa Pátria, constitui um prodigioso salto em frente na luta secular do nosso povo pela liberdade, transcende, no seu amplo significado, as fronteiras do nosso país - universaliza-se.\nA gesta heróica dos capitães de Abril liquidou a mais velha ditadura fascista da Europa, pôs fim ao mais velho império colonial do Mundo.\nEsta a sua verdadeira dimensão histórica!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Obviamente, a Revolução de Abril não foi um acontecimento isolado no tempo e no espaço.\nA fulminante vitória do Movimento das Forças Armadas culminou um longo processo de libertação amassado no sofrimento colectivo de gerações inteiras, levedado na luta tenaz das massas populares, temperado no sacrifício, quantas vezes heróico, de milhares de patriotas.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Dias Lourenço* (PCP): Sr. Presidente da República, Sr.Presidente da Assembleia da República, Srs. Deputados, Minhas Senhoras, Meus Senhores: Desde o seu primeiro ano, e como segundo orgão de soberania, reúne esta Assembleia da República, por sua própria iniciativa e sob a presidência do Sr. Presidente da República, para comemorar o 25 de Abril. É um dia singular na nossa História.\nCelebramos o 10.º aniversário da Revolução de Abril numa situação em que avultam motivos de reflexão, de preocupação, mas também poderosas razões de confiança: confiança nos grandes ideais que a inspiraram, confiança na perenidade e solidez das conquistas democráticas alcançadas.\nFeitos como o que celebramos hoje marcam uma época. Poucos mereceram evocação tão solene do povo português.\nMas que a solenidade da evocação não ofusque a grandeza real do acontecimento. Ê que a projecção dos sucessos daquela radiosa madrugada do Abril português de 1974 ultrapassa-nos.\nO 25 de Abril representa uma viragem histórica na vida da nossa Pátria, constitui um prodigioso salto em frente na luta secular do nosso povo pela liberdade, transcende, no seu amplo significado, as fronteiras do nosso país - universaliza-se.\nA gesta heróica dos capitães de Abril liquidou a mais velha ditadura fascista da Europa, pôs fim ao mais velho império colonial do Mundo.\nEsta a sua verdadeira dimensão histórica!", 
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Sofrimento amassado em privações de toda a ordem, na exploração mais brutal, nos salários de miséria, na fome endémica dos trabalhadores, na espoliação desenfreada das classes, camadas e sectores intermédios da população, no desprezo social z na injustiça pela mole imensa dos que produziam a riqueza em benefício dos inúteis que a dissipavam.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PCP: Muito bem!", 
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Luta que, arrostando a bestial repressão fascista, cresceu nas fábricas, nos campos, nas minas, nos cais, nas escolas, nos centros de cultura; luta que amadureceu e deflagrou em rudes batalhas políticas pela liberdade, pela democracia, pela paz, pela independência nacional.\nSacrifício dos que perderam a vida às mãos dos esbirros do fascismo, dos que foram barbaramente torturados nos antros da PIDE, dos que povoaram aos milhares - em muitos casos por décadas - as prisões do Tarrafal, de Peniche, do Aljube, de Caxias, de Angra, dos inúmeros cárceres políticos do continente, das ilhas e das antigas colónias, onde dezenas sucumbiram. Sacrifício também dos que se viram compelidos à clandestinidade e ao exílio.\nSofrimentos, lutas, sacrifícios do povo - eis o que está no âmago e fez desabrochar os cravos maravilhosos de Abril.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Obviamente, a Revolução de Abril não foi um acontecimento isolado no tempo e no espaço.\nA fulminante vitória do Movimento das Forças Armadas culminou um longo processo de libertação amassado no sofrimento colectivo de gerações inteiras, levedado na luta tenaz das massas populares, temperado no sacrifício, quantas vezes heróico, de milhares de patriotas.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Sofrimento amassado em privações de toda a ordem, na exploração mais brutal, nos salários de miséria, na fome endémica dos trabalhadores, na espoliação desenfreada das classes, camadas e sectores intermédios da população, no desprezo social z na injustiça pela mole imensa dos que produziam a riqueza em benefício dos inúteis que a dissipavam.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Carlos Brito* (PCP): Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Luta que, arrostando a bestial repressão fascista, cresceu nas fábricas, nos campos, nas minas, nos cais, nas escolas, nos centros de cultura; luta que amadureceu e deflagrou em rudes batalhas políticas pela liberdade, pela democracia, pela paz, pela independência nacional.\nSacrifício dos que perderam a vida às mãos dos esbirros do fascismo, dos que foram barbaramente torturados nos antros da PIDE, dos que povoaram aos milhares - em muitos casos por décadas - as prisões do Tarrafal, de Peniche, do Aljube, de Caxias, de Angra, dos inúmeros cárceres políticos do continente, das ilhas e das antigas colónias, onde dezenas sucumbiram. Sacrifício também dos que se viram compelidos à clandestinidade e ao exílio.\nSofrimentos, lutas, sacrifícios do povo - eis o que está no âmago e fez desabrochar os cravos maravilhosos de Abril.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Aplausos do PCP, do MDP/CDE e do Sr. Deputado Independente António Gonzalez.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "4128 I SÉRIE - NÚMERO 97", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Sim, o levantamento militar vitorioso dessa madrugada luminosa de há 10 anos procede da luta prolongada, sempre dura e difícil, de muitos milhares de democratas e antifascistas portugueses e de patriotas de jovens Estados que hoje, donos dos seus próprios destinos, num mar de dificuldades, mas com determinação, constróem, eles também, uma nova vida de independência e de liberdade.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Carlos Brito* (PCP): Muito bem!", 
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Mas é aos valorosos capitães de Abril, aos jovens capitães que com audácia meteram ombros à patriótica arrancada do 25 de Abril, que cabe o mérito excepcional da iniciativa histórica.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Mas é aos valorosos capitães de Abril, aos jovens capitães que com audácia meteram ombros à patriótica arrancada do 25 de Abril, que cabe o mérito excepcional da iniciativa histórica.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Aplausos do PCP, do MDP/CDE e do Sr. Deputado Independente António Gonzalez.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "O 25 de Abril guarda toda a sua antenticidade como acto libertador que tirou para a vala comum da História um carcomido regime fascista de 48 anos, pôs fim a uma inútil e injusta guerra colonial de 13 anos - que ceifou mais de 10 000 vidas jovens da flor do nosso povo, resgatou Portugal, como Nação, de uma pesada herança colonialista de meio milénio.\nO ímpeto revolucionário do Movimento das Forças Armadas fez destruir as muralhas da prisão que era Portugal. Abriu as portas dos cárceres aos opositores do regime, permitiu a inapreciável conquista da liberdade política, das liberdades democráticas essenciais.\nE se mais não houvera, só por isso, os audazes capitães de Abril são merecedores da admiração, do respeito, da gratidão ilimitada dos seus compatriotas.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Aplausos do PCP, do MDP/CDE e do Sr. Deputado Independente António Gonzalez.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "A Revolução de Abril não podia limitar-se - e não se limitou de facto- a substituir um governo e um regime (ainda que fascistas) por outro governo e outro regime (ainda que democráticos).\nA experiência dos primeiros meses encarregou-se de demonstrar a insuficiência destas metas.\nÉ que o 25 de Abril acabou com o regime fascista, mas, \ncompreensivelmente, não extirpou o fascismo em Portugal; extinguiu o regime de exploração colonial, mas não dissipou os sonhos revivalistas do colonialismo português.\nLogo no dia seguinte da vitória tomou-se claro que as forcas desapossadas do poder político -mas não do poder económico, que manejaram de imediato contra as novas realidades saídas da Revolução - não se conformariam com a derrota, iriam lançar-se na via da restauração subversiva das antigas posições.\nA defesa a todo o custo das conquistas alcançadas tornou-se uma questão vital para a democracia portuguesa.\nDesde logo se tornou claro que o programa de democratização do País não poderia avançar na realização plena dos seus grandes objectivos sem alterações profundas no nosso ordenamento político, económico e social.\nÉ nossa convicção que a nacionalização dos sectores básicos da economia abriu possibilidades novas e excepcionais de desenvolver, na linha dos interesses exclusivos da comunidade nacional, as actividades económicas principais do País, assim como a Reforma Agrária - nova e promissora forma de exploração agrícola surgida nas zonas do latifúndio - abriu possibilidades insuspcitadas de incremento da nossa produção agro-pecuária, com a resolução, no plano social, do agudo problema da fome e do desemprego nos vastos campos do Alentejo e do Ribatejo.\nLeis como as do arrendamento rural, dos baldios, da extinção dos foros e colónias, da extinção das coutadas, completaram um quadro jurídico que poderia, com o apoio atento do Estado democrático, garantir a elevação do teor de vida nos campos e a repartição mais justa do produto da terra.\nPara os trabalhadores, reformas sociais correspondentes a aspirações profundas, afirmadas em anos de dura luta, o processo da Revolução de Abril trouxe direitos e liberdades que são hoje um património inalienável das ciasses trabalhadoras.\nA institucionalização destas profundas reformas políticas, económicas e sociais foi um passo de importância decisiva no desenvolvimento e consolidação do nosso processo democrático.\nA promulgação da Constituição da República, em 1976, coroou o edifício de um Estado democrático, onde se combinam a democracia política, económica, social e cultural, por isso mesmo susceptível de garantir aos Portugueses um futuro promissor e livre.\nSr. Presidente da República, Sr. Presidente da Assembleia da República, Srs.. Deputados, Minhas Senhoras e Meus Senhores; Referi no início motivos de preocupação no momento actual.\nO povo português vê com apreensão o recrudescimento dos ataques das velhas forças do passado, acobertadas sob novas capas, vê como levantam cabeça e como nos horizontes da nossa Pátria se perfilam de novo ameaças que representam um perigo para o 25 de Abril.\nQuando ouvimos empregar palavras como «desmantelar», para significar a destruição de muito do que mais significativo Abril criou, quando vemos dirigentes sindicais prestigiados serem metidos em enxovias só por pretenderem dialogar com o poder; quando assistimos a violentas cargas policiais contra pacíficos trabalhadores sem justificação em quaisquer violações da legalidade democrática ou alterações da ordem pública; quando vemos renascer instrumentos repressivos que pensávamos enterrados para sempre; quando vemos proliferar a corrupção e o nepotismo; quando verificamos novas manifestações concretas de desestabilização institucional; quando observamos que se aprofundam e agravam as desigualdades e injustiças sociais -como a dos salários em atraso-, quando vemos de novo a fome e a miséria de braço dado com o desemprego invadirem os lares dos trabalhadores; quando ouvimos, vemos e observamos tudo isto não podemos deixar de ser tomados por sentimentos da maior preocupação.\nReferimos ainda motivos de reflexão. De facto, em nosso entender é imperioso reflectir, mas para agir.\nNa hora actual a unidade de todos os democratas, de todos os patriotas e antifascistas é um imperativo categórico. Nunca foi tão necessário secundarizar o que nos divide e privilegiar o que nos une! \nNão somos soldados de uma causa vencida!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "26 DE ABRIL DE 1984 4129", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Para a imensa maioria dos portugueses, que há 10 anos vibraram com o renascer da democracia e da liberdade, há poderosos motivos de confiança.\nConfiança na força, na vontade indomável do nosso povo, na determinação do movimento operário, popular e democrático. Confiança nos destinos de Abril. Estamos aqui a comemorar solenemente o 10.º aniversário do Dia da Liberdade. Isso dignifica este órgão de soberania.\nMas lá fora, nas ruas e praças do País, de norte a sul de Portugal, do continente às ilhas portuguesas do Atlântico, o nosso povo festeja com alegria e confiança a gesta heróica dos capitães de Abril.\nO 25 de Abril é indestrutível porque mergulha bem fundo no coração do nosso povo e, por isso, repetimos aqui, nesta tribuna, as palavras que hoje brotam das bocas e dos corações de milhões de portugueses: \nFascismo nunca mais! \n25 de Abril sempre!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Aplausos do PCP, do MDP/CDE e do Sr. Deputado independente António Gonzalez.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o representante do PSD, o Sr.Deputado Fernando Condesso.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante do PSD, o Sr.Deputado Fernando Condesso.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Fernando Condesso* (PSD): Sr. Presidente da República, Sr.Presidente da Assembleia da República e Srs. Deputados, Srs.Primeiro-Ministro e Membros do Governo, Srs. Presidentes dos Tribunais, Srs. Convidados: Em 25 de Abril de 1974, militares e povo em geral desceram às ruas e puseram fim ao regime não democrático.\nAno após ano, desde então, o 25 de Abril tem sido comemorado como dia da liberdade, depois também dia da constituição, enfim, dia de Portugal.\nSempre uma data, em que no Parlamento, instituição basilar do regime, na presença dos titulares de todos os órgãos de soberania, se homenageia os heróis, se canta a democracia, se revelam as preocupações de percurso, se reflecte sobre o futuro.\nE sempre o contraste atroz entre o canto de um dia de tantas esperanças, que muitos iludiram com ideias de toque mágico-como se fora o fim e solução de todos os males e não apenas um repto para uma caminhada colectiva, para o desenvolvimento, para a igualdade com os outros povos da Europa; contraste entre esse canto falso e o conto das desilusões em face de desvios e preocupações em face da realidade da impotência augurada para reconstruir Portugal de uma assentada.\nA muitos dos que, atónitos, não compreendem por que, apesar do fim da ditadura, continuamos empobrecidos, distantes da Europa, país de sacrifícios, povo em sofrimento, é preciso dizer-lhes que a sua incompreensão vem porque lhes mentiram: cantou-se demais. Contou-se de menos.\nÉ que a democracia veio quando Portugal ia afundar-se, com ou sem 25 de Abril, porque era um país de estruturas arcaicas, de economia assimétrica, de projectos megalómanos, com poucos gestores de craveira, com a maioria dos endinheirados medrosos do risco, interdependente de uma Europa que começava a retroceder.\nÉ preciso dizer-lhes que o 25 de Abril é uma mentira enquanto profecia da abundância para um Portugal cuja reconstrução exigia décadas, num mundo que empobrecia.\nÉ preciso dizer-lhes que o 25 de Abril foi apenas, em verdade, uma oportunidade, uma oportunidade para, de modo participado, os Portugueses, à volta dos dirigentes que se fossem revelando, poderem começar a transformar politicamente, economicamente, socialmente, o País; no caminho de um regime democrático, isto é, em que os dirigentes governam por escolha dos governados, para a construção de um objectivo final -o único que a todos poderia congregar- a construção de uma comunidade de justiça social.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Fernando Condesso", 
+   "text": "Sr. Presidente da República, Sr.Presidente da Assembleia da República e Srs. Deputados, Srs.Primeiro-Ministro e Membros do Governo, Srs. Presidentes dos Tribunais, Srs. Convidados: Em 25 de Abril de 1974, militares e povo em geral desceram às ruas e puseram fim ao regime não democrático.\nAno após ano, desde então, o 25 de Abril tem sido comemorado como dia da liberdade, depois também dia da constituição, enfim, dia de Portugal.\nSempre uma data, em que no Parlamento, instituição basilar do regime, na presença dos titulares de todos os órgãos de soberania, se homenageia os heróis, se canta a democracia, se revelam as preocupações de percurso, se reflecte sobre o futuro.\nE sempre o contraste atroz entre o canto de um dia de tantas esperanças, que muitos iludiram com ideias de toque mágico-como se fora o fim e solução de todos os males e não apenas um repto para uma caminhada colectiva, para o desenvolvimento, para a igualdade com os outros povos da Europa; contraste entre esse canto falso e o conto das desilusões em face de desvios e preocupações em face da realidade da impotência augurada para reconstruir Portugal de uma assentada.\nA muitos dos que, atónitos, não compreendem por que, apesar do fim da ditadura, continuamos empobrecidos, distantes da Europa, país de sacrifícios, povo em sofrimento, é preciso dizer-lhes que a sua incompreensão vem porque lhes mentiram: cantou-se demais. Contou-se de menos.\nÉ que a democracia veio quando Portugal ia afundar-se, com ou sem 25 de Abril, porque era um país de estruturas arcaicas, de economia assimétrica, de projectos megalómanos, com poucos gestores de craveira, com a maioria dos endinheirados medrosos do risco, interdependente de uma Europa que começava a retroceder.\nÉ preciso dizer-lhes que o 25 de Abril é uma mentira enquanto profecia da abundância para um Portugal cuja reconstrução exigia décadas, num mundo que empobrecia.\nÉ preciso dizer-lhes que o 25 de Abril foi apenas, em verdade, uma oportunidade, uma oportunidade para, de modo participado, os Portugueses, à volta dos dirigentes que se fossem revelando, poderem começar a transformar politicamente, economicamente, socialmente, o País; no caminho de um regime democrático, isto é, em que os dirigentes governam por escolha dos governados, para a construção de um objectivo final -o único que a todos poderia congregar- a construção de uma comunidade de justiça social.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Impunha-se criar riqueza, pondo todos a trabalhar mais.\nImpunha-se distribuir riqueza, dividindo melhor o fruto do trabalho.\nEm vez disso, vieram aos molhos os slogans, as reuniões, as \nmanifestações, menos trabalho, a distribuição rápida de riqueza que não existia senão no papel; tiram-se instrumentos de produção a quem os conhecia e os sabia gerir. E tudo em nome do fim da ditadura, tudo em nome da liberdade, tudo em nome da democracia.\nSó que, em verdade, assim, vilipendiava-se a liberdade, \ndesaproveitava-se a democracia.\nE fazia-se a alguns ter saudade da ditadura.\nHoje, passam 10 anos.\nE já não vale falar nos males do anterior regime porque aqueles que estão ascendendo à maioridade, não entendem que escondamos os nossos erros, enchendo a boca dos males de um regime que os teve mas não conheceram.\nO que importa realçar são os nossos erros para que não os repitamos ou para que os corrijamos.\nTemos que afastar o inebriamento das palavras e das promessas porque o tempo é de consciencialização das dificuldades e de apelo à \nsolidariedade de todos em face daqueles sobre os quais mais caem essas dificuldades, que perduram e, por vezes, até se acentuam.", 
+   "speaker": "O Orador", 
+   "text": "Impunha-se criar riqueza, pondo todos a trabalhar mais.\nImpunha-se distribuir riqueza, dividindo melhor o fruto do trabalho.\nEm vez disso, vieram aos molhos os slogans, as reuniões, as \nmanifestações, menos trabalho, a distribuição rápida de riqueza que não existia senão no papel; tiram-se instrumentos de produção a quem os conhecia e os sabia gerir. E tudo em nome do fim da ditadura, tudo em nome da liberdade, tudo em nome da democracia.\nSó que, em verdade, assim, vilipendiava-se a liberdade, \ndesaproveitava-se a democracia.\nE fazia-se a alguns ter saudade da ditadura.\nHoje, passam 10 anos.\nE já não vale falar nos males do anterior regime porque aqueles que estão ascendendo à maioridade, não entendem que escondamos os nossos erros, enchendo a boca dos males de um regime que os teve mas não conheceram.\nO que importa realçar são os nossos erros para que não os repitamos ou para que os corrijamos.\nTemos que afastar o inebriamento das palavras e das promessas porque o tempo é de consciencialização das dificuldades e de apelo à \nsolidariedade de todos em face daqueles sobre os quais mais caem essas dificuldades, que perduram e, por vezes, até se acentuam.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -534,8 +482,7 @@
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Se a ditadura, se a demagogia, se os desvarios revolucionários fecharam portas.\nSe os travejamentos jurídicos feitos para servir o País Novo, muitas vezes, bloquearam soluções, aos homens do fim desta década, de sobressaltos, experiências, aprendizagem, crenças, problemas graves, confrontos, acertos e desacertos, cumpre reconhecer que a obra é inacabada, que muito há a corrigir que não importa pôr em causa qualquer passado se a coragem valer caminhos de uma segunda revolução, após o 25 de Abril.\nNão a do 11 de Março a dos desvarios, dos excessos, das \nirresponsabilidades, das arbitrariedades, das prepotências, dos sectarismos, enfim, bloqueamentos; mas a do Abril de abrir portas para as alterações profundas das estruturas que se impõem a todos os níveis.", 
    "type": "deputado_continuacao"
   }, 
@@ -544,33 +491,28 @@
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Assim, mostramos que o processo democrático existe.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "4130 I SÉRIE - NÚMERO 97", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "E a ninguém assiste a desilusão porque o processo democrático, iniciado em 1974, é ainda e sempre inacabado.\nAcima de tudo, devemos impedir que se encha a boca com democracia, para confundir, para impor, para destruir, para bloquear.\nQue nos baste a lição destes 10 anos: quando em 25 de Abril militares tomam o poder sem dúvida que querem instaurar um regime democrático.\nMas logo alguns deles e outros, em princípios de 1975, vacilam entre a outorga de uma constituição ou eleições para uma assembleia \nconstituinte.\nE qualquer que seja a solução que viabilizem falam sempre em processo democrático.\nHá eleições, mas os partidos são comprometidos a pré-vincularem os futuros deputados a uma determinada solução de organização do poder político, enquanto o sistema económico, esse, era completamente subvertido sem consulta eleitoral.\nE fala-se sempre em processo democrático.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Os constituintes legislam, não se coibindo de, em muitos pontos da parte programática, ultrapassar um natural e ético mandato constituinte, retirando, assim, conteúdo quer à possibilidade futura de autêntico pluralismo ideológico, apesar da consagração de um regime democrático e, portanto, de pluralismo institucional, quer à verdadeira alternância governativa, que, mais que poder ser, pressupõe a liberdade de poder mudar as orientações programáticas.\nIsto é, bloqueia-se, pela confusão entre constituição e programa de governo.\nE, ainda hoje, nalguns aspectos se impõe um apelo ao patriotismo de negação de sectarismo para se eliminar resquícios dessa confusão.", 
+   "speaker": "O Orador", 
+   "text": "Os constituintes legislam, não se coibindo de, em muitos pontos da parte programática, ultrapassar um natural e ético mandato constituinte, retirando, assim, conteúdo quer à possibilidade futura de autêntico pluralismo ideológico, apesar da consagração de um regime democrático e, portanto, de pluralismo institucional, quer à verdadeira alternância governativa, que, mais que poder ser, pressupõe a liberdade de poder mudar as orientações programáticas.\nIsto é, bloqueia-se, pela confusão entre constituição e programa de governo.\nE, ainda hoje, nalguns aspectos se impõe um apelo ao patriotismo de negação de sectarismo para se eliminar resquícios dessa confusão.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -578,32 +520,27 @@
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "E, por isso, sem complexos, apesar de termos participado recentemente numa revisão constitucional, nós dizemos que, onde e quando as alterações se impuserem para ajudar a resolver problemas nacionais, estamos prontos para apoiar as modificações.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PSD: Muito bem!", 
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Hoje, é dia de Portuga!.\nTem de ser dia de ir à rua até junto dos cidadãos das várias camadas sociais. E ouvi-los.\nQue significa, hoje, 10 anos depois, para eles, o 25 de Abril? \nEles que suportaram pacientemente governos de opressão, que, de qualquer modo, lhes ia permitindo satisfazer as necessidades mais prementes que então sentiam.\nComo reagem? Hoje, em face de tantas promessas e aspirações não realizadas, das dificuldades que sentem, alguns habituados já a outros padrões de consumo que agora voltam a perder.\nE o nível de vida a piorar, quando julgavam que a democracia era um nome milagroso que tudo perpetuava.\nÉ o desemprego. É o trabalho sem salário. É a falência eminente da sua empresa. É a casa que não conseguem.\nÉ, enfim, uma mistura de esperanças de Abril por realizar com benesses de Maio que a situação económica e financeira do País não permite realisticamente aguentar.\nÉ a descoberta de que o rei que lhes meteram na barriga em 1975 afinal não era coroado. É a desilusão.\nO 10.º aniversário do 25 de Abril é, por isso, também, o momento de dizer bem alto que a democracia não tem culpa destes males: muitos vêm dos tempos, muitos vêm dos erros de 1975, alguns vêm de incapacidades posteriores. Outros vêm de obrigações para com credores estrangeiros que foram pagando aquilo que queríamos, mas não podíamos pagar, outros ainda são fruto de uma evolução renovadora de um país que tem de ser repensado com vista ao futuro.\nMas um futuro que, em democracia, terá de ser de bem-estar para todos.\nPorque não há democracia sem justiça social.\nNeste momento, importante é que os dirigentes não ponham, eles próprios, em causa a ideia de democracia. Não a pervertam, \nambientando-a na intriga, na ambição pessoal ou no sebastianismo, em vez de respeitarem, escrupulosamente, o jogo democrático a todos os níveis, designadamente indo às umas e vindo ao Parlamento, mas desrespeitando as leis e fazendo nas ruas a agitação dos adeptos ou desiludidos da altura, visando assim derrubar o Governo legitimado.\nImportante é que se afaste suspeições dos cidadãos sobre a honestidade e espírito de devoção à causa comum dos responsáveis pela condução das coisas públicas, afastando os incompetentes, seleccionando-se os mais capazes e corajosos, mesmo que não bajuladores, afastando-se os corruptos que existam na administração, na gestão das empresas públicas, nas autarquias ou mesmo em órgãos de poder soberano.\nÉ que não há governo que não trema se faltar algum pão e houver vozes de corrupção.\nE não basta ilibar um governo, criando uma alta autoridade, é preciso ilibar todos os que servem pela descoberta e castigo dos que se servem.\nÉ preciso ilibar a democracia, mostrando que ela tem tantos ou mais meios -porque tem mais, basta lembrar o caso Watergate, nos Estados Unidos da América -, para lutar contra a corrupção, o nepotismo, a ilegalidade ou a deslealdade.\nImportante é que o Estado revele, na prática do dia-a-dia, autoridade.\nQue não admita que as leis, uma vez aprovadas, possam deixar de ser cumpridas.\nA democracia é tolerância nas ideias, mas não no cumprimento das suas regras, das suas leis.\nPara os prevaricadores, castigo. Só há um meio normal de se resolver os problemas dos infractores: permitir-lhes que cumpram, dignamente, as penas a que sejam condenados.\nImportante é que se faça a sempre adiada reforma do aparelho do Estado, com racionalização e articulação de meios e eliminação de todos quantos só servem para boicotar quem legitimamente compete governar.\nImportante é que, em face das dificuldades, do desemprego, de salários por receber, da austeridade, se difunda a necessidade do espírito de solidariedade entre as pessoas e as famílias.\nO Estado sozinho não poderá, de um dia para o outro, tudo resolver. E só apoiando a livre iniciativa dos particulares se poderá criar hoje condições económicas para a superação estável dos problemas.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Hoje, é dia de Portuga!.\nTem de ser dia de ir à rua até junto dos cidadãos das várias camadas sociais. E ouvi-los.\nQue significa, hoje, 10 anos depois, para eles, o 25 de Abril? \nEles que suportaram pacientemente governos de opressão, que, de qualquer modo, lhes ia permitindo satisfazer as necessidades mais prementes que então sentiam.\nComo reagem? Hoje, em face de tantas promessas e aspirações não realizadas, das dificuldades que sentem, alguns habituados já a outros padrões de consumo que agora voltam a perder.\nE o nível de vida a piorar, quando julgavam que a democracia era um nome milagroso que tudo perpetuava.\nÉ o desemprego. É o trabalho sem salário. É a falência eminente da sua empresa. É a casa que não conseguem.\nÉ, enfim, uma mistura de esperanças de Abril por realizar com benesses de Maio que a situação económica e financeira do País não permite realisticamente aguentar.\nÉ a descoberta de que o rei que lhes meteram na barriga em 1975 afinal não era coroado. É a desilusão.\nO 10.º aniversário do 25 de Abril é, por isso, também, o momento de dizer bem alto que a democracia não tem culpa destes males: muitos vêm dos tempos, muitos vêm dos erros de 1975, alguns vêm de incapacidades posteriores. Outros vêm de obrigações para com credores estrangeiros que foram pagando aquilo que queríamos, mas não podíamos pagar, outros ainda são fruto de uma evolução renovadora de um país que tem de ser repensado com vista ao futuro.\nMas um futuro que, em democracia, terá de ser de bem-estar para todos.\nPorque não há democracia sem justiça social.\nNeste momento, importante é que os dirigentes não ponham, eles próprios, em causa a ideia de democracia. Não a pervertam, \nambientando-a na intriga, na ambição pessoal ou no sebastianismo, em vez de respeitarem, escrupulosamente, o jogo democrático a todos os níveis, designadamente indo às umas e vindo ao Parlamento, mas desrespeitando as leis e fazendo nas ruas a agitação dos adeptos ou desiludidos da altura, visando assim derrubar o Governo legitimado.\nImportante é que se afaste suspeições dos cidadãos sobre a honestidade e espírito de devoção à causa comum dos responsáveis pela condução das coisas públicas, afastando os incompetentes, seleccionando-se os mais capazes e corajosos, mesmo que não bajuladores, afastando-se os corruptos que existam na administração, na gestão das empresas públicas, nas autarquias ou mesmo em órgãos de poder soberano.\nÉ que não há governo que não trema se faltar algum pão e houver vozes de corrupção.\nE não basta ilibar um governo, criando uma alta autoridade, é preciso ilibar todos os que servem pela descoberta e castigo dos que se servem.\nÉ preciso ilibar a democracia, mostrando que ela tem tantos ou mais meios -porque tem mais, basta lembrar o caso Watergate, nos Estados Unidos da América -, para lutar contra a corrupção, o nepotismo, a ilegalidade ou a deslealdade.\nImportante é que o Estado revele, na prática do dia-a-dia, autoridade.\nQue não admita que as leis, uma vez aprovadas, possam deixar de ser cumpridas.\nA democracia é tolerância nas ideias, mas não no cumprimento das suas regras, das suas leis.\nPara os prevaricadores, castigo. Só há um meio normal de se resolver os problemas dos infractores: permitir-lhes que cumpram, dignamente, as penas a que sejam condenados.\nImportante é que se faça a sempre adiada reforma do aparelho do Estado, com racionalização e articulação de meios e eliminação de todos quantos só servem para boicotar quem legitimamente compete governar.\nImportante é que, em face das dificuldades, do desemprego, de salários por receber, da austeridade, se difunda a necessidade do espírito de solidariedade entre as pessoas e as famílias.\nO Estado sozinho não poderá, de um dia para o outro, tudo resolver. E só apoiando a livre iniciativa dos particulares se poderá criar hoje condições económicas para a superação estável dos problemas.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "26 DE ABRIL DE 1984 4131", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Importante é que se explique, com verdade, aos Portugueses os caminhos complexos e faseados que se trilham. Que se explique como, enquanto se age no plano prévio do controle das finanças públicas, não se está perdendo tempo sem preparar a modernidade da nova década na \nagricultura, nas pescas, no turismo, na indústria, na distribuição e na energia. Que após 10 anos de experiências, com erros e abolias, se estão finalmente fixando, nesses eixos essenciais para a realidade nacional, objectivos claros, em coerência global, rumo à identidade económica de um Portugal que tem de ser viável e próspero.\nE diga-se, entretanto, que é condenável, que não é legítimo que os maiores responsáveis por muitas das causas de problemas que vivemos, no desarticular do sistema económico, na subversão da gestão e da ordem nas empresas, reivindicações irrealistas, nacionalizações indigestas, se queiram aproveitar do fruto dos seus actos para arregimentar o descontentamento dos que mais sofrem.\nSr. Presidente da República, Sr. Presidente da Assembleia da República: \nComemoramos hoje uma grande data e as minhas palavras finais, em nome dos sociais-democratas, são de homenagem: homenagem a quem, mais que todos já cantados, muitos mais anónimos que a História não saberá recordar, vêm fazendo o 25 de Abril e têm lutado, em sítios e de modos diferentes, para que a democracia seja o meio natural de construir um Portugal novo.\nHomenagem também aos que têm coragem de ser governantes da Nação em tempo de tamanha dificuldade, com apelo a que a sua acção se traduza, em cada momento, em obras que sejam marco -verdadeiramente marco- de serviço dos interesses nacionais.\nNestes 12 meses que a actual coligação leva de poder, estou crente que terão sido aproveitados para lançar meios para, a prazo, se poder ultrapassar muitos problemas - e são realmente muitos - que hoje afligem os nossos concidadãos.\nQue este 10.º aniversário do 25 de Abril sirva de repto para no futuro se fazer mais e melhor.\nPortugal será um país grande se todos ousarmos acreditar e trabalhar.\nNós, sociais-democratas, estaremos sempre nas trincheiras da ousadia.", 
    "type": "deputado_continuacao"
   }, 
@@ -612,36 +549,35 @@
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o representante do PS, o Sr. Deputado José Luis Nunes.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante do PS, o Sr. Deputado José Luis Nunes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *José Luís Nunes* (PS): Sr. Presidente da República, Sr.Presidente da Assembleia da República, Sr. Primeiro-Ministro, Srs.Presidentes do Tribunal Constitucional e do Supremo Tribunal de Justiça, Srs. Ministros, Srs. Deputados, Minhas Senhoras e Meus Senhores: No momento em que inicio estas breves palavras recordo os momentos de real emoção, cívica e patriótica, que vivemos em 25 de Abril de 1974 quando o Movimento das Forças Armadas, interpretando a vontade do povo português, pôs fim a quase meio século de um regime que, para muitos de nós, mais do que uma realidade monstruosa é hoje um monstruoso pesadelo.\nA todos -sem exclusões nem excepções, porque nunca nem jamais falsificaremos a história- que há 10 anos, arriscando vida e haveres, souberam dar corpo à vontade nacional, é dever de todos nós, representantes do povo, apresentar o nosso agradecimento e prestar a mais comovida homenagem.\nNesta homenagem estão também presentes os portugueses, «indomados e indomáveis», como António Sérgio, Jaime Cortesão, Mário de Azevedo Gomes, o general Adalberto Castão de Sousa Dias, Bento de Jesus Caraça, o general Norton de Matos, Manuel Mendes, o general Humberto Delgado, Carlos Cal Brandão, o coronel Hélder Ribeiro, o Dr. Barradas de Carvalho e Nuno Rodrigues dos Santos, para só falar daqueles que, para sempre, vivos na nossa memória, integraram a imensa e honrosa legião dos capitães de Abril do exército da noite.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
+   "text": "Sr. Presidente da República, Sr.Presidente da Assembleia da República, Sr. Primeiro-Ministro, Srs.Presidentes do Tribunal Constitucional e do Supremo Tribunal de Justiça, Srs. Ministros, Srs. Deputados, Minhas Senhoras e Meus Senhores: No momento em que inicio estas breves palavras recordo os momentos de real emoção, cívica e patriótica, que vivemos em 25 de Abril de 1974 quando o Movimento das Forças Armadas, interpretando a vontade do povo português, pôs fim a quase meio século de um regime que, para muitos de nós, mais do que uma realidade monstruosa é hoje um monstruoso pesadelo.\nA todos -sem exclusões nem excepções, porque nunca nem jamais falsificaremos a história- que há 10 anos, arriscando vida e haveres, souberam dar corpo à vontade nacional, é dever de todos nós, representantes do povo, apresentar o nosso agradecimento e prestar a mais comovida homenagem.\nNesta homenagem estão também presentes os portugueses, «indomados e indomáveis», como António Sérgio, Jaime Cortesão, Mário de Azevedo Gomes, o general Adalberto Castão de Sousa Dias, Bento de Jesus Caraça, o general Norton de Matos, Manuel Mendes, o general Humberto Delgado, Carlos Cal Brandão, o coronel Hélder Ribeiro, o Dr. Barradas de Carvalho e Nuno Rodrigues dos Santos, para só falar daqueles que, para sempre, vivos na nossa memória, integraram a imensa e honrosa legião dos capitães de Abril do exército da noite.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PS, do PSD, do MDP/CDE e da ASDI.", 
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
    "text": "Durante a ditadura jamais esmoreceu a luta pela liberdade, com a dobrada intenção de dar testemunho e de instaurar em Portugal um sistema democrático em que coubessem todos os portugueses, incluindo os que, então, estavam do outro lado da barricada.\nTendo-se sempre feito uma política de resistência, impunha-se cumprir a justiça e a humanidade superando as dificuldades que lhes opunha o sistema, simultaneamente tão rígido e tão débil, que a mais pequena contrariedade desestabilizava e arruinava.\nÉ que o sistema de governo mais perfeito é aquele que produz mais felicidade, mais segurança social e mais estabilidade política, no âmbito de um largo consenso procurado pelos governantes e expresso pelos cidadãos.\nNas derrotas temperamos o espírito, certos de que, na história, só perduram os regimes alicerçados nos princípios da tolerância, da convivência e do respeito mútuo, pois os regimes de força acabam por ser vítimas da violência de que nasceram e da força em que, para subsistir, se apoiaram.\nFoi este espírito que dominou no «Programa da Junta de Salvação Nacional», apresentado ao País em 25 de Abril pelo general António de Spínola, hoje marechal, primeiro Presidente da República Portuguesa revolucionária, e foi neste espírito que os Portugueses saudaram a liberdade reencontrada.\nO espírito unido à espada ou, como dizia Jorge de Sena: «Não hei-de morrer sem conhecer a Liberdade.» Ou ainda, como dizia Homero: «O homem, ao perder a liberdade, perde metade do seu espírito.» A nossa geração conheceu a liberdade mas, importa dizê-lo, soube também, com paciência e sofrimento, construí-la.\nVive-se hoje em Portugal aquele livre regime por que nos batemos durante quase 50 longos anos de lutas, que levámos pesadamente sobre os ombros até ao mais elevado cume da nossa historia «e que aí depusemos como um vivo padrão da velha energia lusitana».\nEm 25 de Abril de 1974 cumpriu-se o acto libertado, dando aos Portugueses a capacidade para assumirem o seu próprio destino, pois não houve vontade que pudesse prevalecer sobre a vontade expressa pelo voto, em eleições livres, dirigida à eleição de uma assembleia constituinte, depositária suprema da soberania nacional.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
    "text": "4132 I SÉRIE -NÚMERO 97", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
    "text": "A ordem democrática foi, é e deve continuar a ser a ordem portuguesa, fundada na soberania do povo, na divisão dos poderes, na liberdade civil, na paz das consciências e dos homens.\nO 25 de Abril não era nem podia ser portador de um qualquer programa político que excedesse os limites institucionais então, lapidarmente, definidos: descolonizar, democratizar, institucionalizar.\nDa descolonização nasceram os novos países de expressão portuguesa, que são agora, e verdadeiramente e só agora, a imagem viva da presença de Portugal no Mundo, pois aquilo que caracteriza a nossa maneira de ser lusíada é menos o domínio das armas e mais o estender dos braços da fraternidade.\nDa descolonização nasceu, enfim, o que é mais importante do que tudo, a paz. Uma paz duradoura que pôs termo a uma guerra entre irmãos, de que todos, portugueses e africanos, éramos, sobretudo, as vítimas.\nDa democratização e da institucionalização nasceu a Constituição da República Portuguesa, e com ela a razão do voto sobre a razão da força, o domínio do fanatismo pela tolerância e do ódio pela solidariedade nacional.\nDa velha sociedade ficou tão-só o que ainda estava vivo, pois o mundo caminha para a renovação, não só do seu aparelho político e económico mas também da sua estrutura mental.\nPassados 10 anos mudaram, pois, de natureza as clivagens sociais e políticas existentes sob a ditadura.\nO fascismo foi derrotado em 25 de Abril de 1974 e hoje a única forma coerente de ser antifascista é ser, simplesmente, democrata.", 
    "type": "deputado_continuacao"
   }, 
@@ -650,14 +586,14 @@
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
    "text": "Aqueles que, como nós, tiveram o privilégio de tomar parte na luta pela liberdade e que souberam falar quando deviam falar, enquanto outros que hoje falam estavam calados, não podem deixar de sentir que essa luta alcançou os seus objectivos quando as instituições democráticas se 'tornaram o incontestável quadro político da vida dos Portugueses.\nHoje é imperioso dever de todos nós prosseguir uma política de larga e completa reconciliação nacional, que fortaleça os laços de fraternidade entre os Portugueses, e o seguinte de que pertencemos a um mesmo povo e a um mesmo país.\nOs que ainda defendem as ideias caducas perderam os pontos de apoio.\nInteressados ou desinteressados são, acima de tudo, fracos.\nSomos um grande país e uma grande comunidade nacional. Demos, no passado, novos mundos ao Mundo e, no presente, novas pátrias à sociedade das nações.\nSe nunca tivemos como inimigos os povos de África também não temos inimigos entre os portugueses.\nSenhores, não sobeja nesta palavras tibiezas nos princípios ou franqueza nas convicções. A reconciliação nacional, que é o mais imperioso dever da hora presente, encontra campo bastante nos princípios definidos no 25 de Abril na proclamação da Junta de Salvação Nacional.\nOs homens definem-se menos por donde vêm e mais para onde caminham.\nA história nos julgará especialmente pelo que formos capazes de fazer, em conjunto, para bem de Portugal.\nNeste mundo convulso em que vivemos, algumas certezas se desenham como consoladoras realidades.\nOs povos sabem que não existem direitos sem democracia, liberdade sem pluralismo, solidariedade sem tolerância.\nA democracia é hoje a ideia mais jovem e mais moderna do Mundo e também a mais antiga e mais tradicional. Confunde-se com a longa luta dos povos pela sua emancipação, que jamais terminará, como a água dos rios jamais deixa de correr.\nJean Jaurés exprimia a mesma ideia, mas com mais clareza e eloquência, quando afirmava que «é correndo para o mar que os rios são fiéis às origens», pois a emancipação dos povos não surge «num súbito e total raio de luz, mas por uma lenta série de auroras incertas».\nLeon Blum, em trágicas circunstâncias, exprimia ainda a mesma ideia, quando afirmava ser preciso «que alguns guardem a velha casa quando outros vão correr a aventura».\nSenhores, quando certas vozes perguntam se o 25 de Abril valeu a pena, consideramos que a pergunta é absurda e a nossa resposta tem a força da evidência:", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
    "text": "A liberdade não tem preço e é a única aventura que vale a pena viver! \nDeixa-se a outros o cuidado de saber se estão perto ou longe do 25 de Abril. Nós não estamos nem perto nem longe, estamos dentro. Portugal é uma causa livre.", 
    "type": "deputado_continuacao"
   }, 
@@ -686,76 +622,66 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Sr. Presidente da Assembleia da República", 
-   "text": "O Sr. *Presidente*: Tem a palavra S. Ex.ª o Sr. Presidente da República.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra S. Ex.ª o Sr. Presidente da República.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "O Sr. Presidente da Assembleia da República", 
-   "text": "O Sr. Presidente da República (Ramalho Eanes): Srs. Deputados, não esquecerei a natureza desta sessão.\nSr. Presidente da Assembleia da República, Sr. Primeiro-Ministro, Sr.Presidente do Tribunal Constitucional, Srs. Representantes de Países Estrangeiros, Sr. Chefe do Estado-Maior-General das Forcas Armadas, Srs. Deputados, Portugueses: Comemoram os Portugueses mais um aniversário do 25 de Abril, hoje com um significado especial.\nPerfaz 10 anos a democracia.\nConstituindo um marco politicamente significativo na vida e no sentido dos Portugueses, seria um momento adequado para que de novo se falasse do fim do regime autoritário, da democracia renascida, da \ndescolonização efectuada, das profundas modificações", 
-   "type": "deputado_continuacao"
+   "text": "Srs. Deputados, não esquecerei a natureza desta sessão.\nSr. Presidente da Assembleia da República, Sr. Primeiro-Ministro, Sr.Presidente do Tribunal Constitucional, Srs. Representantes de Países Estrangeiros, Sr. Chefe do Estado-Maior-General das Forcas Armadas, Srs. Deputados, Portugueses: Comemoram os Portugueses mais um aniversário do 25 de Abril, hoje com um significado especial.\nPerfaz 10 anos a democracia.\nConstituindo um marco politicamente significativo na vida e no sentido dos Portugueses, seria um momento adequado para que de novo se falasse do fim do regime autoritário, da democracia renascida, da \ndescolonização efectuada, das profundas modificações", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "O Sr. Presidente da Assembleia da República", 
    "text": "4134 I SÉRIE - NÚMERO 97", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "O Sr. Presidente da Assembleia da República", 
    "text": "operadas na sociedade portuguesa, e se louvasse enfim a paz, a liberdade, a democracia e o reencontro da Nação portuguesa com a comunidade internacional.\nSe o fizesse não seria polémico, não chocaria as boas consciências e, provavelmente, não me voltariam a acusar de falta de clareza nas minhas intervenções.\nResisti a essa tentação ao pensar que uma parte significativa da juventude portuguesa não viveu, ou se viveu não sentiu, o regime anterior.\nResisti a essa tentação ao pensar no que vai ser o 25 de Abril de 1984 dos portugueses que se debatem no seu quotidiano com carências acrescidas -a atingir, por vezes, o limiar de uma sobrevivência digna.\nResisti, também, ao pensar nos empresários e nos trabalhadores que, contribuindo com seriedade para a construção do nosso futuro colectivo, se encontram confrontados com aqueles que, de forma expedita e ilegítima, vão enriquecendo rapidamente, sem capacidade para um trabalho sério, sem esforço honesto, sem aceitar o risco que outros têm de suportar.\nResisti, ainda, porque acredito que «a primeira categoria da consciência histórica não é a memória ou a lembrança; é o anúncio, a expectativa, a promessa».\nConsiderei assim mais útil, no presente, propor aos Srs. Deputados e aos Portugueses, uma reflexão conjunta, e mesmo uma autocrítica, sobre estes 10 anos da nossa vivência colectiva.\nDir-se-á, certamente, que as dificuldades que vivemos em Portugal também são vividas um pouco por todo o mundo.\nE com razão se poderá invocar o papel de relevo dos bloqueamentos herdados do regime anterior e dos efeitos da crise internacional na nossa difícil situação.\nSão verdades que julgo incontroversas, mas não deixarão de concordar que elas não correspondem a todos e nem tudo justificam.\nEstas são verdades que não satisfazem, por exemplo, a nossa juventude, que, vivendo em paz, em liberdade e em democracia -valores \ninestimáveis, sem dúvida- se confronta hoje com dificuldades múltiplas, designadamente de emprego, não tendo, por isso, mobilizadores horizontes de vida.\nEm boa verdade nenhuma razão, por mais objectiva que seja, será por si suficiente para justificar o tempo perdido, as energias dispersas, a falta de rigor, que nos têm afastado do progresso, da modernidade e vêm contribuindo para fragilizar a afirmação da nossa independência.\nAs comemorações do 25 de Abril, para além do ritual próprio das cerimónias, não se podem esgotar numa solene evocação histórica.\nE mesmo as mais sinceras declarações de intenção não podem fazer esquecer o que ainda se não fez e está ao nosso alcance realizar.\nNo plano político, o recurso exagerado à palavra, ainda que com a dignidade do discurso, pode ser, e é muitas vezes, um sintoma preocupante.\nOs discursos não podem, nem devem, substituir o balanço nem o projecto que o País de Abril prometeu ser verdadeiras mutações, para um futuro em tudo consentâneo com os grandes valores culturais do nosso povo e capaz de garantir e consolidar a paz, a liberdade e a justiça para todos.\nÉ hoje inevitável reconhecer aquilo que, há muito, alguns têm defendido, embora sem encontrar eco inteiro na decisão política.\nA transição para um modelo de desenvolvimento feito com compreensão de todos os mecanismos desta crise persistente, no plano interno e externo, impõe uma acção sistemática sobre o nosso sistema produtivo.\nO restabelecimento estrutural do equilíbrio sobre o exterior, a alteração dos meios, métodos e instrumentos de trabalho, a \nreorganização e o controle do sistema financeiro, a preparação global, integrada e permanente da nossa juventude e de toda a nossa população activa, a par da defesa de um sector privado apoiado e dinâmico e de um sector público responsável e competitivo, são condições indispensáveis à modernização da nossa economia.\nImpõe, complementarmente, a descentralização da decisão política, através de uma relação dinâmica e cooperante entre o poder central e o local, cabendo àquele a definição dos programas globais e dos sectores estratégicos de desenvolvimento.\nSrs. Deputados: O problema político essencial na presente situação só tem a ver com as responsabilidades da democracia, os interesses dos Portugueses e a resolução dos seus problemas concretos, devendo ser alheio aos atritos políticos, lutas pelo poder ou projectos \npersonalizados.\nE quando os problemas concretos se agravam continuamente, as eventuais vitórias na luta pelo poder são apenas vitórias pessoais mas nacionalmente inconsequentes.\nReflectir Abril de 1974 é não só rememorar o que se fez' e o que se deixou de fazer, mas recordar também o que nessa data ocorreu.\nO 25 de Abril existiu para que as questões nacionais fossem conhecidas de todos os portugueses, para que a inteira consciência dos factos e dos condicionalismos pudesse levar a comunidade a enfrentar \ncolectivamente os desafios e a chegar assim às respostas adequadas e mobilizadoras.\nO 25 de Abril existiu para que a palavra dos dirigentes políticos retratasse a verdade dos factos, delineasse e mostrasse o rigor das decisões e respeitasse sempre a vontade livre de todos os portugueses.\nHá 10 anos, o povo sentia que o regime autoritário tinha caído. Nos palácios, alguns havia que se preparavam para continuar a desempenhar o seu papel na cerimónia do poder.\nTemos a estrita obrigação democrática de manter bem abertos os palácios para que a legitimidade que recebemos do voto livre dos Portugueses se não degrade em oportunismos de acção que adulterem as regras democráticas e a estabilidade das suas estruturas essenciais.\nÉ sabido que nenhuma ameaça antidemocrática se perfila no nosso horizonte próximo, o que nos confere o tempo necessário para revermos atitudes e posições.\nCabe-nos reconhecer que, por vezes, seguimos caminhos errados, que prometemos o que não sabíamos como cumprir, que nos enganámos nos diagnósticos das situações, que nos iludimos na esperança de que haveria soluções fáceis para os problemas do País.\n10 anos é um período muito curto para avaliar as potencialidades de um regime político.", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "O Sr. Presidente da Assembleia da República", 
    "text": "26 DE ABRIL DE 1984 4135", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "O Sr. Presidente da Assembleia da República", 
    "text": "Depois de um regime autoritário que se impôs por meio século, seria difícil que 10 anos fossem suficientes para absorver as suas consequências e os seus bloqueamentos, para colocar o País numa via segura de modernização e progresso.\nMas 10 anos são um tempo longo se for apreciado na perspectiva dos erros cometidos e que são responsabilidade de todos os dirigentes políticos, de onde naturalmente me não excluo.\nA nossa democracia entra agora numa fase vital e decisiva, não porque exista qualquer ameaça antidemocrática, mas sim porque já não há espaço para novos erros, já não e possível ceder à inércia do mais cómodo e do mais fácil.\nTrata-se de definir e de realizar, clara e firmemente, um projecto que, sendo realista, possa estimular vontades e mobilizar energias.\nUm projecto que, viabilizando o imediato, tenha igualmente como objectivo o médio e o longo prazo, um projecto que, fazendo-nos aproveitar das experiências alheias, seja realmente nosso no seu carácter, nos seus objectivos e, ate certo ponto, nos seus anseios.\nUm projecto de esperança mobilizadora de todos os Portugueses, que fortaleça a democracia, realize o bem comum nacional e cumpra a universalidade do nosso destino histórico.\nSrs. Deputados, Portugueses: Termino, com a consoladora certeza de que se não formos nós capazes de realizar esse projecto «o povo encontrará sempre maneira de vir à tona da História».", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "O Sr. Presidente da Assembleia da República", 
-   "text": "O Sr. *Presidente*: Está encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Está encerrada a sessão.\nEram IS horas e 10 minutos.", 
+   "type": "presidente_encerrada"
   }, 
   {
-   "speaker": "O Sr. Presidente da Assembleia da República", 
-   "text": "Eram IS horas e 10 minutos.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Sr. Presidente da Assembleia da República", 
+   "speaker": "Presidente", 
    "text": "A banda da Guarda Nacional Republicana executou de novo o Hino Nacional.\nRealizou-se então o cortejo de saída, composto pelas mesmas \nindividualidades da entrada, tendo o Sr. Presidente da República saudado o corpo diplomático com uma vénia ao passar diante da respectiva tribuna.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD/PPD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD/PPD", 
    "speaker": "Partido Social-Democrata", 
    "text": "Maria Margarida Salema Moura Ribeiro.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD/PPD", 
    "speaker": "Partido Social-Democrata", 
    "text": "Faltaram à sessão os seguintes Srs. Deputados.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

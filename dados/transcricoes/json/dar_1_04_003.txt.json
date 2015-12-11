@@ -37,284 +37,321 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai proceder-se à chamada.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Vai proceder-se à chamada.\nEram 15 horas e 15 minutos", 
+   "type": "presidente"
   }, 
   {
-   "text": "Eram 15 horas e 15 minutos", 
-   "type": null
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Afonso de Sousa Freire de Moura Guedes.\nAlcino Cabral Barreto.\nÁlvaro Barros Marques de Figueiredo.\nAmândio Anes de Azevedo.\nAmérico Abreu Dias.\nAntónio Augusto Lacerda de Queirós.\nAntónio Duarte e Duarte Chagas.\nAntónio José Ribeiro Carneiro.\nAntónio José dos Santos Moreira da Silva.\nAntónio Mana Pereira.\nAntónio Maria de Orneias Ourique Mendes.\nArmando Adão e Silva.\nArmando António Correia.\nCarlos M. Sousa Encarnação.\nCarlos Matos Chaves de Macedo.\nCecília Pita Catarino.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nEleutério Manuel Alves.\nFernando José Sequeira Roriz.\nFernando Manuel Alves Cardoso Ferreira.\nFernando Monteiro do Amaral \nFernando Raimundo Rodrigues.\nJaime Adalberto Simões Ramos.\nJoão António Sousa Domingues.\nJoão Aurélio Dias Mendes.\nJoão Luís Malato Correia.\nJoaquim Manuel Cabrita Neto.\nJoaquim Marques Gaspar Mendes.\nJosé Adriano Gago Vitorino.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "38 I SÉRIE-NÚMERO 3", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "José da Assunção Marques.\nJosé Baptista Pires Nunes.\nJosé Henrique Cardoso.\nJosé Manuel Cochofel da Silva.\nJosé Maria da Silva.\nJosé Theodoro da Silva.\nJúlio de Lemos de Castro Caldas.\nLeonardo Eugénio Ramos Ribeiro de Almeida.\nLuís António Martins.\nManuel António Araújo dos Santos.\nManuel António Lopes Ribeiro.\nManuel Henriques Pires Fontoura.\nManuel Maria Moreira.\nManuel Maria Portugal da Fonseca.\nManuel Pereira.\nMaria Helena do Rego da Costa Salema Roseta.\nMaria Manuela Simões Saraiva.\nMarília Dulce Coelho Pires Morgado Raimundo.\nMário Dias Lopes.\nMário Júlio Montalvão Machado.\nMário Martins Adegas.\nMiguel Camolas Pacheco.\nNatália de Oliveira Correia.\nNicolau Gregório de Freitas.\nNuno Aires Rodrigues dos Santos.\nPedro Manuel da Cruz Roseta.\nPelágio Eurico Assunção Matos Lopes de Madureira.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Barradas do Amaral.\nValdemar Cardoso Alves.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Partido Socialista (PS)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Adelino Teixeira de Carvalho.\nAgostinho de Jesus Domingues.\nAlbano Pereira da Cunha Pina.\nAlberto Rodrigues Ferreira Gamboa.\nAmadeu da Silva Cruz.\nAntónio de Almeida Santos.\nAntónio Cândido de Miranda de Macedo.\nAntónio Carlos Ribeiro Campos.\nAntónio Chaves Medeiros.\nAntónio Duarte Arnaut.\nAntónio Fernando Marques Ribeiro Reis.\nAntónio Francisco Barroso de Sousa Gomes.\nAntónio José Sanches Esteves.\nAntónio José Vieira de Freitas.\nAntónio Manuel Chambica de Azevedo Gomes.\nAquilino Ribeiro Machado.\nArmando dos Santos Lopes.\nAvelino Ferreira Loureiro Zenha.\nBento Elísio de Azevedo.\nCarlos A. da Costa Sousa.\nCarlos Cardoso Lage.\nCarlos Manuel Natividade da Costa Candal.\nEdmundo Pedro.\nEduardo Ribeiro Pereira.\nFrancisco Igrejas Caeiro.\nFrancisco Manuel Marcelo Monteiro Curto.\nFrederico Augusto Fonseca Handel de Oliveira.\nGualter Viriato Nunes Basílio.\nGuilherme Gomes dos Santos.\nHerculano Rodrigues Pires.\nJaime José Matos da Gama.\nJoão Alfredo Félix Vieira Lima.\nJoão Cardona Gomes Cravinho.\nJoaquim Sousa Gomes Carneiro.\nJorge Fernando Branco Sampaio.\nJosé Gomes Fernandes.\nJosé Manuel Niza Antunes Mendes.\nJosé Maximiano de Albuquerque Almeida Leitão.\nJúlio Augusto Morais de Montalvão Machado.\nLuís Silvério Gonçalves Saias.\nManuel Alegre de Melo Duarte.\nManuel Alfredo Tito de Morais.\nManuel António dos Santos.\nManuel Branco Ferreira Lima.\nManuel Francisco da Costa.\nManuel Joaquim de Melo Pires Tavares Santos.\nManuel José Bragança Tender.\nMaria de Jesus Simões Barroso Soares.\nMaria Teresa Vieira Bastos Ramos Ambrósio.\nRaul de Assunção Pimenta Rego.\nRodolfo Alexandrino Suzano Crespo.\nRui Fernando Pereira Mateus.\nTeófilo Carvalho dos Santos.\nVítor Manuel Gomes Vasques.\nVítor Manuel Ribeiro Constâncio.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nÁlvaro Favas Brasileiro.\nAntónio Dias Lourenço da Silva.\nAntónio da Silva Mota.\nCarlos Alberto do Carmo da Costa Espadinha.\nCarlos Alberto do Vale Gomes Carvalhas.\nCarlos Alfredo de Brito.\nCarlos Campos Rodrigues da Costa.\nCarlos Hahnemann Saavedra de Aboim Inglez.\nDinis Fernandes Miranda.\nErcília Carreira Pimenta Talhadas.\nFernando de Almeida Sousa Marques.\nFernando Freitas Rodrigues.\nFrancisco Miguel Duarte.\nHélder Simão Pinheiro.\nJerónimo Carvalho de Sousa.\nJoão António Gonçalves do Amaral.\nJoaquim António Miranda Joaquim Vítor Baptista Gomes de Sá.\nJorge do Carmo da Silva Leite.\nJorge Manuel Abreu de Lemos.\nJosé António Veríssimo Silva.\nJosé Ernesto Ildefonso Leão de Oliveira.\nJosé Manuel Aranha Figueiredo.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "osé Manuel da Costa Carreira Marques.\nJosé Manuel Maia Nunes de Almeida.\nJosé Rodrigues Vitoriano.\nJosefina Maria Andrade.\nLino Carvalho de Lima.\nMaria Alda Barbosa Nogueira.\nMaria Ilda da Costa Figueiredo.\nMário Baptista de Vasconcelos Barbosa Vicente.\nRosa Maria Reis Alves Brandão Represas.\nVítor Henrique Louro de Sá.\nVital Martins Moreira.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Carlos Alberto Faria de Almeida.\nFrancisco Gonçalves Cavaleiro de Ferreira.\nHenrique Manuel Soares Cruz.\nJoão Gomes de Abreu de Lima.\nManuel António de Almeida de Azevedo e Vasconcelos.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "11 DE JANEIRO DE 1980 39", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Partido Popular Monárquico (PPM)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "António José Borges Gonçalves de Carvalho.\nAugusto Martins Ferreira do Amaral.\nGonçalo Pereira Ribeiro Teles.\nHenrique José Barrilaro Fernandes Ruas.\nLuís Filipe Ottolini Bebiano Coimbra.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Movimento Democrático Português (MDP)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "José Manuel Marques do Carmo Mendes Tengarrinha.\nLuís Manuel Alves de Campos Catarino.\nRaul Fernandes de Morais e Castro.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Responderam à chamada 163 membros desta Câmara.\nTemos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Responderam à chamada 163 membros desta Câmara.\nTemos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 15 horas e 35 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "ANTES DA ORDEM DO DIA", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, por consenso estabelecido na reunião dos representantes dos grupos parlamentares, o período de antes da ordem do dia da presente sessão ficará restringido à leitura do expediente e à enumeração de quaisquer outros requerimentos que se encontram na Mesa e pedidos de ratificação a vários diplomas.\nVai portanto proceder-se à leitura do expediente.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, por consenso estabelecido na reunião dos representantes dos grupos parlamentares, o período de antes da ordem do dia da presente sessão ficará restringido à leitura do expediente e à enumeração de quaisquer outros requerimentos que se encontram na Mesa e pedidos de ratificação a vários diplomas.\nVai portanto proceder-se à leitura do expediente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Secretário* (Pires Fontoura): Foram apresentados na Mesa vários pedidos de ratificação pelos grupos parlamentares que integram a Aliança Democrática, pelos Grupos Parlamentares do PS, do CDS e do PCP e pela UDP, os quais, dada a sua extensão, me abstenho de ler, se não houver oposição da Assembleia.", 
-   "type": null
+   "party": "Pires Fontoura", 
+   "speaker": "Secretário", 
+   "text": "Foram apresentados na Mesa vários pedidos de ratificação pelos grupos parlamentares que integram a Aliança Democrática, pelos Grupos Parlamentares do PS, do CDS e do PCP e pela UDP, os quais, dada a sua extensão, me abstenho de ler, se não houver oposição da Assembleia.", 
+   "type": "secretario"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "Secretário", 
    "text": "A relação destes pedidos vai ser distribuída pelos grupos parlamentares e publicada no Diário da Assembleia da República.\nFoi também apresentado na Mesa o Orçamento Ordinário da Assembleia da República, que igualmente vai ser distribuído aos grupos parlamentares e será publicado no Diário.\nPelo Grupo Parlamentar do PCP foi apresentada uma proposta de constituição de uma comissão eventual da Assembleia da República de solidariedade e apoio às vítimas do terramoto dos Açores. Vai ser distribuída aos grupos parlamentares e publicada no Diário.\nForam ainda apresentados na Mesa pelo- Grupo Parlamentar do PCP vários projectos de lei, que nos abstemos de ler, se a Assembleia não vir inconveniente, mas cuja relação será distribuída aos diversos grupos parlamentares e será publicada no Diário.", 
-   "type": null
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Pergunto à Câmara se não vê inconveniente em que seja dispensada a leitura, que seria necessariamente extensa, dos diferentes textos entrados, como pedidos de ratificação e projectos de lei, apresentados pelos Srs. Deputados.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Pergunto à Câmara se não vê inconveniente em que seja dispensada a leitura, que seria necessariamente extensa, dos diferentes textos entrados, como pedidos de ratificação e projectos de lei, apresentados pelos Srs. Deputados.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Vital Moreira* (PCP): Sr. Presidente, peço a palavra para pedir apenas um esclarecimento à Mesa.", 
-   "type": null
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
+   "text": "Sr. Presidente, peço a palavra para pedir apenas um esclarecimento à Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Vital Moreira* (PCP): Sr. Presidente, foi anunciada a apresentação de várias propostas de ratificação de decretos-leis.\nPareceu-me ouvir que uma das entidades proponentes dessas propostas de ratificação seria a AD. Como parlamentarmente essa figura não existe, gostaria de ser esclarecido pela Mesa acerca dessa matéria.", 
-   "type": null
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
+   "text": "Sr. Presidente, foi anunciada a apresentação de várias propostas de ratificação de decretos-leis.\nPareceu-me ouvir que uma das entidades proponentes dessas propostas de ratificação seria a AD. Como parlamentarmente essa figura não existe, gostaria de ser esclarecido pela Mesa acerca dessa matéria.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Secretário* (Pires Fontoura): Sr. Deputado,", 
-   "type": null
+   "party": "Pires Fontoura", 
+   "speaker": "Secretário", 
+   "text": "Sr. Deputado, eu disse apenas que os pedidos de ratificação entrados na Mesa foram entregues pelos grupos parlamentares que integram a Aliança Democrática pelos Grupos Parlamentares do PS, do CDS e do PCP e pela UDP.", 
+   "type": "secretario"
   }, 
   {
-   "text": "eu disse apenas que os pedidos de ratificação entrados na Mesa foram entregues pelos grupos parlamentares que integram a Aliança Democrática pelos Grupos Parlamentares do PS, do CDS e do PCP e pela UDP.", 
-   "type": null
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Concretamente, portanto, Sr. Deputado Vital Moreira, alguns dos pedidos de ratificação foram apresentados conjuntamente pelos Grupos Parlamentares do PSD, do CDS e do PPM. Se, prestado este esclarecimento, mais nenhum Sr. Deputado tem qualquer observação a fazer, parece-me que posso entender o silêncio da Câmara como aquiescência à dispensa da leitura desses textos, que serão oportunamente distribuídos por todos os Srs. Deputados.\nSrs. Deputados, de acordo com o consenso e a tradição desta Câmara, ao entrar-se no período da ordem do dia, porque um dos grupos \nparlamentares que a integram se encontra neste momento, segundo informações que chegam à Mesa, a concluir uma reunião, vamos aguardar pela presença desse grupo parlamentar.\nNestas circunstâncias, interrompo a sessão por dez minutos, na expectativa de que, dentro desse período de tempo, os Deputados do Grupo Parlamentar do CDS já aqui se encontrem.\nEstá, portanto, suspensa a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Concretamente, portanto, Sr. Deputado Vital Moreira, alguns dos pedidos de ratificação foram apresentados conjuntamente pelos Grupos Parlamentares do PSD, do CDS e do PPM. Se, prestado este esclarecimento, mais nenhum Sr. Deputado tem qualquer observação a fazer, parece-me que posso entender o silêncio da Câmara como aquiescência à dispensa da leitura desses textos, que serão oportunamente distribuídos por todos os Srs. Deputados.\nSrs. Deputados, de acordo com o consenso e a tradição desta Câmara, ao entrar-se no período da ordem do dia, porque um dos grupos \nparlamentares que a integram se encontra neste momento, segundo informações que chegam à Mesa, a concluir uma reunião, vamos aguardar pela presença desse grupo parlamentar.\nNestas circunstâncias, interrompo a sessão por dez minutos, na expectativa de que, dentro desse período de tempo, os Deputados do Grupo Parlamentar do CDS já aqui se encontrem.\nEstá, portanto, suspensa a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 15 horas e 40 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está reaberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 15 horas e 50 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "ORDEM DO DIA", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos agora entrar no período da ordem do dia. Tem a palavra o Sr. Deputado Castro Caldas.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Vamos agora entrar no período da ordem do dia. Tem a palavra o Sr. Deputado Castro Caldas.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Castro Caldas* (PSD): Sr. Presidente, em nome dos Deputados que apresentaram a proposta de resolução anteriormente entregue à Mesa, pedia a V. Ex.ª que a considerasse como retirada. Dentro de momentos este pedido seguirá por escrito para a Mesa.", 
-   "type": null
+   "party": "PSD", 
+   "speaker": "Castro Caldas", 
+   "text": "Sr. Presidente, em nome dos Deputados que apresentaram a proposta de resolução anteriormente entregue à Mesa, pedia a V. Ex.ª que a considerasse como retirada. Dentro de momentos este pedido seguirá por escrito para a Mesa.\n40 I SÉRIE-NÚMERO 3", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "40 I SÉRIE-NÚMERO 3", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Considero retirada a proposta de resolução.\nSrs. Deputados, na reunião de ontem dos representantes dos grupos parlamentares estabeleceu-se como ordem do dia da sessão de hoje o seguinte: apreciação e votação de uma proposta de alteração do artigo 44.º do Regimento da Assembleia, a que se seguirá o intervalo durante o qual ficam desde já convidados os representantes dos grupos \nparlamentares com assento na Assembleia a reunirem-se comigo no meu gabinete para, na eventualidade de esta proposta de alteração vir a obter a aprovação do Plenário, se estabelecerem então a estrutura e composição efectiva da Comissão de Regimento e Mandatos, cuja constituição é urgente, até porque já há na Mesa vários pedidos de substituição de Srs. Deputados que tem os seus mandatos suspensos. A seguir, portanto, à discussão e votação da proposta de alteração será interrompida a sessão para essa reunião se processar, e o Plenário voltará depois a reunir para p último ponto da ordem de trabalhos, que é o seguinte: resolução da Assembleia sobre a constituição da Comissão Parlamentar de Regimento e Mandatos.\nVai agora ser lida a proposta de alteração ao artigo 44.º do Regimento desta Assembleia, subscrita por todos os partidos com assento na mesma.\nAliás, suponho que já terá sido distribuído aos Srs. Deputados o respectivo texto.\nFoi lida. É a seguinte:\nProposta de alteração ao artigo 44.º do Regimento", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Considero retirada a proposta de resolução.\nSrs. Deputados, na reunião de ontem dos representantes dos grupos parlamentares estabeleceu-se como ordem do dia da sessão de hoje o seguinte: apreciação e votação de uma proposta de alteração do artigo 44.º do Regimento da Assembleia, a que se seguirá o intervalo durante o qual ficam desde já convidados os representantes dos grupos \nparlamentares com assento na Assembleia a reunirem-se comigo no meu gabinete para, na eventualidade de esta proposta de alteração vir a obter a aprovação do Plenário, se estabelecerem então a estrutura e composição efectiva da Comissão de Regimento e Mandatos, cuja constituição é urgente, até porque já há na Mesa vários pedidos de substituição de Srs. Deputados que tem os seus mandatos suspensos. A seguir, portanto, à discussão e votação da proposta de alteração será interrompida a sessão para essa reunião se processar, e o Plenário voltará depois a reunir para p último ponto da ordem de trabalhos, que é o seguinte: resolução da Assembleia sobre a constituição da Comissão Parlamentar de Regimento e Mandatos.\nVai agora ser lida a proposta de alteração ao artigo 44.º do Regimento desta Assembleia, subscrita por todos os partidos com assento na mesma.\nAliás, suponho que já terá sido distribuído aos Srs. Deputados o respectivo texto.\nFoi lida. É a seguinte:", 
-   "type": null
-  }, 
-  {
-   "text": "Proposta de alteração ao artigo 44.º do Regimento", 
-   "type": null
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "A Comissão de Regimento e Mandatos será constituída por Deputados dos grupos parlamentares e partidos políticos, devendo a sua composição corresponder às relações de voto respectivas no Plenário da Assembleia.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está aberta a discussão sobre esta proposta.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está aberta a discussão sobre esta proposta.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Se nenhum dos Srs. Deputados pretende usar da palavra, declaro encerrado o período da discussão e vamos passar imediatamente à votação.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetida à votação, à proposta foi aprovada por unanimidade.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, declaro, portanto, interrompida a sessão por um tempo que previsivelmente - suponho - deverá ser de uma hora. Se eventualmente houver necessidade de o prolongar, os Srs.Deputados serão imediatamente prevenidos e retomaremos os nossos trabalhos logo que a reunião dos representantes dos grupos \nparlamentares), que se fará imediatamente, chegue a um consenso sobre a composição efectiva da Comissão de Regimento e Mandatos.\nEstá, portanto, suspensa a sessão pelo período de uma hora.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, declaro, portanto, interrompida a sessão por um tempo que previsivelmente - suponho - deverá ser de uma hora. Se eventualmente houver necessidade de o prolongar, os Srs.Deputados serão imediatamente prevenidos e retomaremos os nossos trabalhos logo que a reunião dos representantes dos grupos \nparlamentares), que se fará imediatamente, chegue a um consenso sobre a composição efectiva da Comissão de Regimento e Mandatos.\nEstá, portanto, suspensa a sessão pelo período de uma hora.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 16 horas.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está reaberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 18 horas e 45 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, da reunião dos representantes dos grupos parlamentares resultou a formação, por unanimidade, de consenso, que conduziu a atribuir à Comissão de Regimento e Mandatos a composição concreta que a seguir vou indicar e com a fundamentação que a seguir também explicitarei.\nA Comissão terá a seguinte composição: para um total de vinte- e um algares, o Partido Social-Democrata terá sete lugares, o Partido Socialista cinco, o Centro Democrático Social e o Partido Comunista Português três cada um, o Partido Popular Monárquico, o Movimento Democrático Português e a União Democrática Popular um cada um.\nO consenso formou-se em obediência ao princípio de que nas comissões deve haver uma correspondência às relações de voto existentes no Plenário nos precisos termos da disposição regimental que acabámos de aprovar na primeira parte da reunião de hoje. Estabeleceu-se também que a sobrerepresentação relativa do Partido Social-Democrata nesta Comissão resulta de duas circunstâncias: por um lado, ser necessário dar operatividade prática ao princípio, que já enunciei, da correlação de voto e, por outro, ter também em conta que os Deputados do Movimento Reformador, integrados no Partido Social-Democrata, se eventualmente vierem a constituir-se em grupo parlamentar, receberão um lugar na Comissão. Foi ainda estabelecido que a composição concreta atribuída a esta Comissão mão constitui qualquer precedente em relação à composição das restantes comissões especializadas.\nEste foi, portanto, o critério unanimemente estabelecido na reunião que acabo de referir. Algum dos Srs. Deputados deseja pronunciar-se sobre este ponto?", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, da reunião dos representantes dos grupos parlamentares resultou a formação, por unanimidade, de consenso, que conduziu a atribuir à Comissão de Regimento e Mandatos a composição concreta que a seguir vou indicar e com a fundamentação que a seguir também explicitarei.\nA Comissão terá a seguinte composição: para um total de vinte- e um algares, o Partido Social-Democrata terá sete lugares, o Partido Socialista cinco, o Centro Democrático Social e o Partido Comunista Português três cada um, o Partido Popular Monárquico, o Movimento Democrático Português e a União Democrática Popular um cada um.\nO consenso formou-se em obediência ao princípio de que nas comissões deve haver uma correspondência às relações de voto existentes no Plenário nos precisos termos da disposição regimental que acabámos de aprovar na primeira parte da reunião de hoje. Estabeleceu-se também que a sobrerepresentação relativa do Partido Social-Democrata nesta Comissão resulta de duas circunstâncias: por um lado, ser necessário dar operatividade prática ao princípio, que já enunciei, da correlação de voto e, por outro, ter também em conta que os Deputados do Movimento Reformador, integrados no Partido Social-Democrata, se eventualmente vierem a constituir-se em grupo parlamentar, receberão um lugar na Comissão. Foi ainda estabelecido que a composição concreta atribuída a esta Comissão mão constitui qualquer precedente em relação à composição das restantes comissões especializadas.\nEste foi, portanto, o critério unanimemente estabelecido na reunião que acabo de referir. Algum dos Srs. Deputados deseja pronunciar-se sobre este ponto?", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Uma vez que ninguém deseja usar da palavra, vou pôr à votação da Assembleia uma resolução sobre a aprovação desta constituição da Comissão de Regimento e Mandatos.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetida à votação, foi aprovada por unanimidade.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *António Esteves* (PS): Sr. Presidente, peço a palavra.", 
-   "type": null
+   "party": "PS", 
+   "speaker": "António Esteves", 
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Faça favor.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *António Esteves* (PS): Sr. Presidente, Srs. Deputados: Pedi a palavra para fazer uma clarificação acerca da posição do Partido Socialista quanto à constituição a que se chegou da Comissão de Regimento e Mandatos.\nComo os Srs. Deputados verificaram, embora pareça à primeira vista uma questão simples de resolver, a suspensão do Plenário arrastou-se ao longo de mais de duas horas. Isto porque, sem se ter chegado propriamente a um impasse, houve considerável dificuldade em chegar ao consenso que se obteve. Em face dessa dificuldade, o Partido Socialista fez a proposta que veio a originar a constituição da Comissão nestes termos. É que, à primeira vista, qualquer pessoa que repare nesta composição vê que ela não representa de uma maneira clara a relação de votos do Partido Socialista no Plenário.", 
-   "type": null
+   "party": "PS", 
+   "speaker": "António Esteves", 
+   "text": "Sr. Presidente, Srs. Deputados: Pedi a palavra para fazer uma clarificação acerca da posição do Partido Socialista quanto à constituição a que se chegou da Comissão de Regimento e Mandatos.\nComo os Srs. Deputados verificaram, embora pareça à primeira vista uma questão simples de resolver, a suspensão do Plenário arrastou-se ao longo de mais de duas horas. Isto porque, sem se ter chegado propriamente a um impasse, houve considerável dificuldade em chegar ao consenso que se obteve. Em face dessa dificuldade, o Partido Socialista fez a proposta que veio a originar a constituição da Comissão nestes termos. É que, à primeira vista, qualquer pessoa que repare nesta composição vê que ela não representa de uma maneira clara a relação de votos do Partido Socialista no Plenário.\n11 DE JANEIRO DE 1980 41", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "11 DE JANEIRO DE 1980 41", 
-   "type": null
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "António Esteves", 
    "text": "De facto houve que assegurar o princípio de que os partidos da maioria deveriam ter mais um voto na Comissão do que os partidos da oposição, mas esse princípio não seria assegurado, respeitando todas as posições relativas dos partidos na Comissão. Por isso o Partido Socialista propôs a solução de sete lugares para o PSD e cinco para o PS, mas com o objectivo de que, na eventual constituição autónoma de um agrupamento parlamentar dos Deputados reformadores, um desses lugares ficaria a pertencer a esse grupo de Deputados independentes do PSD. Nessa altura a correlação dos vários partidos na Comissão aproximar-se-á mais do efectivo princípio da proporcionalidade da representação, ficando o PSD a deter seis lugares e o PS cinco.\nDe qualquer modo, o consenso a que se chegou nesta Comissão, para nós -e julgo que foi este o convencimento de todos os partidos - não constitui de modo nenhum precedente para a constituição das futuras comissões. Nessas Comissões haverá que respeitar na sua constituição - nessa altura talvez mais fácil - a totalidade dos mandatos, sendo possível então assegurar uma relação de proporcionalidade mais correcta entre todos os partidos.", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, acabamos de concluir a ordem do dia estabelecida para hoje, mas desejava atada, antes de proceder ao encerramento da sessão, pedir às direcções dos grupos parlamentares o favor de darem, se possível imediatamente, a indicação dos Srs.Deputados que vão integrar a Comissão de Regimento e Mandatos. Há vários pedidos de suspensão de mandatos, designadamente daqueles Srs.Deputados que assumiram funções no Executivo, e torna-se urgente a verificação de poderes dos Srs. Deputados que irão substituí-los e a consequente emissão de parecer. Por essa razão solicito o favor de, sendo possível, me darem essa indicação no meu gabinete imediatamente a seguir ao encerramento da sessão, porque também se estabeleceu na reunião dos representantes dos grupos parlamentares consenso unânime quanto à vantagem de a Comissão de Regimento e Mandatos entrar imediatamente em funções e até, se possível, reunir ainda hoje para emitir o parecer sobre os pedidos de suspensão de mandatos.\nA Mesa sente ainda a necessidade de dizer que foi apresentado pela UDP um pedido de ratificação, que recebeu o n.º 163/1, ao Decreto-Lei m.º 387/79, de 19 de Setembro, que aprova o regime jurídico do arrendamento urbano, pedido que a Mesa indeferiu em obediência ao disposto no artigo 172.º, n.º 1, da Constituição, cujo teor é o seguinte: \nNo caso de decretos-leis publicados pelo Governo durante o \nfuncionamento da Assembleia da República considerar-se-á concedida a ratificação se, nas primeiras quinze reuniões posteriores à publicação do diploma, cinco Deputados, pelo menos, não requererem a sua sujeição a ratificação.\nComo a União Democrática Popular tem nesta Assembleia apenas um Deputado e só ele subscrevia esse pedido, a Mesa não pôde aceitar a sua consideração, por inconstitucional, nos precisos termos do artigo 172.º, n.º 1, da Constituição.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, acabamos de concluir a ordem do dia estabelecida para hoje, mas desejava atada, antes de proceder ao encerramento da sessão, pedir às direcções dos grupos parlamentares o favor de darem, se possível imediatamente, a indicação dos Srs.Deputados que vão integrar a Comissão de Regimento e Mandatos. Há vários pedidos de suspensão de mandatos, designadamente daqueles Srs.Deputados que assumiram funções no Executivo, e torna-se urgente a verificação de poderes dos Srs. Deputados que irão substituí-los e a consequente emissão de parecer. Por essa razão solicito o favor de, sendo possível, me darem essa indicação no meu gabinete imediatamente a seguir ao encerramento da sessão, porque também se estabeleceu na reunião dos representantes dos grupos parlamentares consenso unânime quanto à vantagem de a Comissão de Regimento e Mandatos entrar imediatamente em funções e até, se possível, reunir ainda hoje para emitir o parecer sobre os pedidos de suspensão de mandatos.\nA Mesa sente ainda a necessidade de dizer que foi apresentado pela UDP um pedido de ratificação, que recebeu o n.º 163/1, ao Decreto-Lei m.º 387/79, de 19 de Setembro, que aprova o regime jurídico do arrendamento urbano, pedido que a Mesa indeferiu em obediência ao disposto no artigo 172.º, n.º 1, da Constituição, cujo teor é o seguinte: \nNo caso de decretos-leis publicados pelo Governo durante o \nfuncionamento da Assembleia da República considerar-se-á concedida a ratificação se, nas primeiras quinze reuniões posteriores à publicação do diploma, cinco Deputados, pelo menos, não requererem a sua sujeição a ratificação.\nComo a União Democrática Popular tem nesta Assembleia apenas um Deputado e só ele subscrevia esse pedido, a Mesa não pôde aceitar a sua consideração, por inconstitucional, nos precisos termos do artigo 172.º, n.º 1, da Constituição.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Mário Tomé* (UDP): Dá-me licença, Sr. Presidente?", 
-   "type": null
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
+   "text": "Dá-me licença, Sr. Presidente?", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Com certeza, Sr. Deputado.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Com certeza, Sr. Deputado.\nO Sr. *Mário Tomé* (UDP): -Sr. Presidente, Srs. Deputados: Quero apenas dizer o seguinte: segundo a leitura que faço do artigo 172.º da Constituição, não há qualquer exigência no sentido dê ser um grupo de Deputados formalmente organizado a requerer a sujeição a ratificação.\nPor aquilo que depreendo do artigo referido, desde que vinte Deputados, e não cinco, requeiram a sujeição de um decreto-Lei a ratificação, o requerimento deverá ser aceite. Claro que um Deputado não são vinte, mas quando nós apresentámos na Mesa esse pedido de sujeição a ratificação foi no pressuposto de que possivelmente haveria outros Deputados a fazê-lo. Portanto seria uma posição de reforço, não eivada de inconstitucionalidade.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Mário Tomé* (UDP): -Sr. Presidente, Srs. Deputados: Quero apenas dizer o seguinte: segundo a leitura que faço do artigo 172.º da Constituição, não há qualquer exigência no sentido dê ser um grupo de Deputados formalmente organizado a requerer a sujeição a ratificação.\nPor aquilo que depreendo do artigo referido, desde que vinte Deputados, e não cinco, requeiram a sujeição de um decreto-Lei a ratificação, o requerimento deverá ser aceite. Claro que um Deputado não são vinte, mas quando nós apresentámos na Mesa esse pedido de sujeição a ratificação foi no pressuposto de que possivelmente haveria outros Deputados a fazê-lo. Portanto seria uma posição de reforço, não eivada de inconstitucionalidade.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, o entendimento da Mesa é este: não é necessário que os cinco ou vinte Deputados que subscrevem o pedido de sujeição de um decreto-lei a ratificação pertençam ao mesmo grupo parlamentar. O que têm é de sor, consoante os casos do n.º 1 ou do n.º 2 do artigo 172.º da Constituição, ou cinco ou vinte Deputados. Mas, se efectivamente aparecer um outro pedido de sujeição a ratificação subscrito pelo número mínimo constitucionalmente prescrito, então V.\nEx.ª beneficiará da circunstância, porque podará nesse caso intervir.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, o entendimento da Mesa é este: não é necessário que os cinco ou vinte Deputados que subscrevem o pedido de sujeição de um decreto-lei a ratificação pertençam ao mesmo grupo parlamentar. O que têm é de sor, consoante os casos do n.º 1 ou do n.º 2 do artigo 172.º da Constituição, ou cinco ou vinte Deputados. Mas, se efectivamente aparecer um outro pedido de sujeição a ratificação subscrito pelo número mínimo constitucionalmente prescrito, então V.\nEx.ª beneficiará da circunstância, porque podará nesse caso intervir.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "Congratulo-me, Sr. Presidente, com o facto, porque foi isso que aconteceu no caso presente e é o que interessa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Congratulo-me, Sr. Presidente, com o facto, porque foi isso que aconteceu no caso presente e é o que interessa.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, os nossos trabalhos de amanhã iniciar-se-ão às 14 horas e 30 minutos prefixas para apresentação do Programa do Governo.\nPosso avançar, para esclarecimento dos Srs. Deputados, que na reunião que se realizou anteontem para esquematização dos trabalhos de apresentação e discussão do Programa do Governo se chegou ao seguinte consenso sobre o calendário do debate: amanhã, às 14 horas e 30 minutos, será a apresentação do Programa do Governo; na terça e quarta-feira próximas, dias 15 e 16, será o debate sobre o mesmo Programa, iniciando o Plenário os seus trabalhos às 10 horas e encerrando-os às 21 horas e 30 minutos, havendo os necessários intervalos regimentais; quinta--feira será o encerramento do debate, iniciando-se os trabalhos às 14 horas e 30 minutos, e prolongando-se pelo tempo que for necessário, não se prevendo ser indispensável estabelecer uma hora limite, pois tem-se esperançadamente a convicção de que os trabalhos acabarão com certeza acentuadamente antes das 21 horas e 30 minutos.\nCumpre informar também os Srs. Deputados que acaba de dar entrada na Mesa um requerimento, subscrito pelo Grupo Parlamentar do Partido Socialista, no qual se pede. nova apreciação do Decreto n.º 252/I -Delimitação e coordenação das Administrações Central, Regional e Local, relativamente aos respectivos investimentos, que pela Resolução 42 I SÉRIE-NÚMERO 3", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, os nossos trabalhos de amanhã iniciar-se-ão às 14 horas e 30 minutos prefixas para apresentação do Programa do Governo.\nPosso avançar, para esclarecimento dos Srs. Deputados, que na reunião que se realizou anteontem para esquematização dos trabalhos de apresentação e discussão do Programa do Governo se chegou ao seguinte consenso sobre o calendário do debate: amanhã, às 14 horas e 30 minutos, será a apresentação do Programa do Governo; na terça e quarta-feira próximas, dias 15 e 16, será o debate sobre o mesmo Programa, iniciando o Plenário os seus trabalhos às 10 horas e encerrando-os às 21 horas e 30 minutos, havendo os necessários intervalos regimentais; quinta--feira será o encerramento do debate, iniciando-se os trabalhos às 14 horas e 30 minutos, e prolongando-se pelo tempo que for necessário, não se prevendo ser indispensável estabelecer uma hora limite, pois tem-se esperançadamente a convicção de que os trabalhos acabarão com certeza acentuadamente antes das 21 horas e 30 minutos.\nCumpre informar também os Srs. Deputados que acaba de dar entrada na Mesa um requerimento, subscrito pelo Grupo Parlamentar do Partido Socialista, no qual se pede. nova apreciação do Decreto n.º 252/I -Delimitação e coordenação das Administrações Central, Regional e Local, relativamente aos respectivos investimentos, que pela Resolução", 
-   "type": null
-  }, 
-  {
-   "text": "42 I SÉRIE-NÚMERO 3", 
-   "type": null
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "n.º 283/79, de 21 de Setembro, houvera sido declarado inconstitucional e por isso vetado por S. Ex.º o Presidente da República.\nRenovo agora o pedido às direcções dos grupos parlamentares da indicação imediata dos elementos que vão constituir a Comissão de Regimento e Mandatos e a esses elementos o favor de se reunirem imediatamente para procederem à apreciação dos pedidos de suspensão de mandatos.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Está encerrada a sessão.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 19 horas.", 
@@ -323,223 +360,267 @@
   {
    "speaker": "Relação dos pedidos de ratificação apresentados pela Mesa", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Pelo CDS", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N.º 92/I - Decreto-Lei n.º 217/79, de 16 de Julho, que integra nos quadros transitórios dos Institutos Superiores de Engenharia os actuais assistentes além do quadro dos mesmos Institutos.\nPelos Grupos Parlamentares que integram a Aliança Democrática (PSD, CDS e PPM):", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N.º 93/I - Decreto-Lei n.º 464/79, de 3 de Dezembro, que define as condições de legislação das vinhas plantadas até 30 de Abril de 1979 sem a competente autorização.\nN.º 94/I -Decreto-Lei n.º 465/79, de 5 de Dezembro, que estabelece ais condições de arrendamento de residências e abonos aos militares em comissão de serviço prolongado no estrangeiro- Revoga os Decretos-Leis n.ºs 91/72, de 18 de Março, e 337/76, de 11 de Maio.\nN.º 95/I -Decreto-Lei n.º 465-A/79, de 6 de Dezembro, que extingue a Empresa Pública dos Jornais Século e Popular e cria duas novas empresas públicas denominadas Empresa Pública do Jornal O Século e Empresa Pública do Jornal Diário Popular.\nN.º 96/I - Decreto-Lei n.º 466/79, de 7 de Dezembro, que aplica à administração autárquica o regime dos Decretos-Leis ,n.ºs 191-C/79 e 191-F/79, respectivamente de 25 e 26 de Junho.\nN.º 97/I -Decreto-Lei n.º 467/79, de 7 de Dezembro, que estabelece garantias quanto ao reassumir das funções profissionais por quem seja chamado ao exercício de funções governativas.\nN.º 98/I -Decreto-Lei n.º 468/79, de 12 de Dezembro, que reestrutura o Serviço de Coordenação da Extinção da PIDE/DGS e LP - Revoga os Decretos-Leis n.º 36/75, de 31 de Janeiro, 13/76, de 14 de Janeiro, e 348-A/76, de 12 de Maio, e o Decreto n.º 126/79, de 19 de Novembro.\nN.º 99/I - Decreto-Lei n.º 469/79, de 13 de Dezembro, que dá nova redacção a vários artigos do Decreto-Lei n.º 47331, de 23 de Novembro de 1966, e revoga os artigos 2.º e 3.º do Decreto-Lei n.º 308/74, de 6 de Julho, e os artigos 2.º e 4.º do Decreto-Lei n.º 649/75, de 18 de Novembro - Lei Orgânica do MNE.\nN.º 100/I - Decreto-Lei n.º 470/79, de 14 de Dezembro, que dá nova redacção ao artigo 5.º do Decreto-Lei n.º 39-B/78, de 2 de Março - Dia de Portugal, de Camões e das Comunidades.\nN.º 101/I - Decreto-Lei n.º 471/79, de 14 de Dezembro, que prorroga o prazo de publicação das portarias referidas no n.º 3 do artigo 1.º do Decreto-Lei n.º 3/79, de 11 de Janeiro.\nN.º 102/I - Decreto-Lei n.º 472/79, de 14 de Dezembro, que dá nova redacção ao artigo 23.º do Decreto-Lei n.º 347/79, de 29 de Agosto - Departamento de Planeamento de Segurança Social.\nN.º 103/I -Decreto-Lei n.º 473/79, de 14 de Dezembro, que determina que as remunerações devidas aos juízes estagiários passem a ser suportadas pelo Cofre Geral dos Tribunais.\nN.º 104/I -Decreto-Lei n.º 474/79, de 14 de Dezembro, que altera a redacção do artigo 293.º do Decreto-Lei n.º 302/76, de 26 de Abril - Reforma Aduaneira.\nN.º 105/I -Decreto-Lei n.º 475/79, de 14 de Dezembro, que permite caucionamento das reservas técnicas das seguradoras, quando em numerário, por depósito em qualquer instituição de crédito do sector público.\nN.º 106/I -Decreto-Lei n.º 476/79, de 14 de Dezembro, que prorroga o prazo do processo de 1.º provimento do LNETI - Laboratório Nacional de Engenharia e Tecnologia Industrial.\nN.º 107/I -Decreto-Lei n.º 477/79, de 14 de Dezembro, que dá nova redacção ao n.º 1 do artigo 11.º do Decreto-Lei n.º 332/77, de 10 de Agosto - Estatuto do pessoal da Dragapor.\nN.º 108/I- Decreto-Lei n.º 478/79, de 14 de Dezembro, que mantém em vigor por mais três anos o disposto no artigo 11.º do Decreto-Lei n.º 48 541, de 23 de Agosto de 1968 -Revisão do regime do ciclo \npreparatório.\nN.º 109/I - Decreto-Lei n.º 479/79, de 14 de Dezembro, que providencia quanto à situação do pessoal não docente que trabalha em \nestabelecimentos particulares em cujas instalações funcionavam estabelecimentos oficiais do ensino superior.\nN.º 110/I - Decreto-Lei n.º 480/79, de 14 de Dezembro, que dá nova redacção ao n.º 4 do artigo 1.º do Decreto-Lei n.º 369/79, de 5 de Setembro, que estabelece normas relativas ao preenchimento dos lugares docentes nas escolas do magistério primário.\nN.º 111/I - Decreto-Lei n.º 481/79, de 14 de Dezembro, que limita a aplicação das disposições do Decreto-Lei n.º 214/79, de 14 de Julho, relativo ao concurso de professores efectivos do ensino primário ao abrigo da preferência conjugal aos anos escolares de 1980-1981 e seguintes.\nN.º 112/I -Decreto-Lei n.º 482/79, de 14 de Dezembro, que cria a Universidade de Évora em lugar do Instituto Universitário de Évora.\nN.º 113/I -Decreto-Lei n.º 483/79, de 14 de Dezembro, que prorroga até 31 de Dezembro de 1979 o prazo fixado no artigo 33.º do Decreto-Lei n.º 401/79, de 21 de Setembro - Registo de televisores.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "II DE JANEIRO DE 1980 43", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N.º 114/I -Decreto-Lei n.º 484/79, de 15 de Dezembro, que determina que os comissários principais e os primeiros-comissários da PSP nomeados em regime de destacamento comandantes distritais ou de divisão, quando regressarem ao quadro da classe, a que pertenciam, fiquem na situação de além do quadro, caso não haja vaga.\nN.º 115/I -Decreto-Lei n.º 485/79, de 15 de Dezembro, que extingue a Secretaria do Governo do antigo distrito do Funchal e transfere o respectivo pessoal para os serviços da Região Autónoma da Madeira.\nN.º 116/I -Decreto-Lei n.º 486/79, de 18 de Dezembro, que estabelece a orgânica da Direcção-Geral de Cooperação.\nN.º 117/I -Decreto-Lei n.º 487/79, de 18 de Dezembro, que define a natureza, atribuições e competência do Instituto para a Cooperação Económica.\nN.º 118/I - Decreto-Lei n.º 488/79, de 18 de Dezembro, que define as condições em que o Estado pode assumir encargos com variações cambiais inerentes a operações de crédito externo.\nN.º 119/I -Decreto-Lei n.º 489/79, de 19 de Dezembro, que dá nova redacção ao artigo 2.º do Decreto-Lei n.º 716/75, de 20 de Dezembro, e ao artigo 49.º do Decreto-Lei n.º 48912, de 18 de Março de 1969 (funcionamento de zonas de jogo temporário).\nN.º 120/I -Decreto-Lei n.º 490/79, de 19 de Dezembro, que altera a redacção de alguns artigos do Decreto-Lei n.º 121/78, de 2 de Junho - Regime jurídico excepcional e condicionador das condições de trabalho de natureza pecuniária.\nN.º 121/I -Decreto-Lei n.º 490-A/79, de 19 de Dezembro, que autoriza o Ministro das Finanças a emitir um empréstimo externo denominado \"Empréstimo externo de 1750 0000 marcos, 4,5 %, 1979 (Nazaré)\".\nN.º 122/I -Decreto-Lei n.º 490-B/79, de 19 de Dezembro, que autoriza o Ministro das Finanças a emitir um empréstimo externo até ao montante de 70 milhões de marcos alemães (DM) destinado a financiar o \naproveitamento hidroagrícola da Cova da Beira.\nN.º 123/I -Decreto-Lei n.º 490-C/79, de 19 de Dezembro, que autoriza o Ministro das Finanças a emitir um empréstimo externo até ao montante de 17500000 marcos alemães, destinado a financiar o porto de pesca da Figueira da Foz.\nN.º 124/I -Decreto-Lei n.º 430-D/79, de 19 de Dezembro, que prorroga até 31 de Dezembro de 1979 o prazo previsto no n.º 4 do artigo 1.º do Decreto-Lei n.º 190/79, de 23 de Junho (pagamento das contribuições em atraso ao Fundo de Desemprego).\nN. º 125/I -Decreto-Lei n.º 491/79, de 20 de Dezembro, que autoriza o Governo a celebrar com o Banco de Portugal um contrato por intermédio do qual esta entidade fica incumbida de administrar uma parcela, no montante de 33 milhões de dólares, do empréstimo contraído junto do BIRD pelo Estado Português. N.º 126/I -Decreto-Lei n.º 492/79, de 20 de Dezembro, que autoriza o Governo a celebrar um contrato de empréstimo em escudos com a EPPI - Empresa Pública de Parques Industriais, até ao limite máximo de contravalor de 9,5 milhões de dólares.\nN.º 127/I -Decreto-Lei n.º 493/79, de 21 de Dezembro, que cria o Gabinete de Planeamento da Direcção-Geral dos Edifícios e Monumentos", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "Nacionais.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N.º 128/I -Decreto-Lei n.º 494/79, de 21 de Dezembro, que cria as comissões de coordenação regional (CCR).\nN.º 129/I -Decreto-Lei n.º 495/79, de 21 de Dezembro, que interpreta e altera disposições dos Decretos-Leis n.ºs 397/78, de 9 de Dezembro, e 228/79, de 21 de Julho, relativamente a diamantes.\nN.º 130/I -Decreto-Lei n.º 496/79, de 21 de Dezembro, que cria na Secretaria de Estado da Saúde o Serviço de Informática da Saúde.\nN.º 131/I - Decreto-Lei n.º 497/79, de 21 de Dezembro, que reestrutura a Secretária-Geral do Ministério da Justiça.\nN.º 132/I -Decreto-Lei n.º 498/79, de 21 de Dezembro, que autoriza a criação de um instituto emissor no território de Macau.\nN.º 133/I - Decreto-Lei n.º 499/79, de 22 de Dezembro, que reestrutura a Direcção-Geral da Contabilidade Pública (DGCP).\nN.º 134/I -Decreto-Lei n.º 500/79, de 22 de Dezembro, que introduz alterações ao Código de Processo e ao Regulamento das Custas das Contribuições e Impostos e ao Decreto Regulamentar n.º 12/79.\nN.º 135/1 - Decreto-Lei n.º 501/79, de 22 de Dezembro, que estabelece as condições da emissão do empréstimo interno amortizável autorizado pela Lei n.º 37/79, de 7 de Setembro.\nN.º 136/I - Decreto-Lei n.º 502/79, de 22 de Dezembro, que prorroga o prazo fixado pelo artigo 3.º do Decreto-Lei n.º 172/79, de 6 de Junho (Instituto de Gestão e Reestruturação Fundiária e IFADAP).\nN.º 137/I -Decreto-Lei n.º 503/79, de 24 de Dezembro, que adita um artigo ao Decreto-Lei n.º 338/79, de 25 de Agosto, que transferiu para a Região Autónoma dos Açores certos serviços do Ministério da Educação e Investigação Científica.\nN.º 138/I -Decreto-Lei n.º 504/79, de 24 de Dezembro, que define o Regime Jurídico dos Centros de Gestão da Empresa Agrícola.\nN.º 139/I -Decreto-Lei n.º 505/79, de 24 de Dezembro, que dá nova redacção ao n.º 2 do artigo 12.º do Decreto-Lei n.º 433/79, de 31 de Outubro - Pagamento das contribuições para a Previdência.\nN.º 140/I -Decreto-Lei n.º 506/79, de 24 de Dezembro, que cria na dependência do Comando-Geral da Polícia de Segurança Pública o Grupo de Operações Especiais (GOE).", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "44 I SÉRIE-NÚMERO 3", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N. º 141/I -Decreto-Lei n.º 507/79, de 24 de Dezembro, que cria a Central de Compras do Estado.\nN.º 142/I -Decreto-Lei n.º 508/79, de 24 de Dezembro, que aplica o regime excepcional de pagamento das dívidas ao Fundo de Desemprego e à Previdência às empresas que estejam a ser objecto de assistência da paraempresa.\nN.º 143/I -Decreto-Lei n.º 509/79, de 24 de Dezembro, que aprova o orçamento de programas destinado à construção naval ligada às pescas.\nN.º 144/I -Decreto-Lei n.º 510/79, de 24 de Dezembro, que cria a Empresa Mineira e Metalúrgica do Alentejo, E. P. (EMMA).\nN.º 145/I - Decreto-Lei n.º 511/79, de 24 de Dezembro, que estabelece disposições relativas à aquisição de bens de serviços por parte das empresas públicas e nacionalizadas.\nN.º 146/I -Decreto-Lei n.º 512/79, de 24 de Dezembro, que introduz alterações ao regime legal vigente sobre quadros de pessoal.\nN.º 147/I -Decreto-Lei n.º 513/79, de 24 de Dezembro, que regulamenta a carteira profissional de jornalista.\nN.º 148/I - Decreto-Lei n.º 514/79, de 28 de Dezembro, que estabelece as condições para a passagem às situações de reserva e de reforma dos militares do quadro permanente.\nN.º 149/I -Decreto-Lei n.º 515/79, de 28 de Dezembro, que estabelece algumas condições legais que disciplinam o funcionamento dos centros regionais de segurança sócia].\nN.º 150/I -Decreto-Lei n.º 516/79, de 28 de Dezembro, que dá nova redacção aos artigos 36.º e 37.º do Decreto-Lei n.º 243/79, de 25 de Julho - Estabelece normas quanto à elaboração do orçamento e contas das autarquias locais.\nN.º 151/I -Decreto-Lei n.º 517/79, de 28 de Dezembro, que altera o artigo 6.º, n.º 1, do Decreto-Lei n.º 403/79, de 22 de Setembro - Cria a empresa pública Portugal Re - Companhia Portuguesa de Resseguros, E.\nP.\nN.º 152/I -Decreto-Lei n.º 518/79, de 28 de Dezembro, que aprova a Lei Orgânica da Direcção-Geral do Património do Estado.\nN.º 153/I -Decreto-Lei n.º 519/79, de 28 de Dezembro, que autoriza o Gabinete da Área de Sines a cobrar taxas pelo fornecimento de água às empresas e aos particulares instalados na zona.\nN.º 154/I - Decreto-Lei n.º 520/79, de 31 de Dezembro, que dá nova redacção aos artigos 1.º e 4.º do Decreto-Lei n.º 464/74, de 18 de Setembro - Composição da Marinha.\nN.º 155/I -Decreto-Lei n.º 521/79, de 31 de Dezembro, que actualiza os limites relativos às despesas com obras e aquisição de bens e serviços que podem ser autorizados pelo administrador do Arsenal do Alfeite.\nN.º 156/I - Decreto-Lei n.º 522/79, de 31 de Dezembro, que transfere para ã Região Autónoma dos Açores determinadas atribuições e competências da Direcção-Geral da Qualidade.\nN.º 157/I -Decreto-Lei n.º 523/79, de 31 de Dezembro, que estabelece normas relativas à concessão e emissão de passaportes especiais.\nN.º 158/I -Decreto-Lei n.º 524/79, de 31 de Dezembro, que dá nova redacção aos artigos 4.º e 5.º do Decreto-Lei n.º 187/70, de 30 de Abril, e adita-lhe o artigo 5.º-A - Aquisição de títulos e outros valores, pelo decurso de tempo, para o Estado.\nN.º 159/I -Decreto-Lei n.º 525/79, de 31 de Dezembro, que estabelece normas definidoras dos graus atribuídos pelas instituições do ensino superior, bem como do processo para a sua orientação.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Pelo PCP", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo PCP", 
    "text": "N.º 160/I -Decreto-Lei n º 387/79, de 19 de Setembro, que aprova o regime jurídico de contratos de arrendamento urbano.\nN.º 161/I-Decreto-Lei n.º 464/79, de 3 de Dezembro, que define as condições de legalização das vinhas plantadas até 30 de Abril de 1979 sem a competente autorização.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Pelo PS", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo PS", 
    "text": "N.º 162/I - Decreto-Lei n.º 387/79, de 19 de Setembro, que aprova o regime jurídico do contrato de arrendamento urbano.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Pela UDP", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pela UDP", 
    "text": "N.º 163/I -Decreto-Lei n.º 387/79, de 19 de Setembro, que aprova o regime jurídico do arrendamento urbano.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Pelo PS", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo PS", 
    "text": "N.º 164/I -Decreto-Lei n.º 439/79, de 30 de Dezembro, que cria a empresa pública denominada Metropolitano de Lisboa, E. P., \nabreviadamente ML.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo PS", 
    "text": "N.º 165/I -Decreto-Lei n.º 450/78, de 30 de Dezembro, que reestrutura as secretarias judiciais e as carreiras dos funcionários de justiça.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Pelo CDS", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N.º 166/I -Decreto-Lei n.º 448/79, de 13 de Novembro, que aprova o Estatuto da Carreira Docente Universitária.\nRelação dos projecto de lei apresentados pelo PCP", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N.º 332/I - Ilegalidade dos regulamentos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N. º 333/I - Participação na definição e execução da Reforma Agrária.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N.º 334/I - Acção popular.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N.º 335/I - Criação da licenciatura em Contabilidade.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N.º 336/I - Regime de criação e extinção das autarquias locais, sua delimitação, e fixação da categoria das povoações.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "11 DE JANEIRO DE 1980 45", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Pelo CDS", 
    "text": "N. º 337/I - Processo administrativo não contencioso.\nN.º 338/I - Contratos de importação de serviços de estudos, projectos e consultadoria.\nN.º 339/I - Lei orgânica dos tribunais administrativos e fiscais.\nN.º 340/I - Criação da freguesia de Levegadas (S. Bento) no concelho da Lousã.\nN.º 341/I - Criação da freguesia de Monte Gordo no concelho de Vila Real de Santo António.\nN.º 342/I - Criação da freguesia de Paços Negros no concelho de Almeirim.\nN.º 343/I - Criação das freguesias de Fajarda, Branca, Erra, Biscainho e Santana do Mato no concelho de Coruche.\nN.º 344/I - Criação da freguesia de Outeiro da Cabeça no concelho de Torres Vedras.\nN. º 345/I - Criação da freguesia da Pontinha.\nN.º 346/I - Elevação da vila de Torres Novas à categoria de cidade.\nN.º 347/I - Criação da freguesia de Fanhais no concelho da Nazaré.\nN.º 348/I - Elevação da vila de Mirandela à categoria de cidade.\nN.º 349/I - Criação da freguesia de Landeira no concelho de Vendas Novas.\nN.º 350/I - Criação da freguesia de Ciborro no concelho de \nMontemor-o-Novo.\nN.º 351/1 - Criação da freguesia de Guadalupe no concelho de Évora.\nN.º 352/I - Criação da freguesia de S. Brás dos Matos (Mina do Bugalho) no concelho de Alandroal.\nN.º 353/I - Criação das freguesias de Longomel e Vale de Açor no concelho de Ponte de Sor.\nN.º 354/I - Criação da freguesia de Foros de Arrão no concelho de Ponte de Sor.\nN.º 355/I - Criação da freguesia de Sarilhos Pequenos no concelho da Moita.\nN.º 356/I - Criação da freguesia de Gaio-Rosário no concelho da Moita.\nN.º 357/I - Elevação da vila do Barreiro à categoria de cidade.\nN.º 358/I - Criação da freguesia de S. Martinho no concelho de Alcácer do Sal.\nN.º 359/I - Criação da freguesia de Sobreda no concelho de Almada.\nN.º 360/I - Criação das freguesias do Laranjeiro, do Feijó e da Charneca no concelho de Almada.\nN.º 361/I - Criação da freguesia do Pragal no concelho de Almada.\nN.º 362/I - Criação da freguesia da Quinta do Conde no concelho de Sesimbra.\nN.º 363/I - Reordenamento das freguesias do Barreiro e Palhais no concelho do Barreiro - Criação das freguesias de Verderena, \nSeixa-linho, Santo António da Charneca e Coina.\nN.º 364/I - Criação da freguesia de S. Francisco no concelho de Alcochete.\nN.º 365/I - Criação da freguesia de Porto Covo no concelho de Sines.\nN.º 366/I - Criação da freguesia de Alto Estanqueiro-Jardia no concelho do Montijo.\nN.º 367/I - Elevação da sede da freguesia da Baixa da Banheira à categoria de vila.\nN.º 368/I - Saneamento básico.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Amélia Cavaleiro Monteiro de Andrade de Azevedo.\nCarlos Manuel Pereira de Pinho.\nFernando José da Costa.\nFrancisco José de Sousa Tavares.\nJosé Ângelo Ferreira Correia.\nJosé Bento Gonçalves.\nJosé Manuel Medeiros Ferreira.\nJosé Manuel M. Sampaio Pimentel.\nNuno Maria Monteiro Godinho de Matos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "António Manuel Maldonado Gonelha.\nArmando Filipe Cerejeira Pereira Bacelar.\nBeatriz Magalhães de Almeida Cal Brandão.\nFernando Luís de Almeida Torres Marinho.\nFrancisco de Almeida Salgado Zenha.\nJoaquim José Catanho de Meneses.\nJosé Luís do Amaral Nunes.\nMaria Emília de Melo Moreira da Silva.\nMário Alberto Nobre Lopes Soares.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Ângelo Matos Mendes Veloso.\nAntónio Marques Pedrosa.\nDomingos Abrantes Ferreira.\nJoaquim Gomes dos Santos.\nOctávio Floriano Rodrigues Pato.\nZita Maria de Seabra Roseiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Adalberto Neiva de Oliveira.\nAdriano Vasco da Fonseca Rodrigues.\nAlexandre Correia de Carvalho Reigoto.\nAmérico Maria Coelho Gomes de Sá.\nAntónio Ferreira Pereira de Melo.\nAntónio Martins Canaverde.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "rtur Fernandes.\nCarlos Martins Robalo.\nDomingos da Silva Pereira.\nEduardo Leal Loureiro.\nEmídio Ferrão da Costa Pinheiro.\nEmílio Leitão Paulo.\nEugénio Maria Nunes Anacoreta Correia.\nFrancisco António Lucas Pires.\nFrancisco Manuel Lopes Vieira Oliveira Dias.\nHenrique José Cardoso de Meneses Pereira de Morais.\nJoão José Magalhães Pereira Pulido de Almeida.\nJoão da Silva Mendes Morgado.\nJoaquim Rocha dos Santos.\nJosé Augusto Gama.\nJosé Eduardo Fernandes de Sanches Osório.\nJosé Manuel Rodrigues Casqueiro.\nJosé Vicente de Jesus Carvalho Cardoso \nLuís Carlos Calheiros Veloso de Sampaio.\nLuís Eduardo da Silva Barbosa.\nLuís Filipe Pais Beiroco.\nLuís António Gomes Moreno.\nManuel Baeta Neves.\nMaria Tabita Lopes Ferreira Mendes Soares.\nNarana Sinai Coissoró.\nNuno Krus Abecasis.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "46 I SÉRIE-NÚMERO 3", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Pedro António José Bracourt Pestana de Vasconcelos.\nRui Eduardo Ferreira Rodrigues Pena.\nRui Garcia de Oliveira.\nVítor Afonso Pinto da Cruz.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "União Democrática Popular (UDP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Mário António Baptista Tomé.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António Alberto Correia Cabecinha.\nAntónio Pinto Basto Patrício Gouveia.\nArménio dos Santos.\nCasimiro António Pires.\nGermano da Silva Domingos.\nHenrique Alberto Freitas do Nascimento Rodrigues.\nJoão Baptista Machado.\nJoão Vasco da Luz Botelho de Paiva.\nJosé da Silva Domingos.\nManuel Luís Fernandes Malaquias.\nMaria Adelaide Santos de Almeida Paiva.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Alberto Arons Braga de Carvalho.\nAlberto Marques Antunes.\nAntónio Fernandes da Fonseca.\nAntónio Manuel de Oliveira Guterres.\nEmílio Rui da Veiga Peixoto Vilar.\nFrancisco Cardoso P. de Oliveira.\nHenrique Teixeira Queirós de Barros.\nJoão Joaquim Gomes.\nJúlio Francisco Miranda Calha.\nLuís Filipe Nascimento Madeira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Álvaro Barreirinhas Cunhal.\nAntónio Joaquim Gervásio.\nJaime dos Santos Serra.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "José Duarte de Almeida Ribeiro e Castro.\nLuís Aníbal Sá Azevedo Coutinho.\nManuel António Magalhães Correia Leite.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "PREÇO DESTE NÚMERO 10$00", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "IMPRENSA NACI0NAL-CASA DA MOEDA", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

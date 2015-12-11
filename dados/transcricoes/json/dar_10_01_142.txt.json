@@ -21,8 +21,10 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 10 minutos.", 
@@ -31,1066 +33,1398 @@
   {
    "speaker": "Srs. Deputados presentes à sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Partido Socialista (PS): \nAgostinho Moreira Gonçalves \nAlberto Arons Braga de Carvalho \nAlberto Marques Antunes \nAlberto de Sousa Martins \nAldemira Maria Cabanita do Nascimento Bispo Pinho \nAna Maria Cardoso Duarte da Rocha Almeida Pereira \nAna Maria Ribeiro Gomes do Couto \nAntónio Alves Marques Júnior \nAntónio José Ceia da Silva \nAntónio José Martins Seguro \nAntónio Manuel de Carvalho Ferreira Vitorino \nAntónio Ribeiro Gameiro \nArmando França Rodrigues Alves \nArtur Miguel Claro da Fonseca Mora Coelho \nCarlos Alberto David dos Santos Lopes \nDavid Martins \nDeolinda Isabel da Costa Coutinho \nElísio da Costa Amorim \nFernanda Maria Pereira Asseiceira \nFernando Manuel de Jesus \nFernando dos Santos Cabral \nHorácio André Antunes \nIsabel Maria Batalha Vigia Polaco de Almeida \nJoana Fernanda Ferreira Lima \nJoaquim Barbosa Ferreira Couto \nJoaquim Ventura Leite \nJorge Manuel Capela Gonçalves Fão \nJorge Manuel Gouveia Strecht Ribeiro \nJorge Manuel Monteiro de Almeida \nJosé Adelmo Gouveia Bordalo Junqueiro \nJosé Carlos Bravo Nico \nJosé Manuel Lello Ribeiro de Almeida \nJosé Manuel Pereira Ribeiro \nJovita de Fátima Romano Ladeira \nJoão Cardona Gomes Cravinho \nJoão Carlos Vieira Gaspar \nJoão Cândido da Rocha Bernardo \nJoão Miguel de Melo Santos Taborda Serrano \nJoão Raul Henriques Sousa Moura Portugal \nJúlio Francisco Miranda Calha \nLeonor Coutinho Pereira dos Santos \nLuís Afonso Cerqueira Natividade Candal \nLuís António Pita Ameixa \nLuís Miguel Morgado Laranjeiro \nLúcio Maia Ferreira \nManuel Alegre de Melo Duarte \nManuel Luís Gomes Vaz \nManuel Maria Ferreira Carrilho \nMarcos da Cunha e Lorena Perestrello de Vasconcellos \nMaria Antónia Moreno Areias de Almeida Santos \nMaria Celeste Lopes da Silva Correia \nMaria Cidália Bastos Faustino \nMaria Custódia Barbosa Fernandes Costa \nMaria Helena Terra de Oliveira Ferreira Dinis \nMaria Helena da Silva Ferreira Rodrigues", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Maria Hortense Nunes Martins \nMaria Irene Marques Veloso \nMaria Isabel Coelho Santos \nMaria Jesuína Carrilho Bernardo \nMaria José Guerra Gamboa Campos \nMaria Matilde Pessoa de Magalhães Figueiredo de Sousa Franco Maria Odete da Conceição João \nMaria Teresa Alegre de Melo Duarte Portugal \nMaria Teresa Filipe de Moraes Sarmento Diniz \nMaria de Belém Roseira Martins Coelho Henriques de Pina \nMaria de Fátima Oliveira Pimenta \nMaria de Lurdes Ruivo \nMaria do Rosário Lopes Amaro da Costa da Luz Carneiro \nMiguel Bernardo Ginestal Machado Monteiro Albuquerque \nMiguel João Pisoeiro de Freitas \nNelson Madeira Baltazar \nNuno André Araújo dos Santos Reis e Sá \nOsvaldo Alberto Rosário Sarmento e Castro \nPaula Cristina Barros Teixeira Santos \nPaula Cristina Ferreira Guimarães Duarte \nPaula Cristina Nobre de Deus \nPedro Manuel Farmhouse Simões Alberto \nPedro Nuno de Oliveira Santos \nRenato Luís Pereira Leal \nRenato Luís de Araújo Forte Sampaio \nRicardo Jorge Teixeira de Freitas \nRita Susana da Silva Guimarães Neves \nRosalina Maria Barbosa Martins \nRui do Nascimento Rabaça Vieira \nSónia Ermelinda Matos da Silva Fertuzinhos \nSónia Isabel Fernandes Sanfona Cruz Mendes \nTelma Catarina Dias Madaleno \nTeresa Maria Neto Venda \nUmberto Pereira Pacheco \nVasco Seixas Duarte Franco \nVictor Manuel Bento Baptista \nVitalino José Ferreira Prova Canas", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Partido Social Democrata (PSD): \nAdão José Fonseca Silva \nAgostinho Correia Branquinho \nAna Maria Sequeira Mendes Pires Manso \nAntónio Edmundo Barbosa Montalvão Machado \nAntónio Joaquim Almeida Henriques \nAntónio Ribeiro Cristóvão \nArménio dos Santos \nCarlos Alberto Garcia Poço \nCarlos Jorge Martins Pereira \nCarlos Manuel de Andrade Miranda \nEmídio Guerreiro \nFernando Mimoso Negrão \nFernando Santos Pereira \nFernando dos Santos Antunes \nGuilherme Henrique Valente Rodrigues da Silva \nHenrique José Praia da Rocha de Freitas \nHermínio José Sobral Loureiro Gonçalves \nHugo José Teixeira Velosa \nJoaquim Carlos Vasconcelos da Ponte \nJorge Fernando Magalhães da Costa \nJorge José Varanda Pereira \nJorge Manuel Ferraz de Freitas Neto \nJorge Tadeu Correia Franco Morgado", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "José António Freire Antunes \nJosé Luís Fazenda Arnaut Duarte \nJosé Manuel Marques de Matos Rosa \nJosé Manuel Pereira da Costa \nJosé Manuel de Matos Correia \nJosé Mendes Bota \nJosé Pedro Correia de Aguiar Branco \nJosé Raúl Guerreiro Mendes dos Santos \nJosé de Almeida Cesário \nJoão Bosco Soares Mota Amaral \nLuís Filipe Alexandre Rodrigues \nLuís Filipe Carloto Marques \nLuís Filipe Montenegro Cardoso de Morais Esteves \nLuís Maria de Barros Serra Marques Guedes \nManuel Filipe Correia de Jesus \nMaria do Rosário da Silva Cardoso Águas \nMelchior Ribeiro Pereira Moreira \nMiguel Jorge Pignatelli de Ataíde Queiroz \nMiguel Jorge Reis Antunes Frasquilho \nMário Henrique de Almeida Santos David \nMário da Silva Coutinho Albuquerque \nNuno Maria de Figueiredo Cabral da Câmara Pereira \nPaulo Artur dos Santos Castro de Campos Rangel \nPaulo Miguel da Silva Santos \nPedro Augusto Cunha Pinto \nPedro Quartin Graça Simão José \nRicardo Jorge Olímpio Martins \nSérgio André da Costa Vieira \nVasco Manuel Henriques Cunha \nZita Maria de Seabra Roseiro", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Partido Comunista Português (PCP): \nAgostinho Nuno de Azevedo Ferreira Lopes \nAntónio Filipe Gaião Rodrigues \nBernardino José Torrão Soares \nFrancisco José de Almeida Lopes \nJerónimo Carvalho de Sousa \nJosé Batista Mestre Soeiro \nMaria Luísa Raimundo Mesquita \nMiguel Tiago Crispim Rosado", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Partido Popular (CDS-PP): \nAbel Lima Baptista \nAntónio Carlos Bivar Branco de Penha Monteiro \nJosé Helder do Amaral \nJoão Guilherme Nobre Prata Fragoso Rebelo \nLuís Pedro Russo da Mota Soares \nMaria da Conceição Torrado Barroso Cruz", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Bloco de Esquerda (BE): \nAlda Maria Gonçalves Pereira Macedo \nAna Isabel Drago Lobato \nAntónio Augusto Jordão Chora \nFrancisco Anacleto Louçã \nHelena Maria Moura Pinto \nJoão Pedro Furtado da Cunha Semedo \nLuís Emídio Lopes Mateus Fazenda \nMariana Rosa Aiveca Ferreira", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Partido Ecologista \"Os Verdes\" (PEV): \nFrancisco Miguel Baudoin Madeira Lopes", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Heloísa Augusta Baião de Brito Apolónia", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Sr.as e Srs. Deputados, a ordem do dia da reunião de hoje consta de um agendamento potestativo pedido pelo PSD, a saber, a apreciação do projecto de resolução n.º 137/X - Apoio extraordinário à vinha do Douro (PSD).\nAlerto os Srs. Deputados que haverá votações no final do debate.\nPara apresentar o projecto de resolução, tem a palavra o Sr. Deputado Melchior Moreira.", 
-   "type": "continuacao"
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Sr.as e Srs. Deputados, a ordem do dia da reunião de hoje consta de um agendamento potestativo pedido pelo PSD, a saber, a apreciação do projecto de resolução n.º 137/X - Apoio extraordinário à vinha do Douro (PSD).\nAlerto os Srs. Deputados que haverá votações no final do debate.\nPara apresentar o projecto de resolução, tem a palavra o Sr. Deputado Melchior Moreira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Melchior Moreira* (PSD): Sr. Presidente, Sr.as e Srs. Deputados: \nPortugal aguarda com expectativa a prestação da nossa Selecção que, em comunhão com os portugueses, tanto tem dignificado o nome do nosso país.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Melchior Moreira", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: \nPortugal aguarda com expectativa a prestação da nossa Selecção que, em comunhão com os portugueses, tanto tem dignificado o nome do nosso país.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Também um outro grupo bem definido de compatriotas nossos tem, ao longo dos últimos três séculos, com muito suor e lágrimas, feito exactamente o mesmo. São, nas palavras de Jaime Cortesão, a raça de gigantes que erguem o mais belo e doloroso monumento ao trabalho do povo português - o Alto Douro Vinhateiro.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Também um outro grupo bem definido de compatriotas nossos tem, ao longo dos últimos três séculos, com muito suor e lágrimas, feito exactamente o mesmo. São, nas palavras de Jaime Cortesão, a raça de gigantes que erguem o mais belo e doloroso monumento ao trabalho do povo português - o Alto Douro Vinhateiro.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: São os mesmos que ergueram uma paisagem que é somente Património da Humanidade. São os mesmos que fazem dos néctares que aí nascem a mais nobre imagem de marca de Portugal: o vinho do Porto.\nMas, Sr. Presidente, Sr.as e Srs. Deputados, são também os mesmos que, com um silêncio ensurdecedor, têm vindo, ao longo da última década, a sofrer as consequências nefastas da inevitável e feroz concorrência internacional. Concorrência, esta, que tem levado as maiores empresas do sector, naturalmente, a procurar vantagens de escala, provocando um esmagamento dos preços a níveis insuportáveis para estes milhares de portugueses. São cerca de 15 000 homens a que habitualmente chamamos de lavradores durienses e que subsistem do trabalho árduo nas suas pequenas vinhas, por norma com menos de 10 ha. Homens e mulheres que sabem como ninguém cuidar das suas vinhas, mas que desconhecem os actuais mecanismos de mercado.\nSr. Presidente, Sr.as e Srs. Deputados: Mais do que palavras apresento números que são esclarecedores da situação. Nos últimos seis anos, os custos de exploração das pequenas propriedades mantiveram-se e, em alguns casos, aumentaram. No mesmo período de tempo, os rendimentos para cada um destes pequenos lavradores baixaram, baixaram mesmo para cerca de metade. Estão totalmente subjugados aos caprichos do mercado puro e duro e completamente indefesos. Indefesos, já que a nível associativo há evidentes fragilidades.\nA Casa do Douro não tem condições, neste momento, para exercer essas funções eficazmente e o sector cooperativo debate-se com evidentes estrangulamentos financeiros e falta de escala compatível com as actuais regras do mercado.\nTambém a nível político-administrativo temos todos de fazer uma mea culpa, pois constata-se que, sendo este um território com evidente homogeneidade e identidade, desde logo ao nível dos problemas, não tivemos capacidade de formatar um modelo que lhes permitisse ter uma voz.\nComeçam, assim, a ser demasiado visíveis e dramáticos os sinais de empobrecimento.\nInfelizmente, dada a quebra de receitas, são também demasiados os casos de correrem o sério risco de entrar num ciclo vertiginoso de incumprimentos sucessivos das obrigações bancárias.\nA isto acresce uma evidente desmotivação por falta de capacidade financeira para a utilização de seguros de colheita, manifestamente desajustados da realidade da nossa agricultura.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "São os mesmos que ergueram uma paisagem que é somente Património da Humanidade. São os mesmos que fazem dos néctares que aí nascem a mais nobre imagem de marca de Portugal: o vinho do Porto.\nMas, Sr. Presidente, Sr.as e Srs. Deputados, são também os mesmos que, com um silêncio ensurdecedor, têm vindo, ao longo da última década, a sofrer as consequências nefastas da inevitável e feroz concorrência internacional. Concorrência, esta, que tem levado as maiores empresas do sector, naturalmente, a procurar vantagens de escala, provocando um esmagamento dos preços a níveis insuportáveis para estes milhares de portugueses. São cerca de 15 000 homens a que habitualmente chamamos de lavradores durienses e que subsistem do trabalho árduo nas suas pequenas vinhas, por norma com menos de 10 ha. Homens e mulheres que sabem como ninguém cuidar das suas vinhas, mas que desconhecem os actuais mecanismos de mercado.\nSr. Presidente, Sr.as e Srs. Deputados: Mais do que palavras apresento números que são esclarecedores da situação. Nos últimos seis anos, os custos de exploração das pequenas propriedades mantiveram-se e, em alguns casos, aumentaram. No mesmo período de tempo, os rendimentos para cada um destes pequenos lavradores baixaram, baixaram mesmo para cerca de metade. Estão totalmente subjugados aos caprichos do mercado puro e duro e completamente indefesos. Indefesos, já que a nível associativo há evidentes fragilidades.\nA Casa do Douro não tem condições, neste momento, para exercer essas funções eficazmente e o sector cooperativo debate-se com evidentes estrangulamentos financeiros e falta de escala compatível com as actuais regras do mercado.\nTambém a nível político-administrativo temos todos de fazer uma mea culpa, pois constata-se que, sendo este um território com evidente homogeneidade e identidade, desde logo ao nível dos problemas, não tivemos capacidade de formatar um modelo que lhes permitisse ter uma voz.\nComeçam, assim, a ser demasiado visíveis e dramáticos os sinais de empobrecimento.\nInfelizmente, dada a quebra de receitas, são também demasiados os casos de correrem o sério risco de entrar num ciclo vertiginoso de incumprimentos sucessivos das obrigações bancárias.\nA isto acresce uma evidente desmotivação por falta de capacidade financeira para a utilização de seguros de colheita, manifestamente desajustados da realidade da nossa agricultura.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Sr.as e Srs. Deputados: Não podemos escamotear esta dura realidade e por isso é minha obrigação moral, em nome do Partido Social Democrata, antes de mais, servir-me desta tribuna para vos fazer eco do grito silencioso destes homens e mulheres e deixar aqui um apelo a todos no sentido de, urgentemente, ser prestada uma maior atenção a este problema.\nSr. Presidente, Sr.as e Srs. Deputados: Faço este enquadramento porque, como se tudo o que vos relatei não fosse suficiente, há 15 dias atrás, perto de um milhar destes 15 000 pequenos lavradores durienses de que vos falo viveram uma situação dramática e angustiante a que ninguém ficou alheio. Refiro-me à forte queda de granizo e chuva intensa que se abateu sobre o coração da Região Demarcada do Douro, em 17 freguesias dos concelhos de S. João da Pesqueira, Tabuaço, Alijó e Sabrosa, tendo causado prejuízos gravíssimos nas suas pequenas propriedades.\nEm alguns minutos, esses lavradores durienses viram desaparecer cerca de 2000 ha de vinha e o", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Não podemos escamotear esta dura realidade e por isso é minha obrigação moral, em nome do Partido Social Democrata, antes de mais, servir-me desta tribuna para vos fazer eco do grito silencioso destes homens e mulheres e deixar aqui um apelo a todos no sentido de, urgentemente, ser prestada uma maior atenção a este problema.\nSr. Presidente, Sr.as e Srs. Deputados: Faço este enquadramento porque, como se tudo o que vos relatei não fosse suficiente, há 15 dias atrás, perto de um milhar destes 15 000 pequenos lavradores durienses de que vos falo viveram uma situação dramática e angustiante a que ninguém ficou alheio. Refiro-me à forte queda de granizo e chuva intensa que se abateu sobre o coração da Região Demarcada do Douro, em 17 freguesias dos concelhos de S. João da Pesqueira, Tabuaço, Alijó e Sabrosa, tendo causado prejuízos gravíssimos nas suas pequenas propriedades.\nEm alguns minutos, esses lavradores durienses viram desaparecer cerca de 2000 ha de vinha e o", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "trabalho de um ano inteiro. Nos casos mais graves, viram mesmo as próximas colheitas comprometidas, tal foi a devastação registada em alguns locais.\nSr. Presidente, Sr.as e Srs. Deputados: Trata-se, do ponto de vista social, de uma situação de tal maneira grave e anómala que exige, sem dúvida, uma resposta excepcional. Todos estaremos de acordo que, se há matérias em que as normais lutas partidárias não fazem sentido, esta é, sem dúvida, a primeira delas.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Registo por isso com agrado a visita que o Sr. Ministro da Agricultura fez aos locais mais atingidos para demonstrar a sua solidariedade com os viticultores e garantir a criação de \"medidas de apoio\" para as zonas afectadas, bem como a distribuição gratuita de cálcio, mesmo que o dinheiro tenha vindo dos cofres do IVDP (Instituto dos Vinhos do Douro e Porto) e, como tal, das taxas que os viticultores e comerciantes pagam para certificar e promover os seus produtos.\nQueremos acreditar que o Governo venha a restituir esse dinheiro ao sector.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Registo por isso com agrado a visita que o Sr. Ministro da Agricultura fez aos locais mais atingidos para demonstrar a sua solidariedade com os viticultores e garantir a criação de \"medidas de apoio\" para as zonas afectadas, bem como a distribuição gratuita de cálcio, mesmo que o dinheiro tenha vindo dos cofres do IVDP (Instituto dos Vinhos do Douro e Porto) e, como tal, das taxas que os viticultores e comerciantes pagam para certificar e promover os seus produtos.\nQueremos acreditar que o Governo venha a restituir esse dinheiro ao sector.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Hermínio Loureiro* (PSD): Evidentemente!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Hermínio Loureiro", 
+   "text": "Evidentemente!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Mas também sabemos que há, infelizmente, muitos pequenos agricultores e algumas adegas cooperativas que não têm seguros de colheitas e que, portanto, não poderão ser compensados pela perda de rendimento que tenham registado.\nMas quero aqui fazer uma distinção entre a questão da perda do rendimento e outra completamente distinta, que é o sobrecusto que todos os viticultores vão ter, sobretudo os mais afectados, com granjeios que não teriam se não tivesse ocorrido esta calamidade.\nConsideramos, por isso, da mais elementar justiça que, após uma criteriosa avaliação da Direcção Regional da Agricultura, que julgamos já ter sido efectuada, o Governo estruture medidas de apoio urgente a esses viticultores.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Mas também sabemos que há, infelizmente, muitos pequenos agricultores e algumas adegas cooperativas que não têm seguros de colheitas e que, portanto, não poderão ser compensados pela perda de rendimento que tenham registado.\nMas quero aqui fazer uma distinção entre a questão da perda do rendimento e outra completamente distinta, que é o sobrecusto que todos os viticultores vão ter, sobretudo os mais afectados, com granjeios que não teriam se não tivesse ocorrido esta calamidade.\nConsideramos, por isso, da mais elementar justiça que, após uma criteriosa avaliação da Direcção Regional da Agricultura, que julgamos já ter sido efectuada, o Governo estruture medidas de apoio urgente a esses viticultores.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Essas medidas de apoio aos lavradores nada tem a ver com um \ndesincentivo aos seguros. Nada disso. Consideramos que os lavradores devem fazer os seus seguros. Mas também sabemos as dificuldades por que passam por uma delicada situação financeira. Trata-se, aliás, de uma situação há muito conhecida, que o actual modelo de seguros continua desajustado e ineficaz, apesar dos enormes custos suportados pelo Estado.\nPor tudo isto, entendemos que os lavradores do Douro afectados pela queda de granizo são credores de um apoio do Governo, a título excepcional, que os compense pelos encargos adicionais com a reposição do respectivo potencial produtivo.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Mendes Bota* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Mendes Bota", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Sr.as e Srs. Deputados: Passados estes 15 dias sobre este triste acontecimento, passada a turbulência e a agitação mediática inicial, constata-se que o problema subsiste.\nMediaticamente ele pode parecer resolvido, mas a realidade não é essa! \nTemos de ser consequentes e é, pois, chegada a hora de cumprirmos a nossa obrigação e materializarmos a ajuda que o Governo, por intermédio do Sr. Ministro da Agricultura, fez questão de anunciar ao País, sobretudo aos agricultores atingidos.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Passados estes 15 dias sobre este triste acontecimento, passada a turbulência e a agitação mediática inicial, constata-se que o problema subsiste.\nMediaticamente ele pode parecer resolvido, mas a realidade não é essa! \nTemos de ser consequentes e é, pois, chegada a hora de cumprirmos a nossa obrigação e materializarmos a ajuda que o Governo, por intermédio do Sr. Ministro da Agricultura, fez questão de anunciar ao País, sobretudo aos agricultores atingidos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Por isso, o Partido Social Democrata traz a esta Casa o projecto de resolução n.º 137/X, recomendando ao Governo que: \nDisponibilize um apoio financeiro de emergência a todos os agricultores afectados por esta intempérie de forma a, por um lado, minorar os prejuízos decorrentes da destruição das colheitas e, por outro lado, apoiar a reposição do potencial produtivo; \nA atribuição deste apoio deve obedecer a critérios justos e objectivos que privilegiem as situações de maior carência, designadamente, a vivida pelos pequenos agricultores sem seguro de colheita; \nPromova condições para o estabelecimento de uma moratória ao reembolso dos créditos concedidos pela banca aos agricultores com culturas afectadas; \nAprove um quadro legal em matéria de seguros agrícolas que favoreça a adesão dos agricultores, de acordo com as suas reais condições económicas, e assegure uma verdadeira eficácia na compensação dos prejuízos em situações extraordinárias como a agora vivida; \nO novo enquadramento da cobertura de riscos deverá também prosseguir dois outros objectivos: por um lado, ser abrangente na cobertura de riscos, alargando-a às actividades pecuárias e florestais ou a crises", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Por isso, o Partido Social Democrata traz a esta Casa o projecto de resolução n.º 137/X, recomendando ao Governo que: \nDisponibilize um apoio financeiro de emergência a todos os agricultores afectados por esta intempérie de forma a, por um lado, minorar os prejuízos decorrentes da destruição das colheitas e, por outro lado, apoiar a reposição do potencial produtivo; \nA atribuição deste apoio deve obedecer a critérios justos e objectivos que privilegiem as situações de maior carência, designadamente, a vivida pelos pequenos agricultores sem seguro de colheita; \nPromova condições para o estabelecimento de uma moratória ao reembolso dos créditos concedidos pela banca aos agricultores com culturas afectadas; \nAprove um quadro legal em matéria de seguros agrícolas que favoreça a adesão dos agricultores, de acordo com as suas reais condições económicas, e assegure uma verdadeira eficácia na compensação dos prejuízos em situações extraordinárias como a agora vivida; \nO novo enquadramento da cobertura de riscos deverá também prosseguir dois outros objectivos: por um lado, ser abrangente na cobertura de riscos, alargando-a às actividades pecuárias e florestais ou a crises", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "alimentares que impliquem bloqueios graves do mercado e, \nconsequentemente, perdas acentuadas de rendimentos e, por outro, no âmbito do programa Desenvolvimento Rural 2007-2013, ser complementada com outras medidas de apoio à minimização dos riscos, como sejam, a criação e funcionamento de fundos mutualistas de largo espectro de cobertura, de fundos de garantia mútua ou de contra-garantia.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Sr.as e Srs. Deputados: Quero, porém, que fique bem clara uma questão que já anteriormente referi - esta não pode ser uma matéria de disputa partidária!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: Quero, porém, que fique bem clara uma questão que já anteriormente referi - esta não pode ser uma matéria de disputa partidária!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: O PSD, com esta iniciativa e com a visita que o seu Presidente, Deputado Luís Marques Mendes, realizou recentemente ao Douro, não quer mais do que dar contributos válidos para a resolução dos problemas concretos das pessoas.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O PSD, com esta iniciativa e com a visita que o seu Presidente, Deputado Luís Marques Mendes, realizou recentemente ao Douro, não quer mais do que dar contributos válidos para a resolução dos problemas concretos das pessoas.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: É por elas e só por elas que aqui estamos.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "É por elas e só por elas que aqui estamos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: O que nos importa é dar respostas realistas, sem demagogia, que vão ao encontro das reais necessidades de desenvolvimento do País no seu todo e, neste caso, do Douro em particular.\nPor isso, apelo a todos os grupos parlamentares para que possamos, todos juntos, dar um contributo positivo para a resolução deste grave problema que mexe com a subsistência de milhares de compatriotas nossos.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O que nos importa é dar respostas realistas, sem demagogia, que vão ao encontro das reais necessidades de desenvolvimento do País no seu todo e, neste caso, do Douro em particular.\nPor isso, apelo a todos os grupos parlamentares para que possamos, todos juntos, dar um contributo positivo para a resolução deste grave problema que mexe com a subsistência de milhares de compatriotas nossos.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Para uma intervenção, tem a palavra o Sr. Deputado Jorge Almeida.", 
-   "type": "continuacao"
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Almeida.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Almeida* (PS): Sr. Presidente, Srs. Deputados: O Douro é uma realidade complexa que apresenta indicadores sociais, demográficos e económicos difíceis e cujo sector vitivinícola enfrenta neste momento algumas ameaças. Tem, aliás, grande dificuldade em desenvolver uma actividade sustentável, alternativa ou complementar à economia do vinho.\nEsta é uma realidade que temos vindo a acompanhar e a estudar, estando contemplada em relatórios que uma comissão desta Casa ainda \nrecentemente elaborou. Para além disso, é uma realidade que teremos oportunidade de discutir e de dissecar em pormenor muito brevemente, quando discutirmos um projecto de resolução que o meu partido já apresentou na Mesa da Assembleia da República.\nO que aqui nos traz hoje é uma questão conjuntural problemática, com alguns elementos de dificuldade resultantes de uma intempérie e do projecto de resolução apresentado pelo PSD. Com esta iniciativa, pretendem os seus subscritores o apoio extraordinário à vinha do Douro.\nContudo, este projecto de resolução, parecendo surgir de uma preocupação legítima de solidariedade para com os agricultores atingidos pela intempérie de granizo que se verificou no dia 15 de Junho, enferma de grandes imprecisões, resultantes do desconhecimento da realidade local, do mundo vitivinícola duriense e, ainda, de uma fraca percepção dos seguros colectivos agrícolas em geral, da sua abrangência e das suas especificidades actuais na região sobre esta matéria.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Jorge Almeida", 
+   "text": "Sr. Presidente, Srs. Deputados: O Douro é uma realidade complexa que apresenta indicadores sociais, demográficos e económicos difíceis e cujo sector vitivinícola enfrenta neste momento algumas ameaças. Tem, aliás, grande dificuldade em desenvolver uma actividade sustentável, alternativa ou complementar à economia do vinho.\nEsta é uma realidade que temos vindo a acompanhar e a estudar, estando contemplada em relatórios que uma comissão desta Casa ainda \nrecentemente elaborou. Para além disso, é uma realidade que teremos oportunidade de discutir e de dissecar em pormenor muito brevemente, quando discutirmos um projecto de resolução que o meu partido já apresentou na Mesa da Assembleia da República.\nO que aqui nos traz hoje é uma questão conjuntural problemática, com alguns elementos de dificuldade resultantes de uma intempérie e do projecto de resolução apresentado pelo PSD. Com esta iniciativa, pretendem os seus subscritores o apoio extraordinário à vinha do Douro.\nContudo, este projecto de resolução, parecendo surgir de uma preocupação legítima de solidariedade para com os agricultores atingidos pela intempérie de granizo que se verificou no dia 15 de Junho, enferma de grandes imprecisões, resultantes do desconhecimento da realidade local, do mundo vitivinícola duriense e, ainda, de uma fraca percepção dos seguros colectivos agrícolas em geral, da sua abrangência e das suas especificidades actuais na região sobre esta matéria.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Miguel Freitas* (PS): Muito bem!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Miguel Freitas", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: O conhecimento real dos problemas das vinhas do Douro que resultaram do temporal que se abateu sobre algumas delas não se compagina com um simples apanhado de notícias veiculadas pela comunicação social. Não, Srs. Deputados! Era expectável, também aí, uma abordagem mais precisa.\nAntes de mais, uma referência à área territorial atingida, não só do ponto de vista administrativo, como do ponto de vista quantitativo. De facto, não foram apenas os quatro concelhos referidos no projecto de resolução do PSD - a saber, S. João da Pesqueira, Tabuaço, Sabrosa e Alijó - os atingidos pelo granizo.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O conhecimento real dos problemas das vinhas do Douro que resultaram do temporal que se abateu sobre algumas delas não se compagina com um simples apanhado de notícias veiculadas pela comunicação social. Não, Srs. Deputados! Era expectável, também aí, uma abordagem mais precisa.\nAntes de mais, uma referência à área territorial atingida, não só do ponto de vista administrativo, como do ponto de vista quantitativo. De facto, não foram apenas os quatro concelhos referidos no projecto de resolução do PSD - a saber, S. João da Pesqueira, Tabuaço, Sabrosa e Alijó - os atingidos pelo granizo.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Junqueiro* (PS): Bem lembrado!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Bem lembrado!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Também o concelho de Carrazeda de Ansiães (mais \nprecisamente, a freguesia de Pombal)", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Também o concelho de Carrazeda de Ansiães (mais \nprecisamente, a freguesia de Pombal)", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "foi atingido, curiosamente com prejuízos superiores a 60% da área total, espaço em que, para mais, a propriedade - tal como em Alijó e Sabrosa - é das mais divididas, possuindo os agricultores afectados, em média, cerca de 1 ha por exploração. Compreendemos que não foi por desprezo pelas gentes de Carrazeda de Ansiães que VV. Ex.as omitiram aquele concelho do vosso projecto de resolução, mas convenhamos que, num documento a aprovar neste Plenário do poder legislativo, estas lacunas só podem revelar grande falta de informação e de preparação.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Junqueiro* (PS): É verdade!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Por outro lado, os dados que conseguimos apurar após o levantamento exaustivo dos serviços técnicos apontam para uma área atingida bem superior àquela que VV. Ex.as indicam no vosso projecto.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Por outro lado, os dados que conseguimos apurar após o levantamento exaustivo dos serviços técnicos apontam para uma área atingida bem superior àquela que VV. Ex.as indicam no vosso projecto.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *António Montalvão Machado* (PSD): Então, vão votar a favor!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "António Montalvão Machado", 
+   "text": "Então, vão votar a favor!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: De facto, não terão sido atingidos pelo granizo 1700 há, mas aproximadamente 2400.\nContudo, os mesmos estudos técnicos identificaram, por zonas e por agricultor, a percentagem de prejuízos, que é muito variável. A grande maioria das parcelas sofreu reduções de potencial vinícola abaixo dos 20%. O número de agricultores atingidos cujas parcelas sofreram reduções do mesmo potencial entre os 20 e os 40% é bem menor, embora seja significativo. Mas as perdas de rendimento acima dos 40% e, sobretudo, acima dos 60% são manifestamente reduzidas e estão já bem identificadas.\nMas, Srs. Deputados do PSD, há ainda uma pequena franja de agricultores atingidos nalguns concelhos, em particular no de Sabrosa, que, ligados a uma agricultura familiar de subsistência e em produção hortícola, viram a sua produção reduzida a zero, encontrando-se numa situação económica muito difícil ou mesmo dramática.\nO PSD propõe, nas suas medidas de recomendação ao Governo, que seja disponibilizado \"um apoio financeiro de emergência a todos os agricultores afectados por esta intempérie\". A execução de uma deliberação destas, tal como é proposta pelo PSD, torná-la-ia uma medida injusta, não direccionada para quem efectivamente precisa e de um enorme populismo.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "De facto, não terão sido atingidos pelo granizo 1700 há, mas aproximadamente 2400.\nContudo, os mesmos estudos técnicos identificaram, por zonas e por agricultor, a percentagem de prejuízos, que é muito variável. A grande maioria das parcelas sofreu reduções de potencial vinícola abaixo dos 20%. O número de agricultores atingidos cujas parcelas sofreram reduções do mesmo potencial entre os 20 e os 40% é bem menor, embora seja significativo. Mas as perdas de rendimento acima dos 40% e, sobretudo, acima dos 60% são manifestamente reduzidas e estão já bem identificadas.\nMas, Srs. Deputados do PSD, há ainda uma pequena franja de agricultores atingidos nalguns concelhos, em particular no de Sabrosa, que, ligados a uma agricultura familiar de subsistência e em produção hortícola, viram a sua produção reduzida a zero, encontrando-se numa situação económica muito difícil ou mesmo dramática.\nO PSD propõe, nas suas medidas de recomendação ao Governo, que seja disponibilizado \"um apoio financeiro de emergência a todos os agricultores afectados por esta intempérie\". A execução de uma deliberação destas, tal como é proposta pelo PSD, torná-la-ia uma medida injusta, não direccionada para quem efectivamente precisa e de um enorme populismo.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Protestos de Deputados do PSD.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Pelos vistos, para o PSD pouco importa que o agricultor tenha seguro ou não, que seja produtor independente ou não, que esteja associado em adega cooperativa com seguro colectivo de colheita ou não, que tenha benefício ou não, que tenha grande ou pequena dimensão, que tenha outras áreas da exploração não atingidas e que compensem aquele prejuízo ou não. O PSD está pouco preocupado com a justiça, a equidade e a discriminação positiva para os mais afectados e com menores rendimentos.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O PSD preocupa-se apenas em ficar bem na \"fotografia\".\nPoderão considerar-se na mesma situação e ser objecto de apoios extraordinários um agricultor que pertença a uma adega cooperativa com seguro colectivo de colheita, um agricultor que pertença a uma outra adega sem seguro, ou, ainda, um agricultor independente que, desde há alguns anos, deixou de estar coberto pelo seguro devido à sua não contratualização pela Casa do Douro? Um agricultor que tenha direito a um beneficio, que tenha sofrido uma quebra de produção de 30% e que tenha uvas para preencher o cartão, tendo, portanto, um prejuízo mínimo, pode ser equiparado a um outro que tenha os mesmos 30% de prejuízo, mas que não tem benefício para a produção do vinho do Porto? \nSerá que para o PSD é a mesma coisa?", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Então mas não há um levantamento rigoroso e exaustivo dessas situações?!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Então mas não há um levantamento rigoroso e exaustivo dessas situações?!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Convém ainda referir, para que todos os Srs. Deputados entendam do que se está a falar, algumas particularidades do sistema de produção de vinho do Porto e de consumo nas vinhas do Douro.\nUm hectare de vinha no Douro, com autorização de benefício, tem uma média aproximada de 4 pipas de 550 l de autorização para produzir vinho do Porto, cujo preço de venda ronda os 200 contos, a preços de 2005. As duas, três ou mesmo quatro pipas que o agricultor colhe nesse mesmo hectare e que não podem ir para vinho do Porto são comercializados actualmente a uns míseros 15 ou 20 contos a pipa. Por aqui se entende que o agricultor que tenha, por exemplo, os tais 30% de quebra de produção este ano, mas que tenha benefício terá um pequeno prejuízo não tão difícil de suportar como aquele de quem vive no sufoco da dependência dos baixos rendimentos exclusivos do vinho de consumo.\nNão! Nós entendemos que a opção correcta é a que passa por fazer uma análise fina do problema,", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Convém ainda referir, para que todos os Srs. Deputados entendam do que se está a falar, algumas particularidades do sistema de produção de vinho do Porto e de consumo nas vinhas do Douro.\nUm hectare de vinha no Douro, com autorização de benefício, tem uma média aproximada de 4 pipas de 550 l de autorização para produzir vinho do Porto, cujo preço de venda ronda os 200 contos, a preços de 2005. As duas, três ou mesmo quatro pipas que o agricultor colhe nesse mesmo hectare e que não podem ir para vinho do Porto são comercializados actualmente a uns míseros 15 ou 20 contos a pipa. Por aqui se entende que o agricultor que tenha, por exemplo, os tais 30% de quebra de produção este ano, mas que tenha benefício terá um pequeno prejuízo não tão difícil de suportar como aquele de quem vive no sufoco da dependência dos baixos rendimentos exclusivos do vinho de consumo.\nNão! Nós entendemos que a opção correcta é a que passa por fazer uma análise fina do problema,", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "pegar num trabalho de campo bem pormenorizado não só do ponto de vista técnico como social, de forma a identificar os casos graves e, então, concretizar, a título excepcional, uma ajuda bem direccionada e selectiva.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *António Montalvão Machado* (PSD): É o que propomos!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "António Montalvão Machado", 
+   "text": "É o que propomos!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Ao ser concedido um subsídio a todos os agricultores afectados pela intempérie, como VV. Ex.as propõem, estaremos a promover atribuições financeiras injustas e a dispersar meios financeiros, que são poucos, o que naturalmente prejudicará aqueles agricultores que, pela graduação da forma como foram atingidos e pela evidência da fragilidade dos seus recursos económicos, precisam de uma ajuda especial, de forma a mitigar a sua situação e a manter a viabilidade da sua pequena exploração agrícola.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Ao ser concedido um subsídio a todos os agricultores afectados pela intempérie, como VV. Ex.as propõem, estaremos a promover atribuições financeiras injustas e a dispersar meios financeiros, que são poucos, o que naturalmente prejudicará aqueles agricultores que, pela graduação da forma como foram atingidos e pela evidência da fragilidade dos seus recursos económicos, precisam de uma ajuda especial, de forma a mitigar a sua situação e a manter a viabilidade da sua pequena exploração agrícola.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Miguel Almeida* (PS): Muito bem!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Miguel Almeida", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Comungamos das preocupações do PSD e do seu líder acerca da necessidade de reformulação do actual modelo do seguro, que é caro para o Estado e necessita de ter melhor retorno para os agricultores, bem como do seu espectro e abrangência, assim como da criação dos fundos de garantia. Mas, sejamos claros: nenhum passo foi dado pela governação anterior nesse sentido, o que é de lamentar. Todavia, como VV. Ex.as dizem, e bem, o povo já fez justiça no acto eleitoral. O actual Governo anunciou e está a trabalhar um novo sistema de segurança para as intempéries agrícolas que nos poderá melhorar qualitativamente o sistema, tanto para o agricultor como para o Estado.\nMas, Srs. Deputados do PSD, não basta ir ao Douro e fazer anúncios à comunicação social em matéria de seguros,…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Comungamos das preocupações do PSD e do seu líder acerca da necessidade de reformulação do actual modelo do seguro, que é caro para o Estado e necessita de ter melhor retorno para os agricultores, bem como do seu espectro e abrangência, assim como da criação dos fundos de garantia. Mas, sejamos claros: nenhum passo foi dado pela governação anterior nesse sentido, o que é de lamentar. Todavia, como VV. Ex.as dizem, e bem, o povo já fez justiça no acto eleitoral. O actual Governo anunciou e está a trabalhar um novo sistema de segurança para as intempéries agrícolas que nos poderá melhorar qualitativamente o sistema, tanto para o agricultor como para o Estado.\nMas, Srs. Deputados do PSD, não basta ir ao Douro e fazer anúncios à comunicação social em matéria de seguros,…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Que foi o que o Ministro fez!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Que foi o que o Ministro fez!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … como fez o Dr. Marques Mendes, afirmando que o seguro não é atractivo para os agricultores e sugerindo uma nova regulamentação. É que é preciso estudá-la e apresentá-la! Era essa a nossa expectativa e a de muitos agricultores do Douro. O Dr. Marques Mendes não o fez e os anúncios não chegam. Assim, o PSD acumula um curriculum pouco abonatório nesta matéria.\nEm 2004, após uma intempérie de granizo em Murça, estando no governo, prometeu dinheiro para todos os atingidos e uma nova legislação sobre seguros. Esqueceu-se, contudo, de um pormenor importante - a dotação orçamental!… Resultado? Não pagou e ficou a dever aos agricultores 338 000 €. Muito feio!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… como fez o Dr. Marques Mendes, afirmando que o seguro não é atractivo para os agricultores e sugerindo uma nova regulamentação. É que é preciso estudá-la e apresentá-la! Era essa a nossa expectativa e a de muitos agricultores do Douro. O Dr. Marques Mendes não o fez e os anúncios não chegam. Assim, o PSD acumula um curriculum pouco abonatório nesta matéria.\nEm 2004, após uma intempérie de granizo em Murça, estando no governo, prometeu dinheiro para todos os atingidos e uma nova legislação sobre seguros. Esqueceu-se, contudo, de um pormenor importante - a dotação orçamental!… Resultado? Não pagou e ficou a dever aos agricultores 338 000 €. Muito feio!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Horário Antunes* (PS): Claro!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Horário Antunes", 
+   "text": "Claro!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Abstenho-me de adjectivar esta atitude! \nE foi muito mais tarde, com o actual Governo socialista, que os agricultores viram a cor do dinheiro.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Abstenho-me de adjectivar esta atitude! \nE foi muito mais tarde, com o actual Governo socialista, que os agricultores viram a cor do dinheiro.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Os senhores só pagaram porque o governo anterior decidiu o que decidiu!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Os senhores só pagaram porque o governo anterior decidiu o que decidiu!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Quanto à nova legislação sobre seguros, ficaram apenas pela promessa e não criaram nada sobre a matéria enquanto governo. Há dias, o Dr. Marques Mendes visitou algumas vinhas atingidas do Douro e repetiu a dose. Já ninguém acredita, Srs. Deputados! \nO que consta do vosso projecto de resolução em matéria de seguros são lugares comuns, é pouco mais do que nada ou é igual a nada, em termos práticos.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Quanto à nova legislação sobre seguros, ficaram apenas pela promessa e não criaram nada sobre a matéria enquanto governo. Há dias, o Dr. Marques Mendes visitou algumas vinhas atingidas do Douro e repetiu a dose. Já ninguém acredita, Srs. Deputados! \nO que consta do vosso projecto de resolução em matéria de seguros são lugares comuns, é pouco mais do que nada ou é igual a nada, em termos práticos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Miguel Freitas* (PS): Muito bem!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Miguel Freitas", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Todos concordamos com a ideia, mas é preciso concretizá-la, e isso o vosso projecto não faz.\nTambém é necessário entender a razão pela qual muitos agricultores do Douro independentes não têm seguro agrícola. Como se sabe, o Estado comparticipa 75% deste seguro e gasta anualmente 20 milhões de euros do Orçamento do Estado. O seguro agrícola com mais aderentes é \nprecisamente o do vinho e, sendo este que pode trazer uma melhoria da situação para os agricultores, tem hoje níveis de satisfação razoáveis.\nTambém os agricultores independentes já tiveram até há bem poucos anos atrás este seguro, feito então pela Casa do Douro. Mas, pelo que dizem muitos agricultores, um processo de indemnização terá ficado muito mal esclarecido e, como tal, parte deles recusam-se a comparticipá-lo.\nMas nesta problemática há também uma atitude pedagógica que tanto nós, no poder, assim como VV.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Todos concordamos com a ideia, mas é preciso concretizá-la, e isso o vosso projecto não faz.\nTambém é necessário entender a razão pela qual muitos agricultores do Douro independentes não têm seguro agrícola. Como se sabe, o Estado comparticipa 75% deste seguro e gasta anualmente 20 milhões de euros do Orçamento do Estado. O seguro agrícola com mais aderentes é \nprecisamente o do vinho e, sendo este que pode trazer uma melhoria da situação para os agricultores, tem hoje níveis de satisfação razoáveis.\nTambém os agricultores independentes já tiveram até há bem poucos anos atrás este seguro, feito então pela Casa do Douro. Mas, pelo que dizem muitos agricultores, um processo de indemnização terá ficado muito mal esclarecido e, como tal, parte deles recusam-se a comparticipá-lo.\nMas nesta problemática há também uma atitude pedagógica que tanto nós, no poder, assim como VV.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Ex.as, na oposição, temos todos de assumir. Mesmo com um modelo de seguro agrícola aquém do desejado, ficou comprovado ao longo destes anos da sua vigência, que, quando feito numa lógica de grupo e de escala, é uma solução razoável ou mesmo satisfatória para o agricultor.\nTemos de promover a pedagogia da contratualização dos seguros de grupo pelas organizações dos agricultores, concretamente pelas adegas cooperativas e, neste caso, talvez pela CVR (Comissão Vitivinícola Regional) actual, o mesmo é dizer o Instituto dos Vinhos do Douro e Porto. E esta pedagogia passa pela vontade das organizações - que, na sua maioria, já adere - e também pela vontade dos associados.\nÉ necessário insistir nesta atitude persuasiva com todos os agentes e cortar com a expectativa de que virá sempre um subsídio de um governo para todos os que tiveram prejuízo, como agora, mais uma vez, o PSD propõe.\nChamo a vossa atenção para o facto de, na região e fora dela, muitas vozes de dirigentes e associados de cooperativas que fazem seguro colectivo dizem que se o Governo vier a dar um subsídio cego e economicamente interessante a todos os atingidos, independentemente da situação, deixarão de fazer o seguro nos próximos anos e exigirão medidas semelhantes nas próximas campanhas, sempre que sejam atingidos por aquele tipo de infortúnio.\nHá, portanto, aqui, uma preocupação de equidade, justiça e pedagogia quanto às boas práticas que todos, mas mesmo todos, responsavelmente, temos que assumir, sob pena de transmitirmos uma imagem pouco séria da política.\nSr. Presidente, Srs. Deputados: O Governo agiu bem e está a agir bem nesta matéria. Face à grave intempérie na noite de 14 para 15 de Janeiro, o Governo actuou de imediato.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): De imediato, não!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "De imediato, não!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: No dia 15, os serviços técnicos estavam no terreno.\nNo dia 16, o Sr. Ministro da Agricultura visitou as zonas mais atingidas pelo granizo, já com um primeiro levantamento feito. No imediato, decidiu conceder aos agricultores, gratuitamente, uma calda de cálcio líquido para a cicatrização das videiras, por forma a permitir a sua regeneração e a mitigar o prejuízo em futuras campanhas, uma vez que o seguro apenas cobre a perda de rendimento da colheita do ano.\nEsta foi uma decisão assertiva, técnica e socialmente.\nNo dia 19, a calda estava em fase intensiva de distribuição, e nos dias 20 e 21 praticamente todos os tratamentos tinham sido efectuados de forma tecnicamente correcta.\nO ruído causado por alguns agentes perturbadores deste processo em nada resultou.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "No dia 15, os serviços técnicos estavam no terreno.\nNo dia 16, o Sr. Ministro da Agricultura visitou as zonas mais atingidas pelo granizo, já com um primeiro levantamento feito. No imediato, decidiu conceder aos agricultores, gratuitamente, uma calda de cálcio líquido para a cicatrização das videiras, por forma a permitir a sua regeneração e a mitigar o prejuízo em futuras campanhas, uma vez que o seguro apenas cobre a perda de rendimento da colheita do ano.\nEsta foi uma decisão assertiva, técnica e socialmente.\nNo dia 19, a calda estava em fase intensiva de distribuição, e nos dias 20 e 21 praticamente todos os tratamentos tinham sido efectuados de forma tecnicamente correcta.\nO ruído causado por alguns agentes perturbadores deste processo em nada resultou.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Diga quem são esses agentes!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Diga quem são esses agentes!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Os serviços técnicos da Direcção Regional de Trás-os-Montes e Alto Douro, os governadores civis, as câmaras e as juntas de freguesia foram firmes e inexcedíveis. A calda foi aplicada em todas as vinhas atingidas pelo granizo, com todo o êxito.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Os serviços técnicos da Direcção Regional de Trás-os-Montes e Alto Douro, os governadores civis, as câmaras e as juntas de freguesia foram firmes e inexcedíveis. A calda foi aplicada em todas as vinhas atingidas pelo granizo, com todo o êxito.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Na segunda-feira, dia 26, uma delegação de Deputados do meu partido, de que fiz parte, percorreu as zonas mais atingidas e pôde confirmar a conclusão dos tratamentos e a já evidente recuperação das plantas.\nOs serviços técnicos da Direcção Regional de Trás-os-Montes e Alto Douro concluem, entretanto, de forma célere e categórica, um levantamento zonal e parcelário, que gradua com rigor a afectação de todas as vinhas atingidas.\nSr. Presidente, Srs. Deputados: Estou em condições de transmitir a esta Assembleia a decisão do Governo em matéria de apoios especiais de minimização dos efeitos da queda de granizo na Região Demarcada do Douro.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Protestos do PSD.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Então, o Governo não veio cá e o Sr.Deputado é que vai anunciar?!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Então, o Governo não veio cá e o Sr.Deputado é que vai anunciar?!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: O Governo considera que o seguro é um instrumento eficaz e suficientemente generoso face a este tipo de aleatoriedades climáticas e tem um grau de adesão significativo por parte dos viticultores, quer a título individual, quer realizado de forma colectiva, pelo que não pode compensar de outra forma os viticultores que decidiram não fazer seguro, sob pena de prejudicar e penalizar aqueles que o fizeram.\nAssim, para além da concessão a título gratuito, já concretizada, de quase 9000 l de cálcio, que permite a recuperação das videiras para campanhas futuras, uma vez que o seguro apenas cobre a perda de rendimento deste ano, o Governo entende autorizar o endosso do benefício aos viticultores que comprovem a perda total ou parcial da colheita, garantindo, assim, o rendimento do agricultor com benefício, medida aliás", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O Governo considera que o seguro é um instrumento eficaz e suficientemente generoso face a este tipo de aleatoriedades climáticas e tem um grau de adesão significativo por parte dos viticultores, quer a título individual, quer realizado de forma colectiva, pelo que não pode compensar de outra forma os viticultores que decidiram não fazer seguro, sob pena de prejudicar e penalizar aqueles que o fizeram.\nAssim, para além da concessão a título gratuito, já concretizada, de quase 9000 l de cálcio, que permite a recuperação das videiras para campanhas futuras, uma vez que o seguro apenas cobre a perda de rendimento deste ano, o Governo entende autorizar o endosso do benefício aos viticultores que comprovem a perda total ou parcial da colheita, garantindo, assim, o rendimento do agricultor com benefício, medida aliás", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "também já aprovada no conselho interprofissional do Instituto dos Vinhos do Douro e Porto.\nO Governo decidiu conceder ainda um apoio de 75% a fundo perdido a quem tiver necessidade de reconstituir o potencial produtivo por força da destruição das vinhas pelas intempéries, a quem queira fazer novas plantações, erguer muros ou recuperar caminhos dentro das explorações.\nEm articulação com o Ministério do Trabalho e da Solidariedade Social, vai conceder apoios às famílias que o solicitem e que tiveram perda total de rendimento.\nO Governo está ainda a estudar outras medidas de carácter social, após um levantamento mais fino a ser efectuado e caso venham a revelar-se necessárias.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Inscreveram-se quatro Srs.Deputados para pedirem esclarecimentos e fui informado que o Sr.Deputado responderá no fim.\nTem a palavra, em primeiro lugar, o Sr. Deputado Ricardo Martins.", 
-   "type": "continuacao"
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Inscreveram-se quatro Srs.Deputados para pedirem esclarecimentos e fui informado que o Sr.Deputado responderá no fim.\nTem a palavra, em primeiro lugar, o Sr. Deputado Ricardo Martins.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Sr. Presidente, Sr. Deputado Jorge Almeida, quero começar por registar a ausência do Governo neste debate, que é bem esclarecedora da importância que este Executivo dedica à questão do Douro.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Sr. Presidente, Sr. Deputado Jorge Almeida, quero começar por registar a ausência do Governo neste debate, que é bem esclarecedora da importância que este Executivo dedica à questão do Douro.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Hermínio Loureiro* (PSD): Exactamente!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Hermínio Loureiro", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Todavia, no final da sua intervenção percebi: é que o Sr.Deputado Jorge Almeida, numa espécie de ventriloquismo, veio fazer de ventríloco do Sr. Ministro da Agricultura, veio cá trazer a mensagem que o Sr. Ministro, pelos seus próprios pés, podia e devia trazer aqui.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Todavia, no final da sua intervenção percebi: é que o Sr.Deputado Jorge Almeida, numa espécie de ventriloquismo, veio fazer de ventríloco do Sr. Ministro da Agricultura, veio cá trazer a mensagem que o Sr. Ministro, pelos seus próprios pés, podia e devia trazer aqui.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Deputado, estou verdadeiramente incrédulo e espantado com a sua intervenção, que denota uma de duas situações: ou o Sr.Deputado Jorge Almeida desconhece em absoluto a realidade \nsocioeconómica da região duriense - o empobrecimento, a desertificação humana, o desemprego, os baixos rendimentos - e custa-me a acreditar nisso, sendo o Sr. Deputado Jorge Almeida um viticultor e residente no coração do Douro vinhateiro, exactamente no Peso da Régua, ou, então, o Sr. Deputado demonstrou, com as suas palavras, uma insensibilidade gritante para com os seus concidadãos.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado, estou verdadeiramente incrédulo e espantado com a sua intervenção, que denota uma de duas situações: ou o Sr.Deputado Jorge Almeida desconhece em absoluto a realidade \nsocioeconómica da região duriense - o empobrecimento, a desertificação humana, o desemprego, os baixos rendimentos - e custa-me a acreditar nisso, sendo o Sr. Deputado Jorge Almeida um viticultor e residente no coração do Douro vinhateiro, exactamente no Peso da Régua, ou, então, o Sr. Deputado demonstrou, com as suas palavras, uma insensibilidade gritante para com os seus concidadãos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Então, o Sr. Deputado Jorge Almeida não sabe que os viticultores durienses estão descapitalizados?! \nEntão, o Sr. Deputado Jorge Almeida não sabe que os viticultores durienses estão sobreendividados e vem aqui falar em linhas de crédito?!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Então, o Sr. Deputado Jorge Almeida não sabe que os viticultores durienses estão descapitalizados?! \nEntão, o Sr. Deputado Jorge Almeida não sabe que os viticultores durienses estão sobreendividados e vem aqui falar em linhas de crédito?!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Hermínio Loureiro* (PSD): Não sabe!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Hermínio Loureiro", 
+   "text": "Não sabe!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Então, o Sr. Deputado Jorge Almeida não sabe que os custos associados à produção têm vindo a aumentar sistematicamente sem que os benefícios daí extraídos os consigam acompanhar?! \nEntão, o Sr. Deputado Jorge Almeida não sabe que, de ano para ano, vai sendo cada vez mais difícil aos pequenos agricultores venderem as suas produções?! \nEntão, o Sr. Deputado Jorge Almeida não sabe que o cenário ainda é mais difícil no futuro face ao poderio dos vinhos do Novo Mundo e ao desregulamento da Organização Comum de Mercado (OCM) dos vinhos, que se prevê venha a acontecer?! \nEntão, o Sr. Deputado, sabendo tudo isto e face a uma situação dramática como a vivida no passado dia 14, que afectou mais de 750 vitivinicultores da Região Demarcada do Douro, mais de 2000 ha de vinha, tendo alguns dos agricultores visto toda a sua produção destruída, a única coisa que tem para lhes dizer é \"paciência\"?! \n\"Paciência, tivessem seguros\"?! \"Azar\"?! \"Tivessem recorrido aos seguros\"?! \"Bem feito?!\"", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Então, o Sr. Deputado Jorge Almeida não sabe que os custos associados à produção têm vindo a aumentar sistematicamente sem que os benefícios daí extraídos os consigam acompanhar?! \nEntão, o Sr. Deputado Jorge Almeida não sabe que, de ano para ano, vai sendo cada vez mais difícil aos pequenos agricultores venderem as suas produções?! \nEntão, o Sr. Deputado Jorge Almeida não sabe que o cenário ainda é mais difícil no futuro face ao poderio dos vinhos do Novo Mundo e ao desregulamento da Organização Comum de Mercado (OCM) dos vinhos, que se prevê venha a acontecer?! \nEntão, o Sr. Deputado, sabendo tudo isto e face a uma situação dramática como a vivida no passado dia 14, que afectou mais de 750 vitivinicultores da Região Demarcada do Douro, mais de 2000 ha de vinha, tendo alguns dos agricultores visto toda a sua produção destruída, a única coisa que tem para lhes dizer é \"paciência\"?! \n\"Paciência, tivessem seguros\"?! \"Azar\"?! \"Tivessem recorrido aos seguros\"?! \"Bem feito?!\"", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Deputado, até o Sr. Ministro foi politicamente mais correcto e mostrou mais sensibilidade!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado, até o Sr. Ministro foi politicamente mais correcto e mostrou mais sensibilidade!", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Ainda para mais o Sr. Deputado remete a resolução da questão para os seguros, os mesmos seguros que o Sr. Ministro da Agricultura - pasme-se! - tem repetido até à exaustão, desde que tomou posse, serem ineficazes, funcionarem mal e precisarem de ser revistos! É preciso ter descaramento, Sr. Deputado! \nJá vamos conhecendo nesta bancada a sua forma de fazer política, que na gíria popular se podia caracterizar como \"mais papista que o Papa\".\nQuando se fala em encerramento de urgências de centros de saúde, o Sr.Deputado diz: \"Só agora? Já devia ter sido feito há mais tempo!\" Fala-se em encerramento de maternidades, até alguns faseados, e o Sr.Deputado diz: \"Não, não! Fechem-se no imediato!\" \nQuando a Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional foi ao Douro e chegou a altura de apresentar o seu relatório, nas conclusões, limitou-se a dizer trivialidades, a ser \"meigo\" com o Governo.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Deputado, o que nunca pensei foi que o Sr. Deputado fosse tão insensível e, por isso, tenho duas ou três questões para lhe colocar.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado, o que nunca pensei foi que o Sr. Deputado fosse tão insensível e, por isso, tenho duas ou três questões para lhe colocar.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Tem de concluir, Sr. Deputado.", 
-   "type": "continuacao"
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Tem de concluir, Sr. Deputado.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "text": "O Orador: Concluo já, Sr. Presidente.\nNão considera o Sr. Deputado que a situação vivida no Douro, com uma forte queda de granizo, é excepcional, pelo que merece também da parte do Estado uma atitude de carácter excepcional? \nNão considera o Sr. Deputado que o Governo deve ter para com estas 750 famílias uma atitude solidária, traduzida em apoios financeiros, para ajudar a minorar os graves prejuízos financeiros? \nNão considera o Sr. Deputado que se deve apoiar aqueles agricultores que, tendo recorrido à banca para fazerem novas plantações ou para modernizarem as suas vinhas, não têm agora, face à perda da sua produção, como cumprir as suas responsabilidades? \nSr. Deputado, queria que o Sr. Deputado aqui, olhos nos olhos, dissesse aos viticultores durienses que eles não são, como se extrai das suas palavras, merecedores, que não são credores de uma ajuda do Estado.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Concluo já, Sr. Presidente.\nNão considera o Sr. Deputado que a situação vivida no Douro, com uma forte queda de granizo, é excepcional, pelo que merece também da parte do Estado uma atitude de carácter excepcional? \nNão considera o Sr. Deputado que o Governo deve ter para com estas 750 famílias uma atitude solidária, traduzida em apoios financeiros, para ajudar a minorar os graves prejuízos financeiros? \nNão considera o Sr. Deputado que se deve apoiar aqueles agricultores que, tendo recorrido à banca para fazerem novas plantações ou para modernizarem as suas vinhas, não têm agora, face à perda da sua produção, como cumprir as suas responsabilidades? \nSr. Deputado, queria que o Sr. Deputado aqui, olhos nos olhos, dissesse aos viticultores durienses que eles não são, como se extrai das suas palavras, merecedores, que não são credores de uma ajuda do Estado.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Para pedir esclarecimentos, tem a palavra o Sr. Deputado Abel Baptista.", 
-   "type": "continuacao"
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Abel Baptista.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Abel Baptista* (CDS-PP): Sr. Presidente, Sr. Deputado Jorge Almeida, neste caso, talvez fosse conveniente dizer, utilizando as suas palavras de há dias quanto à baixa dos preços dos medicamentos, que alguns dos agricultores tiveram perdas de produção na ordem dos 200%.\nOu seja, usando as suas palavras de há dias para referir a baixa no preço dos medicamentos, talvez neste caso também haja produtores que tenham tido percas superiores a esse valor.\nMas antes de lhe colocar a questão, Sr. Deputado, gostaria de perguntar-lhe se não lhe parece muito estranho que não esteja ninguém na bancada do Governo. Aliás, o Ministro da Agricultura já nos tem vindo a habituar à sua ausência, quer nas questões que lhe dizem directamente respeito, quando questionado aqui no Parlamento, quer no sector agrícola.\nDou um exemplo: nesta catástrofe da queda de granizo no Douro, aquilo que o Sr. Ministro conseguiu dizer de mais importante aos agricultores foi que \"Meus amigos, vocês têm é de ter um seguro, porque estas coisas acontecem e, portanto, há que ter um seguro\". Mas depois reconhece uma coisa extraordinariamente interessante, quando diz: \"Até reconheço que os seguros são caros para um pequeno agricultor que tem um hectare de vinha; para esse seguro é caro\".\nPois é, Sr. Deputado, mas já agora gostava que dissesse à Câmara, pela sua voz, qual é o número total de vitivinicultores do Douro que têm propriedades com dimensões na ordem de um hectare. Penso que era interessante e importante sabermos qual o número, para podermos perceber que número de hectares é considerado razoável para os seguros agrícolas.\nMais, Sr. Deputado: achei extraordinário que V. Ex.ª tenha dito que já estão a ser tomadas medidas. E digo-lhe porquê. Repare, no dia 15 aconteceu a catástrofe; no dia 16 foi pedido ao Sr. Ministro que disponibilizasse o cálcio para aplicar na vinha e o Sr. Ministro disse: \n\"Vou pensar e vamos analisar\". Respondeu no dia 19, em Bruxelas, dizendo que ia disponibilizar o cálcio, mas que o cálcio nunca estaria disponível antes de dia 21. Ou seja, uma substância que teria de ser aplicada num prazo de 48 horas após a catástrofe, só passados seis dias é que seria disponibilizada, na melhor das hipóteses. Ou seja, o efeito prático, neste caso, seria zero.\nPortanto, o que o Sr. Ministro fez vem a reboque de uma série de queixas. Aliás, já estamos habituados, pois ainda há dias apresentámos uma proposta de resolução, pedindo ao Governo para disponibilizar um", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Abel Baptista", 
+   "text": "Sr. Presidente, Sr. Deputado Jorge Almeida, neste caso, talvez fosse conveniente dizer, utilizando as suas palavras de há dias quanto à baixa dos preços dos medicamentos, que alguns dos agricultores tiveram perdas de produção na ordem dos 200%.\nOu seja, usando as suas palavras de há dias para referir a baixa no preço dos medicamentos, talvez neste caso também haja produtores que tenham tido percas superiores a esse valor.\nMas antes de lhe colocar a questão, Sr. Deputado, gostaria de perguntar-lhe se não lhe parece muito estranho que não esteja ninguém na bancada do Governo. Aliás, o Ministro da Agricultura já nos tem vindo a habituar à sua ausência, quer nas questões que lhe dizem directamente respeito, quando questionado aqui no Parlamento, quer no sector agrícola.\nDou um exemplo: nesta catástrofe da queda de granizo no Douro, aquilo que o Sr. Ministro conseguiu dizer de mais importante aos agricultores foi que \"Meus amigos, vocês têm é de ter um seguro, porque estas coisas acontecem e, portanto, há que ter um seguro\". Mas depois reconhece uma coisa extraordinariamente interessante, quando diz: \"Até reconheço que os seguros são caros para um pequeno agricultor que tem um hectare de vinha; para esse seguro é caro\".\nPois é, Sr. Deputado, mas já agora gostava que dissesse à Câmara, pela sua voz, qual é o número total de vitivinicultores do Douro que têm propriedades com dimensões na ordem de um hectare. Penso que era interessante e importante sabermos qual o número, para podermos perceber que número de hectares é considerado razoável para os seguros agrícolas.\nMais, Sr. Deputado: achei extraordinário que V. Ex.ª tenha dito que já estão a ser tomadas medidas. E digo-lhe porquê. Repare, no dia 15 aconteceu a catástrofe; no dia 16 foi pedido ao Sr. Ministro que disponibilizasse o cálcio para aplicar na vinha e o Sr. Ministro disse: \n\"Vou pensar e vamos analisar\". Respondeu no dia 19, em Bruxelas, dizendo que ia disponibilizar o cálcio, mas que o cálcio nunca estaria disponível antes de dia 21. Ou seja, uma substância que teria de ser aplicada num prazo de 48 horas após a catástrofe, só passados seis dias é que seria disponibilizada, na melhor das hipóteses. Ou seja, o efeito prático, neste caso, seria zero.\nPortanto, o que o Sr. Ministro fez vem a reboque de uma série de queixas. Aliás, já estamos habituados, pois ainda há dias apresentámos uma proposta de resolução, pedindo ao Governo para disponibilizar um crédito para os pescadores e, da vossa bancada, foi-nos dito que isso não era necessário, mas hoje, afinal, passado algum tempo, o Sr.Ministro anunciou que vai disponibilizar esse crédito. Saudamos que isso aconteça, no entanto, quero sublinhar que o Sr. Ministro não deveria ter uma atitude reactiva mas, sim, uma atitude pró-activa para com os agricultores.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "crédito para os pescadores e, da vossa bancada, foi-nos dito que isso não era necessário, mas hoje, afinal, passado algum tempo, o Sr.Ministro anunciou que vai disponibilizar esse crédito. Saudamos que isso aconteça, no entanto, quero sublinhar que o Sr. Ministro não deveria ter uma atitude reactiva mas, sim, uma atitude pró-activa para com os agricultores.", 
-   "type": "continuacao"
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, o tempo de que dispunha terminou.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Sr. Deputado, o tempo de que dispunha terminou.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Vou terminar, Sr. Presidente, dizendo que aquilo de que os agricultores precisam não é de medidas de apoio social, mas de medidas de apoio à actividade e à rendibilidade da economia agrícola.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Vou terminar, Sr. Presidente, dizendo que aquilo de que os agricultores precisam não é de medidas de apoio social, mas de medidas de apoio à actividade e à rendibilidade da economia agrícola.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "O Orador", 
    "text": "Aplausos do CDS-PP", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Para pedir esclarecimentos, tem a palavra o Sr. Deputado Agostinho Lopes.", 
-   "type": "continuacao"
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Agostinho Lopes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Agostinho Lopes* (PCP): Sr. Presidente, Sr. Deputado Jorge Almeida, a sua transformação em porta-voz do Governo nesta Assembleia mostra até que ponto vai a confusão, no seu grupo parlamentar, entre as funções do Governo e as funções da Assembleia da República e relativamente às competências e atribuições de cada uma destas instituições.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "Sr. Presidente, Sr. Deputado Jorge Almeida, a sua transformação em porta-voz do Governo nesta Assembleia mostra até que ponto vai a confusão, no seu grupo parlamentar, entre as funções do Governo e as funções da Assembleia da República e relativamente às competências e atribuições de cada uma destas instituições.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: O Sr. Ministro da Agricultura, ou alguém por ele, deveria estar nesta Câmara a tratar deste debate. Mas uma vez que o Sr.Ministro está ausente, e como o Sr. Deputado assumiu as funções de porta-voz do Governo, gostaria de colocar-lhe a seguinte questão: a Casa do Douro continua a ser - enquanto este Governo, na senda dos anteriores governos, não der cabo dela, pois está certamente a prosseguir esse esforço com grande afinco - a entidade representativa de mais de 30 000 vitivinicultores durienses. Portanto, o Governo não pode fazer de conta que a Casa do Douro não existe.\nO Ministro vai à região e esquece-se de convocar e informar a Casa do Douro. E faz pior: a Casa do Douro anuncia uma medida para distribuição do cálcio a preço simbólico e o Governo faz um curto-circuito da medida, anunciando uma distribuição de cálcio através das juntas e das câmaras municipais.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O Sr. Ministro da Agricultura, ou alguém por ele, deveria estar nesta Câmara a tratar deste debate. Mas uma vez que o Sr.Ministro está ausente, e como o Sr. Deputado assumiu as funções de porta-voz do Governo, gostaria de colocar-lhe a seguinte questão: a Casa do Douro continua a ser - enquanto este Governo, na senda dos anteriores governos, não der cabo dela, pois está certamente a prosseguir esse esforço com grande afinco - a entidade representativa de mais de 30 000 vitivinicultores durienses. Portanto, o Governo não pode fazer de conta que a Casa do Douro não existe.\nO Ministro vai à região e esquece-se de convocar e informar a Casa do Douro. E faz pior: a Casa do Douro anuncia uma medida para distribuição do cálcio a preço simbólico e o Governo faz um curto-circuito da medida, anunciando uma distribuição de cálcio através das juntas e das câmaras municipais.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Uma vergonha!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Uma vergonha!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: O que é isto, Sr. Deputado Jorge Almeida? É o apoio ao associativismo agrícola do Governo PS?! \nO Grupo Parlamentar do Partido Socialista pode não gostar da direcção da Casa do Douro, do seu presidente ou da própria Casa do Douro, mas não pode transportar esse desamor para a relação institucional e política com esta instituição, que é a única que, de facto, representa a vitivinicultura duriense até hoje. Não é aceitável tal comportamento!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O que é isto, Sr. Deputado Jorge Almeida? É o apoio ao associativismo agrícola do Governo PS?! \nO Grupo Parlamentar do Partido Socialista pode não gostar da direcção da Casa do Douro, do seu presidente ou da própria Casa do Douro, mas não pode transportar esse desamor para a relação institucional e política com esta instituição, que é a única que, de facto, representa a vitivinicultura duriense até hoje. Não é aceitável tal comportamento!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Além disso, já que o Sr. Deputado assumiu as funções do Governo nesta Câmara, gostaria de saber por que é que não foram utilizados os meios aéreos no processo de cicatrização das videiras.\nPor que razão não foi admitida a forma tradicional, que se usa neste tipo de situação, de permitir o crédito de litragem, tendo-se ficado exclusivamente pelo endosso da litragem na actual campanha? \nJá agora, já que está aqui o senhor e não o Governo, gostaria de saber o seguinte: na audição que aqui realizámos com o Sr. Ministro da Agricultura, no passado dia 14 de Março, o Sr. Secretário de Estado disse-nos que bastava que a Casa do Douro fizesse chegar uma carta que no dia seguinte teria lá os 850 000 euros que o Instituto dos Vinhos do Douro e Porto lhe deve.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Além disso, já que o Sr. Deputado assumiu as funções do Governo nesta Câmara, gostaria de saber por que é que não foram utilizados os meios aéreos no processo de cicatrização das videiras.\nPor que razão não foi admitida a forma tradicional, que se usa neste tipo de situação, de permitir o crédito de litragem, tendo-se ficado exclusivamente pelo endosso da litragem na actual campanha? \nJá agora, já que está aqui o senhor e não o Governo, gostaria de saber o seguinte: na audição que aqui realizámos com o Sr. Ministro da Agricultura, no passado dia 14 de Março, o Sr. Secretário de Estado disse-nos que bastava que a Casa do Douro fizesse chegar uma carta que no dia seguinte teria lá os 850 000 euros que o Instituto dos Vinhos do Douro e Porto lhe deve.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): E o Sr. Secretário de Estado repetiu isso três vezes!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "E o Sr. Secretário de Estado repetiu isso três vezes!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: A minha pergunta é: por que é que isso não aconteceu? Por que é que, até ao momento, o Instituto dos Vinhos do Douro e Porto continua a dever 425 000 euros relativos aos serviços prestados em 2005?", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "A minha pergunta é: por que é que isso não aconteceu? Por que é que, até ao momento, o Instituto dos Vinhos do Douro e Porto continua a dever 425 000 euros relativos aos serviços prestados em 2005?", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "A Sr.ª Heloísa Apolónia (Os Verdes): Muito bem!", 
-   "type": "continuacao"
+   "text": "Muito bem!", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Para pedir esclarecimentos, tem a palavra o Sr. Deputado José Cesário.", 
-   "type": "continuacao"
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado José Cesário.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Cesário* (PSD): Sr. Presidente, Sr. Deputado Jorge Almeida, em democracia parlamentar já conhecia, obviamente, a figura do Deputado legislador e a figura do Deputado fiscalizador da acção do governo, mas não conhecia a figura do Deputado porta-voz do governo. É nova, Sr.Deputado!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Cesário", 
+   "text": "Sr. Presidente, Sr. Deputado Jorge Almeida, em democracia parlamentar já conhecia, obviamente, a figura do Deputado legislador e a figura do Deputado fiscalizador da acção do governo, mas não conhecia a figura do Deputado porta-voz do governo. É nova, Sr.Deputado!", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "José Cesário", 
    "text": "E é bom \"sabermos com que linhas nos cosemos\"! A não ser que tenha sido aqui anunciada hoje uma possível remodelação próxima do Governo e que o Sr. Deputado Jorge Almeida esteja prestes a assumir funções a esse nível.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "José Cesário", 
    "text": "Risos do PSD.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "José Cesário", 
    "text": "Mas deixe-me que lhe diga, Sr. Deputado, que foi um porta-voz muito fraco. Fez-me lembrar aqueles jogadores de futebol que querem obviamente ganhar o jogo mas que acertam no poste, acertam no árbitro, mandam a bola para as bancadas e terminam a marcar o golo na própria baliza. Porque, no fundo, aquilo que o Sr. Deputado aqui veio dizer foi que o Governo não decidiu, o Governo não foi capaz de anunciar nada e, portanto, o Sr. Deputado sentiu-se no dever de anunciar. Ou seja, o Sr.Deputado veio pôr directamente em causa (como nós, aliás!) a acção, por omissão, do Governo.\nSr. Deputado, o que está aqui em causa é se somos ou não capazes de ser solidários para com aqueles que precisam.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "José Cesário", 
    "text": "A Sr.ª Rosário Cardoso Águas (PSD). - Muito bem!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Tento recordar-me do Partido Socialista, o partido do coração, o partido que queria governar para as pessoas, conjuntamente com as pessoas, que queria ir ao encontro dos mais necessitados.\nSr. Deputado, não queremos demagogia com esta questão. Repito-lhe, o que queremos é uma prova clara de solidariedade para com aqueles que necessitam. Queremos soluções concretas! Deixe-se lá da calda do cálcio por reacção, deixe-se lá de mais linhas de crédito, o que é preciso é, realmente, ir ao encontro das necessidades concretas do Douro, repor a capacidade produtiva daqueles agricultores, sermos capazes de lhes dar capacidade para continuarem a defender paisagistica e ambientalmente o Douro, desenvolvendo-o realmente.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Tento recordar-me do Partido Socialista, o partido do coração, o partido que queria governar para as pessoas, conjuntamente com as pessoas, que queria ir ao encontro dos mais necessitados.\nSr. Deputado, não queremos demagogia com esta questão. Repito-lhe, o que queremos é uma prova clara de solidariedade para com aqueles que necessitam. Queremos soluções concretas! Deixe-se lá da calda do cálcio por reacção, deixe-se lá de mais linhas de crédito, o que é preciso é, realmente, ir ao encontro das necessidades concretas do Douro, repor a capacidade produtiva daqueles agricultores, sermos capazes de lhes dar capacidade para continuarem a defender paisagistica e ambientalmente o Douro, desenvolvendo-o realmente.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: E isso os senhores não são capazes de fazer, nem o Governo, nem o Partido Socialista! \nMas, Sr. Deputado, voltando atrás, se o seu problema - e foi a grande crítica que lhe ouvi relativamente ao nosso projecto de resolução - é a não inclusão de uma freguesia do concelho de Carrazeda de Ansiães, diga aqui claramente, se, porventura, incluirmos essa freguesia, se o Partido Socialista o vota favoravelmente. Diga lá, Sr. Deputado! Seja concreto! Seja claro!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "E isso os senhores não são capazes de fazer, nem o Governo, nem o Partido Socialista! \nMas, Sr. Deputado, voltando atrás, se o seu problema - e foi a grande crítica que lhe ouvi relativamente ao nosso projecto de resolução - é a não inclusão de uma freguesia do concelho de Carrazeda de Ansiães, diga aqui claramente, se, porventura, incluirmos essa freguesia, se o Partido Socialista o vota favoravelmente. Diga lá, Sr. Deputado! Seja concreto! Seja claro!", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Entretanto, assumiu a presidência o Sr. Vice-Presidente António Filipe.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Jorge Almeida.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Jorge Almeida.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Almeida* (PS): Sr. Presidente, Sr. Deputado Ricardo Martins, naturalmente que, face à extrema dificuldade em confrontar as suas ideias com aquilo que resultou da minha intervenção,…", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Jorge Almeida", 
+   "text": "Sr. Presidente, Sr. Deputado Ricardo Martins, naturalmente que, face à extrema dificuldade em confrontar as suas ideias com aquilo que resultou da minha intervenção,…", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Ricardo Almeida* (PSD): Não disse nada!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Almeida", 
+   "text": "Não disse nada!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … teve necessidade rebuscar questões processuais e adjectivá-las.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… teve necessidade rebuscar questões processuais e adjectivá-las.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Isso é conversa!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Isso é conversa!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Deputado, aquilo que transmiti na minha intervenção - e gostaria que, de uma forma séria, frontal e clara,…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado, aquilo que transmiti na minha intervenção - e gostaria que, de uma forma séria, frontal e clara,…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): De lá de cima não o fez!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "De lá de cima não o fez!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … nos tentássemos entender - foi que gostaria que o Sr.Deputado Ricardo Martins, bem como, naturalmente, todos os Srs.Deputados que, dignamente, colocaram questões, se pronunciassem, efectivamente, sobre as medidas…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… nos tentássemos entender - foi que gostaria que o Sr.Deputado Ricardo Martins, bem como, naturalmente, todos os Srs.Deputados que, dignamente, colocaram questões, se pronunciassem, efectivamente, sobre as medidas…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Os senhores tomam medidas?!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Os senhores tomam medidas?!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … e não andassem, com generalidades e abstracções, a baralhar, a confundir e a rebuscar na questão da não presença do Sr.Ministro, escondendo-se atrás dessa figura.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… e não andassem, com generalidades e abstracções, a baralhar, a confundir e a rebuscar na questão da não presença do Sr.Ministro, escondendo-se atrás dessa figura.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Nós é que apresentámos o projecto de resolução!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Nós é que apresentámos o projecto de resolução!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Deputado Ricardo Martins, ouça com frontalidade, mas ouça mesmo: o problema do Douro, Sr. Deputado, é uma problema estrutural, complicado, que sei que é sentido por mim e pelo senhor. E, por ser estrutural, nós, na Assembleia da República, propusemos, em tempo oportuno, uma visita a esta mesma região.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado Ricardo Martins, ouça com frontalidade, mas ouça mesmo: o problema do Douro, Sr. Deputado, é uma problema estrutural, complicado, que sei que é sentido por mim e pelo senhor. E, por ser estrutural, nós, na Assembleia da República, propusemos, em tempo oportuno, uma visita a esta mesma região.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): A Sr.ª Deputada Rosário Cardoso Águas propôs o mesmo!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "A Sr.ª Deputada Rosário Cardoso Águas propôs o mesmo!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Deputado, é bom lembrar - e aproveito para o fazer - que, quando fizemos a proposta de ir ao Douro, a Sr.ª Deputada Rosário Cardoso Águas fez a proposta de ir a Boticas e, pelo facto de a sua proposta ter sido rejeitada, todo o processo de organização da Comissão e subsequente análise dos textos que resultaram das audições foi perturbado.\nDevo dizer ao Sr. Deputado, que transmite esse sentimento de preocupação pelo Douro, que foi pena que, nas quatro audições que foram feitas da região de Trás-os-Montes e Alto Douro, apenas tenha comparecido em Peso da Régua, de uma forma fugidia. Qual foi, então, a sua preocupação com região? O Sr. Deputado nem sequer esteve presente!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado, é bom lembrar - e aproveito para o fazer - que, quando fizemos a proposta de ir ao Douro, a Sr.ª Deputada Rosário Cardoso Águas fez a proposta de ir a Boticas e, pelo facto de a sua proposta ter sido rejeitada, todo o processo de organização da Comissão e subsequente análise dos textos que resultaram das audições foi perturbado.\nDevo dizer ao Sr. Deputado, que transmite esse sentimento de preocupação pelo Douro, que foi pena que, nas quatro audições que foram feitas da região de Trás-os-Montes e Alto Douro, apenas tenha comparecido em Peso da Régua, de uma forma fugidia. Qual foi, então, a sua preocupação com região? O Sr. Deputado nem sequer esteve presente!", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Protestos do PSD.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Estive no distrito de Vila Real, não faço parte dos outros!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Estive no distrito de Vila Real, não faço parte dos outros!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: O relatório que resultou dessas audições é essencialmente um relatório que vai às questões, que vai ao problema estrutural do Douro, Sr. Deputado! \nSrs. Deputados, o que foi aqui dito não são trivialidades.\nNaturalmente, não foram indicações que vieram ao encontro daquilo que era desejado, àquele modelo generalista de concessão de subsídios indiscriminados, de forma cega, que os senhores propunham. Não! \nFundamentalmente, tratou-se de percorrer este processo e objectivá-lo, para uma análise fina, muito fina, do ponto de vista técnico e do ponto de vista social, que vocês, naturalmente, não estão interessados em fazer.\nDevo dizer-lhes que a grande maioria dos prejuízos se situa na casa dos 20% a 30% e não da forma que os senhores apresentaram aqui, com uma ideia de que terão sido arrasados cerca de 1700 ha de vinha. Não é assim! \nA análise já é fina, mas vai ser ainda mais fina, para sermos justos na atribuição das ajudas.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O relatório que resultou dessas audições é essencialmente um relatório que vai às questões, que vai ao problema estrutural do Douro, Sr. Deputado! \nSrs. Deputados, o que foi aqui dito não são trivialidades.\nNaturalmente, não foram indicações que vieram ao encontro daquilo que era desejado, àquele modelo generalista de concessão de subsídios indiscriminados, de forma cega, que os senhores propunham. Não! \nFundamentalmente, tratou-se de percorrer este processo e objectivá-lo, para uma análise fina, muito fina, do ponto de vista técnico e do ponto de vista social, que vocês, naturalmente, não estão interessados em fazer.\nDevo dizer-lhes que a grande maioria dos prejuízos se situa na casa dos 20% a 30% e não da forma que os senhores apresentaram aqui, com uma ideia de que terão sido arrasados cerca de 1700 ha de vinha. Não é assim! \nA análise já é fina, mas vai ser ainda mais fina, para sermos justos na atribuição das ajudas.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Deputado Abel Baptista, muito obrigado pela sua questão.\nRespondo directamente à sua sugestão dizendo que, no Douro, há aproximadamente 20 000 viticultores com 1 ha, mas devo dizer-lhe também que, felizmente, grande parte desses agricultores estão organizados em cooperativas, que têm seguro colectivo de colheitas. Na área atingida, todas as cooperativas têm seguro de colheitas, à excepção de S. João da Pesqueira e uma das cooperativas de Alijó. Em todos os outros concelhos, os pequeninos agricultores que estão organizados nessas cooperativas têm, felizmente, seguro colectivo de colheitas.\nSr. Deputado Agostinho Lopes, eu não queria trazer para aqui, naturalmente, as questões sobre a Casa do Douro, que o senhor, repetidamente, transporta para a comissão e, quando pode, para o Plenário,…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado Abel Baptista, muito obrigado pela sua questão.\nRespondo directamente à sua sugestão dizendo que, no Douro, há aproximadamente 20 000 viticultores com 1 ha, mas devo dizer-lhe também que, felizmente, grande parte desses agricultores estão organizados em cooperativas, que têm seguro colectivo de colheitas. Na área atingida, todas as cooperativas têm seguro de colheitas, à excepção de S. João da Pesqueira e uma das cooperativas de Alijó. Em todos os outros concelhos, os pequeninos agricultores que estão organizados nessas cooperativas têm, felizmente, seguro colectivo de colheitas.\nSr. Deputado Agostinho Lopes, eu não queria trazer para aqui, naturalmente, as questões sobre a Casa do Douro, que o senhor, repetidamente, transporta para a comissão e, quando pode, para o Plenário,…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Agostinho Lopes* (PCP): Isso é porque não lhe interessam!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "Isso é porque não lhe interessam!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … mas devo dizer-lhe que sobre essa matéria - e o senhor vai compreender - estou muito à vontade,…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… mas devo dizer-lhe que sobre essa matéria - e o senhor vai compreender - estou muito à vontade,…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Agostinho Lopes* (PCP): Está, está!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Agostinho Lopes", 
+   "text": "Está, está!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … naturalmente, porque pertenço aos órgãos sociais daquela Casa, mas do ponto de vista ético não é correcto trazer para aqui matérias que são complexas e difíceis.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… naturalmente, porque pertenço aos órgãos sociais daquela Casa, mas do ponto de vista ético não é correcto trazer para aqui matérias que são complexas e difíceis.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente* (António Filipe): Sr. Deputado, peço-lhe que conclua, porque já ultrapassou o seu tempo.", 
-   "type": "continuacao"
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, peço-lhe que conclua, porque já ultrapassou o seu tempo.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "text": "O Orador: Vou já concluir, Sr. Presidente.\nDevo dizer-lhe, resumidamente, Sr. Deputado, que os protocolos estão a ser cumpridos. A sua informação continua a ser marginal, porque veiculada por um canal que não é o mais adequado. Informe-se, não fique pela \"rama\", contacte com as pessoas, contacte com os viticultores, contacte com os sócios da Casa do Douro.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Vou já concluir, Sr. Presidente.\nDevo dizer-lhe, resumidamente, Sr. Deputado, que os protocolos estão a ser cumpridos. A sua informação continua a ser marginal, porque veiculada por um canal que não é o mais adequado. Informe-se, não fique pela \"rama\", contacte com as pessoas, contacte com os viticultores, contacte com os sócios da Casa do Douro.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Grande lata!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Grande lata!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Deputado José Cesário, muito obrigado pela sua questão.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado José Cesário, muito obrigado pela sua questão.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente* (António Filipe): Sr. Deputado, tem mesmo de concluir.", 
-   "type": "continuacao"
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, tem mesmo de concluir.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "text": "O Orador: Concluo imediatamente, Sr. Presidente.\nO Sr. Deputado, mais uma vez, confundiu um pouco a questão da forma com a questão do conteúdo. E, para finalizar, devo dizer-lhe o seguinte: \nSr. Deputado José Cesário, deixe-se de demagogias. O senhor não contestou nenhuma das medidas que sugeri na minha intervenção e que resultam do trabalho de campo que foi pelos técnicos e pelos políticos, entre os quais eu, e das sugestões e das conversas de trabalho com o Sr. Ministro da Agricultura, do Desenvolvimento Rural e das Pescas. O senhor não contestou nenhuma das medidas, apenas acabou por perguntar, ficando só pela \"rama\" e de uma forma generalista, se votávamos a favor do vosso projecto de resolução.\nO vosso projecto de resolução é generalista, incompleto, disforme, não tem conteúdo nem substância e é impreciso. Nunca poderíamos, pois, votar a favor de um projecto de resolução como este.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Concluo imediatamente, Sr. Presidente.\nO Sr. Deputado, mais uma vez, confundiu um pouco a questão da forma com a questão do conteúdo. E, para finalizar, devo dizer-lhe o seguinte: \nSr. Deputado José Cesário, deixe-se de demagogias. O senhor não contestou nenhuma das medidas que sugeri na minha intervenção e que resultam do trabalho de campo que foi pelos técnicos e pelos políticos, entre os quais eu, e das sugestões e das conversas de trabalho com o Sr. Ministro da Agricultura, do Desenvolvimento Rural e das Pescas. O senhor não contestou nenhuma das medidas, apenas acabou por perguntar, ficando só pela \"rama\" e de uma forma generalista, se votávamos a favor do vosso projecto de resolução.\nO vosso projecto de resolução é generalista, incompleto, disforme, não tem conteúdo nem substância e é impreciso. Nunca poderíamos, pois, votar a favor de um projecto de resolução como este.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "A Sr.ª Rosário Cardoso Águas (PSD): Sr. Presidente, peço a palavra.", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente* (António Filipe): Para que efeito, Sr.ª Deputada?", 
-   "type": "continuacao"
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Para que efeito, Sr.ª Deputada?", 
+   "type": "presidente"
   }, 
   {
-   "text": "A Sr.ª Rosário Cardoso Águas (PSD): Sr. Presidente, gostava que a Mesa me autorizasse a prestar um ligeiro esclarecimento à Assembleia sobre a anterior intervenção do Sr. Deputado Jorge Almeida, pelo facto de ter posto em causa…", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, gostava que a Mesa me autorizasse a prestar um ligeiro esclarecimento à Assembleia sobre a anterior intervenção do Sr. Deputado Jorge Almeida, pelo facto de ter posto em causa…", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente* (António Filipe): Sr.ª Deputada, a única forma de o fazer é através de uma interpelação à Mesa. Mas espero que seja uma verdadeira interpelação.\nTem a palavra, Sr.ª Deputada.", 
-   "type": "continuacao"
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, a única forma de o fazer é através de uma interpelação à Mesa. Mas espero que seja uma verdadeira interpelação.\nTem a palavra, Sr.ª Deputada.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Rosário Cardoso Águas (PSD): Julgo que sim e o Sr. Presidente poderá comprová-lo.\nQuero esclarecer este Plenário que o Sr. Deputado Jorge Almeida disse aqui que eu, enquanto membro da Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional e Deputada eleita pelo Circulo Eleitoral de Vila Real, teria proposto que esta deslocação que efectuámos se reduzisse ao concelho de Boticas. Isto é falso.", 
-   "type": "continuacao"
+   "text": "Julgo que sim e o Sr. Presidente poderá comprová-lo.\nQuero esclarecer este Plenário que o Sr. Deputado Jorge Almeida disse aqui que eu, enquanto membro da Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional e Deputada eleita pelo Circulo Eleitoral de Vila Real, teria proposto que esta deslocação que efectuámos se reduzisse ao concelho de Boticas. Isto é falso.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Jorge Almeida* (PS): Falso!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Jorge Almeida", 
+   "text": "Falso!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Oradora: O que aconteceu - é a verdade - foi que o Grupo \nParlamentar do PSD teve as maiores dificuldades em fazer aprovar na comissão que esta visita abarcasse a região de Trás-os-Montes e o Alto Douro. Quem queria reduzir esta visita ao Douro era o Sr. Deputado Jorge Almeida e o que aconteceu - e isso para nós hoje é \nincompreensível - foi que ele, na primeira oportunidade que teve para defender os interesses dos agricultores do Douro, tenha vindo aqui a esta Assembleia com um discurso inacreditável, que eu já terei oportunidade de comentar.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "O que aconteceu - é a verdade - foi que o Grupo Parlamentar do PSD teve as maiores dificuldades em fazer aprovar na comissão que esta visita abarcasse a região de Trás-os-Montes e o Alto Douro. Quem queria reduzir esta visita ao Douro era o Sr. Deputado Jorge Almeida e o que aconteceu - e isso para nós hoje é \nincompreensível - foi que ele, na primeira oportunidade que teve para defender os interesses dos agricultores do Douro, tenha vindo aqui a esta Assembleia com um discurso inacreditável, que eu já terei oportunidade de comentar.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente* (António Filipe): Sr.ª Deputada, está prestado o esclarecimento.", 
-   "type": "continuacao"
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, está prestado o esclarecimento.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Jorge Almeida* (PS): Sr. Presidente, peço a palavra para interpelar a Mesa nos mesmos termos.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Jorge Almeida", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa nos mesmos termos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente* (António Filipe): Tem a palavra, mas peço que seja breve e se dirija à Mesa.", 
-   "type": "continuacao"
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, mas peço que seja breve e se dirija à Mesa.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Almeida* (PS): Sr. Presidente, nos mesmos termos e muito rapidamente, só pretendo afirmar, reafirmar e sublinhar que a proposta da Sr.ª Deputada Rosário Águas foi no sentido de uma visita da Comissão a Boticas…", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Jorge Almeida", 
+   "text": "Sr. Presidente, nos mesmos termos e muito rapidamente, só pretendo afirmar, reafirmar e sublinhar que a proposta da Sr.ª Deputada Rosário Águas foi no sentido de uma visita da Comissão a Boticas…", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PSD: É mentira! Está escrito!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "É mentira! Está escrito!", 
+   "type": "vozes_aparte"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Jorge Almeida", 
    "text": "… e que o processo…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente* (António Filipe): Sr. Deputado, está prestado o esclarecimento. Não podemos eternizar este debate, há Deputados inscritos e temos de respeitar as inscrições.\nPara uma intervenção, tem a palavra a Sr.ª Deputada Alda Macedo.", 
-   "type": "continuacao"
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, está prestado o esclarecimento. Não podemos eternizar este debate, há Deputados inscritos e temos de respeitar as inscrições.\nPara uma intervenção, tem a palavra a Sr.ª Deputada Alda Macedo.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Alda Macedo (BE): Sr. Presidente, Sr.as e Srs. Deputados: \nPermitam-me que recentre a vossa atenção no projecto de resolução que estamos a discutir. Espero que a Comissão de Assuntos Económicos consiga resolver as miudezas dos seus conflitos no seu espaço próprio.", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: \nPermitam-me que recentre a vossa atenção no projecto de resolução que estamos a discutir. Espero que a Comissão de Assuntos Económicos consiga resolver as miudezas dos seus conflitos no seu espaço próprio.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Luís Fazenda* (BE): Muito bem!", 
-   "type": "continuacao"
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Oradora: Voltando, então, ao centro do nosso debate - e sem querer \"matar\" o mensageiro do Governo, porque não é boa prática matar mensageiros - julgo não ser razoável supor que a demissão do PSD, no passado, no que toca à necessidade de adoptar medidas estruturais de intervenção em relação a esta área da produção vinícola serve para ilibar este Governo de encontrar medidas políticas coerentes para resolver esses mesmos problemas.\nOs problemas com que actualmente se confrontam os produtores, particularmente os da Região do Douro, arrastam-se há muitos anos, há anos demais para serem assacáveis à responsabilidade de um único governo.\nSurpreende-nos, no entanto, Sr. Deputado Jorge Almeida - não posso deixar de me referir à sua intervenção -, que o quadro traçado no projecto de resolução seja profundamente agravado na sua intervenção, aqui, na Assembleia da República.\nÉ certo que a sua intervenção clarifica, acrescenta informação, ajuda a ter a percepção da dimensão da catástrofe que está a acontecer em relação a estes pequenos produtores, mas depois tira a conclusão de que uma proposta geral de recomendação no sentido de uma intervenção imediata não é necessária, não é útil, porque já estará esvaziada pelas iniciativas do Governo.\nSr. Deputado, há uma contradição muito grande. O facto de ser necessário decidir um plano de apoio a estes pequenos produtores que tenha em atenção as suas realidades diferenciadas não significa que, do ponto de vista global, não haja uma recomendação geral que cubra todas estas situações. Na verdade, a diferenciação das situações e de produtores não significa que depois, na concretização, na \n\"operacionalização\", esses apoios não sejam diferenciados, ponderando os subsídios atribuídos e a análise fina que o Sr. Deputado aqui tão bem defende.\nSó faço votos de que a análise fina do Governo, que o Sr. Deputado aqui defendeu, não seja tão fina, tão fina, tão fina, que ninguém a veja no fim. Veremos! \nA fragilidade do projecto de resolução do PSD coloca-se ao nível daquilo que é já uma perspectiva de intervenção estrutural, que tem que ver com a questão dos seguros e que tem de ir mais longe.\nEstamos a falar de uma zona que é preciosa no que respeita à sua produção numa área muito específica. De acordo com o Instituto dos Vinhos do Douro e Porto, hoje, mais de 32% do vinho produzido já é exportado, e para mercados interessantes, nomeadamente da América do Norte.\nEstamos, pois, a falar de um produto de uma importância enorme, cuja produção e respectivo modo de organização necessitam de uma orientação política no sentido da modernização das vinhas, da modernização dos métodos de destilação, do apoio à comercialização, porque um dos problemas que explica por que é que hoje os produtores do Douro se encontram numa situação de extrema fragilidade tem que ver com os processos que se prendem, sobretudo, com a comercialização do produto.\nNa verdade, ao longo dos últimos anos, temos vindo a assistir a que a exportação dos vinhos do Douro está, no fundo, na mão de um reduzido número de grandes empresas exportadoras que controlam o dumping dos preços que são pagos ao produtores, um verdadeiro processo, diria, quase de cartelização, que coloca estes produtores numa situação de enorme empobrecimento.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Voltando, então, ao centro do nosso debate - e sem querer \"matar\" o mensageiro do Governo, porque não é boa prática matar mensageiros - julgo não ser razoável supor que a demissão do PSD, no passado, no que toca à necessidade de adoptar medidas estruturais de intervenção em relação a esta área da produção vinícola serve para ilibar este Governo de encontrar medidas políticas coerentes para resolver esses mesmos problemas.\nOs problemas com que actualmente se confrontam os produtores, particularmente os da Região do Douro, arrastam-se há muitos anos, há anos demais para serem assacáveis à responsabilidade de um único governo.\nSurpreende-nos, no entanto, Sr. Deputado Jorge Almeida - não posso deixar de me referir à sua intervenção -, que o quadro traçado no projecto de resolução seja profundamente agravado na sua intervenção, aqui, na Assembleia da República.\nÉ certo que a sua intervenção clarifica, acrescenta informação, ajuda a ter a percepção da dimensão da catástrofe que está a acontecer em relação a estes pequenos produtores, mas depois tira a conclusão de que uma proposta geral de recomendação no sentido de uma intervenção imediata não é necessária, não é útil, porque já estará esvaziada pelas iniciativas do Governo.\nSr. Deputado, há uma contradição muito grande. O facto de ser necessário decidir um plano de apoio a estes pequenos produtores que tenha em atenção as suas realidades diferenciadas não significa que, do ponto de vista global, não haja uma recomendação geral que cubra todas estas situações. Na verdade, a diferenciação das situações e de produtores não significa que depois, na concretização, na \n\"operacionalização\", esses apoios não sejam diferenciados, ponderando os subsídios atribuídos e a análise fina que o Sr. Deputado aqui tão bem defende.\nSó faço votos de que a análise fina do Governo, que o Sr. Deputado aqui defendeu, não seja tão fina, tão fina, tão fina, que ninguém a veja no fim. Veremos! \nA fragilidade do projecto de resolução do PSD coloca-se ao nível daquilo que é já uma perspectiva de intervenção estrutural, que tem que ver com a questão dos seguros e que tem de ir mais longe.\nEstamos a falar de uma zona que é preciosa no que respeita à sua produção numa área muito específica. De acordo com o Instituto dos Vinhos do Douro e Porto, hoje, mais de 32% do vinho produzido já é exportado, e para mercados interessantes, nomeadamente da América do Norte.\nEstamos, pois, a falar de um produto de uma importância enorme, cuja produção e respectivo modo de organização necessitam de uma orientação política no sentido da modernização das vinhas, da modernização dos métodos de destilação, do apoio à comercialização, porque um dos problemas que explica por que é que hoje os produtores do Douro se encontram numa situação de extrema fragilidade tem que ver com os processos que se prendem, sobretudo, com a comercialização do produto.\nNa verdade, ao longo dos últimos anos, temos vindo a assistir a que a exportação dos vinhos do Douro está, no fundo, na mão de um reduzido número de grandes empresas exportadoras que controlam o dumping dos preços que são pagos ao produtores, um verdadeiro processo, diria, quase de cartelização, que coloca estes produtores numa situação de enorme empobrecimento.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Bem lembrado!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Bem lembrado!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … e a necessidade de alteração e reestruturação do regime de seguro agrícola dada a sua ineficácia. E digamos que o regime de seguros era então bastante pior do que aquele que posteriormente veio a entrar em vigor.\nDepois vieram governos do PS, que alteraram esse regime legal de seguro agrícola, criando o Sistema Integrado de Protecção Contra as Aleatoriedades Climáticas (SIPAC). E o seguro continuou ineficaz para a agricultura, dispendioso para o Estado e um maná para as seguradoras.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… e a necessidade de alteração e reestruturação do regime de seguro agrícola dada a sua ineficácia. E digamos que o regime de seguros era então bastante pior do que aquele que posteriormente veio a entrar em vigor.\nDepois vieram governos do PS, que alteraram esse regime legal de seguro agrícola, criando o Sistema Integrado de Protecção Contra as Aleatoriedades Climáticas (SIPAC). E o seguro continuou ineficaz para a agricultura, dispendioso para o Estado e um maná para as seguradoras.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Exactamente!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Regressou o PSD ao governo, com o Deputado Luís Marques Mendes como ministro, onde esteve entre 2002 e 2004, e poderia ter dado uma nova resposta aos problemas. Teve propostas das organizações agrícolas para isso, mas não o fez.\nAgora, perante a tragédia que se abateu novamente sobre os viticultores durienses, quer alterar o seguro e quer respostas especiais para situações especiais. Muito bem, registámos. Esperemos apenas que não seja mais um daqueles ataques de amor assolapado pelo Douro que logo se esvai quando se chega ao poder.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Regressou o PSD ao governo, com o Deputado Luís Marques Mendes como ministro, onde esteve entre 2002 e 2004, e poderia ter dado uma nova resposta aos problemas. Teve propostas das organizações agrícolas para isso, mas não o fez.\nAgora, perante a tragédia que se abateu novamente sobre os viticultores durienses, quer alterar o seguro e quer respostas especiais para situações especiais. Muito bem, registámos. Esperemos apenas que não seja mais um daqueles ataques de amor assolapado pelo Douro que logo se esvai quando se chega ao poder.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Mas nesta matéria há que fazer justiça, há que salvaguardar também os antecedentes do acidente climatérico de Murça, de 7 de Junho de 2004: uma ajuda de 1 milhão de euros então prometida para cerca de 800 ha de vinha afectada, mesmo se os prejudicados demoraram mais de um ano a receber as indemnizações.\nDiga-se, porém, que também aqui o Governo do PS não tem lições a dar a ninguém: está a fazer um ano e ainda não conseguiu pagar as \nindemnizações aos agricultores vítimas de prejuízos nos incêndios florestais do Verão passado.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Mas nesta matéria há que fazer justiça, há que salvaguardar também os antecedentes do acidente climatérico de Murça, de 7 de Junho de 2004: uma ajuda de 1 milhão de euros então prometida para cerca de 800 ha de vinha afectada, mesmo se os prejudicados demoraram mais de um ano a receber as indemnizações.\nDiga-se, porém, que também aqui o Governo do PS não tem lições a dar a ninguém: está a fazer um ano e ainda não conseguiu pagar as \nindemnizações aos agricultores vítimas de prejuízos nos incêndios florestais do Verão passado.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Uma vergonha!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Uma vergonha!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Passo ao comportamento de hoje do Governo PS.\nSobre os protocolos, Sr. Deputado Jorge Almeida, é bom que tenha em conta que o Sr. Ministro da Agricultura se comprometeu, na audição de 13 de Março, a entregar um balanço escrito desses protocolos, começando, inclusive, por fazer aquilo que não fez, que é entregar esses mesmos protocolos. E certamente o Sr. Deputado Jorge Almeida ouviu, como eu ouvi, o Sr. Secretário de Estado dizer que iam pagar os 850 000 € logo que chegasse a carta da Casa do Douro. Chegou a carta e esse dinheiro ainda não foi pago! Esta é a situação.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Passo ao comportamento de hoje do Governo PS.\nSobre os protocolos, Sr. Deputado Jorge Almeida, é bom que tenha em conta que o Sr. Ministro da Agricultura se comprometeu, na audição de 13 de Março, a entregar um balanço escrito desses protocolos, começando, inclusive, por fazer aquilo que não fez, que é entregar esses mesmos protocolos. E certamente o Sr. Deputado Jorge Almeida ouviu, como eu ouvi, o Sr. Secretário de Estado dizer que iam pagar os 850 000 € logo que chegasse a carta da Casa do Douro. Chegou a carta e esse dinheiro ainda não foi pago! Esta é a situação.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): É verdade!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: O Governo e o Ministro da Agricultura sabem que o actual sistema de seguros agrícolas não serve,…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O Governo e o Ministro da Agricultura sabem que o actual sistema de seguros agrícolas não serve,…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Exactamente!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … sabem que é consensual a sua ineficácia, que apenas é eficaz para as companhias de seguros. Aliás, o Governo já anunciou, em Setembro e Outubro passados, pelo menos, o propósito de o alterar.\nO Governo e o Ministério sabem que o SIPAC não se adequa a uma agricultura de pequena dimensão, a braços com dificuldades imensas para sobreviver, onde os preços à produção do vinho, e não só, não pagam os custos dessa mesma produção; sabem que há pequenos agricultores a deixarem de pagar à segurança social; sabem que essa situação se reflecte nas adegas cooperativas, que se atrasam anos a pagar aos seus associados; sabem as dificuldades acrescidas com a redução do benefício e os preços dos mostos beneficiados, decorrentes das suas políticas; sabem da incapacidade da maioria de os viticultores pagarem os prémios, mesmo reduzidos, e os comportamentos das companhias de seguros, que indemnizam a 40% ou 50% o que devia ser indemnizado a 80%;…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… sabem que é consensual a sua ineficácia, que apenas é eficaz para as companhias de seguros. Aliás, o Governo já anunciou, em Setembro e Outubro passados, pelo menos, o propósito de o alterar.\nO Governo e o Ministério sabem que o SIPAC não se adequa a uma agricultura de pequena dimensão, a braços com dificuldades imensas para sobreviver, onde os preços à produção do vinho, e não só, não pagam os custos dessa mesma produção; sabem que há pequenos agricultores a deixarem de pagar à segurança social; sabem que essa situação se reflecte nas adegas cooperativas, que se atrasam anos a pagar aos seus associados; sabem as dificuldades acrescidas com a redução do benefício e os preços dos mostos beneficiados, decorrentes das suas políticas; sabem da incapacidade da maioria de os viticultores pagarem os prémios, mesmo reduzidos, e os comportamentos das companhias de seguros, que indemnizam a 40% ou 50% o que devia ser indemnizado a 80%;…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Exactamente!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … sabem que o actual sistema é, de facto, um mecanismo de transferência líquida de fundos", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… sabem que o actual sistema é, de facto, um mecanismo de transferência líquida de fundos", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Bem lembrado!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Bem lembrado!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … e a necessidade de alteração e reestruturação do regime de seguro agrícola dada a sua ineficácia. E digamos que o regime de seguros era então bastante pior do que aquele que posteriormente veio a entrar em vigor.\nDepois vieram governos do PS, que alteraram esse regime legal de seguro agrícola, criando o Sistema Integrado de Protecção Contra as Aleatoriedades Climáticas (SIPAC). E o seguro continuou ineficaz para a agricultura, dispendioso para o Estado e um maná para as seguradoras.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… e a necessidade de alteração e reestruturação do regime de seguro agrícola dada a sua ineficácia. E digamos que o regime de seguros era então bastante pior do que aquele que posteriormente veio a entrar em vigor.\nDepois vieram governos do PS, que alteraram esse regime legal de seguro agrícola, criando o Sistema Integrado de Protecção Contra as Aleatoriedades Climáticas (SIPAC). E o seguro continuou ineficaz para a agricultura, dispendioso para o Estado e um maná para as seguradoras.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Exactamente!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Regressou o PSD ao governo, com o Deputado Luís Marques Mendes como ministro, onde esteve entre 2002 e 2004, e poderia ter dado uma nova resposta aos problemas. Teve propostas das organizações agrícolas para isso, mas não o fez.\nAgora, perante a tragédia que se abateu novamente sobre os viticultores durienses, quer alterar o seguro e quer respostas especiais para situações especiais. Muito bem, registámos. Esperemos apenas que não seja mais um daqueles ataques de amor assolapado pelo Douro que logo se esvai quando se chega ao poder.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Regressou o PSD ao governo, com o Deputado Luís Marques Mendes como ministro, onde esteve entre 2002 e 2004, e poderia ter dado uma nova resposta aos problemas. Teve propostas das organizações agrícolas para isso, mas não o fez.\nAgora, perante a tragédia que se abateu novamente sobre os viticultores durienses, quer alterar o seguro e quer respostas especiais para situações especiais. Muito bem, registámos. Esperemos apenas que não seja mais um daqueles ataques de amor assolapado pelo Douro que logo se esvai quando se chega ao poder.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Mas nesta matéria há que fazer justiça, há que salvaguardar também os antecedentes do acidente climatérico de Murça, de 7 de Junho de 2004: uma ajuda de 1 milhão de euros então prometida para cerca de 800 ha de vinha afectada, mesmo se os prejudicados demoraram mais de um ano a receber as indemnizações.\nDiga-se, porém, que também aqui o Governo do PS não tem lições a dar a ninguém: está a fazer um ano e ainda não conseguiu pagar as \nindemnizações aos agricultores vítimas de prejuízos nos incêndios florestais do Verão passado.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Mas nesta matéria há que fazer justiça, há que salvaguardar também os antecedentes do acidente climatérico de Murça, de 7 de Junho de 2004: uma ajuda de 1 milhão de euros então prometida para cerca de 800 ha de vinha afectada, mesmo se os prejudicados demoraram mais de um ano a receber as indemnizações.\nDiga-se, porém, que também aqui o Governo do PS não tem lições a dar a ninguém: está a fazer um ano e ainda não conseguiu pagar as \nindemnizações aos agricultores vítimas de prejuízos nos incêndios florestais do Verão passado.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Uma vergonha!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Uma vergonha!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Passo ao comportamento de hoje do Governo PS.\nSobre os protocolos, Sr. Deputado Jorge Almeida, é bom que tenha em conta que o Sr. Ministro da Agricultura se comprometeu, na audição de 13 de Março, a entregar um balanço escrito desses protocolos, começando, inclusive, por fazer aquilo que não fez, que é entregar esses mesmos protocolos. E certamente o Sr. Deputado Jorge Almeida ouviu, como eu ouvi, o Sr. Secretário de Estado dizer que iam pagar os 850 000 € logo que chegasse a carta da Casa do Douro. Chegou a carta e esse dinheiro ainda não foi pago! Esta é a situação.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Passo ao comportamento de hoje do Governo PS.\nSobre os protocolos, Sr. Deputado Jorge Almeida, é bom que tenha em conta que o Sr. Ministro da Agricultura se comprometeu, na audição de 13 de Março, a entregar um balanço escrito desses protocolos, começando, inclusive, por fazer aquilo que não fez, que é entregar esses mesmos protocolos. E certamente o Sr. Deputado Jorge Almeida ouviu, como eu ouvi, o Sr. Secretário de Estado dizer que iam pagar os 850 000 € logo que chegasse a carta da Casa do Douro. Chegou a carta e esse dinheiro ainda não foi pago! Esta é a situação.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): É verdade!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: O Governo e o Ministro da Agricultura sabem que o actual sistema de seguros agrícolas não serve,…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O Governo e o Ministro da Agricultura sabem que o actual sistema de seguros agrícolas não serve,…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Exactamente!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … sabem que é consensual a sua ineficácia, que apenas é eficaz para as companhias de seguros. Aliás, o Governo já anunciou, em Setembro e Outubro passados, pelo menos, o propósito de o alterar.\nO Governo e o Ministério sabem que o SIPAC não se adequa a uma agricultura de pequena dimensão, a braços com dificuldades imensas para sobreviver, onde os preços à produção do vinho, e não só, não pagam os custos dessa mesma produção; sabem que há pequenos agricultores a deixarem de pagar à segurança social; sabem que essa situação se reflecte nas adegas cooperativas, que se atrasam anos a pagar aos seus associados; sabem as dificuldades acrescidas com a redução do benefício e os preços dos mostos beneficiados, decorrentes das suas políticas; sabem da incapacidade da maioria de os viticultores pagarem os prémios, mesmo reduzidos, e os comportamentos das companhias de seguros, que indemnizam a 40% ou 50% o que devia ser indemnizado a 80%;…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… sabem que é consensual a sua ineficácia, que apenas é eficaz para as companhias de seguros. Aliás, o Governo já anunciou, em Setembro e Outubro passados, pelo menos, o propósito de o alterar.\nO Governo e o Ministério sabem que o SIPAC não se adequa a uma agricultura de pequena dimensão, a braços com dificuldades imensas para sobreviver, onde os preços à produção do vinho, e não só, não pagam os custos dessa mesma produção; sabem que há pequenos agricultores a deixarem de pagar à segurança social; sabem que essa situação se reflecte nas adegas cooperativas, que se atrasam anos a pagar aos seus associados; sabem as dificuldades acrescidas com a redução do benefício e os preços dos mostos beneficiados, decorrentes das suas políticas; sabem da incapacidade da maioria de os viticultores pagarem os prémios, mesmo reduzidos, e os comportamentos das companhias de seguros, que indemnizam a 40% ou 50% o que devia ser indemnizado a 80%;…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Exactamente!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … sabem que o actual sistema é, de facto, um mecanismo de transferência líquida de fundos", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… sabem que o actual sistema é, de facto, um mecanismo de transferência líquida de fundos", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "públicos para as companhias seguradoras.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Muito bem!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Dos dados de uma resposta a um requerimento do Grupo Parlamentar do PCP pode verificar-se, por aquilo que foi pago entre 1996 e 2002 às companhias de seguros, ou seja, 248 milhões de euros, que o Governo pagava integralmente, durante esses anos, tudo aquilo que as companhias de seguros pagavam aos agricultores, ou seja, 230 milhões de euros. Ainda o Estado poupava 18 milhões de euros e os agricultores tinham poupado 70 milhões de euros que pagaram de prémios.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Dos dados de uma resposta a um requerimento do Grupo Parlamentar do PCP pode verificar-se, por aquilo que foi pago entre 1996 e 2002 às companhias de seguros, ou seja, 248 milhões de euros, que o Governo pagava integralmente, durante esses anos, tudo aquilo que as companhias de seguros pagavam aos agricultores, ou seja, 230 milhões de euros. Ainda o Estado poupava 18 milhões de euros e os agricultores tinham poupado 70 milhões de euros que pagaram de prémios.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Essa é que é essa!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Essa é que é essa!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: É, de facto, um negócio da China para as companhias seguradoras este SIPAC!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "É, de facto, um negócio da China para as companhias seguradoras este SIPAC!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Miguel Freitas* (PS): Estou de acordo!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Miguel Freitas", 
+   "text": "Estou de acordo!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: O Governo sabe que a própria legislação que instituía o SIPAC estabelecia mecanismos de alteração e de correcção do sistema, que nenhum Governo, nem do PSD nem do PS, até hoje alterou. E, sabendo tudo isto, o Governo ainda vai para o Douro fazer o discurso do seguro agrícola?! Não parece razoável, para não dizer que é um absurdo.\nOs governos que têm exercido em nome do Estado estas funções deviam ter vergonha de dizer tal coisa, deviam calar-se bem caladinhos e tratar de alterar o sistema de seguros o mais rapidamente possível, com uma alteração de fundo e radical do SIPAC, no caminho para um seguro ao rendimento dos agricultores, à semelhança, aliás, daquilo que já fizeram há uns anos os nossos vizinhos espanhóis.\nSr. Presidente, Srs. Deputados, no actual quadro o Governo precisa de responder a todas as regiões afectadas, seja a Região Demarcada do Douro, incluindo os concelhos do distrito de Bragança, seja a Região Demarcada dos VinhOs Verdes, sejam as de Alcobaça e Nazaré, sejam outras regiões do País afectadas por estas intempéries; precisa que se avance nos apoios a fundo perdido, recorrendo inclusive aos mecanismos mínimos permitidos pela União Europeia, 3000 € por três anos.\nÉ necessário garantir um rendimento mínimo àquelas famílias; é necessário, na base dos fundos comunitários, apoiar a reposição do potencial produtivo; é necessário avançar, provavelmente, na própria suspensão de pagamento de IRS e de IRC a agricultores e explorações agrícolas mais fortemente atingidas; são necessárias moratórias para os custos do crédito resultante de investimentos produtivos; é necessário, sobretudo, que se responda com urgência à alteração do sistema de seguros.\nÉ neste sentido que, mesmo considerando-o muito insuficiente, iremos votar favoravelmente o projecto de resolução apresentado pelo PSD.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O Governo sabe que a própria legislação que instituía o SIPAC estabelecia mecanismos de alteração e de correcção do sistema, que nenhum Governo, nem do PSD nem do PS, até hoje alterou. E, sabendo tudo isto, o Governo ainda vai para o Douro fazer o discurso do seguro agrícola?! Não parece razoável, para não dizer que é um absurdo.\nOs governos que têm exercido em nome do Estado estas funções deviam ter vergonha de dizer tal coisa, deviam calar-se bem caladinhos e tratar de alterar o sistema de seguros o mais rapidamente possível, com uma alteração de fundo e radical do SIPAC, no caminho para um seguro ao rendimento dos agricultores, à semelhança, aliás, daquilo que já fizeram há uns anos os nossos vizinhos espanhóis.\nSr. Presidente, Srs. Deputados, no actual quadro o Governo precisa de responder a todas as regiões afectadas, seja a Região Demarcada do Douro, incluindo os concelhos do distrito de Bragança, seja a Região Demarcada dos VinhOs Verdes, sejam as de Alcobaça e Nazaré, sejam outras regiões do País afectadas por estas intempéries; precisa que se avance nos apoios a fundo perdido, recorrendo inclusive aos mecanismos mínimos permitidos pela União Europeia, 3000 € por três anos.\nÉ necessário garantir um rendimento mínimo àquelas famílias; é necessário, na base dos fundos comunitários, apoiar a reposição do potencial produtivo; é necessário avançar, provavelmente, na própria suspensão de pagamento de IRS e de IRC a agricultores e explorações agrícolas mais fortemente atingidas; são necessárias moratórias para os custos do crédito resultante de investimentos produtivos; é necessário, sobretudo, que se responda com urgência à alteração do sistema de seguros.\nÉ neste sentido que, mesmo considerando-o muito insuficiente, iremos votar favoravelmente o projecto de resolução apresentado pelo PSD.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (António Filipe): Informo que o Sr. Deputado Agostinho Lopes beneficiou de 2 minutos cedidos por Os Verdes.\nIgualmente para uma intervenção, tem a palavra o Sr. Deputado Abel Baptista.", 
-   "type": "continuacao"
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Informo que o Sr. Deputado Agostinho Lopes beneficiou de 2 minutos cedidos por Os Verdes.\nIgualmente para uma intervenção, tem a palavra o Sr. Deputado Abel Baptista.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Abel Baptista* (CDS-PP): Sr. Presidente, Sr.as e Srs. Deputados: \nAntes de mais, gostava de saudar o Partido Social Democrata por este agendamento.\nFoi referido na intervenção do Sr. Deputado do PS que não foi apresentada nenhuma medida de fundo. Antes de mais, penso que é falso dizer isso, uma vez que no projecto de resolução do PSD são \napresentadas medidas que visam resolver o problema do sector agrícola.\nPor outro lado, é importante que se dê sinal às pessoas de que os políticos e os Governos também estão para resolver o problema das situações urgentes emergentes de alguns sectores. E, nas palavras do Sr. Deputado Jorge Almeida, os seguros agrícolas são caros; nas palavras do Sr. Ministro, a um agricultor que tenha apenas 1 ha não é possível pagar o seguro; no Douro há 20 000 agricultores. É este o número dos agricultores que estão numa situação grave para poderem pagar os seus seguros. Só para lhe dar uma ideia, Sr. Deputado, 20 000 pessoas elegem-no a si, 20 000 pessoas elegem um Deputado. É muita gente! \nEm matéria de apoios, requer-se, sobretudo, uma grande solidariedade nacional para com os agricultores e para com o mundo rural, que até contribui para que o mundo urbano possa emitir gases e CO2, dado que o mundo rural desempenha hoje um papel fundamental, em termos ambientais, que importa salvaguardar.", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Abel Baptista", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: \nAntes de mais, gostava de saudar o Partido Social Democrata por este agendamento.\nFoi referido na intervenção do Sr. Deputado do PS que não foi apresentada nenhuma medida de fundo. Antes de mais, penso que é falso dizer isso, uma vez que no projecto de resolução do PSD são \napresentadas medidas que visam resolver o problema do sector agrícola.\nPor outro lado, é importante que se dê sinal às pessoas de que os políticos e os Governos também estão para resolver o problema das situações urgentes emergentes de alguns sectores. E, nas palavras do Sr. Deputado Jorge Almeida, os seguros agrícolas são caros; nas palavras do Sr. Ministro, a um agricultor que tenha apenas 1 ha não é possível pagar o seguro; no Douro há 20 000 agricultores. É este o número dos agricultores que estão numa situação grave para poderem pagar os seus seguros. Só para lhe dar uma ideia, Sr. Deputado, 20 000 pessoas elegem-no a si, 20 000 pessoas elegem um Deputado. É muita gente! \nEm matéria de apoios, requer-se, sobretudo, uma grande solidariedade nacional para com os agricultores e para com o mundo rural, que até contribui para que o mundo urbano possa emitir gases e CO2, dado que o mundo rural desempenha hoje um papel fundamental, em termos ambientais, que importa salvaguardar.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Carlos Monteiro* (CDS-PP): Muito bem!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "António Carlos Monteiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: O Ministro da Agricultura, na intervenção que fez, quando foi ao Douro, disse que aqueles que não têm seguros não vão ser abandonados. Mas, como já foi hoje aqui afirmado, os agricultores não estão", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O Ministro da Agricultura, na intervenção que fez, quando foi ao Douro, disse que aqueles que não têm seguros não vão ser abandonados. Mas, como já foi hoje aqui afirmado, os agricultores não estão", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "à espera de pequenas esmolas, de algum apoio social. Não! Os agricultores precisam, sim, de medidas estruturantes, de apoio ao sector, à actividade e ao desenvolvimento rural. É disto que o Douro, hoje, mais carece.\nAs medidas que foram anunciadas pelo Ministro, para além de não terem ainda qualquer efeito prático, não são, seguramente, as necessárias nem as adequadas. Os agricultores precisavam de fazer, de imediato, uma sulfatação de combate ao míldio e ao oídio que contivesse cálcio, coisa que não foi feita, como já lhe disse há pouco, e que era necessário fazer no prazo de 48 horas.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Miguel Ginestal* (PS): Estava a chover!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Miguel Ginestal", 
+   "text": "Estava a chover!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Se os agricultores não tivessem feito esse tratamento, por sua própria iniciativa, ele não teria, seguramente, qualquer efeito depois desse período.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Se os agricultores não tivessem feito esse tratamento, por sua própria iniciativa, ele não teria, seguramente, qualquer efeito depois desse período.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Miguel Ginestal* (PS): A chuva, Sr. Deputado!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Miguel Ginestal", 
+   "text": "A chuva, Sr. Deputado!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Não esteja tão perturbado, Sr. Deputado! \nComo sabe, o cálcio tem o efeito do mercurocromo na pele das pessoas, ou seja, serve para cicatrização. Se ele não for aplicado \natempadamente, não tem qualquer efeito, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Não esteja tão perturbado, Sr. Deputado! \nComo sabe, o cálcio tem o efeito do mercurocromo na pele das pessoas, ou seja, serve para cicatrização. Se ele não for aplicado \natempadamente, não tem qualquer efeito, Sr. Deputado.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Nuno Teixeira de Melo* (CDS-PP): Muito bem!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Nuno Teixeira de Melo", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Outra medida absolutamente necessária era, certamente, a do reforço do Programa VITIS, para a reconversão e modernização da vinha do Douro, que não está anunciado nem foi referenciado. Esperemos que o Governo venha a tomar essa medida.\nÉ necessária uma alteração da legislação sobre os seguros agrícolas que, do nosso ponto de vista, têm de ter uma indução com o rendimento do próprio agricultor e cujo prémio não pode ser, apenas, meramente comercial, o que, com certeza, é um bom negócio para as seguradoras mas é um péssimo negócio para o Estado e não beneficia, neste momento, os agricultores.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Outra medida absolutamente necessária era, certamente, a do reforço do Programa VITIS, para a reconversão e modernização da vinha do Douro, que não está anunciado nem foi referenciado. Esperemos que o Governo venha a tomar essa medida.\nÉ necessária uma alteração da legislação sobre os seguros agrícolas que, do nosso ponto de vista, têm de ter uma indução com o rendimento do próprio agricultor e cujo prémio não pode ser, apenas, meramente comercial, o que, com certeza, é um bom negócio para as seguradoras mas é um péssimo negócio para o Estado e não beneficia, neste momento, os agricultores.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Nuno Teixeira de Melo* (CDS-PP): Muito bem!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Nuno Teixeira de Melo", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Por outro lado, continua a estar por resolver o problema financeiro da Casa do Douro e não vemos, da parte deste Governo, qualquer vontade política de proceder à sua resolução, ao seu saneamento, no sentido de viabilizar uma instituição secular, que é importante para o desenvolvimento da região.\nHá ainda, a este nível, uma questão que, do nosso ponto de vista, tem de ser alterada. O Instituto dos Vinhos do Douro e Porto não pode continuar a ser um \"braço armado\" do Ministério da Agricultura. Ou seja, neste momento, os três membros da direcção deste Instituto são nomeados pelo Governo, o que não faz qualquer sentido. Tem de se criar, neste Instituto, um espírito interprofissional e tem de haver uma alteração significativa nos seus estatutos, que não podem, de forma alguma, continuar como estão.\nMas o Douro envolve outras questões que também têm de ser viabilizadas.\nNeste momento, o Douro, para além de ser a mais antiga região demarcada de vinhos do mundo, é também uma região classificada como Património Mundial pela UNESCO. Porém, esta classificação encontra-se, hoje, comprometida, uma vez que o gabinete técnico do Douro - Património Mundial pura e simplesmente não funciona. O Governo deve assumir esta questão e pôr o gabinete a funcionar,…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Por outro lado, continua a estar por resolver o problema financeiro da Casa do Douro e não vemos, da parte deste Governo, qualquer vontade política de proceder à sua resolução, ao seu saneamento, no sentido de viabilizar uma instituição secular, que é importante para o desenvolvimento da região.\nHá ainda, a este nível, uma questão que, do nosso ponto de vista, tem de ser alterada. O Instituto dos Vinhos do Douro e Porto não pode continuar a ser um \"braço armado\" do Ministério da Agricultura. Ou seja, neste momento, os três membros da direcção deste Instituto são nomeados pelo Governo, o que não faz qualquer sentido. Tem de se criar, neste Instituto, um espírito interprofissional e tem de haver uma alteração significativa nos seus estatutos, que não podem, de forma alguma, continuar como estão.\nMas o Douro envolve outras questões que também têm de ser viabilizadas.\nNeste momento, o Douro, para além de ser a mais antiga região demarcada de vinhos do mundo, é também uma região classificada como Património Mundial pela UNESCO. Porém, esta classificação encontra-se, hoje, comprometida, uma vez que o gabinete técnico do Douro - Património Mundial pura e simplesmente não funciona. O Governo deve assumir esta questão e pôr o gabinete a funcionar,…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *António Carlos Monteiro* (CDS-PP): Muito bem!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "António Carlos Monteiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … devendo não só mantê-lo mas também chamar à sua \nviabilização as autarquias que, por egoísmo entre si próprias, não têm sido capazes de o manter em funcionamento.\nFinalmente, nenhuma região pode desenvolver-se se não tiver \nacessibilidades para poder funcionar. E o Douro, hoje, tem uma forte vertente turística que, seguramente, tem de ser salvaguardada, melhorada e beneficiada.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… devendo não só mantê-lo mas também chamar à sua viabilização as autarquias que, por egoísmo entre si próprias, não têm sido capazes de o manter em funcionamento.\nFinalmente, nenhuma região pode desenvolver-se se não tiver \nacessibilidades para poder funcionar. E o Douro, hoje, tem uma forte vertente turística que, seguramente, tem de ser salvaguardada, melhorada e beneficiada.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do CDS-PP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Não faz qualquer sentido que um turista americano, que faz 5 horas de voo para chegar ao Porto, faça outras 5 horas para chegar ao Douro. Isto não faz qualquer sentido! O Douro, ou se viabiliza, em termos de acessibilidades, ou, então, vai morrer, em termos turísticos.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Não faz qualquer sentido que um turista americano, que faz 5 horas de voo para chegar ao Porto, faça outras 5 horas para chegar ao Douro. Isto não faz qualquer sentido! O Douro, ou se viabiliza, em termos de acessibilidades, ou, então, vai morrer, em termos turísticos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *António Carlos Monteiro* (CDS-PP): Muito bem!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "António Carlos Monteiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sobre isto, o Governo nada tem dito, mas gostávamos de saber a situação em que se", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sobre isto, o Governo nada tem dito, mas gostávamos de saber a situação em que se", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "encontra o IC26 e a duplicação do IP4, para que o problema do isolamento do Douro, em termos de interioridade, desde Miranda do Douro até à zona da Régua, possa, obviamente, ser alterado, dado que essa é também, certamente, uma forma de desenvolvimento não só da agricultura mas de todo o mundo rural.\nAliás, este Ministro da Agricultura, nada faz na agricultura, no desenvolvimento rural. Desapareceu, e é um Ministro que está ausente não só daqui, deste Parlamento, mas de todo o debate do sector agrícola.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do CDS-PP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Entretanto, reassumiu a presidência o Sr. Vice-Presidente Manuel Alegre.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Miguel Ginestal.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Miguel Ginestal", 
+   "text": "Sr. Presidente, Sr.as e Srs. Deputados: \nQuero começar por realçar o enorme esforço que as bancadas da oposição fizeram em alargar a todo o Douro o problema concreto que hoje mereceu um debate no Parlamento.\nHoje, nesta Assembleia, do que se tratava era de fazermos uma avaliação séria, tranquila e objectiva sobre se as medidas que estão a ser implementadas, desde o dia 14 de Janeiro, nas zonas afectadas do Douro, são, efectivamente, as mais adequadas. E esperava que tivesse sido dita, pelo PSD, uma palavra de apreço à Direcção Regional de Agricultura de Trás-os-Montes e Alto Douro e aos seus técnicos, às câmaras municipais - algumas delas do PSD - e às juntas de freguesia, que, em conjunto, desde a intempérie do dia 14, deram as mãos para ajudar os agricultores a ultrapassar as dificuldades com que estavam confrontados.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Bem lembrado!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Ficou mal ao PSD não ter dito essa palavra, neste momento, aqui, na Assembleia da República.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Muito bem!", 
+   "type": "speaker_error"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Em segundo lugar, quero dizer ao PSD que chega tarde a este debate. E chega tarde, porque, no dia em que foi ao Douro, já tinham passado seis dias de trabalho intenso de gente simples, de gente humilde, mas de gente que queria resolver o problema.", 
    "type": "continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Miguel Ginestal.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Já passaram 15 meses e nada está resolvido!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Miguel Ginestal* (PS): Sr. Presidente, Sr.as e Srs. Deputados: \nQuero começar por realçar o enorme esforço que as bancadas da oposição fizeram em alargar a todo o Douro o problema concreto que hoje mereceu um debate no Parlamento.\nHoje, nesta Assembleia, do que se tratava era de fazermos uma avaliação séria, tranquila e objectiva sobre se as medidas que estão a ser implementadas, desde o dia 14 de Janeiro, nas zonas afectadas do Douro, são, efectivamente, as mais adequadas. E esperava que tivesse sido dita, pelo PSD, uma palavra de apreço à Direcção Regional de Agricultura de Trás-os-Montes e Alto Douro e aos seus técnicos, às câmaras municipais - algumas delas do PSD - e às juntas de freguesia, que, em conjunto, desde a intempérie do dia 14, deram as mãos para ajudar os agricultores a ultrapassar as dificuldades com que estavam confrontados.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "E, por isso, poderiam hoje ter dito aqui se, quando lá chegaram, o levantamento técnico, o levantamento social e a entrega, a título gratuito, da calda de cálcio não estavam já feitos.\nSr. Deputado Abel Baptista, só na terça-feira é que foi iniciado o tratamento ao míldio e ao oídio, porque, Sr. Deputado, esse tratamento não se faz com chuva. É impossível, é infrutífero! Por isso, foi preciso deixar que parasse de chover para fazer os tratamentos adequados, dado que só assim é que são eficazes.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Junqueiro* (PS): Bem lembrado!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Ficou mal ao PSD não ter dito essa palavra, neste momento, aqui, na Assembleia da República.", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Abel Baptista", 
+   "text": "Não foi isso que se passou nas quintas!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Sr.ª Helena Terra (PS): Muito bem!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr.as e Srs. Deputados: O que interessa é resolver o problema e, para esse efeito, é preciso estarmos certos do que vamos fazer no terreno, através do levantamento técnico e social e da definição das medidas.\nOra, esse levantamento diz-nos, com clareza, que há problemas ao nível da recuperação do potencial produtivo para este ano e para a campanha do próximo e de daqui a dois anos, e é preciso saber se as medidas que estão definidas são as adequadas. Do nosso ponto de vista, as medidas são as adequadas.\nÉ preciso saber também se há famílias carenciadas que precisam de apoio social, e sabemos que há. As medidas que o Governo está a trabalhar são as adequadas? Esta é a pergunta que tem de ser feita! Do nosso ponto de vista, são as medidas adequadas.\nEra ainda preciso saber se a medida não de uma linha de crédito mas de até 75% a fundo perdido para a reconstrução das plantas afectadas, para a reconstrução dos caminhos afectados, para a reconstrução dos muros destruídos, na vossa opinião, é adequada ou não. Do nosso ponto de vista, a resposta é que é uma medida adequada.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Em segundo lugar, quero dizer ao PSD que chega tarde a este debate. E chega tarde, porque, no dia em que foi ao Douro, já tinham passado seis dias de trabalho intenso de gente simples, de gente humilde, mas de gente que queria resolver o problema.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Da vossa parte, só não é adequado ajudar os agricultores!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Já passaram 15 meses e nada está resolvido!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "E era preciso também ter ouvido a opinião do PSD sobre o instituto do seguro de colheitas.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: E, por isso, poderiam hoje ter dito aqui se, quando lá chegaram, o levantamento técnico, o levantamento social e a entrega, a título gratuito, da calda de cálcio não estavam já feitos.\nSr. Deputado Abel Baptista, só na terça-feira é que foi iniciado o tratamento ao míldio e ao oídio, porque, Sr. Deputado, esse tratamento não se faz com chuva. É impossível, é infrutífero! Por isso, foi preciso deixar que parasse de chover para fazer os tratamentos adequados, dado que só assim é que são eficazes.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *José Junqueiro* (PS): Muito bem!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Abel Baptista* (CDS-PP): Não foi isso que se passou nas quintas!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: Sr.as e Srs. Deputados: O que interessa é resolver o problema e, para esse efeito, é preciso estarmos certos do que vamos fazer no terreno, através do levantamento técnico e social e da definição das medidas.\nOra, esse levantamento diz-nos, com clareza, que há problemas ao nível da recuperação do potencial produtivo para este ano e para a campanha do próximo e de daqui a dois anos, e é preciso saber se as medidas que estão definidas são as adequadas. Do nosso ponto de vista, as medidas são as adequadas.\nÉ preciso saber também se há famílias carenciadas que precisam de apoio social, e sabemos que há. As medidas que o Governo está a trabalhar são as adequadas? Esta é a pergunta que tem de ser feita! Do nosso ponto de vista, são as medidas adequadas.\nEra ainda preciso saber se a medida não de uma linha de crédito mas de até 75% a fundo perdido para a reconstrução das plantas afectadas, para a reconstrução dos caminhos afectados, para a reconstrução dos muros destruídos, na vossa opinião, é adequada ou não. Do nosso ponto de vista, a resposta é que é uma medida adequada.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Ricardo Martins* (PSD): Da vossa parte, só não é adequado ajudar os agricultores!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: E era preciso também ter ouvido a opinião do PSD sobre o instituto do seguro de colheitas.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "O Orador", 
    "text": "Vocês estiveram três anos no governo e não mexeram uma palha para rever o seguro de colheitas!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Bem lembrado!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Bem lembrado!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Mas este Ministro já disse que vai revê-lo.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Mas este Ministro já disse que vai revê-lo.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Há um ano que o diz!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Há um ano que o diz!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: E vai revê-lo para defender dois interesses fundamentais: o interesse dos agricultores e o interesse do Estado, de forma a ser um instrumento seguro, equitativo e justo, e para assegurar ao agricultor que, independentemente das aleatoriedades climatéricas, o seu rendimento agrícola em cada campanha está assegurado.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Aplausos do PS.", 
-   "type": "aplauso"
-  }, 
-  {
-   "text": "O Sr. *Ricardo Martins* (PSD): É exactamente o que está no nosso projecto de resolução! Não o leu!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: Para terminar, Sr. Presidente, com grande tranquilidade, o que nos trouxe aqui hoje foi a necessidade de fazer a avaliação no sentido de saber se as medidas que estão no terreno são concretas…", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Ricardo Martins* (PSD): Vocês é que divergem!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: … e resolvem os problemas dos agricultores daquela área confinada que foi atingida pelas intempéries, não o resto do Douro - esse debate alargado do Douro fá-lo-emos noutra altura.\nHoje, o que queremos dizer, nesta Câmara, Sr. Presidente, é que as medidas concretas que estão a ser desenvolvidas no terreno são as medidas adequadas para ultrapassarmos, em conjunto, as enormes dificuldades dos agricultores daquela região martirizada do Douro.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "E vai revê-lo para defender dois interesses fundamentais: o interesse dos agricultores e o interesse do Estado, de forma a ser um instrumento seguro, equitativo e justo, e para assegurar ao agricultor que, independentemente das aleatoriedades climatéricas, o seu rendimento agrícola em cada campanha está assegurado.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Antes de dar a palavra ao último orador inscrito, anuncio à Câmara que o PSD requereu a votação deste projecto de resolução e que, portanto, no final do debate vamos votá-lo.\nTem a palavra, para uma intervenção, a Sr.ª Deputada Rosário Cardoso Águas.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "É exactamente o que está no nosso projecto de resolução! Não o leu!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Sr.ª Rosário Cardoso Águas (PSD): Sr. Presidente, Srs. Deputados: \nDuas notas de esclarecimento iniciais a propósito da interpelação que há pouco aconteceu.\nEm primeiro lugar, vou pedir à Mesa para distribuir o requerimento em que fica esclarecido os termos em que foi mencionado o concelho de Boticas, a propósito desta visita a Trás-os-Montes e Alto Douro. Passo a ler a parte mais significativa: \"O Grupo Parlamentar do Partido Social-Democrata, representado pelos Deputados, vem solicitar a V. Ex.ª que a primeira reunião, dentro de três dias, da Comissão de Assuntos Económicos se realize no distrito de Vila Real, simbolicamente no concelho de Boticas, o que, de entre todos, apresenta um índice de poder de compra de 39%, o mais baixo de toda a região\".\nUma segunda nota de esclarecimento para dizer que o Deputado Ricardo Martins, naturalmente, não acompanhou a totalidade dos dias de visita da Comissão, mas, uma vez que é eleito pelo circulo eleitoral de Vila Real, quando a reunião ocorreu no distrito de Vila Real estava lá.\nSr. Presidente, Srs. Deputados: As consequências desta intempérie são a quebra drástica do rendimento dos agricultores da região que, de acordo com as estimativas do Ministério da Agricultura, apontam para uma destruição total e parcial de cerca 2000 ha, maioritariamente ocupados por vinha.\nEste valor representa uma quebra superior a 30% da produção agrícola total das freguesias e obriga à reposição da capacidade produtiva, nomeadamente da vinha.\nPor estes factos extraordinários, o Grupo Parlamentar do PSD defende e recomenda esta iniciativa com um apoio financeiro também excepcional para os agricultores afectados.\nMas queremos sublinhar que o PSD se recusa hoje, como sempre fez, a utilizar as dificuldades desta região e a fragilidade destes agricultores para fins de mera disputa política.\nO PSD apenas reclama que este Governo dê uma ajuda aos agricultores afectados, à semelhança do que fez no passado, enquanto foi governo e para uma situação análoga.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Para terminar, Sr. Presidente, com grande tranquilidade, o que nos trouxe aqui hoje foi a necessidade de fazer a avaliação no sentido de saber se as medidas que estão no terreno são concretas…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Vocês é que divergem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Relembro que em 2003, a propósito das chuvadas na região de Trás-os-Montes e dos enormes prejuízos que aconteceram, o PS falava de calamidade e reclamava apoios financeiros. Hoje, para uma situação equivalente, acusa os agricultores de falta de prudência por não terem realizado os seguros de", 
+   "speaker": "O Orador", 
+   "text": "… e resolvem os problemas dos agricultores daquela área confinada que foi atingida pelas intempéries, não o resto do Douro - esse debate alargado do Douro fá-lo-emos noutra altura.\nHoje, o que queremos dizer, nesta Câmara, Sr. Presidente, é que as medidas concretas que estão a ser desenvolvidas no terreno são as medidas adequadas para ultrapassarmos, em conjunto, as enormes dificuldades dos agricultores daquela região martirizada do Douro.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Antes de dar a palavra ao último orador inscrito, anuncio à Câmara que o PSD requereu a votação deste projecto de resolução e que, portanto, no final do debate vamos votá-lo.\nTem a palavra, para uma intervenção, a Sr.ª Deputada Rosário Cardoso Águas.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "text": "Sr. Presidente, Srs. Deputados: \nDuas notas de esclarecimento iniciais a propósito da interpelação que há pouco aconteceu.\nEm primeiro lugar, vou pedir à Mesa para distribuir o requerimento em que fica esclarecido os termos em que foi mencionado o concelho de Boticas, a propósito desta visita a Trás-os-Montes e Alto Douro. Passo a ler a parte mais significativa: \"O Grupo Parlamentar do Partido Social-Democrata, representado pelos Deputados, vem solicitar a V. Ex.ª que a primeira reunião, dentro de três dias, da Comissão de Assuntos Económicos se realize no distrito de Vila Real, simbolicamente no concelho de Boticas, o que, de entre todos, apresenta um índice de poder de compra de 39%, o mais baixo de toda a região\".\nUma segunda nota de esclarecimento para dizer que o Deputado Ricardo Martins, naturalmente, não acompanhou a totalidade dos dias de visita da Comissão, mas, uma vez que é eleito pelo circulo eleitoral de Vila Real, quando a reunião ocorreu no distrito de Vila Real estava lá.\nSr. Presidente, Srs. Deputados: As consequências desta intempérie são a quebra drástica do rendimento dos agricultores da região que, de acordo com as estimativas do Ministério da Agricultura, apontam para uma destruição total e parcial de cerca 2000 ha, maioritariamente ocupados por vinha.\nEste valor representa uma quebra superior a 30% da produção agrícola total das freguesias e obriga à reposição da capacidade produtiva, nomeadamente da vinha.\nPor estes factos extraordinários, o Grupo Parlamentar do PSD defende e recomenda esta iniciativa com um apoio financeiro também excepcional para os agricultores afectados.\nMas queremos sublinhar que o PSD se recusa hoje, como sempre fez, a utilizar as dificuldades desta região e a fragilidade destes agricultores para fins de mera disputa política.\nO PSD apenas reclama que este Governo dê uma ajuda aos agricultores afectados, à semelhança do que fez no passado, enquanto foi governo e para uma situação análoga.", 
+   "type": "speaker_error"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "A Oradora", 
+   "text": "Relembro que em 2003, a propósito das chuvadas na região de Trás-os-Montes e dos enormes prejuízos que aconteceram, o PS falava de calamidade e reclamava apoios financeiros. Hoje, para uma situação equivalente, acusa os agricultores de falta de prudência por não terem realizado os seguros de", 
    "type": "continuacao"
   }, 
   {
@@ -1106,120 +1440,152 @@
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do PSD: É verdade!", 
+   "speaker": "Vozes do PSD", 
+   "text": "É verdade!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "A Oradora", 
+   "text": "O debate de hoje, Sr. Presidente e Srs. Deputados, foi um triste exercício de incoerência, de demagogia e de falta de \nsolidariedade.\nEstamos habituados à alteração do discurso político do PS consoante o nível que responsabilidades que tem em termos políticos - tem um discurso na oposição e tem sempre outro no poder!", 
    "type": "continuacao"
   }, 
   {
-   "text": "A Oradora: O debate de hoje, Sr. Presidente e Srs. Deputados, foi um triste exercício de incoerência, de demagogia e de falta de \nsolidariedade.\nEstamos habituados à alteração do discurso político do PS consoante o nível que responsabilidades que tem em termos políticos - tem um discurso na oposição e tem sempre outro no poder!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Quando está na oposição, as ajudas do Estado são sempre poucas,…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "A Oradora: Quando está na oposição, as ajudas do Estado são sempre poucas,…", 
-   "type": "continuacao"
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Para o PSD também!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Luís Fazenda* (BE): Para o PSD também!", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "… mas quando está no poder ajuda nenhuma já é mais do que suficiente.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "A Oradora: … mas quando está no poder ajuda nenhuma já é mais do que suficiente.", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Mas esta prática habitual no Partido Socialista hoje ultrapassou os limites do razoável, pela voz do Deputado Jorge Almeida, aqui, nesta Assembleia.\nSr. Deputado, das duas uma: ou acredita no que disse e repete, este fim-de-semana (julgo que ainda vai passar os fins-de-semana à Régua…), aos seus eleitores e representados que os agricultores do Douro não merecem esta ajuda e que seria injusto atribuí-la.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "A Oradora: Mas esta prática habitual no Partido Socialista hoje ultrapassou os limites do razoável, pela voz do Deputado Jorge Almeida, aqui, nesta Assembleia.\nSr. Deputado, das duas uma: ou acredita no que disse e repete, este fim-de-semana (julgo que ainda vai passar os fins-de-semana à Régua…), aos seus eleitores e representados que os agricultores do Douro não merecem esta ajuda e que seria injusto atribuí-la.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Ricardo Martins", 
+   "text": "Exactamente! Isso é que se queria ver!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Ricardo Martins* (PSD): Exactamente! Isso é que se queria ver!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "A Oradora: Espero que o Sr. Deputado diga isso quando lá for este fim-de-semana!", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Espero que o Sr. Deputado diga isso quando lá for este fim-de-semana!", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Ou, em alternativa, o Sr. Deputado não acredita em uma palavra do que disse, mas então o Grupo Parlamentar do PS devia tê-lo poupado a este embaraço e penso que a integridade aconselhava a que o senhor se tivesse abstido de fazer esta intervenção no Plenário.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "O Governo e o Grupo Parlamentar do PS argumentam com a necessidade de seguros agrícolas e alegam que o sistema em vigor está desactualizado.\nO Sr. Ministro está em funções há um ano e meio e perguntamos, com total legitimidade: quando é que o Sr. Ministro passa das palavras aos actos e nos apresenta um quadro legal de seguros agrícolas que favoreça a subscrição dos agricultores mais desfavorecidos? \nMas esta alteração ao sistema de seguros, Srs. Deputados, que recomendamos na nossa proposta, não é uma solução absoluta nem definitiva para os problemas de milhares agricultores. Estes problemas jamais poderão ser encarados através de uma visão simplista que o PS e o Governo estão a adoptar nesta matéria.\nO Grupo Parlamentar do PSD entende que a actividade agrícola desta região não pode ser encarada como uma actividade económica comum.\nA agricultura da região de Trás-os-Montes é multifuncional e, por isso, não pode ser abordada através desta visão redutora da mera produção de bens alimentares.\nA actividade agrícola duriense e transmontana desempenha um papel inestimável na valorização sustentada dos recursos naturais, paisagísticos e patrimoniais das zonas onde se localizam…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: … e um papel igualmente determinante na sustentação do tecido económico e social das zonas rurais e na contenção da desertificação, que corre o risco de se tornar definitiva.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "… e um papel igualmente determinante na sustentação do tecido económico e social das zonas rurais e na contenção da desertificação, que corre o risco de se tornar definitiva.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "É por estas razões excepcionais que a actividade agrícola de Trás-os-Montes e Alto Douro deve ter um estatuto especial. É por estas razões de ordem económica e social que é defensável a existência de apoios financeiros, no mínimo dos mínimos, sempre que estejam em causa as condições mínimas necessárias à sobrevivência do sector.\nSr. Presidente, Srs. Deputados: Estes apoios extraordinários dirigem-se a pequenos produtores transmontanos e durienses, cuja actividade está direccionada para a economia do vinho.\nEsta actividade em Trás-os-Montes e Alto Douro tem inúmeras \ncontrariedades que resultam duma topografia ímpar e da organização do espaço em minifúndio, que originam, naturalmente, sobrecustos de produção, embora compensadas pela raridade e qualidade do produto que geram.\nSão estes produtores que garantem a existência da única marca portuguesa no mundo: o vinho do Porto e do Douro.\nSão estes produtores que desempenham, para a sociedade e para o País, uma função inquantificável do ponto de vista ambiental e territorial, pela preservação do mundo rural.\nE são estes agricultores que, em condições muito duras e adversas, contribuem para o combate à desertificação na região de Trás-os-Montes e Alto Douro, mantendo a humanização e os campos cultivados.\nE foram eles - e mais ninguém - quem fez do Douro património mundial e quem garante a sua conservação para orgulho de todos os portugueses.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Se alguma coisa temos a dizer a estes apoios extraordinários é que são muito poucos face ao contributo que os pequenos agricultores têm feito para o desenvolvimento da região, evitando o abandono do território.\nA perda total das culturas, com consequências drásticas na quebra de rendimento, justifica as ajudas financeiras, porque é ao Estado que cabe apoiar os mais desfavorecidos, os que mais necessitam e os que mais carecem. Apoiá-los em alturas de crise resultante de condições climatéricas destas é um dever do Estado e é um preço irrisório se comparado com a contribuição que eles dão na conservação do património natural português.\nSr. Presidente, Srs. Deputados: Infelizmente, o último ano e meio dá-nos exemplos de sobra para comprovar um desempenho negativo e insuficiente do Governo em matéria de agricultura.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Como ilustração, refiro apenas os casos da seca, do cancelamento das medidas agro-ambientais, das indemnizações \ncompensatórias e da electricidade verde.\nO Sr. Ministro da Agricultura tem mostrado uma atitude conformista, desinteressada e insensível: conformista com a seca, desinteressado quanto ao sector agrícola e insensível como o demonstra a eliminação das indemnizações compensatórias, que agrava as condições económicas e sociais das zonas mais desfavorecidas e carenciadas do País.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Como ilustração, refiro apenas os casos da seca, do cancelamento das medidas agro-ambientais, das indemnizações \ncompensatórias e da electricidade verde.\nO Sr. Ministro da Agricultura tem mostrado uma atitude conformista, desinteressada e insensível: conformista com a seca, desinteressado quanto ao sector agrícola e insensível como o demonstra a eliminação das indemnizações compensatórias, que agrava as condições económicas e sociais das zonas mais desfavorecidas e carenciadas do País.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: Em suma, é este Governo, dito socialista, que tem demonstrado, com o seu modo de governar, uma inaceitável indiferença social, rural e ambiental.\nFoi este Governo socialista que impediu a aplicação das medidas agro-ambientais a cerca de 6000 agricultores durienses.\nFoi este Governo que eliminou as indemnizações compensatórias e a electricidade verde.\nAgora, por último, soubemos neste Plenário que acha injusto ajudar os agricultores do Douro.\nSr. Presidente, Srs. Deputados: Julgo que ficou aqui bem demonstrada a justeza da nossa recomendação, pelo que, esperamos, desta vez o Governo, ao contrário do que hoje já aqui fez o Grupo Parlamentar do Partido Socialista, dê a prova de solidariedade que lhe é exigível na prática governativa e que passe do discurso aos actos.\nPor último, desejamos e recomendamos que o Sr. Ministro reveja a sua atitude e considere os apelos que lhe chegam todos os dias, tomando medidas que dignifiquem esta actividade que há muito ultrapassou a dimensão da pura produção agrícola e se consubstancia hoje numa actividade multifuncional, pela sua importância económica, social, ambiental, rural e cultural.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Em suma, é este Governo, dito socialista, que tem demonstrado, com o seu modo de governar, uma inaceitável indiferença social, rural e ambiental.\nFoi este Governo socialista que impediu a aplicação das medidas agro-ambientais a cerca de 6000 agricultores durienses.\nFoi este Governo que eliminou as indemnizações compensatórias e a electricidade verde.\nAgora, por último, soubemos neste Plenário que acha injusto ajudar os agricultores do Douro.\nSr. Presidente, Srs. Deputados: Julgo que ficou aqui bem demonstrada a justeza da nossa recomendação, pelo que, esperamos, desta vez o Governo, ao contrário do que hoje já aqui fez o Grupo Parlamentar do Partido Socialista, dê a prova de solidariedade que lhe é exigível na prática governativa e que passe do discurso aos actos.\nPor último, desejamos e recomendamos que o Sr. Ministro reveja a sua atitude e considere os apelos que lhe chegam todos os dias, tomando medidas que dignifiquem esta actividade que há muito ultrapassou a dimensão da pura produção agrícola e se consubstancia hoje numa actividade multifuncional, pela sua importância económica, social, ambiental, rural e cultural.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Srs. Deputados, está encerrado o debate deste projecto de resolução n.º 137/X (PSD).\nDado o facto de o debate ter sido agendado ao abrigo do direito potestativo, o PSD requereu a votação desta sua iniciativa legislativa, a que vamos passar de imediato.\nVamos, então, proceder à verificação do quórum, utilizando o cartão electrónico.", 
-   "type": "continuacao"
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está encerrado o debate deste projecto de resolução n.º 137/X (PSD).\nDado o facto de o debate ter sido agendado ao abrigo do direito potestativo, o PSD requereu a votação desta sua iniciativa legislativa, a que vamos passar de imediato.\nVamos, então, proceder à verificação do quórum, utilizando o cartão electrónico.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, o quadro electrónico regista 177 presenças, a que há que somar a de dois Srs. Deputados que assinalaram manualmente a respectiva presença, o que totaliza 179, pelo que temos quórum de votação.\nChamo a atenção dos Srs. Deputados que não conseguiram utilizar os meios electrónicos para assinalar a sua presença de que, no final da sessão, terão de registá-la, por escrito, na folha que os serviços têm à sua disposição para o efeito.\nVamos, pois, proceder à votação do projecto de resolução n.º 137/X - Apoio extraordinário à vinha do Douro (PSD).", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi rejeitado, com votos contra do PS e votos a favor do PSD, do PCP, do CDS-PP, do BE e de Os Verdes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, estão concluídos os nossos trabalhos de hoje.\nA próxima sessão plenária terá lugar na quarta-feira, pelas 15 horas, com a seguinte ordem de trabalhos: período de antes da ordem do dia, seguido de período da ordem do dia que constará da reapreciação do Decreto da Assembleia da República n.º 52/X e, ainda, da discussão, na generalidade, primeiro, da proposta de lei n.º 80/X e, depois, da proposta de lei n.º 79/X, havendo lugar a votações no final do debate.\nEstá encerrada a sessão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 11 horas e 55 minutos.", 
@@ -1228,65 +1594,77 @@
   {
    "speaker": "Srs. Deputados que entraram durante a sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS): \nCláudia Isabel Patrício do Couto Vieira \nJosé Alberto Rebelo dos Reis Lamego \nJosé Augusto Clemente de Carvalho \nJoão Barroso Soares \nManuel António Gonçalves Mota da Silva \nNuno Mário da Fonseca Oliveira Antão \nRicardo Manuel Ferreira Gonçalves \nSandra Marisa dos Santos Martins Catarino da Costa \nVítor Manuel Pinheiro Pereira", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que entraram durante a sessão", 
    "text": "Partido Social Democrata (PSD): \nAntónio Paulo Martins Pereira Coelho \nDomingos Duarte Lima \nDuarte Rogério Matos Ventura Pacheco \nLuís Miguel Pais Antunes \nLuís Miguel Pereira de Almeida \nMaria Helena Passos Rosa Lopes da Costa \nMiguel Bento Martins da Costa de Macedo e Silva \nMiguel Fernando Cassola de Miranda Relvas \nMário Patinha Antão \nPedro Miguel de Azeredo Duarte", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que entraram durante a sessão", 
    "text": "Partido Comunista Português (PCP): \nArtur Jorge da Silva Machado \nJosé Honório Faria Gonçalves Novo", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que entraram durante a sessão", 
    "text": "Partido Popular (CDS-PP): \nNuno Miguel Miranda de Magalhães \nPaulo Sacadura Cabral Portas", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Srs. Deputados não presentes à sessão por se encontrarem em missões internacionais", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados não presentes à sessão por se encontrarem em missões internacionais", 
    "text": "Partido Socialista (PS): \nAna Catarina Veiga Santos Mendonça Mendes", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados não presentes à sessão por se encontrarem em missões internacionais", 
    "text": "António Ramos Preto \nJaime José Matos da Gama \nJosé Eduardo Vera Cruz Jardim \nMaria Manuela de Macedo Pinho e Melo \nRicardo Manuel de Amaral Rodrigues \nVitor Manuel Sampaio Caetano Ramalho", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados não presentes à sessão por se encontrarem em missões internacionais", 
    "text": "Partido Comunista Português (PCP): \nAbílio Miguel Joaquim Dias Fernandes", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados não presentes à sessão por se encontrarem em missões internacionais", 
    "text": "Partido Popular (CDS-PP): \nTelmo Augusto Gomes de Noronha Correia", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Srs. Deputados que faltaram à sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à sessão", 
    "text": "Partido Socialista (PS): \nAntónio Bento da Silva Galamba \nGlória Maria da Silva Araújo \nHugo Miguel Guerreiro Nunes \nIsabel Maria Pinto Nunes Jorge \nJoaquim Augusto Nunes Pina Moura \nJosé Carlos Correia Mota de Andrade \nLuiz Manuel Fagundes Duarte \nLuísa Maria Neves Salgueiro \nManuel Francisco Pizarro de Sampaio e Castro \nMarcos Sá Rodrigues \nMaria Júlia Gomes Henriques Caré \nMaximiano Alberto Rodrigues Martins \nRosa Maria da Silva Bastos da Horta Albernaz", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à sessão", 
    "text": "Partido Social Democrata (PSD): \nAntónio Alfredo Delgado da Silva Preto \nCarlos Alberto Silva Gonçalves \nCarlos António Páscoa Gonçalves \nFeliciano José Barreiras Duarte \nJoaquim Virgílio Leite Almeida Costa \nJosé Eduardo Rego Mendes Martins \nJosé Manuel Ferreira Nunes Ribeiro \nLuís Manuel Gonçalves Marques Mendes \nLuís Álvaro Barbosa de Campos Ferreira \nMaria Ofélia Fernandes dos Santos Moleiro \nRegina Maria Pinto da Fonseca Ramos Bastos \nRui Manuel Lobo Gomes da Silva", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à sessão", 
    "text": "Partido Comunista Português (PCP): \nMaria Odete dos Santos", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à sessão", 
    "text": "Partido Popular (CDS-PP): \nAntónio de Magalhães Pires de Lima \nDiogo Nuno de Gouveia Torres Feio \nJoão Nuno Lacerda Teixeira de Melo", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

@@ -33,8 +33,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quorum pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quorum pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 15 horas e 20 minutos.", 
@@ -43,458 +44,559 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, como foi acordado na conferência dos grupos parlamentares e anunciado na última sessão, hoje não haverá período de antes da ordem do dia, pelo que a sessão de hoje é completamente preenchida com a eleição da Mesa da Assembleia da República para a 5.ª sessão legislativa, iniciada em 15 de Outubro corrente.\nEntretanto, desejava, e penso não dever deixar de o fazer, informar a Câmara de que a resolução sobre a situação em Timor Leste, aprovada por unanimidade nesta Assembleia na passada terça-feira. Foi ontem mesmo, com a colaboração do Ministério dos Negócios Estrangeiros, transmitida a todos os embaixadores de Portugal junto dos Estados membros da Organização das Nações Unidas, com a indicação de que procurem diligenciar, com a maior urgência, no sentido de que o texto da mesma seja entregue aos presidentes dos parlamentos ou a instituições análogas de todos os Estados membros da Organização das Nações Unidas.\nVai agora ser lido pelo Sr. Secretário Vítor Brás um relatório e parecer da Comissão de Regimento e Mandatos.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, como foi acordado na conferência dos grupos parlamentares e anunciado na última sessão, hoje não haverá período de antes da ordem do dia, pelo que a sessão de hoje é completamente preenchida com a eleição da Mesa da Assembleia da República para a 5.ª sessão legislativa, iniciada em 15 de Outubro corrente.\nEntretanto, desejava, e penso não dever deixar de o fazer, informar a Câmara de que a resolução sobre a situação em Timor Leste, aprovada por unanimidade nesta Assembleia na passada terça-feira. Foi ontem mesmo, com a colaboração do Ministério dos Negócios Estrangeiros, transmitida a todos os embaixadores de Portugal junto dos Estados membros da Organização das Nações Unidas, com a indicação de que procurem diligenciar, com a maior urgência, no sentido de que o texto da mesma seja entregue aos presidentes dos parlamentos ou a instituições análogas de todos os Estados membros da Organização das Nações Unidas.\nVai agora ser lido pelo Sr. Secretário Vítor Brás um relatório e parecer da Comissão de Regimento e Mandatos.", 
+   "type": "presidente"
   }, 
   {
-   "party": "Vítor Brás): O relatório e parecer da Comissão de Regimento e Mandatos é do seguinte teor", 
-   "speaker": "O Sr. *Secretário*", 
-   "text": "", 
-   "type": "continuacao"
+   "party": "Vítor Brás", 
+   "speaker": "Secretário", 
+   "text": "O relatório e parecer da Comissão de Regimento e Mandatos é do seguinte teor:", 
+   "type": "secretario"
   }, 
   {
    "speaker": "Em reunião realizada no dia 21 de Outubro de 1982, pelas 14 horas e 30 minutos, foram observadas as seguintes substituições de deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
    "speaker": "1) Solicitadas pelo Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "1) Solicitadas pelo Partido Social-Democrata", 
    "text": "Fernando Alfredo Gil Moutinho Garcez (círculo eleitoral de Castelo Branco) por João Bernardo Ferreira (esta substituição é pedida para os próximos dias 26 a 29 de Outubro corrente, inclusive); \nMaria Adelaide Santos Almeida Paiva (círculo eleitoral de Lisboa) por Dinah Serrão Alhandra (esta substituição é pedida para os próximos dias 26 a 28 de Outubro corrente, inclusive); \nFernando Sequeira Roriz (círculo eleitoral de Braga) por Octávio Pereira Machado", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "1) Solicitadas pelo Partido Social-Democrata", 
    "text": "42 I SÉRIE - NÚMERO 2", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "1) Solicitadas pelo Partido Social-Democrata", 
    "text": "(esta substituição é pedida por um período não superior a 1 mês, a partir do passado dia 20 de Outubro corrente, inclusive);", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
    "speaker": "2) Solicitadas pelo Partido do Centro Democrático Social", 
    "text": "", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "2) Solicitadas pelo Partido do Centro Democrático Social", 
    "text": "José Miguel Nunes Anacoreta Correia (círculo eleitoral de Faro) por João Machado Cantinho Figueiras de Andrade (esta substituição é pedida para os dias 22 de Outubro corrente a 5 de Novembro próximo, inclusive); \nDuarte Nuno da Silva e Correia de Vasconcelos (círculo eleitoral de Santarém) por Jorge Manuel de Moura Neves Fernandes (esta substituição é pedida para os dias 21 e 22 de Outubro corrente, inclusive); Alberto Henriques Coimbra (círculo eleitoral de Viseu) por Manuel Augusto de Lemos Couto Azevedo (esta substituição e pedida para o dia 21 de Outubro corrente); \nNarana Sinai Coissoró (círculo eleitoral de Lisboa) por Pedro Eduardo Freitas de Sampaio (esta substituição é pedida para o dia 21 de Outubro corrente); \nDuarte Nuno da Silva e Correia de Vasconcelos (círculo eleitoral de Santarém) por Jorge Manuel de Moura Neves Fernandes (esta substituição é pedida para o próximo dia 26 de Outubro corrente).\nAnalisados os documentos pertinentes de que a Comissão dispunha, verificou-se que os substitutos indicados são realmente os candidatos não eleitos que devem ser chamados ao exercício de funções, \nconsiderando a ordem de precedência das respectivas listas eleitorais apresentadas a sufrágio pelos aludidos partidos nos concernentes círculos eleitorais.\nForam observados os preceitos regimentais e legais aplicáveis.\nFinalmente, a Comissão entende proferir o seguinte parecer: \nAs substituições em causa são de admitir, uma vez que se encontram verificados os requisitos legais.\nO presente relatório foi aprovado por unanimidade dos deputados presentes .", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "2) Solicitadas pelo Partido do Centro Democrático Social", 
    "text": "A Comissão: Presidente, Mário Júlio Montalvão Machado (PSD) - Vice-Presidente, António Cândido Miranda Macedo (PS) - Secretário, José Manuel Maia Nunes de Almeida (PCP) - António Duarte e Duarte Chagas (PSD) - Mário Marques Ferreira Maduro (PSD) - Nicolau Gregário de Freitas (PSD) - Valdemar Cardoso Alves (PSD) - Armando dos Santos Lopes (PS) - Alfredo Pinto da Silva (PS) - Armando de Oliveira (CDS) - Álvaro Augusto Veiga de Oliveira (PCP) - Jorge Manuel Abreu de Lemos (PCP) - António Cardoso Moniz (PPM) - Manuel Cardoso Vilhena de Carvalho (ASDI) - António Manuel de Carvalho F. Vitorino (UEDS) - Herberto de Castro Goulart da Silva (MDP).", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos votar o relatório e parecer.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Vamos votar o relatório e parecer.\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência da UDP.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetido à votação, foi aprovado por unanimidade, registando-se a ausência da UDP.", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "José Alberto Xerez", 
+   "text": "Sr. Presidente, ao abrigo das disposições regimentais, requeiro a suspensão da sessão por 30 minutos.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *José Alberto Xerez* (CDS): Sr. Presidente, ao abrigo das disposições regimentais, requeiro a suspensão da sessão por 30 minutos.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: É regimental.\nEstá suspensa a sessão por 30 minutos.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "É regimental.\nEstá suspensa a sessão por 30 minutos.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 15 horas e 25 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está reaberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 15 horas e 55 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos proceder à eleição da Mesa da Assembleia para a nova sessão legislativa. Parece-me oportuno, antes disso, pedir-vos alguns minutos para, ao concluir o meu mandato, exprimir a todos os meus melhores agradecimentos pessoais pela colaboração que de todos recebi durante este ano em que tive a meu cargo a honrosa responsabilidade de presidir à Assembleia da República.\nGraças à colaboração de todos, repito, foi possível assegurar o correcto funcionamento do órgão-chave do regime. Foi um ano de discussões e de tensões vivas - que em si mesmas são normal confirmação da vitalidade do Órgão de Soberania e da diversidade de opiniões e de projectos políticos aqui presentes, de acordo com a vontade do eleitorado. No entanto, foi afirmação também de um órgão de Soberania, como tal, sempre unido; todos temos consciência de que nunca as divergências se assemelharam a ameaças de ruptura. Na diversidade, que é sua regra, com maiorias, minorias, muitas vezes unanimidade, a Assembleia cumpriu o seu dever.\nNo que diz respeito ao relacionamento com outros Órgãos de Soberania, penso que ninguém poderá acusar-nos de qualquer posição colectiva que pusesse em causa a normalidade do necessário e correcto relacionamento institucional entre os órgãos superiores do Estado. Assim, também, nesse contexto mais amplo, a Assembleia da República cumpriu o seu dever.\nQuando assumi as funções que agora vou deixar dei conta das \npreocupações que me causavam e causam as condições de instalação e funcionamento da Assembleia, designadamente as condições de trabalho dos deputados - o que tem a ver também com o seu Estatuto e com o nosso Regimento -, a orgânica dos serviços, os espaços e equipamentos, as condições de trabalho dos funcionários e dos órgãos de comunicação, as possibilidades de atender correctamente os visitantes e até as condições de segurança do edifício e as próprias instalações do público que acompanha as nossas sessões de trabalho. Também a situação em que se encontrava parte importante do património da Assembleia era muito preocupante.\nSão preocupações que vinham de trás e que tive muito presentes no decurso do mandato. Alguns passos, que julgo interessantes, foram dados. Constata-", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos proceder à eleição da Mesa da Assembleia para a nova sessão legislativa. Parece-me oportuno, antes disso, pedir-vos alguns minutos para, ao concluir o meu mandato, exprimir a todos os meus melhores agradecimentos pessoais pela colaboração que de todos recebi durante este ano em que tive a meu cargo a honrosa responsabilidade de presidir à Assembleia da República.\nGraças à colaboração de todos, repito, foi possível assegurar o correcto funcionamento do órgão-chave do regime. Foi um ano de discussões e de tensões vivas - que em si mesmas são normal confirmação da vitalidade do Órgão de Soberania e da diversidade de opiniões e de projectos políticos aqui presentes, de acordo com a vontade do eleitorado. No entanto, foi afirmação também de um órgão de Soberania, como tal, sempre unido; todos temos consciência de que nunca as divergências se assemelharam a ameaças de ruptura. Na diversidade, que é sua regra, com maiorias, minorias, muitas vezes unanimidade, a Assembleia cumpriu o seu dever.\nNo que diz respeito ao relacionamento com outros Órgãos de Soberania, penso que ninguém poderá acusar-nos de qualquer posição colectiva que pusesse em causa a normalidade do necessário e correcto relacionamento institucional entre os órgãos superiores do Estado. Assim, também, nesse contexto mais amplo, a Assembleia da República cumpriu o seu dever.\nQuando assumi as funções que agora vou deixar dei conta das \npreocupações que me causavam e causam as condições de instalação e funcionamento da Assembleia, designadamente as condições de trabalho dos deputados - o que tem a ver também com o seu Estatuto e com o nosso Regimento -, a orgânica dos serviços, os espaços e equipamentos, as condições de trabalho dos funcionários e dos órgãos de comunicação, as possibilidades de atender correctamente os visitantes e até as condições de segurança do edifício e as próprias instalações do público que acompanha as nossas sessões de trabalho. Também a situação em que se encontrava parte importante do património da Assembleia era muito preocupante.\nSão preocupações que vinham de trás e que tive muito presentes no decurso do mandato. Alguns passos, que julgo interessantes, foram dados. Constata- 22 DE OUTUBRO DE 1982 43", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "22 DE OUTUBRO DE 1982 43", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "ram-se dificuldades e resistências previsíveis ou inesperadas para que o percurso ...\nNeste momento, verifica-se um ruído cie fundo na sala.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *António Arnaut* (PS): Sr. Presidente, devido ao ruído, a sua comunicação não está a ser ouvida!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "António Arnaut", 
+   "text": "Sr. Presidente, devido ao ruído, a sua comunicação não está a ser ouvida!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Luís Nunes* (PS): Sr. Presidente, desculpe interrompê-lo, mas peço a palavra.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
+   "text": "Sr. Presidente, desculpe interrompê-lo, mas peço a palavra.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Luís Nunes* (PS): Sr. Presidente, é que consideramos a comunicação de V. Ex.ª da mais alta importância e pensamos que deve ser ouvida pelos Srs. Deputados com toda a atenção e todo o respeito, devido à alta função que V. Ex.ª exerce.\nPropúnhamos, portanto, que suspendesse a sua comunicação, até que se criem as condições para que ela possa ser devidamente escutada.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
+   "text": "Sr. Presidente, é que consideramos a comunicação de V. Ex.ª da mais alta importância e pensamos que deve ser ouvida pelos Srs. Deputados com toda a atenção e todo o respeito, devido à alta função que V. Ex.ª exerce.\nPropúnhamos, portanto, que suspendesse a sua comunicação, até que se criem as condições para que ela possa ser devidamente escutada.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Agradeço-lhe muito, Sr. Deputado José Luís Nunes.\nDe qualquer maneira, falta muito pouco para concluir a comunicação que entendi necessário e conveniente fazer.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Agradeço-lhe muito, Sr. Deputado José Luís Nunes.\nDe qualquer maneira, falta muito pouco para concluir a comunicação que entendi necessário e conveniente fazer.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Peço também a palavra. Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Peço também a palavra. Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Sr. Presidente, na sequência da intervenção do Sr. Deputado José Luís Nunes, solicitava à Mesa que pedisse aos funcionários para suspenderem a distribuição de votos enquanto o Sr. Presidente está no uso da palavra. É mais um factor de confusão que não permite que a Câmara oiça a sua intervenção com a atenção que é devida e que merece.", 
-   "type": "continuacao"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Sr. Presidente, na sequência da intervenção do Sr. Deputado José Luís Nunes, solicitava à Mesa que pedisse aos funcionários para suspenderem a distribuição de votos enquanto o Sr. Presidente está no uso da palavra. É mais um factor de confusão que não permite que a Câmara oiça a sua intervenção com a atenção que é devida e que merece.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Muito obrigado, Sr. Deputado.\nReferia-me há pouco a várias preocupações que vinham de trás e que tive muito presentes no decurso do mandato. Alguns passos, que julgo interessantes, foram dados. Constataram-se dificuldades e resistências previsíveis ou inesperadas para que o percurso que há-de levar à resolução dos problemas fosse mais rápido, sem prejuízo da ponderação e da qualidade das soluções. São problemas da Assembleia que a Assembleia, estou certo, toma como seus e resolverá. Por mini, procurei impulsionar o que estava ao meu alcance e, também nesse aspecto, saio com tranquilidade de espírito.\nPermitam-me ainda, Srs. Deputados, que sublinhe o clima de bom entendimento e de busca de consensos com que se desenvolveram sempre os trabalhos do órgão importantíssimo que é, para o Presidente e para a Assembleia, a conferência dos grupos parlamentares; que exprima a minha satisfação pessoal pelo espírito de colaboração, de solidariedade e de disponibilidade para o serviço da Assembleia que uniu todos os membros da Mesa -os Srs. Vice-Presidentes, Secretários e Vice-Secretários -, a quem desejo exprimir a minha homenagem e o meu melhor apreço e agradecimento.\nFinalmente - por imperativo de justiça e não como quem segue um costume -, a expressão do meu apreço pelos funcionários da Assembleia e pelos agentes das forças de segurança. Todos aqui trabalham, em condições bem mais penosas e difíceis, e que cumpre reconhecer, corrigir logo que possível, mas também verificar como, em regra, são superadas pela boa vontade, dedicação e competência de que há casos tão exemplares, como tão frequentemente discretos.\nConnosco trabalham diariamente representantes dos órgãos de \ncomunicação, a quem, igualmente, não temos podido propiciar condições adequadas e que têm de superar com esforço e cansaço essas \ndeficiências. A todos eles a expressão do meu respeito e simpatia.\nVai a Assembleia eleger a sua Mesa e o seu Presidente para a próxima sessão legislativa. Desde já aos que forem eleitos -e para bem de todos nós, da instituição e do regime de que é chave- desejo e auguro as maiores felicidades neste serviço, que é e tem de ser cada vez melhor ao serviço do regime e do povo português que aqui representamos.\nMuito obrigado pela vossa atenção.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Muito obrigado, Sr. Deputado.\nReferia-me há pouco a várias preocupações que vinham de trás e que tive muito presentes no decurso do mandato. Alguns passos, que julgo interessantes, foram dados. Constataram-se dificuldades e resistências previsíveis ou inesperadas para que o percurso que há-de levar à resolução dos problemas fosse mais rápido, sem prejuízo da ponderação e da qualidade das soluções. São problemas da Assembleia que a Assembleia, estou certo, toma como seus e resolverá. Por mini, procurei impulsionar o que estava ao meu alcance e, também nesse aspecto, saio com tranquilidade de espírito.\nPermitam-me ainda, Srs. Deputados, que sublinhe o clima de bom entendimento e de busca de consensos com que se desenvolveram sempre os trabalhos do órgão importantíssimo que é, para o Presidente e para a Assembleia, a conferência dos grupos parlamentares; que exprima a minha satisfação pessoal pelo espírito de colaboração, de solidariedade e de disponibilidade para o serviço da Assembleia que uniu todos os membros da Mesa -os Srs. Vice-Presidentes, Secretários e Vice-Secretários -, a quem desejo exprimir a minha homenagem e o meu melhor apreço e agradecimento.\nFinalmente - por imperativo de justiça e não como quem segue um costume -, a expressão do meu apreço pelos funcionários da Assembleia e pelos agentes das forças de segurança. Todos aqui trabalham, em condições bem mais penosas e difíceis, e que cumpre reconhecer, corrigir logo que possível, mas também verificar como, em regra, são superadas pela boa vontade, dedicação e competência de que há casos tão exemplares, como tão frequentemente discretos.\nConnosco trabalham diariamente representantes dos órgãos de \ncomunicação, a quem, igualmente, não temos podido propiciar condições adequadas e que têm de superar com esforço e cansaço essas \ndeficiências. A todos eles a expressão do meu respeito e simpatia.\nVai a Assembleia eleger a sua Mesa e o seu Presidente para a próxima sessão legislativa. Desde já aos que forem eleitos -e para bem de todos nós, da instituição e do regime de que é chave- desejo e auguro as maiores felicidades neste serviço, que é e tem de ser cada vez melhor ao serviço do regime e do povo português que aqui representamos.\nMuito obrigado pela vossa atenção.\nAplausos do PSD, do PS, do CDS, do PPM, da ASDI, da UEDS, do MDP/CDE e de alguns deputados do PCP.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Aplausos do PSD, do PS, do CDS, do PPM, da ASDI, da UEDS, do MDP/CDE e de alguns deputados do PCP.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, perdõem-me que lhes recorde o que na última reunião da conferência dos presidentes dos grupos parlamentares ficou assente acerca da metodologia para a votação.\nOs serviços de apoio ao Plenário estão a distribuir envelopes que contêm os vários boletins de voto. Para a eleição do Presidente da Assembleia da República há um boletim para cada candidato, do qual consta apenas o nome, um ou outro, e um em branco. É considerado nulo o boletim que contenha qualquer sinal e os votos nulos não contam para o apuramento da maioria.\nPara a eleição dos Vice-Presidentes da Assembleia da República há um boletim único para os 4 candidatos e à frente de cada nome há 2 rectângulos para assinalar «sim» ou «não». O voto em que se verifique a não existência de uma cruz em qualquer dos rectângulos relativos a qualquer dos candidatos será considerado voto em branco. Os votos afirmativos e negativos corresponderão naturalmente a uma cruz no rectângulo «sim» ou no rectângulo «não» e qualquer outro sinal, exceptuando essa cruz referida, determina a nulidade do voto, que será aferida em relação a cada candidato.\nPara a eleição dos Secretários e Vice-Secretários da Assembleia da República há um outro boletim, de cor-de-rosa, e as regras aplicáveis serão as que acabei de enunciar para a lista respeitante aos Vice-Presidentes.\nNo apuramento dos resultados seguir-se-á o processo que está disposto no Regimento.\nConvido para escrutinadores os Srs. Deputados Valdemar Alves, pelo PSD, e Guilherme Santos, pelo PS.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "44 I SÉRIE -NUMERO 2", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vai então proceder-se à votação, que, como é normal, será iniciada pelos elementos da Mesa, após o que serão chamados os senhores deputados.\nPede-se que, para evitar problemas de trânsito, os Srs. Deputados entrem na mesa das umas pela direita e saiam pela esquerda.\n_Procedeu-se à votação_.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, chegámos ao fim da chamada para a votação e, enquanto se procede ao escrutínio, suspendo a sessão até às 17 horas e 30 minutos.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, chegámos ao fim da chamada para a votação e, enquanto se procede ao escrutínio, suspendo a sessão até às 17 horas e 30 minutos.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 16 horas e 50 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Procedeu-se ao escrutínio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está reaberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 18 horas e 35 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, cumpre-me informar a Câmara dos resultados do escrutínio a que acabámos de proceder, relativo à eleição da Mesa da Assembleia da República para a presente sessão legislativa.\nEleição para Secretários (votos expressos, 234):", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, cumpre-me informar a Câmara dos resultados do escrutínio a que acabámos de proceder, relativo à eleição da Mesa da Assembleia da República para a presente sessão legislativa.\nEleição para Secretários (votos expressos, 234):\nReinaldo Alberto Ramos Gomes (PSD) - votos a favor, 190; votos contra, 35; abstenções, 9.\nVítor Manuel Brás (PS) - votos a favor, 189; votos contra, 36; abstenções, 8; votos nulos, 1.\nManuel António de Almeida de Azevedo e Vasconcelos (CDS) - votos a favor, 151; votos contra, 72: abstenções, 10; votos nulos, 1.\nJosé Manuel Maia Nunes de Almeida (PCP) - votos a favor, 180; votos contra, 39; abstenções, 15.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Reinaldo Alberto Ramos Gomes (PSD) - votos a favor, 190; votos contra, 35; abstenções, 9.\nVítor Manuel Brás (PS) - votos a favor, 189; votos contra, 36; abstenções, 8; votos nulos, 1.\nManuel António de Almeida de Azevedo e Vasconcelos (CDS) - votos a favor, 151; votos contra, 72: abstenções, 10; votos nulos, 1.\nJosé Manuel Maia Nunes de Almeida (PCP) - votos a favor, 180; votos contra, 39; abstenções, 15.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "São estes os 4 Secretários da Mesa, que proclamo eleitos.\nEleição para Vice-Secretários (votos expressos, 234):", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Anacleto da Silva Batista (PSD) - votos a favor, 180; votos contra, 41; abstenções, 13.\nGuilherme Gomes dos Santos (PS - votos a favor, 180; votos contra, 39; abstenções, 14; votos nulos, 1.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Considero os 2 Vice-Secretários eleitos.\nEleição para Vice-Presidentes (votos expressos, 234):", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Amândio Anes de Azevedo (PSD) - votos a favor, 151; votos contra, 66; votos brancos, 17.\nManuel Alfredo Tito de Morais (PS) - votos a favor, 164; votos contra, 54; votos brancos, 15; votos nulos, 1.\nAmérico Maria Coelho Gomes de Sá (CDS) - votos a favor, 155; votos contra, 62; votos brancos, 17.\nJosé Rodrigues Vitoriano (PCP) - votos a favor, 133; votos contra, 78; votos brancos, 23.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "São estes os 4 Vice-Presidentes, que em virtude desta votação proclamo eleitos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "votos expressos, 234", 
    "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votos expressos, 234", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Leonardo Ribeiro de Almeida - votos a favor, 84.\nTeófilo Carvalho dos Santos - votos a favor, 109.\nVotos brancos, 38.\nVotos nulos, 3.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votos expressos, 234", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Nestas circunstâncias, o Sr. Deputado Teófilo Carvalho dos Santos teve uma maioria relativa, não atingindo o número de votos necessários, ou seja, mais do que metade dos votos expressos.\nAssim, nos termos do n.º 4 do artigo 23.º do Regimento, devemos proceder de imediato a segundo sufrágio, ao qual concorrerão os mesmos candidatos.\nPedia aos serviços que procedessem a nova distribuição de votos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "party": "votos expressos, 234", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Srs. Deputados, vamos proceder de novo à votação para a eleição do Presidente da Assembleia da República.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Procedeu-se a à votação.", 
    "type": "nota"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, suspendo a sessão por 15 minutos, para apuramento dos resultados do escrutínio.\nSimultaneamente, agradecia aos senhores presidentes dos grupos parlamentares o favor de comparecerem no gabinete da presidência, para uma breve reunião.", 
-   "type": null
-  }, 
-  {
-   "text": "Está suspensa a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, suspendo a sessão por 15 minutos, para apuramento dos resultados do escrutínio.\nSimultaneamente, agradecia aos senhores presidentes dos grupos parlamentares o favor de comparecerem no gabinete da presidência, para uma breve reunião.\nEstá suspensa a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 19 horas e 15 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está reaberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 19 horas e 40 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, cumpre-me informar a Câmara dos resultados do segundo escrutínio para a eleição do Presidente da Assembleia da República na presente sessão legislativa.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, cumpre-me informar a Câmara dos resultados do segundo escrutínio para a eleição do Presidente da Assembleia da República na presente sessão legislativa.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "votantes, 233", 
    "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Votos brancos, 36.\nVotos nulos, 3.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Leonardo Ribeiro de Almeida - 86 votos a favor.\nTeófilo Carvalho dos Santos - 108 votos a favor.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "O Sr. Deputado Teófilo Carvalho dos Santos, como há pouco, tem maioria.\nNo entanto, não atinge a maioria prevista nos termos regimentais - confirmados em conferência recente -, uma vez que havendo 230 votos validamente expressos haveria necessidade de ter 116 votos a favor.\nNestas condições, o Presidente não está eleito e nos termos do n.º 5 do artigo 23.º do Regimento está reaberto o processo eleitoral.\nEm conferência dos presidentes dos grupos parlamentares, agora realizada, assentámos nos seguintes pontos: o novo escrutínio para eleição do Presidente da Assembleia da República para a presente sessão legislativa fica, em princípio, fixado para 3 de No-", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "22 DE OUTUBRO DE 1982 45", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "vembro, com a entrega de candidaturas, nos termos regimentais, até 29 de Outubro. Digo em princípio porque estava previsto que em 5 de Novembro tivesse lugar a interpelação pedida pela UEDS e na conferência dos presidentes dos grupos parlamentares não estava presente nenhum representante, nem da UEDS, nem do Governo. Pode, portanto, haver qualquer dificuldade quanto a essa data.\nEm todo o caso, poderíamos sempre proceder a um ajustamento de 1 dia, sendo certo que todos conviemos que o dia 2 de Novembro seria inconveniente para muitos deputados, sobretudo os de fora de Lisboa.\nNa mesma conferência assentámos que a eleição dos membros do Conselho de Estado a designar por esta Assembleia terá lugar na quinta-feira, 28 de Outubro, com entrega de candidaturas, nos termos regimentais, até ao fim da sessão de terça-feira, dia 26.\nA ordem do dia para a sessão de amanhã, dia 22. mantém-se a que estava prevista: discussão e votação da proposta de alteração do artigo 242.º-A do Regimento, que foi há dias entregue na Mesa e que já foi anunciada.\nA sessão terá início às 10 horas. Haverá período de antes da ordem do dia e o período da ordem do dia será preenchido com a discussão e votação já referidas.\nDeu entrada na Mesa a proposta de lei n.º 134/II, subscrita pelo Vice-Primeiro-Ministro. que aprova paia ratificação o acordo de cooperação no domínio da saúde entre a República Portuguesa e a República Popular de Angola, a qual é admitida e baixa à 13.ª Comissão.\nEstá encerrada a sessão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 19 horas e 45 minutos.", 
    "type": "hora"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Estavam presentes, os seguintes Srs. Deputados: Partido \nSocial-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Adérito Manuel Soares Campos.\nAfonso de Sousa Freire Moura Guedes.\nÁlvaro Barros Marques Figueiredo.\nAmadeu Afonso Rodrigues dos Santos.\nAmélia Cavaleiro M. de Andrade Azevedo.\nAmérico Abreu Dias.\nAnacleto Silva Baptista.\nAntónio Augusto Lacerda de Queiroz.\nAntónio Duarte e Duarte Chagas.\nAntónio Maria de O. Ourique Mendes.\nAntónio Roleira Marinho.\nAntónio Vilar Ribeiro.\nArmando Lopes Correia Costa.\nArménio Jerónimo Martins Matias.\nBernardino da Costa Pereira.\nCarlos Mattos Chaves de Macedo.\nCecília Pita Catarino.\nDaniel Abílio Ferreira Bastos.\nDaniel Cunha Dias.\nEleutério Manuel Alves \nFernando José da Costa.\nFernando Manuel Cardote B. Mesquita.\nFernando Manuel Cardoso Ferreira.\nFernando dos Reis Condesso.\nFrancisco Mendes Costa.\nJoão Afonso Gonçalves.\nJoão Evangelista Rocha Almeida.\nJoão Vasco da Luz Botelho Paiva.\nJoaquim Manuel Cabrita Neto.\nJoaquim Pinto.\nJosé Augusto Ferreira de Campos.\nJosé Luís Figueiredo Lopes.\nJosé Manuel Pinheiro Barradas.\nJosé Mário de Lemos Damião.\nJosé de Vargas Bulcão.\nJúlio Lemos Castro Caldas.\nLeonardo Eugénio R. Ribeiro de Almeida.\nLeonel Santa Rita Pires.\nManuel António Araújo dos Santos.\nManuel da Costa Andrade.\nManuel João Vaz Freixo.\nManuel Maria Moreira.\nManuel Maria Portugal da Fonseca.\nManuel Pereira.\nManuel Ribeiro Arruda.\nMaria da Glória Rodrigues Duarte.\nMaria Manuel Aguiar Dias Moreira.\nMarília Dulce Coelho Pires D. Raimundo.\nMário Ferreira Bastos Raposo.\nMário Júlio Montalvão Machado.\nMário Marques Ferreira Maduro.\nNatália de Oliveira Correia.\nNuno Aires Rodrigues dos Santos.\nPedro Augusto Cunha Pinto.\nPedro Miguel Santana Lopes.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Barradas do Amaral.\nValdemar Cardoso Alves.\nVictor Pereira Crespo.\nVasco Francisco Aguiar Miguel.\nVirgílio António Pinto Nunes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Adelino Teixeira de Carvalho.\nAlberto Arons Braga de Carvalho.\nAlberto Marques Antunes.\nAlberto Marques de Oliveira e Silva.\nAlfredo José Somera Simões Barroso.\nAlfredo Pinto da Silva.\nAntónio de Almeida Santos.\nAntónio Duarte Arnaut.\nAntónio Cândido Miranda Macedo.\nAntónio Carlos Ribeiro Campos.\nAntónio Emílio Teixeira Lopes.\nAntónio Fernandes da Fonseca.\nAntónio Francisco B. Sousa Gomes.\nAntónio Gonçalves Janeiro.\nAntónio José Sanches Esteves.\nAntónio Magalhães da Silva.\nAntónio Manuel Azevedo Gomes.\nAntónio Manuel de Oliveira Guterres.\nAquilino Ribeiro Machado.\nArmando dos Santos Lopes.\nAvelino Ferreira Loureiro Zenha.\nBeatriz Cal Brandão.\nCarlos Cardoso Lage.\nEduardo Ribeiro Pereira.\nFausto Sacramento Marques.\nFernando Torres Marinho.\nFernando Verdasca Vieira.\nFrancisco de Almeida Salgado Zenha \nFrancisco Manuel Marcelo Curto.\nGuilherme Gomes dos Santos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "46 I SÉRIE -NÚMERO 2", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "João Alfredo Félix Vieira Lima.\nJoão Francisco Ludovico da Costa.\nJoaquim José Catanho de Menezes.\nJoaquim Sousa Gomes Carneiro.\nJosé Luís Amaral Nunes.\nJosé Manuel Niza Antunes Mendes.\nJúlio Filipe de Almeida Carrapato.\nJúlio Francisco Miranda Calha.\nLeonel de Sousa Fadigas.\nLuís Filipe Nascimento Madeira.\nLuís Manuel César Nunes de Almeida.\nLuís Manuel dos Santos Silva Patrão.\nLuís Silvério Gonçalves Saias.\nManuel Alfredo Tito de Morais.\nManuel António dos Santos.\nManuel Francisco da Costa.\nManuel da Mata de Cáceres.\nManuel Trindade Reis.\nMário Manuel Cal Brandão.\nRaul d'Assunção Pimenta Rego.\nRui Fernando Pereira Mateus.\nTeófilo Carvalho dos Santos.\nVergílio Fernando M. Rodrigues.\nVítor Manuel Brás.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Alexandre Correia de Carvalho Reigoto.\nAmérico Maria Coelho Gomes de Sá.\nAntónio Mendes Carvalho.\nAntónio Pedro Silva Lourenço.\nArmando Domingos L. Ribeiro Oliveira.\nDaniel Fernandes Domingues.\nEugénio Maria Anacoreta Correia.\nFrancisco Manuel L. V. de Oliveira Dias.\nHenrique Augusto Rocha Ferreira.\nJoão António Morais Leitão.\nJoão Gomes de Abreu de Lima.\nJosé Alberto Faria Xerez.\nMaria José Paulo Sampaio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nÁlvaro Favas Brasileiro.\nAntónio Anselmo Aníbal.\nAntónio José M. Vidigal Amaro.\nAntónio José de Almeida Silva Graça.\nArtur Mendonça Rodrigues.\nCarlos Alberto do Carmo C. Espadinha.\nCarlos Alfredo de Brito.\nCustódio Jacinto Gingão.\nDomingos Abrantes Ferreira.\nErcília Carreira Talhadas.\nFernando de Almeida Sousa Marques.\nFrancisco Miguel Duarte.\nGeorgete de Oliveira Ferreira.\nJerónimo Carvalho de Sousa.\nJoaquim António Miranda da Silva.\nJoaquim Gomes dos Santos.\nJoão Carlos Abrantes.\nJorge Manuel Abreu de Lemos.\nJosé Manuel Antunes Mendes.\nJosé Manuel da C. Carreira Marques.\nJosé Manuel Maia Nunes de Almeida.\nJosé Rodrigues Vitoriano.\nJosefina Maria Andrade.\nLino Carvalho de Lima.\nManuel Gaspar Cardoso Martins.\nManuel Rogério de Sousa Brito.\nManuel Silva Ribeiro de Almeida.\nMaria Ilda Costa Figueiredo.\nMaria Odete dos Santos.\nMariana Grou Lanita da Silva.\nOctávio Augusto Teixeira.\nOctávio Rodrigues Pato.\nZita Maria de Seabra Roseiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Partido Popular Monárquico (PPM)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "António Cardoso Moniz.\nAntónio José Borges de Carvalho.\nAntónio de Sousa Lara.\nAugusto Ferreira do Amaral.\nHenrique Barrilaro Ruas.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Acção Social-Democrata Independente (ASDI)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Joaquim Jorge de Magalhães S. Mota.\nJorge Manuel M. Loureiro de Miranda.\nManuel Cardoso Vilhena de Carvalho.\nManuel Tílman.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "União da Esquerda para a Democracia Socialista (UEDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "António César Gouveia de Oliveira.\nAntónio Manuel C. Ferreira Vitorino.\nAntónio Poppe Lopes Cardoso.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Movimento Democrático Português (MDP/CDE)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "António Monteiro Taborda.\nHerberto de Castro Goulart.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "União Democrática Popular (UDP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "votantes, 233", 
+   "speaker": "Eleição para Presidente da Assembleia da República", 
    "text": "Mário António Baptista Tomé.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Amândio Anes de Azevedo.\nArménio dos Santos.\nCristóvão Guerreiro Norte.\nFernando Alfredo Moutinho Garcês.\nFernando José F. Fleming de Oliveira.\nHenrique F. Nascimento Rodrigues.\nJaime Adalberto Simões Ramos.\nJoão Manuel Coutinho de Sá Fernandes.\nJosé Augusto Santos Silva Marques.\nLuís António Martins.\nManuel António Lopes Ribeiro.\nManuel Ferreira Martins.\nManuel Filipe Correia de Jesus.\nMaria Adelaide S. de Almeida Paiva.\nMário Dias Lopes.\nMário Martins Adegas.\nOctávio Pereira Machado.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "António Fernando Marques R. Reis.\nBento Elísio de Azevedo.\nJaime José Matos da Gama.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "22 DE OUTUBRO DE 1982 47", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "João Cardona Gomes Cravinho.\nJoão Joaquim Gomes.\nJosé Gomes Fernandes.\nManuel Alegre de Melo Duarte.\nMário Alberto Lopes Soares.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Adalberto Neiva de Oliveira.\nAdriano José Alves Moreira.\nÁlvaro Manuel M. Brandão Estêvão.\nAntónio Jacinto Martins Canaverde.\nCarlos Eduardo de Oliveira e Sousa.\nCarlos Martins Robalo.\nEmídio Ferrão da Costa Pinheiro.\nEmílio Leitão Paulo.\nFrancisco Manuel de Menezes Falcão.\nHenrique Manuel Soares Cruz.\nJoão Caminho Figueiras Andrade.\nJoão José M. Pulido de Almeida.\nJoão Lopes Porto.\nJoão Maria Abrunhosa de Sousa.\nJoão da Silva Mendes Morgado.\nJorge Manuel Neves Fernandes.\nJosé Augusto Gama.\nJosé Manuel Rodrigues Casqueiro.\nLuís Aníbal de Azevedo Coutinho.\nLuís Carlos Calheiros V. Sampaio.\nLuís Filipe Paes Beiroco.\nLuísa Maria Fereire Vaz Raposo.\nManuel António de Almeida Vasconcelos.\nManuel Augusto Couto Azevedo.\nManuel Eugênio Cavaleiro Brandão.\nMário Gaioso Henriques.\nPaulo Oliveira Ascenção.\nPedro Eduardo Freitas Sampaio.\nRui António Pacheco Mendes.\nRogério Ferreira Monção Leão.\nRuy Garcia de Oliveira.\nVictor Afonso Pinto da Cruz.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Jorge Manuel Lampreira Patrício.\nManuel Correia Lopes.\nManuel dos Santos e Matos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Popular Monárquico (PPM)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Luís Filipe Ottolini Bebiano Coimbra.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "Carlos Manuel Pereira de Pinho.\nFrancisco de Sousa Tavares.\nMaria Margarida Moura Ribeiro.\nNicolau Gregório de Freitas.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "António Egídio Fernandes Loja.\nCarlos Manuel N. Costa Candal.\nJorge Fernando Branco Sampaio.\nMaria Teresa V. Bastos Ramos Ambrósio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "Henrique José Pereira de Moraes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "António Dias Lourenço.\nMaria Alda Barbosa Nogueira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "União da Esquerda para a Democracia Socialista (UEDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "Maria Teresa Dória Santa Clara Gomes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Não compareceram à sessão os seguintes Srs. Deputados", 
    "text": "Os REDACTORES DE l .ª CLASSE: Noémia Malheiro - José Diogo.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

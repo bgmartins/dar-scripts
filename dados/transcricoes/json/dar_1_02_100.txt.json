@@ -45,493 +45,578 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai proceder-se à chamada.\n_Eram 15 horas e 25 minutos_.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Vai proceder-se à chamada.\n_Eram 15 horas e 25 minutos_.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Alberto Augusto Martins da Silva Andrade.\nAlberto Marques Antunes.\nAlfredo Fernando de Carvalho.\nÁlvaro Monteiro.\nAmadeu da Silva Cruz.\nAntónio Alberto Monteiro de Aguiar.\nAntónio Barros dos Santos.\nAntónio Carlos Ribeiro Campos.\nAntónio Chaves Medeiros.\nAntónio Duarte Arnaut.\nAntónio Francisco Barroso Sousa Gomes.\nAntónio José Pinheiro Silva.\nAntónio José Sanches Esteves.\nArmando F. C. Pereira Bacelar.\nAvelino Ferreira Loureiro Zenha.\nBeatriz Almeida Cal Brandão.\nCarlos Alberto Andrade Neves.\nCarlos Manuel da Costa Moreira.\nDelmiro Manuel de Sousa Carreira.\nEduardo Ribeiro Pereira.\nEtelvina Lopes de Almeida.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "3706 I SÉRIE - NÚMERO 100", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Eurico Manuel das Neves Henriques Mendes.\nFernando Reis Luís.\nFlorival da Silva Nobre.\nFrancisco António Marcos Barracosa.\nFrancisco de Assis de Mendonça Lino Neto.\nFrancisco Igrejas Caeiro.\nFrancisco Manuel Marcelo Monteiro Curto.\nGualter Viriato Nunes Basílio.\nHerculano Rodrigues Pires.\nJerónimo da Silva Pereira.\nJoão Alfredo Félix Vieira Lima.\nJoão Francisco Ludovico da Costa.\nJoão Joaquim Gomes.\nJoaquim José Catanho de Meneses.\nJoaquim Sousa Gomes Carneiro.\nJorge Augusto Barroso Coutinho.\nJosé dos Santos Francisco Vidal.\nJosé Ferreira Dionísio.\nJosé Maximiano de Albuquerque de Almeida Leitão.\nLudovina das Dores Rosado.\nLuís Abílio da Conceição Cacito.\nLuís José Godinho Cid.\nManuel Alfredo Tito de Morais.\nManuel Branco Ferreira Lima.\nManuel do Carmo Mendes.\nManuel Francisco Costa.\nManuel Joaquim Paiva Pereira Pires.\nManuel Lencastre Menezes de Sousa Figueiredo.\nManuel Pereira Dias.\nMaria de Jesus Simões Barroso Soares.\nMaria Teresa Vieira Bastos Ramos Ambrósio.\nMário Augusto Sottomayor Leal Cardia.\nMário Manuel Cal Brandão.\nPedro Amadeu de Albuquerque dos Santos Coelho.\nRodolfo Alexandrino Suzano Crespo.\nSérgio Augusto Nunes Simões.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Afonso de Sousa Freire de Moura Guedes.\nAmândio Anes de Azevedo.\nAntónio Augusto Lacerda de Queiroz.\nAntónio Jorge Duarte Rebelo de Sousa.\nAntónio Júlio Simões de Aguiar.\nArcanjo Nunes Luís.\nCarlos Alberto Coelho de Sousa.\nCirilo Oliveira Marinho.\nFrancisco Barbosa da Costa.\nFrancisco M. L. de Sá Carneiro.\nHenrique Manuel de Pontes Leça.\nJoão Gabriel Soeiro de Carvalho.\nJoão José dos Santos Rocha.\nJoão Lucílio Cacela Leitão.\nJoão Manuel Ferreira.\nJoaquim Jorge de Magalhães Saraiva da Mota.\nJosé António Nunes Furtado Fernandes.\nJosé Ferreira Júnior José Gonçalves Sapinho.\nJosé Joaquim Lima Monteiro de Andrade.\nJosé Júlio Carvalho Ribeiro.\nJosé Manuel Meneres Sampaio Pimentel.\nJosé Manuel Ribeiro Sérvulo Correia.\nJosé Theodoro de Jesus da Silva.\nJúlio Maria Alves da Silva.\nManuel Cardoso Vilhena de Carvalho.\nManuel Cunha Rodrigues.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Manuel Henrique Pires Fontoura.\nMaria Élia Brito Câmara.\nMário Fernando de Campos Pinto.\nNicolau Gregório de Freitas.\nNuno Aires Rodrigues dos Santos.\nPedro Manuel da Cruz Roseta.\nRúben José de Almeida Martins Raposo.\nVictor Hugo Mendes dos Santos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adriano Vasco da Fonseca Rodrigues.\nAlexandre Correia Carvalho Reigoto.\nÁlvaro Manuel Brandão Estêvão.\nÂngelo Alberto Ribas da Silva Vieira.\nAntónio Simões Costa.\nCarlos Martins Robalo.\nDiogo Pinto de Freitas do Amaral.\nFrancisco Manuel Farromba Vilela.\nFrancisco Manuel L. V. Oliveira Dias.\nJoão Carlos Filomeno Malhó da Fonseca.\nJoão Gomes de Abreu de Lima.\nJoão José Magalhães Ferreira Pulido de Almeida.\nJosé Cunha Simões.\nJosé Luís Rebocho de Albuquerque Christo.\nJosé Manuel Macedo Pereira.\nLuís Esteves Ramires.\nManuel António de Almeida de Azevedo e Vasconcelos.\nRui Eduardo Ferreira Rodrigues Pena.\nVítor Afonso Pinto da Cruz.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nAntónio Joaquim Navalha Garcia.\nAntónio Marques Jusarte.\nAntónio Marques Pedrosa.\nAntónio Pedro Valverde Martins.\nCândido de Matos Gago.\nCarlos Alfredo de Brito.\nCustódio Jacinto Gingão.\nDomingos Abrantes Ferreira.\nEduardo Sá Matos.\nErcília Carreira Pimenta Talhadas.\nFernanda Peleja Patrício.\nFernando de Almeida Sousa Marques.\nGeorgete de Oliveira Ferreira.\nHermenegilda Rosa Camolas Pacheco Pereira.\nJaime dos Santos Serra.\nJoaquim Gomes dos Santos.\nJoaquim da Silva Rocha Felgueiras.\nJorge do Carmo da Silva Leite.\nJorge Manuel Abreu de Lemos.\nJerónimo Carvalho de Sousa.\nJosé Cavalheira Antunes.\nJosé Manuel da Costa Carreira Marques.\nJosé Manuel Maia Nunes de Almeida.\nJosé Manuel de Paiva Jara.\nJosé Rodrigues Vitoriano.\nLino Carvalho de Lima.\nManuel Duarte Gomes.\nManuel Gonçalves.\nManuel do Rosário Moita.\nMaria Alda Barbosa Nogueira.\nNicolau de Ascensão Madeira Dias Ferreira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "3 DE OUTUBRO DE 1978", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "3707", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Octávio Floriano Rodrigues Pato.\nRaul Luís Rodrigues.\nSeveriano Pedro Falcão.\nVital Martins Moreira.\nVictor Henrique Louro de Sá.\nZita Maria de Seabra Roseiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "União Democrática Popular (UDP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Acácio Manuel de Frias Barreiros.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Independentes", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "António Jorge de Oliveira Aires Rodrigues.\nAntónio Poppe Lopes Cardoso.\nCarmelinda Maria dos Santos Pereira.\nJosé Manuel Medeiros Ferreira.\nReinaldo Jorge Vital Rodrigues.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Responderam à chamada 154 Srs. Deputados.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Temos quorum, pelo que declaro aberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Responderam à chamada 154 Srs. Deputados.\nTemos quorum, pelo que declaro aberta a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 15 horas e 40 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "ANTES DA ORDEM DO DIA", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, o mundo foi há dias surpreendido pela morte inesperada do Papa João Paulo I.\nEm conferência dos grupos parlamentares esta manhã realizada ficou assente que a Mesa proporia à Assembleia uns momentos de silêncio em homenagem à memória do Papa João Paulo I, associando-nos assim ao luto nacional decretado pelo Governo e ao luto de todo o mundo católico e manifestando também por esta forma a nossa solidariedade a todos os católicos portugueses.\nPeço, pois, aos Srs. Deputados que guardem alguns momentos de silêncio.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o mundo foi há dias surpreendido pela morte inesperada do Papa João Paulo I.\nEm conferência dos grupos parlamentares esta manhã realizada ficou assente que a Mesa proporia à Assembleia uns momentos de silêncio em homenagem à memória do Papa João Paulo I, associando-nos assim ao luto nacional decretado pelo Governo e ao luto de todo o mundo católico e manifestando também por esta forma a nossa solidariedade a todos os católicos portugueses.\nPeço, pois, aos Srs. Deputados que guardem alguns momentos de silêncio.\nA Assembleia guardou, de pé, alguns momentos de silêncio.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "A Assembleia guardou, de pé, alguns momentos de silêncio.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Como certamente é do conhecimento dos Srs.Deputados, - pois do facto a imprensa e todos os órgãos de, comunicação deram notícia, o nosso colega nesta Assembleia, Sr. Deputado Acácio Barreiros, foi há dias agredido em Mira de Aire, quando aí se dirigia no exercício da sua actividade política.\nPara além da gravidade que este acto apresenta, por se, traduzir na agressão a um Deputado, ele é também muito grave na medida em que através dele se pretende impedir um cidadão de exercer os seus plenos direitos constitucionais de exercício, da actividade política, representando, portanto, uma tentativa de limitação do uso da liberdade a que todos os cidadãos constitucionalmente têm direito.\nOra, a Mesa desta Assembleia não pode deixar passar em claro tal acontecimento sem manifestar a sua - reprovação por actos desta natureza, que, como é óbvio, a nada conduzem, sendo apenas um atentado às liberdades individuais e às (liberdades políticas dos cidadãos, atentado que esta Assembleia deve condenar com todo o vigor.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Portanto, supondo interpretar o sentir da Assembleia, aqui ficam estas palavras, marcando o nosso protesto contra actos como aquele de, que foi vítima o Sr. Deputado Acácio Barreiros.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Como certamente é do conhecimento dos Srs.Deputados, - pois do facto a imprensa e todos os órgãos de, comunicação deram notícia, o nosso colega nesta Assembleia, Sr. Deputado Acácio Barreiros, foi há dias agredido em Mira de Aire, quando aí se dirigia no exercício da sua actividade política.\nPara além da gravidade que este acto apresenta, por se, traduzir na agressão a um Deputado, ele é também muito grave na medida em que através dele se pretende impedir um cidadão de exercer os seus plenos direitos constitucionais de exercício, da actividade política, representando, portanto, uma tentativa de limitação do uso da liberdade a que todos os cidadãos constitucionalmente têm direito.\nOra, a Mesa desta Assembleia não pode deixar passar em claro tal acontecimento sem manifestar a sua - reprovação por actos desta natureza, que, como é óbvio, a nada conduzem, sendo apenas um atentado às liberdades individuais e às (liberdades políticas dos cidadãos, atentado que esta Assembleia deve condenar com todo o vigor.\nPortanto, supondo interpretar o sentir da Assembleia, aqui ficam estas palavras, marcando o nosso protesto contra actos como aquele de, que foi vítima o Sr. Deputado Acácio Barreiros.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: E agora vou dar a palavra ao Sr. Deputado Medeiros Ferreira, que vai fazer a sua intervenção de renúncia ao mandato, de acordo com o consenso estabelecido na conferência dos grupos parlamentares.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "E agora vou dar a palavra ao Sr. Deputado Medeiros Ferreira, que vai fazer a sua intervenção de renúncia ao mandato, de acordo com o consenso estabelecido na conferência dos grupos parlamentares.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. Medeiros Ferreira (Indep.): Sr. Presidente, Srs. Deputados: \nCumpre-me apresentar a renúncia ao mandato de Deputado ganho nas eleições para a Assembleia da República em Abril de 1976. É, porém, com grave dificuldade perante a minha consciência e perante o povo português que o faço.\nNa verdade, confesso não estar certo da minha atitude face aos eleitores que me elegeram. 0 certo é não ter tido dúvidas em pedir a minha demissão do Governo em Outubro de 1977, quer pelo que antecedeu esse acto, quer pelo que se lhe sucedeu. Nenhuma perplexidade ainda na decisão de me afastar do Partido Socialista, decisão que está, todavia, na origem deste meu pedido de renúncia.\nComeço, pois, por recusar ser exigência automática para quem se afaste do partido a que pertencia, quando foi eleito, ter de oferecer o seu cargo a outrem. Creio mesmo que, por intermédio de tal medida administrativa, esta Assembleia corre o risco de se distanciar ainda mais do País que legitimamente representa. Com efeito, recusar desse modo que os Deputados possam agir segundo as suas próprias convicções durante o mandato, é eliminar um dos meios para que a própria Assembleia seja um barómetro mais fiel da evolução da opinião pública e seja, por conseguinte, o seu intérprete institucional em termos políticos.", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, Srs. Deputados: \nCumpre-me apresentar a renúncia ao mandato de Deputado ganho nas eleições para a Assembleia da República em Abril de 1976. É, porém, com grave dificuldade perante a minha consciência e perante o povo português que o faço.\nNa verdade, confesso não estar certo da minha atitude face aos eleitores que me elegeram. 0 certo é não ter tido dúvidas em pedir a minha demissão do Governo em Outubro de 1977, quer pelo que antecedeu esse acto, quer pelo que se lhe sucedeu. Nenhuma perplexidade ainda na decisão de me afastar do Partido Socialista, decisão que está, todavia, na origem deste meu pedido de renúncia.\nComeço, pois, por recusar ser exigência automática para quem se afaste do partido a que pertencia, quando foi eleito, ter de oferecer o seu cargo a outrem. Creio mesmo que, por intermédio de tal medida administrativa, esta Assembleia corre o risco de se distanciar ainda mais do País que legitimamente representa. Com efeito, recusar desse modo que os Deputados possam agir segundo as suas próprias convicções durante o mandato, é eliminar um dos meios para que a própria Assembleia seja um barómetro mais fiel da evolução da opinião pública e seja, por conseguinte, o seu intérprete institucional em termos políticos.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Acresce que desde a Assembleia Constituinte se vem assistindo a repetidos - rompimentos de Deputados com os seus grupos parlamentares de origem. E até o próprio Deputado independente Galvão de Melo já mudou de estatuto nesta legislatura em relação ao Grupo Parlamentar do CDS. No caso dos Deputados que têm vindo a sair do Partido Socialista põem-se ainda outras questões, desde saber quem melhor representará nesta Assembleia os ideais do socialismo democrático até à certeza de que homens como Lopes Cardoso ou Aires Rodrigues estão efectivamente neste Parlamento graças à sua própria luta pelos interesses dos trabalhadores e têm um eleitorado próprio. Digo isto tanto mais à vontade quanto não foram poucas as minhas discordâncias, quer com um, quer com outro, dentro do Partido Socialista. Mas não tenho dúvidas em afirmar que eles estão aqui de seu pleno direito.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Jaime Gama* (PS): Não apoiado!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Jaime Gama", 
+   "text": "Não apoiado!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Aliás, qual será a referência para se saber hoje em dia quem é mais fiel ao eleitorado do Partido Socialista de 1976? Só novas eleições o poderão dizer.\nFique claro, portanto, perante esta Assembleia, que a minha renúncia ao mandato de Deputado não", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Aliás, qual será a referência para se saber hoje em dia quem é mais fiel ao eleitorado do Partido Socialista de 1976? Só novas eleições o poderão dizer.\nFique claro, portanto, perante esta Assembleia, que a minha renúncia ao mandato de Deputado não", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "3708 I SÉRIE - NÚMERO 100", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "significa qualquer mudança essencial em relação à inspiração que me levou a apresentar às eleições para a Constituinte de 1975 e para a Assembleia da República em 1976. E talvez não seja descabido recordar, aqui e agora, que o Partido Socialista me convidou a participar na lista deste Partido, por Lisboa, para as eleições constituintes, como candidato independente, dado que eu não era militante de nenhum partido e só mais tarde me inscrevi no PS - em Abril de 1975 -, já era candidato e estávamos em plena campanha eleitoral.\nA grande alteração depois verificada diz respeito à minha discordância com a actual direcção do Partido Socialista. Estas discordâncias já tiveram a sua expressão a nível governativo de que resultou o meu pedido de demissão de Ministro dos Negócios Estrangeiros e culminaram agora num longo processo a nível partidário com o meu afastamento do Partido Socialista. 0 Partido Socialista é cada vez mais e apenas o partido de Mário Soares.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Não apoiado!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Não apoiado!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Não vale a pena mistificar esta verdade elementar.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Não vale a pena mistificar esta verdade elementar.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Rodolfo Crespo* (PS): Ele não estava lá quando tu aderiste!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Rodolfo Crespo", 
+   "text": "Ele não estava lá quando tu aderiste!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Todos os dirigentes do Partido Socialista sabem que assim é por experiência própria. A diferença está em que, enquanto uns deduzem ser isso um bem para o Partido Socialista, eu estou convicto que tal confusão é negativa para o fortalecimento do socialismo democrático em Portugal.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Todos os dirigentes do Partido Socialista sabem que assim é por experiência própria. A diferença está em que, enquanto uns deduzem ser isso um bem para o Partido Socialista, eu estou convicto que tal confusão é negativa para o fortalecimento do socialismo democrático em Portugal.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Gomes* (PS): É miserável!...", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "João Gomes", 
+   "text": "É miserável!...", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: 0 futuro dirá quem tem razão.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "0 futuro dirá quem tem razão.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "0 presente, no entanto, já fornece algumas indicações. Só falarei, contudo, aqui de algumas que têm implicações nacionais e não meramente partidárias.\nAssim, não é por acaso que, desde a parte final do I Governo Constitucional, ainda em 1977, até à falência do II Governo, em Julho de 1978, se assistiu a uma vertiginosa mudança na opinião pública sobre a validade da experiência dos Executivos da condução do \nsecretário-geral do Partido Socialista. Da esperança mobilizada nos meses de Abril de 1976 para a campanha eleitoral até aos nossos dias assistiu-se realmente à perda de uma oportunidade excepcional para governar o novo Portugal democrático, através de profundas reformas, que nem por requererem maior autoridade e sentido do Estado teriam tido menos consenso nacional. E nem os obstáculos que forças reaccionárias totalitárias efectivamente lançaram à governação teriam sido suficientes para quebrar um autêntico apoio popular devido a uma política favorável às grandes massas.\nAlguns exemplos apenas: graças à Lei da Reforma Agrária, aprovada nesta Assembleia, iniciou-se sem dúvida uma concepção clara e exequível das transformações a operar no mundo rural.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "A Sr.ª Alda Nogueira (PCP):- Não apoiado!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador:- Pois bem, mais de um ano depois não impera nesse domínio a lei mas a precariedade explosiva das relações de força.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Sr. Vital Moreira (PCP):- Não apoiado!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador:- Forças conservadoras e poder revolucionário entendem-se na comédia de enganos do adiamento da fixação dos parâmetros sociais e económicos em que há-de evoluir o mundo rural. Ambos preparando-se para dirimir, à força, o que o Executivo ainda não foi capaz de impor.\nPor outro lado, a única ideia generosa que enformava o II Governo Constitucional - o Serviço Nacional de Saúde - apenas serviu de pretexto a ataques políticos menores, sem que se soubesse, ao menos, com quem estava o Conselho de Ministros: se com D. Quixote se com Sancho Pança, ou se nem com um nem com outro por não ter uma ideia sobre o assunto.\nTambém a política governamental em relação às Regiões Autónomas dos Açores e da Madeira deixou muito a desejar. Já tive aliás ocasião de me exprimir como Deputado sobre esta matéria, pelo que não me alongarei muito mais agora. De facto, nunca houve por parte do Governo da República uma política sistemática de como realizar a autonomia e impedir o separatismo.\nE até o nosso prestígio internacional, justamente devido ao Portugal descolonizador e democrático, foi a partir de certa altura mal gerido pela ânsia de se apresentar ao povo português empréstimos normais dentro das regras dos mecanismos financeiros internacionais \n(empréstimos já alcançados por tantos países) como uma extraordinária benesse obtida graças a qualquer interlocutor privilegiado. Hoje todos temos consciência, dos riscos de banalização da posição portuguesa no mundo, quando ela deve ser, por essência, singular e actuante.\nA estes exemplos de discordância sobre a forma como foi conduzida a política, do Executivo, acrescente-se ainda a radical oposição à conduta parlamentar do grupo socialista, bem expressa na questão da Lei Eleitoral, e ainda a atitude do PS face à iniciativa presidencial de nomear o Executivo de Nobre da Costa,", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Gomes* (PS): Sabujo!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "João Gomes", 
+   "text": "Sabujo!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Estou convicto que uma boa parte do eleitorado que votou PS estaria à espera de outro comportamento dos representantes \ninstitucionais do socialismo democrático em todas estas matérias. É o que se verá na próxima oportunidade eleitoral.\nExpressas estas discordâncias, afirmo não me mover nenhuma animosidade especial contra o Partido Socialista ...", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Estou convicto que uma boa parte do eleitorado que votou PS estaria à espera de outro comportamento dos representantes \ninstitucionais do socialismo democrático em todas estas matérias. É o que se verá na próxima oportunidade eleitoral.\nExpressas estas discordâncias, afirmo não me mover nenhuma animosidade especial contra o Partido Socialista ...", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Vozes do PS:- Vê-se!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador:- ...e se aqui descrevo algumas razões do meu desacordo fundamental em áreas de âmbito nacional é por julgar ainda dever de solidariedade entre socialistas democráticos dar este testemunho público.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "3 DE OUTUBRO DE 1978 3709", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Repito, pois, que a minha renúncia não é motivada por qualquer mudança que me tivesse afastado da inspiração e dos temas que desenvolvi na campanha, eleitoral para a Assembleia da República em 1976, não só no distrito pelo qual fui eleito - Lisboa - como ainda nos comícios e sessões de esclarecimento em que participei, desde o Alentejo até ao Minho.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Cal Brandão* (PS): É preciso descaramento! ...", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Cal Brandão", 
+   "text": "É preciso descaramento! ...", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: E repito-o porque o secretariado do Partido Socialista divulgou um comunicado, a 15 de Setembro, em que é nítida a sua preferência em empurrar para outro partido já existente certos dos seus ex-dirigentes, como é o meu caso, a ter de contemplar outras hipóteses para o futuro.\nÉ um desejo em que transparece um temor: o da maior liberdade de acção para os ex-dirigentes do PS, capaz de gerar outras alternativas ao actual espectro partidário. Espectro partidário tido por largos sectores da opinião pública como ultrapassado e já não correspondendo às exigências da nossa democracia pluralista.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "E repito-o porque o secretariado do Partido Socialista divulgou um comunicado, a 15 de Setembro, em que é nítida a sua preferência em empurrar para outro partido já existente certos dos seus ex-dirigentes, como é o meu caso, a ter de contemplar outras hipóteses para o futuro.\nÉ um desejo em que transparece um temor: o da maior liberdade de acção para os ex-dirigentes do PS, capaz de gerar outras alternativas ao actual espectro partidário. Espectro partidário tido por largos sectores da opinião pública como ultrapassado e já não correspondendo às exigências da nossa democracia pluralista.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Rodolfo Crespo* (PS): E com independentes!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Rodolfo Crespo", 
+   "text": "E com independentes!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: De facto, e independentemente do valor e da \nrepresentatividade dos partidos existentes, existe um vazio político, quer ao nível da sociedade civil, quer ao nível das instituições.\nAo nível da sociedade civil, importantes sectores da opinião pública democrática, grupos sociais diversificados, desde trabalhadores a empreendedores, mas interessados todos na \nedificação de uma comunidade portuguesa moderna e interclassista, sentem-se hoje desamparados e não reconhecem em nenhum dos partidos existentes o instrumento político capaz, por si só e sem aliados, de levar por diante uma tarefa difícil, porém assente em algumas ideias singelas; primeira, Portugal pode e deve continuar como nação independente; segunda, Portugal, para continuar, necessita de urgentes reformas políticas, sociais e económicas; terceira, só a democracia pluralista fornece o quadro capaz de gerar o máximo consenso nacional, tendo em vista a concepção e execução dessas medidas reformadoras, essenciais num Estado de direito.\n0 actual espectro partidário ainda se afirma indefinido para a sociedade civil tal é a série de combinações possíveis entre os partidos representados nesta Assembleia, sendo certo que dado tipo de maioria significa, em termos de concepção da sociedade, a negação de outras maiorias. E o curioso é que o ser adjectivo de todas as maiorias possíveis é o partido mais votado que, em minha opinião, tem vindo a esvaziar-se de qualquer projecto próprio. Ora não é indiferente, para o género de sociedade que se quer construir, qual o tipo de maioria encontrada nesta Assembleia, se bem que todas sejam democráticas. Mais, na génese do regime democrático é motivo de inquietação verificar a posição meramente expectante de muitos, despidos de ideias e projectos próprios, e para quem qualquer maioria é aceitável. Tal situação leva à paralisia dos motores sociais e económicos", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "De facto, e independentemente do valor e da \nrepresentatividade dos partidos existentes, existe um vazio político, quer ao nível da sociedade civil, quer ao nível das instituições.\nAo nível da sociedade civil, importantes sectores da opinião pública democrática, grupos sociais diversificados, desde trabalhadores a empreendedores, mas interessados todos na \nedificação de uma comunidade portuguesa moderna e interclassista, sentem-se hoje desamparados e não reconhecem em nenhum dos partidos existentes o instrumento político capaz, por si só e sem aliados, de levar por diante uma tarefa difícil, porém assente em algumas ideias singelas; primeira, Portugal pode e deve continuar como nação independente; segunda, Portugal, para continuar, necessita de urgentes reformas políticas, sociais e económicas; terceira, só a democracia pluralista fornece o quadro capaz de gerar o máximo consenso nacional, tendo em vista a concepção e execução dessas medidas reformadoras, essenciais num Estado de direito.\n0 actual espectro partidário ainda se afirma indefinido para a sociedade civil tal é a série de combinações possíveis entre os partidos representados nesta Assembleia, sendo certo que dado tipo de maioria significa, em termos de concepção da sociedade, a negação de outras maiorias. E o curioso é que o ser adjectivo de todas as maiorias possíveis é o partido mais votado que, em minha opinião, tem vindo a esvaziar-se de qualquer projecto próprio. Ora não é indiferente, para o género de sociedade que se quer construir, qual o tipo de maioria encontrada nesta Assembleia, se bem que todas sejam democráticas. Mais, na génese do regime democrático é motivo de inquietação verificar a posição meramente expectante de muitos, despidos de ideias e projectos próprios, e para quem qualquer maioria é aceitável. Tal situação leva à paralisia dos motores sociais e económicos", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "sempre à mercê de uma variação de maioria na mesma legislatura que poderá também ser uma mudança de rumo.\nSeja como for, partidos que não marquem as fronteiras das suas afinidades não devem admirar-se por verificar estar diminuída a sua credibilidade e ser escasso o consenso que lhes resta para governar.\nDe facto, não é indiferente para o País o acordo político maioritário que se consiga, mesmo dentro dos actuais resultados eleitorais. Sempre o ser Governo é um acto de profunda intimidade entre povo e \ngovernantes. Mas no caso português esse contrato de respeito mútuo toma aspectos especialíssimos que mais se coadunam com a seriedade dos princípios do que com a habilidade profissional. E não estaremos afinal a assistir hoje em dia à vitória da seriedade sobre a habilidade? \nEm termos de sociedade civil nem todas as maiorias que se passam democraticamente constituir nesta Assembleia dariam bons governos a Portugal. É, pois, cada vez mais necessário o aparecimento de uma federação de partidos, associações políticas, movimentos e \npersonalidades para os quais não seja indiferente a maioria parlamentar que resulte dos entendimentos interpartidários e que, por conseguinte, se situe na essência da actividade política: a que se exprime na coragem de escolher a maioria em que se está interessado e lutar por ela, dizendo-se exactamente as fronteiras das alianças.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Herculano Pires* (PS): Magister dixit!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Herculano Pires", 
+   "text": "Magister dixit!\nO Orador:- A democracia política afirma-se e o abstencionismo combate-se, oferecendo aos eleitores uma autêntica possibilidade de opção.\nAo nível das instituições, a falta de uma doutrina clara e de quem defenda organizadamente um corpo de conceitos é patente.\nInstalou-se, no discurso político português, a polémica entre o parlamentarismo, o presidencialismo e o se \nsemipresidencialismo, com tal emoção e mass de argumentos que, positivamente, se sente ter o problema alta importância, pese, no entanto, a confusão, o pragmatismo, a falta de rigor e as oscilações que o têm caracterizado, na generalidade.\nCreio ter sido, pelo menos, um dos primeiros a chamar a atenção para o papel de direcção institucional que competia ao Presidente da República eleito por sufrágio universal.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador:- A democracia política afirma-se e o abstencionismo combate-se, oferecendo aos eleitores uma autêntica possibilidade de opção.\nAo nível das instituições, a falta de uma doutrina clara e de quem defenda organizadamente um corpo de conceitos é patente.\nInstalou-se, no discurso político português, a polémica entre o parlamentarismo, o presidencialismo e o se \nsemipresidencialismo, com tal emoção e mass de argumentos que, positivamente, se sente ter o problema alta importância, pese, no entanto, a confusão, o pragmatismo, a falta de rigor e as oscilações que o têm caracterizado, na generalidade.\nCreio ter sido, pelo menos, um dos primeiros a chamar a atenção para o papel de direcção institucional que competia ao Presidente da República eleito por sufrágio universal.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Herculano Pires", 
+   "text": "Já chegámos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Herculano Pires* (PS): Já chegámos.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Nunca empreguei todavia o conceito de \n\"presidencialismo\" para nomear a intervenção presidencial, \njá que, em Portugal e na altura, se tratava muito mais de compreender à volta de que instituições democráticas os Portugueses se reconheciam do que fazer doutrina que poderia embaraçar o equilíbrio instável entre as funções dos órgãos de Soberania, ainda para mais previstas somente para o período de transição, que Portugal e o regime atravessam.\nFiguras altamente responsáveis nesses órgãos entraram, entretanto, em discussão, e foi rara a personalidade que não se perfilou perante uma das três interpretações da Constituição nesta matéria. De", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Nunca empreguei todavia o conceito de \n\"presidencialismo\" para nomear a intervenção presidencial, \njá que, em Portugal e na altura, se tratava muito mais de compreender à volta de que instituições democráticas os Portugueses se reconheciam do que fazer doutrina que poderia embaraçar o equilíbrio instável entre as funções dos órgãos de Soberania, ainda para mais previstas somente para o período de transição, que Portugal e o regime atravessam.\nFiguras altamente responsáveis nesses órgãos entraram, entretanto, em discussão, e foi rara a personalidade que não se perfilou perante uma das três interpretações da Constituição nesta matéria. De", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "O Orador", 
    "text": "I SÉRIE - NÚMERO 100 3710", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "pouco serviu ao País este posicionamento e foi preciso a queda do II Governo para se iniciar na prática uma surda, mas não muda, relação de forças, prova evidente de não haver doutrina estabelecida e aceite sobre a independência e a conjugação dos órgãos de Soberania.\nRecordo ainda que o secretário-geral do PS, no seu discurso de posse como Primeiro-Ministro do II Governo Constitucional, legitimou esse Governo essencialmente através do acordo PS-CDS, celebrado, então, com honras de fundamento de regime, numa das salas nobres desta Assembleia e não em qualquer das sedes dos dois partidos. Um excesso próprio das horas vitoriosas que haveria de se revelar fatal em momento posterior.\nNão se trata, no entanto, aqui, de seguir a trajectória histórica dos partidos nesta fase experimental da vida política portuguesa, apenas se revela não haver ainda partido, movimento ou associação política que tenha tomado posição clara em matéria tão fundamental. Infelizmente, as mais das vezes, as atitudes sobre a natureza do regime democrático, desse ponto de vista, são tomadas por mero pragmatismo e sem doutrina segura.\nOra, da eleição directa do Presidente da República decorrem deduções políticas muito claras, e uma delas é caber ao Presidente a direcção, institucional dos órgão de Soberania, respeitando as competências próprias de cada um, mas dando o impulso decisivo para a marcha delicada da necessária separação dos poderes.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, desculpe interrompê-lo, mas já excedeu o tempo regimental para uma declaração. Peço-lhe que a abrevie.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, desculpe interrompê-lo, mas já excedeu o tempo regimental para uma declaração. Peço-lhe que a abrevie.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: Vou terminar já, Sr. Presidente.\nNormalmente, essa função de direcção institucional é acompanhada de instrumentos ou de realidades políticas que, extravasando, os diferentes órgãos de Soberania, vivificam essas do exterior e os interpenetram. É o que acontece noutros países em que o Presidente eleito, por sufrágio directo se apoia num partido, ou numa aliança de forças políticas que automatizam os mecanismos constitucionais entre a Presidência da República, o Parlamento e o Governo nas épocas, claro está, de maior harmonia entre essas forças.\nAcontece que o modo como um ou outro de entre os partidos que apoiaram a candidatura de Ramalho Eanes procede dificulta a iniciativa presidencial. É nítido faltar nesta Assembleia uma maioria com a qual o Presidente possa contar. Falo de uma maioria estrategicamente activa, já se vê, e não apenas tacticamente passiva, como poderá ser o caso até 1980.\nAo nível das instituições sente-se, pois, a falta dessa maioria parlamentar estrategicamente activa e daí que uma nova constelação de forças políticas seja necessária. Quanto a mim, essa nova constelação de forças políticas poderá ser sensivelmente coincidente com a requerida pela sociedade civil: uma federação de partidos, associações políticas, movimentos e personalidades que se apresente ao eleitorado, com uma clara opção favorável à direcção institucional do Presidente da República e com um", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Vou terminar já, Sr. Presidente.\nNormalmente, essa função de direcção institucional é acompanhada de instrumentos ou de realidades políticas que, extravasando, os diferentes órgãos de Soberania, vivificam essas do exterior e os interpenetram. É o que acontece noutros países em que o Presidente eleito, por sufrágio directo se apoia num partido, ou numa aliança de forças políticas que automatizam os mecanismos constitucionais entre a Presidência da República, o Parlamento e o Governo nas épocas, claro está, de maior harmonia entre essas forças.\nAcontece que o modo como um ou outro de entre os partidos que apoiaram a candidatura de Ramalho Eanes procede dificulta a iniciativa presidencial. É nítido faltar nesta Assembleia uma maioria com a qual o Presidente possa contar. Falo de uma maioria estrategicamente activa, já se vê, e não apenas tacticamente passiva, como poderá ser o caso até 1980.\nAo nível das instituições sente-se, pois, a falta dessa maioria parlamentar estrategicamente activa e daí que uma nova constelação de forças políticas seja necessária. Quanto a mim, essa nova constelação de forças políticas poderá ser sensivelmente coincidente com a requerida pela sociedade civil: uma federação de partidos, associações políticas, movimentos e personalidades que se apresente ao eleitorado, com uma clara opção favorável à direcção institucional do Presidente da República e com um", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "programa de reformas políticas, sociais e económicas capaz de modernizar a sociedade e consolidar o Estado democrático. Em suma, uma federação democrática reformadora.\nEntretanto, um jovem dirigente do Partido Socialista saiu à liça com uma triste, habilidade: a de ameaçar resolver os problemas \ninstitucionais existentes entre órgãos de Soberania recorrendo de novo à eleição indirecta do Presidente da República.\nA habilidade é triste por revelar fraca sintonia com a popularidade que envolve a eleição directa do Presidente da República, popularidade resultante da forma como Ramalho Eanes desempenhou o seu mandato, só possível pela legitimidade do sufrágio universal, popularidade que entronca também na tradição, antifascista das campanhas eleitorais para a Presidência da República, bem simbolizada na campanha do general Humberto Delgado.\nTenho, aliás, por assegurado que se algum partido tiver a ideia de modificar os termos da eleição directa do Presidente da República para a entregar a um qualquer colégio, os seus candidatos perguntarão explicitamente aos eleitores se os autorizam a tal. Certamente muito poucos candidatos cá chegarão com esse mandato.\nSr. Presidente, Srs. Deputados: Existem, pois, uma série de questões e comportamentos em que é difícil saber ao certo quem melhor representará nesta Assembleia a inspiração generosa do socialismo democrático: se os que resolveram sair do Partido Socialista, se os que agora dirigem este partido, cujo papel na luta pela democracia pluralista depois do 25 de Abril foi fundamental. Nesta hora de ruptura faço questão de recordar esse bom combate.\nSeja como for renuncio ao mandato por um último compromisso com o Partido Socialista, aliás previsto nos seus estatutos. Com efeito, a comissão de redacção dos estatutos do II Congresso, certamente na antevisão que ocorressem durante a legislatura fenómenos destes, incluiu uma cláusula à qual faço questão de dar execução. Trata-se do artigo 72.º dos Estatutos, que reza assim:", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Os candidatos de eleições para qualquer assembleia política assumem compromisso, de honra, segundo fórmula a definir pela Comissão Nacional, no qual se comprometem a colocar o seu cargo à disposição do partido, se, por qualquer motivo, deixarem de pertencer ao Partido Socialista.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Infelizmente a Lei Eleitoral não contempla a hipótese de eleições parciais para que fossem os eleitores a decidirem, neste caso, quem gostariam de ter nesta Assembleia como Deputado, se eu próprio que agora saio do Partido Socialista ou se algum dos seus membros que me irá substituir administrativamente. Se tal fosse permitido pela lei não teria dúvidas em prestar-me a essa prova, muito mais democrática e digna desta Assembleia como órgão de Soberania. Estou convicto de que ganharia de novo o mandato de Deputado.\nMuito obrigado, Sr. Presidente.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Herculano Pires* (PS): Presunção e água benta ...", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Herculano Pires", 
+   "text": "Presunção e água benta ...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Vital Moreira* (PCP): Que insuficiência!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
+   "text": "Que insuficiência!\n3 DE OUTUBRO DE 1978 3711", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "3 DE OUTUBRO DE 1978 3711", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
    "text": "O Sr. *Presidente*: -O Sr. Deputado Aires Rodrigues pediu a palavra. Pode dizer-me para que efeito?", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
    "text": "O Sr. Aires Rodrigues (Indep.): É para um esclarecimento à Câmara.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Desculpe, Sr. Deputado, mas não o pode fazer.\nSe o Sr. Deputado pretende fazer um protesto, não o posso recusar, mas um esclarecimento não o pode fazer por decisão da Conferência dos Grupos Parlamentares.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Desculpe, Sr. Deputado, mas não o pode fazer.\nSe o Sr. Deputado pretende fazer um protesto, não o posso recusar, mas um esclarecimento não o pode fazer por decisão da Conferência dos Grupos Parlamentares.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. Aires Rodrigues (Indep.): Queria então fazer um protesto, Sr.Presidente.", 
-   "type": "continuacao"
+   "text": "Queria então fazer um protesto, Sr.Presidente.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Aires Rodrigues (Indep.): Sr. Presidente, Srs. Deputados: \nEntendeu o Sr. ex-Deputado Medeiros Ferreira fazer-me uma referência pessoal no seu discurso de renúncia ao mandato de Deputado. Porque essa referência, no contexto em que se insere, é susceptível de confundir aqueles que o lerem ou escutarem, permito-me fazer duas precisões.\nEm primeiro lugar, tanto eu, como a Deputada Carmelinda Pereira não abandonámos o PS. Fomos, sim, alvos de uma medida administrativa que não aceitámos, porque continuámos e continuamos a considerar-nos como socialistas, não alinhando em qualquer campanha que vise a destruição do PS como maior partido dos trabalhadores e como garante da liberdade, da democracia e do socialismo.", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, Srs. Deputados: \nEntendeu o Sr. ex-Deputado Medeiros Ferreira fazer-me uma referência pessoal no seu discurso de renúncia ao mandato de Deputado. Porque essa referência, no contexto em que se insere, é susceptível de confundir aqueles que o lerem ou escutarem, permito-me fazer duas precisões.\nEm primeiro lugar, tanto eu, como a Deputada Carmelinda Pereira não abandonámos o PS. Fomos, sim, alvos de uma medida administrativa que não aceitámos, porque continuámos e continuamos a considerar-nos como socialistas, não alinhando em qualquer campanha que vise a destruição do PS como maior partido dos trabalhadores e como garante da liberdade, da democracia e do socialismo.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "text": "O Orador:- Devo ainda precisar que não só não abandonámos o PS, como pensamos ser nosso dever, como socialistas, defender o Partido Socialista contra aqueles que, visando a sua liquidação, visam liquidar as conquistas do 25 de Abril, as liberdades e a própria democracia política.", 
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "text": "O Orador:- Do mesmo modo que sempre afirmámos não ser o PS um partido de clientelas, repudiamos a afirmação de ser o PS o partido de Mário Soares. Estivemos ontem, e estaremos hoje, na primeira linha em defesa do socialismo e em defesa do Partido Socialista como o maior partido de trabalhadores.", 
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. Medeiros Ferreira (Indep.): Sr. Presidente, posso fazer um contraprotesto?", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, posso fazer um contraprotesto?", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Pode, sim, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Pode, sim, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Herculano Pires* (PS): Não pode, Sr. Presidente. Ele já não é Deputado, já renunciou ao mandato.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Herculano Pires", 
+   "text": "Não pode, Sr. Presidente. Ele já não é Deputado, já renunciou ao mandato.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. Medeiros Ferreira (Indep.): 0 meu contraprotesto é muito rápido, Sr. Presidente.", 
-   "type": "continuacao"
+   "text": "0 meu contraprotesto é muito rápido, Sr. Presidente.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "É evidente que fico agora melhor esclarecido da trajectória do Sr.Deputado Aires Rodrigues e sinceramente desejo-lhe boa sorte.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "Risos do PSD.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra para uma declaração política o Sr.Deputado Manuel Moita.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra para uma declaração política o Sr.Deputado Manuel Moita.\nO Sr. Manuel Moita (PCP):- Sr. Presidente, Srs. Deputados: Realizou-se no passado dia 23, em Évora, o Encontro Regional das UCPs e \nCooperativas Agrícolas, para discutir, planear, aumentar e melhorar a produção. Na sequência dos plenários realizados nas UCPs e cooperativas aí foi apresentado e discutido na presença de seiscentos delegados, pela primeira vez em Portugal, um autêntico plano agro-pecuário de curto e médio prazos elaborado pelos trabalhadores com a colaboração de técnicos amigos.\nMais uma vez se prova que aqueles que cultivam directamente a terra e são os criadores de tudo o que a terra produz são a esperança e a força capaz de transformar uma agricultura pobre e retardada numa agricultura moderna e progressiva ao serviço dos que trabalham a terra e do desenvolvimento geral do País.\nA curto prazo, os trabalhadores aprovaram um plano de sementeiras de Outono-Inverno de 250 000 ha de cereais e forragens. Esta área, apesar de ser superior em 182 000 ha à área semeada no tempo dos agrários é contudo inferior em 20 000 ha à área semeada no ano passado, devido à política dos anteriores Governos de entrega de terras aos agrários.\nSublinha-se que as próximas sementeiras serão qualitativamente diferentes, porque se prevê o aumento nas forragens para cerca de 50 000 ha, que é mais do dobro do ano passado e quase seis vezes mais do que no tempo dos agrários.\nFoi salientada a preocupação pela tendência para diminuir a área de trigo, o que é consequência directa de os preços estabelecidos pelo Governo ficarem muito abaixo das despesas reais de produção.\nEstes dois factos, muito preocupantes, são mais uma prova de como a política que tem sido seguida pelos anteriores Governos, e que este se prepara para acentuar, é contrária aos interesses do nosso povo e da nossa pátria.\nHá, porém, duas condições essenciais para que esta campanha de sementeiras possa ser levada a cabo: que o Governo altere imediatamente o preço que estabeleceu para o trigo e forneça os adubos a crédito e sem embaraços. Com os preços actuais e sem adubos, não é possível semear.\n0 programa aprovado contém os critérios de decisão quanto à escolha das linhas de produção. São critérios que têm simultaneamente em vista dois aspectos que estão intimamente ligados: os interesses da economia nacional e as perspectivas de desenvolvimento das UCPs-Cooperativas.\nEstas linhas fundamentais da produção de forragens, da produção de cereais de Inverno e da produção de culturas de Primavera têm também em vista, além da defesa, a expansão e reorganização da floresta. Este conjunto de linhas de produção, todas intimamente ligadas à produção animal, estão também evidentemente ligadas à alimentação humana - objectivo último de toda elas.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Manuel Moita (PCP):- Sr. Presidente, Srs. Deputados: Realizou-se no passado dia 23, em Évora, o Encontro Regional das UCPs e \nCooperativas Agrícolas, para discutir, planear, aumentar e melhorar a produção. Na sequência dos plenários realizados nas UCPs e cooperativas aí foi apresentado e discutido na presença de seiscentos delegados, pela primeira vez em Portugal, um autêntico plano agro-pecuário de curto e médio prazos elaborado pelos trabalhadores com a colaboração de técnicos amigos.\nMais uma vez se prova que aqueles que cultivam directamente a terra e são os criadores de tudo o que a terra produz são a esperança e a força capaz de transformar uma agricultura pobre e retardada numa agricultura moderna e progressiva ao serviço dos que trabalham a terra e do desenvolvimento geral do País.\nA curto prazo, os trabalhadores aprovaram um plano de sementeiras de Outono-Inverno de 250 000 ha de cereais e forragens. Esta área, apesar de ser superior em 182 000 ha à área semeada no tempo dos agrários é contudo inferior em 20 000 ha à área semeada no ano passado, devido à política dos anteriores Governos de entrega de terras aos agrários.\nSublinha-se que as próximas sementeiras serão qualitativamente diferentes, porque se prevê o aumento nas forragens para cerca de 50 000 ha, que é mais do dobro do ano passado e quase seis vezes mais do que no tempo dos agrários.\nFoi salientada a preocupação pela tendência para diminuir a área de trigo, o que é consequência directa de os preços estabelecidos pelo Governo ficarem muito abaixo das despesas reais de produção.\nEstes dois factos, muito preocupantes, são mais uma prova de como a política que tem sido seguida pelos anteriores Governos, e que este se prepara para acentuar, é contrária aos interesses do nosso povo e da nossa pátria.\nHá, porém, duas condições essenciais para que esta campanha de sementeiras possa ser levada a cabo: que o Governo altere imediatamente o preço que estabeleceu para o trigo e forneça os adubos a crédito e sem embaraços. Com os preços actuais e sem adubos, não é possível semear.\n0 programa aprovado contém os critérios de decisão quanto à escolha das linhas de produção. São critérios que têm simultaneamente em vista dois aspectos que estão intimamente ligados: os interesses da economia nacional e as perspectivas de desenvolvimento das UCPs-Cooperativas.\nEstas linhas fundamentais da produção de forragens, da produção de cereais de Inverno e da produção de culturas de Primavera têm também em vista, além da defesa, a expansão e reorganização da floresta. Este conjunto de linhas de produção, todas intimamente ligadas à produção animal, estão também evidentemente ligadas à alimentação humana - objectivo último de toda elas.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "3712 I SÉRIE - NÚMERO 100", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não vamos descrevê-las. Mas importa chamar a vossa atenção, a atenção do País, para os seus traços fundamentais.\nA primeira é, sem dúvida, a revolução que se introduz de produzir carne e leite não à custa de rações, mas de forragens e outras culturas e produtos criados nas nossas terras.\nAs culturas forrageiras foram praticamente abandonadas pelos agrários, resultando a erosão, o empobrecimento em matéria orgânica, baixos índices de produção, desemprego e emigração em massa, enormes importações. Ora o nosso país, e nomeadamente o Sul, tem enormes possibilidades, não apenas em terras, mas em riqueza de variedades de plantas forrageiras espontâneas, tanto gramíneas como, sobretudo, leguminosas.\nDefende-se a produção principalmente das forragens anuais porque, em princípio, exigem menos capital inicial, que aliás reproduzem no próprio ano, e certos prados temporários de regadio e de trevo subterrâneo sob coberto dos montados.\nPor seu turno, em relação aos cereais de Inverno entende-se que o importante é aumentar os seus rendimentos unitários, para o que se impõe um intenso programa de drenagem, correcção, fertilização e, rotações melhoradas, utilização de sementes de boa qualidade e mobilização organizada de todos os recursos nas épocas de sementeira e colheita. Paralelamente, uma arrumação dos diversos cereais nas terras mais apropriadas, que só no caso da cevada e aveia passam pela expansão das áreas actuais.\nUm tal programa de distribuição territorial destas culturas, condicionando a produção animal, levam as UCPs-Cooperativas a defender a produção de bovinos de carne, em especial nas terras de sequeiro fértil e médio e sequeiro menos fértil sem arvoredo; bovinos leiteiros, em estreita ligação com as áreas de regadio; ovinos, em todo o sequeiro, nomeadamente no sequeiro menos fértil sem arvoredo; caprinos, especialmente onde for possível manter e desenvolver núcleos de qualidade, e a não expansão de suínos.\nUm tal programa, mesmo contando apenas com o Sul do País, e \nconsiderando só o valor da carne e do leite, permite aumentos, a preços de 1976, de quase 2 milhões e meio de contos em dois anos e de mais de 5 milhões e meio em quatro anos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Em relação às culturas de Primavera, preconiza-se a elevação das reproduções por hectare de girassol, passando a tratar esta cultura não como mero revestimento de alqueives, mas como cultura essencial nas rotações adequadas e escolha de variedades.\nJá em relação ao milho para grão se considera que é a cultura de regadio a expandir em maior escala, seja por rotação com as culturas tradicionais, seja, sobretudo, com a progressiva expansão da área regada. Recorde-se que quase um terço do valor das importações agrícolas cabe ao milho - 10 milhões de contos. Mas é preciso, especialmente nesta cultura, que o Governo dê um forte apoio à sua expansão e intensificação, tanto com preços subsidiados na fase de arranque como assegurando o escoamento e prestando efectivo apoio técnico e financeiro.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Em relação às culturas de Primavera, preconiza-se a elevação das reproduções por hectare de girassol, passando a tratar esta cultura não como mero revestimento de alqueives, mas como cultura essencial nas rotações adequadas e escolha de variedades.\nJá em relação ao milho para grão se considera que é a cultura de regadio a expandir em maior escala, seja por rotação com as culturas tradicionais, seja, sobretudo, com a progressiva expansão da área regada. Recorde-se que quase um terço do valor das importações agrícolas cabe ao milho - 10 milhões de contos. Mas é preciso, especialmente nesta cultura, que o Governo dê um forte apoio à sua expansão e intensificação, tanto com preços subsidiados na fase de arranque como assegurando o escoamento e prestando efectivo apoio técnico e financeiro.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Defende-se a forte expansão do tabaco, o arranque da beterraba, o ensaio do algodão e a implantação dos primeiros campos de produção alargada da soja.\nEm relação à floresta, defende-se a realização de novas arborizações, sobretudo nas áreas mais declivosas e nas linhas de cumeada, e também o abate de arvoredo que ocupa boas várzeas e algumas outras boas terras para culturas de alto rendimento, como o girassol e as forragens.\nE exige-se, por fundamental para o esforço de investimento dos trabalhadores, que o Estado não desvie das unidades de produção essa parte tão importante dos seus recursos financeiros provenientes dos recursos florestais, nomeadamente a cortiça e a madeira. Como foi dito no Encontro de Évora, \"a cortiça é um produto natural, sai da terra, e quem trabalha a terra tem direito a ela. Mas, para além disto, os sobreiros são tratados, podados, fazem-se as limpezas e outras técnicas culturais [...] (a cortiça) é o resultado conjunto da actividade biológica do sobreiro e da força do trabalho incorporada nela própria\".\nSe o Governo tirar ao trabalhadores, o que a terra dá com o seu esforço, não é possível investir.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Vozes do PCP:- Muito bem!", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador:- Sr. Presidente, Srs. Deputados: Nas difíceis condições económicas de Portugal, o plano elaborado pelos trabalhadores das UCPs e cooperativas não pode ser ignorado - os responsáveis do País não podem encolher os ombros e fazer de conta; a proposta está feita, pode ser e deve ser discutida, tem de ser apoiada. 0 que os trabalhadores não podem aceitar é que seja inviabilizada.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Vozes do PCP:- Muito bem!", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador:- Ao contrário do que impõe a realidade económica e política do País, o Governo demitido de Nobre da Costa, usando uma competência que a Constituição não lhe confere, lança-se numa via que \ninevitavelmente provocará tensões, conflitos e prejuízos graves para a economia nacional.\nEm vez de, inspirado pela preocupação da defesa dos interesses nacionais, assegurar a gestão eficiente dos negócios públicos, desde logo anunciando medidas inadiáveis de apoio à próxima campanha de sementeiras, o Governo demitido enveredou pelo caminho de tomar decisões de fundo, que excedem largamente a sua competência, e anunciou não só uma série de reservas aos agrários imediatamente, algumas das quais sem sequer terem sido previamente discutidas com os \ntrabalhadores, como também a desintervenção de empresas, como a Ecril e a Eca, essenciais para a economia agrícola do País. 15to é, o Governo lançou-se contra os trabalhadores e contra a Reforma Agrária por duas vias: a da entrega de terras aos latifundiários e a da reconstituição do aparelho capitalista à volta da produção agrícola.\n0 PCP renova o seu vigoroso protesto contra estas medidas, insiste na sua revogação e reafirma a sua posição de que com orientações deste género o Governo não só compromete uma gestão eficaz, como agravará os problemas nacionais.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Vozes do PCP:- Muito bem!", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "3 DE OUTUBRO DE 1978", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "3713", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: 0 PCP reafirma a sua solidariedade para com os \ntrabalhadores e agricultores abrangidos pelas recentes medidas do Governo demitido.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "0 PCP reafirma a sua solidariedade para com os \ntrabalhadores e agricultores abrangidos pelas recentes medidas do Governo demitido.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: 0 PCP proclama a sua confiança em que os trabalhadores e agricultores das UCPs e cooperativas da zona da Reforma Agrária atingirão, os seus objectivos na campanha das sementeiras e que o seu esforço e abnegação constituem um grande contributo para a resolução dos problemas dos agricultores, para a resolução dos problemas nacionais.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "0 PCP proclama a sua confiança em que os trabalhadores e agricultores das UCPs e cooperativas da zona da Reforma Agrária atingirão, os seus objectivos na campanha das sementeiras e que o seu esforço e abnegação constituem um grande contributo para a resolução dos problemas dos agricultores, para a resolução dos problemas nacionais.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Vilhena de Carvalho* (PSD): Dá-me licença, Sr. Presidente?", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Dá-me licença, Sr. Presidente?\nO Sr. Presidente:- Sr. Deputado Vilhena de Carvalho, para que efeito deseja usar da palavra?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. Presidente:- Sr. Deputado Vilhena de Carvalho, para que efeito deseja usar da palavra?", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Sr. Presidente, eu desejava, nos termos do artigo 79.º do Regimento, pedir, em nome do meu grupo parlamentar, a interrupção da sessão por trinta minutos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Vilhena de Carvalho* (PSD): Sr. Presidente, eu desejava, nos termos do artigo 79.º do Regimento, pedir, em nome do meu grupo parlamentar, a interrupção da sessão por trinta minutos.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Mas isso no fim do período da ordem do dia, não é?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Mas isso no fim do período da ordem do dia, não é?", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Vilhena de Carvalho* (PSD): Eu supunha que não havia mais nenhuma declaração política.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Eu supunha que não havia mais nenhuma declaração política.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está concedida a interrupção e, portanto, recomeçaremos os nossos trabalhos às 17 horas.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está concedida a interrupção e, portanto, recomeçaremos os nossos trabalhos às 17 horas.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 16 horas e 30 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está reaberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 17 horas e 15 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "ORDEM DO DIA", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Entramos agora na primeira parte do período da ordem do dia, da qual consta uma comunicação do delegado do procurador da República para que o Sr. Deputado Simões de Aguiar compareça no tribunal, no dia 4 de Outubro próximo, a fim de ser ouvido acerca de um acidente. 15to já foi comunicado ao Sr. Deputado, que nada tem a opor.\nConsta também da primeira parte da ordem do dia uma convocação para a Sr.ª Deputada Georgete de Oliveira Ferreira comparecer na Rua de António Maria Cardoso a fim de prestar declarações nos Serviços de Coordenação de Extinção da PIDE/DGS e LP.\nHá alguma objecção da Assembleia?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Entramos agora na primeira parte do período da ordem do dia, da qual consta uma comunicação do delegado do procurador da República para que o Sr. Deputado Simões de Aguiar compareça no tribunal, no dia 4 de Outubro próximo, a fim de ser ouvido acerca de um acidente. 15to já foi comunicado ao Sr. Deputado, que nada tem a opor.\nConsta também da primeira parte da ordem do dia uma convocação para a Sr.ª Deputada Georgete de Oliveira Ferreira comparecer na Rua de António Maria Cardoso a fim de prestar declarações nos Serviços de Coordenação de Extinção da PIDE/DGS e LP.\nHá alguma objecção da Assembleia?", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Consideram-se autorizados os Srs. Deputados.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Entramos agora na segunda parte do período da ordem do dia para votação, na especialidade, da Lei Eleitoral.\nSr. Deputado Armando Bacelar, faça o favor de proceder à leitura do relatório da Comissão de Direitos, Liberdades e Garantias.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Entramos agora na segunda parte do período da ordem do dia para votação, na especialidade, da Lei Eleitoral.\nSr. Deputado Armando Bacelar, faça o favor de proceder à leitura do relatório da Comissão de Direitos, Liberdades e Garantias.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -582,143 +667,111 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Presidente*: Portanto, Srs. Deputados, vamos agora votar o texto da matéria correspondente à Comissão Nacional de Eleições.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Portanto, Srs. Deputados, vamos agora votar o texto da matéria correspondente à Comissão Nacional de Eleições.", 
+   "type": "presidente"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Vital Moreira* (PCP): Dá-me licença, Sr. Presidente?", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
+   "text": "Dá-me licença, Sr. Presidente?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Presidente*: Faça o favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça o favor, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Vital Moreira* (PCP): É que há duas votações a fazer e gostaria de saber a qual delas se vai proceder neste momento.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
+   "text": "É que há duas votações a fazer e gostaria de saber a qual delas se vai proceder neste momento.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Presidente*: A Mesa já indicou, Sr. Deputado. Vamos passar à votação do texto respeitante à Comissão Nacional de Eleições.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "A Mesa já indicou, Sr. Deputado. Vamos passar à votação do texto respeitante à Comissão Nacional de Eleições.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos passar, portanto, à votação do texto referente, à Comissão Nacional de Eleições.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Presidente*: Como é de calcular, as declarações de voto serão feitas no final da votação do texto seguinte.\nPassamos agora à votação do texto alternativo dos vários projectos aprovados na generalidade sobre a Lei Eleitoral.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Como é de calcular, as declarações de voto serão feitas no final da votação do texto seguinte.\nPassamos agora à votação do texto alternativo dos vários projectos aprovados na generalidade sobre a Lei Eleitoral.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, suponho que aquilo que vamos votar é o texto final da Lei Eleitoral e que foi aprovado e votado na Comissão.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, suponho que aquilo que vamos votar é o texto final da Lei Eleitoral e que foi aprovado e votado na Comissão.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Presidente*: Pois é. Trata-se agora da votação final global que resultou dos vários projectos aprovados na generalidade.\nVamos, pois, proceder à votação do texto final global.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Pois é. Trata-se agora da votação final global que resultou dos vários projectos aprovados na generalidade.\nVamos, pois, proceder à votação do texto final global.\n_Submetido à votação, foi aprovado por maioria_.\ncom 120 votos a favor (PS, PCP, UDP e os Deputados \nindependentes Vital Rodrigues, Brás Pinto, Lopes Cardoso e Aires Rodrigues) e 71 votos contra \n(PSD e CDS).", 
+   "type": "presidente"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "_Submetido à votação, foi aprovado por maioria_.\ncom 120 votos a favor (PS, PCP, UDP e os Deputados \nindependentes Vital Rodrigues, Brás Pinto, Lopes Cardoso e Aires Rodrigues) e 71 votos contra \n(PSD e CDS).", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, passemos agora às declarações de voto.\nTem a palavra o Sr. Deputado Pinto da Cruz.\nO Sr. Pinto da Cruz (CDS):- Sr. Presidente, Srs. Deputados: Esta declaração de voto diz respeito à Lei Eleitoral para a Assembleia da República.\nNa sua apreciação final global o CDS votou contra \na Lei Eleitoral para a Assembleia da República, em \nconsideração às seguintes razões: \nOportunamente, e como é conhecido, o CDS apresentou a este Parlamento o seu projecto de lei eleitoral, que foi recusado pela Câmara logo na sua generalidade, porque assim o quis a maioria de esquerda nesta assembleia.\nAssim, quando da discussão da Lei Eleitoral na especialidade, não era a nossa lei que estava em apreço. Mesmo assim, e sempre que oportuno, o CDS proeurou introduzir na lei em discussão certos princípios que se lhe afiguravam de maior interesse. Alguns êxitos obteve neste aspecto, mas só aqueles, muito poucos, que lhe foram consentidos por uma coligação contrária e que de facto sempre funcionou entre o Partido Socialista e o Partido Comunista durante toda a discussão na especialidade.\nAssim, Sr. Presidente e Srs. Deputados, a Lei que acaba de ser aprovada não é a lei, eleitoral que o CDS entendia servir melhor os Portugueses.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, passemos agora às declarações de voto.\nTem a palavra o Sr. Deputado Pinto da Cruz.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. Pinto da Cruz (CDS):- Sr. Presidente, Srs. Deputados: Esta declaração de voto diz respeito à Lei Eleitoral para a Assembleia da República.\nNa sua apreciação final global o CDS votou contra \na Lei Eleitoral para a Assembleia da República, em \nconsideração às seguintes razões: \nOportunamente, e como é conhecido, o CDS apresentou a este Parlamento o seu projecto de lei eleitoral, que foi recusado pela Câmara logo na sua generalidade, porque assim o quis a maioria de esquerda nesta assembleia.\nAssim, quando da discussão da Lei Eleitoral na especialidade, não era a nossa lei que estava em apreço. Mesmo assim, e sempre que oportuno, o CDS proeurou introduzir na lei em discussão certos princípios que se lhe afiguravam de maior interesse. Alguns êxitos obteve neste aspecto, mas só aqueles, muito poucos, que lhe foram consentidos por uma coligação contrária e que de facto sempre funcionou entre o Partido Socialista e o Partido Comunista durante toda a discussão na especialidade.\nAssim, Sr. Presidente e Srs. Deputados, a Lei que acaba de ser aprovada não é a lei, eleitoral que o CDS entendia servir melhor os Portugueses.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "speaker": "Presidente", 
    "text": "O Sr. Vital Moreira (PCP):- Ainda bem!", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Orador: Esta Lei, a nosso ver, não dá resposta conveniente, em termos eleitorais às realidades políticas e sociais da Nação portuguesa, mormente no período difícil e conturbado que actualmente atravessa.\nFaltam-lhe certos princípios que o nosso projecto defendia e que consideramos essenciais para uma lei desta natureza merecer a nossa confiança. Pela sua importância destacaremos os seguintes:", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Esta Lei, a nosso ver, não dá resposta conveniente, em termos eleitorais às realidades políticas e sociais da Nação portuguesa, mormente no período difícil e conturbado que actualmente atravessa.\nFaltam-lhe certos princípios que o nosso projecto defendia e que consideramos essenciais para uma lei desta natureza merecer a nossa confiança. Pela sua importância destacaremos os seguintes:", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "speaker": "O Orador", 
    "text": "Em primeiro lugar, falta-lhe o já tão discutido voto obrigatório acompanhado de uma sanção significativa, para que se atenuasse os efeitos nocivos de um abstencionismo crescente e alarmante entre os Portugueses; \nEm segundo lugar, falta-lhe a inovação que devia ter sido introduzida no esquema actual dos círculos eleitorais. Continuamos fiéis à criação de um círculo eleitoral nacional, que, além de outras virtudes, muito viria a beneficiar a qualidade técnica dos trabalhos desta Câmara.\nAssim acontece em parlamentos de outros países europeus mais avançados; Em terceiro lugar, falta-lhe uma melhor defesa da comodidade do eleitor, facilitando-se-lhe, no máximo possível, o exercício do voto.\nEra este o sentido do n.º 3 do artigo 43.º do nosso projecto, em que não conseguimos, vencimento.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "speaker": "O Orador", 
    "text": "Por outro lado, a Lei aprovada contém determinados preceitos que não podem merecer o nosso apoio, antes pelo contrário, nos merecem viva impugnação. Entre eles, salientamos:", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "speaker": "O Orador", 
    "text": "A integração de Macau no círculo eleitoral dos \nportugueses residentes no estrangeiro. Para nós, CDS, Macau e os portugueses aí residentes não merecem o tratamento agora conferido pelo n.º 4 do artigo 12.º da Lei aprovada; \nVotámos contra o disposto na alínea f) do artigo 5.º, que torna inelegíveis os que tenham sido judicialmente condenados há menos de dez anos por participação em organizações de ideologia fascista.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Vital Moreira* (PCP): E de direcção.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
+   "text": "E de direcção.\n3 DE OUTUBRO DE 1978 3715", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "3 DE OUTUBRO DE 1978 3715", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
    "text": "O Orador. - Neste preceito foi rejeitada a nossa proposta de um aditamento no sentido de as sentenças judiciais fixarem um prazo para tal interdição.\nNão apoiámos o disposto no n.º 4 do artigo 66.º, que virá a permitir, apenas com as restrições aí referidas, a afixação de cartazes de propaganda política por esse Portugal fora, designadamente nas cidades, vilas e aldeias, com todas as consequências desagradáveis e onerosas já conhecidas. Para nós, CDS, a afixação de cartazes e mais propaganda política só deveria ser permitida em espaços especiais e lugares certos previamente fixados pelas juntas de freguesia.\nSr. Presidente e Srs. Deputados: Para o CDS são verdadeiras as seguintes afirmações: \nA Lei Eleitoral aprovada é praticamente da autoria do Partido Socialista e do Partido Comunista, que impuseram a sua maioria de esquerda e os princípios comuns que melhor os serviam.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Orador: Esta Lei não facilita o exercício do direito do voto quanto seria aconselhável e possível.\nEsta Lei, principalmente, não desencoraja o abstencionismo, antes pelo contrário, o parece facilitar. 0 legislador, que obrigou ao \nrecenseamento, parece não querer facilitar o exercício do direito do voto.\nEsta, não é a Lei Eleitoral que melhor serve a Nação.\nDaí, o voto contra do CDS.", 
+   "speaker": "O Orador", 
+   "text": "Esta Lei não facilita o exercício do direito do voto quanto seria aconselhável e possível.\nEsta Lei, principalmente, não desencoraja o abstencionismo, antes pelo contrário, o parece facilitar. 0 legislador, que obrigou ao \nrecenseamento, parece não querer facilitar o exercício do direito do voto.\nEsta, não é a Lei Eleitoral que melhor serve a Nação.\nDaí, o voto contra do CDS.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -726,63 +779,55 @@
    "type": "aplauso"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Nandim de Carvalho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Nandim de Carvalho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Nandim de Carvalho* (PSD): Os Deputados sociais-democratas contribuíram com o seu voto positivo para a aprovação por unanimidade do projecto de lei que institui a Comissão Nacional de Eleições. E com o seu voto negativo deixaram claro qual a maioria que nesta Assembleia apoia a Lei Eleitoral por que se devem reger as futuras eleições para a Assembleia da República.\nServe a presente declaração de voto para esclarecer melhor as posições assumidas e que resultam como corolário lógico e coerente das intervenções e múltiplas propostas apresentadas no decurso dos trabalhos em sede da Comissão de Direitos, Liberdades e Garantias, como aliás se acha documentalmente provado nas respectivas actas.\nA Comissão Nacional de Eleições tinha sido tema abordado, aliás, com algum detalhe por esta bancada aquando do debate na generalidade. A totalidade das nossas propostas foi votada por unanimidade e a generalidade das sugestões feitas em comissão foram também admitidas.\nAssim, a Comissão Nacional de Eleições é caracterizada como um órgão independente, funcionando junto da Assembleia da República e através das respectivas dotações orçamentais. Da sua composição não faz parte um representante do Conselho da Revolução, como pretendia o PC e a UDP, e fica assegurado, como também pretendíamos, que os partidos com representação parlamentar possam propor um seu", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Nandim de Carvalho", 
+   "text": "Os Deputados sociais-democratas contribuíram com o seu voto positivo para a aprovação por unanimidade do projecto de lei que institui a Comissão Nacional de Eleições. E com o seu voto negativo deixaram claro qual a maioria que nesta Assembleia apoia a Lei Eleitoral por que se devem reger as futuras eleições para a Assembleia da República.\nServe a presente declaração de voto para esclarecer melhor as posições assumidas e que resultam como corolário lógico e coerente das intervenções e múltiplas propostas apresentadas no decurso dos trabalhos em sede da Comissão de Direitos, Liberdades e Garantias, como aliás se acha documentalmente provado nas respectivas actas.\nA Comissão Nacional de Eleições tinha sido tema abordado, aliás, com algum detalhe por esta bancada aquando do debate na generalidade. A totalidade das nossas propostas foi votada por unanimidade e a generalidade das sugestões feitas em comissão foram também admitidas.\nAssim, a Comissão Nacional de Eleições é caracterizada como um órgão independente, funcionando junto da Assembleia da República e através das respectivas dotações orçamentais. Da sua composição não faz parte um representante do Conselho da Revolução, como pretendia o PC e a UDP, e fica assegurado, como também pretendíamos, que os partidos com representação parlamentar possam propor um seu representante, que será eleito, aliás, pela própria Assembleia da República. Também por proposta nossa os membros da Comissão Nacional de Eleições terão direito a uma senha de presença que compense \nparcialmente o trabalho esforçado e a desoras que os seus titulares para bem da democracia pluralista certamente terão de despender.\nQuanto à Comissão Nacional de Eleições, órgão permanente que de algum modo superintenderá em todos os futuros processos de recenseamento e eleições, não houve, portanto, dúvidas em consagrar o seu estatuto em lei própria. 0 PSD neste caso votou a favor, muito embora uma das nossas sugestões não tivesse sido considerada - a da inclusão na Comissão Nacional de Eleições de elementos das regiões autónomas quando se realizem exclusivamente eleições naquelas áreas.\nQuanto à Lei Eleitoral relativa à Assembleia da República já o problema se colocou de modo diverso. É certo que grande número de normas de carácter processual foram votadas por unanimidade, e também é facto que muitas sugestões do PSD foram admitidas, quer quando apresentou propostas próprias na Comissão quer quando retomou diversas propostas de outros partidos ou de Deputados intervenientes na discussão na generalidade, todavia tratou-se quase sempre de questões secundárias.\nPorém em questões essenciais os socialistas deixaram-se seduzir pelo canto da sereia, votando em sistemática sintonia com os comunistas aspectos que interessam à estratégia do Partido Comunista, mas que são contrários à livre expressão da vontade popular.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "representante, que será eleito, aliás, pela própria Assembleia da República. Também por proposta nossa os membros da Comissão Nacional de Eleições terão direito a uma senha de presença que compense \nparcialmente o trabalho esforçado e a desoras que os seus titulares para bem da democracia pluralista certamente terão de despender.\nQuanto à Comissão Nacional de Eleições, órgão permanente que de algum modo superintenderá em todos os futuros processos de recenseamento e eleições, não houve, portanto, dúvidas em consagrar o seu estatuto em lei própria. 0 PSD neste caso votou a favor, muito embora uma das nossas sugestões não tivesse sido considerada - a da inclusão na Comissão Nacional de Eleições de elementos das regiões autónomas quando se realizem exclusivamente eleições naquelas áreas.\nQuanto à Lei Eleitoral relativa à Assembleia da República já o problema se colocou de modo diverso. É certo que grande número de normas de carácter processual foram votadas por unanimidade, e também é facto que muitas sugestões do PSD foram admitidas, quer quando apresentou propostas próprias na Comissão quer quando retomou diversas propostas de outros partidos ou de Deputados intervenientes na discussão na generalidade, todavia tratou-se quase sempre de questões secundárias.\nPorém em questões essenciais os socialistas deixaram-se seduzir pelo canto da sereia, votando em sistemática sintonia com os comunistas aspectos que interessam à estratégia do Partido Comunista, mas que são contrários à livre expressão da vontade popular.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "party": "PSD", 
+   "speaker": "Nandim de Carvalho", 
    "text": "Protestos do PS e do PCP.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "party": "PSD", 
+   "speaker": "Nandim de Carvalho", 
    "text": "Assim, por exemplo, foi rejeitada a possibilidade de haver Deputados emigrantes; foi fixado o número de 55 000 emigrantes para que possam dispor de dois Deputados por cada um dos dois círculos fora do território nacional, ao arrepio da proporcional idade que aqui se aplica; foi criado apenas um círculo nos Açores em oposição expressa à posição assumida por aquela Região Autónoma; foi recusada maior consideração pela obrigatoriedade de voto, sendo a abstenção injustificada apenas sancionada por uma inegibilidade temporária; foi recusada a consideração como ilícito eleitoral da propaganda que instigasse à abstenção ou ao boicote das eleições com intuitos antidemocráticos.\nCompreende-se que um partido cujo objectivo máximo é a conquista exclusiva do poder por uma vanguarda auto-suficiente, a eliminação da democracia política e a sua substituição pela ditadura do proletariado, a transformação dos cidadãos em administrados do aparelho \nburocrático-policial, assim actue, muito embora, recentemente venha adoptando uma calculada aparência eurocomunista.\n0 que não se compreende é que o PS apoie essa aparência.\nAssim, também não vingaram propostas nossas no sentido de prever a hipótese de eleições parciais em caso de se verificar número significativo de vagas na Assembleia da República não preenchíveis. Uma solução nesse sentido não interessa a quem tem do poder político uma compreensão apropriacionista. Igualmente não foi aceite a proposta para discussão", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "party": "PSD", 
+   "speaker": "Nandim de Carvalho", 
    "text": "3716 I SÉRIE - NÚMERO 100", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "party": "PSD", 
+   "speaker": "Nandim de Carvalho", 
    "text": "de um sistema eleitoral baseado em unidades geográficas intermunicipais que servissem para a implantação gradual do regionalismo político que a Constituição consagra.\nPelo contrário, consagraram-se nas inelegibilidades a condenação, ainda que com pena suspensa, por participação em organizações fascistas caracterizadas em recente lei da Assembleia da República, num diploma reconhecido como entorse ao Estado de direito. De facto, o efeito da pena que restringe direitos políticos deverá constar expressamente da sentença como pretenderam sem sucesso os sociais-democratas.\nRecusaram o PS e o PC entretanto outras propostas do PSD visando a responsabilização autónoma dos partidos por ilícitos e infracções eleitorais; recusaram o transporte público gratuito no dia das eleições; recusarem a abertura de locais de voto que facilitassem às populações o cumprimento do seu dever constitucional de votar. Como também foi recusada uma nossa proposta de proibição de propaganda no exterior de edifícios onde funcionassem serviços públicos, quando é certo que se proíbe a propaganda no seu interior.\nTambém se compreende mal a proibição de afixação de propaganda em locais abertos ao público não vigorando igual proibição nas instalações industriais das cinturas industriais urbanas ou outras, em que o número de trabalhadores ou visitantes pode ser muito superior ao dos frequentadores do pequeno comércio de província. Sem dúvida que se terá de entender que tal proibição não se aplicará aos próprios \nproprietários desses locais mas apenas quanto a terceiros.\nIgualmente se compreende mal a rejeição, com o voto do PS, de uma proposta de apoio financeiro específico por parte do Estado aos partidos concorrentes às eleições e que obtivessem determinados resultados mínimos. A redução da dependência de pressões exteriores e a verdadeira independência nacional deveria começar pela selecção de interlocutores não vinculados a ingerências internacionais mais ou menos evidentes.\nQuanto ao prazo máximo para a marcação de eleições, o PSD foi sempre contrário à sua fixação, pois tal significa uma limitação dos poderes do Presidente da República não prevista na Constituição, embora tenha procurado contribuir para excluir do período de limitações as datas que coincidem com o ponto alto das férias.\nTambém com base em propostas dos sociais-democratas foi admitido um esquema expedito de constituição de mesas de voto ad hoc no dia das eleições, a fim de evitar protelamentos em casos de impossibilidade de constituição da mesa inicial; e foi votado, também por unanimidade, o direito de antena em ondas curtas de especial relevo para os emigrantes. Outro preceito aprovado com o voto dos sociais-democratas, e de alguma importância, é o que permite o voto por procuração, em especial para as forças militares e militarizadas e para os \nprofissionais do mar, que em virtude da natureza das respectivas actividades não são marginalizados do acto eleitoral.\nRefere-se ainda um princípio inovador que certamente contribuirá para o segredo do voto - o cidadão não só tem o direito de recusar divulgar o sentido do seu voto, como só poderá ser perguntado a esse respeito para efeitos de recolha de dados estatísticos não", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "party": "PSD", 
+   "speaker": "Nandim de Carvalho", 
    "text": "identificáveis. 0 PSD votou favoravelmente esta proposta que procura eximir o cidadão de pressões que possam pôr em causa o princípio da liberdade individual, pedra angular em que assenta a construção do Estado de direito, a democracia política e a viabilidade da \nsocial-democracia.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Carlos Brito* (PCP): Que pobreza!", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Que pobreza!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Orador: Finalmente, votámos contra, pois a Lei não é inovadora, mantém ou agrava os inconvenientes da Lei vigente na parte em que não permite uma aproximação entre eleitores e eleitos; na parte em que mantém as áreas dos círculos eleitorais coincidentes com os distritos; na parte em que se reduz a um círculo eleitoral a Região Autónoma dos Açores; na parte em que discrimina os direitos dos emigrantes e residentes em Macau quanto à proporcionalidade dos seus Deputados e quanto à impossibilidade de serem eleitos.\nTambém consideramos errado que tenha sido fixado um prazo que delimita o exercício do direito do Sr. Presidente da República para escolher o dia das eleições e não se tenha reforçado a obrigatoriedade do voto que esta Lei, apesar de tudo, manteve.", 
+   "speaker": "O Orador", 
+   "text": "Finalmente, votámos contra, pois a Lei não é inovadora, mantém ou agrava os inconvenientes da Lei vigente na parte em que não permite uma aproximação entre eleitores e eleitos; na parte em que mantém as áreas dos círculos eleitorais coincidentes com os distritos; na parte em que se reduz a um círculo eleitoral a Região Autónoma dos Açores; na parte em que discrimina os direitos dos emigrantes e residentes em Macau quanto à proporcionalidade dos seus Deputados e quanto à impossibilidade de serem eleitos.\nTambém consideramos errado que tenha sido fixado um prazo que delimita o exercício do direito do Sr. Presidente da República para escolher o dia das eleições e não se tenha reforçado a obrigatoriedade do voto que esta Lei, apesar de tudo, manteve.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -790,79 +835,60 @@
    "type": "aplauso"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Presidente*: Para uma declaração de voto tem a palavra o, Sr.Deputado Vital Moreira.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto tem a palavra o, Sr.Deputado Vital Moreira.\nO Sr. Vital Moreira (PCP):- Sr. Presidente, Srs. Deputados: Ao votar a favor das leis relativas à CNE e ao sistema eleitoral para a AR, o Grupo Parlamentar do PCP julga ter motivos para se congratular com a sua aprovação. Em primeiro lugar, porque de nós partiu a iniciativa de convocação da sessão suplementar da AR que permitiu a sua elaboração; em segundo lugar, porque vimos aprovados pela AR os projectos de lei que apresentámos e consagradas nas leis aprovadas as soluções que defendemos; em terceiro lugar, porque contribuímos para derrotar as propostas anticonstitucionais ou antidemocráticas do PSD e do CDS.\nAs leis acabadas de votar recolhem tudo o que de bom - e era muito - havia nas leis anteriores sobre a matéria, que na altura colheram o aplauso de todos os partidos, como democráticas e progressivas e que só agora são repudiadas pelo PSD e pelo CDS; acolhem as alterações tornadas necessárias pela Constituição da República; introduzem alguns ajustamentos de pormenor visando melhorar algumas soluções ou solucionar problemas que a experiência veio demonstrar carecerem de solução. Acima de tudo, as leis agora votadas vão constituir uma peça importante de continuidade e afirmação do sistema \ndemocrático-constitucional.\nSr. Presidente, Srs. Deputados: Ao votar na globalidade as Leis relativas à CNE e ao sistema eleitoral para a AR, o Grupo Parlamentar do PCP dá o seu explícito apoio à esmagadora maioria dos artigos que as integram. Nenhum dos artigos das duas leis obteve voto contrário do PCP, mas alguns casos houve que não puderam obter o nosso apoio ou em relação aos quais temos de formular algumas reservas, quer", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. Vital Moreira (PCP):- Sr. Presidente, Srs. Deputados: Ao votar a favor das leis relativas à CNE e ao sistema eleitoral para a AR, o Grupo Parlamentar do PCP julga ter motivos para se congratular com a sua aprovação. Em primeiro lugar, porque de nós partiu a iniciativa de convocação da sessão suplementar da AR que permitiu a sua elaboração; em segundo lugar, porque vimos aprovados pela AR os projectos de lei que apresentámos e consagradas nas leis aprovadas as soluções que defendemos; em terceiro lugar, porque contribuímos para derrotar as propostas anticonstitucionais ou antidemocráticas do PSD e do CDS.\nAs leis acabadas de votar recolhem tudo o que de bom - e era muito - havia nas leis anteriores sobre a matéria, que na altura colheram o aplauso de todos os partidos, como democráticas e progressivas e que só agora são repudiadas pelo PSD e pelo CDS; acolhem as alterações tornadas necessárias pela Constituição da República; introduzem alguns ajustamentos de pormenor visando melhorar algumas soluções ou solucionar problemas que a experiência veio demonstrar carecerem de solução. Acima de tudo, as leis agora votadas vão constituir uma peça importante de continuidade e afirmação do sistema \ndemocrático-constitucional.\nSr. Presidente, Srs. Deputados: Ao votar na globalidade as Leis relativas à CNE e ao sistema eleitoral para a AR, o Grupo Parlamentar do PCP dá o seu explícito apoio à esmagadora maioria dos artigos que as integram. Nenhum dos artigos das duas leis obteve voto contrário do PCP, mas alguns casos houve que não puderam obter o nosso apoio ou em relação aos quais temos de formular algumas reservas, quer", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "speaker": "Presidente", 
    "text": "3 DE OUTUBRO DE 1978 3717", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "speaker": "Presidente", 
    "text": "por a sua constitucionalidade não se nos afigurar líquida quer por instituírem soluções cuja bondade não temos por segura.\nÉ o caso da inelegibilidade dos naturalizados [artigo 5.º, n.º 1, alínea a)], de algumas das restrições à propaganda fixa, através de cartazes (artigo, 66.º) e respectivas sanções (artigo 137.º), do regime das excepções à pessoalidade do voto (artigo 79.º) e do regime de garantia do dever cívico de voto (artigo 81.º, n.º 2). A propósito do regime relativo à propaganda fixa, através de cartazes, importa aqui referir que a AR, ao enumerar taxativamente os locais onde não pode haver essa fixação, desautoriza explicitamente as deliberações de algumas câmaras municipais - como é o caso mais recente das Câmaras de Mirandela e da Figueira da Foz -, que, inconstitucionalmente, se têm arrogado o direito de regular a propaganda política e se têm permitido eliminar integralmente o direito do afixação de cartazes.\nA votação destas leis significa a definitiva derrota das tentativas do CDS e do PSD, conjunta ou separadamente, para introduzirem entorses fundamentais no sistema de representação dos círculos eleitorais, para subverterem a liberdade, eleitoral, através da introdução de sanções pecuniárias aos abstencionistas; para limitarem a liberdade de propaganda eleitoral, através da proibição generalizada de afixação de cartazes e outra propaganda fixa; para empolarem desmesuradamente a representação dos círculos exteriores do território nacional; enfim, para introduzirem na Lei Eleitoral toda uma série de distorções que nada têm a ver com o sistema constitucional, com o regime democrático, com a liberdade eleitoral ou a expressão genuína dos eleitores, e que só relevam de um extraordinário vezo, repressivo que visa transformar as eleições numa farsa administrativa.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "Uma voz do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Uma voz do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Orador: Com a aprovação da lei relativa à CNE e da lei relativa ao sistema eleitoral para a AR, esta, depois de ter aprovado a lei do recenseamento eleitoral, dá por concluído o edifício legislativo necessário para que, em qualquer momento julgado conveniente, possam ter lugar eleições para a AR, incluindo como saída democrática para crises governamentais que não tenham outra solução adequada.\nCremos ser este um motivo de satisfação para a AR e para as forças democráticas. Ao aprovar estas leis a AR elimina um importante factor de constrangimento na solução de crises governamentais, propicia a criação de condições para o encontro sereno de uma saída democrática e, finalmente, contribui para a estabilidade política necessária ao funcionamento regular do sistema democrático.\nEnfim, estas leis são leis democráticas e constitucionais. Por isso, votámos a favor; certamente por isso, outros votaram contra.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Com a aprovação da lei relativa à CNE e da lei relativa ao sistema eleitoral para a AR, esta, depois de ter aprovado a lei do recenseamento eleitoral, dá por concluído o edifício legislativo necessário para que, em qualquer momento julgado conveniente, possam ter lugar eleições para a AR, incluindo como saída democrática para crises governamentais que não tenham outra solução adequada.\nCremos ser este um motivo de satisfação para a AR e para as forças democráticas. Ao aprovar estas leis a AR elimina um importante factor de constrangimento na solução de crises governamentais, propicia a criação de condições para o encontro sereno de uma saída democrática e, finalmente, contribui para a estabilidade política necessária ao funcionamento regular do sistema democrático.\nEnfim, estas leis são leis democráticas e constitucionais. Por isso, votámos a favor; certamente por isso, outros votaram contra.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Presidente*: Também para uma declaração de voto tem a palavra o Sr. Deputado Armando Bacelar.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Também para uma declaração de voto tem a palavra o Sr. Deputado Armando Bacelar.", 
+   "type": "presidente_temapalavra"
   }, 
   {
    "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Armando Bacelar* (PS): 0 Partido Socialista votou a favor do texto apresentado a este Plenário, na especialidade, em primeiro, lugar pelas razões que já foram explanadas na discussão na generalidade, visto que os textos finais aqui submetidos correspondem aos princípios que na generalidade, foram aprovados; em segundo lugar, porque as soluções adoptadas nestes textos - aliás com a colaboração de todos os partidos representados na Comissão - vêm de uma prática de leis anteriores que foram postas à prova e cuja democraticidade aqui vem testada nas eleições anteriores. Tratou-se mais de introduzir aperfeiçoamentos do que propriamente institucionalizar roturas que, em certo ponto, no caso dos círculos, seriam saltos no desconhecido.\nNão houve, contrariamente ao que aqui se disse em vários quadrantes, uma coligação ou maioria de esquerda entre o PS e o PCP. Os acordos estabelecidos à base dos textos foram-no indiferentemente na parte, da especialidade, que não na parte em que se pretendeu fazer ressurgir na especialidade os pontos que tinham sido já votados em contrário na generalidade. Tirados esses pontos, foi sempre uma adopção de posições ou por unanimidade ou por uma maioria que nem sempre coincidiu com este ou com aquele partido. Não, houve, portanto, nenhuma coligação. 0 Partido Socialista determinou-se pelo equilíbrio da lei que apresentou.\nQuanto ao voto obrigatório, além de ter sido recusado na generalidade, o Partido Socialista não se determinou por uma razão definitiva. A sua posição a este respeito é a de que há que não constranger os eleitores ao voto, não tomar a defesa do voto ser obrigatório mercê de sanções repressivas, pois é desejável que, efectivamente, sejam razões cívicas que levem os cidadãos a votar.\nMas a este respeito o Partido Socialista não tem nenhuma posição fechada. 0 Partido Socialista pensa que ainda é tempo de se verificar como é que esta Lei funciona, porque é preferível que o voto seja cumprido como um dever cívico do que por medidas coactivas. Mas se, efectivamente, através da consciencialização cívica, da pedagogia eleitoral, se chegar à conclusão de que se impõe reforçar esse carácter, o Partido Socialista não está inteiramente fechado, no futuro, a isso. 0 que pensa é que a experiência ainda não leva, efectivamente, a essa posição que, outros partidos queriam adoptar imediatamente.\nQuanto à facilitação do voto aos emigrantes, o problema já foi discutido na generalidade e não podia, na especialidade, como pretendiam certos partidos, ser uma consagração contrária àquela que este Plenário votou na generalidade.\nFundamentalmente, a norma do artigo 66.º da Lei Eleitoral para a Assembleia da República estabelece, por um lado, a prescrição de que se institucionalizem locais para a propaganda eleitoral; por outro lado, os artigos 3.º e 4.º põem proibições de fixação de propaganda eleitoral em certos locais - e era mais chocante essa propaganda -, os enumerados no artigo 4.º Ainda aí foi uma preocupação de equilíbrio, de senso que fez com que o Partido Socialista não caminhasse para um regime que seria altamente proibitivo e que estaria nos antípodas daquele que existia anteriormente. Proeurou-se esse equilíbrio e o que é curioso é que as disposições dos artigos 3.º e 4.º foram propostas pelo Partido Comunista Português,", 
-   "type": "deputado_continuacao"
+   "speaker": "Armando Bacelar", 
+   "text": "0 Partido Socialista votou a favor do texto apresentado a este Plenário, na especialidade, em primeiro, lugar pelas razões que já foram explanadas na discussão na generalidade, visto que os textos finais aqui submetidos correspondem aos princípios que na generalidade, foram aprovados; em segundo lugar, porque as soluções adoptadas nestes textos - aliás com a colaboração de todos os partidos representados na Comissão - vêm de uma prática de leis anteriores que foram postas à prova e cuja democraticidade aqui vem testada nas eleições anteriores. Tratou-se mais de introduzir aperfeiçoamentos do que propriamente institucionalizar roturas que, em certo ponto, no caso dos círculos, seriam saltos no desconhecido.\nNão houve, contrariamente ao que aqui se disse em vários quadrantes, uma coligação ou maioria de esquerda entre o PS e o PCP. Os acordos estabelecidos à base dos textos foram-no indiferentemente na parte, da especialidade, que não na parte em que se pretendeu fazer ressurgir na especialidade os pontos que tinham sido já votados em contrário na generalidade. Tirados esses pontos, foi sempre uma adopção de posições ou por unanimidade ou por uma maioria que nem sempre coincidiu com este ou com aquele partido. Não, houve, portanto, nenhuma coligação. 0 Partido Socialista determinou-se pelo equilíbrio da lei que apresentou.\nQuanto ao voto obrigatório, além de ter sido recusado na generalidade, o Partido Socialista não se determinou por uma razão definitiva. A sua posição a este respeito é a de que há que não constranger os eleitores ao voto, não tomar a defesa do voto ser obrigatório mercê de sanções repressivas, pois é desejável que, efectivamente, sejam razões cívicas que levem os cidadãos a votar.\nMas a este respeito o Partido Socialista não tem nenhuma posição fechada. 0 Partido Socialista pensa que ainda é tempo de se verificar como é que esta Lei funciona, porque é preferível que o voto seja cumprido como um dever cívico do que por medidas coactivas. Mas se, efectivamente, através da consciencialização cívica, da pedagogia eleitoral, se chegar à conclusão de que se impõe reforçar esse carácter, o Partido Socialista não está inteiramente fechado, no futuro, a isso. 0 que pensa é que a experiência ainda não leva, efectivamente, a essa posição que, outros partidos queriam adoptar imediatamente.\nQuanto à facilitação do voto aos emigrantes, o problema já foi discutido na generalidade e não podia, na especialidade, como pretendiam certos partidos, ser uma consagração contrária àquela que este Plenário votou na generalidade.\nFundamentalmente, a norma do artigo 66.º da Lei Eleitoral para a Assembleia da República estabelece, por um lado, a prescrição de que se institucionalizem locais para a propaganda eleitoral; por outro lado, os artigos 3.º e 4.º põem proibições de fixação de propaganda eleitoral em certos locais - e era mais chocante essa propaganda -, os enumerados no artigo 4.º Ainda aí foi uma preocupação de equilíbrio, de senso que fez com que o Partido Socialista não caminhasse para um regime que seria altamente proibitivo e que estaria nos antípodas daquele que existia anteriormente. Proeurou-se esse equilíbrio e o que é curioso é que as disposições dos artigos 3.º e 4.º foram propostas pelo Partido Comunista Português, 3718 I SÉRIE - NÚMERO 100", 
+   "type": "deputado_intervencao"
   }, 
   {
    "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "3718 I SÉRIE - NÚMERO 100", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
+   "speaker": "Armando Bacelar", 
    "text": "o artigo 4.º teve um aditamento do Partido Socialista e foram votados por unanimidade no seio da Comissão.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Vital Moreira* (PCP): Muito bem!", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Orador: Essa unanimidade estabeleceu-se e espanta-me um pouco que agora, de um lado e de outro, se abra fogo contra disposições que foram ali aprovadas num texto final votado por unanimidade.\nOs locais de exercício de voto foram aqueles que era possível estabelecer. Eram tão aproximados quanto possível do cidadão eleitor, mas coadunavam-se com a Lei do Recenseamento aprovada e que permitiam, portanto, o estabelecimento dos cadernos eleitorais, porque certas soluções que foram preconizadas eram absolutamente impossíveis dentro da Lei do Recenseamento que tinha sido aprovada e do sistema geral da própria Lei Eleitoral.\nÉ por isso que o Partido Socialista pode dizer que na aprovação desta Lei, nas votações que se estabeleceram no seio da Comissão - como disse, a maior parte das vezes por voto unânime de todos os partidos e com acolhimento de sugestões de todos os partidos, neste ou naquele ponto -, proeurou atender, sobretudo, ao realismo, ao consenso, à eficiência da lei, para que os actos eleitorais em Portugal continuem a ser exercidos sem contestação grave de ninguém, em benefício da instauração e da institucionalização da democracia, que é aquela que a nossa Constituição exige.", 
+   "speaker": "O Orador", 
+   "text": "Essa unanimidade estabeleceu-se e espanta-me um pouco que agora, de um lado e de outro, se abra fogo contra disposições que foram ali aprovadas num texto final votado por unanimidade.\nOs locais de exercício de voto foram aqueles que era possível estabelecer. Eram tão aproximados quanto possível do cidadão eleitor, mas coadunavam-se com a Lei do Recenseamento aprovada e que permitiam, portanto, o estabelecimento dos cadernos eleitorais, porque certas soluções que foram preconizadas eram absolutamente impossíveis dentro da Lei do Recenseamento que tinha sido aprovada e do sistema geral da própria Lei Eleitoral.\nÉ por isso que o Partido Socialista pode dizer que na aprovação desta Lei, nas votações que se estabeleceram no seio da Comissão - como disse, a maior parte das vezes por voto unânime de todos os partidos e com acolhimento de sugestões de todos os partidos, neste ou naquele ponto -, proeurou atender, sobretudo, ao realismo, ao consenso, à eficiência da lei, para que os actos eleitorais em Portugal continuem a ser exercidos sem contestação grave de ninguém, em benefício da instauração e da institucionalização da democracia, que é aquela que a nossa Constituição exige.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -870,10 +896,9 @@
    "type": "aplauso"
   }, 
   {
-   "party": "PS", 
-   "speaker": "O Sr. Armando Bacelar", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, segundo decisão adoptada esta manhã pela Conferência dos Presidentes dos Grupos Parlamentares, a próxima sessão plenária será no dia 10, pelas 15 horas, altura em que a Comissão terá já preparada a lei das finanças locais, a fim de começar a ser discutida e votada em Plenário.\nPedia ainda aos Srs. Presidentes dos Grupos Parlamentares o favor de se dirigirem ao gabinete do Sr. Presidente para uma breve reunião com o Sr. Ministro Adjunto do Sr. Primeiro-Ministro.\nEstá encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, segundo decisão adoptada esta manhã pela Conferência dos Presidentes dos Grupos Parlamentares, a próxima sessão plenária será no dia 10, pelas 15 horas, altura em que a Comissão terá já preparada a lei das finanças locais, a fim de começar a ser discutida e votada em Plenário.\nPedia ainda aos Srs. Presidentes dos Grupos Parlamentares o favor de se dirigirem ao gabinete do Sr. Presidente para uma breve reunião com o Sr. Ministro Adjunto do Sr. Primeiro-Ministro.\nEstá encerrada a sessão.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 17 horas e 55 minutos.", 
@@ -882,137 +907,137 @@
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "Adelino Teixeira de Carvalho.\nAgostinho Martins do Vale.\nAntónio Cândido Macedo.\nAntónio Fernando Marques Ribeiro Reis.\nAntónio Jorge Moreira Portugal.\nCarlos Manuel Natividade da Costa Candal.\nFernando Jaime Pereira de Almeida.\nFernando Tavares Loureiro.\nFlorêncio Quintas Matias.\nFrancisco de Almeida Salgado Zenha.\nJaime José Matos da Gama.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "João da Silva.\nJoaquim Oliveira Rodrigues.\nJosé Cândido Rodrigues Pimenta.\nJosé Gomes Fernandes.\nJosé Maria Parente Mendes Godinho.\nJúlio Francisco Miranda Calha.\nMaria Emília de Meio Moreira da Silva.\nRaúl d'Assunção Pimenta Rêgo.\nTelmo Ferreira Neto.\nTeófilo Carvalho dos Santos.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "Anatólio Manuel dos Santos Vasconcelos.\nAntídio das Neves Costa.\nAntónio Augusto Gonçalves.\nAntónio Joaquim Bastos Marques Mendes.\nAntónio Joaquim Veríssimo.\nAntónio Luciano Pacheco de Sousa Franco.\nArmando António Correia.\nCristóvão Guerreiro Norte.\nFernando José da Costa.\nGabriel Ribeiro da Frada.\nJoão António Martelo de Oliveira.\nJorge de Figueiredo Dias.\nJosé Adriano Gago Vitorino.\nJosé Augusto Almeida de Oliveira Baptista.\nJosé Rui Sousa Fernandes.\nLuís Fernando Cardoso Nandim de Carvalho.\nManuel da Costa Andrade.\nOlívio da Silva França.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "Basílio Adolfo Mendonça Horta da Franca.\nCarlos Alberto Faria de Almeida.\nEmídio Ferrão da Costa Pinheiro.\nFrancisco António Lucas Pires.\nHenrique José Cardoso Menezes Pereira de Morais.\nJosé Duarte de Almeida Ribeiro e Castro.\nNarana Sinai Coissoró.\nNuno Krus Abecasis.\nVictor António Nunes de Sá Machado.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "Carlos Alberto do Vale Gomes Carvalhas.\nManuel Mendes Nobre de Gusmão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "Independentes", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "José Justiniano Taboada Brás Pinto.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "Albano Pereira da Cunha Pina.\nAlberto Arons Braga de Carvalho.\nAlfredo Pinto da Silva.\nAntónio Fernandes de Fonseca.\nAntónio Manuel Maldonado Gonelha.\nAntónio Manuel de Oliveira Guterres.\nAquilino Ribeiro Machado.\nArmando dos Santos Lopes.\nBento Elísio de Azevedo.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "3 DE OUTUBRO DE 1978", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "3719", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "Carlos Cardoso Lage.\nDieter Dellinger.\nFrancisco Cardoso Pereira de Oliveira.\nFrancisco Soares Mesquita Machado.\nJoaquim Manuel Barros de Sousa.\nJosé Luís do Amaral Nunes.\nJosé Manuel Niza Antunes Mendes.\nLuís Filipe Nascimento Madeira.\nManuel Alegre de Melo Duarte.\nMário Alberto Nobre Lopes Soares.\nNuno Maria Monteiro Godinho de Matos.\nRui Paulo do Vale Valadares.\nVasco da Gama Lopes Fernandes.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "Álvaro Barros Marques de Figueiredo.\nAmantino Marques Pereira de Lemos.\nAmélia Cavaleiro Monteiro de Andrade de Azevedo.\nAmérico de Sequeira.\nAntónio Coutinho Monteiro de Freitas.\nAntónio Egídio Fernandes Loja.\nAntónio José dos Santos Moreira da Silva.\nAntónio Manuel Barata Portugal.\nArnaldo Ângelo de Brito Lhamas.\nArtur Videira Pinto da Cunha Leal.\nEduardo José Vieira.\nFernando Adriano Pinto.\nFernando José Sequeira Roriz.\nFrancisco Braga Barroso.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "João Vasco da Luz Botelho Paiva.\nJosé Ângelo Ferreira Correia.\nJosé Bento Gonçalves.\nManuel Sérgio Vila Lobos Menezes.\nMaria Helena do Rego da Costa Salema Roseta.\nRui Manuel Parente Chancerelle de Machete.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "Adelino Manuel Lopes Amaro da Costa.\nÁlvaro Dias de Sousa Ribeiro.\nAntónio Jacinto Martins Canaverde.\nEugénio Maria Nunes Anacoreta Correia.\nJoão Lopes Porto.\nJoão da Silva Mendes Morgado.\nJosé Manuel Cabral Fernandes.\nJosé Vicente de Jesus Carvalho Cardoso.\nLuís Aníbal de Sá de Azevedo Coutinho.\nMaria José Sampaio.\nRui Fausto Fernandes Marrana.\nRui Garcia de Oliveira.\nWalter Francisco Burmester Cudell.\nJorge do Carmo da Silva Leite.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "Independentes", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "António Miguel Morais Barreto.\nCarlos Galvão de Melo.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "PREÇO DESTE NÚMERO 8$00", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "IMPRENSA NACIONAL-CASA DA MOEDA", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

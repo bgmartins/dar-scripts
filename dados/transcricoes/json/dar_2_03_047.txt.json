@@ -25,8 +25,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quorum. Está aberta a reunião.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quorum. Está aberta a reunião.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 15 horas e 45 minutos.", 
@@ -35,139 +36,169 @@
   {
    "speaker": "Estiveram presentes os seguintes membros da Comissão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estiveram presentes os seguintes membros da Comissão", 
    "text": "Leonardo Eugénio Ribeiro de Almeida (PSD), presidente.\nAmândio Aires de Azevedo (PSD), vice-presidente.\nManuel Alfredo Tito de Morais (PS), vice-presidente.\nAmérico Maria Gomes de Sá (CDS), vice-presidente.\nJosé Rodrigues Vitoriano (PCP), vice-presidente.\nNuno Rodrigues dos Santos (PSD).\nArménio dos Santos (PSD).\nFernando dos Reis Condesso (PSD).\nAfonso de Sousa F. de Moura Guedes (PSD).\nJosé Augusto da Silva Marques (PSD).\nReinaldo Alberto Ramos Gomes (PSD), secretário.\nPedro Miguel Santana Lopes (PSD).\nBento Elísio de Azevedo (PS).\nAntónio de Almeida Santos (PS).\nCarlos Cardoso Lage (PS).\nAquilino Ribeiro Machado (PS).\nJosé Manuel Niza Antunes Mendes (PS), secretário.\nAntónio Jacinto M. Canaverde (CDS).\nArmando Domingos L. R. de Oliveira (CDS).\nFrancisco Manuel Menezes Falcão (CDS), secretário.\nManuel Eugénio P. Cavaleiro Brandão (CDS).\nCarlos Alfredo de Brito (PCP).\nÁlvaro Augusto Veiga de Oliveira (PCP).\nLino Carvalho de Lima (PCP), secretário.\nJoaquim Jorge M. Saraiva da Mota (ASDI).\nAntónio Poppe Lopes Cardoso (UEDS).\nHelena Cidade Moura (MDP).\nMário António Baptista Tomé (UDP).", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Antes de se proceder à leitura do expediente, deveríamos, por uma razão de metodologia, fixar os nossos trabalhos de hoje.\nNão sei se, em período de antes da ordem do dia propriamente dito, algum dos senhores deputados tem algum assunto a propor.\nExiste um pedido por parte do PSD no sentido de que, tanto quanto possível e no respeito de uma praxe que normalmente é respeitada, esta reunião seja breve devido ao começo do seu Congresso já amanhã.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Antes de se proceder à leitura do expediente, deveríamos, por uma razão de metodologia, fixar os nossos trabalhos de hoje.\nNão sei se, em período de antes da ordem do dia propriamente dito, algum dos senhores deputados tem algum assunto a propor.\nExiste um pedido por parte do PSD no sentido de que, tanto quanto possível e no respeito de uma praxe que normalmente é respeitada, esta reunião seja breve devido ao começo do seu Congresso já amanhã.\nO Sr. *Armando de Oliveira* (CDS): Dá-me licença, Sr. Presidente?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Armando de Oliveira* (CDS): Dá-me licença, Sr. Presidente?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor.", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Armando de Oliveira", 
+   "text": "Sr. Presidente, na penúltima reunião da Comissão Permanente foi levantado o problema das requisições para viagens dos senhores deputados.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Armando de Oliveira* (CDS): Sr. Presidente, na penúltima reunião da Comissão Permanente foi levantado o problema das requisições para viagens dos senhores deputados.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, irei esclarecer essa questão, mas antes disso propunha que o Sr. Secretário Reinaldo Gomes procedesse à leitura do expediente.\nFoi lido. É o seguinte:\nCarta", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, irei esclarecer essa questão, mas antes disso propunha que o Sr. Secretário Reinaldo Gomes procedesse à leitura do expediente.\nFoi lido. É o seguinte:", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Carta", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "De Salvador Leonardo Grilo da Silva, residente em Beja, relatando um acontecimento ocorrido naquela cidade entre seu filho e um \nsargento-ajudante das forças alemãs ali estacionadas.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Ofícios", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Da Federação dos Sindicatos de Transportes Rodoviários e Urbanos, com sede em Lisboa, remetendo o texto de uma proposta de que a Comissão Coordenadora das Organizações Sindicais do Sector dos Transportes terá já feito entregue aos Srs. Ministros do Trabalho e dos Transportes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "1518 I SÉRIE - NÚMERO 47", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Da Presidência da República, transcrevendo o teor de um telegrama que foi enviado pelo Sr. Presidente da Câmara Municipal de Vila Nova de Ourem.\nDa Federação Nacional das Cooperativas de Consumo, remetendo vários documentos em anexo, resultante do 3.º Congresso realizado nos passados dias 22 e 25 de Janeiro.\nDos Sindicatos dos Capitães, Oficiais, Pilotos, Comissários e Radiotécnicos da Marinha Mercante, dos Oficiais e Engenheiros Maquinistas da Marinha Mercante e dos Professores da Grande Lisboa, sobre a situação dos docentes na Escola Náutica «Infante D. Henrique».", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Telegramas", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "De trabalhadores da Transtejo que, reunidos em plenário no passado dia 10 do corrente, manifestam o seu repúdio pelas medidas que levem ao desmembramento da CTM e manifestando toda a sua solidariedade para com os colegas desta empresa.\nDo presidente da Câmara Municipal de Paredes, manifestando o seu desagrado para com o diploma que extingue o Notariado Privativo, sem prévia audiência aos corpos administrativos interessados.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, existem algumas solicitações de organismos policiais e judiciais no sentido de solicitarem a comparência de alguns senhores deputados para diversos fins: do 2.º Juízo Criminal, pedindo a comparência do Sr. Deputado Luís Coimbra, no dia 28 de Março, pelas 14 horas, a fim de depor na audiência de julgamento em que é réu Henrique Carlos Empis de Castro Constâncio.\nHá alguma objecção?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, existem algumas solicitações de organismos policiais e judiciais no sentido de solicitarem a comparência de alguns senhores deputados para diversos fins: do 2.º Juízo Criminal, pedindo a comparência do Sr. Deputado Luís Coimbra, no dia 28 de Março, pelas 14 horas, a fim de depor na audiência de julgamento em que é réu Henrique Carlos Empis de Castro Constâncio.\nHá alguma objecção?", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "text": "O Sr. *Magalhães Moía* (ASDI): Sr. Presidente ...", 
-   "type": "continuacao"
+   "party": "ASDI", 
+   "speaker": "Magalhães Moía", 
+   "text": "Sr. Presidente ...", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Não sei se me anteciparei ao que o Sr. Deputado vai dizer, mas parece que este pedido deverá ir a parecer da Subcomissão constituída na nossa última reunião.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Não sei se me anteciparei ao que o Sr. Deputado vai dizer, mas parece que este pedido deverá ir a parecer da Subcomissão constituída na nossa última reunião.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Veiga de Oliveira* (PCP): E é necessário saber se o deputado em causa foi ouvido.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
+   "text": "E é necessário saber se o deputado em causa foi ouvido.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Então, se não houver objecção, os diversos pedidos a que já me referi baixariam a esta Subcomissão.\nFicam, portanto, em mão do Sr. Secretário da Mesa, que os entregará ao relator da respectiva Subcomissão.\nEncontra-se inscrito o Sr. Deputado Lino Lima. Para que efeito, Sr.Deputado?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Então, se não houver objecção, os diversos pedidos a que já me referi baixariam a esta Subcomissão.\nFicam, portanto, em mão do Sr. Secretário da Mesa, que os entregará ao relator da respectiva Subcomissão.\nEncontra-se inscrito o Sr. Deputado Lino Lima. Para que efeito, Sr.Deputado?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Lino Lima* (PCP): Sr. Presidente, é para tecer algumas considerações justificativas de um requerimento que vou apresentar na Mesa.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Lino Lima", 
+   "text": "Sr. Presidente, é para tecer algumas considerações justificativas de um requerimento que vou apresentar na Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Lino Lima* (PCP): Sr. Presidente, Srs. Deputados: Na passada terça-feira, em Braga, como com certeza já é do conhecimento de todos, um corpo da Polícia de Intervenção dispersou violentamente à cacetada, pelas formas do costume, um conjunto grande de agricultores que pretendiam chamar a atenção para \na situação em que se encontram, que é a de, apesar de todas as promessas feitas, ainda não terem recebido as indemnizações relativas à geada negra que os atingiu há meses naquela zona.\nEstas atitudes não têm nenhuma espécie de justificação. Formas de protesto como aquelas que os agricultores de Braga usaram, que foi o terem ido para a estrada, são comuns, já não falo no nosso país, mas em muitos países. Vêem-se com frequência notícias dessas, nomeadamente em relação a agricultores em França e Espanha, e não consta que nesses países a actuação das polícias tenha alguma coisa de parecido com o que se passou em Braga nesse dia.\nÉ uma situação que se vai generalizando, a da polícia intervir contra os cidadãos, que usam os seus direitos legítimos, por formas perfeitamente desproporcionadas, usando de violências indiscriminadas, aqui ainda acrescidas pela circunstância de os agricultores, antes de terem ido para a estrada, terem realizado um plenário para o qual estavam autorizados e, quando ainda o estavam a realizar, começaram a chegar essas mesmas forças de intervenção que se colocaram à volta do recinto onde eles estavam reunidos numa atitude intimidatória e que também não tem o mínimo de justificação.\nÉ, pois, preciso que estas situações se não repitam.\nO nosso grupo parlamentar está já farto de reclamar contra atitudes deste género levadas a cabo pela Polícia, designadamente pelo seu Corpo de Intervenção, e não vemos da parte do Ministério da Administração Interna uma atitude que tente pôr termo a actos desta natureza.\nQueremos, pois, chamar a atenção da Comissão Permanente para esta circunstância, justificando com estas palavras a apresentação de um requerimento que vou fazer, dirigido ao Ministério da Administração Interna, exactamente para que ele esclareça esta Comissão de quais os motivos por que a Polícia teve essa atitude, quem foram os responsáveis e o que é que se pensa fazer para pôr termo a actos desta natureza.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Lino Lima", 
+   "text": "Sr. Presidente, Srs. Deputados: Na passada terça-feira, em Braga, como com certeza já é do conhecimento de todos, um corpo da Polícia de Intervenção dispersou violentamente à cacetada, pelas formas do costume, um conjunto grande de agricultores que pretendiam chamar a atenção para \na situação em que se encontram, que é a de, apesar de todas as promessas feitas, ainda não terem recebido as indemnizações relativas à geada negra que os atingiu há meses naquela zona.\nEstas atitudes não têm nenhuma espécie de justificação. Formas de protesto como aquelas que os agricultores de Braga usaram, que foi o terem ido para a estrada, são comuns, já não falo no nosso país, mas em muitos países. Vêem-se com frequência notícias dessas, nomeadamente em relação a agricultores em França e Espanha, e não consta que nesses países a actuação das polícias tenha alguma coisa de parecido com o que se passou em Braga nesse dia.\nÉ uma situação que se vai generalizando, a da polícia intervir contra os cidadãos, que usam os seus direitos legítimos, por formas perfeitamente desproporcionadas, usando de violências indiscriminadas, aqui ainda acrescidas pela circunstância de os agricultores, antes de terem ido para a estrada, terem realizado um plenário para o qual estavam autorizados e, quando ainda o estavam a realizar, começaram a chegar essas mesmas forças de intervenção que se colocaram à volta do recinto onde eles estavam reunidos numa atitude intimidatória e que também não tem o mínimo de justificação.\nÉ, pois, preciso que estas situações se não repitam.\nO nosso grupo parlamentar está já farto de reclamar contra atitudes deste género levadas a cabo pela Polícia, designadamente pelo seu Corpo de Intervenção, e não vemos da parte do Ministério da Administração Interna uma atitude que tente pôr termo a actos desta natureza.\nQueremos, pois, chamar a atenção da Comissão Permanente para esta circunstância, justificando com estas palavras a apresentação de um requerimento que vou fazer, dirigido ao Ministério da Administração Interna, exactamente para que ele esclareça esta Comissão de quais os motivos por que a Polícia teve essa atitude, quem foram os responsáveis e o que é que se pensa fazer para pôr termo a actos desta natureza.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: O requerimento será expedido nos termos normais, Sr. Deputado. Tem a palavra o Sr. Deputado Mário Tomé.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "O requerimento será expedido nos termos normais, Sr. Deputado. Tem a palavra o Sr. Deputado Mário Tomé.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Mário Tomé* (UDP): Sr. Presidente, uso da palavra também para justificar um requerimento que irei apresentar.\nHoje, à hora do almoço, como já fiz mais de uma vez, fui falar com os trabalhadores da Manutenção Militar, cá fora na rua, onde eles costumam estar durante o intervalo para almoço.\nPela terceira vez, embora de uma forma um pouco diferente, fui interpelado pela Polícia na tentativa de me impedir de falar com os trabalhadores.\nConsidero que esta é mais uma atitude intolerável. Não se pode, nem desta forma, nem de outras, limitar a actividade dos deputados. Estes têm o direito de falar com os trabalhadores, de os ouvir, e têm o dever de auscultar os seus problemas.\nEsta atitude da Polícia foi no sentido de, com menos aparato do que costuma, mas implicando elementos de mais elevada craveira hierárquica, como um major ou tenente-coronel, tentar impedir-me de falar dizendo que a lei não o permitia, etc.", 
-   "type": "continuacao"
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
+   "text": "Sr. Presidente, uso da palavra também para justificar um requerimento que irei apresentar.\nHoje, à hora do almoço, como já fiz mais de uma vez, fui falar com os trabalhadores da Manutenção Militar, cá fora na rua, onde eles costumam estar durante o intervalo para almoço.\nPela terceira vez, embora de uma forma um pouco diferente, fui interpelado pela Polícia na tentativa de me impedir de falar com os trabalhadores.\nConsidero que esta é mais uma atitude intolerável. Não se pode, nem desta forma, nem de outras, limitar a actividade dos deputados. Estes têm o direito de falar com os trabalhadores, de os ouvir, e têm o dever de auscultar os seus problemas.\nEsta atitude da Polícia foi no sentido de, com menos aparato do que costuma, mas implicando elementos de mais elevada craveira hierárquica, como um major ou tenente-coronel, tentar impedir-me de falar dizendo que a lei não o permitia, etc.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "25 DE FEVEREIRO DE 1983 1519", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "Claro que não o conseguiram, dado que eu não aceitei qualquer argumentação e dada a atitude dos operários que não permitiram qualquer tentativa de actuação da Polícia.\nPenso que estas situações não são toleráveis. A situação dos trabalhadores dentro dos estabelecimentos fabris das Forças Armadas é de uma repressão intolerável - já denunciei no Plenário da Assembleia da República a agressão de que foi vítima um elemento da comissão de trabalhadores por parte de um oficial da Manutenção Militar -, os elementos mais combativos das comissões de trabalhadores estão sujeitos a processos e para isso chamo a atenção desta Comissão.\nApesar de, na minha maneira de ver, considerar pouco democráticas as características do regime em que estamos a viver, mesmo assim não é de forma alguma admissível pensar que estas coisas possam continuar a acontecer.\nOs deputados têm o direito e o dever de contactar com os trabalhadores, sejam eles de que empresas forem, e só os próprios trabalhadores é que podem dizer se querem ou não ouvi-los.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Como o Sr. Deputado ainda não formulou por escrito o seu requerimento, fará o favor de o entregar ao Sr. Secretário da Mesa ou no meu gabinete, dado que já não deve ter tempo de o fazer até final desta reunião.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Como o Sr. Deputado ainda não formulou por escrito o seu requerimento, fará o favor de o entregar ao Sr. Secretário da Mesa ou no meu gabinete, dado que já não deve ter tempo de o fazer até final desta reunião.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Mário Tomé* (UDP): Com certeza, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
+   "text": "Com certeza, Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Dado não haver mais inscrições, está encerrado o período de antes da ordem do dia.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Dado não haver mais inscrições, está encerrado o período de antes da ordem do dia.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Encontra-se na Mesa um relatório e parecer da Comissão para os Assuntos Constitucionais, emitido em 8 de Fevereiro, portanto ainda durante o funcionamento da Assembleia, a propósito de um pedido de esclarecimento dos serviços do Provedor de Justiça.\nNão tendo sido ainda distribuído, ponho à consideração dos Srs.Deputados se se pode proceder desde já à sua leitura.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Encontra-se na Mesa um relatório e parecer da Comissão para os Assuntos Constitucionais, emitido em 8 de Fevereiro, portanto ainda durante o funcionamento da Assembleia, a propósito de um pedido de esclarecimento dos serviços do Provedor de Justiça.\nNão tendo sido ainda distribuído, ponho à consideração dos Srs.Deputados se se pode proceder desde já à sua leitura.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não havendo qualquer objecção, vai ser lido.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -235,44 +266,51 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em debate.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em debate.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como ninguém deseja usar da palavra, vamos votá-lo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado por maioria, com a abstenção do deputado Magalhães Mota (ASDI), não se encontrando presentes no momento da votação deputados da UEDS e do MDP/CDE.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Entretanto regista-se que o CDS indica o Sr.Deputado Menezes Falcão como secretário da Mesa da Comissão Permanente.\nRelativamente ao problema que o Sr. Deputado Armando de Oliveira levantou sobre os transportes, devo dizer que no decurso desta semana, no intervalo das nossas duas reuniões, fui alertado pelo Sr. Deputado Veiga de Oliveira para a subsistência do problema. De resto, depois da nossa última reunião, tinha dado instruções verbais para que não houvesse mais dificuldades nesse sentido.\nPosso dizer-lhe que ontem mesmo lavrei um despacho, com força de decisão, no sentido de chamar a atenção dos serviços para o facto de que os senhores deputados mantêm a plenitude do mandato sem prejuízo da dissolução da Assembleia da República. Portanto, no que respeita a transportes, subsiste também a plenitude dos seus direitos.\nCreio que isto resolverá todas as dificuldades. Se alguma for levantada agradeço que me informem imediatamente para que seja arredada.\nEm ordem do dia, mais algum senhor deputado tem assuntos a tratar?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Entretanto regista-se que o CDS indica o Sr.Deputado Menezes Falcão como secretário da Mesa da Comissão Permanente.\nRelativamente ao problema que o Sr. Deputado Armando de Oliveira levantou sobre os transportes, devo dizer que no decurso desta semana, no intervalo das nossas duas reuniões, fui alertado pelo Sr. Deputado Veiga de Oliveira para a subsistência do problema. De resto, depois da nossa última reunião, tinha dado instruções verbais para que não houvesse mais dificuldades nesse sentido.\nPosso dizer-lhe que ontem mesmo lavrei um despacho, com força de decisão, no sentido de chamar a atenção dos serviços para o facto de que os senhores deputados mantêm a plenitude do mandato sem prejuízo da dissolução da Assembleia da República. Portanto, no que respeita a transportes, subsiste também a plenitude dos seus direitos.\nCreio que isto resolverá todas as dificuldades. Se alguma for levantada agradeço que me informem imediatamente para que seja arredada.\nEm ordem do dia, mais algum senhor deputado tem assuntos a tratar?", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não havendo pedidos de palavra, informo que a próxima reunião fica convocada para o próximo dia 3 de Março, às 15 horas.\nEstá, pois, encerrada a reunião.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 16 horas e 10 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Faltaram à reunião os seguintes membros da Comissão: \nManuel Maria Portugal da Fonseca (PSD).\nLuís Filipe O. Bebiano Coimbra (PPM).", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "PREÇO DESTE NUMERO 8$00 \nIMPRENSA NACIONAL-CASA DA MOEDA", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

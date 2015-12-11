@@ -124,26 +124,25 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, o Sr. Secretário vai anunciar os diplomas entrados na Mesa.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai anunciar os diplomas entrados na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
-   "text": "O Sr. *Secretário* (Reinaldo Gomes): Srs. Deputados, deu entrada na Mesa, tendo sido admitido e baixado à 10.ª Comissão, o diploma seguinte: projecto de lei n.º 135/V, apresentado pelo Sr. Deputado Álvaro Brasileiro, do PCP, que propõe a criação da freguesia da Barrosa no concelho de Benavente.\nO Sr. *Presidente*: Srs. Deputados, a fim de se poder dar início às eleições que decorrerão na Sala D. Maria, entre as 10 e as 12 horas, informo a Câmara de que os escrutinadores serão os Srs. Deputados Valdemar Alves, pelo PSD, e Rui Silva, pelo PRD, enquanto que tanto o PS como o PCP indicarão em breve quais os seus representantes.\nInformo ainda que, devido a dificuldades técnicas, não se irá proceder hoje à eleição do secretário nem à dos vice-secretários da Mesa da Assembleia da República, as quais ficam transferidas para momento oportuno, ficando a aguardar a realização de uma conferencia de líderes para podermos reanalisar o problema. Assim, proceder-se-á somente à eleição de um representante parlamentar português para o Conselho da Europa e de outro para a União da Europa Ocidental.\nSrs. Deputados, informo que o Sr. Deputado Álvaro Amaro será o escrutinador pelo PCP, faltando ainda a nomeação de um escrutinador por parte do Partido Socialista.\nSrs. Deputados, conforme previsto, passaremos agora à votação do voto sobre Timor Leste, apresentado por todos os grupos parlamentares.\nAntes, gostaria de saber se os grupos parlamentares põem objecções a que se proceda logo de seguida às votações finais globais das propostas de lei n.º 7/V e 11/V, ficando para o fim as votações relativas ao pacote autárquico.", 
-   "type": "deputado_continuacao"
+   "party": "Reinaldo Gomes", 
+   "speaker": "Secretário", 
+   "text": "Srs. Deputados, deu entrada na Mesa, tendo sido admitido e baixado à 10.ª Comissão, o diploma seguinte: projecto de lei n.º 135/V, apresentado pelo Sr. Deputado Álvaro Brasileiro, do PCP, que propõe a criação da freguesia da Barrosa no concelho de Benavente.\nO Sr. *Presidente*: — Srs. Deputados, a fim de se poder dar início às eleições que decorrerão na Sala D. Maria, entre as 10 e as 12 horas, informo a Câmara de que os escrutinadores serão os Srs. Deputados Valdemar Alves, pelo PSD, e Rui Silva, pelo PRD, enquanto que tanto o PS como o PCP indicarão em breve quais os seus representantes.\nInformo ainda que, devido a dificuldades técnicas, não se irá proceder hoje à eleição do secretário nem à dos vice-secretários da Mesa da Assembleia da República, as quais ficam transferidas para momento oportuno, ficando a aguardar a realização de uma conferencia de líderes para podermos reanalisar o problema. Assim, proceder-se-á somente à eleição de um representante parlamentar português para o Conselho da Europa e de outro para a União da Europa Ocidental.\nSrs. Deputados, informo que o Sr. Deputado Álvaro Amaro será o escrutinador pelo PCP, faltando ainda a nomeação de um escrutinador por parte do Partido Socialista.\nSrs. Deputados, conforme previsto, passaremos agora à votação do voto sobre Timor Leste, apresentado por todos os grupos parlamentares.\nAntes, gostaria de saber se os grupos parlamentares põem objecções a que se proceda logo de seguida às votações finais globais das propostas de lei n.º 7/V e 11/V, ficando para o fim as votações relativas ao pacote autárquico.", 
+   "type": "secretario"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "party": "Reinaldo Gomes", 
+   "speaker": "Secretário", 
    "text": "Como não há objecções, assim se fará. Srs. Deputados, vai proceder-se à leitura do voto sobre Timor Leste.", 
-   "type": "deputado_continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -179,135 +178,157 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, era para esclarecer que a Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias já aprontou o texto relativo à proposta de lei n.º 1/V, sobre o regime de perícias médico-legais. Quanto ao texto da proposta de lei n.º 11/V, sobre o regime de acesso ao direito e aos tribunais judiciais, ele está, neste momento, a ser aprontado e, consoante hipótese autorizada pela conferência de líderes, poderá ser votado na sessão da próxima terça-feira, sem qualquer inconveniente para o cumprimento dos prazos a cumprir.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, era para esclarecer que a Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias já aprontou o texto relativo à proposta de lei n.º 1/V, sobre o regime de perícias médico-legais. Quanto ao texto da proposta de lei n.º 11/V, sobre o regime de acesso ao direito e aos tribunais judiciais, ele está, neste momento, a ser aprontado e, consoante hipótese autorizada pela conferência de líderes, poderá ser votado na sessão da próxima terça-feira, sem qualquer inconveniente para o cumprimento dos prazos a cumprir.\nO Sr. Presidente - Sr. Deputado, então, não há possibilidade de esse texto ficar pronto durante a sessão de hoje?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. Presidente - Sr. Deputado, então, não há possibilidade de esse texto ficar pronto durante a sessão de hoje?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, se tal for considerado extremamente importante, e possível aprontá-lo ainda hoje, mas creio que não 6 esse o entendimento de nenhuma das bancadas.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, se tal for considerado extremamente importante, e possível aprontá-lo ainda hoje, mas creio que não 6 esse o entendimento de nenhuma das bancadas.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado António Vitorino, tem V. Ex.ª a palavra.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado António Vitorino, tem V. Ex.ª a palavra.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Vitorino", 
+   "text": "Sr. Presidente, era só para coonestar as palavras do Sr. Deputado José Magalhães, pois que o sentido do voto depende do articulado do texto final da proposta de lei. Portanto, para que possa vir a ser aprovado por unanimidade, seria vantajoso que se pudesse dispor de mais algum tempo para cuidar de alguns pormenores do texto. Assim, a votação final global da proposta de lei n.º 11/V ficaria adiada para a próxima terça-feira, se o Sr. Presidente considerar que não existem obstáculos inultrapassáveis.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Vitorino* (PS): Sr. Presidente, era só para coonestar as palavras do Sr. Deputado José Magalhães, pois que o sentido do voto depende do articulado do texto final da proposta de lei. Portanto, para que possa vir a ser aprovado por unanimidade, seria vantajoso que se pudesse dispor de mais algum tempo para cuidar de alguns pormenores do texto. Assim, a votação final global da proposta de lei n.º 11/V ficaria adiada para a próxima terça-feira, se o Sr. Presidente considerar que não existem obstáculos inultrapassáveis.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, pelo que ficou dito, fica, então, adiada a votação para terça-feira. Assim, procederemos hoje apenas à votação final global da proposta de lei n.º 7/V, que autoriza o Governo a estabelecer o regime de perícias médico-legais.\nSrs. Deputados, vão iniciar-se agora as votações para um representante português no Conselho da Europa e outro para a União da Europa Ocidental, que terá lugar na Sala D. Maria, terminando às 12 horas. De momento, contaremos só com a presença de três escrutinadores, pois o Partido Socialista ainda não nomeou o seu representante.\nSrs. Deputados, vamos, então, proceder à votação final global da proposta de lei n.º 7/V., que autoriza o Governo a estabelecer o regime de perícias médico-legais.\nSubmetida à votação, foi aprovada por unanimidade, registando-se a ausência de Os Verdes e da ID.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, pelo que ficou dito, fica, então, adiada a votação para terça-feira. Assim, procederemos hoje apenas à votação final global da proposta de lei n.º 7/V, que autoriza o Governo a estabelecer o regime de perícias médico-legais.\nSrs. Deputados, vão iniciar-se agora as votações para um representante português no Conselho da Europa e outro para a União da Europa Ocidental, que terá lugar na Sala D. Maria, terminando às 12 horas. De momento, contaremos só com a presença de três escrutinadores, pois o Partido Socialista ainda não nomeou o seu representante.\nSrs. Deputados, vamos, então, proceder à votação final global da proposta de lei n.º 7/V., que autoriza o Governo a estabelecer o regime de perícias médico-legais.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Submetida à votação, foi aprovada por unanimidade, registando-se a ausência de Os Verdes e da ID.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado José Magalhães, pede a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, era para uma curta declaração de voto.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado José Magalhães, pede a palavra para que efeito?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, era para uma curta declaração de voto.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, era só para assinalar que o texto agora votado contempla algumas das preocupações que tivemos ocasião de exprimir durante o debate na generalidade. Por forma a dar cumprimento à Constituição, este texto procura precisar o sentido da autorização concedida.\nPor último, assinalaria que foram contempladas duas preocupações específicas em relação às condições de realização de exames que possam ofender o pudor, as quais nos tinham suscitado particular preocupação durante o debate aqui realizado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos passar às votações relativas ao pacote autárquico. O Sr. Deputado Manuel Moreira vai proceder à leitura do relatório e parecer da Comissão de Administração do Território, Poder Local e Ambiente.\nTem a palavra o Sr. Deputado Manuel Moreira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, era só para assinalar que o texto agora votado contempla algumas das preocupações que tivemos ocasião de exprimir durante o debate na generalidade. Por forma a dar cumprimento à Constituição, este texto procura precisar o sentido da autorização concedida.\nPor último, assinalaria que foram contempladas duas preocupações específicas em relação às condições de realização de exames que possam ofender o pudor, as quais nos tinham suscitado particular preocupação durante o debate aqui realizado.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Vitorino", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos passar às votações relativas ao pacote autárquico. O Sr. Deputado Manuel Moreira vai proceder à leitura do relatório e parecer da Comissão de Administração do Território, Poder Local e Ambiente.\nTem a palavra o Sr. Deputado Manuel Moreira.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Sr. Presidente, Srs. Deputados: O relatório e parecer da Subcomissão 19 DE DEZEMBRO DE 1987 899", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *António Vitorino* (PS): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Manuel Moreira* (PSD): Sr. Presidente, Srs. Deputados: O relatório e parecer da Subcomissão", 
-   "type": "documento"
-  }, 
-  {
-   "text": "19 DE DEZEMBRO DE 1987 899", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
    "text": "para a Criação de Novos Municípios, Freguesias, Vilas e Cidades, da Comissão de Administração do Território, Poder Local e Ambiente, é do seguinte teor:", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
    "text": "A Subcomissão Parlamentar para a Criação de Novos Municípios, Freguesias, Vilas e Cidades, constituída pelos Srs. Deputados António Abílio Costa (PSD); Manuel Moreira (PSD), com as funções de \ncoordenador, Alberto Oliveira e Silva (PS); João Barroso Soares (PS); Cláudio Percheiro (PCP); João Amaral (PCP); José Carlos Lilaia (PRD) e Raul de Castro (ID), apreciou à luz da Lei n.º 11/82, de 2 de Junho (regime de criação e extinção das autarquias locais e de designação e determinação da categoria das povoações), os projectos de lei entrados na Mesa da Assembleia da República com o objecto de criação de novas freguesias, elevação de povoações à categoria de vila e elevação de vilas à categoria de cidade, tendo considerado em condições de subir a Plenário para votação os seguintes projectos de lei:", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "1) Elevação de vilas à categoria de cidade", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "1) Elevação de vilas à categoria de cidade", 
    "text": "Projecto de lei n.º 1/V (PSD) - Loulé; projecto de lei n.º 4/V (PS) - Vila do Conde; projecto de lei n.º 5/V (PS) - Gouveia (com base no artigo 14.º da Lei n.º 11/82, de 2 de Junho); projecto de lei n.º 106/V (PSD) - Gouveia (com base no artigo 14.º da Lei n.º 11/82, de 2 de Junho); projecto de lei n.º 6/V (PSD) - Peniche; projecto de lei n.9 59/V (PCP/PSD/PS) - Vila de Moura; projecto de lei n.º 61/V (PS) - Tondela; projecto de lei n.º 80/V (PSD) - Tondela;", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "2) Elevação de povoações à categoria de vila", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "2) Elevação de povoações à categoria de vila", 
    "text": "Projecto de lei n.9 3/V (PSD) - Almansil, no concelho de Loulé; projecto de lei n.5 7/V (PSD) - Arcozelo, no concelho de Vila Nova de Gaia; projecto de lei n.9 8/V (PSD) - Avintes, no concelho de Vila Nova de Gaia; projecto de lei n.º 9/V (PSD) - Canelas, no concelho de Vila Nova de Gaia; projecto de lei n.º 10/V (PSD) - Carvalhos, no concelho de Vila Nova de Gaia; projecto de lei n.º 11/V (PSD) - Grijó, no concelho de Vila Nova de Gaia; projecto de lei n.º 12/V (PSD) - Valadares, no concelho de Vila Nova de Gaia; projecto de lei n.º 13/V (PSD/PS) - Vila Meã, no concelho de Amarante; projecto de lei n.º 16/V (PSD) - Febres, no concelho de Cantanhede; projecto de lei n.0 20/V (PS) - São Romão, no concelho de Seia (com base no artigo 14.9 da Lei n.9 11/82, de 2 de Junho); projecto de lei n.º 120/V (PSD) - São Romão, no concelho de Seia (com base no artigo 14.º da Lei n.º 11/82, de 2 de Junho); projecto de lei n.º 26/V (PS) - Vilar Formoso, no concelho de Almeida (com base no artigo 14.º da Lei n.9 11/82, de 2 de Junho); projecto de lei n.º 103/V (PSD) - Vilar Formoso, no concelho de Almeida (com base no artigo 14.º da Lei n.9 11/82, de 2 de Junho); projecto de lei n.9 29/V (PCP) - Algueirão-Mem Martins, no concelho de Sintra; projecto de lei n.º 75/V (PS) - Vila Nova de Tazem, no concelho de Gouveia (com base no artigo 14.9 da Lei n.º 11/82, de 2 de Junho) - a); projecto de lei n.º 104/V (PSD) - Vila Nova de Tazem, no concelho de Gouveia (com base no artigo 14.º da Lei n.9 11/82, de 2 de Junho) - a); projecto de lei n.º 76/V (PSD) - Barroselas, no concelho de Viana do Castelo; projecto de lei n.º 79/V (PS) - Paredes de Guardão e Caramulo, passando a denominar-se Vila do Caramulo, no concelho de Tondela; projecto de lei n.9 82/V (PSD) - Riba de Ave, no concelho de Vila Nova de Famalicão (com base no artigo 14.º da Lei n.º 11/82, de 2 de Junho); projecto de lei n.º 31/V (PCP) - Santa Iria de Azoia, no concelho de Loures;", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "3) Criação de novas freguesias", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "3) Criação de novas freguesias", 
    "text": "Projecto de lei n.º 15/V (PSD) - Santana, no concelho da Figueira da Foz; projecto de lei n.º 28/V (PS) - Lapa dos Dinheiros, no concelho de Seia - a); projecto de lei n.º 121/V (PSD) - Lapa 'dos Dinheiros, no concelho de Seia; projecto de lei n.º 30/V (PCP) - Carvalhal, no concelho de Grândola; projecto de lei n.º 49/V (PCP) - Canhestros, no concelho de Ferreira do Alentejo; projecto de lei n.º 78/V (PSD) - Moita do Norte, no concelho de Vila Nova da Barquinha.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "3) Criação de novas freguesias", 
    "text": "A Comissão Parlamentar de Administração do Território, Poder Local e Ambiente na sua reunião de 3 de Dezembro aprovou, por unanimidade, o presente relatório e parecer.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Depois de lido o relatório, peço ao Sr.Vice-Presidente Maia Nunes de Almeida o favor de me substituir.\nEntretanto, assumiu a presidência o Sr. Vice-Presidente Maia Nunes de Almeida.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Depois de lido o relatório, peço ao Sr.Vice-Presidente Maia Nunes de Almeida o favor de me substituir.\nEntretanto, assumiu a presidência o Sr. Vice-Presidente Maia Nunes de Almeida.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente* (Maia Nunes de Almeida): Srs. Deputados, por decisão da conferência de líderes, cada grupo parlamentar tem dez minutos para, no final, produzir uma declaração de voto.\nSrs. Deputados, vamos proceder às votações. Se estiverem de acordo, fazemos conjuntamente a votação na generalidade, na especialidade e a votação final global de cada projecto de lei.\nSr. Deputado Manuel Moreira, estamos em condições de iniciar as votações?", 
-   "type": "documento"
+   "party": "Maia Nunes de Almeida", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, por decisão da conferência de líderes, cada grupo parlamentar tem dez minutos para, no final, produzir uma declaração de voto.\nSrs. Deputados, vamos proceder às votações. Se estiverem de acordo, fazemos conjuntamente a votação na generalidade, na especialidade e a votação final global de cada projecto de lei.\nSr. Deputado Manuel Moreira, estamos em condições de iniciar as votações?", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Sr. Presidente, acho que sim, de acordo com o que ficou combinado na respectiva conferência de líderes.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Sr. Presidente, acho que sim, de acordo com o que ficou combinado na respectiva conferência de líderes.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Correia Afonso.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Correia Afonso.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Correia Afonso* (PSD): Sr. Presidente, julgo que talvez haja necessidade de recordar aquilo que foi fixado na conferência de líderes dos grupos parlamentares.\nFoi acordado que seriam votados os projectos de lei, um a um, e que haveria uma declaração final de dez minutos para cada partido no fim da votação.\nJulgo que foi isto que corresponde ao que se passou.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Correia Afonso", 
+   "text": "Sr. Presidente, julgo que talvez haja necessidade de recordar aquilo que foi fixado na conferência de líderes dos grupos parlamentares.\nFoi acordado que seriam votados os projectos de lei, um a um, e que haveria uma declaração final de dez minutos para cada partido no fim da votação.\nJulgo que foi isto que corresponde ao que se passou.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, era esse o entendimento que a Mesa tinha, pelo que vamos já passar às votações.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "900 I SÉRIE - NÚMERO 34", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, era esse o entendimento que a Mesa tinha, pelo que vamos já passar às votações.\n900 I SÉRIE - NÚMERO 34", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Srs. Deputados, vamos votar na generalidade, na especialidade e em votação final global o projecto de lei n.º 1/V, cujo teor é o seguinte", 
@@ -344,40 +365,55 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Sr. Presidente, peço a palavra.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Sr. Presidente, uma vez que há dois projectos de lei com o mesmo objecto, penso que seria útil e desejável votar os dois em conjunto.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Sr. Presidente, uma vez que há dois projectos de lei com o mesmo objecto, penso que seria útil e desejável votar os dois em conjunto.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (PS): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (PS): Sr. Presidente, apesar de tudo, temos de respeitar o mínimo de regras. Votar dois projectos de lei em conjunto é a primeira vez que vejo ao longo dos anos que estou neste Parlamento.\nNão vejo qual e a base que sustenta esta nova fórmula de votação!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Sr. Presidente, apesar de tudo, temos de respeitar o mínimo de regras. Votar dois projectos de lei em conjunto é a primeira vez que vejo ao longo dos anos que estou neste Parlamento.\nNão vejo qual e a base que sustenta esta nova fórmula de votação!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Sr. Presidente, julgo que há várias testemunhas nesta Câmara de que, em relação a anteriores pacotes autárquicos, sempre foram votados em conjunto diplomas com o mesmo objectivo. No entanto, o PSD não põe qualquer obstáculo a que sejam votados em separado.\nJá estou a ver que o Sr. Deputado Lopes Cardoso esteve ausente nas anteriores votações sobre esta matéria ...", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Sr. Presidente, julgo que há várias testemunhas nesta Câmara de que, em relação a anteriores pacotes autárquicos, sempre foram votados em conjunto diplomas com o mesmo objectivo. No entanto, o PSD não põe qualquer obstáculo a que sejam votados em separado.\nJá estou a ver que o Sr. Deputado Lopes Cardoso esteve ausente nas anteriores votações sobre esta matéria ...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (PS): Está a ver mal, Sr. Deputado!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Está a ver mal, Sr. Deputado!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos, então, votar cada um dos projectos de lei.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vamos, então, votar cada um dos projectos de lei.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Vamos votar na generalidade, na especialidade e em votação final global o projecto de lei n.º 5/V, cujo teor é o seguinte", 
@@ -978,148 +1014,181 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Sr. Presidente, Srs. Deputados: A Assembleia da República, na sua V Legislatura, votou hoje mais um conjunto importante de projectos de lei com o objecto de criação de novas freguesias, elevação de povoações à categoria de vila e elevação de vilas à categoria de cidade.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Sr. Presidente, Srs. Deputados: A Assembleia da República, na sua V Legislatura, votou hoje mais um conjunto importante de projectos de lei com o objecto de criação de novas freguesias, elevação de povoações à categoria de vila e elevação de vilas à categoria de cidade.\n906 I SÉRIE - NÚMERO 34", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "906 I SÉRIE - NÚMERO 34", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
    "text": "A Comissão Especializada de Administração do Território, Poder Local e Ambiente, numa das suas primeiras reuniões, deliberou instituir no seu âmbito uma Subcomissão para a Criação de Novos Municípios, Freguesias, Cidades e Vilas, a fim de apreciar as iniciativas legislativas com tal objecto.\nA Subcomissão, por mandato da Comissão Parlamentar, desenvolveu os seus trabalhos de forma célere e eficaz, preparando a apreciação e a votação, que há pouco neste hemiciclo teve lugar, de vários projectos de lei que foram retomados da anterior Legislatura, satisfazendo assim naturais expectativas de muitas populações.\nTodos os projectos de lei foram analisados com base na Lei n.º 11/82, de 2 de Junho, que estabelece o regime de criação e extinção das autarquias locais e de designação e determinação da categoria das povoações, tendo sido votado por unanimidade, em reunião da Comissão Parlamentar de 3 de Dezembro próximo passado, o relatório e parecer da Subcomissão, no qual se consideravam em condições de subir a Plenário da Assembleia da República para votação aqueles que acabámos de votar.\nAssim, o Grupo Parlamentar do PSD votou favoravelmente todos os projectos de lei que preenchiam os requisitos da lei quadro, designadamente as razões de ordem geográfica, demográfica, económica, cultural e administrativa e que dispunham dos pareceres favoráveis da maioria dos órgãos autárquicos, correspondendo deste modo à vontade das populações locais.\nAs promoções à categoria de cidade e de vila também se justificam plenamente, dado o grande surto de desenvolvimento e progresso sócio-económico que, de um modo geral, se tem verificado, em especial nos últimos anos, nessas terras.\nPor tudo isto, aprovámos a elevação à categoria de cidade das vilas de Loulé, Vila do Conde, Peniche, Moura e Tondela. Igualmente demos o nosso voto favorável à elevação à categoria de vila das povoações de Almansil, no concelho de Loulé, Arcozelo, Avintes, Canelas, Carvalhos, G rijo e Valadares, no concelho de Vila Nova de Gaia, Vila Meã, no concelho de Amarante, Febres, no concelho de Cantanhede, Algueirão-Mem Martins, no concelho de Sintra, Barroselas, no concelho de Viana do Castelo, e Paredes de Guardão e Caramulo, com a designação de Vila do Caramulo, no concelho de Tondela. Tendo ainda aprovado a criação no nosso país das seguintes novas freguesias: Santana, no concelho da Figueira da Foz, Lapa dos Dinheiros, no concelho de Seia, Carvalhal, no concelho de Grândola, Canhestros, no concelho de Ferreira do Alentejo, e Moita do Norte, no concelho de Vila Nova da Barquinha.\nSr. Presidente, Srs. Deputados: Importantes razões de ordem \nhistórico-cultural justificaram também o voto a favor do Partido Social-Democrata no que concerne à elevação de Gouveia à categoria de cidade e da elevação das povoações de São Romão, no concelho de Seia, Vilar Formoso, no concelho de Almeida, Vila Nova de Tazem, no concelho de Gouveia, e Riba de Ave, no concelho de Vila Nova de Famalicão, à categoria de vila.\nSr. Presidente, Srs. Deputados: Como já por diversas vezes tenho afirmado, estas criações e promoções não podem nem devem ser um fim em si mesmo; muito pelo contrário, podem e devem ser um meio útil e eficaz para um maior desenvolvimento local que supere as carências existentes e proporcione um melhor bem-estar e qualidade de vida às populações.\nNesse sentido, é fundamental que as autarquias locais, as forças vivas e a população em geral se empenhem profundamente em projectos de desenvolvimento e criação de riqueza nas novas freguesias, cidades e vilas, que terão, estou certo disso, como consequência o progresso e modernização da comunidade nacional.\nO PSD endereça às novas freguesias, cidades e vilas de Portugal e às suas populações, desde já e daqui, as suas felicitações e desafia-as a continuarem a trabalhar, agora com mais força, ânimo e determinação, para bem do poder local e do País.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD e de alguns deputados do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o Sr.Deputado Cláudio Percheiro.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o Sr.Deputado Cláudio Percheiro.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Cláudio Percheiro* (PCP): Sr. Presidente, Srs. Deputados: A Assembleia da República aprovou hoje um conjunto de projectos de lei que visaram a elevação de seis vilas a cidades, dezassete povoações a vilas e a criação de cinco novas freguesias.\nNo caminho do aprofundamento do poder local, a promoção administrativa destas localidades constitui um corolário da descentralização que o País exige e vem responder à satisfação de anseios e sentimentos das populações e dos órgãos autárquicos.\nA aproximação dos órgãos da administração local dos cidadãos vai contribuir certamente para solidificar o trabalho e também o prestígio de que goza a actividade autárquica.\nAssume um importante significado o facto de a Assembleia da República votar unanimemente estas iniciativas. Pena é que não haja vontade convergente de solidificar o poder local na atribuição dos meios financeiros que permitam às autarquias exercer as suas competências. Ao mesmo tempo que aqui no Plenário aprovámos estes projectos de lei, na Comissão de Economia, Finanças e Plano, ali ao lado, está o Sr.Ministro do Planeamento e da Administração do Território a recusar as propostas das autarquias locais e da Associação Nacional dos Municípios Portugueses.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Cláudio Percheiro", 
+   "text": "Sr. Presidente, Srs. Deputados: A Assembleia da República aprovou hoje um conjunto de projectos de lei que visaram a elevação de seis vilas a cidades, dezassete povoações a vilas e a criação de cinco novas freguesias.\nNo caminho do aprofundamento do poder local, a promoção administrativa destas localidades constitui um corolário da descentralização que o País exige e vem responder à satisfação de anseios e sentimentos das populações e dos órgãos autárquicos.\nA aproximação dos órgãos da administração local dos cidadãos vai contribuir certamente para solidificar o trabalho e também o prestígio de que goza a actividade autárquica.\nAssume um importante significado o facto de a Assembleia da República votar unanimemente estas iniciativas. Pena é que não haja vontade convergente de solidificar o poder local na atribuição dos meios financeiros que permitam às autarquias exercer as suas competências. Ao mesmo tempo que aqui no Plenário aprovámos estes projectos de lei, na Comissão de Economia, Finanças e Plano, ali ao lado, está o Sr.Ministro do Planeamento e da Administração do Território a recusar as propostas das autarquias locais e da Associação Nacional dos Municípios Portugueses.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PSD: Não há lá propostas!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Não há lá propostas!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Srs. Deputados: Em relação ao processo que foi escolhido pela Comissão de Administração do Território, Poder Local e Ambiente, entendíamos que o prazo estabelecido para apreciação dos projectos deveria ser mais dilatado. Pena é que só tenham subido a Plenário as projectos que já tinham sido apresentados na IV \nLegislatura.\nFoi, no entanto, já estabelecido o compromisso de até 31 de Janeiro preparar um segundo pacote que englobará os restantes projectos. Para esse trabalho contem as autarquias e as populações com o nosso empenhamento.\nO Grupo Parlamentar do PCP propôs hoje à aprovação da Assembleia da República um conjunto de cinco projectos de lei, que contemplam a criação da freguesia de Carvalhal, no concelho de Grândola, a criação da freguesia de Canhestros, no concelho de Ferreira do Alentejo, a elevação da povoação de Santa Iria de Azoia a vila, no concelho de Loures, elevação da povoação de Algueirão-Mem Martins a vila, no concelho de Sintra, e elevação da vila de Moura à categoria de cidade, que foi subscrito também pelos Sr. Deputados do PSD e do PS eleitos pelo círculo eleitoral de Beja.\nEstamos certos e confiantes de que os projectos de lei que propusemos traduzem na sua totalidade a vontade e os anseios das populações.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Srs. Deputados: Em relação ao processo que foi escolhido pela Comissão de Administração do Território, Poder Local e Ambiente, entendíamos que o prazo estabelecido para apreciação dos projectos deveria ser mais dilatado. Pena é que só tenham subido a Plenário as projectos que já tinham sido apresentados na IV \nLegislatura.\nFoi, no entanto, já estabelecido o compromisso de até 31 de Janeiro preparar um segundo pacote que englobará os restantes projectos. Para esse trabalho contem as autarquias e as populações com o nosso empenhamento.\nO Grupo Parlamentar do PCP propôs hoje à aprovação da Assembleia da República um conjunto de cinco projectos de lei, que contemplam a criação da freguesia de Carvalhal, no concelho de Grândola, a criação da freguesia de Canhestros, no concelho de Ferreira do Alentejo, a elevação da povoação de Santa Iria de Azoia a vila, no concelho de Loures, elevação da povoação de Algueirão-Mem Martins a vila, no concelho de Sintra, e elevação da vila de Moura à categoria de cidade, que foi subscrito também pelos Sr. Deputados do PSD e do PS eleitos pelo círculo eleitoral de Beja.\nEstamos certos e confiantes de que os projectos de lei que propusemos traduzem na sua totalidade a vontade e os anseios das populações.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "19 DE DEZEMBRO DE 1987 907", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "A justiça que hoje se faz, com a aprovação deste conjunto de projectos, ocorre no momento em que está em discussão o Orçamento de Estado para 1988, no qual o Governo propôs a diminuição real das verbas do Fundo de Equilíbrio Financeiro e propôs um conjunto de medidas gravosas, que colidem com a verdadeira autonomia e se traduzem numa tentativa de asfixiamento do poder local.\nPensamos que o passo que se deu hoje ao aprovar cinco novas freguesias proporcionará o ânimo necessário para que os futuros eleitos e as populações que representam, apesar das propostas governamentais, vejam satisfeita de uma forma mais viva e directa a resolução dos seus problemas.\nConsideramos que a Lei n.º 1/87, Lei das Finanças Locais, veio reforçar os meios financeiros para as juntas de freguesia, elevando de S % para 10 % a participação nas receitas municipais e provenientes do FEF, embora, como é do conhecimento público, o PCP tenha proposto 20 %, que em nosso entender era a participação correcta que devia caber ao órgão de freguesia.\nOutras iniciativas no sentido do reforço do poder local estão em curso.\nNo que diz respeito ao reforço da acção das freguesias, apresentámos um projecto de lei que garante, em certos casos e condições, a permanência a tempo inteiro ou parcial dos membros das juntas de freguesia.\nMas a organização territorial do Estado só ficará completa com a criação das regiões administrativas. O PCP considera urgente que a Assembleia da República inicie a apreciação dos projectos de regionalização já apresentados.\nO progresso, o desenvolvimento e a correcção das assimetrias regionais está intimamente ligado ao reforço do poder local. Aprovámos hoje a criação de cinco novas freguesias. Propomos, para que estas possam dar os primeiros passos, que seja inscrita uma verba no Orçamento do Estado para 1988 para a sua instalação.\nSaudando desta tribuna as populações e órgãos autárquicos, manifestamos a nossa disponibilidade para continuar a contribuir para a verdadeira autonomia do poder local.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Aplausos do PCP,", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, a Mesa informa, tal como consta da agenda do dia de hoje, que estão a decorrer na Sala D. Maria as eleições para um lugar no Conselho da Europa e outro na União da Europa Ocidental. Solicito aos Srs. Deputados que ainda não votaram o favor de o fazerem até às 12 horas.\nPara uma declaração de voto, tem a palavra o Sr. Deputado Oliveira e Silva.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a Mesa informa, tal como consta da agenda do dia de hoje, que estão a decorrer na Sala D. Maria as eleições para um lugar no Conselho da Europa e outro na União da Europa Ocidental. Solicito aos Srs. Deputados que ainda não votaram o favor de o fazerem até às 12 horas.\nPara uma declaração de voto, tem a palavra o Sr. Deputado Oliveira e Silva.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Oliveira e Silva* (PS): Sr. Presidente, Srs. Deputados: Pela quarta vez foi este Plenário chamado a pronunciar-se, à sombra da Lei n.º 11/82, de 2 de Junho, sobre um conjunto de iniciativas \nlegislativas, que visam agora a criação de cinco novas freguesias, a promoção de dezasseis povoações a vila e a elevação de seis vilas à categoria de cidade.\nIniciativas deste género são geralmente saudadas pelos deputados de todas as bancadas, por virem corresponder a profundos anseios das populações, que a eles incumbe, por imperativo constitucional, satisfazer.\nNa verdade, e como já em ocasiões semelhantes tivemos oportunidade de acentuar, a promoção administrativa a vila e a cidade e a criação de novas autarquias vêm culminar, por via de regra, lutas históricas, que duraram décadas e, às vezes, séculos, mantidas sem desfalecimento pelos povos que não desarmam do seu intuito de ver prestigiadas as terras que lhes servem de berço.\nPode essa luta desentranhar-se na conquista de um mero galardão, de que na prática não resulta, imediata ou mesmo mediatamente, qualquer vantagem material ou administrativa, como acontece quando uma povoação é promovida a vila ou esta ascende à categoria de cidade.\nO certo é que os povos se determinam também por interesses não materiais, a que os poderes constituídos sempre foram, aliás, sensíveis, ao prescreverem, tanto agora, como antes do 25 de Abril, que a atribuição daquelas dignidades revista a forma legislativa.\nÉ por isso que hoje aqui nos encontramos, mais uma vez, a prestar esta homenagem a diversos povos pelo seu empenhamento ao longo dos tempos no progresso das suas terras, deixando aqui consignada a esperança de que ela possa ainda servir de incentivo a que prossigam nesse esforço de permanente valorização das comunidades que integram.\nMais relevante, porém, será, sem dúvida, a criação de cinco novas autarquias, que vem aproximar as populações a que respeitam do exercício directo do poder local, favorecendo, assim, a sua \nparticipação democrática, através das juntas e assembleias de freguesia a constituir, na satisfação das correspondentes necessidades colectivas.\nO PS saúda, por isso, as novas freguesias de Santana, Lapa dos Dinheiros, Carvalhal, Canhestros e Moita do Norte, fazendo votos por que a prática dos seus órgãos autárquicos venha a traduzir-se num valioso factor de aprofundamento do poder local, não só para melhoria das condições de vida das respectivas populações, como para reforço da própria democracia.\nPosto isto, não deixaremos de fazer eco das objecções que se avolumam à profusão de iniciativas legislativas deste género e que nem sempre encontram adequada justificação à luz das regras enunciadas na Lei n.º 11/82, de 2 de Junho.\nMas importa ser bem claro nesta matéria, para o que se impõe saber distinguir entre os projectos que se destinam a criar vilas e cidades daqueles que se propõem constituir novas autarquias.\nQuanto aos primeiros, enfileiramos com os que proclamam a necessidade urgente de mudar de orientação, para salvaguardar da própria dignidade dos títulos a que se quis imprimir elevado significado moral, social e jurídico, já que, por isso, só a Assembleia da República os pode atribuir.\nOra, para não ir mais longe, bastará atentar nos projectos que hoje nos propuseram a criação de dezasseis vilas para se concluir que quase metade das respectivas povoações, mais exactamente sete, não satisfazem os requisitos genéricos que a Lei n.º 11/82 exige e que foi necessário o recurso à norma do artigo 14.º, que aponta para a ocorrência extraordinária de ponderáveis razões de ordem histórica e \narquitectónica, para se contornar aquelas faltas e dar seguimento às iniciativas.\nO que a lei concebeu como excepção vem sendo, assim, adoptado como uma prática tão corrente que o clausulado na citada lei quadro é cada vez mais letra-morta.\nSe a isto acrescentarmos que a própria verificação da existência dos requisitos exigidos nesta lei nem sempre terá podido fazer-se em condições que garantam a fidedignidade dos resultados a que se chega, ficar-se-á por certo com uma ideia segura da margem de arbitrariedade que tem imperado neste domínio e que importará para o futuro precludir.\nEm nosso entendimento, é necessário reformar a lei, não tanto para modificar os requisitos a exigir para a promoção das povoações a vilas e destas a cidades, embora também aí se admita a possibilidade de introdução de melhorias, que, por exemplo, venham estabelecer, na medida em que for", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Oliveira e Silva", 
+   "text": "Sr. Presidente, Srs. Deputados: Pela quarta vez foi este Plenário chamado a pronunciar-se, à sombra da Lei n.º 11/82, de 2 de Junho, sobre um conjunto de iniciativas \nlegislativas, que visam agora a criação de cinco novas freguesias, a promoção de dezasseis povoações a vila e a elevação de seis vilas à categoria de cidade.\nIniciativas deste género são geralmente saudadas pelos deputados de todas as bancadas, por virem corresponder a profundos anseios das populações, que a eles incumbe, por imperativo constitucional, satisfazer.\nNa verdade, e como já em ocasiões semelhantes tivemos oportunidade de acentuar, a promoção administrativa a vila e a cidade e a criação de novas autarquias vêm culminar, por via de regra, lutas históricas, que duraram décadas e, às vezes, séculos, mantidas sem desfalecimento pelos povos que não desarmam do seu intuito de ver prestigiadas as terras que lhes servem de berço.\nPode essa luta desentranhar-se na conquista de um mero galardão, de que na prática não resulta, imediata ou mesmo mediatamente, qualquer vantagem material ou administrativa, como acontece quando uma povoação é promovida a vila ou esta ascende à categoria de cidade.\nO certo é que os povos se determinam também por interesses não materiais, a que os poderes constituídos sempre foram, aliás, sensíveis, ao prescreverem, tanto agora, como antes do 25 de Abril, que a atribuição daquelas dignidades revista a forma legislativa.\nÉ por isso que hoje aqui nos encontramos, mais uma vez, a prestar esta homenagem a diversos povos pelo seu empenhamento ao longo dos tempos no progresso das suas terras, deixando aqui consignada a esperança de que ela possa ainda servir de incentivo a que prossigam nesse esforço de permanente valorização das comunidades que integram.\nMais relevante, porém, será, sem dúvida, a criação de cinco novas autarquias, que vem aproximar as populações a que respeitam do exercício directo do poder local, favorecendo, assim, a sua \nparticipação democrática, através das juntas e assembleias de freguesia a constituir, na satisfação das correspondentes necessidades colectivas.\nO PS saúda, por isso, as novas freguesias de Santana, Lapa dos Dinheiros, Carvalhal, Canhestros e Moita do Norte, fazendo votos por que a prática dos seus órgãos autárquicos venha a traduzir-se num valioso factor de aprofundamento do poder local, não só para melhoria das condições de vida das respectivas populações, como para reforço da própria democracia.\nPosto isto, não deixaremos de fazer eco das objecções que se avolumam à profusão de iniciativas legislativas deste género e que nem sempre encontram adequada justificação à luz das regras enunciadas na Lei n.º 11/82, de 2 de Junho.\nMas importa ser bem claro nesta matéria, para o que se impõe saber distinguir entre os projectos que se destinam a criar vilas e cidades daqueles que se propõem constituir novas autarquias.\nQuanto aos primeiros, enfileiramos com os que proclamam a necessidade urgente de mudar de orientação, para salvaguardar da própria dignidade dos títulos a que se quis imprimir elevado significado moral, social e jurídico, já que, por isso, só a Assembleia da República os pode atribuir.\nOra, para não ir mais longe, bastará atentar nos projectos que hoje nos propuseram a criação de dezasseis vilas para se concluir que quase metade das respectivas povoações, mais exactamente sete, não satisfazem os requisitos genéricos que a Lei n.º 11/82 exige e que foi necessário o recurso à norma do artigo 14.º, que aponta para a ocorrência extraordinária de ponderáveis razões de ordem histórica e \narquitectónica, para se contornar aquelas faltas e dar seguimento às iniciativas.\nO que a lei concebeu como excepção vem sendo, assim, adoptado como uma prática tão corrente que o clausulado na citada lei quadro é cada vez mais letra-morta.\nSe a isto acrescentarmos que a própria verificação da existência dos requisitos exigidos nesta lei nem sempre terá podido fazer-se em condições que garantam a fidedignidade dos resultados a que se chega, ficar-se-á por certo com uma ideia segura da margem de arbitrariedade que tem imperado neste domínio e que importará para o futuro precludir.\nEm nosso entendimento, é necessário reformar a lei, não tanto para modificar os requisitos a exigir para a promoção das povoações a vilas e destas a cidades, embora também aí se admita a possibilidade de introdução de melhorias, que, por exemplo, venham estabelecer, na medida em que for 908 I SÉRIE - NÚMERO 34", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "908 I SÉRIE - NÚMERO 34", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Oliveira e Silva", 
    "text": "possível, com mais algum rigor dentro de que parâmetros devem relevar os factores de natureza histórica e arquitectónica e que tipo de aglomerado urbano contínuo lhes deve servir de suporte. Mas as principais alterações devem, sobretudo, assegurar um melhor controle daqueles requisitos, impondo-se, designadamente, para o efeito prescrever a intervenção de outras instâncias oficiais, como as ligadas ã administração e ordenamento do território, cujos pareceres poderão dar um importante contributo à fundamentação das decisões a tomar por esta Assembleia.\nEnquanto esse condicionalismo não for imperativamente criado, será difícil exigir dos deputados de qualquer bancada uma circunspecção que outros se recusem a assumir, já que ninguém quer ficar atrás na conquista das simpatias do eleitorado e, por isso, todos tenderão, como até agora têm feito, a forçar as malhas da lei para acolher as suas pretensões, mesmo que se antolhe duvidoso o seu fundamento.\nFoi, pois, neste contexto que o PS não levantou aqui qualquer obstáculo às iniciativas que estão em causa, manifestando, porém, desde já, a sua disponibilidade para participar com toda a diligência e empenho na reformulação do articulado da Lei n.º 11/82, em ordem a dotar o processo da criação de vilas e cidades de condições que lhe assegurem não só a dignidade requerida como também a maior transparência.\nQuanto à criação de novas autarquias, o panorama é totalmente diverso, se não oposto, pois o que campeia aí é justamente a escassez de projectos, certamente apta a serenar o ânimo daqueles que têm vivido no injustificado temor de que a formação de novas freguesias e concelhos acabe possibilidade da nossa organização administrativa.\nComo já tivemos ocasião de afirmar, o PS não comunga desses receios por estar ciente de que as próprias realidades históricas e sociais anulam a aventura e a improvisação neste campo, fazendo gorar quaisquer tentativas de desmembramento das comunidades locais que não tenham por suporte uma firme vontade popular.\nA experiência resultante das autarquias criadas após o 25 de Abril, o papel extremamente positivo que todas elas tem desempenhado na pacífica gestão dos interesses comunitários que lhes foram confiados, são sem dúvida o melhor testemunho para comprovar o que se acaba de dizer.\nCompreende-se que o velho regime, subordinando toda a actividade administrativa ao poder central, mediante o completo estrangulamento da vida autárquica, fosse por natureza avesso à criação de novas freguesias e concelhos. Já não se pode compreender que o mesmo espírito sobreviva à face das estruturas democráticas criadas pela Revolução de Abril.\nO PS reafirma, assim, que a criação de novas autarquias, quando devidamente fundamentada, só pode serrecebida com satisfação e entusiasmo, já que ela constitui um corolário inevitável da dinâmica de crescimento comunitário, quando articulada, como deve ser, numa perspectiva democrática, com os princípios da descentralização administrativa, que fortalece tanto mais o poder local quanto mais o aproxima dos cidadãos.\nFoi à luz deste ideário, que é o seu, que aderiu às iniciativas agora trazidas a Plenário e que acolherá de futuro outras pretensões, que igualmente se justifiquem, de acesso à autonomia autárquica, incluindo a municipal, que injustamente continua bloqueada por uma lei travão destituída de menor fundamento clico-jurídico, com certeza de que, ao persistir nesta atitude, está a contribuir para o reforço do poder local no nosso país, que é, sem dúvida, também uma forma privilegiada de servir a democracia.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, a Mesa tem o prazer de assinalar a presença, nas galerias n.ºs 1, 2 e 3, de eleitos do poder local, a quem saudamos e cumprimentamos. Agradeço a vossa presença.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a Mesa tem o prazer de assinalar a presença, nas galerias n.ºs 1, 2 e 3, de eleitos do poder local, a quem saudamos e cumprimentamos. Agradeço a vossa presença.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos gerais, de pé.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Para uma declaração de voto, tem a palavra o Sr. Deputado Carlos Lilaia.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Carlos Lilaia* (PRD): Sr. Presidente, Srs. Deputados: Mais uma vez, a quarta ao longo das cinco legislaturas, foi a Assembleia da República chamada a votai a criação de freguesias e a elevação de vilas a cidades e de povoações a vilas.\nO processo de apresentação de projectos de lei sobre estas matérias parece ter-se intensificado nos últimos tempos, como prova o facto de em 135 projectos de lei entrados na Mesa no decurso da V Legislatura, 80 dizerem directamente respeito ao assunto em debate.\nAprovámos a elevação a cidade de seis vilas, a elevação a vila de dezassete povoações e, ainda, a criação de cinco freguesias. Ou seja, a Assembleia da República atribui 26 títulos honoríficos e cria cinco novas unidades administrativas, sem que se conheçam os resultados do trabalho de uma comissão nomeada pelo governo anterior, com a incumbência de estudar a reestruturação da divisão administrativa e que devia ter apresentado os seus estudos e propostas há mais de um ano.\nParece que efectivamente o fez. Do seu conteúdo não houve conhecimento público, nem sequer o Governo o deu a conhecer à Comissão de Administração do Território, Poder Local e Ambiente. Chama-se a isto eficiência governativa ...\nNão se duvida da bondade das iniciativas legislativas que se presumem ser todas de elementar justiça, tanto mais que vão ao encontro de justas aspirações das populações, no seu anseio de progresso para as suas terras e para as suas gentes. Tal facto não impede, porém, que se assuma uma postura de explicar que não é exclusivamente por esta via que se conseguirá o desenvolvimento económico e social das terras deste país. Até as próprias freguesias são, no geral, apenas autarquias formais, dada a completa dependência em que se encontram relativamente ao município e a insuficiente definição das atribuições e meios ao seu dispor.\nSr. Presidente, Srs. Deputados: Na votação estiveram presentes 34 projectos de lei, dos cerca de 80 que deram entrada sobre esta matéria.\nSe se refere esta relação, é exclusivamente pelo facto de o PRD, e provavelmente também a própria opinião pública, não entender bem uma certa urgência que certas forças políticas procuraram imprimir a este processo, quando até já se anuncia um novo pacote de projectos de lei de sentido idêntico, e até um terceiro para o fim da presente sessão legislativa.\nMais, quando a própria proposta de lei do Orçamento do Estado em discussão é claramente contra as autarquias locais, e não só ao nível dos recursos financeiros, surpreende que o próprio partido que apoia o Governo mostre tanto empenho na celeridade deste processo, encravando a sua votação no seio da própria discussão do Orçamento do Estado para 1988. Para atitude compensatória face ao poder local, é pouco e poderá parecer até farisaico.\nFalemos, portanto, claro: o desenvolvimento local e o bem-estar das populações são imprescindíveis para o desenvolvimento e o progresso das regiões e do País. Tal desiderato só se conseguirá de forma efectiva e consequente a partir de uma verdadeira descentralização de atribuições e competências para as regiões, municípios e freguesias,", 
-   "type": "documento"
+   "party": "PRD", 
+   "speaker": "Carlos Lilaia", 
+   "text": "Sr. Presidente, Srs. Deputados: Mais uma vez, a quarta ao longo das cinco legislaturas, foi a Assembleia da República chamada a votai a criação de freguesias e a elevação de vilas a cidades e de povoações a vilas.\nO processo de apresentação de projectos de lei sobre estas matérias parece ter-se intensificado nos últimos tempos, como prova o facto de em 135 projectos de lei entrados na Mesa no decurso da V Legislatura, 80 dizerem directamente respeito ao assunto em debate.\nAprovámos a elevação a cidade de seis vilas, a elevação a vila de dezassete povoações e, ainda, a criação de cinco freguesias. Ou seja, a Assembleia da República atribui 26 títulos honoríficos e cria cinco novas unidades administrativas, sem que se conheçam os resultados do trabalho de uma comissão nomeada pelo governo anterior, com a incumbência de estudar a reestruturação da divisão administrativa e que devia ter apresentado os seus estudos e propostas há mais de um ano.\nParece que efectivamente o fez. Do seu conteúdo não houve conhecimento público, nem sequer o Governo o deu a conhecer à Comissão de Administração do Território, Poder Local e Ambiente. Chama-se a isto eficiência governativa ...\nNão se duvida da bondade das iniciativas legislativas que se presumem ser todas de elementar justiça, tanto mais que vão ao encontro de justas aspirações das populações, no seu anseio de progresso para as suas terras e para as suas gentes. Tal facto não impede, porém, que se assuma uma postura de explicar que não é exclusivamente por esta via que se conseguirá o desenvolvimento económico e social das terras deste país. Até as próprias freguesias são, no geral, apenas autarquias formais, dada a completa dependência em que se encontram relativamente ao município e a insuficiente definição das atribuições e meios ao seu dispor.\nSr. Presidente, Srs. Deputados: Na votação estiveram presentes 34 projectos de lei, dos cerca de 80 que deram entrada sobre esta matéria.\nSe se refere esta relação, é exclusivamente pelo facto de o PRD, e provavelmente também a própria opinião pública, não entender bem uma certa urgência que certas forças políticas procuraram imprimir a este processo, quando até já se anuncia um novo pacote de projectos de lei de sentido idêntico, e até um terceiro para o fim da presente sessão legislativa.\nMais, quando a própria proposta de lei do Orçamento do Estado em discussão é claramente contra as autarquias locais, e não só ao nível dos recursos financeiros, surpreende que o próprio partido que apoia o Governo mostre tanto empenho na celeridade deste processo, encravando a sua votação no seio da própria discussão do Orçamento do Estado para 1988. Para atitude compensatória face ao poder local, é pouco e poderá parecer até farisaico.\nFalemos, portanto, claro: o desenvolvimento local e o bem-estar das populações são imprescindíveis para o desenvolvimento e o progresso das regiões e do País. Tal desiderato só se conseguirá de forma efectiva e consequente a partir de uma verdadeira descentralização de atribuições e competências para as regiões, municípios e freguesias,", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PRD", 
+   "speaker": "Carlos Lilaia", 
    "text": "19 DE DEZEMBRO DE 1987 909", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PRD", 
+   "speaker": "Carlos Lilaia", 
    "text": "acompanhado dos correspondentes meios financeiros. É esse o verdadeiro sentido de um necessário e urgente processo de regionalização.\nPor último, o desejo, muito sincero, da parte do Partido Renovador Democrático, de que as populações das freguesias e das localidades encontrem neste acto da Assembleia da República não uma benesse mas o reconhecimento do seu papel e da sua acção futura em prol do poder local e do desenvolvimento do País.\nPor isso, e só por isso, o Partido Renovador Democrático votou a favor de todos os projectos de lei.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PRD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o Sr.Deputado Narana Coissoró.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o Sr.Deputado Narana Coissoró.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): Sr. Presidente, Srs. Deputados: Os deputados desta Assembleia, a quem cabe, por força do imperativo constitucional, a apresentação de iniciativas legislativas, têm sabido estar atentos às preocupações populares e autárquicas e transformar os anseios e aspirações dessas populações em realidades vivas - novas freguesias, vilas e cidades.\nConsagram-se, assim, aspirações e desejos legítimos, produto e resultado do labor operoso, activo, devotado das populações envolvidas que, ao longo dos tempos, sonharam valorizar o torrão próprio, guindando no trabalho fecundo, útil e produtivo de cada dia.\nIsto, Sr. Presidente e Srs. Deputados, é válido para os lugares que se autonomizam em freguesias, para as povoações que atingem a categoria de vila e para as vilas que atingem o galardão de cidade.\nOs projectos que hoje aqui são apresentados foram analisados em comissão especializada, com objectividade, legitimidade, legalidade e a dignidade que sempre devem presidir às decisões tomadas em foro desta natureza e em matéria de tamanha responsabilidade, embora haja que rever processos.\nMas entendemos, paralelamente, que, para além da satisfação dada hoje às comunidades em causa, esta Assembleia da República, nas atribuições que lhe são conferidas pela Constituição, terá de pensar, a curto prazo, na aplicação de uma verdadeira política de descentralização e o Governo terá de pensar, também, em modificar a sua política, entregando às autarquias os meios financeiros necessários, em vez de os reduzir, como fez na presente proposta de lei do Orçamento do Estado, e essa foi uma das causas porque a votámos contra.\nOs povos, para evoluírem e verem satisfeitas as suas legítimas ambições, não podem ser estáticos; têm de ser dinâmicos e actuamos. Daí este Parlamento ter também de gerar leis para dar satisfação às legítimas aspirações das autarquias e das futuras regiões \nadministrativas, inseridas no processo nacional de aproveitamento de recursos e valorização, sem menosprezar a história, a tradição e a cultura dos povos que compõem o nosso país.\nEm nome do CDS, felicito as pátrias pequenas que, pelo seu amor, empenhamento, pertinácia, trabalho construtivo e fecundo em prol do agregado onde vivem, hoje são reconhecidas pelo seu progresso e amor a essas mesmas terras.\nEstas comunidades serão verdadeiramente as únicas obreiras do que aqui possamos reconhecer ou aprovar. A elas é devido o mérito que recai sobre as suas urbes e sobre os seus habitantes.\nAo atribuirmos hoje, neste lugar, novos estatutos a povoações, estamos a reconhecer o valor, a capacidade de trabalho e de iniciativa destas gentes, rumo a uma vida melhor.\nQue todos saibam assumir, com dignidade e consciência, esta \nresponsabilidade, respeitando assim os seus antepassados, considerando os homens do presente que continuaram e incrementaram este progresso e pensando sempre nos benefícios que advirão para gerações futuras e nestas terras, se houver convívio, paz, progresso, fraternidade e democracia participativa.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, Srs. Deputados: Os deputados desta Assembleia, a quem cabe, por força do imperativo constitucional, a apresentação de iniciativas legislativas, têm sabido estar atentos às preocupações populares e autárquicas e transformar os anseios e aspirações dessas populações em realidades vivas - novas freguesias, vilas e cidades.\nConsagram-se, assim, aspirações e desejos legítimos, produto e resultado do labor operoso, activo, devotado das populações envolvidas que, ao longo dos tempos, sonharam valorizar o torrão próprio, guindando no trabalho fecundo, útil e produtivo de cada dia.\nIsto, Sr. Presidente e Srs. Deputados, é válido para os lugares que se autonomizam em freguesias, para as povoações que atingem a categoria de vila e para as vilas que atingem o galardão de cidade.\nOs projectos que hoje aqui são apresentados foram analisados em comissão especializada, com objectividade, legitimidade, legalidade e a dignidade que sempre devem presidir às decisões tomadas em foro desta natureza e em matéria de tamanha responsabilidade, embora haja que rever processos.\nMas entendemos, paralelamente, que, para além da satisfação dada hoje às comunidades em causa, esta Assembleia da República, nas atribuições que lhe são conferidas pela Constituição, terá de pensar, a curto prazo, na aplicação de uma verdadeira política de descentralização e o Governo terá de pensar, também, em modificar a sua política, entregando às autarquias os meios financeiros necessários, em vez de os reduzir, como fez na presente proposta de lei do Orçamento do Estado, e essa foi uma das causas porque a votámos contra.\nOs povos, para evoluírem e verem satisfeitas as suas legítimas ambições, não podem ser estáticos; têm de ser dinâmicos e actuamos. Daí este Parlamento ter também de gerar leis para dar satisfação às legítimas aspirações das autarquias e das futuras regiões \nadministrativas, inseridas no processo nacional de aproveitamento de recursos e valorização, sem menosprezar a história, a tradição e a cultura dos povos que compõem o nosso país.\nEm nome do CDS, felicito as pátrias pequenas que, pelo seu amor, empenhamento, pertinácia, trabalho construtivo e fecundo em prol do agregado onde vivem, hoje são reconhecidas pelo seu progresso e amor a essas mesmas terras.\nEstas comunidades serão verdadeiramente as únicas obreiras do que aqui possamos reconhecer ou aprovar. A elas é devido o mérito que recai sobre as suas urbes e sobre os seus habitantes.\nAo atribuirmos hoje, neste lugar, novos estatutos a povoações, estamos a reconhecer o valor, a capacidade de trabalho e de iniciativa destas gentes, rumo a uma vida melhor.\nQue todos saibam assumir, com dignidade e consciência, esta \nresponsabilidade, respeitando assim os seus antepassados, considerando os homens do presente que continuaram e incrementaram este progresso e pensando sempre nos benefícios que advirão para gerações futuras e nestas terras, se houver convívio, paz, progresso, fraternidade e democracia participativa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Sr. Presidente, quero apenas sublinhar o espírito de consenso e felicitar os membros da Subcomissão pelo trabalho que conseguiram desenvolver - em particular o dinamismo do seu coordenador, o deputado Manuel Moreira - e acentuar, mais uma vez, o facto de esta Câmara ter sabido estar alerta aos anseios das populações e ter correspondido inteiramente àquilo que essas mesmas populações desejavam, ao serviço dos respectivos interesses.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr. Presidente, quero apenas sublinhar o espírito de consenso e felicitar os membros da Subcomissão pelo trabalho que conseguiram desenvolver - em particular o dinamismo do seu coordenador, o deputado Manuel Moreira - e acentuar, mais uma vez, o facto de esta Câmara ter sabido estar alerta aos anseios das populações e ter correspondido inteiramente àquilo que essas mesmas populações desejavam, ao serviço dos respectivos interesses.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PS, do PSD e do PRD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, como estão a decorrer eleições na Sala D. Maria, a Mesa vai suspender os trabalhos por 30 minutos, dado que não pode dar por encerrada a sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, como estão a decorrer eleições na Sala D. Maria, a Mesa vai suspender os trabalhos por 30 minutos, dado que não pode dar por encerrada a sessão.", 
+   "type": "presidente_encerrada"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Sr. Presidente, peço a palavra.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Sr. Presidente, Srs. Deputados, tenho conhecimento de que há vários colegas que desejam entregar na Mesa, por escrito, declarações de voto sobre os diplomas que foram hoje aqui votados.\nComo é da praxe da Câmara, pedia que houvesse alguma tolerância, até terça-feira, se possível, para a apresentação dessas declarações de voto na Mesa.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Sr. Presidente, Srs. Deputados, tenho conhecimento de que há vários colegas que desejam entregar na Mesa, por escrito, declarações de voto sobre os diplomas que foram hoje aqui votados.\nComo é da praxe da Câmara, pedia que houvesse alguma tolerância, até terça-feira, se possível, para a apresentação dessas declarações de voto na Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Com certeza, Sr. Deputado. A Mesa está de acordo em que os Srs. Deputados façam a entrega de declarações de votos até terça-feira, inclusive.\nSrs. Deputados está suspensa a sessão até às 12 horas e 5 minutos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Com certeza, Sr. Deputado. A Mesa está de acordo em que os Srs. Deputados façam a entrega de declarações de votos até terça-feira, inclusive.\nSrs. Deputados está suspensa a sessão até às 12 horas e 5 minutos.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 11 horas e 35 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, está reaberta a sessão. Eram 12 horas e 20 minutos.\nVão ser lidas as actas de apuramento das eleições para a Delegação da Assembleia da República na Assembleia Parlamentar do Conselho da Europa e para a representação portuguesa na União da Europa Ocidental, entretanto realizadas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foram lidas. São as seguintes", 
@@ -1171,20 +1240,18 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, proclamo o Sr. Deputado Carlos Carvalhas eleito para a Assembleia Parlamentar do Conselho da Europa e para a União da Europa Ocidental.\nInformo os Srs. Deputados que deu entrada na Mesa um voto de congratulação do PSD, em que é primeiro subscritor a Sr.ª Deputada Manuela Aguiar, pela conquista, em Tóquio, da Taça Intercontinental pelo Futebol Clube do Porto, que será agendado em conferência de líderes para a próxima sessão.\nResta anunciar a agenda da próxima sessão, que será no dia 22, terça-feira, às 15 horas.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Na ordem do dia discutir-se-á a proposta de lei n.º 21/V, que concede ao Governo autorização legislativa para estabelecer o processamento das transgressões e contravenções ainda subsistentes, e proceder-se-á à votação final global da proposta da lei n.º 11/V (texto da Comissão), que autoriza o Governo a estabelecer o regime do acesso ao direito e aos tribunais judiciais, e também à votação final global do texto da Comissão sobre a proposta de lei n.º 12/V - Lei Orgânica dos Tribunais Judiciais. Proceder-se-á ainda a outras votações finais globais de textos que entretanto as comissões parlamentares enviem para a Mesa.\nEntretanto, não queremos deixar de assinalar a presença na galeria de um grupo de alunos da Escola Secundária de Aurélio de Sousa, do Porto, a quem agradecemos a presença e a quem saudamos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, proclamo o Sr. Deputado Carlos Carvalhas eleito para a Assembleia Parlamentar do Conselho da Europa e para a União da Europa Ocidental.\nInformo os Srs. Deputados que deu entrada na Mesa um voto de congratulação do PSD, em que é primeiro subscritor a Sr.ª Deputada Manuela Aguiar, pela conquista, em Tóquio, da Taça Intercontinental pelo Futebol Clube do Porto, que será agendado em conferência de líderes para a próxima sessão.\nResta anunciar a agenda da próxima sessão, que será no dia 22, terça-feira, às 15 horas.\nNa ordem do dia discutir-se-á a proposta de lei n.º 21/V, que concede ao Governo autorização legislativa para estabelecer o processamento das transgressões e contravenções ainda subsistentes, e proceder-se-á à votação final global da proposta da lei n.º 11/V (texto da Comissão), que autoriza o Governo a estabelecer o regime do acesso ao direito e aos tribunais judiciais, e também à votação final global do texto da Comissão sobre a proposta de lei n.º 12/V - Lei Orgânica dos Tribunais Judiciais. Proceder-se-á ainda a outras votações finais globais de textos que entretanto as comissões parlamentares enviem para a Mesa.\nEntretanto, não queremos deixar de assinalar a presença na galeria de um grupo de alunos da Escola Secundária de Aurélio de Sousa, do Porto, a quem agradecemos a presença e a quem saudamos.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, nada mais havendo a tratar, está encerrada a sessão.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 12 horas e 25 minutos.", 
@@ -1193,7 +1260,7 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD", 

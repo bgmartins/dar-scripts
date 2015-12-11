@@ -37,8 +37,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vai proceder-se à chamada.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vai proceder-se à chamada.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 10 horas e 30 minutos.", 
@@ -47,365 +48,441 @@
   {
    "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Afonso de Sousa Freire de Moura Guedes.\nÁlvaro Barros Marques de Figueiredo.\nAmândio Anes de Azevedo.\nAmérico Abreu Dias.\nAntónio Alberto Correia Cabecinha.\nAntónio Augusto Lacerda de Queiroz.\nAntónio Duarte e Duarte Chagas.\nAntónio José Ribeiro Carneiro.\nAntónio José dos S. Moreira da Silva.\nAntónio Maria Pereira.\nArmando Adão e Silva.\nArmando António Correia.\nArménio dos Santos.\nCarlos Encarnação.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "376 I SÉRIE - NÚMERO 10", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Carlos Manuel Pereira de Pinho.\nCecília Pita Catarino.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nEleutério Manuel Gomes.\nFernando Manuel A. Cardoso Ferreira.\nFernando Monteiro do Amaral.\nFernando Raimundo Rodrigues.\nGermano Lopes Camilinho.\nGermano da Silva Domingos.\nHenrique Alberto F. do N. Rodrigues.\nJaime Adalberto Simões Ramos.\nJoão António Sousa Domingues.\nJoão Aurélio Dias Mendes.\nJoão Luís Malato Correia.\nJoaquim Marques Gaspar Mendes.\nJorge Rook de Lima.\nJosé Adriano Gago Vitorino.\nJosé Baptista Pires Nunes.\nJosé Bento Gonçalves.\nJosé Henrique Cardoso.\nJosé Maria da Silva.\nJosé Theodoro da Silva.\nJúlio de Lemos de Castro Caldas.\nLuís António Martins.\nManuel António Araújo dos Santos.\nManuel António Lopes Ribeiro.\nManuel Henriques Pires Fontoura.\nManuel Maria Moreira.\nManuel Maria Portugal da Fonseca.\nManuel Pereira.\nMaria Adelaide Santos de Almeida Paiva.\nMaria Manuela Simões Saraiva.\nMarília Dulce C. P. Morgado Raimundo.\nMário Dias Lopes.\nMário Martins Adegas.\nMiguel Camolas Pacheco.\nNatália de Oliveira Correia.\nNicolau Gregório de Freitas.\nNuno Aires Rodrigues dos Santos.\nPelágio E. de A. Matos Lopes de Madureira.\nPedro Manuel da Cruz Roseta.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Barradas do Amaral.\nValdemar Cardoso Alves.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adelino Teixeira de Carvalho.\nAgostinho de Jesus Domingues.\nAlberto Rodrigues Ferreira Gamboa.\nAntónio de Almeida Santos.\nAntónio Cândido de Miranda de Macedo.\nAntónio Carlos Ribeiro Campos.\nAntónio Fernando Marques R. Reis.\nAntónio José Vieira de Freitas.\nArmando Filipe Cerejeira P. Bacelar.\nAvelino Ferreira Loureiro Zenha.\nBeatriz M. de Almeida Cal Brandão.\nBento Elísio de Azevedo.\nCarlos Cardoso Lage.\nCarlos Manuel Natividade Costa Candal.\nEdmundo Pedro.\nEduardo Ribeiro Pereira.\nFernando Alves de Almeida Miranda.\nFrancisco Cardoso P. de Oliveira, \nFrancisco Igrejas Caeiro.\nFrederico A. F. Hand de Oliveira.\nGuilherme Gomes dos Santos \nHerculano Rocha.\nJoaquim José Catanho de Meneses.\nJoaquim Sousa Gomes Carneiro.\nJorge Fernando Branco Sampaio.\nJosé Gomes Fernandes.\nJosé Alaria Parente Mendes Godinho.\nJúlio Augusto M. de Montalvão Machado.\nLuís Silvério Gonçalves Saias.\nManuel Alfredo Tito de Morais.\nManuel Joaquim de M. P. Tavares Santos.\nManuel José Bragança Tender.\nMaria Emília de Medo Moreira dá Silva.\nRaul de Assunção Pimenta Rego.\nRui Fernando Pereira Mateus.\nTeófilo Carvalho dos Santos.\nVictor Manuel Gomes Vasques.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Álvaro Favas Brasileiro.\nCarlos Alberto do C. da Costa Espadinha.\nFernando de Almeida Sousa Marques.\nFernando Freitas Rodrigues.\nHélder Simão Pinheiro.\nJoão António Gonçalves do Amaral.\nJoaquim António Miranda da Silva.\nJoaquim Victor Baptista G. de Sé.\nJorge do Carmo da Silva Leite.\nJorge Manuel Abreu de Lemos.\nJosé António Veríssimo Silva.\nJosé Manuel da Costa C. Marques.\nJosé Manuel Maia Nunes de Almeida.\nJosefina Maria Andrade.\nLimo Carvalho de Lima.\nMaria Ilda da Costa Figueiredo.\nMarino B. de Vasconcelos B. Vicente.\nVictor Henrique Louro de Sá.\nVital Martins Moreira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adalberto Neiva de Oliveira.\nAdriano Vasco da Fonseca Rodrigues.\nAlexandre Gorjeia de Carvalho Reigoto.\nAntónio Ferreira Pereira de Meto.\nAntónio Martins Canaverde.\nArtur Fernandes.\nCarlos Alberto Faria de Almeida.\nDomingos da Silva Peneira.\nEmílio Leitão Paulo.\nFrancisco Gonçalves C. de Ferreira.\nJoão Daniel Marques Mendes.\nJoão José Magalhães F. Pulido de Almeida.\nJoaquim António F. Pinto de Castelo Branco.\nJoaquim Rocha dos Santos.\nJosé Augusto Gama.\nJosé Eduardo Fernandes Sanches Osório.\nJosé Manuel Macedo Pereira.\nLuís Filipe Pais Beiroco.\nLuís Gomes Moreno.\nManuel António de A. e Vasconcelos.\nManuel Baeta Neves.\nManuel Eugénio P. Cavaleiro Brandão.\nPedro António J. B. Pestana Vasconcelos.\nVictor Afonso Pinto da Cruz.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "25 DE JANEIRO DE 1980", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Popular Monárquico (PPM)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "António José Borges G. de Carvalho. Augusto, Martins Ferreira do Amaral. Gonçalo Pereira Ribeiro Teles. Henrique José Barrilano F. Rua.\nLuís Filipe Ottolini Bebiano Coimbra.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Movimento Democrático Português", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Helena Tâmega Cidade Moura José Manuel Marques do C. M. Tengarrinha.\nLuís Manuel A. de Campos Catarinho.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "União Democrática Popular (UDP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Mário António Baptista Tomé.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "O Sr. Presidente:- Responderam à chamada 148 Srs. Deputados.\nTemos quórum, pelo que declaro aberta a sessão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 10 horas e 50 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "ANTES DA ORDEM DO DIA", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "O Sr. Presidente:Srs. Deputados, o período de \nantes da ordem do dia termina às 11 horas e 50 mi \nnutos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Tem a palavra o Sr. Secretário Para proceder à leitura do expediente.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Pires Fontoura", 
    "speaker": "O Sr. Secretário", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "Exposição", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "Do pessoal do Hospital Concelhio de Marco de Canaveses, solicitando que, à semelhança do que aconteceu com outros hospitais, aquele seja oficializado, permitindo-lhes usufruir de regalias a que, de outra forma, não têm direito.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "Cartas", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "Dezasseis cartas respectivamente, de Manuel Fernandes e João Pinto Cardoso Dias, a residirem em Canas de Senhorim; de Joaquim dos Santos Sousa e Dulce da Conceição Dias, residentes no Alto do Forte, Estrada de Sintra, Rio de Mouro; de Josefina da Assunção, Carlos Pereira e António Domingos, domiciliados na Quinta da Capa Rota, Alcanhões, Santarém; de Joaquim Cabrita Rodrigues, da Cadeia Central de Mulheres, de Tires; de António Maria Russo e António Manuel Patacola, residentes no Seminário de Almada; de José Manuel Gomes Martins, Gilberto Gomes Martins, Júlio Augusto Pino e Mário Gouveia de Sousa, estes residentes, no Lar Torreense, em Torres Vedras; de António José Ferreira, a residir no Estoril, e de Judite Augusta da Conceição Benedito de Araújo, residente no Lar Bafureira, na Parede, todos enviando fotocópias de outros tantos recursos remetidos ao departamento de alojamentos do IARN, denunciando as prepotências e autênticas injustiças que cometerão, caso seja dado integral cumprimento ao despacho conjunto de S. Exªs. o Senhor Secretário de Estado da Segurança Social e o", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "377", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "Alto-Comissário para os Desalojados, publicado no Diário da República, 2.ª Série n.º 55, de 7 de Março de 1979.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "Ofícios", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "Da Comissão Executiva do Movimento Unitário dos Reformados, \nPensionistas e Idosos (MURPI) enviando cópia da acta e conclusões finais do seu I Encontro Nacional para Estudo e Análise de Soluções para os Problemas dos Idosos e Inválidos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "Do secretariado da União dos Sindicatos do Distrito de Castelo Branco (Intersindical), a enviar documento, que contém a intervenção do representante sindical na Comissão de Participação e Consulta do Distrito de Castelo Branco, respeitante. às tomadas de posição sobre a tentativa de afastamento do Movimento Sindical da Gestão Directa da Segurança Social.\nDo Tribunal de Contas comunicando que, por Acórdão de 8 de Janeiro corrente, aquele Tribunal julgou quite a responsabilidade da Junta do Crédito Público referente ao ano de 1978- \nDa Associação Comercial e Industrial de Coimbra em que remete fotocópia do comunicado que vai tornar público através dos órgãos de informação, e respeitante ao subsídio governamental prometido â CIC/79. .", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "Telegramas", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Pires Fontoura", 
+   "speaker": "O Sr. Secretário", 
    "text": "Da CGTP/Intersindical enviando uma moção aprovada no Encontro de Dirigentes Sindicais realizado no dia 16 de Janeiro de 1980 no Porto, sobre a situação na Facar.\nDa Comissão Venatória Regional do Noite solicitando esclarecimento da sua situação face ao Decreto-Lei n.º 149/79, esperando que as decisões sejam tomadas de acordo com a vontade manifestada pelos trabalhadores na exposição dirigida em 18 de Julho de 1979 a S. Ex.ªo Presidente da Assembleia da República.\nDos elementos da APU eleitos para as autarquias locais do concelho da Covilhã presentes à reunião efectuada em Unhais da Serra, em 5 de Janeiro corrente, em que reclamam o cumprimento integral da Lei das Finanças Locais e se declaram dispostos a lutar decididamente para o conseguirem.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, o Sr. Secretário vai anunciar os requerimentos apresentados na Mesa.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai anunciar os requerimentos apresentados na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Secretário* (Pires Fontoura): Foram apresentados na sessão de ontem os seguintes requerimentos a diversos Ministérios, formulados pelos Srs. Deputados Vítor Louro e Jorge Leite; aos Ministérios das Finanças e do Plano, da Indústria e do Trabalho formulado pelo Sr.Deputado José Leitão; à Secretaria de Estado da Habitação, formulado pelo Sr. Deputado Gomes Fernandes; à Secretaria de Estado do Saúde, formulado pelo Sr. Deputado Moreira da Silva.", 
-   "type": "continuacao"
+   "party": "Pires Fontoura", 
+   "speaker": "Secretário", 
+   "text": "Foram apresentados na sessão de ontem os seguintes requerimentos a diversos Ministérios, formulados pelos Srs. Deputados Vítor Louro e Jorge Leite; aos Ministérios das Finanças e do Plano, da Indústria e do Trabalho formulado pelo Sr.Deputado José Leitão; à Secretaria de Estado da Habitação, formulado pelo Sr. Deputado Gomes Fernandes; à Secretaria de Estado do Saúde, formulado pelo Sr. Deputado Moreira da Silva.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Guerreiro Norte.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Guerreiro Norte.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Guerreiro Norte* (PSD): Sr. Presidente, Srs. Deputados: Esta intervenção tem por finalidade", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Guerreiro Norte", 
+   "text": "Sr. Presidente, Srs. Deputados: Esta intervenção tem por finalidade sensibilizar a Assembleia da República e por seu inter-", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "sensibilizar a Assembleia da República e por seu inter-", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Guerreiro Norte", 
    "text": "378", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Guerreiro Norte", 
    "text": "médio o povo português da importância e significado que terá em toda a vida da província a Universidade do Algarve.\nOutrora como hoje a Universidade, melhor dizendo, a insfituição, universitária desempenhou e desempenha um papel decisivo na vida dos povos, designadamente nos aspectos cultural, educaitivo, moral o económico. E esta elementar verdade. é de tal maneira patente que muitos sociólogos têm afirmado com muita pertinència que a Universidade actua como barómetro político e social da sociedade em que se insere.\nE efectivamente assim é! Não, por mero acaso, mas porque ela reflecte e espelha, com amplitude e quase com rigor científico, os conflitos, as ansiedades e as profundas aspirações dos indivíduos da sociedade.\nE é salutar que assim seja. É porque uma Universidade, além de ser uma escola do saber e do aprender, terá necessariamente de ser uma escola do. auscultar, cabendo-lhe uma função pedagógica e actuante mas não activista, tranFformadora da sociedade, mas não anarquista e demagógica, de modo a contribuir para o desejado equilíbrio, moral e soiúal sem contudo obstar, pelo contrário incentivar a libertação espirítual e económica do homern.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Moreira da Silva* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Moreira da Silva", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Srs. Deputados: É assente nestes parâmetros e vocacionada para estas perspectivas que concebemos o alto, significado que tem para os Algarvios a criaço de uma Universidade.\nÈ evidente e pré-claro que, ante estas considerações de, cariz sócio-económica e cultural, está subjacente -uma concepção de sociedade que perfilham os sociais-dernocratas e que se, baseia nos valores histórico-culturais e em objectivos de raiz personalista e humanista onde campeie a honestidade e a liberdade com a consequente \nresponsabilização.\nE estes atributos ou ..características estru-turais de personalidade são. comuns à maioria esmagadora dos algarvios e supomos mesmo que constituem autênticos valores -quadro que, consciente ou \ninconscientemente pesam e condicionam o comportamento e o modus vivendi dos Portugueses em geral, assumindo-&e como dinâmica cultural.\nA criação de uma Universidade, e a do Algarve não foge à regra, constitui insofismavelmente um facto. de extraordinário significado político, pelas múltiplas repercussões que- determina nos mais diversos sectores do con-tCxto, social onde irá fazer sentir a sua acção.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Srs. Deputados: É assente nestes parâmetros e vocacionada para estas perspectivas que concebemos o alto, significado que tem para os Algarvios a criaço de uma Universidade.\nÈ evidente e pré-claro que, ante estas considerações de, cariz sócio-económica e cultural, está subjacente -uma concepção de sociedade que perfilham os sociais-dernocratas e que se, baseia nos valores histórico-culturais e em objectivos de raiz personalista e humanista onde campeie a honestidade e a liberdade com a consequente \nresponsabilização.\nE estes atributos ou ..características estru-turais de personalidade são. comuns à maioria esmagadora dos algarvios e supomos mesmo que constituem autênticos valores -quadro que, consciente ou \ninconscientemente pesam e condicionam o comportamento e o modus vivendi dos Portugueses em geral, assumindo-&e como dinâmica cultural.\nA criação de uma Universidade, e a do Algarve não foge à regra, constitui insofismavelmente um facto. de extraordinário significado político, pelas múltiplas repercussões que- determina nos mais diversos sectores do con-tCxto, social onde irá fazer sentir a sua acção.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Sr. *Moreira da Silva* (PSD): -Muito bem!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador: -Sr. Presidente, Srs. Deputados: É com toda a humildade mas também com toda a firmeza e serenidade que nos propomos analisar, debater e ponderar toda a complexa mas prometedora realidade que se avizinha como. consequência da criação da Universidade do Algarve; e como Deputado eleito pelo círculo de Faro compete-me 1.-mbrar ao Governo a necessidade da criação rápida das condiçõ-,s indispensâveis ao seu funcionamento. Foi essa a intenção e o propósito que presidiu à minha intervenção.\nNão vamos gizar aqui, como-é evidente, o ordenamento e a estrutura que se deverão revestir as várias faculdades que integrarão a Universidade do Algarve.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "1 SÉRIE - NÚMERO 10", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "'Mas temos a consciência que uma Universidade, para além do seu apetrecho tecnológico, humano e finan. ceiro (sem os quais não poderá funcionar eficientc,.. mente), ter-se-á de virar para as réaiidades concretas, da região, sobe pena de não, desempenhar o papel que lhe é inerente numa sociedade demoí-rática em que a descentralização se tem de estender cada vez mais ao plano cultural.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Vozes do PD: -Muito bem!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador: -Sr. Presidente, Srs. Deputados: Ninguém melhor que os Algarvios sabe avatiar das suas necessidades, das suas carências e o que mais lhes interessar. Em suma, numa palavra: é aos Algarvios que cabe perspectivar e definir o seu futuro que o mesmo é dizer o futuro dos seus filhos. E por isso aqui estamos, sem preconceitos nem veleidades de qualquer espécie, tentando detectar e vislumbrar com a vossa ajtida como deverá ser a Universidade do Algarve.\nPorque uma coisa é certa e adquirida: a Universidade do Algarve já tem existência legal. E aqui cabe dizer alguma coisa acerca daqueles que, com o seu esforço, para isso contribuíram.\nHá qe referir, e em abono da verdade o fazemos, que diversas personalidades dos mais diversos quadrantes ideológicos, quer através de, escritos nos jornais, quer em conferências e palestras, \ndesempenharam um papel relevante na sua criação.\nPropos'itadamente não cito nenhum nome, o que não significa menos apreço pela sua actuação.\nQuero, porém, sublinhar o dériorninador comum que, inequivocamente e de forma transparente, resultou da assunção.de -todos quantos de. forma.\nitão diligente e ajustada reconheceram 'a necessidade da Universidade do Algarve, ao salientarem a marginalização e até o desprezo que os poderes constituídos ao longo de muitas dezenas de anos votaram a região do Algarve.\nE na verdade assim sucedeu.\nEm todas as reformas do ensino nunca o Algarve foi contemplado.\nRevestiu porém, particular e ostensivo escândalo a reforma de ensino superior da autoria do ex-Ministro Veiga Simão em que foram criadas as Universidades do Minho e Aveiro, bem como o Instituto Universitário de Évora.\n15to passou-se em 1973 e lembr,->-rne perfeitamente a angústia quei, senti ao ouvir o referido senhor anunciar as novas Universidades sem mencionar o nome do Algarve e'as razões'que pretensamente fundamentavam a decisão do Mirristro sem me lembrar do seu conteúdo concreto, baila-me na memória a impressão que delas colhi, isto é, que se baseavam em critérios de, manifesta discricionalidade e conveniência de interesses.\nFalei posteriormente com muitos e dos mais representativos - comprovincianos e constatei que aquilo que po.rventitra poderia ser produto de uma emoção era efectivamente uma sensação comum aos Algarvios.\n0 Algarve continuava a não figurar na cabeça dos governantes em projectos que envolvessem custos elevados sem a contrapartidí imediata dos lucros à vista.\nSrs. Deputados, é pois sem demagogia que podemos afirmar que a criação da Universidade do Algarve, além de ter constiluído um êxito demobrático com a", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "25 DE JANEIRO DE 1980", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "aprovação da respectiva lei na Assembleia da República, significa sobretudo uma vitória de todos os algarvios, porque encerra uma das suas mais profundas e antigas aspirações. E é de salientar que a Universidade do Algarve nasce com o instrumento mais adequado a lei e, consequentemente, o parturiente mais legítimo a Assembleia da República, Órgãos de Soberania onde está representada a vontade política nacional.\nEm termos democráticos, é a Universidade do Algarve a primeira a ser criada com o apoio do povo, sendo pois de esperar que, o sirva o dele consiga angariar o seu carinho tão indispensável à sua projecção e desenvolvimento.\nEmbora, fosse por intermédio do Partido Social-Democrata que se deu corporização legal à confortante realidade que é a Universidade do Algarve, a verdade é que ela passou a ser de todas as forças partidárias logo que assumiram a decisão de a apoiarem. Por isso ninguém, com o mínimo de credibilidade moral, poderá acusar de eleitoralismo a proposta que o PSD, em boa hora, apresentou na Assembleia da República.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. Pedro Roseta (.PSD): Muito bem!", 
-   "type": "continuacao"
+   "text": "Muito bem!", 
+   "type": "speaker_error"
   }, 
   {
    "text": "O Orador:- Contribuamos todos, sem divisionismos, para que a Universidade do Algarve seja em substância aquilo que já é no espírito dos Algarvios: uma Universidade para servir os Algarvios e o povo português em geral.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "O Sr. *Pedro Roseta* (PSD): -- Muito bem!", 
+   "type": null
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Srs. Deputados: Não tardarão a surgir os profetas da desgraça e do derrotismo, quer alegando que a sua viabilidade é comprometida pela escassez de recursos financeiros de que será dotada, atendendo à manifesta debilidade do erário público, quer pela falta de potencial humano capaz de a fazer funcionar com plena racionalidade.\nAos primeiros, respondemos que a esperança na recuperação económica do País é grande, além de acreditarmos que mais tarde ou mais cedo haverá uma maior contenção nos gastos públicos, evitando a constante sangria dos cofres nacionais que escorre para grande parte de empresas nacionalizadas, cujos prejuízos se amontoam e que, ao fim e ao cabo, somos todos nós que pagamos.\nPerante esta realidade não hesitamos um segundo sequer em considerar que parte substancial desses gastos deverão ser canalizados para o ensino, que o mesmo é dizer para o progresso. Por isso nos sentimos autorizados a dar inteira adesão às perspectivas abertas pelo. Governo para a criação real e efectiva da Universidade do Algarve porque o melhor investimento que um governo poderá realizar para a promoção do nosso povo será aquele que se enquadra nos domínios da cultura, pela criação de Institutos ou Universidades.", 
    "type": "continuacao"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Srs. Deputados: Não tardarão a surgir os profetas da desgraça e do derrotismo, quer alegando que a sua viabilidade é comprometida pela escassez de recursos financeiros de que será dotada, atendendo à manifesta debilidade do erário público, quer pela falta de potencial humano capaz de a fazer funcionar com plena racionalidade.\nAos primeiros, respondemos que a esperança na recuperação económica do País é grande, além de acreditarmos que mais tarde ou mais cedo haverá uma maior contenção nos gastos públicos, evitando a constante sangria dos cofres nacionais que escorre para grande parte de empresas nacionalizadas, cujos prejuízos se amontoam e que, ao fim e ao cabo, somos todos nós que pagamos.\nPerante esta realidade não hesitamos um segundo sequer em considerar que parte substancial desses gastos deverão ser canalizados para o ensino, que o mesmo é dizer para o progresso. Por isso nos sentimos autorizados a dar inteira adesão às perspectivas abertas pelo. Governo para a criação real e efectiva da Universidade do Algarve porque o melhor investimento que um governo poderá realizar para a promoção do nosso povo será aquele que se enquadra nos domínios da cultura, pela criação de Institutos ou Universidades.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Moreira da Silva", 
+   "text": "Muito bem!\nO Orador: --Esse investimento será, o mais rentável quando vivemos o sentimos a arreigada certeza que o futuro dos povos se situa no alargamento em profundidade e altura da sua cultura.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Moreira da Silva* (PSD): Muito bem!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: --Esse investimento será, o mais rentável quando vivemos o sentimos a arreigada certeza que o futuro dos povos se situa no alargamento em profundidade e altura da sua cultura.", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Moreira da Silva", 
    "text": "379", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Moreira da Silva", 
    "text": "Aos segundos. respondemos que a Universidade é fundamentalmente um projecto de futuro em que, pela sua dinâmica própria se encarregará de formar os seus quadros.\nÉ evidente que os professores e restante pessoal adjacente não caem do céu por obra e graça do Espírito Santo; todavia, o Governo tem o imperioso dever cívico e legal de providenciar na resolução desse problema, propiciando condições de remuneração, habitação o outras, de modo a atrair os primeiros docentes que, leccionarão na Universidade do Algarve.\nÉ que não podemos esquecer, repito, esta é a primeira Universidade a nascer pela vontade popular legitimamente representada na Assembleia da República. E o menos que se pode exigir num regime democrático é que o Governo assegure os mecanismos jurídicos e financeiros conducentes à materialização da lei aprovada.\nNão temos pois de recuar, fundamentalmente quando a razão e a justiça que nos assiste é hoje comungada pela esmagadora maioria dos algarvios e de muitos outros portugueses conscientes, e quando sabemos que o actual Governo participa destas mesmas preocupações e propósitos.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD, do CDS e do MDP/CDE.", 
    "type": "aplauso"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Moreira da Silva", 
    "text": "O Sr. *Presidente*: --Para uma intervenção, tem a palavra o Sr. Deputado Edmundo Pedro.\n1", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Edmundo Pedro* (PS): Sr. Presidente, Srs. Deputados: Passou no dia 18 de Janeiro, na última semana - curiosamente no dia em que foi aprovado nesta Câmara o Programa do Governo e a moção de confiança ao Governo -, mais um aniversário do 18 de Janeiro de 1934, e foi pena, aliás era essa. a intenção da bancada do Partido Socialista, que não tivéssemos oportunidade de nesse mesmo dia salientar \nimportância e o significado desse movimento não só na luta antifascista como na perspectiva da construção de um movimento sindical \nindependente.\nDe qualquer maneira, achámos que. essa data não devia passar sem que a assinalássemos, porque, com toda a sinceridade, pensamos que os socialistas estão na posição de reclamar para si o essencial da herança do 18 de Janeiro - a luta pela unidade, pela liberdade, pela independência, pela democracidade do movimento sindical. Por isso, nós, que nos reclamamos desses valores, entendemos que essa, data não podia passar sem ser assinada como um elemento importante da luta dos socialistas pela autonomia do movimento sindical e um contributo para a própria luta pela democracia.\nNaturalmente que prestar homenagem e curvarmo-nos aqui perante o sacrifício daqueles que lutaram no 18 de Janeiro não será a única intenção - aliás já por si justificadíssima - desta minha intervenção.\nCom efeito, o 18 de Janeiro constitui um momento alto da luta do movimento sindical português pela sua autonomia, pelo seu direito à existência independente, pela sua permanente vocação para não se deixar subordinar ou manipular pelo, poder político e pelos partidos, o que, só por si, justificaria a nossa intervenção.\nPortanto, não será só no sentido de sublinhar e prestar homenagem àqueles que nessa altura se bateram e morreram pelo movimento, que tomo, com toda a honra, a palavra nesta Assembleia mas também por-", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Edmundo Pedro", 
+   "text": "Sr. Presidente, Srs. Deputados: Passou no dia 18 de Janeiro, na última semana - curiosamente no dia em que foi aprovado nesta Câmara o Programa do Governo e a moção de confiança ao Governo -, mais um aniversário do 18 de Janeiro de 1934, e foi pena, aliás era essa. a intenção da bancada do Partido Socialista, que não tivéssemos oportunidade de nesse mesmo dia salientar \nimportância e o significado desse movimento não só na luta antifascista como na perspectiva da construção de um movimento sindical \nindependente.\nDe qualquer maneira, achámos que. essa data não devia passar sem que a assinalássemos, porque, com toda a sinceridade, pensamos que os socialistas estão na posição de reclamar para si o essencial da herança do 18 de Janeiro - a luta pela unidade, pela liberdade, pela independência, pela democracidade do movimento sindical. Por isso, nós, que nos reclamamos desses valores, entendemos que essa, data não podia passar sem ser assinada como um elemento importante da luta dos socialistas pela autonomia do movimento sindical e um contributo para a própria luta pela democracia.\nNaturalmente que prestar homenagem e curvarmo-nos aqui perante o sacrifício daqueles que lutaram no 18 de Janeiro não será a única intenção - aliás já por si justificadíssima - desta minha intervenção.\nCom efeito, o 18 de Janeiro constitui um momento alto da luta do movimento sindical português pela sua autonomia, pelo seu direito à existência independente, pela sua permanente vocação para não se deixar subordinar ou manipular pelo, poder político e pelos partidos, o que, só por si, justificaria a nossa intervenção.\nPortanto, não será só no sentido de sublinhar e prestar homenagem àqueles que nessa altura se bateram e morreram pelo movimento, que tomo, com toda a honra, a palavra nesta Assembleia mas também por- I SÉRIE - NÚMERO 10", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "I SÉRIE - NÚMERO 10", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Edmundo Pedro", 
    "text": "que fui um dos homens que, embora muito novo, ajudou e deu a sua contribuição para a organização do 18 de Janeiro. É, naturalmente, nessa medida que me sinto com uma certa legitimidade para lembrar aqui não só o que aconteceu nessa altura como, de certa maneira, balizar o caminho percorrido desde então pelo movimento sindical e fazer umas ligeiras reflexões sobre o estado do movimento sindical português no momento que passa..\nPortanto, para além de salientar o carácter que o 18 de, Janeiro teve como momento político e de luta importante do povo português pelos seus direitos, de luta popular contra a ditadura, não quero deixar de assinalar que, algumas forças políticas ou alguma força política cuja legitimidade - para falar do 18 de Janeiro - ninguém contesta, porque os seus militantes deram contributos mais valiosos para a organização não só do movimento como, posteriormente, foram dos mais sacrificados - refiro-me, naturalmente, ao PCP e, em particular, ao seu \nsecretário-geral de então, Bento Gonçalves, de quem fui amigo e a cuja memória me sinto obrigado a prestar homenagem, porque foi um grande combatente da luta antifascista e não podemos esquecer que morreu no Tarrafal, e, só por isso, lhe deveríamos a nossa justa homenagem.\nContudo, Bento Gonçalves considerou que o 18 de Janeiro tinha sido um movimento irrealista, tinha sido aquilo a que ele chamou uma \"anarqueirada\", querendo, naturalmente, significar com isso que não estava de acordo com a orientação seguida e que negava globalmente a validade do próprio 18 de Janeiro.\nNão partilhamos dessa opinião. porque entendemos que para além do eventual irrealismo, para além da eventual falta de condições para o seu desenvolvimento em condições vitoriosas, tratava-se, naquela altura, de marcar um protesto contra a ofensiva generalizada do- poder político então vigente da ditadura de Salazar contra as liberdades dos sindicatos e dos trabalhadores. Nessa medida, entendemos que o movimento se justificava sempre, independentemente dos seus resultados, como uma maneira da classe trabalhadora manifestar a sua repulsa e a sua negação ao projecto que procurava limitar as suas liberdades pelo, que não nos inserimos nossa perspectiva, e consideramos que o 18 de Janeiro foi um movimento muito importante da história do movimento sindical português e da história das lutas dos trabalhadores portugueses contra a ditadura, e, nessa medida, reclamamos a sua herança como uma das lutas populares e, sindicais mais válidas contra o antigo regime.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Edmundo Pedro", 
    "text": "Queria também aproveitar a oportunidade para chamar a atenção para uma, curiosa coincidência que foi a de, no passado dia 18 deste mês, terem sido aqui aprovados o Programa do Governo e uma moção de apoio ao Governo, e desejaria. - sem qualquer processo de intenção, a que. sou normalmente, alheio por vocação e por maneira de ser - assinalar que nós, democratas e socialistas, não gostaríamos de modo nenhum, o esperamos que assim. não soja, que esse dia - 18 de Janeiro de 1980 - seja um dia assinalado no historial da democracia e do parlamentarismo português como uma data igualmente maligna, como uma data significativa da limitação das liberdades em Portugal, e, designadamente, das liberdades que se referem à própria autonomia do movimento sindical.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Edmundo Pedro", 
    "text": "A verdade; é que assistimos, depois do 25 de Abril, a tentativas repetidas e mais ou menos sistematizadas dei os partidos - e, sobretudo, um partido - utilizarem o movimento sindical claramente em apoio dos seus projectos e da sua perspectiva política, da sua prática política, quotidiana. Contudo, temos de reconhecer que, neste momento, esse tipo de intervenção, que negamos e cuja validade informamos e repudiamos, não é privilégio nem monopólio só de um dos quadrantes políticos e lamentamos ter de reconhecer que se está a transformar numa prática generalizada, porque assistimos recentemente a uma tentativa - tentativa essa que se poderá tornar sistemática - da utilização sindical, por parte dos partidos da direita, daqueles que, afinal, têm menos legitimidade para o fazer, pela própria tradição da direita de, restringir o movimento sindical.\nDevo, portanto, dizer que nós, socialistas, reafirmamos a nossa vocação para entender que o movimento sindical deve ser um movimento não apolítico, mas, que tem de ser, necessariamente, não partidário, porque para nós um movimento sindical independente so pode existir em democracia política. Essa prova \nfoi feita ao longo dos últimos cinquenta anos. Entendemos, pois, que o movimento sindical tem de ser uma componente importante da democracia política, que, o movimento sindical está um pouco - no aspecto da sua existência em democracia política ou da sua viabilidade, ou \ninviabilidade, das condições de existência ou não existência da democracia política - como o peixe poder viver sem água ou os seres vivos poder viver sem oxigénio.\nPara, nós, a, democracia política é a condição essencial e primária, ponto de partida para o desenvolvimento, ao movimento sindical independente, é aquele espaço de liberdade, indispensável, para o desenvolvimento de uma perspectiva de sindicalismo verdadeiramente autónomo e, vocacionado para a defesa dos autênticos interesses dos trabalhadores.\nReafirmamos aqui essa vocação e fazemos votos para que, cada vez menos, os partidos políticos, naturalmente que não excluo o próprio partido a que. pertenço, o Partido Socialista, porque entendo que essa intervenção no movimento sindical não deve, ser feita por nenhum dos partidos, nem pelo meu, que repetidamente se tem reclamado da não instrumentalização do movimento sindical pelos partidos políticos, e tem sido e vai continuar a ser coerente nessa sua linha de actuação...", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, terminou o seu tempo de intervenção e, peço o favor de abreviar.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, terminou o seu tempo de intervenção e, peço o favor de abreviar.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "text": "O Orador: Vou terminar imediatamente, Sr. Presidente.\nNunca seguimos a linha lógica que, nos propomos seguir, porque as coisas surgem ligadas umas às outras, mas não desejaria terminar sem chamar a atenção para o movimento sindical democrático, que neste momento se desenvolve no nosso país.\nDo nosso ponto de vista - ponto de vista dos socialistas que apoiam essa perspectiva sindical democrática -, queria salientar que esperamos e nos bateremos dentro dessa central sindical, que começa a afirmar-se e a ser uma realidade autêntica no horizonte sindical português, para que ela seja fiel aos", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Vou terminar imediatamente, Sr. Presidente.\nNunca seguimos a linha lógica que, nos propomos seguir, porque as coisas surgem ligadas umas às outras, mas não desejaria terminar sem chamar a atenção para o movimento sindical democrático, que neste momento se desenvolve no nosso país.\nDo nosso ponto de vista - ponto de vista dos socialistas que apoiam essa perspectiva sindical democrática -, queria salientar que esperamos e nos bateremos dentro dessa central sindical, que começa a afirmar-se e a ser uma realidade autêntica no horizonte sindical português, para que ela seja fiel aos", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "25 DE JANEIRO DE 1980 381", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "princípios da autonomia, da liberdade, do sentido da responsabilidade, da recusa da demagogia e de um combate permanente pela democracia na ordem interna e externa e pela sua autêntica representatividade.\nPor outro, lado, consideramos que ma central sindical deve reclamar-se, igualmente inscrito na herança de combatividade na tradição, do 18 de Janeiro, ou melhor, dos valores implícitos no 18 de Janeiro, porque entendemos que ela, mais do que ninguém, tem direito - se tiver uma prática de classe coerente e, correcta, - tal como esperamos a reclamar-se, pela sua de \nmocraticidade, dos valores implícitos no 18 de Janeiro.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Amândio de Azevedo* (PSD): Peço a palavra, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Amândio de Azevedo", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: É para formular pedidos de esclarecimento, Sr.Deputado?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "É para formular pedidos de esclarecimento, Sr.Deputado?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Amândio de Azevedo* (PSD): Não, Sr. Presidente, não era para pedir esclarecimentos, mas, sim, por uma razão muito especial: para lembrar que no passado mês de Dezembro faleceu em Vila Nova de Famalicão o Dr. Carlos Bacelar que foi Deputado na Assembleia Constituinte. Não houve ainda oportunidade de o meu grupo parlamentar trazer aqui esse facto ao conhecimento de Câmara; contudo, penso que é absolutamente devida uma homenagem a um homem que esteve connosco, na Assembleia Constituinte, que trabalhou honradamente para a instalação e consolidação da democracia em Portugal, pessoa que, pelo seu convívio, estou certo que deixou um amigo em todos aqueles com quem contactou.\nPortanto, era esta homenagem singela que em meu nome pessoal e em nome da bancada do Partido Social Democrata - a que, creio, se associarão gostosamente todos os Deputados desta Câmara - queria deixar aqui numa palavra de recordação o de homenagem pelo Dr. Carlos Bacelar.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Amândio de Azevedo", 
+   "text": "Não, Sr. Presidente, não era para pedir esclarecimentos, mas, sim, por uma razão muito especial: para lembrar que no passado mês de Dezembro faleceu em Vila Nova de Famalicão o Dr. Carlos Bacelar que foi Deputado na Assembleia Constituinte. Não houve ainda oportunidade de o meu grupo parlamentar trazer aqui esse facto ao conhecimento de Câmara; contudo, penso que é absolutamente devida uma homenagem a um homem que esteve connosco, na Assembleia Constituinte, que trabalhou honradamente para a instalação e consolidação da democracia em Portugal, pessoa que, pelo seu convívio, estou certo que deixou um amigo em todos aqueles com quem contactou.\nPortanto, era esta homenagem singela que em meu nome pessoal e em nome da bancada do Partido Social Democrata - a que, creio, se associarão gostosamente todos os Deputados desta Câmara - queria deixar aqui numa palavra de recordação o de homenagem pelo Dr. Carlos Bacelar.\nAplausos da maioria parlamentar, do PS, do PCP \ne do MDP/CDE.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Aplausos da maioria parlamentar, do PS, do PCP \ne do MDP/CDE.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Salgado Zenha.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Salgado Zenha.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Salgado Zenha", 
+   "text": "Sr. Presidente, Srs. Deputados: Gostaria de, em palavras muito breves, me associar à homenagem do Dr. Carlos: \nBacelar, meu velho amigo e colega em Coimbra.\nIgnorava que elo tinha sido Deputado na Assembleia Constituinte, vista que não fiz parte dela, mas, seja como for, é um democrata, um homem honrado, e um velho amigo de sempre que vimos desaparecer com saudade e com muito desgosto.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Salgado Zenha* (PS): Sr. Presidente, Srs. Deputados: Gostaria de, em palavras muito breves, me associar à homenagem do Dr. Carlos: \nBacelar, meu velho amigo e colega em Coimbra.\nIgnorava que elo tinha sido Deputado na Assembleia Constituinte, vista que não fiz parte dela, mas, seja como for, é um democrata, um homem honrado, e um velho amigo de sempre que vimos desaparecer com saudade e com muito desgosto.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Catarinho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Catarinho.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. Luís Catarinho (MDP/CDE): Sr. Presidente, \nSrs. Deputados: 0 MDP/CDE e eu pessoalmente não \nsabíamos que realmente o ex-Deputado, Sr. Dr. Carlos \nBacelar, tinha falecido.\nEvidentemente, que o MDP/CDE quer deixar uma palavra de reconhecimento e mesmo de se por essa figura desaparecida. Foi nosso colega ma Assem", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, \nSrs. Deputados: 0 MDP/CDE e eu pessoalmente não \nsabíamos que realmente o ex-Deputado, Sr. Dr. Carlos \nBacelar, tinha falecido.\nEvidentemente, que o MDP/CDE quer deixar uma palavra de reconhecimento e mesmo de se por essa figura desaparecida. Foi nosso colega ma Assem", 
+   "type": "speaker_error"
   }, 
   {
    "text": "bleia C", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o ST. Deputado Na-rana Coissowõ.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o ST. Deputado Na-rana Coissowõ.\nO Sr. *Narana Coissoró* (CDS): -Sr. Presidente, Sr.s. Deputados: Também o GTupo Paiwnew&r do CDS queria prestar homenagem. ao, Sr. Deputado da Assembleia. Consútuinte, Cafios Baceilair, porq.uwto a actuação deste Sr. jDopu.tfijdo foi, a todos os -títulos, meritória e- louvável, deixando aqui um grande exemplo de patoiotismo, -como poucos deixaram.\nna Assembleia Constituinle.\nPar isso mesmo -também nos associamos às palavras do Sr. Depu-tado Amândio de Azevedo e quere-mos prestar mais uma vez a nossa homuagem,", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): -Sr. Presidente, Sr.s. Deputados: Também o GTupo Paiwnew&r do CDS queria prestar homenagem. ao, Sr. Deputado da Assembleia. Consútuinte, Cafios Baceilair, porq.uwto a actuação deste Sr. jDopu.tfijdo foi, a todos os -títulos, meritória e- louvável, deixando aqui um grande exemplo de patoiotismo, -como poucos deixaram.\nna Assembleia Constituinle.\nPar isso mesmo -também nos associamos às palavras do Sr. Depu-tado Amândio de Azevedo e quere-mos prestar mais uma vez a nossa homuagem,", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vi[tal Moreira.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Q Sr. *Presidente*: Tem a palavra o Sr. Deputado Vi[tal Moreira.", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, Srs. Deputados: Tendo -também compartühado do trabalho que houve aqui na Assemblei-a Constituinte, quero associar-me e ifazer associar o meu grupo parLanimitar à homena-gwn justa e, devida que aqui foi \nt'da p \n. ela voz do Sr. Deputado Am\"o de Azevedo.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. Vital Moreira (,PCP): Sr. Presidente, Srs. Deputados: Tendo -também compartühado do trabalho que houve aqui na Assemblei-a Constituinte, quero associar-me e ifazer associar o meu grupo parLanimitar à homena-gwn justa e, devida que aqui foi \nt'da p \n. ela voz do Sr. Deputado Am\"o de Azevedo.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o, Sr. Deputado Ferwei,ra do Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o, Sr. Deputado Ferwei,ra do Amaral.", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, Srs. iDeputados: 0 Grupo Parlairriznitar doPPM, embora não tenha estado presente nos trabalhos da Assembileia. Constilbuinte, também sp, associa a esta homenagem C. Teconhece o méri-to, o iiiniteiresse e o vadoT pefra a democrada que resultou também, da colaboração do fl~e defunto, ao qual, desta forma, também presta-mos a nossa homemagem.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. Ferreira do Amaral (PP.M): Sr. Presidente, Srs. iDeputados: 0 Grupo Parlairriznitar doPPM, embora não tenha estado presente nos trabalhos da Assembileia. Constilbuinte, também sp, associa a esta homenagem C. Teconhece o méri-to, o iiiniteiresse e o vadoT pefra a democrada que resultou também, da colaboração do fl~e defunto, ao qual, desta forma, também presta-mos a nossa homemagem.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Adão e Sã,\"-.\nO Sr. Adão e Silva (Indep.): — Sr. Presidente, Srs. Deputados: 0 Grupo Reformador itambém que--r francamente,, associar-se a esta justa homenagem.\nO Sr. *Presidente*: -Para uma intervenção tem a padavira a Sr.ª lDepulada Ilda Figu~o.\nA Sr.ª Uda Figueiredo (,PCP): -Sr. Presidente, Srs. Deputados: 0 Grupo Parlamentar do Partido Comunista Português xern &nunciado repetidas vezes nesta Assembleia a escalada repres&iva que atingiu milhares de trabalhadores de várias empresas da zona do -Porto. Referimos aqui os casos da Facar, da Jacinto, & Unitoca, da R\"1 Companhia Velha, da Tripal, Preh e muitos outros.\nNos últimos tempos. anúnado pedas promessas ele> torafis da AD e pelo seu P;rograma de Govemo, (de destruição das conquistas dos \nterabalhadores e intensfficação'da sua expdoração), o ako paftona-to da", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Adão e Sã,\"-.\nO Sr. Adão e Silva (Indep.): Sr. Presidente, Srs. Deputados: 0 Grupo Reformador itambém que--r francamente,, associar-se a esta justa homenagem.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: -Para uma intervenção tem a padavira a Sr.ª lDepulada Ilda Figu~o.\nA Sr.ª Uda Figueiredo (,PCP): -Sr. Presidente, Srs. Deputados: 0 Grupo Parlamentar do Partido Comunista Português xern &nunciado repetidas vezes nesta Assembleia a escalada repres&iva que atingiu milhares de trabalhadores de várias empresas da zona do -Porto. Referimos aqui os casos da Facar, da Jacinto, & Unitoca, da R\"1 Companhia Velha, da Tripal, Preh e muitos outros.\nNos últimos tempos. anúnado pedas promessas ele> torafis da AD e pelo seu P;rograma de Govemo, (de destruição das conquistas dos \nterabalhadores e intensfficação'da sua expdoração), o ako paftona-to da", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "382", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "regâo, do Parto tem ~o a aprof~ os seus ata, ques contra os A situação em curso na Facar, empresa metalúrgica dos arredores do Porto, com mais de 1200 trabalhadares, é dlisso -testemunha e exemplo -lapidar. Os trabalhadores, no omprlmeÁn,to da lei em vigor, avançaram com o proce_sso, de aprovação dos estatu-tos para a comissão ce, \ntrabalhadores. Foram recolhidas as assinaturas mais que. sitifkÀ--entes e n~ nas paira rea-lizar a assembleia de voto e foram afixadas regularmente, as convocatórias. Mas na Facar a oposição ilegal dos patTõe.s Carvalhos a !tudo o que seja ido -inite-resse dos \ntrabadlhadores ifiez-se logo sentir at.ravés da acção dos seus capangas, que por duas vezes cansecu,tivas destruíram as convocatórâas afixadas 'irios termos da lei, Não saiúsf6tos. com tal proeza, os comen-adorts Carvalhos não autorizaram a vetação, deri-tro da Facar quando a comissão eleitora! insistiu no exercício dos seus direitos.\nRecusando o confTonto, e a provocação em que a gerência da Facar estava interessada, a comissão eleitoral procedeu à votação na rua, frente às instalações da empresa. No entanto, -mesmo aqui, os comenidado.res Carvalhos, coinifiantes de que estão imunes ao oumpri,mento da -lei e .seguros da suaimpu, nidade, fizeram actuar os seus \"homens de mão\" e as arinas forarn destruídas, com agressões físicas aos trabalhadores e dirigentes sindicais que se encontravam junto delas. As umas foram destruídas das duas vezes que a votação foi tentada e quando já mais de uma centena de trabalhadores tinha votado.\nEn.tTetan,to a ger6n,cia. da empresa tratou de \".in.m'min-a.r\" pessoalmenite, os trabalhadores da comissão eJeitorail e os delegados sindiicais que distribuíram comun,icados dos sindicatos sobtre a situação da empresa-. Neste momento já se enicontram s~nsos qua,bro deilegados s-indicaís' que ;receberam notas de culpa, -apo,n.llando para o despredimento.\nÉ caso paira porgu-ntar: que. vai fazer o Govemo em casos como este, em que os ipatirões insistem eim. sp opor às decisões idos órgãos de, Sobeirania, às JeÁs e às -regoas de conduta democrática? Foi paTa -isto que a empresa -foi desin-teirvencionada e Pantregue aos comendadores Cairvã,hos, que comprovadamente a sabota-ram? É este o irespeito ;pelo Estado de diTeito que a ;diireita e o patironato ipara aí apregoa&.! \nMas os casos de, ilegàidad-es, repressão Q ataque ao mais eilementares direitos dos ;t,rabalhadw[DEL: pelas suas ligações aos grupos eco-nójrnicos que o actual Governo, e os paíritido6 que o apoiam e, defendem.\nEm várias empresas têxtois do ~ri;to do Porto, os tralbaÉ-hado-res coniheemb= este tipo de actuação. Por exemplo, nas Ma11has do Ameal, empresa, com cwr-a de, 700 trabalhadoíres, -há processos dis~, ,res com a intenção de desp\",r itrês uzbalhadons, só poNue, decidÍram -quase.\ndiríamos, tiv\"a.m a ousadlia- dt\",dinamizw a foirmação da comissão de trabalhadores da empresa nos iterm4ciÍs e ao abrgo da Lei n.º 46/79. .\n.Na ~IAlves Figueiredo, Lda., de Santo Tirso, tristementé célebre pela repressão patronal. o patrão :DEL] \n[DEL: :DEL]", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "DEL: . 1 SÉRIE - NÚMERO W :DEL] \n[DEL: :DEL", 
@@ -464,156 +541,191 @@
    "type": null
   }, 
   {
-   "text": "Vozes do PCP: Nós já sabíamos!", 
-   "type": null
+   "speaker": "Vozes do PCP", 
+   "text": "Nós já sabíamos!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra a Srª. Deputada Ilda Figueiredo, para um contraprotesto.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Srª. Deputada Ilda Figueiredo, para um contraprotesto.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Srª. Ilda Figueiredo (PCP): Queria apenas referir que conheço bem as lutas dos trabalhadores do Porto e que por isso me referi expressamente a elas.\nNo entanto, registo a oposição do Sr. Deputado do PPD, que, em vez de apoiar essas lutas, resolveu atacar o Partido Comunista por apoiar e defender os direitos e as lutas dos trabalhadores do Norte e de todo o País.", 
-   "type": null
+   "text": "Queria apenas referir que conheço bem as lutas dos trabalhadores do Porto e que por isso me referi expressamente a elas.\nNo entanto, registo a oposição do Sr. Deputado do PPD, que, em vez de apoiar essas lutas, resolveu atacar o Partido Comunista por apoiar e defender os direitos e as lutas dos trabalhadores do Norte e de todo o País.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Falou e não disse nada!", 
-   "type": null
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Falou e não disse nada!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Mário Tomé.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Mário Tomé.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Mário Tomé* (UDP): Sr. Presidente, Srs. Deputados: A UDP está atenta ao desenrolar da situação internacional. Tem posições muito claras sobre o que se passa no Mundo, principalmente o decor-", 
-   "type": null
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
+   "text": "Sr. Presidente, Srs. Deputados: A UDP está atenta ao desenrolar da situação internacional. Tem posições muito claras sobre o que se passa no Mundo, principalmente o decor-", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "rente das lutas dos povos e de todos os explorados contra as manobras hegemonistas e as agressões das potências imperialistas.\nMas à UDP interessa fundamentalmente aquilo que, embora ligado às pressões do imperialismo e às lutas dos povos, se passa no nosso próprio país, onde traba-lhadores, democratas, antifascistas, soldados, sargentos e oficiais democratas são vítimas das arbitrariedades e da repressão do Estado.\nPor isso, hoje nos solidarizamos, particularmente com os presos políticos antifascistas do PRP.\nCaso estranho este que chamou a atenção de juristas internacionais presentes no, julgamento.\nCaso estranho este que chamou a atenção. de organismos internacionais, como a Amnistia Internacional, presente como observador no julgamento.\nCaso estranho este que mobilizou os meios políticos e a opinião, pública da Europa e do Mundo.\nCaso estranho este em que são mantidos no silêncio, a nível nacional e salvo raras excepções, as arbitrariedades, as injustiças, as ilegalidades que nestes processos foram cometidas.\nNão vamos falar já dos longos meses de prisão sofridos pelos antifascistas, sem culpa formada, à espera que a polícia e as forças repressivas conseguissem concluir os processos.\nNão vamos falar das arbitrariedades cometidas na instrução dos mesmos processos, que inclusivamente levaram à anulação de alguns deles.\nNão vamos sequer falar do tratamento prisional a que foram submetidos os presos do PRP.\nInteressa-nos, sobretudo, o que a esta Assembleia diz respeito.\nNesta mesma Sala, há bem pouco tempo, por duas vezes, foi aprovada uma lei da amnistia.\nAbrangida por ela estavam os militares de Abril a quem a hierarquia reaccionária procura afastar das forçais armadas.\nAbrangidos também estão os presos que, como 15abel do Carmo e, Carlos Antunes, são acusados de terem cometidos \"crimes políticos\". E não se diga que assim não é! \nOs processos estão todos eles recheados de afirmações, umas pontuais, outras de princípio, que os caracterizam manifestamente como processos políticos.\n15abel do Carmo, e Carlos Antunes são acusados, tão-somente, de \"autoria moral de crimes presumivelmente cometidos pelo PRP\".\nEstranha justiça esta.\nQuantos julgamentos houve em que. não f& produzida qualquer prova, culminando com a absolvição dos acusados que, entretanto, passaram na cadeia meses e meses.\nA UDP quer manifestar aqui a sua solidariedade com todos os presos vítimas de, tais, injustiças.\nA UDP quer manifestar aqui o seu especial apoio a 15abel do Carmo e Carlos Antunes, que neste momento estão a ser julgados por crimes que não cometeram.\nA UDP quer ainda, com o direito adquirido de quem sempre lutou pela liberdade, apelar a esta Assembleia e à opinião pública, aos democratas e aos antifascistas para que exijam o fim de tais arbitrariedades, e 15abel do Carmo e Carlos Antunes e todos os presos do PRP sejam imediatamente libertados.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "384", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "O Sr. *Presidente*: --Para uma intervenção, tem a palavra o Sr. Deputado Agostinho Domingues.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Agostinho Domingues* (PS): Sr. Presidente, Srs. Deputados: \nQualquer que seja o papel que reservemos à escola na formação do homem, de acordo com as diversas ideologias sócio-políticas e até as diferentes sensibilidades pessoais e profissionais, todos nos sentimos a ela ligados porque lá passámos e ou lá continuamos, a ela pedimos co-responsabilidades na educação dos nossos filhos, dela exigimos que seja lugar e ocasião de crescimento humano e social.\nEsta nossa proximidade da escola talvez explique que, às vezes, seja difícil garantir-lhe o tempo e a atenção que merece. Foi o que aconteceu nesta Assembleia aquando do debate do Programa governamental.\nEspero não ser inoportuno trazer aqui algumas reflexões.\nPareceu-me haver interesse em partir do texto do Programa do Governo, uma vez que contém as grandes linhas da política educativa, do VI Governo Constitucional. Ater-me-ei aos sectores dos ensinos \npré-primário, do básico e do secundário.\nUma leitura atenta das páginas do programa de educação e cultura suscita dois sentimentos opostos: receio e esperança.\nCausam apreensão, entre outras, as seguintes passagens: \"firme intenção de reconstruir o sistema educativo em dignidade e liberdade\" (p. 74 do Programa); \"criar-se-ão condições para que a experiência educativa ocorra em ambiente criativo e livre respeitando com rigor o direito dos educandos e dos pais. à escolha dos modelos ideológicos e culturais que preferirem\" (pp. 74-75); \"rever-se-á urgentemente o conteúdo dos programas nos aspectos que abertamente, minimizam ou ofendem os princípios de um ensino livre e aberto\" (p. 77).\n\"Reconstruir o sistema educativo em dignidade e liberdade\" ...! Mas então o ensino em Portugal, cinco anos após a Revolução de Abril, não é digno nem livre? E essa dignidade e liberdade que assim lhe faltam hão-de ser \" reconstruídos\", quer dizer, restauradas pelo regresso a antigas formas (ou formas!)? Por contraste, essas virtudes terão existido antes do \"25 de Abril\"? Quem ou quê, nessa perspectiva, possuía antes tais virtudes, e quem ou quê enferma hoje dos vícios correspondentes? Um dos réus vem acusado no texto do Programa do Governo: programas \"que minimizam ou ofendem os princípios de um ensino livre e aberto\". E, significativamente, apontam-se disciplinas mais susceptíveis de veicularem carga ideológica: a língua materna, a história, os estudos sociais. Só para se ficar com uma ideia das \"virtudes\" consagradas na orientação do ensino de Português nos programas do ensino liceal aprovados em 1954, cito aqui alguns dos objectivos então preconizados: \"as preocupações dominantes do ensino desta disciplina hão-de ser as de fundamentar solidamente uma cultura e de arraigar no espírito e no coração dos alunos sentimentos elevados de civismo e de amor da Pátria. E mais adiante: \"todos os elementos desta aprendizagem devem contribuir activamente para a educação moral e estética\". Assim,, a \"dignidade\" e a \"liberdade\" no ensino, por exemplo, da literatura portuguesa ficavam pressupostamente garantidas com a indicação de certos manuais fiéis à ideologia do Estado Novo e com a condenação expressa ou tácita de outros, de incontestado", 
-   "type": null
+   "party": "PS", 
+   "speaker": "Agostinho Domingues", 
+   "text": "Sr. Presidente, Srs. Deputados: \nQualquer que seja o papel que reservemos à escola na formação do homem, de acordo com as diversas ideologias sócio-políticas e até as diferentes sensibilidades pessoais e profissionais, todos nos sentimos a ela ligados porque lá passámos e ou lá continuamos, a ela pedimos co-responsabilidades na educação dos nossos filhos, dela exigimos que seja lugar e ocasião de crescimento humano e social.\nEsta nossa proximidade da escola talvez explique que, às vezes, seja difícil garantir-lhe o tempo e a atenção que merece. Foi o que aconteceu nesta Assembleia aquando do debate do Programa governamental.\nEspero não ser inoportuno trazer aqui algumas reflexões.\nPareceu-me haver interesse em partir do texto do Programa do Governo, uma vez que contém as grandes linhas da política educativa, do VI Governo Constitucional. Ater-me-ei aos sectores dos ensinos \npré-primário, do básico e do secundário.\nUma leitura atenta das páginas do programa de educação e cultura suscita dois sentimentos opostos: receio e esperança.\nCausam apreensão, entre outras, as seguintes passagens: \"firme intenção de reconstruir o sistema educativo em dignidade e liberdade\" (p. 74 do Programa); \"criar-se-ão condições para que a experiência educativa ocorra em ambiente criativo e livre respeitando com rigor o direito dos educandos e dos pais. à escolha dos modelos ideológicos e culturais que preferirem\" (pp. 74-75); \"rever-se-á urgentemente o conteúdo dos programas nos aspectos que abertamente, minimizam ou ofendem os princípios de um ensino livre e aberto\" (p. 77).\n\"Reconstruir o sistema educativo em dignidade e liberdade\" ...! Mas então o ensino em Portugal, cinco anos após a Revolução de Abril, não é digno nem livre? E essa dignidade e liberdade que assim lhe faltam hão-de ser \" reconstruídos\", quer dizer, restauradas pelo regresso a antigas formas (ou formas!)? Por contraste, essas virtudes terão existido antes do \"25 de Abril\"? Quem ou quê, nessa perspectiva, possuía antes tais virtudes, e quem ou quê enferma hoje dos vícios correspondentes? Um dos réus vem acusado no texto do Programa do Governo: programas \"que minimizam ou ofendem os princípios de um ensino livre e aberto\". E, significativamente, apontam-se disciplinas mais susceptíveis de veicularem carga ideológica: a língua materna, a história, os estudos sociais. Só para se ficar com uma ideia das \"virtudes\" consagradas na orientação do ensino de Português nos programas do ensino liceal aprovados em 1954, cito aqui alguns dos objectivos então preconizados: \"as preocupações dominantes do ensino desta disciplina hão-de ser as de fundamentar solidamente uma cultura e de arraigar no espírito e no coração dos alunos sentimentos elevados de civismo e de amor da Pátria. E mais adiante: \"todos os elementos desta aprendizagem devem contribuir activamente para a educação moral e estética\". Assim,, a \"dignidade\" e a \"liberdade\" no ensino, por exemplo, da literatura portuguesa ficavam pressupostamente garantidas com a indicação de certos manuais fiéis à ideologia do Estado Novo e com a condenação expressa ou tácita de outros, de incontestado I SÉRIE - NÚMERO 10", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "I SÉRIE - NÚMERO 10", 
-   "type": null
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Agostinho Domingues", 
    "text": "valor científico como era e é o caso da História de Literatura, de António José Saraiva e Óscar Lopes. Para cultivar nos alunos \"sentimentos elevados de civismo e de amor da Pátria\" não se hesitava em atraiçoar Camões e a sua epopeia, transformando Os Lusía4as, de canto aberto das grandezas e misérias de um povo em cartilha de nacionalismo tacanho e acéfalo.", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS e do -PCP: Muito bem!", 
-   "type": null
+   "speaker": "Vozes do PS e do -PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Agostinho Domingues", 
    "text": "O Orador: --Posta assim a língua materna ao serviço de. mesquinhos objectivos, alheios a si própria, não admira que estivesse vedado na prática o estudo dos escritores contemporâneos da literatura portuguesa. É que, salvo raras excepções também a inteligência estético-literária estava em oposição frontal ao regime, e. a leitura das suas produções abalava o sistema ...", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Agostinho Domingues", 
    "text": "Para além dos programas, que outros agentes de indignidade e de opressão estarão subjacentes ao texto do Programa do Governo? Serão os professores, cujo papel preponderante na política do ensino é por de mais evidente mas que ficaram quase esquecidos no texto do Programa do Governo?", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Agostinho Domingues", 
    "text": "Para a direita, os programas são garantia de liberdade dignidade, apenas quando, obedecem aos seus fins ideológicos. E os professores, por sua vez, são isentos, quando e só quando professam os seus credos.\nImporta acentuar que, antes e depois de Abril, há professores de diferentes ideologias e sensibilidades. A grande diferença está em que uns se sentiam até 25 de Abril de 1974 como o peixe na água, enquanto outros vestiam - ou lhes vestiam - \"camisas de forças\". No entanto, também a classe docente, no seu conjunto, viveu e profundamente aproveitou da Revolução de Abril: a liberdade restaurada pelos capitães foi aprendida e passada das ideologias aos comportamentos e 'atitudes dos docentes. Há, evidentemente, professores conservadores e professores progressistas; uns são mais ou menos inspirados do marxismo, outros colhem algures a inspiração ideológica para a sua praxe; há-os marxista-leninistas, maoístas, cristãos ou de outras confissões, agnósticos e ateus.\nMas é exactamente essa diversidade ideológica e a coexistência de múltiplas sensibilidades que asseguram o \npluralismo democrático. Receio bem que não seja \no autêntico pluralismo aquele que a \"mudança\" pre \nconiza mas apenas um \"genuíno pluralismo\" (p. 77 \ndo Programa), porque pluralismo só há um o demo \ncrático e mais nenhum e este ficou claramente ga \nrantido no ensino, pelo menos a partir do 1 Governo \nConstitucional. O que se exige dos professores - e \neles sabem-no melhor do que ninguém- é que res \npeitem os educandos. Mas isso decorre dos princípios \npedagógico-didácticos que conduzem o professor a \nassumir-se mais como agente da aprendizagem do \naluno do que como ensinador, considerando-se a si \npróprio, em todo o momento, também educando do \naluno-educador. Do educador reclama-se, acima de \ntudo, que seja estímulo ao espírito crítico, a começar \npelo incentivo da crítica dos outros às suas próprias \nideias e comportamentos. Mas hão pode pedir-se-lhe \no impossível, isto é. que seja neutro. A neutralidade \né paralisia mental e atrofia da vontade. Os professo \nres não são acéfalos nem abúlicos...", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Agostinho Domingues", 
    "text": "25 DE JANEIRO DE 1980 385", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Agostinho Domingues", 
    "text": "Criar \"condições para que a experiência educativa ocorre em ambiente criativo e livre\" (p. 74 do Programa) passa fundamentalmente pelas garantias dadas à seriedade do acto pedagógico em que estão implicados directamente educandos e educadores; indirectamente, os encarregados de educação, os cidadãos em gera! e a própria sociedade. Se, pelo contrário, se considerar que essas condições são antes a existência prévia de modelos ideológicos e escolas à parte para os executar, então não se visa formar homens livres a partir dos jovens em formação, mas antes robots pré-concebidos de acordo com esquemas mentais e objectivos alheios aos mais nobres ideais da educação.\nSr. Presidente, Srs. Deputados: Há no texto do programa da educação aqui apresentado pelo Governo sinais de esperança em que, sinceramente, gostaria de poder acreditar. De qualquer forma, esta Assembleia aprovou o Programa do Governo e cabe-lhe agora vigiar o seu cumprimento em tudo quanto se traduza na melhoria da vida dos Portugueses.\nEstamos de acordo em que o sistema educativo deve \"promover o cumprimento do direito à educação e à formação profissional, aplicando escrupulosamente o princípio de igualdade de oportunidades\".\nCertamente, a nova equipa responsável pelo Ministério da Educação não deixará de reconhecer os sólidos alicerces desse edifício lançados pêlos primeiros Governos Constitucionais de responsabilidade socialista e consolidados pêlos dois últimos Governos.\nNa impossibilidade de me alongar, quero referir apenas a reformulação cio ensino complementar do secundário e o lançamento do pré-escolar oficial. Quanto a este último, foi ele criado pela Lei n.° 5/77, de l de Fevereiro, e funciona hoje em cerca de quatrocentas escolas.\nConvenhamos que é ainda muito pouco. Mas, se atendermos a que se partiu do zero (intencionalmente omito o ensino particular por inacessível à maioria das famílias portuguesas) algum caminho se percorreu. Nesse domínio, quais as promessas dos novos responsáveis pela educarão? A acreditar na letra do Programa do Governo, haveria grandes motivos de esperança. De facto, aplicar \"escrupulosamente)) o princípio da igualdade de oportunidades para satisfação do \"direito à educação e à formação profissional\", implica, para não ir mais longe, estender os jardins-de-infância a todas as regiões do País, garantindo o acesso de todas as crianças a partir dos 3 anos a essas escolas devidamente dotadas de condições materiais e técnicas e dos meios humanos indispensáveis ao seu bom funcionamento.", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr Presidente: Sr. Deputado acabou o seu tempo, queira fazer o favor de abreviar.", 
-   "type": null
+   "speaker": "O Sr Presidente", 
+   "text": "Sr. Deputado acabou o seu tempo, queira fazer o favor de abreviar.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Certamente, Sr. Presidente.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "Certamente, Sr. Presidente.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Se queremos mesmo ser escrupulosos na criação de condições de igualdade de oportunidades para todos os cidadãos nas responsabilidades que cabem ao Ministério da Educação, importa assegurar, desde muito cedo, o pleno desenvolvimento das capacidades da criança. Mas as crianças não partem todas de situações idênticas.\nQualquer professor tem experiência feita das dificuldades de crianças traumatizadas por falta de afecto e de harmonia de relações no agrupamento familiar, como por outro lado, se dá conta do bloqueamento da criança dos meios rurais e suburbanos perante a linguagem da escola, ou seja, a linguagem dos professores e dos programas - a linguagem das classes médias. Mas mais grave ainda é o atraso da criança por não ter crescido em ambiente sócio-cultural que permitisse o cabal \ndesenvolvimento da sua inteligência. Como poderia a criança de medos linguisticamente pobres ter desenvolvido cabalmente as suas faculdades intelectuais se faltavam no ambiente as ideias e as palavras e estruturas verbais correspondentes? \nA criança do campo que entra na escola aos 6-7 anos terá as mesmas oportunidades que o filho da classe média ilustrada que, mesmo entrando também nessa idade, teve em casa uma escola culturalmente mais rica? \nSr. Presidente e Srs. Deputados: De facto, o meu texto era um pouco longo e, por isso, gostaria apenas de acrescentar aquilo que poderá também ser considerado um sinal de esperança. Trata-se do problema da desconcentração e descentralização do Magistério.\nAcontece apenas que o Sr. Ministro da Educação apontou aqui para o seguimento da via traçada pelo ex-Ministro Valente de Oliveira, ou seja, apenas para a desconcentração do Ministério.\nA desconcentração do Ministério levará apenas a colocar delegados nas várias regiões ido País, ou seja, porta-vozes do Poder Central! \nDescentralizar e regionalizar é algo de mais profundo, é fazer aproximar os serviços de (educação dos seus utentes para que, efectivamente, eles os possam controlar. Sem uma efectiva \ndescentralização e uma efectiva regionalização dos serviços do Ministério da Educação não creio que este Ministério possa dar resposta aos grandes problemas que afligem, quer a alunos, quer a professores e a encarregados de educação, quer aos cidadãos em geral deste país.\n_Aplausos do PS, do PC P e do MDP CDE_.", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está ainda inscrito o Sr. Deputado Jorge Lemos, que tem apenas cinco minutos para a sua intervenção, dado que às 11 horas e 50 minutos termina o período de antes da ordem do dia,", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Está ainda inscrito o Sr. Deputado Jorge Lemos, que tem apenas cinco minutos para a sua intervenção, dado que às 11 horas e 50 minutos termina o período de antes da ordem do dia,", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, não precisarei mesmo de tanto tempo.", 
-   "type": null
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, não precisarei mesmo de tanto tempo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, Srs. Deputados: A intervenção que vou aqui produzir não estava prevista para hoje pelo nosso grupo parlamentar. Simplesmente, o facto de alguns de nós terem ouvido o noticiário da RDP hoje, às 8 horas, exigiu que trouxéssemos o problema a esta Assembleia, dado o escândalo de que se reveste.\nHoje, e é apenas um exemplo, a RDP, no seu noticiário das 8 horas, narrou -pormenorizadamente os trabalhos desta Assembleia durante o dia de ontem com uma característica: omitiu as duas intervenções que Deputados do Partido Comunista produziram no período de antes da ordem do dia - uma intervenção sobre o Município da Amadora e sua instalação e uma intervenção sobre uma visita à Escola de António Arroio.", 
-   "type": null
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, Srs. Deputados: A intervenção que vou aqui produzir não estava prevista para hoje pelo nosso grupo parlamentar. Simplesmente, o facto de alguns de nós terem ouvido o noticiário da RDP hoje, às 8 horas, exigiu que trouxéssemos o problema a esta Assembleia, dado o escândalo de que se reveste.\nHoje, e é apenas um exemplo, a RDP, no seu noticiário das 8 horas, narrou -pormenorizadamente os trabalhos desta Assembleia durante o dia de ontem com uma característica: omitiu as duas intervenções que Deputados do Partido Comunista produziram no período de antes da ordem do dia - uma intervenção sobre o Município da Amadora e sua instalação e uma intervenção sobre uma visita à Escola de António Arroio.\n386 I SERIE - NUMERO 10", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "386 I SERIE - NUMERO 10", 
-   "type": null
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
    "text": "Factos como este não dignificam a liberdade de informação em Portugal, factos como este são uma manipulação da informação. Pelo nosso lado, lavramos desde já aqui o nosso veemente protesto pelas omissões das intervenções dos Deputados comunistas nesta Assembleia e esperamos que a RDP ao fazer o balanço, hoje ou amanhã, dos trabalhos de hoje não se esqueça de referir que erguemos aqui a nossa voz para denunciar este escândalo. Estaremos atentos.", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP e do MDP CDE.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Castro Caldas* (PSD): Peço a palavra para prestar um curto esclarecimento, ao Sr. Presidente.", 
-   "type": null
+   "party": "PSD", 
+   "speaker": "Castro Caldas", 
+   "text": "Peço a palavra para prestar um curto esclarecimento, ao Sr. Presidente.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Faça favor.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Castro Caldas* (PSD): Também ouvi o noticiário das 8 horas e devo dizer que não foram só as intervenções do Partido Comunista que foram omitidas. Foram também omitidas intervenções de outras lançadas.", 
-   "type": null
+   "party": "PSD", 
+   "speaker": "Castro Caldas", 
+   "text": "Também ouvi o noticiário das 8 horas e devo dizer que não foram só as intervenções do Partido Comunista que foram omitidas. Foram também omitidas intervenções de outras lançadas.\nO Sr. *Vital Moreira* (PCP): -Não foram, não, e aí é que está!...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Vital Moreira* (PCP): -Não foram, não, e aí é que está!...", 
-   "type": null
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Peço a palavra, Sr. Presidente.\nO Sr. *Presidente*: -Tenha a bondade.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": null
+   "party": "POP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Creio que o Sr. Deputado Castro Caldas, provavelmente, não esteve com atenção ao noticiário ou simplesmente não ouviu que foram explicitamente referidas as intervenções de outras bancadas produzidas ontem nesta Assembleia no período de antes da ordem do dia, designadamente da bancada do Partido Socialista e da bancada do CDS.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: -Tenha a bondade.", 
-   "type": null
-  }, 
-  {
-   "text": "O Sr. *Jorge Lemos* (POP): Creio que o Sr. Deputado Castro Caldas, provavelmente, não esteve com atenção ao noticiário ou simplesmente não ouviu que foram explicitamente referidas as intervenções de outras bancadas produzidas ontem nesta Assembleia no período de antes da ordem do dia, designadamente da bancada do Partido Socialista e da bancada do CDS.", 
-   "type": null
-  }, 
-  {
+   "party": "POP", 
+   "speaker": "Jorge Lemos", 
    "text": "ORDEM DO DIA", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, terminou o período de antes da ordem do dia e entramos, portanto, no período da ordem do dia com a leitura de um pedido de inquérito apresentado pelo Partido Comunista Português.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, terminou o período de antes da ordem do dia e entramos, portanto, no período da ordem do dia com a leitura de um pedido de inquérito apresentado pelo Partido Comunista Português.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido, É o seguinte", 
@@ -637,108 +749,119 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, como sabem, nos termos do artigo 220.° do Regimento, a Assembleia pronunciar-se-á sobre este pedido de inquérito até ao trigéssimo dia posterior à sua publicação no Diário da Assembleia da República, \nDeram ainda entrada na Mesa dois pedidos de autorização: um do Serviço de Coordenação da Extinção da PIDE/DGS e LP, para que o Sr. Deputado Medeiros Ferreira seja ouvido como declarante, no próximo dia 11 de Fevereiro, e embora ele não esteja presente tomou já conhecimento, a avaliar pêlos documentos juntos; outro do Tribunal Judicial de Cascais, para que o Sr. Deputado Barrilaro Ruas compareça naquele Tribunal no próximo dia 29, pelas 10 horas.\nSe não houver qualquer oposição da Câmara, consideram-se autorizados.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, como sabem, nos termos do artigo 220.° do Regimento, a Assembleia pronunciar-se-á sobre este pedido de inquérito até ao trigéssimo dia posterior à sua publicação no Diário da Assembleia da República, \nDeram ainda entrada na Mesa dois pedidos de autorização: um do Serviço de Coordenação da Extinção da PIDE/DGS e LP, para que o Sr. Deputado Medeiros Ferreira seja ouvido como declarante, no próximo dia 11 de Fevereiro, e embora ele não esteja presente tomou já conhecimento, a avaliar pêlos documentos juntos; outro do Tribunal Judicial de Cascais, para que o Sr. Deputado Barrilaro Ruas compareça naquele Tribunal no próximo dia 29, pelas 10 horas.\nSe não houver qualquer oposição da Câmara, consideram-se autorizados.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Passemos agora à apreciação do I e I orçamentos suplementares da Assembleia da República que, como sabem, foram publicados, \nrespectivamente, em 14 e 28 de Dezembro de 1979, no Diário da Assembleia da República, 2. série.\nEstão em discussão.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como não há qualquer intervenção, vamos votar o I e II orçamentos suplementares da Assembleia da República em conjunto, quer na generalidade, quer na especialidade.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetidos à votação, foram aprovados, com votos a favor do PSD, do PS, do PCP, do CDS, do MDP/ ICDE e da UDP e as abstenções do PPM e da Sr.D. Deputada Adelaide Paiva (PSD).\nEntretanto, havia tomado lugar na bancada do Governo o Sr. Ministro do Comércio e Turismo (Basílio Horta).", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "25 DE JANEIRO DE 1980", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "387", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Sr. Presidente:- Passamos à discussão do pedido de urgência para apreciação de proposta de lei n.º 27911, que concede ao Governo autorização para elaborar normas penais e de processo penal \nrelativamente a actividades delituosas contra a economia nacional.\nConsta também deste pedido de urgência a dispensa do exame em comissão, solicitada pelo Governo através de ofício que chegou há pouco à Mesa.\nTem a palavra o Sr. Ministro do Comércio e Turismo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. Ministro do Comércio e Turismo (Basílio Horta): Sr. Presidente, Srs. Deputados: Se a Câmara tiver alguma dúvida sobre o pedido apresentado pelo Governo, terei muito gosto em prestar os \nesclarecimentos adequados.", 
-   "type": "documento"
+   "text": "Sr. Presidente, Srs. Deputados: Se a Câmara tiver alguma dúvida sobre o pedido apresentado pelo Governo, terei muito gosto em prestar os \nesclarecimentos adequados.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, visto não haver oradores inscritos, vai proceder-se à votação do pedido de urgência, para a apreciação da proposta de lei n.º 278/1I, bem como para a dispensa de exame em comissão, solicitado pelo Governo. Quanto ao mais, aplicar-se-á a regra supletiva do artigo 246.11 do Regimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, visto não haver oradores inscritos, vai proceder-se à votação do pedido de urgência, para a apreciação da proposta de lei n.º 278/1I, bem como para a dispensa de exame em comissão, solicitado pelo Governo. Quanto ao mais, aplicar-se-á a regra supletiva do artigo 246.11 do Regimento.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o, Sr.Deputado Carlos, Lage.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o, Sr.Deputado Carlos, Lage.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Carlos Lage* (PS): Sr. Presidente, Srs. Deputados: O PS votou este pedido de urgência e o respectivo processo, tal como tem sido tradição nesta Assembleia. Como é evidente, não nos pronunciámos sobre o fundo da proposta de. lei, que aliás desconhecemos.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Carlos Lage", 
+   "text": "Sr. Presidente, Srs. Deputados: O PS votou este pedido de urgência e o respectivo processo, tal como tem sido tradição nesta Assembleia. Como é evidente, não nos pronunciámos sobre o fundo da proposta de. lei, que aliás desconhecemos.\n0 nosso voto foi no sentido de acelerar um processo que, como já acontecia nas sessões legislativas que antecederam esta, era corrente sancionar-se.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "0 nosso voto foi no sentido de acelerar um processo que, como já acontecia nas sessões legislativas que antecederam esta, era corrente sancionar-se.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Também para uma declaração de voto, tem a palavra o Sr. Deputado Vital Moreira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Também para uma declaração de voto, tem a palavra o Sr. Deputado Vital Moreira.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
+   "text": "Sr. Presidente, Srs. Deputados: Foi tradicional nas anteriores sessões legislativas aprovarem-se os pedidos de urgência. Pela nossa parte não vimos por enquanto, raffi6 para alterar essa posição. Inclusivamente, tratava-se de uma matéria que provadamente exige uma urgência de regulamentação, seja por via de decreto-lei autorizado, seja por via de lei.\nRecordo que esta matéria já foi objecto de uma autorização legislativa, por acaso a este mesmo Ministro, em 16 de Janeiro de 1978. Nessa altura aprovou-se uma lei de autorização com os votos de todos os grupos parlamentares, excepto do Grupo Parlamentar do PSD. Entretanto, passou-se mais de um ano e meio. É pena que a matéria ainda não tenha sido objecto da respectiva regulamentação.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Vital Moreira* (PCP): Sr. Presidente, Srs. Deputados: Foi tradicional nas anteriores sessões legislativas aprovarem-se os pedidos de urgência. Pela nossa parte não vimos por enquanto, raffi6 para alterar essa posição. Inclusivamente, tratava-se de uma matéria que provadamente exige uma urgência de regulamentação, seja por via de decreto-lei autorizado, seja por via de lei.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Recordo que esta matéria já foi objecto de uma autorização legislativa, por acaso a este mesmo Ministro, em 16 de Janeiro de 1978. Nessa altura aprovou-se uma lei de autorização com os votos de todos os grupos parlamentares, excepto do Grupo Parlamentar do PSD. Entretanto, passou-se mais de um ano e meio. É pena que a matéria ainda não tenha sido objecto da respectiva regulamentação.", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
    "text": "0 nosso voto na matéria da urgência não implica qualquer pré-julgamento sobre a própria autorização legislativa em si mesma ou quanto à oportunidade de se legislar sobre esta matéria por decreto-lei ou por lei desta Assembleia.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
    "text": "Entretanto, gostaríamos desde já de perguntar, através do Sr. Ministro do Comércio e Turismo, so o Governo se encontra em condições de cumprir outra das praxes parlamentares felizmente criadas na Assembleia anterior, isto é, se o Governo tenciona fornecer à Assembleia, seja em anteprojecto, seja numa declaração de intenções o mais detalhada possível, uma ideia sobre aquilo que pretende fazer com a autorização que lhe venha a ser concedida.\nSeria conveniente que também aqui o Governo correspondesse a uma praxe parlamentar que consideramos positiva o que. não vemos razão para que não continue a ser seguida.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Ministro do Comércio e Turismo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Ministro do Comércio e Turismo.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Ministro do Comércio e Turismo: Sr. Presidente. Srs. Deputados: \nQueria apenas esclarecer a Câmara de que o Governo já se encontra preparado neste momento para esclarecer e enunciar as grandes linhas de orientação a que irá obedecer o decreto-lei que se propõe elaborar.\nContudo, não as tornaremos públicas neste momento unicamente porque a discussão que aqui está a ter lugar é sobre a urgência, da discussão, do diploma e não sobre o seu fundo.", 
-   "type": "documento"
+   "speaker": "O Sr. Ministro do Comércio e Turismo", 
+   "text": "Sr. Presidente. Srs. Deputados: \nQueria apenas esclarecer a Câmara de que o Governo já se encontra preparado neste momento para esclarecer e enunciar as grandes linhas de orientação a que irá obedecer o decreto-lei que se propõe elaborar.\nContudo, não as tornaremos públicas neste momento unicamente porque a discussão que aqui está a ter lugar é sobre a urgência, da discussão, do diploma e não sobre o seu fundo.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Ministro do Comércio e Turismo", 
    "text": "0 Governo está à disposição da Câmara e das comissões parlamentares respectivas para discutir as linhas orientadoras do diploma que se propõe legislar.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, passo a anunciar a ordem de trabalhos para a sessão da próxima terça-feira, pelas 15 horas: \nratificação n.º 164/I, relativa ao Decreto-Lei n.º 439/78, de 30 de Setembro, que cria a empresa pública denominada Metropolitano de Lisboa; ratificação n.º 178/I, relativa ao Decreto-Lei n.º 53/79, de 24 de Março, que comete aos Governos Civis do Lisboa e Porto o pagamento das despesas de instalação e funcionamento dos bairros referidos no n.º 1 do artigo 1.º do Código Administrativo, bem como a satisfação dos encargos com o pessoal dos mesmos bairros; ratificação n.º 179/I, relativa ao Decreto-Lei n.º 58/79, de 29 de Março, que cria os gabinetes de apoio técnico; finalmente, a ratificação n.º 166/I, relativa ao Decreto-Lei n.º 448/79, de 13 de Dezembro, que aprova o Estatuto da Carreira Docente Universitária.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Está encerrada a sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, passo a anunciar a ordem de trabalhos para a sessão da próxima terça-feira, pelas 15 horas: \nratificação n.º 164/I, relativa ao Decreto-Lei n.º 439/78, de 30 de Setembro, que cria a empresa pública denominada Metropolitano de Lisboa; ratificação n.º 178/I, relativa ao Decreto-Lei n.º 53/79, de 24 de Março, que comete aos Governos Civis do Lisboa e Porto o pagamento das despesas de instalação e funcionamento dos bairros referidos no n.º 1 do artigo 1.º do Código Administrativo, bem como a satisfação dos encargos com o pessoal dos mesmos bairros; ratificação n.º 179/I, relativa ao Decreto-Lei n.º 58/79, de 29 de Março, que cria os gabinetes de apoio técnico; finalmente, a ratificação n.º 166/I, relativa ao Decreto-Lei n.º 448/79, de 13 de Dezembro, que aprova o Estatuto da Carreira Docente Universitária.\nEstá encerrada a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 12 horas.", 
@@ -747,88 +870,107 @@
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Social-Democrata, (PSD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Dinah Serrão Alhandra.\nFernando José da Costa.\nJoão Baptista Machado.\nJoão Vasco de Luz Botelho de Paiva.\nJosé Ângelo Ferreira Correia.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "388", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "José da Assunção Marques.\nJosé Manuel Meneres Sampaio Pimentel.\nManuel Luís Fernandes Malaquias.\nMaria Helena do Rego da C. Salema Roseta.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS.)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Alberto Arons Braga de Carvalho.\nAmadeu da Silva Cruz.\nAntónio Chaves Medeiros.\nAntónio Fernandes da Fonseca.\nAntónio Francisco Barroso Sousa Gomes.\nAntónio Manuel Maldonado Gonelha.\nAquilino Ribeiro Machado.\nArmando dos Santos Lopes.\nCarlos Alberto Costa de Sousa.\nFernando Luís de A. Torres Marinho.\nFrancisco de Almeida Salgado Zenha.\nFrancisco Manuel Marcelo M. Curto.\nHerculano Rodrigues Pires.\nJoão Alfredo Félix Vieira Lima.\nJosé Manuel Niza Antunes.\nJosé Maximiano de A. Almeida Leitão.\nLuís Abílio Conceição Cacito.\nMaria Teresa V. Bastos Ramos Ambrósio.\nRodolfo Alexandrino Susano Crespo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "António Marques Pedrosa. Rosa Maria Reis A. Brandão Represas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Eduardo Leal Loureiro.\nEmídio Ferrão da Costa Pinheiro.\nEugénio Maria Anacoreta Correia.\nHenrique José C. de Meneses P. Morais.\nHenrique Manuel Soares Cruz.\nJoão da Silva Mendes Morgado.\nLuís C. Veloso de Sampaio.\nMaria José Paulo Sampaio.\nNarana Sinai Coissoró.\nRui Eduardo F. Rodrigues", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Alcino Cabral Barreto.\nAmélia Cavaleiro M. de Andrade de Azevedo.\nAntónio Maria de O. Ourique Mendes.\nCarlos Matos Chaves de Macedo.\nFernando José Sequeira Roriz.\nFrancisco José de Sousa Tavares.\nJoaquim Manuel Cabrita Neto.\nJosé Manuel Cochofel da Silva.\nJosé Manuel Medeiros Ferreira.\nLeonardo Eugénio R. Ribeiro de Almeida.\nMário Júlio Montalvão Machado.\nNuno Maria Monteiro Godinho de Matos.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Albano Pereira da Cunha Pina.\nAlberto Marques Antunes.\nAntónio Duarte Arnaut.\nAntónio José Sanches Esteves.\nAntónio Manuel de Oliveira Guterres.\nGualter Viriato Nunes Basílio.\nJaime José Matos da Gama.\nJoão Cardona Gomes Cravinho.\nJoão Joaquim Gomes.\nJosé Luís do Amaral Nunes.\nJúlio Francisco Miranda Calha.\nLuís Filipe Nascimento Madeira.\nManuel Alegre de Melo Duarte.\nManuel António dos Santos.\nManuel Francisco da Costa.\nMaria de Jesus Simões Barroso Soares.\nMário Alberto Nobre Lopes Soares.\nVictor Manuel Ribeiro Constâncio.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Comunista Português (PCP) \nÁlvaro Augusto Veiga de Oliveira. Álvaro Barreirinhas Cunhal. Ângelo Matos Mendes Veloso. António Dias Lourenço da Silva, António Joaquim Gervásio. António da Silva Mota. Carlos Alberto do Vale G. Carvalhas.\nCarlos Alfredo de Brito. Carlos Campos Rodrigues da Costa. Carlos H.\nSaavedra de Aboim Inglez. Dinis Fernandes Miranda. Domingos Abrantes Ferreira. Ercília Carreira Pimenta Talhadas. Francisco Miguel Duarte.\nJaime dos Santos Serra. Jerónimo Carvalho de Sousa. Joaquim Gomes dos Santos. José Ernesto I. Leão de Oliveira. José Manuel Aranha Figueiredo. José Rodrigues Vitoriano. Maria Alda Barbosa Nogueira.\nOctávio Floriano Rodrigues Pato. Zita Maria de Seabra Roseiro.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Centro Democrático Social (CDS) \nAmérico Maria Coelho Gomes de Sá. Francisco António Lucas Pires.\nFrancisco Manuel Lopes V. 0. Dias. João Gomes de Abreu de Uma. José Manuel Rodrigues Casqueiro. Luís Eduardo da Silva Barbosa. Maria Tabita L. F. Mendes Soares. Nuno Kruz Abecasis. Ruy Garcia de Oliveira.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "O REDACTOR PRINCIPAL, Manuel Adolfo de Vasconcelos.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "PREÇO DESTE NÚMERO, 14$00", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "IMPRENSA NACIONAL - CASA DA MOEDA", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

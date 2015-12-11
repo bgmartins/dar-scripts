@@ -156,8 +156,13 @@
   {
    "party": "PSD", 
    "speaker": "Luís Marques Guedes", 
-   "text": "Muito bem!\nVozes do PS: Da noite?!", 
+   "text": "Muito bem!", 
    "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Da noite?!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "A Oradora", 
@@ -2165,51 +2170,88 @@
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Guilherme Silva): Para uma intervenção, tem a palavra a Sr.ª Deputada Ana Manso.", 
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Ana Manso.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "text": "Sr. Presidente, Srs. Ministros, Srs.Secretários de Estado: Enquanto ouvia com atenção a intervenção do Sr.Deputado Manuel Pizarro, na linha da intervenção do Ministro da Saúde, questionava-me sobre que país e de que política de saúde VV. Ex.as falavam.", 
+   "type": "speaker_error"
+  }, 
+  {
+   "speaker": "O Sr. Ministro dos Assuntos Parlamentares", 
+   "text": "Não é da vossa!", 
    "type": "continuacao"
   }, 
   {
-   "text": "A Sr.ª Ana Manso (PSD): Sr. Presidente, Srs. Ministros, Srs.Secretários de Estado: Enquanto ouvia com atenção a intervenção do Sr.Deputado Manuel Pizarro, na linha da intervenção do Ministro da Saúde, questionava-me sobre que país e de que política de saúde VV. Ex.as falavam.", 
+   "speaker": "A Oradora", 
+   "text": "Sim, porque quando se defende a rentabilidade e a eficácia do Serviço Nacional de Saúde em vez da sua sustentabilidade e eficiência, o PS está a pôr em causa o direito dos portugueses à saúde.", 
    "type": "continuacao"
   }, 
   {
-   "text": "O Sr. Ministro dos Assuntos Parlamentares: Não é da vossa!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Oradora: Sim, porque quando se defende a rentabilidade e a eficácia do Serviço Nacional de Saúde em vez da sua sustentabilidade e eficiência, o PS está a pôr em causa o direito dos portugueses à saúde.", 
-   "type": "continuacao"
+   "speaker": "O Sr. Ministro dos Assuntos Parlamentares", 
+   "text": "Não está, não!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Quando se encerram maternidades, serviços de urgência e serviços de atendimento permanente, o Partido Socialista está a dificultar o acesso aos cuidados de saúde e a pôr em causa a equidade e a universalidade do SNS.\nSr. Deputado, chegámos ao ponto de os portugueses aplaudirem quando o Ministro da Saúde vai a um local para dizer que não encerra o que já lá existe. Não me refiro a aplaudirem quando o Ministro vai criar alguma coisa mas, sim, aplaudirem quando, por exemplo, o Ministro não encerra uma maternidade.\nQuando se ameaça com a introdução de taxas moderadoras para as crianças, as grávidas e os desempregados, o PS está a penalizar quase três milhões de portugueses, por sinal os mais pobres e desfavorecidos.\nO Ministro da Saúde diz que sim, o Primeiro-Ministro diz que não, mas, entretanto, a insegurança e a preocupação instalam-se nos portugueses.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. Ministro dos Assuntos Parlamentares: Não está, não!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Quando se encerram maternidades, serviços de urgência e serviços de atendimento permanente, o Partido Socialista está a dificultar o acesso aos cuidados de saúde e a pôr em causa a equidade e a universalidade do SNS.\nSr. Deputado, chegámos ao ponto de os portugueses aplaudirem quando o Ministro da Saúde vai a um local para dizer que não encerra o que já lá existe. Não me refiro a aplaudirem quando o Ministro vai criar alguma coisa mas, sim, aplaudirem quando, por exemplo, o Ministro não encerra uma maternidade.\nQuando se ameaça com a introdução de taxas moderadoras para as crianças, as grávidas e os desempregados, o PS está a penalizar quase três milhões de portugueses, por sinal os mais pobres e desfavorecidos.\nO Ministro da Saúde diz que sim, o Primeiro-Ministro diz que não, mas, entretanto, a insegurança e a preocupação instalam-se nos portugueses.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Quando mais de um terço do custo dos medicamentos é suportado pelas famílias, o PS está a prejudicar e a lesar os orçamentos familiares, principalmente os das pessoas idosas, com menos rendimentos e com doenças crónicas.\nQuadro se cancela a construção de cinco novos hospitais e se atrasa a de outros cinco, o Partido Socialista está a prejudicar mais de cinco milhões de portugueses que vão ter de esperar anos e anos para ver melhorado o seu acesso aos cuidados de saúde.\nEstas medidas, socialmente injustas, agravam a saúde dos portugueses e colocam-nos no topo dos que", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Muito bem!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "A Oradora: Quando mais de um terço do custo dos medicamentos é suportado pelas famílias, o PS está a prejudicar e a lesar os orçamentos familiares, principalmente os das pessoas idosas, com menos rendimentos e com doenças crónicas.\nQuadro se cancela a construção de cinco novos hospitais e se atrasa a de outros cinco, o Partido Socialista está a prejudicar mais de cinco milhões de portugueses que vão ter de esperar anos e anos para ver melhorado o seu acesso aos cuidados de saúde.\nEstas medidas, socialmente injustas, agravam a saúde dos portugueses e colocam-nos no topo dos que", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "A Oradora", 
    "text": "mais gastam.\nSabiam, por exemplo, que 32,5% dos gastos em saúde são pagos directamente do bolso dos portugueses? Obviamente, isto afecta também, e ainda mais, os mais pobres e desfavorecidos.\nCom tudo isto, não admira, pois, a contestação geral que as medidas do Governo têm suscitado, e não só na população em geral. A Ordem dos Médicos tem posto em causa, repetidamente, a qualidade das políticas de saúde do actual Ministro, admitindo «a possibilidade de vir a morrer gente por falta de assistência médica».\nAgora, são mesmo ilustres Deputados do Grupo Parlamentar do PS que ou arrasam a política de saúde do Ministro, como fez o Deputado Manuel Alegre,…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. Ministro dos Assuntos Parlamentares: Precisam de uma muleta!", 
-   "type": "continuacao"
+   "speaker": "O Sr. Ministro dos Assuntos Parlamentares", 
+   "text": "Precisam de uma muleta!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "A Oradora: … ou discordam de medidas propostas pelo Ministro, como sucedeu com outros Deputados, designadamente Nelson Baltazar e Maria Antónia Almeida Santos.\nEntendam-se com o vosso Governo, Srs. Deputados! Sim, porque os ganhos em saúde devem ser obtidos pela via da racionalização e do \nfinanciamento e não à custa do agravamento das despesas e do sofrimento dos doentes ou da inseguranças dos profissionais.\nMais do que encerrar serviços, mais do que pôr os portugueses a pagar mais, a aposta deve ser feita na racionalização dos meios e na melhoria dos cuidados de saúde.\nResta saber até quando apoiarão a teimosia insensível de rentabilizar o Serviço Nacional de Saúde à custa do encerramento de serviços e do sofrimento dos doentes, até quando a política do ziguezague, do faz-de-conta e dos relatórios secretos e para quando a alteração de prioridades e a colocação da política de saúde ao serviço das pessoas e dos doentes.", 
+   "speaker": "A Oradora", 
+   "text": "… ou discordam de medidas propostas pelo Ministro, como sucedeu com outros Deputados, designadamente Nelson Baltazar e Maria Antónia Almeida Santos.\nEntendam-se com o vosso Governo, Srs. Deputados! Sim, porque os ganhos em saúde devem ser obtidos pela via da racionalização e do \nfinanciamento e não à custa do agravamento das despesas e do sofrimento dos doentes ou da inseguranças dos profissionais.\nMais do que encerrar serviços, mais do que pôr os portugueses a pagar mais, a aposta deve ser feita na racionalização dos meios e na melhoria dos cuidados de saúde.\nResta saber até quando apoiarão a teimosia insensível de rentabilizar o Serviço Nacional de Saúde à custa do encerramento de serviços e do sofrimento dos doentes, até quando a política do ziguezague, do faz-de-conta e dos relatórios secretos e para quando a alteração de prioridades e a colocação da política de saúde ao serviço das pessoas e dos doentes.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PSD.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "Guilherme Silva", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos passar à fase de encerramento do debate.\nPara uma intervenção, tem a palavra a Sr.ª Deputada Regina Bastos.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "text": "Sr. Presidente, Sr.as e Srs.Deputados, Srs. Membros do Governo: O estado da saúde em Portugal é, hoje, não só um dos principais motivos de apreensão do PSD como a mais importante preocupação dos portugueses.\nMais do que o desemprego, mais do que a segurança social, é a saúde que inquieta a nossa população.\nA razão de ser desta situação é simples: a saúde está doente! Mais grave: se a saúde tinha problemas há dois anos atrás, hoje está bem pior.\nSó o autismo, a arrogância e a falta de sensibilidade social impedem que o Governo reconheça o que todos os portugueses sentem no seu dia-a-dia.\nOs indicadores são claros. A saúde, hoje, está mais cara. Os custos da saúde aumentaram. Foram novas taxas, impostos e contribuições, tudo ao contrário do prometido. Sempre tudo sobre os mais fracos, os mais pobres e os mais carenciados.\nA saúde está hoje mais distante. Fecham maternidades, fecham urgências, fecham serviços de atendimento permanente. Fecha tudo a eito, sem regras nem critérios. Quem sofre são sempre os mesmos: os mais fracos, os mais pobres e os mais carenciados.", 
+   "type": "speaker_error"
+  }, 
+  {
+   "text": "Muito bem!", 
+   "type": "speaker_error"
+  }, 
+  {
+   "speaker": "A Oradora", 
+   "text": "A saúde está hoje mais difícil e a razão é clara: este Governo gere a saúde numa lógica meramente estatística ou matemática, reduz tudo a somar e a subtrair. Ora, a verdade é esta: a saúde não é um luxo apenas ao alcance de alguns; a saúde é um direito elementar de todos os portugueses.", 
    "type": "continuacao"
   }, 
   {
@@ -2217,88 +2259,83 @@
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Guilherme Silva): Srs. Deputados, vamos passar à fase de encerramento do debate.\nPara uma intervenção, tem a palavra a Sr.ª Deputada Regina Bastos.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "A Sr.ª Regina Ramos Bastos (PSD): Sr. Presidente, Sr.as e Srs.Deputados, Srs. Membros do Governo: O estado da saúde em Portugal é, hoje, não só um dos principais motivos de apreensão do PSD como a mais importante preocupação dos portugueses.\nMais do que o desemprego, mais do que a segurança social, é a saúde que inquieta a nossa população.\nA razão de ser desta situação é simples: a saúde está doente! Mais grave: se a saúde tinha problemas há dois anos atrás, hoje está bem pior.\nSó o autismo, a arrogância e a falta de sensibilidade social impedem que o Governo reconheça o que todos os portugueses sentem no seu dia-a-dia.\nOs indicadores são claros. A saúde, hoje, está mais cara. Os custos da saúde aumentaram. Foram novas taxas, impostos e contribuições, tudo ao contrário do prometido. Sempre tudo sobre os mais fracos, os mais pobres e os mais carenciados.\nA saúde está hoje mais distante. Fecham maternidades, fecham urgências, fecham serviços de atendimento permanente. Fecha tudo a eito, sem regras nem critérios. Quem sofre são sempre os mesmos: os mais fracos, os mais pobres e os mais carenciados.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "A Sr.ª Zita Seabra (PSD): Muito bem!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "A Oradora: A saúde está hoje mais difícil e a razão é clara: este Governo gere a saúde numa lógica meramente estatística ou matemática, reduz tudo a somar e a subtrair. Ora, a verdade é esta: a saúde não é um luxo apenas ao alcance de alguns; a saúde é um direito elementar de todos os portugueses.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Aplausos do PSD.", 
-   "type": "aplauso"
-  }, 
-  {
+   "speaker": "A Oradora", 
    "text": "Por isso, os portugueses tremem de inquietação e de insegurança cada vez que fala o Ministro da Saúde. E tremem com razão.\nNinguém sabe o que o Ministro pensa, em termos de política de saúde, nem qual é a estratégia que defende para o Serviço Nacional de Saúde.\nA única linha de força da política do Governo é no sentido de convidar os portugueses a saírem do sistema público de saúde.\nÉ a política dos três E: encerrar, emagrecer, empobrecer. Encerrar os serviços de saúde; emagrecer o SNS; empobrecer os portugueses.", 
    "type": "continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Oradora: Quando um Governo socialista tem o despudor de admitir o pagamento de taxas moderadoras por parte de grávidas, desempregados ou crianças com menos de 12 anos, já tudo temos de admitir, já tudo pode ser possível.\nA verdade é que a absoluta falta de respeito que o Governo socialista tem demonstrado para com os portugueses, em particular os mais desfavorecidos e carenciados, suscita-nos a maior das preocupações.\nSempre fomos e seremos a favor da exigência, de metas de eficiência e de políticas assentes em critérios de racionalidade. Mas nunca pactuaremos com o liberalismo selvagem que o Governo demonstra com a sua política de saúde.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Quando um Governo socialista tem o despudor de admitir o pagamento de taxas moderadoras por parte de grávidas, desempregados ou crianças com menos de 12 anos, já tudo temos de admitir, já tudo pode ser possível.\nA verdade é que a absoluta falta de respeito que o Governo socialista tem demonstrado para com os portugueses, em particular os mais desfavorecidos e carenciados, suscita-nos a maior das preocupações.\nSempre fomos e seremos a favor da exigência, de metas de eficiência e de políticas assentes em critérios de racionalidade. Mas nunca pactuaremos com o liberalismo selvagem que o Governo demonstra com a sua política de saúde.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "A verdade é esta: não se gere uma rede de cuidados de saúde como se gere uma rede de serviços de cultura ou de lazer. Ambas são necessárias mas a diferença entre uma e outra é a diferença entre a vida e a morte de uma pessoa. A esta diferença chama-se justiça, consciência e sensibilidade social, justamente o que falta a este Governo \nsobranceiro, arrogante e injusto.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Sr. Presidente, Srs. Deputados: Nos últimos tempos, surgiu um facto novo.\nHá meses que o Governo tem na sua posse um estudo sobre a \nsustentabilidade do Serviço Nacional de Saúde, um estudo que o próprio Governo encomendou.\nO problema não está na encomenda do Governo, está no silêncio do Governo. O problema está no facto de o Governo esconder esse relatório.\nEsta questão passou a ser o facto político deste debate. É legítimo perguntar: por que é que o Governo esconde o relatório? Por que é que o Governo oculta o estudo? Por que é que o Governo o não divulga? Por que é que o Governo faz de conta e «assobia para o lado»? Tem o Governo medo da impopularidade das medidas? Quer o Governo adiá-lo para depois das eleições de Lisboa ou para depois da presidência portuguesa da União Europeia? Porquê tanto secretismo e tanto incómodo? Seja o que for, há uma coisa muito clara: é inqualificável o comportamento do Governo. Este comportamento só demonstra má fé, consciência pesada e incapacidade para assumir a verdade e a transparência perante todos os portugueses.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Sr. Presidente, Sr.as e Srs. Deputados: A saúde precisa de \naprendizagem. Esta começa na família e na escola, mas muito pode beneficiar com o envolvimento de toda a sociedade e também do próprio Estado.\nEducar para a saúde, informar sobre hábitos de vida saudáveis e comportamentos de risco são tarefas das quais o Estado não se pode alhear, como, infelizmente, vai sucedendo.\nPorém, quando a saúde falta, é também o Estado o principal garante do restabelecimento de uma pessoa doente. E, para isso, não pode regatear meios. É certo que não pode haver um hospital em cada local e um centro de saúde em cada esquina, mas tem de haver bom senso, ponderação e consciência social.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Que seria se o Serviço Nacional de Saúde deixasse de assegurar o tratamento aos doentes com SIDA? Que seria se o Estado deixasse de combater a toxicodependência? Que seria se, por falta de recursos, o Estado deixasse de acorrer aos mais necessitados, àqueles que não têm seguros de saúde ou a possibilidade de recorrer a serviços privados, em Portugal ou no estrangeiro? Seria um escândalo. Seria impor a lógica liberal do mercado onde deve existir justiça e solidariedade social.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Que seria se o Serviço Nacional de Saúde deixasse de assegurar o tratamento aos doentes com SIDA? Que seria se o Estado deixasse de combater a toxicodependência? Que seria se, por falta de recursos, o Estado deixasse de acorrer aos mais necessitados, àqueles que não têm seguros de saúde ou a possibilidade de recorrer a serviços privados, em Portugal ou no estrangeiro? Seria um escândalo. Seria impor a lógica liberal do mercado onde deve existir justiça e solidariedade social.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Srs. Deputados, sejamos mais liberais na economia. É a livre iniciativa que cria riqueza e gera emprego. Mas não sejamos liberais na saúde, porque isso é afrontar a coesão nacional e a solidariedade social.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Srs. Deputados, sejamos mais liberais na economia. É a livre iniciativa que cria riqueza e gera emprego. Mas não sejamos liberais na saúde, porque isso é afrontar a coesão nacional e a solidariedade social.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "É por isso que a excessiva retirada de serviços, o encerramento, sem critério, de blocos de parto, o", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "aumento indiscriminado das taxas moderadoras e da generalidade dos bens de saúde, todas estas medidas vão traduzindo a progressiva demissão do Governo das suas responsabilidades políticas e sociais.\nEm matéria de saúde, este é o Governo mais liberal que alguma vez governou o nosso país. O problema não está na iniciativa privada e nos seguros de saúde — essa é uma tendência bem-vinda, que deve ser estimulada. O problema, Sr.as e Srs. Deputados, está no descalabro que reina nos serviços públicos de saúde, descalabro que o Governo fomenta e que os mais carenciados sofrem.\nÉ assim que se agravam as desigualdades sociais. É assim que se cria um fosso maior entre os mais ricos e os mais pobres. É assim que se cria injustiça e angústia, é assim que está instalada a insensibilidade social.\nÉ contra este clima que nos revoltamos, e não por razões partidárias mas por elementar exigência de carácter social.\nFazer este debate não é cumprir um ritual, é dar voz a muitos portugueses profundamente desiludidos, angustiados e preocupados.\nFazer este debate não é preencher um calendário, é dar visibilidade à situação caótica que se vive nos serviços de saúde, é denunciar a debandada de médicos do sector público para o sector privado, é reafirmar a instabilidade que reina nos serviços, a desmotivação que existe entre os profissionais de saúde, a insegurança que faz o seu curso nas populações.\nFazer este debate, Sr.as e Srs. Deputados, não é apenas um exercício de oposição, mais do que isso, é mostrar ao Governo o que o Governo não quer ver.\nEm matéria de saúde, Portugal não vai pelo bom caminho. Em matéria de saúde, o País, mais do que mudar de Ministro, precisa de mudar de vida.\nMais do que a nossa preocupação, é essa a preocupação da grande maioria dos portugueses e a verdade é que os portugueses, Srs. Deputados da maioria, merecem mais e merecem muito melhor.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 

@@ -29,120 +29,143 @@
    "type": null
   }, 
   {
-   "text": "SUMÁRIO: O Sr. Presidente declarou aberta a sessão às 15 horas e 15 minutos.\nFoi dado conhecimento de duas moções de censura ao Governo, \napresentadas, respectivamente, pelo PS e pelo PCP.\nA Assembleia aprovou a constituição de uma comissão ad hoc para estudar as propostas de alteração à proposta de lei n.º 24511, relativa ao Orçamento Geral do Estado, e preparar a sua discussão e votação, em Plenário, a realizar no dia seguinte.\nNa discussão do assunto participaram os Srs. Deputados Eduardo Pereira (PS), Veiga de Oliveira (PCP), Bento Gonçalves (PSD), Acácio Barreiros (UDP), Carlos Robalo (CDS), António Guterres (PS) e Pedro Roseta (PSD) e o Sr. Ministro Adjunto do Primeiro-Ministro (Álvaro Monjardino).\nO Sr. Presidente encerrou a sessão às 16 horas e 40 minutos.", 
-   "type": null
+   "speaker": "SUMÁRIO", 
+   "text": "O Sr. Presidente declarou aberta a sessão às 15 horas e 15 minutos.\nFoi dado conhecimento de duas moções de censura ao Governo, \napresentadas, respectivamente, pelo PS e pelo PCP.\nA Assembleia aprovou a constituição de uma comissão ad hoc para estudar as propostas de alteração à proposta de lei n.º 24511, relativa ao Orçamento Geral do Estado, e preparar a sua discussão e votação, em Plenário, a realizar no dia seguinte.\nNa discussão do assunto participaram os Srs. Deputados Eduardo Pereira (PS), Veiga de Oliveira (PCP), Bento Gonçalves (PSD), Acácio Barreiros (UDP), Carlos Robalo (CDS), António Guterres (PS) e Pedro Roseta (PSD) e o Sr. Ministro Adjunto do Primeiro-Ministro (Álvaro Monjardino).\nO Sr. Presidente encerrou a sessão às 16 horas e 40 minutos.", 
+   "type": "continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai proceder-se à chamada.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Vai proceder-se à chamada.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 15 horas e 5 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Partido Socialista (PS)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Adelino Teixeira de Carvalho.\nAgostinho Martins do Vale.\nAlberto Augusto M. da Silva Andrade.\nAlberto Marques Antunes.\nAlfredo Fernando de Carvalho.\nAlfredo Pinto da Silva.\nÁlvaro Monteiro.\nAmadeu da Silva Cruz António Barros dos Santos.\nAntónio Duarte Arnaut.\nAntónio Francisco Barroso Sousa Gomes.\nAntónio José Pinheiro da Silva.\nAntónio José Sanches Esteves.\nAntónio Magalhães da Silva.\nAntónio Manuel Maldonado Gonelha.\nAquilino Ribeiro Machado.\nBeatriz Almeida Cal Brandão.\nCarlos Cardoso Lage.\nCarlos Justino Luís Cordeiro.\nCarlos Manuel da Costa Moreira.\nDelmiro Manuel de Sousa Carreira.\nEduardo Ribeiro Pereira.\nEurico Manuel das Neves Henriques Mendes.\nFernando Jaime Pereira de Almeida.\nFrancisco de Almeida Salgado Zenha.\nFrancisco António Marcos Barracosa.\nFrancisco Igrejas Caeiro.\nFrancisco Manuel Marcelo Monteiro Curto.\nGualter Viriato Nunes Basílio.\nHerculano Rodrigues Pires.\nJaime José Matos da Gama.\nJoão Alfredo Félix Vieira Lima.\nJoão Francisco Ludovico da Costa.\nJoão Joaquim Gomes.\nJorge Augusto Barroso Coutinho.\nJosé Cândido Rodrigues Pimenta.\nJosé Ferreira Dionísio.\nJosé Maximiano de Albuquerque de Almeida Leitão.\nLudovina das Dores Rosado.\nManuel Alegre de Melo Duarte.\nManuel Alfredo Tito de Morais.\nManuel Branco Ferreira Lima.\nManuel Pereira Dias.\nMaria Teresa Vieira Bastos Ramos Ambrósio.\nMário Alberto Nobre Lopes Soares.\nMário Augusto Sottomayor Leal Cardia.\nRaúl d'Assunção Pimenta Rêgo.\nRodolfo Alexandrino Suzano Crespo.\nTeófilo Carvalho dos Santos,", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "2528 I SÉRIE - NÚMERO 70", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Afonso de Sousa Freire de Moura Guedes.\nAmândio Anes de Azevedo.\nAmélia Cavaleiro Monteiro de Andrade de Azevedo.\nAntónio Júlio Simões de Aguiar.\nAugusto Nunes de Sousa.\nCarlos Alberto Coelho de Sousa.\nCasimiro Gomes Pereira.\nFrancisco M. L. de Sá Carneiro.\nJoão Gabriel Soeiro de Carvalho.\nJoão Vasco da Luz Botelho Paiva.\nJosé Adriano Gago Vitorino.\nJosé Ângelo Ferreira Correia.\nJosé Bento Gonçalves.\nJosé Rui Sousa Fernandes.\nManuel Sérgio Vila Lobos Menezes».\nMário Júlio Montalvão Machado.\nNuno Aires Rodrigues dos Santos.\nPedro Manuel Cruz Roseta.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Adriano Vasco da Fonseca Rodrigues.\nAlexandre Correia Carvalho Reigoto.\nÂngelo Alberto Ribas da Silva Vieira.\nCarlos Martins Robalo.\nJoão Carlos Filomeno Malho a Fonseca.\nJoão Gomes de Abreu de Lima.\nJoão José Magalhães Ferreira Pulido de Almeida.\nJoão da Silva Mendes Morgado.\nJoaquim A. da F. P. de Castelo Branco.\nJosé Manuel Macedo Pereira.\nJosé Vicente de Jesus Carvalho Cardoso.\nManuel António de Almeida de Azevedo e Vasconcelos.\nMaria José Paulo Sampaio.\nRui Fausto Fernandes Marrana.\nRui Mendes Tavares.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nAntónio Joaquim Navalha Garcia.\nAntónio Marques Juzarte.\nAntónio Marques Pedrosa.\nCândido de Matos Gago.\nCarlos Alberto do Vale Gomes Carvalhas.\nCarlos Alfredo de Brito.\nCarlos H. S. Aboim Inglês.\nCustódio Jacinto Gingão.\nDomingos Abrantes Ferreira.\nEduardo Sá Matos.\nErcília Carreira Pimenta Talhadas.\nFernanda Peleja Patrício.\nFrancisco Miguel Duarte.\nFernando de Almeida Sousa Marques.\nJaime dos Santos Serra.\nJerónimo Carvalho de Sousa.\nJoaquim da Silva Rocha Felgueiras.\nJorge Manuel Abreu de Lemos.\nJosé Cavalheira Antunes.\nJosé Manuel Maia Nunes de Almeida.\nJosé Manuel Paiva Jara.\nJosé Rodrigues Vitoriano.\nLino Carvalho de Lima.\nManuel Duarte Gomes.\nManuel Mendes Nobre de Gusmão.\nManuel do Rosário Moita.\nMaria Alda Barbosa Nogueira.\nNicolau de Ascensão M. Dias Ferreira.\nRaul Luis Rodrigues.\nSeveriano Pedro Falcão.\nVital Martins Moreira.\nZita Maria de Seabra Roseiro.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "União Democrática Popular (UDP)", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Acácio Manuel de Frias Barreiros.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Independentes", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "António Manuel Barata Portugal.\nAntónio Poppe Lopes Cardoso.\nArtur Videira Pinto da Cunha Leal.\nFrancisco Braga Barroso.\nFrancisco da Costa Lopes Oliveira.\nGabriel Ribeiro da Frada.\nJoão Manuel Ferreira.\nJoaquim Jorge de Magalhães Saraiva da Mota.\nJosé António Nunes Furtado Fernandes.\nJosé Joaquim Lima Monteiro de Andrade.\nJosé Júlio Carvalho Ribeiro.\nReinaldo Jorge Vital Rodrigues.\nVasco da Gama Lopes Fernandes.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Responderam à chamada 129 Srs. Deputados. Temos quórum. Está aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Responderam à chamada 129 Srs. Deputados. Temos quórum. Está aberta a sessão.\n_Eram 15 horas e 15 minutos_.\nEntretanto haviam tomado lugar na bancada do Governo o Sr. Ministro Adjunto do Primeiro-Ministro e vários outros membros do Governo.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "_Eram 15 horas e 15 minutos_.\nEntretanto haviam tomado lugar na bancada do Governo o Sr. Ministro Adjunto do Primeiro-Ministro e vários outros membros do Governo.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, os nossos trabalhos de hoje constam da discussão e votação na especialidade da proposta de lei sobre o Orçamento Geral do Estado. Mas, como há um número elevado de propostas de alteração, que terão de ser discutidas e votadas segundo a ordem de entrada, o artigo a que se referem e a sua classificação, sugeria que os partidos, se assim o entendessem, tomassem a iniciativa de pedir a suspensão da sessão a fim de se efectuar uma reunião para estudar as propostas uma por uma.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, os nossos trabalhos de hoje constam da discussão e votação na especialidade da proposta de lei sobre o Orçamento Geral do Estado. Mas, como há um número elevado de propostas de alteração, que terão de ser discutidas e votadas segundo a ordem de entrada, o artigo a que se referem e a sua classificação, sugeria que os partidos, se assim o entendessem, tomassem a iniciativa de pedir a suspensão da sessão a fim de se efectuar uma reunião para estudar as propostas uma por uma.", 
-   "type": null
+   "party": "PS", 
+   "speaker": "Carlos Laje", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Carlos Laje* (PS): Peço a palavra, Sr. Presidente.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Tenha a bondade.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tenha a bondade.", 
-   "type": null
+   "party": "PS", 
+   "speaker": "Carlos Laje", 
+   "text": "Sr. Presidente, Srs. Deputados: Antes de analisarmos a questão colocada agora com toda a pertinência, queríamos pedir ao Sr. Presidente que lesse as moções de censura ao Governo que deram- entrada na Mesa. Primeiro deu entrada a moção de censura do PS, que eu próprio entreguei na Mesa, seguindo-se a do PCP, entregue pelo Sr. Deputado Carlos Brito.\nA razão deste pedido é para que os órgãos de comunicação social possam divulgar ao País essas moções de censura e para que o Governo não fique na dúvida sobre a entrada da moção de censura do PS, tal como tinha sido anunciado na nossa conferência de imprensa.\n5 DE JUNHO DE 1979", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Carlos Laje* (PS): Sr. Presidente, Srs. Deputados: Antes de analisarmos a questão colocada agora com toda a pertinência, queríamos pedir ao Sr. Presidente que lesse as moções de censura ao Governo que deram- entrada na Mesa. Primeiro deu entrada a moção de censura do PS, que eu próprio entreguei na Mesa, seguindo-se a do PCP, entregue pelo Sr. Deputado Carlos Brito.\nA razão deste pedido é para que os órgãos de comunicação social possam divulgar ao País essas moções de censura e para que o Governo não fique na dúvida sobre a entrada da moção de censura do PS, tal como tinha sido anunciado na nossa conferência de imprensa.", 
-   "type": null
-  }, 
-  {
-   "text": "5 DE JUNHO DE 1979", 
-   "type": null
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Carlos Laje", 
    "text": "O Sr. *Presidente*: -Sr. Deputado Carlos Laje, era minha intenção clarificar primeiro a ordem dos trabalhos desta sessão, após o que anunciaria a apresentação das moções de censura ao Governo e faria a sua leitura.", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Carlos Laje", 
    "text": "Srs. Deputados, deram entrada na Mesa duas moções de censura ao Governo ...", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Carlos Laje", 
    "text": "Aplausos do PS, do PCP, da UDP e dos Deputados independentes Lopes Cardoso, Brás Pinto e Vital Rodrigues .", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Carlos Laje", 
    "text": "... uma do Partido Socialista, outra do Partido Comunista Português.", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "A do Partido Socialista entrou primeiro, acompanhada do respectivo ofício, que diz o seguinte", 
@@ -242,228 +265,275 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Eduardo Pereira* (PS): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Eduardo Pereira", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tenha a bondade.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tenha a bondade.\nO Sr. *Eduardo Pereira* (PS): -Sr. Presidente, o Grupo Parlamentar do Partido Socialista está de acordo com a proposta apresentada por V.\nEx.ª", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Eduardo Pereira* (PS): -Sr. Presidente, o Grupo Parlamentar do Partido Socialista está de acordo com a proposta apresentada por V.\nEx.ª", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Veiga de Oliveira* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tenha a bondade.\n2530", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tenha a bondade.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "2530", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "O Sr. *Veiga de Oliveira* (PCP): -Sr. Presidente, Srs. Deputados: De facto, em anteriores discussões na especialidade da proposta de lei sobre o OGE a Assembleia sempre tem discutido as propostas de alteração em comissão ad hoc, constituída por representantes de todos os grupos parlamentares, com a possibilidade de nela estarem presentes quaisquer outros Deputados que não estejam constituídos em grupo parlamentar, e também com a presença de elementos do Governo, naturalmente capazes de responder a questões práticas e técnicas que se põem à eventual admissão de propostas de alteração.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Estamos de acordo com a proposta do Sr. Presidente mas pedíamos que o Governo designasse os seus representantes para poderem estar presentes a essa reunião da comissão ad hoc.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Sr. *Bento Gonçalves* (PSD): -Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Sr. *Presidente*: -Tenha a bondade.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Sr. Bento Gonçalves (PSD):- Sr. Presidente, Srs. Deputados: 0 PSD também está de acordo, desde que seja assegurada a presença de membros do Governo nessa comissão ad hoc, para discutir em termos técnicos as correcções, que eventualmente se venham a impor por consenso \"dos grupos parlamentares.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Sr. *Acácio Barreiros* (UDP): -Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem V. Ex.ª a palavra.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem V. Ex.ª a palavra.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Acácio Barreiros* (UDP): Sr. Presidente, Srs.. Deputados: A UDP está de acordo com a proposta do Sr. Presidente e com sugestão do PCP para a formação da comissão ad hoc. No entanto, queria sugerir, não sei se isto já está implícito na proposta do Sr. Presidente, que na reunião que se segue seja desde já discutida a metodologia a adoptar em relação à discussão das moções de censura.", 
-   "type": "documento"
+   "party": "UDP", 
+   "speaker": "Acácio Barreiros", 
+   "text": "Sr. Presidente, Srs.. Deputados: A UDP está de acordo com a proposta do Sr. Presidente e com sugestão do PCP para a formação da comissão ad hoc. No entanto, queria sugerir, não sei se isto já está implícito na proposta do Sr. Presidente, que na reunião que se segue seja desde já discutida a metodologia a adoptar em relação à discussão das moções de censura.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Acácio Barreiros", 
    "text": "Aproveito a oportunidade para fazer um esclarecimento, talvez desnecessário, mas que nunca é de mais recordar: que a UDP não apresenta qualquer moção de censura, por o Regimento, do qual discordamos, lho não permitir. A não ser assim, teríamos tomado essa iniciativa antes da aprovação na generalidade da proposta de lei sobre o Orçamento Geral do Estado.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Acácio Barreiros", 
    "text": "O Sr. *Presidente*: 0 CDS não se manifesta?", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Carlos Robalo* (CDS): Quem cala consente.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Carlos Robalo", 
+   "text": "Quem cala consente.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Carlos Robalo", 
    "text": "O Sr. Presidente:.- Srs. Deputados, dado que as propostas de alteração são bastantes, sugeria que interrompêssemos a sessão por uma hora e,.déssemos desde já início à reunião dos grupos parlamentares.\nEntretanto, pergunto aos membros do Governo se podem aceder à proposta dos partidos para se fazerem representar na reunião pelos Ministros que entendesse.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Carlos Robalo", 
    "text": "I SÉRIE - N.RO 70", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. Ministro Adjunto do Primeiro-Ministro (Álvaro Monjardino): Sim, Sr. Presidente. 0 Governo far-se-á representar nessa reunião por membros devidamente qualificados.", 
-   "type": "documento"
+   "text": "Sim, Sr. Presidente. 0 Governo far-se-á representar nessa reunião por membros devidamente qualificados.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "O Sr. *Eduardo Pereira* (PS): -Sr. Presidente, propúnhamos que, nos termos regimentais, se fizesse uma interrupção de meia hora para uma reunião do nosso grupo parlamentar, após o que se iniciaria de imediato a reunião da comissão ad hoc com a presença dos membros do Governo.", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "-O Sr. Ministro Adjunto do Primeiro-Ministro: Peço a palavra, Sr.Presidente.", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Tenha a bondade, Sr. Ministro.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tenha a bondade, Sr. Ministro.\nO Sr. Ministro Adjunto do Primeiro-Ministro: Sr. Presidente, eu entendo que essa reunião é para estudar a metodologia a seguir na discussão na especialidade da proposta de lei sobre o OGE.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. Ministro Adjunto do Primeiro-Ministro: Sr. Presidente, eu entendo que essa reunião é para estudar a metodologia a seguir na discussão na especialidade da proposta de lei sobre o OGE.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Não, Sr. Ministro. Esta reunião é para estudar as propostas de alteração.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Não, Sr. Ministro. Esta reunião é para estudar as propostas de alteração.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Depois disso haverá uma nova reunião do Plenário e, então se decidirá se a discussão na especialidade se faz ou não na comissão.\nad hoc. É assim?", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Depois disso haverá uma nova reunião do Plenário e, então se decidirá se a discussão na especialidade se faz ou não na comissão.\nad hoc. É assim?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
+   "text": "A votação tem de ser feita aqui no Plenário.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Vital Moreira* (PCP): A votação tem de ser feita aqui no Plenário.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Veiga de Oliveira* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem V. Ex.ª a palavra.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem V. Ex.ª a palavra.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
+   "text": "Sr. Presidente, é \nconveniente esclarecer que esta metodologia de trabalho, resulta de uma. imposição constitucional, com a qual concordamos, que diz que algumas leis, e \nnomeadamente a lei do OGE, devem ser votadas \nno Plenário. Sucede, entretanto, que a prática já nos \ndemonstrou, e com alguns prejuízos, que uma discussão e votação na especialidade no Plenário não se pode fazer, em termos de utilidade e até de eficiência, se não for previamente preparada. As propostas de alteração entrecruzam-se, coincidem parcialmente, e a votação feita aqui, sem preparação \nadequada, pode resultar num pandemónio e serem aprovadas coisas que ninguém quis e misteriosamente acabaram por ser votadas.\nPortanto, é para isso que há a comissão ad hoc, que vai, afinal, reduzir as propostas de alteração àquilo que o Plenário deve votar. Mas para essa preparação a presença do Governo é, quanto a nós, \nindispensável, pese embora a circunstância de o Governo vir a ter uma curtíssima vida, porque é ele que deve representar o lado \nadministrativo e técnico das questões.\nNo uso de um direito regimental, proponho ao Sr. Presidente e a todos os grupos parlamentares que não se tenham ilusões e que decidamos já algo \nque possa ser realista. A comissão ad hoc, atendendo ao elevado número de propostas de alteração existentes, pode demorar algumas horas a encontrar \nas fórmulas que são susceptíveis de serem votadas.\n5 DE JUNHO DE 1979", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Veiga de Oliveira* (PCP): Sr. Presidente, é \nconveniente esclarecer que esta metodologia de trabalho, resulta de uma. imposição constitucional, com a qual concordamos, que diz que algumas leis, e \nnomeadamente a lei do OGE, devem ser votadas \nno Plenário. Sucede, entretanto, que a prática já nos \ndemonstrou, e com alguns prejuízos, que uma discussão e votação na especialidade no Plenário não se pode fazer, em termos de utilidade e até de eficiência, se não for previamente preparada. As propostas de alteração entrecruzam-se, coincidem parcialmente, e a votação feita aqui, sem preparação \nadequada, pode resultar num pandemónio e serem aprovadas coisas que ninguém quis e misteriosamente acabaram por ser votadas.\nPortanto, é para isso que há a comissão ad hoc, que vai, afinal, reduzir as propostas de alteração àquilo que o Plenário deve votar. Mas para essa preparação a presença do Governo é, quanto a nós, \nindispensável, pese embora a circunstância de o Governo vir a ter uma curtíssima vida, porque é ele que deve representar o lado \nadministrativo e técnico das questões.\nNo uso de um direito regimental, proponho ao Sr. Presidente e a todos os grupos parlamentares que não se tenham ilusões e que decidamos já algo \nque possa ser realista. A comissão ad hoc, atendendo ao elevado número de propostas de alteração existentes, pode demorar algumas horas a encontrar \nas fórmulas que são susceptíveis de serem votadas.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "5 DE JUNHO DE 1979", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
    "text": "Como o Partido Socialista já pediu a interrupção da sessão por meia hora e nós também tencionávamos pedir uma interrupção, embora não por tanto tempo, somos levados a pensar que o dia de hoje devia ser reservado para o trabalho da comissão ad hoc e que amanhã, com tudo já preparado, se fizesse a sessão plenária para votar na especialidade a proposta de lei do OGE.\nÉ esta -proposta que eu faço a todos os grupos parlamentares.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
    "text": "O Sr. *Presidente*: -Srs. Deputados, aguardo que os grupos parlamentares se manifestem sobre esta proposta.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
    "text": "Tem a palavra o Sr. Ministro Adjunto do Primeiro-Ministro.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
    "text": "O Sr. Ministro Adjunto do Primeiro-Ministro: -Sr. Presidente, continuo a não estar esclarecido. V. Ex.ª havia já decidido que se suspendessem os trabalhos para uma reunião dos grupos parlamentares e eu tinha suposto -e creio que ainda devo continuar a supor que nessa reunião se trocariam impressões sobre o que se faria a seguir, eventualmente sobre a legitimidade ou adequação. desses trabalhos através de uma comissão.\nAssim sendo, volto a perguntar se foi isto que V. Ex.ª entendeu, porque me pareceu agora que havia sobreposição de uma outra proposta. Era apenas esta dúvida que eu queria pôr de momento a V. Ex.ª", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
    "text": "O Sr. *Presidente*: -Sr. Ministro, penso que V. Ex.ª está equivocado, talvez por minha causa.\nEm primeiro lugar, desde há dias que estava marcada uma reunião para o intervalo desta sessão, caso ela decorresse normalmente. Depois, perante as propostas chegadas à Mesa, verificou-se que os trabalhos -como tem vindo a ser aventado não poderiam prosseguir eficazmente se não se fizesse um estudo prévio dessas mesmas propostas.\nDado isto, alvitrei que se fizesse uma reunião exclusivamente, dedicada ao estudo prévio das propostas de alteração à proposta de lei do Orçamento Geral do Estado que têm vindo a dar entrada na Mesa.\nTrata-se, portanto, de duas reuniões inteiramente diferentes.\nEntretanto, alguns partidos sugeriram já que, em virtude do grande número de propostas existentes e com vista à elaboração de um trabalho mais útil e mais profícuo, se encerrasse agora a sessão de hoje, para que amanhã os nossos trabalhos, depois de feito o estudo das propostas, avançassem muito mais rapidamente.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
    "text": "O Sr. Ministro Adjunto do Primeiro-Ministro: Sr. Presidente, se me dá licença, quero dizer que ainda não estou suficientemente elucidado. Uma coisa é uma reunião. de representantes dos grupos parlamentares para um estudo prévio do que se vai fazer e outra coisa é a reunião de uma comissão ad hoc que, eventualmente, prepare a votação na especialidade.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
    "text": "Tinha-me parecido no início que V. Ex.ª falou numa reunião dos grupos parlamentares, independentemente da outra que já estava aprazada, para se definir -eventualmente por consenso dos grupos parlamentares qual a metodologia a seguir, designadamente se deveria ou não ser entregue a uma comissão ad hoc a preparação da votação.\nVolto, portanto, a formular a pergunta: será assim ou será que V. Ex.ª entende e, neste caso, creio que terá de ser feita uma votação dever discutir-se a questão da criação de uma comissão ad hoc para preparar as propostas com vista à sua apreciação?", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: O que se tem em vista, neste momento, é \nprepararem-se as propostas para que a sua discussão seja mais profícua.\nE a outra reunião destinava-se a estabelecer a metodologia das duas moções de censura. De modo que se trata de duas reuniões com assuntos completamente diferentes.\nA ideia que agora surgiu é a de se fazer uma outra reunião para se tratar das propostas e não da metodologia das moções de censura, que será uma reunião diferente e à parte.\nTem a palavra o Sr. Deputado Carlos Robalo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "O que se tem em vista, neste momento, é prepararem-se as propostas para que a sua discussão seja mais profícua.\nE a outra reunião destinava-se a estabelecer a metodologia das duas moções de censura. De modo que se trata de duas reuniões com assuntos completamente diferentes.\nA ideia que agora surgiu é a de se fazer uma outra reunião para se tratar das propostas e não da metodologia das moções de censura, que será uma reunião diferente e à parte.\nTem a palavra o Sr. Deputado Carlos Robalo.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Carlos Robalo* (CDS): Sr. Presidente, pedi a palavra para fazer uma proposta.\nPenso que V. Ex.ª poderia interromper agora a sessão e fazer seguidamente uma reunião com os líderes dos partidos e com um representante do Governo -para chegarmos a uma conclusão, porque me parece extraordinariamente difícil estabelecer-se um plano de discussão em termos de plenário.\nE sugeria mais a V. Ex.ª: que depois essa mesma reunião continuasse para se discutir a metodologia da discussão das moções de censura.\nPenso que seria mais fácil e que ganharíamos tempo se todo este processo se desenvolvesse já no gabinete do Sr. Presidente, com a presença dos representantes dos partidos e do Governo.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Carlos Robalo", 
+   "text": "Sr. Presidente, pedi a palavra para fazer uma proposta.\nPenso que V. Ex.ª poderia interromper agora a sessão e fazer seguidamente uma reunião com os líderes dos partidos e com um representante do Governo -para chegarmos a uma conclusão, porque me parece extraordinariamente difícil estabelecer-se um plano de discussão em termos de plenário.\nE sugeria mais a V. Ex.ª: que depois essa mesma reunião continuasse para se discutir a metodologia da discussão das moções de censura.\nPenso que seria mais fácil e que ganharíamos tempo se todo este processo se desenvolvesse já no gabinete do Sr. Presidente, com a presença dos representantes dos partidos e do Governo.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Carlos Robalo", 
    "text": "O Sr. *Presidente*: -Tem a palavra o Sr. Deputado Acácio Barreiros.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Carlos Robalo", 
    "text": "O Sr. Acácio Barreiros (UDP):- É para dizer, Sr. Presidente, que penso que a experiência tem demonstrado que a proposta do Sr. Deputado Carlos Robalo é a mais indicada. Os grupos parlamentares e o Governo reuniam-se e, voltaríamos depois ao Plenário, onde até se torna difícil estabelecer uma metodologia para a votação das próprias propostas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Carlos Robalo", 
    "text": "O Sr. *Presidente*: -Isso é o que temos estado a dizer, Sr. Deputado.\nTem a palavra o Sr. Deputado António Guterres.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Sr. Presidente, é só para recordar que existe uma subcomissão da Comissão de Economia, Finanças e Plano que foi quem preparou o relatório da apresentação a Plenário para votação na generalidade da proposta de lei do Orçamento.\nNesse sentido, parecer-me-ia útil, no caso de o Sr. Presidente concordar, que a reunião dos grupos parlamentares fosse desde logo assessorada pelos elementos da subcomissão respectiva, para que a discussão, no plano técnico, da preparação do debate, na espe-", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr. Presidente, é só para recordar que existe uma subcomissão da Comissão de Economia, Finanças e Plano que foi quem preparou o relatório da apresentação a Plenário para votação na generalidade da proposta de lei do Orçamento.\nNesse sentido, parecer-me-ia útil, no caso de o Sr. Presidente concordar, que a reunião dos grupos parlamentares fosse desde logo assessorada pelos elementos da subcomissão respectiva, para que a discussão, no plano técnico, da preparação do debate, na espe- 2532 I SÉRIE - NÚMERO 70", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "2532 I SÉRIE - NÚMERO 70", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "António Guterres", 
    "text": "cialidade da proposta de lei do Orçamento pudesse ser travada por essas pessoas, que me parecem ser aquelas que estão mais dentro dos assuntos e em melhores condições para o fazerem.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Com certeza, Sr. Deputado. Aliás, isso até já tinha sido alvitrado aqui na Mesa.\nPortanto, Srs. Deputados, vamos interromper a sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Com certeza, Sr. Deputado. Aliás, isso até já tinha sido alvitrado aqui na Mesa.\nPortanto, Srs. Deputados, vamos interromper a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 15 horas e 40 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está reaberta a sessão. Eram 16 horas e 35 minutos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está reaberta a sessão. Eram 16 horas e 35 minutos.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, na reunião efectuada estabeleceu-se a composição de duas comissões. Uma, que está já a trabalhar, irá organizar e disciplinar por matérias, e até pela classificação do próprio Regimento, as propostas de alteração à proposta de lei do Orçamento, a fim de amanhã poderem ser discutidas e votadas com mais simplicidade e maior economia de tempo. A outra comissão - que também irá começar a trabalhar - estudará a metodologia da discussão dás moções de censura hoje apresentadas.\nComo os trabalhos de ambas são demorados, ficou resolvido que se encerraria agora a sessão e que os trabalhos prosseguiriam às 9 horas e 30 minutos de \namanhã.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, na reunião efectuada estabeleceu-se a composição de duas comissões. Uma, que está já a trabalhar, irá organizar e disciplinar por matérias, e até pela classificação do próprio Regimento, as propostas de alteração à proposta de lei do Orçamento, a fim de amanhã poderem ser discutidas e votadas com mais simplicidade e maior economia de tempo. A outra comissão - que também irá começar a trabalhar - estudará a metodologia da discussão dás moções de censura hoje apresentadas.\nComo os trabalhos de ambas são demorados, ficou resolvido que se encerraria agora a sessão e que os trabalhos prosseguiriam às 9 horas e 30 minutos de \namanhã.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Sr. Presidente, Srs. Deputados: \nEvidentemente que estou de acordo com tudo o que acaba de ser combinado, até porque estive presente nessa reunião em nome do Grupo Parlamentar do PSD, mas quero precisar que não existem duas comissões.\nHá uma comissão que está a trabalhar, conforme o Sr. Presidente disse, e que amanhã apresentará o seu trabalho e, em nosso entendimento, há uma reunião dos presidentes dos grupos parlamentares que estava convocada desde a semana passada, que não é comissão alguma, e que vai tratar da tramitação das moções de censura hoje apresentadas.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Sr. Presidente, Srs. Deputados: \nEvidentemente que estou de acordo com tudo o que acaba de ser combinado, até porque estive presente nessa reunião em nome do Grupo Parlamentar do PSD, mas quero precisar que não existem duas comissões.\nHá uma comissão que está a trabalhar, conforme o Sr. Presidente disse, e que amanhã apresentará o seu trabalho e, em nosso entendimento, há uma reunião dos presidentes dos grupos parlamentares que estava convocada desde a semana passada, que não é comissão alguma, e que vai tratar da tramitação das moções de censura hoje apresentadas.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, foi isso que eu quis dizer.\nA sessão de amanhã começa, portanto, às 9 horas e 30 minutos.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Está encerrada a sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, foi isso que eu quis dizer.\nA sessão de amanhã começa, portanto, às 9 horas e 30 minutos.\nEstá encerrada a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 16 horas e 40 minutos.", 
@@ -472,112 +542,137 @@
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Albano Pereira da Cunha Pina.\nAlberto Arons Braga de Carvalho.\nAntónio Carlos Ribeiro Campos.\nAntónio Chaves Medeiros.\nAntónio Fernando Marques Ribeiro Reis.\nAntónio Jorge Moreira Portugal.\nAntónio Manuel de Oliveira Guterres.\nAvelino Ferreira Loureiro Zenha.\nDieter Dellinger. Edmundo Pedro.\nEtelvina Lopes de Almeida.\nFernando Reis Luís.\nFlorêncio Joaquim Quintas Matias.\nFlorival da Silva Nobre.\nFrancisco de Assis de Mendonça Lino Neto.\nJerónimo da Silva Pereira.\nJoão da Silva.\nJoaquim José Catanho de Meneses.\nJoaquim Oliveira Rodrigues.\nJosé Macedo Fragateiro.\nJúlio Francisco Miranda Calha.\nLuís Abílio da Conceição Cacito.\nLuís Alfredo Cardoso Monteiro.\nLuís José Godinho Cid.\nManuel do Carmo Mendes.\nManuel Francisco Costa.\nManuel Joaquim Paiva Pereira Pires.\nManuel Lencastre Menezes de Sousa Figueiredo.\nMaria Emília de Melo Moreira da Silva.\nPedro Amadeu de Albuquerque dos Santos Coelho.\nTelmo Ferreira Neto.\nVictor Fernandes de Almeida.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Anatólio Manuel dos Santos Vasconcelos.\nArmando António Correia.\nEduardo José Vieira.\nJosé Manuel Meneres Sampaio Pimentel.\nJosé Theodoro de Jesus da Silva.\nManuel Henriques Pires Fontoura.\nMaria Helena do Rego da Costa Salema Roseta.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Adelino Manuel Lopes Amaro da Costa.\nAntónio Jacinto Martins Canaverde.\nBasílio Adolfo Mendonça Horta da Franca.\nEmídio Ferrão da Costa Pinheiro.\nFrancisco Manuel L. V. Oliveira Dias.\nJosé Cunha Simões.\nJosé Manuel Cabral Fernandes.\nLuís Esteves Ramires.\nNuno Krus Abecasis.\nRui Eduardo Ferreira Rodrigues Pena.\nVítor Afonso Pinto da Cruz.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Georgete de Oliveira Ferreira.\nHermenegilda Rosa Camolas Pacheco Pereira.\nJoaquim Gomes dos Santos.\nOctávio Floriano Rodrigues Pato.\nVictor Henrique Louro de Sá.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Independentes", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Amantino Marques Pereira de Lemos.\nAntónio Augusto Gonçalves.\nAntónio Joaquim Veríssimo.\nAntónio Jorge Duarte Rebelo de Sousa.\nAntónio Jorge de O. Aires Rodrigues.\nAntónio Luciano Pacheco de Sousa Franco.\nArcanjo Nunes Luís. Fernando Adriano Pinto.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "5 DE JUNHO DE 1979 2533", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Francisco Barbosa da Costa.\nJoão António Martelo de Oliveira.\nJoão Lucílio Cacela Leitão.\nJosé Alberto Ribeiro.\nJosé Justiniano Tabuada Brás Pinto.\nJosé Manuel Ribeiro Sérvulo Correia.\nJúlio Maria Alves da Silva.\nManuel Cardoso Vilhena de Carvalho.\nManuel Cunha Rodrigues.\nManuel Valentim Pereira Vilar.\nOlívio da Silva França.\nRúben José de Almeida Raposo.\nVictor Hugo Mendes dos Santos.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António Alberto Monteiro de Aguiar.\nAntónio Cândido Miranda Macedo.\nAntónio Fernandes da Fonseca.\nArmando F. C. Pereira Bacelar.\nArmando dos Santos Lopes.\nBento Elísio de Azevedo.\nCarlos Alberto Andrade Neves.\nCarlos Manuel Natividade da Costa Candal.\nFernando Tavares Loureiro.\nFrancisco Cardoso Pereira de Oliveira.\nJoaquim Manuel Barros de Sousa.\nJoaquim Sousa Gomes Carneiro.\nJosé dos Santos Francisco Vidal.\nJosé Gomes Fernandes.\nJosé Luís do Amaral Nunes.\nJosé Manuel Niza Antunes Mendes.\nJosé Maria Parente Mendes Godinho.\nLuís Filipe Nascimento Madeira.\nMaria de Jesus Simões Barroso Soares.\nSérgio Augusto Nunes Simões.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Álvaro Barros Marques de Figueiredo.\nAntónio Augusto Lacerda de Queiroz.\nAntónio Coutinho Monteiro de Freitas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António José dos Santos Moreira da Silva.\nArnaldo Ângelo Brito Lhamas.\nCristóvão Guerreiro Norte.\nFernando José da Costa.\nFernando José Sequeira Roriz.\nLuís Fernando Cardoso Nandim de Carvalho.\nMaria Élia Brito Câmara.\nNicolau Gregório de Freitas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Álvaro Dias de Sousa Ribeiro.\nÁlvaro Manuel Brandão Estêvão.\nAntónio Simões Costa.\nCarlos Alberto Faria de Almeida.\nDiogo Pinto de Freitas do Amaral.\nEugénio Maria Nunes Anacoreta Correia.\nFrancisco António Lucas Pires.\nHenrique José Cardoso Menezes Pereira de Morais.\nJoão Lopes Porto.\nJosé Duarte de Almeida Ribeiro e Castro.\nJosé Luís Rebocho de Albuquerque Christo.\nLuís Aníbal de Sá de Azevedo Coutinho.\nNarana Sinai Coissoró.\nRui Garcia de Oliveira.\nWalter Francisco Burmester Cudell", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Jorge do Carmo da Silva Leite.\nJosé Manuel da Costa Carreira Marques.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Independentes", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Américo de Sequeira.\nAntídio das Neves Costa.\nAntónio Egídio Fernandes Loja.\nAntónio Joaquim Bastos Marques Mendes.\nCarlos Galvão de Melo.\nCarmelinda Maria dos Santos Pereira.\nJosé Gonçalves Sapinho.\nJosé Ferreira Júnior.\nMário Fernando de Campos Pinto.\nRui Manuel Parente Chancerelle de Machete.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "PREÇO DESTE NÚMERO 4$00", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "IMPRENSA NACIONAL - CASA DA MOEDA", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

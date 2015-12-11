@@ -33,8 +33,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 15 horas e 20 minutos.", 
@@ -43,17 +44,19 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Abílio de Mesquita Araújo Guedes.\nAlberto Cerqueira de Oliveira.\nAlberto Monteiro de Araújo.\nAlexandre Azevedo Monteiro.\nÁlvaro Cordeiro Dâmaso.\nÁlvaro José Martins Viegas.\nAmândio dos Anjos Gomes.\nAmândio Santa Cruz Basto Oliveira.\nAmérico de Sequeira.\nAntónio Abílio Costa.\nAntónio Augusto Ramos.\nAntónio de Carvalho Martins.\nAntónio Fernandes Ribeiro.\nAntónio Joaquim Correia Vairinhos.\nAntónio Jorge Santos Pereira.\nAntónio José de Carvalho.\nAntónio Manuel Lopes Tavares.\nAntónio Maria Ourique Mendes.\nAntónio Paulo Martins Pereira Coelho.\nAntónio Sérgio Barbosa de Azevedo.\nAntónio da Silva Bacelar.\nAristides Alves do Nascimento Teixeira.\nArlindo da Silva André Moreira.\nArmando de Carvalho Guerreiro da Cunha.\nArménio dos Santos.\nArnaldo Ângelo Brito Lhamas.\nBelarmino Henriques Correia.\nCarlos Lélis da Câmara Gonçalves.\nCarlos Manuel Oliveira da Silva.\nCarlos Manuel Pereira Baptista.\nCasimiro Gomes Pereira.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nDomingos Duarte Lima.\nDomingos da Silva e Sousa.\nDulcíneo António Campos Rebelo.\nEduardo Alfredo de Carvalho P. da Silva.\nErcília Domingues M. P. Ribeiro da Silva.\nEvaristo de Almeida Guerra de Oliveira.\nFernando Barata Rocha.\nFernando José Antunes Gomes Pereira.\nFernando dos Reis Condesso.\nFilipe Manuel Silva Abreu.\nFlausino José Pereira da Silva.\nFrancisco Antunes da Silva.\nFrancisco Mendes Costa.\nGuido Orlando de Freitas Rodrigues.\nGuilherme Henrique V. Rodrigues da Silva.\nHilário Torres Azevedo Marques.\nJaime Carlos Marta Soares.\nJaime Gomes Mil-Homens.\nJoão Álvaro Poças Santos.\nJoão Costa da Silva.\nJoão Domingos F. de Abreu Salgado.\nJoão José Pedreira de Matos.\nJoão José da Silva Maças.\nJoão Maria Ferreira Teixeira.\nJoaquim Eduardo Gomes.\nJoaquim Vilela de Araújo.\nJorge Paulo Seabra Roque da Cunha.\nJosé Alberto Puig dos Santos Costa.\nJosé de Almeida Cesário.\nJosé Álvaro Machado Pacheco Pereira.\nJosé Assunção Marques.\nJosé Augusto Ferreira de Campos.\nJosé Augusto Santos Silva Marques.\nJosé Francisco Amaral.\nJosé Guilherme Pereira Coelho dos Reis.\nJosé Lapa Pessoa Paiva.\nJosé Leite Machado.\nJosé Luís Bonifácio Ramos.\nJosé Luís de Carvalho Lalanda Ribeiro.\nJosé Manuel da Silva Torres.\nJosé Mário Lemos Damião.\nJosé Pereira Lopes.\nLuís António Martins.\nLuís Filipe Garrido Pais de Sousa.\nLuís Filipe Meneses Lopes.\nLuís Manuel Costa Geraldes.\nLuís Manuel Neves Rodrigues.\nLuís da Silva Carvalho.\nManuel António Sá Fernandes.\nManuel Augusto Pinto Barros.\nManuel Coelho dos Santos.\nManuel Ferreira Martins.\nManuel Maria Moreira.\nMargarida Borges de Carvalho.\nMaria Antónia Pinho e Melo.\nMaria da Conceição U. de Castro Pereira.\nMaria Luísa Lourenço Ferreira.\nMaria Leonor Beleza M. Tavares.\nMaria Manuela Aguiar Moreira.\nMaria Teresa Pinto Basto Gouveia.\nMary Patrícia Pinheiro e Lança.\nMário Ferreira Bastos Raposo.\nMário de Oliveira Mendes dos Santos.\nMateus Manuel Lopes de Brito.\nMiguel Fernando C. de Miranda Relvas.\nPedro Augusto Cunha Pinto.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Limpo Salvada.\nRui Manuel Parente Chancerelle de Machete.\nValdemar Cardoso Alves.\nVasco Francisco Aguiar Miguel.\nVirgílio de Oliveira Carneiro.\nWalter Lopes Teixeira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -131,186 +134,175 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* (Reinaldo Gomes): Deram entrada na Mesa e foram admitidos os seguintes diplomas: projecto de lei n.º 536/V, apresentado pelo Sr. Deputado João Amaral e outros, do PCP, que adapta a composição e forma de eleição da presidência das assembleias distritais ao regime introduzido pela segunda revisão constitucional, que baixou à 6.ª Comissão; projecto de lei n.º 537/V, apresentado pela Sr.ª Deputada Apolónia Teixeira e outros, do PCP, propondo a elevação da povoação de Cercal do Alentejo à categoria de vila, que também baixou à 6.ª Comissão; projecto de lei n.º 538/V, apresentado pelo Sr. Deputado Octávio Teixeira e outros, do PCP, sobre a revisão da Lei de Enquadramento do Orçamento do Estado (Lei n.º 40/83, de 13 de Dezembro), que baixou à 7.\" Comissão; e projecto de deliberação n.º 83/V, apresentado pelo Grupo Parlamentar do Partido Socialista, propondo que a Assembleia da República delibere efectuar um debate, com a presença do Ministro das Finanças, para esclarecer a opinião pública das circunstancias, responsabilidades e consequências decorrentes das operações de aplicação do ouro pelo Banco de Portugal junto da Drexel Company.", 
-   "type": "deputado_continuacao"
+   "party": "Reinaldo Gomes", 
+   "speaker": "Secretário", 
+   "text": "Deram entrada na Mesa e foram admitidos os seguintes diplomas: projecto de lei n.º 536/V, apresentado pelo Sr. Deputado João Amaral e outros, do PCP, que adapta a composição e forma de eleição da presidência das assembleias distritais ao regime introduzido pela segunda revisão constitucional, que baixou à 6.ª Comissão; projecto de lei n.º 537/V, apresentado pela Sr.ª Deputada Apolónia Teixeira e outros, do PCP, propondo a elevação da povoação de Cercal do Alentejo à categoria de vila, que também baixou à 6.ª Comissão; projecto de lei n.º 538/V, apresentado pelo Sr. Deputado Octávio Teixeira e outros, do PCP, sobre a revisão da Lei de Enquadramento do Orçamento do Estado (Lei n.º 40/83, de 13 de Dezembro), que baixou à 7.\" Comissão; e projecto de deliberação n.º 83/V, apresentado pelo Grupo Parlamentar do Partido Socialista, propondo que a Assembleia da República delibere efectuar um debate, com a presença do Ministro das Finanças, para esclarecer a opinião pública das circunstancias, responsabilidades e consequências decorrentes das operações de aplicação do ouro pelo Banco de Portugal junto da Drexel Company.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, estão em apreciação os n.ºs 64 e 65 do Diário.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, estão em apreciação os n.ºs 64 e 65 do Diário.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Visto não haver objecções, consideram-se aprovados.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos proceder à discussão, na generalidade, da proposta de lei n.º 143/V, que adita um artigo à Lei n.ºs 38/87, de 23 de Dezembro (Lei Orgânica dos Tribunais Judiciais), e dá nova redacção aos artigos 18.º, 55.º, 72.º, 79.º, 81.º e 82.º \nPara uma intervenção, tem a palavra o Sr. Ministro da Justiça.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Ministro da Justiça (Laborinho Lúcio): Sr. Presidente, Srs.Deputados: Vários são, todos sabemos, os problemas que afectam em geral os sistemas judiciários e, em consequência disso, obviamente, o sistema judiciário português.\nEntre eles, dois problemas, todavia, têm especial realce nas nossas preocupações: por um lado, o que se prende com a lentidão da resposta da máquina judiciária e, por outro lado, o que se liga à carência de instrumentos que permitem uma qualidade acrescida na administração da justiça.\nÉ fácil elaborar o diagnóstico, mas é difícil assumir os rumos da mudança. Se pretendemos encontrar uma causa comum a esse défice de funcionamento do sistema judiciário, vamos, certamente, lobrigar a disfunção existente entre a celeridade e o dinamismo da mudança ocorrida no todo social e, portanto, na realidade confrontada com a estática do próprio sistema.\nColoca-se, por isso, perante nós o desafio fundamental, desafio de Estado, de introduzir no sistema judiciário - agora e com um atraso indesejado mas real - a capacidade de, rapidamente, assumir aquela que foi a velocidade adquirida pela realidade e pelo todo social.\nTrata-se, desde logo, de uma questão de índole e de raiz cultural e é importante - embora em termos sumários, elaborando apenas meros tópicos de reflexão - trazer aqui três ou quatro elementos que nos permitam concluir depois qual a linha de rumo a seguir.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, Srs.Deputados: Vários são, todos sabemos, os problemas que afectam em geral os sistemas judiciários e, em consequência disso, obviamente, o sistema judiciário português.\nEntre eles, dois problemas, todavia, têm especial realce nas nossas preocupações: por um lado, o que se prende com a lentidão da resposta da máquina judiciária e, por outro lado, o que se liga à carência de instrumentos que permitem uma qualidade acrescida na administração da justiça.\nÉ fácil elaborar o diagnóstico, mas é difícil assumir os rumos da mudança. Se pretendemos encontrar uma causa comum a esse défice de funcionamento do sistema judiciário, vamos, certamente, lobrigar a disfunção existente entre a celeridade e o dinamismo da mudança ocorrida no todo social e, portanto, na realidade confrontada com a estática do próprio sistema.\nColoca-se, por isso, perante nós o desafio fundamental, desafio de Estado, de introduzir no sistema judiciário - agora e com um atraso indesejado mas real - a capacidade de, rapidamente, assumir aquela que foi a velocidade adquirida pela realidade e pelo todo social.\nTrata-se, desde logo, de uma questão de índole e de raiz cultural e é importante - embora em termos sumários, elaborando apenas meros tópicos de reflexão - trazer aqui três ou quatro elementos que nos permitam concluir depois qual a linha de rumo a seguir.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "2450 I SÉRIE - NÚMERO 73", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "Todos sabemos que no domínio do pensamento jurídico, por um lado, e no domínio das opções de organização, por outro, temos um sistema tributário ainda do pensamento do século XV: por um lado, a figura do homem abstracto, definido filosoficamente, considerado, também abstractamente, igual e livre; e, por outro lado, a noção de simplicidade de conhecimento, que reconduziu o pensamento à tentativa, lograda, da afirmação da ciência pura e que, no domínio do direito normativo em geral e do direito judiciário em particular, conduziu à noção, hoje ultrapassada, de que a justiça se reduzia a uma mera técnica e de que os aplicadores do direito, por isso mesmo, não eram outra coisa senão simples técnicos neutros do direito.\nEra a prevalência, ainda e então, da célebre frase de Montesquieu para quem o juiz não é mais do que a boca que pronuncia as palavras da lei; era a prevalência do jurídico sobre o social; era, sobretudo, a prevalência da técnica sobre a realidade. A realidade evoluiu, não evoluiu apenas agora, e sobretudo o pós-guerra trouxe-nos uma concepção radicalmente oposta.\nAo homem abstractamente livre e igual sucedeu-se o homem concreto, situado, realmente desigual e diferente; à simplicidade buscada do conhecimento sucedeu-se a complexidade encontrada do conhecimento; à noção de objectividade pura sucedeu-se a noção complexa de \nobjectividade e de subjectividade; à ideia procurada de ciência pura sucedeu-se a realidade encontrada de conhecimento pluridimensional e interdisciplinar; à noção de que o direito se referia exclusivamente a valores sucedeu-se a noção concreta de que p direito estabelecia a síntese entre valores e comportamentos. Isto é, a referência do homem filosófico, que definia os grandes elementos aos quais o direito se deveria referenciar, foi completada pela referência do homem antropológico, concreto, definido na sua diferença e na diferença dos seus comportamentos, surgindo, assim, o problema da justiça como realidade humana a definir, em cada caso, perante as propostas, elas próprias de raiz sociológica que cada caso propunha.\nAplicar o direito, administrar a justiça, deixou, assim, de ser uma mera fórmula em que o Estado, puramente árbitro, intervinha para ele próprio, em decisões abstractas, transportar para o concreto da vida a abstracção da lei, para passar a ser um acto moral de intervenção humanizada, individualizada, procurando não apenas o primado abstracto da lei mas, sobretudo, o primado concreto da justiça de cada caso.\nEra a linha de pensamento de Cabral de Moncada e de Manuel Andrade; era a recepção definitiva no todo cultural que subjazia à evolução da realidade de uma ideia dinâmica em que a relação entre o direito e a vida era um acto de cerzideira em que o magistrado, o advogado, os vários operadores judiciários eram chamados, como - mediadores, ao desafio definitivo de levar o direito à vida e não àquele outro, que vinha do período anterior, de reduzir a vida à expressão do direito, como se este fosse a essência de cada um e de todos.", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Ao lado disto o desenvolvimento tecnológico explodia e, para lá de uma concepção de fundo daquilo que deveria ser a \nadministração da justiça, surgia agora uma proposta de novos instrumentos dinâmicos que permitiam responder a uma outra eficácia, em termos de celeridade na resposta, e por isso também, por essa via, em termos de uma justiça mais real e mais concreta.\nA realidade corria, a realidade correu!... A realidade, felizmente!, não é compaginável no texto frio de uma norma jurídica. Simplesmente, o sistema judiciário português, reduzido como pólo único, real e efectivo de administração da justiça à comarca, não se deu conta de que a comarca olhava o sistema um pouco à maneira de Teixeira Gomes. Era a ideia romântica da comarca sertaneja; era a ideia do fim de tarde ameno onde estridulavam as gargalhadas do Dr. Chimenes nas diatribes que dirigia ao conservador.\nE, enquanto isto, a realidade corria e o sistema anquilosava-se. Era - se quisessem, utilizando metáfora diferente - a capacidade que o sistema tinha, ao nível da comarca, de encontrar nesta o velho Café República, diante do qual ou dentro do qual se discutia Sarajevo e se pensava criticamente analisar o primeiro conflito mundial; este tinha a dimensão de Vila Velha e não realmente a dimensão que lhe cabia.\nÉ por isso fundamental hoje reconhecer, por um lado, a comarca como elemento cultural, estrutural, do sistema judiciário, mas aí introduzir a modificação substantiva de fundo, aquela que, reconhecendo o golpe de asa de quem tem o dever de realizá-la e, simultaneamente, é capaz de introduzir modificações estruturais que respondam ao problema da lentidão e da carência de instrumentos, que inicialmente referi.\nÉ por isso fundamental hoje que, numa política séria, honesta, assumida, de descentralização, se tenha a noção de que descentralização não é pulverização, mas sim concentração diversificada.\nÉ por isso fundamental hoje permitir que aqueles que tem sobre si a responsabilidade de administrar justiça detenham os instrumentos possíveis que o progresso produziu e por isso a capacidade instrumental de intervir nos problemas novos, na sua dimensão nova e com a sua capacidade nova de resposta..\nÉ por isso fundamental que outro espaço seja criado para que aí possamos fazer convergir, sobretudo, os instrumentos indispensáveis para que todos eles, congraçados na perspectiva interdisciplinar que vos referi, possam permitir que aqueles que estão, no fundo, à frente da responsabilidade de administrar justiça possam fazê-lo com a capacidade que esses novos instrumentos lhe vão proporcionar.\nAí está, por isso, agora de novo, como novo pólo potenciador de uma nova perspectiva de administração da justiça, como verdadeiro núcleo de capacidade, e por isso como verdadeiro núcleo de resposta, o círculo judicial. Círculo judicial no qual há que fazer convergir, então sim, optimizando o sistema, todos os instrumentos indispensáveis a uma moderna administração da justiça, instrumentos de reinserção social, qualidades específicas de investigação criminal, novas filosofias e instrumentos de medicina legal, tudo o que se prenda com o serviço social dos tribunais - a peritagem, consultadoria jurídica \nespecializada e tecnicamente preparada, a informática a servir como instrumento de mobilização e celeridade de resposta; a documentação actualizada, permitindo, por isso, que a resposta dos tribunais seja também actualizada à evolução que no domínio do espírito e do pensamento se vai verificando, formação de quadros e abertura à comunidade.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Ao lado disto o desenvolvimento tecnológico explodia e, para lá de uma concepção de fundo daquilo que deveria ser a \nadministração da justiça, surgia agora uma proposta de novos instrumentos dinâmicos que permitiam responder a uma outra eficácia, em termos de celeridade na resposta, e por isso também, por essa via, em termos de uma justiça mais real e mais concreta.\nA realidade corria, a realidade correu!... A realidade, felizmente!, não é compaginável no texto frio de uma norma jurídica. Simplesmente, o sistema judiciário português, reduzido como pólo único, real e efectivo de administração da justiça à comarca, não se deu conta de que a comarca olhava o sistema um pouco à maneira de Teixeira Gomes. Era a ideia romântica da comarca sertaneja; era a ideia do fim de tarde ameno onde estridulavam as gargalhadas do Dr. Chimenes nas diatribes que dirigia ao conservador.\nE, enquanto isto, a realidade corria e o sistema anquilosava-se. Era - se quisessem, utilizando metáfora diferente - a capacidade que o sistema tinha, ao nível da comarca, de encontrar nesta o velho Café República, diante do qual ou dentro do qual se discutia Sarajevo e se pensava criticamente analisar o primeiro conflito mundial; este tinha a dimensão de Vila Velha e não realmente a dimensão que lhe cabia.\nÉ por isso fundamental hoje reconhecer, por um lado, a comarca como elemento cultural, estrutural, do sistema judiciário, mas aí introduzir a modificação substantiva de fundo, aquela que, reconhecendo o golpe de asa de quem tem o dever de realizá-la e, simultaneamente, é capaz de introduzir modificações estruturais que respondam ao problema da lentidão e da carência de instrumentos, que inicialmente referi.\nÉ por isso fundamental hoje que, numa política séria, honesta, assumida, de descentralização, se tenha a noção de que descentralização não é pulverização, mas sim concentração diversificada.\nÉ por isso fundamental hoje permitir que aqueles que tem sobre si a responsabilidade de administrar justiça detenham os instrumentos possíveis que o progresso produziu e por isso a capacidade instrumental de intervir nos problemas novos, na sua dimensão nova e com a sua capacidade nova de resposta..\nÉ por isso fundamental que outro espaço seja criado para que aí possamos fazer convergir, sobretudo, os instrumentos indispensáveis para que todos eles, congraçados na perspectiva interdisciplinar que vos referi, possam permitir que aqueles que estão, no fundo, à frente da responsabilidade de administrar justiça possam fazê-lo com a capacidade que esses novos instrumentos lhe vão proporcionar.\nAí está, por isso, agora de novo, como novo pólo potenciador de uma nova perspectiva de administração da justiça, como verdadeiro núcleo de capacidade, e por isso como verdadeiro núcleo de resposta, o círculo judicial. Círculo judicial no qual há que fazer convergir, então sim, optimizando o sistema, todos os instrumentos indispensáveis a uma moderna administração da justiça, instrumentos de reinserção social, qualidades específicas de investigação criminal, novas filosofias e instrumentos de medicina legal, tudo o que se prenda com o serviço social dos tribunais - a peritagem, consultadoria jurídica \nespecializada e tecnicamente preparada, a informática a servir como instrumento de mobilização e celeridade de resposta; a documentação actualizada, permitindo, por isso, que a resposta dos tribunais seja também actualizada à evolução que no domínio do espírito e do pensamento se vai verificando, formação de quadros e abertura à comunidade.", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "11 DE MAIO DE 1990 2451", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "Este era o desafio e era fundamental que o círculo judicial se assumisse, ele mesmo, como uma qualidade acrescida. E para se assumir como qualidade acrescida foram criados, e aí estão!, os tribunais de círculo.\nÉ importante referir que os tribunais de círculo não foram, nem devem ser, tidos nunca como uma essência em si mesmos considerados. Não importa discutir os tribunais de círculo analisando a bondade ou a falta de bondade deles próprios em si mesmos considerados, mas vê-los também como mais uma peça, uma outra, um outro instrumento de qualidade acrescida nessa globalidade interinstitucional que tem no Centro de Estudos Judiciários o núcleo fundamental.\nE os tribunais de círculo foram criados. Ao longo de cerca de dois anos de funcionamento pôde o Governo verificar que, por esta ou por aquela razão, porventura por razões mais próprias daquilo que é um valor inelutável, que é o da independência do próprio magistrado, se geraram conflitos negativos de competência e, por via destes, o sistema voltou a não responder com a celeridade desejada e, ao mesmo tempo, bloqueou parcialmente o funcionamento que até aí vinha existindo.\nA questão que se punha era então a de saber se se deveria optar pela facilidade, inverter a filosofia e voltar, com passadas de sendeiro, à velha comarca, ao velho Café República, à tarde prasenteira de Teixeira Gomes, ou se, pelo contrário, era importante assumir a necessidade de inverter interpretativamente o diploma e trazer aqui, claramente demonstrada, a ideia firme de que o Governo está disposto a modificar estruturalmente o sistema para que, no fim, modificado ele e operacionalisado, possamos ter a tranquilidade de espírito e a coragem moral de termos sido nós a geração que, posta perante a necessidade de mudar, não olhou a mudança contemplativamente, como se fosse alvo de um discurso esotérico, mas assumiu-a de «mangas arregaçadas», assumindo por isso também moralmente aquilo que são os destinos e a força representativa de quem exerce a função política.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: E é por isso mesmo que aqui está o Governo dizendo que alguma coisa não correu bem, assumindo publicamente que assim foi e assumindo por sua própria iniciativa e risco, agora, a necessidade de mudar.\nApresentámos à Assembleia da República uma proposta de lei de natureza sobretudo interpretativa que vai pretender e, na nossa esperança, conduzir à realidade diversa que é agora aquela que vai, no fundo, consubstanciar--se em tribunais de círculo realmente instalados de modo a permitirem que entre eles e as comarcas se não multipliquem os conflitos de competência e que, portanto, eles próprios surjam também no sistema como uma realidade de qualidade acrescida.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "E é por isso mesmo que aqui está o Governo dizendo que alguma coisa não correu bem, assumindo publicamente que assim foi e assumindo por sua própria iniciativa e risco, agora, a necessidade de mudar.\nApresentámos à Assembleia da República uma proposta de lei de natureza sobretudo interpretativa que vai pretender e, na nossa esperança, conduzir à realidade diversa que é agora aquela que vai, no fundo, consubstanciar--se em tribunais de círculo realmente instalados de modo a permitirem que entre eles e as comarcas se não multipliquem os conflitos de competência e que, portanto, eles próprios surjam também no sistema como uma realidade de qualidade acrescida.", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Por eles se avançará na celeridade de resposta do sistema, por eles se avançará no aumento dos instrumentos de qualidade da administração da justiça e com eles, por isso, seremos capazes de nos rever num quadro judicial à medida do nosso tempo e à medida do nosso espírito.\nPoderia, nesta primeira intervenção, ter-se o Governo refugiado numa análise puramente técnica de natureza estritamente jurídica sobre o conteúdo do diploma, ele próprio um diploma essencialmente jurídico.\nTodavia isso não era correcto e à estratégia que o diploma encerra era importante acrescentar uma ética política de discussão. O que está em causa, no fundo, não é analisar a bondade técnica deste diploma, mas sim abrir a todo o Parlamento e, por isso, ao povo português a discussão sobre o círculo judicial e sobre esta mudança estrutural de funcionamento do sistema judiciário que é o seu.\nÉ bom que não nos esqueçamos nunca de que os tribunais administram a justiça em nome do povo e que é, portanto, necessário que seja a partir da voz do povo que eles encontram os caminhos concretos da organização da justiça que lhes cabe administrar.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Por eles se avançará na celeridade de resposta do sistema, por eles se avançará no aumento dos instrumentos de qualidade da administração da justiça e com eles, por isso, seremos capazes de nos rever num quadro judicial à medida do nosso tempo e à medida do nosso espírito.\nPoderia, nesta primeira intervenção, ter-se o Governo refugiado numa análise puramente técnica de natureza estritamente jurídica sobre o conteúdo do diploma, ele próprio um diploma essencialmente jurídico.\nTodavia isso não era correcto e à estratégia que o diploma encerra era importante acrescentar uma ética política de discussão. O que está em causa, no fundo, não é analisar a bondade técnica deste diploma, mas sim abrir a todo o Parlamento e, por isso, ao povo português a discussão sobre o círculo judicial e sobre esta mudança estrutural de funcionamento do sistema judiciário que é o seu.\nÉ bom que não nos esqueçamos nunca de que os tribunais administram a justiça em nome do povo e que é, portanto, necessário que seja a partir da voz do povo que eles encontram os caminhos concretos da organização da justiça que lhes cabe administrar.", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "A Sr.ª Natália Correia (PRD): -Muito bem!", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "O Sr. *João Salgado* (PSD): -Muito bem!", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Seria por isso mais fácil, do ponto de vista da pura estratégia política, argumentar na técnica e esconder a ética, mas é para nós mais fácil trazer a ética e deixar que a estratégia seja apenas um elemento de simples diversão relativamente àquela.\nE por isso que aqui estamos para vos propor este desafio, que é de todos, porque é colectivo, de intervirmos definitivamente no sistema judiciário.\nSr. Presidente, Srs. Deputados: Não podemos permitir, na nossa geração de homens, de mulheres, de políticos, que o sistema judiciário português continue a ser essa monumental sala de espera de uma mudança que nunca chega, sendo certo que, ainda por cima, o paradoxo vai tão longe que nós somos simultaneamente quem aguarda contemplativamente na sala de espera e, ao mesmo tempo, quem assume a responsabilidade de fazer a mudança.\nÉ esta, no fundo, a alternativa que proponho a cada um de vós: \ncontinuamos à espera, a discursar sobre a mudança que os outros não fizeram, ou vamos assumir claramente o risco - que há sempre risco! - de sermos nós, a partir desta Casa e a partir das nossas consciências, a fazer a mudança real que o sistema judicial português exige em nome do cidadão, que nós somos e que representamos?", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Seria por isso mais fácil, do ponto de vista da pura estratégia política, argumentar na técnica e esconder a ética, mas é para nós mais fácil trazer a ética e deixar que a estratégia seja apenas um elemento de simples diversão relativamente àquela.\nE por isso que aqui estamos para vos propor este desafio, que é de todos, porque é colectivo, de intervirmos definitivamente no sistema judiciário.\nSr. Presidente, Srs. Deputados: Não podemos permitir, na nossa geração de homens, de mulheres, de políticos, que o sistema judiciário português continue a ser essa monumental sala de espera de uma mudança que nunca chega, sendo certo que, ainda por cima, o paradoxo vai tão longe que nós somos simultaneamente quem aguarda contemplativamente na sala de espera e, ao mesmo tempo, quem assume a responsabilidade de fazer a mudança.\nÉ esta, no fundo, a alternativa que proponho a cada um de vós: \ncontinuamos à espera, a discursar sobre a mudança que os outros não fizeram, ou vamos assumir claramente o risco - que há sempre risco! - de sermos nós, a partir desta Casa e a partir das nossas consciências, a fazer a mudança real que o sistema judicial português exige em nome do cidadão, que nós somos e que representamos?", 
+   "type": "continuacao"
   }, 
   {
    "text": "Aplausos do PSD, do PS e do PRD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado José Manuel Mendes.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado José Manuel Mendes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Manuel Mendes* (PCP): Sr. Ministro da Justiça, a Lei Orgânica dos Tribunais Judiciais saiu desta Câmara ajoujada ao peso de inúmeras críticas, algumas das quais, então consideradas espúrias, acabam de ser assumidas pelo seu discurso.\nA verdade é que a malha tramitacional era labiríntica, permitia disfuncionalidades a montante e a jusante, e a realidade aí veio demonstrar, através da pulverização dos conflitos negativos de competência, que muito urgia ter considerado na matriz originária, aquando do processo legiferador. Não se fez tal e a experiência é demonstrativa de situações que, a muitos níveis, podemos e elevemos considerar escabrosas.\nO exemplo do juiz de Penafiel que tinha de deslocar-se do Porto e cujos processos andavam com um atraso de quatro anos, porque apenas se movimentava andando à boleia, é apenas sintomático de um quadro em que as", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "Sr. Ministro da Justiça, a Lei Orgânica dos Tribunais Judiciais saiu desta Câmara ajoujada ao peso de inúmeras críticas, algumas das quais, então consideradas espúrias, acabam de ser assumidas pelo seu discurso.\nA verdade é que a malha tramitacional era labiríntica, permitia disfuncionalidades a montante e a jusante, e a realidade aí veio demonstrar, através da pulverização dos conflitos negativos de competência, que muito urgia ter considerado na matriz originária, aquando do processo legiferador. Não se fez tal e a experiência é demonstrativa de situações que, a muitos níveis, podemos e elevemos considerar escabrosas.\nO exemplo do juiz de Penafiel que tinha de deslocar-se do Porto e cujos processos andavam com um atraso de quatro anos, porque apenas se movimentava andando à boleia, é apenas sintomático de um quadro em que as 2452 I SÉRIE - NÚMERO 73", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "2452 I SÉRIE - NÚMERO 73", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
    "text": "insuficiências são de toda a ordem e o mau funcionamento actual dos tribunais de círculo impunha efectivas mudanças no terreno concreto da legislação.\nO Sr. Ministro da Justiça apresenta-nos hoje uma proposta de lei em que se procura salvar o regime, em que se procura fazer com que a tão glosada mudança estrutural possa aparecer desinquinada de malefícios congénitos e, salvando o regime, «aggiomando-o», melhorando-o, potenciar uma maior aproximação do direito em relação aos cidadãos, uma maior celerização das suas instâncias e uma maior - permitam-me a expressão - justeza dos seus procedimentos. Mas continuam por adoptar transformações essenciais nos códigos adjectivos, designadamente o civil, bem como outros instrumentos que, de há muito, temos vindo a reclamar.\nImpõe-se, nesta primeira fase, uma vez que a bancada do PCP terá oportunidade de expender os seus pontos de vista com detalhe, dentro de momentos, fazer duas perguntas concretas.\nUma primeira: foram as soluções preconizadas pelo Governo testadas, em termos de previsibilidade técnica, quanto à sua bondade e \nexequibilidade? \nUma segunda: é ou não verdade que um critério de previsão em relação à definição do percurso processual pode introduzir factores de fluidez e de indesejável instabilização? \nSe fosse possível, gostaria que o Sr. Ministro respondesse a estas questões que não deixam de situar-se também, de algum modo, num plano que excede a reflexão meramente técnica e que apelam ainda a uma judicação de natureza ético-política, nos termos em que pretendeu situar a abordagem que agora iniciamos.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar, tem a palavra o Sr. Ministro da Justiça.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar, tem a palavra o Sr. Ministro da Justiça.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Ministro da Justiça: Sr. Deputado José Manuel Mendes, \nevidentemente, não vou concluir das palavras que acaba de proferir que o problema dos tribunais de círculo se reduz à dificuldade que o juiz de Penafiel tem em se deslocar para o Porto.\nPenso que se trata de uma intervenção sistémica para todo o País, mas é óbvio que, se o magistrado judicial que exerce funções em Penafiel, se desloca do Porto e à boleia, não é por pertencer ao tribunal de círculo. De facto, não tem qualquer necessidade de se deslocar do Porto para Penafiel para integrar o tribunal de círculo, mas sempre teria de se deslocar do Porto para Penafiel se fosse juiz da comarca e não creio que se «descesse» de juiz do tribunal de círculo a juiz de comarca tivesse mais facilidade de transporte do que a que tem como juíz do tribunal de círculo.\nExistem casos pontuais concretos muito mais próximos de situações que, porventura, têm a ver com o sistema e é óbvio que o Governo não deixa de estar preocupado com as condições pessoais e profissionais dos magistrados que exercem a nobre função de administrar a justiça!...\nMas, não deixando de estar preocupado, não pode, evidentemente, reconduzir as situações concretas do sistema para imputá-las como efeitos perversos da criação do tribunal de círculo.\nNão há qualquer relação entre o tribunal de círculo e a eventual situação de dificuldade de deslocação do juiz de Penafiel, que, porventura autorizado, reside no Porto.\nPor outro lado, é evidente que - e assumi isso sem qualquer tipo de dificuldade - era necessário introduzir alterações, embora de natureza sobretudo interpretativa, à Lei Orgânica dos Tribunais Judiciais. O facto de eu ter assumido essa posição não causou qualquer tipo de perplexidade ao Governo - e espero bem que não cause qualquer tipo de perplexidade à oposição!...\nÉ exactamente pelo risco de, porventura, se poder, nas novas modificações que se introduzem no sistema, vir a criar alguma disfunção que, na generalidade dós casos, os sistemas não evoluem e quando são chamados, de uma vez por todas, a intervir, a diferença que vai entre eles e a realidade é tal que, então, as alterações são quase de natureza revolucionária e não apenas de natureza reformista.\nÉ importante medir a dimensão do risco e aceitar, quando se introduz uma alteração de fundo, que algum desse risco possa ser potenciado e depois ter outra vez a qualidade política e ética de publicamente assumir o que eventualmente foi negativo aquando da primeira intervenção, tendo sempre a noção clara de que o acervo final é largamente positivo.\nE de facto, hoje, quando propomos introduções de algumas alterações, do ponto de vista interpretativo, à Lei Orgânica dos Tribunais Judiciais, fazemo-lo com a convicção clara de que a filosofia que presidiu à elaboração do diploma era a correcta e, por isso, estamos aqui para introduzir mecanismos de melhoria de funcionamento num sistema que hoje é claramente um sistema que tem qualidade e que - cremos - vai, a breve prazo, potenciar a qualidade da administração da justiça.\nQuanto ao problema relacionado com o Código de Processo Civil, devo salientar que se trata de uma situação diferente: se um diploma de natureza organizativa, como é este, pode ser sujeito a uma fase com resquícios de experimentalismo, um diploma com a estrutura do Código de Processo Civil já não pode, porque se prende directamente, do ponto de vista substantivo axiológico, com os interesses do cidadão, e aí a experiência transformaria sempre o cidadão em cobaia dela própria.\nPor isso, o Governo, independentemente do espectáculo em que poderia traduzir-se a apresentação rápida do novo Código de Processo Civil, entende que deve atenuar o espectáculo para, mais uma vez, fazer sobrevalecer a seriedade da sua actuação.\nO Código de Processo Civil está em fase final de revisão, durante este ano será apresentado para discussão e no próximo ano teremos um novo Código de Processo Civil conjugado com a nova Lei Orgânica dos Tribunais Judiciais, bem como um novo sistema judiciário em \nfuncionamento, com segurança, permitindo que o cidadão, tranquilamente & de uma vez por todas, encare os tribunais como um serviço que o serve e não como um espaço de recusa de participação.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Sr. Ministro da Justiça", 
+   "text": "Sr. Deputado José Manuel Mendes, evidentemente, não vou concluir das palavras que acaba de proferir que o problema dos tribunais de círculo se reduz à dificuldade que o juiz de Penafiel tem em se deslocar para o Porto.\nPenso que se trata de uma intervenção sistémica para todo o País, mas é óbvio que, se o magistrado judicial que exerce funções em Penafiel, se desloca do Porto e à boleia, não é por pertencer ao tribunal de círculo. De facto, não tem qualquer necessidade de se deslocar do Porto para Penafiel para integrar o tribunal de círculo, mas sempre teria de se deslocar do Porto para Penafiel se fosse juiz da comarca e não creio que se «descesse» de juiz do tribunal de círculo a juiz de comarca tivesse mais facilidade de transporte do que a que tem como juíz do tribunal de círculo.\nExistem casos pontuais concretos muito mais próximos de situações que, porventura, têm a ver com o sistema e é óbvio que o Governo não deixa de estar preocupado com as condições pessoais e profissionais dos magistrados que exercem a nobre função de administrar a justiça!...\nMas, não deixando de estar preocupado, não pode, evidentemente, reconduzir as situações concretas do sistema para imputá-las como efeitos perversos da criação do tribunal de círculo.\nNão há qualquer relação entre o tribunal de círculo e a eventual situação de dificuldade de deslocação do juiz de Penafiel, que, porventura autorizado, reside no Porto.\nPor outro lado, é evidente que - e assumi isso sem qualquer tipo de dificuldade - era necessário introduzir alterações, embora de natureza sobretudo interpretativa, à Lei Orgânica dos Tribunais Judiciais. O facto de eu ter assumido essa posição não causou qualquer tipo de perplexidade ao Governo - e espero bem que não cause qualquer tipo de perplexidade à oposição!...\nÉ exactamente pelo risco de, porventura, se poder, nas novas modificações que se introduzem no sistema, vir a criar alguma disfunção que, na generalidade dós casos, os sistemas não evoluem e quando são chamados, de uma vez por todas, a intervir, a diferença que vai entre eles e a realidade é tal que, então, as alterações são quase de natureza revolucionária e não apenas de natureza reformista.\nÉ importante medir a dimensão do risco e aceitar, quando se introduz uma alteração de fundo, que algum desse risco possa ser potenciado e depois ter outra vez a qualidade política e ética de publicamente assumir o que eventualmente foi negativo aquando da primeira intervenção, tendo sempre a noção clara de que o acervo final é largamente positivo.\nE de facto, hoje, quando propomos introduções de algumas alterações, do ponto de vista interpretativo, à Lei Orgânica dos Tribunais Judiciais, fazemo-lo com a convicção clara de que a filosofia que presidiu à elaboração do diploma era a correcta e, por isso, estamos aqui para introduzir mecanismos de melhoria de funcionamento num sistema que hoje é claramente um sistema que tem qualidade e que - cremos - vai, a breve prazo, potenciar a qualidade da administração da justiça.\nQuanto ao problema relacionado com o Código de Processo Civil, devo salientar que se trata de uma situação diferente: se um diploma de natureza organizativa, como é este, pode ser sujeito a uma fase com resquícios de experimentalismo, um diploma com a estrutura do Código de Processo Civil já não pode, porque se prende directamente, do ponto de vista substantivo axiológico, com os interesses do cidadão, e aí a experiência transformaria sempre o cidadão em cobaia dela própria.\nPor isso, o Governo, independentemente do espectáculo em que poderia traduzir-se a apresentação rápida do novo Código de Processo Civil, entende que deve atenuar o espectáculo para, mais uma vez, fazer sobrevalecer a seriedade da sua actuação.\nO Código de Processo Civil está em fase final de revisão, durante este ano será apresentado para discussão e no próximo ano teremos um novo Código de Processo Civil conjugado com a nova Lei Orgânica dos Tribunais Judiciais, bem como um novo sistema judiciário em \nfuncionamento, com segurança, permitindo que o cidadão, tranquilamente & de uma vez por todas, encare os tribunais como um serviço que o serve e não como um espaço de recusa de participação.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Queira terminar, Sr. Ministro! \nDe acordo com o que está acordado, V. Ex.ª dispõe de cinco minutos para responder, mas a Mesa tem por hábito avisar os oradores quando atingem os três minutos, que é o tempo regimental.\nDeste modo, V. Ex.ª dispõe ainda de, aproximadamente, dois minutos para concluir a sua resposta.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Ministro! \nDe acordo com o que está acordado, V. Ex.ª dispõe de cinco minutos para responder, mas a Mesa tem por hábito avisar os oradores quando atingem os três minutos, que é o tempo regimental.\nDeste modo, V. Ex.ª dispõe ainda de, aproximadamente, dois minutos para concluir a sua resposta.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Muito obrigado pela informação, Sr. Presidente! \nVou responder rapidamente às duas questões que me foram colocadas.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Muito obrigado pela informação, Sr. Presidente! \nVou responder rapidamente às duas questões que me foram colocadas.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "11 DE MAIO DE 1990 2453", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "As soluções agora propostas foram testadas no Centro de Estudos Judiciários, que se assumiu como espaço piloto de experimentação, e é por isso que, neste momento, dizemos aqui que estamos profundamente convencidos de que os conflitos negativos de competência terminarão com a entrada em vigor do novo diploma.\nO critério de previsão que o Sr. Deputado José Manuel Mendes referiu não envolve qualquer dificuldade, pois não se trata de um critério de previsão fluído nas mãos do aplicador do direito, mas de um critério de previsão prévio, que o legislador utilizou para legislar em termos objectivos e definitivos e que agora não são susceptíveis de interpretação correctiva.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Octávio Teixeira* (PCP): Sr. Presidente, peço a palavra para, ao abrigo da figura de interpelação à Mesa e em virtude de o meu grupo parlamentar pretender dar agora uma conferencia de imprensa, solicitarmos à Mesa a interrupção dos trabalhos por 30 minutos.", 
+   "party": "PCP", 
+   "speaker": "Octávio Teixeira", 
+   "text": "Sr. Presidente, peço a palavra para, ao abrigo da figura de interpelação à Mesa e em virtude de o meu grupo parlamentar pretender dar agora uma conferencia de imprensa, solicitarmos à Mesa a interrupção dos trabalhos por 30 minutos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PRD", 
+   "speaker": "Barbosa da Costa", 
+   "text": "Sr. Presidente, se me permite, solicito também à Mesa que, apôs a interrupção agora solicitada pelo PCP, os trabalhos se mantenham suspensos por mais 30 minutos.\nGostaria igualmente de anunciar que vamos apresentar na Mesa um requerimento solicitando a abertura de um inquérito parlamentar sobre a actuação do conselho de gerência da RTP.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Barbosa da Costa* (PRD): Sr. Presidente, se me permite, solicito também à Mesa que, apôs a interrupção agora solicitada pelo PCP, os trabalhos se mantenham suspensos por mais 30 minutos.\nGostaria igualmente de anunciar que vamos apresentar na Mesa um requerimento solicitando a abertura de um inquérito parlamentar sobre a actuação do conselho de gerência da RTP.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Alberto Martins", 
+   "text": "Sr. Presidente, também eu peço a palavra para uma interpelação à Mesa no sentido de, em nome do meu grupo parlamentar e ao abrigo do Regimento, solicitar a interrupção dos trabalhos por mais 30 minutos, pois vamos igualmente proceder à realização de uma conferência de imprensa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Alberto Martins* (PS): Sr. Presidente, também eu peço a palavra para uma interpelação à Mesa no sentido de, em nome do meu grupo parlamentar e ao abrigo do Regimento, solicitar a interrupção dos trabalhos por mais 30 minutos, pois vamos igualmente proceder à realização de uma conferência de imprensa.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, antes de a Mesa se pronunciar sobre os pedidos agora expressos, vamos apreciar e votar um relatório e parecer da Comissão de Regimento e Mandatos, que vai ser lido.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Foi lido.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, antes de a Mesa se pronunciar sobre os pedidos agora expressos, vamos apreciar e votar um relatório e parecer da Comissão de Regimento e Mandatos, que vai ser lido.\nFoi lido.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "É o seguinte", 
@@ -428,408 +420,470 @@
    "type": "documento"
   }, 
   {
-   "text": "A Sr.ª Odete Santos (PCP): Sr. Presidente, Srs. Deputados, Sr.Ministro da Justiça, Srs. Secretários de Estado: Há cerca de dois anos e meio, o então Ministro da Justiça, Dr. Fernando Nogueira, afirmava, nesta Câmara, que a proposta de lei orgânica dos tribunais judiciais, no momento em discussão, continha as soluções que permitiriam aos tribunais funcionar eficaz e atempadamente na sua função de administrar a justiça. Infelicíssima afirmação! \nAinda mal se tinham calado os aplausos do PSD, ainda estava fresca a tinta das páginas do Diário da República que consagrava a nova orgânica, já se conheciam atrasos na administração da justiça, originados agora pela nova lei.\nDesde logo porque a superestrutura, denominada «tribunal de círculo», nos sítios onde foi criada, se viu a braços com uma vasta área de competências, para a qual os poucos meios disponíveis não permitiam dar uma resposta célere. Os atrasos processuais aceleraram-se de tal forma que era com o credo na boca que os profissionais do foro abriam o Diário da República para ver se tinham sido contemplados com o «presente envenenado» da criação do tribunal de círculo na área onde desenvolviam predominantemente a sua actividade profissional.\nE o caos aconteceu, mesmo quando, confrontada a lei com as hipóteses práticas, começaram a surgir os conflitos negativos de competência gerados entre os tribunais singulares e os tribunais de círculo.\n«Tribunal competente, procura-se!», poderia bem ser o nome de uma peça de teatro, de uma farsa ao gosto vicentino, em que juízes, magistrados, advogados e funcionários exclamam:", 
-   "type": "documento"
+   "text": "Sr. Presidente, Srs. Deputados, Sr.Ministro da Justiça, Srs. Secretários de Estado: Há cerca de dois anos e meio, o então Ministro da Justiça, Dr. Fernando Nogueira, afirmava, nesta Câmara, que a proposta de lei orgânica dos tribunais judiciais, no momento em discussão, continha as soluções que permitiriam aos tribunais funcionar eficaz e atempadamente na sua função de administrar a justiça. Infelicíssima afirmação! \nAinda mal se tinham calado os aplausos do PSD, ainda estava fresca a tinta das páginas do Diário da República que consagrava a nova orgânica, já se conheciam atrasos na administração da justiça, originados agora pela nova lei.\nDesde logo porque a superestrutura, denominada «tribunal de círculo», nos sítios onde foi criada, se viu a braços com uma vasta área de competências, para a qual os poucos meios disponíveis não permitiam dar uma resposta célere. Os atrasos processuais aceleraram-se de tal forma que era com o credo na boca que os profissionais do foro abriam o Diário da República para ver se tinham sido contemplados com o «presente envenenado» da criação do tribunal de círculo na área onde desenvolviam predominantemente a sua actividade profissional.\nE o caos aconteceu, mesmo quando, confrontada a lei com as hipóteses práticas, começaram a surgir os conflitos negativos de competência gerados entre os tribunais singulares e os tribunais de círculo.\n«Tribunal competente, procura-se!», poderia bem ser o nome de uma peça de teatro, de uma farsa ao gosto vicentino, em que juízes, magistrados, advogados e funcionários exclamam:", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Bofe Senhor! Mal pecado! Sempre é morto! Quem dos tribunais há-de viver...", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Octávio Teixeira* (PCP): Muito bem!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Octávio Teixeira", 
+   "text": "Muito bem!\nO Orador: -... em que o utilizador da «máquina» da justiça nos surge, pela direita baixa, em figura de Parvo, no cais da Barca do Inferno, enquanto vozes lá do alto fazem o Elogio da Loucura.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: -... em que o utilizador da «máquina» da justiça nos surge, pela direita baixa, em figura de Parvo, no cais da Barca do Inferno, enquanto vozes lá do alto fazem o Elogio da Loucura.", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Octávio Teixeira", 
    "text": "Neste décor adequado, assiste-se à dança endiabrada dos processos, «marchando» do tribunal de comarca para o de círculo e, depois, para a relação, clamando: «Tribunal competente, procura-se!» \nOs conflitos negativos criados pela Lei Orgânica dos Tribunais Judiciais ocasionaram atrasos, por vezes de cerca de dois anos, nos processos pendentes nos tribunais judiciais.\nA vida encarregou-se de demonstrar a dimensão do desastre, para o qual foram avisados os autores do diploma.\nPara além das críticas de fundo que dirigimos ao mesmo, nomeadamente no que concerne ao tribunal de círculo, chegámos a ensejar uma análise das consequências da lei em relação a casos concretos, nomeadamente quando, a propósito das acções de despejo que podem ser julgadas por tribunal colectivo, perguntámos ao Sr. Secretário de Estado se se previa alguma reforma na lei processual civil que acabasse com o julgamento, pelo colectivo, dessas acções. E a pergunta impunha-se, dado que a nova Lei Orgânica terminava com os julgamentos colectivos no tribunal de comarca.\nA resposta foi, no entanto, seca, impedindo o desenvolvimento da questão, porque a cegueira e a teimosia na aprovação da lei, tal como era proposta, levava a rejeitar todas e quaisquer objecções, mesmo quando elas pudessem permitir o aperfeiçoamento do diploma.\nSurge hoje o Governo com uma proposta de lei que é uma confissão, mas uma confissão tardia, de alguns graves defeitos da Lei Orgânica.\nNão se trata, no entanto, ao contrário do que disse o Sr. Ministro da Justiça - e disse-o delicadamente, para não ofender o seu antecessor...\n-, de um diploma interpretativo. Estamos, efectivamente, perante uma lei inovatória.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Exacto!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Exacto!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Uma lei que aceita uma das críticas feitas à lei em vigor, logo na altura da sua discussão.\nDizíamos nós, Grupo Parlamentar do PCP, que a proposta de lei orgânica esvaziava os tribunais de comarca, transferindo a maior das suas competências para os tribunais de círculo, transformava os juízes de comarca em juízes menores e atingia mesmo a própria vida social da comarca, desvalorizando os concelhos que não fossem brindados com a sede do tribunal de círculo.\nOra, das alterações agora propostas resulta o aumento das competências dos tribunais de comarca. Passam a preparar para julgamento acções cuja preparação lhes era vedada pelo artigo 81.º da Lei Orgânica; passam a ter competência para execuções (independentemente do seu valor) que, pela lei em vigor, pertencem ao foro do tribunal de círculo e alarga-se a sua competência em processo penal.\nFace a isto, não pode afirmar-se que estamos perante uma lei interpretativa. E nem mesmo o é quando estatui por forma a evitar os conflitos negativos de competência, porque na Lei Orgânica não houve, em qualquer momento, o cuidado de prever tais conflitos, sendo vazia de conteúdo relativamente às hipóteses em que os mesmos se geraram.\nMas, já que a Assembleia da República tem entre mãos um diploma que pretende ser um atalho numa via sinuosa como é a Lei n.º 38/87, convém que não saia daqui um diploma que venha a necessitar de uma nova emenda, face a outros conflitos, ou outras situações, de impossível resolução.", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "Uma lei que aceita uma das críticas feitas à lei em vigor, logo na altura da sua discussão.\nDizíamos nós, Grupo Parlamentar do PCP, que a proposta de lei orgânica esvaziava os tribunais de comarca, transferindo a maior das suas competências para os tribunais de círculo, transformava os juízes de comarca em juízes menores e atingia mesmo a própria vida social da comarca, desvalorizando os concelhos que não fossem brindados com a sede do tribunal de círculo.\nOra, das alterações agora propostas resulta o aumento das competências dos tribunais de comarca. Passam a preparar para julgamento acções cuja preparação lhes era vedada pelo artigo 81.º da Lei Orgânica; passam a ter competência para execuções (independentemente do seu valor) que, pela lei em vigor, pertencem ao foro do tribunal de círculo e alarga-se a sua competência em processo penal.\nFace a isto, não pode afirmar-se que estamos perante uma lei interpretativa. E nem mesmo o é quando estatui por forma a evitar os conflitos negativos de competência, porque na Lei Orgânica não houve, em qualquer momento, o cuidado de prever tais conflitos, sendo vazia de conteúdo relativamente às hipóteses em que os mesmos se geraram.\nMas, já que a Assembleia da República tem entre mãos um diploma que pretende ser um atalho numa via sinuosa como é a Lei n.º 38/87, convém que não saia daqui um diploma que venha a necessitar de uma nova emenda, face a outros conflitos, ou outras situações, de impossível resolução.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Muito bem!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Estamos a referir-nos à redacção que se propõe para o n.º 3 do artigo 81.º E podíamos também referir, por exemplo, no Código de Processo Civil", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "Estamos a referir-nos à redacção que se propõe para o n.º 3 do artigo 81.º E podíamos também referir, por exemplo, no Código de Processo Civil", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "11 DE MAIO DE 1990 2455", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "(que tem de ser desfolhado vagarosamente), aquilo que vai acontecer em relação à apensação das acções - veja-se como, no artigo 275.8 do Código de Processo Civil, os critérios aí estabelecidos não se compaginam com este diploma.\nMas - e voltando ao n.º 3 do artigo 81.º - pensamos que, tal como está, irá gerar novas dificuldades, situações de impasse e novos atrasos processuais em certos casos. Já começou mesmo a gerar calorosos debates sobre o seu sentido no que toca aos incidentes. Cotejando a redacção do n.º 3 com a explicação que consta do preâmbulo do diploma - e vou colocar agora as interrogações que, de ontem para hoje, tive ocasião de formular melhor-, coloca-se, logo à partida, a seguinte interrogação: o que são incidentes que seguem os termos do processo de declaração? \nA resposta não é tão fácil como isso. Já houve quem me respondesse: \ntodos (uma só pessoa, de resto), por pensar que bastava haver um incidente num processo de declaração para que se considerasse que esse incidente seguia os termos do processo de declaração. Já houve quem me dissesse: nenhuns (e muitas pessoas me responderam desta maneira).\nQuanto a mim, com alguma boa vontade, apenas poderei dizer que apenas um (e talvez): o incidente de falsidade, quando deduzido no próprio articulado da acção. Todos os outros têm uma tramitação especial que nada tem a ver com o processo de declaração.\nMas se é assim, para que é precisa a referência aos incidentes, no n.º 3 do artigo 81.º ? Mesmo no único caso (o tal da falsidade) que, com boa vontade, assim se poderá considerar, nunca pode haver cisão na decisão do incidente e da causa principal. Há um único questionário e tudo é decidido em conjunto.\nMas se o n.º 3 do artigo 81.º diz respeito a todos os incidentes, evidentemente dependentes do valor, chegamos, então, a situações aberrantes.\nVeja-se, por exemplo, o incidente da nulidade de um acto processual. O envio do mesmo para o tribunal de círculo representaria transformar este tribunal quase num tribunal de recurso (embora sem esse nome) e, ao mesmo tempo, representaria a privação de competências do juiz de comarca que estaria impossibilitado de reparar um erro praticado no seu próprio processo.\nE quanto ao incidente de falsidade? Para além da dificuldade já atrás referida, se por hipótese ainda fosse possível achar solução para tal, teríamos que se colocava nas mãos do tribunal de círculo a própria possibilidade de o juiz ajuizar da importância do documento e indeferir o incidente, por dizer que o documento não era importante. E seria este tribunal, e não o tribunal da causa, a decidir isso, condicionando a decisão do juiz do tribunal de comarca que pode ter das questões de direito suscitadas uma outra perspectiva.\nE vejamos ainda, e por exemplo, o incidente de oposição de terceiro. É no despacho saneador que é decidida a sua legitimidade. E o despacho saneador, para o caso que interessa, é feito pelo juiz do tribunal de comarca. A matéria controvertida do incidente faz parte do próprio questionário. Como pode cindir-se o incidente e enviá-lo para o tribunal de círculo? \nPor esta breve amostragem pensamos concluir que não é possível manter-se, pelo menos quanto aos incidentes, a redacção proposta para o n.º 3 do artigo 81.º Será, sem dúvida, nova fonte de confusões, de conflitos, de demoras.\nE mesmo que tudo estivesse certo em termos lógicos, e mesmo que estivesse adequada a redacção do n.º 3 do artigo 81.º à lei processual civil, temos de convir que a marcha das certidões a extrair da causa principal, apontada no mesmo artigo, a transição para outro tribunal, sempre seria fonte de novos atrasos processuais.\nA solução proposta é, de facto, contrária à celeridade da justiça.\nTemos para nós que a solução correcta ainda é a que consta do artigo 96.º do Código de Processo Civil. O juiz da causa, no momento da decisão do incidente, deve ser ele a decidi-lo, seja qual for o valor do mesmo.\nSó se percebe, aliás, que a proposta se enleie no referido n.º 3 desta forma pelo carinho e afecto que os autores da Lei Orgânica têm para com o tribunal de círculo. Vendo-se na contingência de ter de cerceá-lo de competências que não pode comportar, procuram de qualquer forma manter-lhe o mais possível algumas delas, mesmo quando isso vá contra a unidade processual, mesmo quando se possa gerar a confusão.\nSr. Presidente, Srs. Deputados: Não nutrimos pelo tribunal de círculo o afecto que tem o Sr. Ministro da Justiça. E isto nada tem a ver, como 6 óbvio, com os profissionais que arcaram com o tremendo esforço que tem representado o trabalho nesses tribunais. De resto, convém anotar aquela fúria cega que havia na instalação de tribunais de círculo «a galope» - e recordo-me de uma resposta do Sr. Secretário de Estado, aqui presente, que dizia que, até Setembro do ano passado, estariam instalados todos os tribunais de círculo; e é conveniente assinalar que, contra essa pressa cega, saiu, no mês de Abril, um despacho do Sr.Ministro da Justiça que revela uma filosofia contrária: os tribunais de círculo devem, no dizer desse despacho, ser instalados de uma forma reflectida, colocando meios ao seu dispor.\nO tribunal de círculo é, de facto, uma instituição, pelo menos como ela está configurada na Lei Orgânica e no Regulamento, que não está adaptada à realidade do País. A cópia ou a inspiração cega em modelos estrangeiros nunca foi boa conselheira.\nOs problemas fundamentais que colocámos aquando do debate da Lei Orgânica continuam a pesar. O tribunal de círculo representa a distanciação da justiça em relação aos cidadãos e traduz-se em custos da justiça acrescidos à onerosidade insuportável do actual sistema das custas judiciais.\nPor outro lado, pensamos que se seguiu um método errado na elaboração da Lei Orgânica. Creio que está patente que a reforma do Código de Processo Civil tem de ser feita, a par e passo, com a alteração da Lei Orgânica.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Muito bem!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Enfim, Sr. Presidente e Srs. Deputados, hoje ergueu-se o pano para um novo acto da tragicomédia da Lei Orgânica: um novo acto que revela a justeza das nossas palavras, quando anteriormente dissemos que estaríamos cá, mais tarde, para discutir as desastrosas \nconsequências da Lei.\nE, ao descer de novo o pano, sentimos a interrogação daquele espectador, o utente da justiça, que, insatisfeito com o final, se interroga: mas será que terminou mesmo aqui?", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "Enfim, Sr. Presidente e Srs. Deputados, hoje ergueu-se o pano para um novo acto da tragicomédia da Lei Orgânica: um novo acto que revela a justeza das nossas palavras, quando anteriormente dissemos que estaríamos cá, mais tarde, para discutir as desastrosas \nconsequências da Lei.\nE, ao descer de novo o pano, sentimos a interrogação daquele espectador, o utente da justiça, que, insatisfeito com o final, se interroga: mas será que terminou mesmo aqui?", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "2456 I SÉRIE - NÚMERO 73", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Inscreveu-se, para pedir esclarecimentos, o Sr.Deputado Manuel Barros.\nApesar de a Sr.ª Deputada Odete Santos já não dispor de tempo para responder, temos a informação de que o Partido Ecologista Os Verdes lhe concede o tempo suficiente para a resposta, pelo que, para pedir esclarecimentos, tem a palavra o Sr. Deputado Manuel Barros.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Inscreveu-se, para pedir esclarecimentos, o Sr.Deputado Manuel Barros.\nApesar de a Sr.ª Deputada Odete Santos já não dispor de tempo para responder, temos a informação de que o Partido Ecologista Os Verdes lhe concede o tempo suficiente para a resposta, pelo que, para pedir esclarecimentos, tem a palavra o Sr. Deputado Manuel Barros.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Manuel Barros* (PSD): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Vou colocar algumas questões à Sr.ª Deputada Odete Santos e, em relação à primeira, começo por dizer que uma obra humana nunca está acabada e nunca é perfeita!...\nConcretamente no caso dos tribunais, todos aqueles que são \nprofissionais do foro sabem que isso é uma verdade lapalissiana.\nEstamos sempre a inovar e a modificar, precisamente para corrigir e melhorar. E, da longa explanação que aqui acabámos de ouvir, ressaltou, no final, a conclusão - para nós evidente - de que, apesar das críticas que dirigiu à proposta de lei, não forneceu soluções, designadamente quanto à alteração do n.º 3 do artigo 81.º", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Barros", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Vou colocar algumas questões à Sr.ª Deputada Odete Santos e, em relação à primeira, começo por dizer que uma obra humana nunca está acabada e nunca é perfeita!...\nConcretamente no caso dos tribunais, todos aqueles que são \nprofissionais do foro sabem que isso é uma verdade lapalissiana.\nEstamos sempre a inovar e a modificar, precisamente para corrigir e melhorar. E, da longa explanação que aqui acabámos de ouvir, ressaltou, no final, a conclusão - para nós evidente - de que, apesar das críticas que dirigiu à proposta de lei, não forneceu soluções, designadamente quanto à alteração do n.º 3 do artigo 81.º", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Sr.ª Odete Santos (PCP): Forneci, sim! V. Ex.ª é que não ouviu!", 
-   "type": "documento"
+   "text": "Forneci, sim! V. Ex.ª é que não ouviu!", 
+   "type": "speaker_error"
   }, 
   {
    "text": "O Orador:- E a este propósito desde já adianto o seguinte: ou a Sr.ª Deputada não esteve na Comissão ou, se esteve, não esteve atenta e não ouviu o Sr. Ministro dizer que esse n.º 3 do artigo 81.º carecia de melhor clarificação.", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "A Sr.ª Odete Santos (PCP): O Sr. Deputado esteve na Comissão?", 
-   "type": "documento"
+   "text": "O Sr. Deputado esteve na Comissão?", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Se esteve, não parece!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Se esteve, não parece!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: É evidente que - e nesse aspecto estamos seguramente de acordo - não será porventura conveniente que os apensos tenham de ser destacados do processo principal para subirem ao tribunal de círculo, porque isso atenta contra a unidade do processo e pode ter reflexos negativos na decisão da causa.\nTodavia, é importante dizer aqui que a criação dos, tribunais de círculo visa precisamente uma melhor administração da justiça. E essa administração da justiça será necessariamente melhor se for praticada por juízes, à partida, mais qualificados porque mais «experienciados» no exercício dos respectivos cargos.\nNão vejo, por isso, que merecimento possam ter as críticas que a Sr.º Deputada dirigiu à proposta de lei nessa matéria.\nAssim sendo, deixo-lhe estas questões, para que sobre elas se possa manifestar. Designadamente no que toca à distanciação da justiça com a criação dos tribunais de círculo, não vemos como é que ela possa ter lugar, na medida em que o tribunal de círculo, funcionando em regra como tribunal colectivo, visa conferir uma melhor justiça, uma justiça mais atempada e mais cabal. A proposta de lei visa exactamente alterar a situação que decorria da lei anterior que criou - como disse - uma certa estagnação, uma certa perplexidade, um certo embaraço, quanto à administração da justiça, na medida em que se criaram muitos conflitos negativos de competência e isso redundava necessariamente num desprestígio para os tribunais, mas, muito mais importante do que isso, numa fraca ou menos boa administração da justiça em relação às pessoas que dela carecem.\nGostava de ouvir a sua opinião acerca dessas questões.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "É evidente que - e nesse aspecto estamos seguramente de acordo - não será porventura conveniente que os apensos tenham de ser destacados do processo principal para subirem ao tribunal de círculo, porque isso atenta contra a unidade do processo e pode ter reflexos negativos na decisão da causa.\nTodavia, é importante dizer aqui que a criação dos, tribunais de círculo visa precisamente uma melhor administração da justiça. E essa administração da justiça será necessariamente melhor se for praticada por juízes, à partida, mais qualificados porque mais «experienciados» no exercício dos respectivos cargos.\nNão vejo, por isso, que merecimento possam ter as críticas que a Sr.º Deputada dirigiu à proposta de lei nessa matéria.\nAssim sendo, deixo-lhe estas questões, para que sobre elas se possa manifestar. Designadamente no que toca à distanciação da justiça com a criação dos tribunais de círculo, não vemos como é que ela possa ter lugar, na medida em que o tribunal de círculo, funcionando em regra como tribunal colectivo, visa conferir uma melhor justiça, uma justiça mais atempada e mais cabal. A proposta de lei visa exactamente alterar a situação que decorria da lei anterior que criou - como disse - uma certa estagnação, uma certa perplexidade, um certo embaraço, quanto à administração da justiça, na medida em que se criaram muitos conflitos negativos de competência e isso redundava necessariamente num desprestígio para os tribunais, mas, muito mais importante do que isso, numa fraca ou menos boa administração da justiça em relação às pessoas que dela carecem.\nGostava de ouvir a sua opinião acerca dessas questões.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Vai ouvir, vai!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Vai ouvir, vai!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar e em tempo cedido por Os Verdes, tem a palavra a Sr.ª Deputada Odete Santos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar e em tempo cedido por Os Verdes, tem a palavra a Sr.ª Deputada Odete Santos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Odete Santos (PCP): Sr. Deputado Manuel Barros, gostava de perguntar-lhe se esteve presente na Comissão.", 
-   "type": "documento"
+   "text": "Sr. Deputado Manuel Barros, gostava de perguntar-lhe se esteve presente na Comissão.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Manuel Barros* (PSD): Não estive!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Barros", 
+   "text": "Não estive!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Oradora: Não esteve! Percebeu-se que não tinha estado, ...", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "Não esteve! Percebeu-se que não tinha estado, ...", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Nem precisa. Recebe aulas particulares do vizinho do lado!...", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Nem precisa. Recebe aulas particulares do vizinho do lado!...\nA Oradora: -... porque questões relacionadas com o artigo 81.º, concretamente em relação ao incidente falsidade, foram formuladas por mim. E o que me foi respondido foi que era um assunto que tinha de ser melhor visto. E sendo assim vamos vê-los todos, Sr. Deputado.\nPortanto, não fui eu que não estive na Comissão. Eu tive todo o prazer em lá estar e só tive pena de não ter tido tempo para me preparar melhor, porque, de facto, esta proposta de lei caiu em cima de nós de repente.\nQuanto à segunda questão, de que não apresentei soluções relativamente ao n.º 3 do artigo 81.º, devo dizer que apresentei, só que V. Ex.ª não ouviu, porque ou estava manifestamente desatento ou não estava no Plenário.\nEm relação à questão dos incidentes, eu disse que o melhor sistema era o do artigo 96.º do Código de Processo Civil actualmente em vigor, ou seja, o de o incidente ser julgado pelo juiz da causa que tivesse o incidente na altura da decisão. Portanto, apresentei uma solução, Sr.Deputado.\nNo que toca aos tribunais de círculo, o tempo mostrou quão atentada era a justiça nesses tribunais; o tempo demonstrou que mal os tribunais de círculo abriram as portas ficaram logo completamente submersos pela imensidão dos processos, a que não podiam responder sem meios para tal; o tempo demonstrou que processos que em finais de 1987 estavam preparados para julgamento ainda hoje não estão julgados por causa dos conflitos de competência.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Oradora: -... porque questões relacionadas com o artigo 81.º, concretamente em relação ao incidente falsidade, foram formuladas por mim. E o que me foi respondido foi que era um assunto que tinha de ser melhor visto. E sendo assim vamos vê-los todos, Sr. Deputado.\nPortanto, não fui eu que não estive na Comissão. Eu tive todo o prazer em lá estar e só tive pena de não ter tido tempo para me preparar melhor, porque, de facto, esta proposta de lei caiu em cima de nós de repente.\nQuanto à segunda questão, de que não apresentei soluções relativamente ao n.º 3 do artigo 81.º, devo dizer que apresentei, só que V. Ex.ª não ouviu, porque ou estava manifestamente desatento ou não estava no Plenário.\nEm relação à questão dos incidentes, eu disse que o melhor sistema era o do artigo 96.º do Código de Processo Civil actualmente em vigor, ou seja, o de o incidente ser julgado pelo juiz da causa que tivesse o incidente na altura da decisão. Portanto, apresentei uma solução, Sr.Deputado.\nNo que toca aos tribunais de círculo, o tempo mostrou quão atentada era a justiça nesses tribunais; o tempo demonstrou que mal os tribunais de círculo abriram as portas ficaram logo completamente submersos pela imensidão dos processos, a que não podiam responder sem meios para tal; o tempo demonstrou que processos que em finais de 1987 estavam preparados para julgamento ainda hoje não estão julgados por causa dos conflitos de competência.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Barros", 
+   "text": "Não é bem assim!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Manuel Barros* (PSD): Não é bem assim!", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "Não diga que não, Sr. Deputado, porque tenho casos desses.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "A Oradora: Não diga que não, Sr. Deputado, porque tenho casos desses.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Barros", 
+   "text": "Também tenho!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Manuel Barros* (PSD): Também tenho!", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Eu também tenho!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): Eu também tenho!", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "E não sou só eu!... Tanto o Sr. Deputado Mário Raposo, da sua bancada, como o Sr. Deputado Luís Filipe Madeira se queixaram disso mesmo na Comissão. Basta ser advogado e ter trabalho para se saber isto!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "A Oradora: E não sou só eu!... Tanto o Sr. Deputado Mário Raposo, da sua bancada, como o Sr. Deputado Luís Filipe Madeira se queixaram disso mesmo na Comissão. Basta ser advogado e ter trabalho para se saber isto!", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "A Oradora", 
    "text": "11 DE MAIO DE 1990 2457", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Por isso, Sr. Deputado, não venha com essa conversa, um bocado lírica, de que as obras se corrigem. Corrigem-se, mas o mal vem quando, depois de alertados para o defeito da obra, se não põe mais cimento e se deixa cair a casa. Os alertas foram feitos em todos os tons e de várias partes - de magistrados, de advogados e de deputados- e, realmente, nada fez demover o Governo para produzir melhor uma obra que foi caótica.\nA obra foi de tal forma que o actual Ministro da Justiça se viu, de facto, obrigado a vir aqui corrigir, e não interpretar, defeitos graves, gravíssimos, que a Lei tem, Sr. Deputado! \nPortanto, Sr. Deputado, creio que o anterior debate sobre a Lei Orgânica lhe deve ter passado ao lado, não deve ter estudado os problemas, não se deve ter apercebido de como foi de facto um debate vivo, tal como não se deve ter apercebido de que da parte do Governo e do PSD houve apenas uma resposta cega.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: A resposta correcta é a de que é preciso o tribunal de círculo e mais nada, seja o que for que vá acontecer, mesmo que caia o mundo.", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "A resposta correcta é a de que é preciso o tribunal de círculo e mais nada, seja o que for que vá acontecer, mesmo que caia o mundo.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP e do CDS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PCP e do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Rui Silva.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Rui Silva.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Rui Silva* (PRD): Sr. Presidente, Srs. Membros do Governo, Srs.Deputados: Com a apresentação da proposta de lei n.º 143/V o Governo reconheceu, finalmente, que o Decreto-Lei n.º 38/87, de 23 de Dezembro (Lei Orgânica dos Tribunais Judiciais), foi apressadamente elaborado, como amplamente se alertou durante o debate na generalidade havido nesta Câmara em 4 de Dezembro de 1987. Não se teve, e lamentavelmente, nessa altura em conta as opiniões veiculadas pela Ordem dos Advogados nem as inúmeras críticas que então foram produzidas, aqui mesmo, nesta Câmara.\nEmbora seja duvidosa a natureza exclusivamente interpretativa da presente proposta de lei, a verdade é que não reconhecer-se os erros cometidos ou adoptar-se uma atitude de teste da Lei interpretada na sua aplicabilidade \n- pela jurisprudência, talvez não seja sempre - como no caso vertente, o que não foi - o melhor método de tornar o processo de administração da justiça mais célere e eficaz, mais simples e acessível aos cidadãos.\nÉ certo que qualquer deputado ou grupo parlamentar poderia ter apresentado, durante este espaço de tempo, um projecto de lei que visasse corrigir mais atempadamente algumas das deficiências do sistema consubstanciado na Lei Orgânica dos Tribunais Judiciais. Mas era ao Governo que fundamentalmente cabia o ónus de, num espaço de tempo mais curto, proceder às necessárias alterações, evitando, deste modo, muita da polémica e da insegurança gerada.\nSr. Presidente, Srs. Deputados: Como consequências, entre outras, tivemos dois anos de paralisação de muitos tribunais. Tivemos dois anos em que o Estado Português se alheou de uma das suas primeiras obrigações: a de promover a valorização da justiça. Tivemos dois anos em que os contribuintes e utentes da justiça viram os seus processos andarem de «Pilatos para Caifás», num kafquiano processo de juízes, a considerarem-se, amiudadas vezes, incompetentes para julgar muitas das matérias sujeitas à sua apreciação.\nForam dois anos em que nos tribunais de círculo se amontoaram, absurdos mas tecnicamente justificáveis, incidentes de incompetência.\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: Esta proposta de lei vem melhorar a actual situação, mas, no essencial, tal como foi por diversas vezes analisado e expressamente concluído no II Congresso Extraordinário dos Advogados Portugueses, o que talvez esteja errado seja o próprio sistema. Nada justifica que de uma justiça com séculos de tradição e à porta de casa se tenha passado para uma centralização nas grandes urbes, dificultando o acesso dos cidadãos à justiça e tornando-a por vezes incomportavelmente onerosa.\nNão cabe por ora - e este já não é o momento próprio para o fazer - reanalisar globalmente o sistema. Bom ou mau, é o que temos. Importa, efectivamente - e é o que estamos a fazer-, aperfeiçoá-lo, e este é o nosso propósito.\nTalvez houvesse outras vias que permitissem que a administração da justiça fosse também mais justa. Por que não se permitir, por exemplo, a entrega dos articulados nos tribunais singulares e de competência genérica e requerimentos dirigidos aos tribunais de círculo? \nNão ficariam, com esta simples medida, mais protegidos os interesses dos cidadãos, que vêem encarecido o acesso à justiça só pelo facto de não residirem na sede dos tribunais de círculo? Para quê obrigar os mandatários judiciais, solicitadores e advogados a deslocarem-se à sede daqueles para procederem à entrega de um simples requerimento? \nEstas e muitas outras questões irão, certamente, ser objecto de debate em sede de especialidade, onde o PRD apresentará, naturalmente, as suas propostas.\nEsperamos, sinceramente, que não se perca mais tempo na busca de soluções que visem aperfeiçoar e tornar mais eficaz o acesso dos cidadãos à justiça, um dos direitos constitucionais mais importantes, e que a nós, seus representantes nesta Assembleia, compete zelar e fazer cumprir.", 
-   "type": "documento"
+   "party": "PRD", 
+   "speaker": "Rui Silva", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs.Deputados: Com a apresentação da proposta de lei n.º 143/V o Governo reconheceu, finalmente, que o Decreto-Lei n.º 38/87, de 23 de Dezembro (Lei Orgânica dos Tribunais Judiciais), foi apressadamente elaborado, como amplamente se alertou durante o debate na generalidade havido nesta Câmara em 4 de Dezembro de 1987. Não se teve, e lamentavelmente, nessa altura em conta as opiniões veiculadas pela Ordem dos Advogados nem as inúmeras críticas que então foram produzidas, aqui mesmo, nesta Câmara.\nEmbora seja duvidosa a natureza exclusivamente interpretativa da presente proposta de lei, a verdade é que não reconhecer-se os erros cometidos ou adoptar-se uma atitude de teste da Lei interpretada na sua aplicabilidade \n- pela jurisprudência, talvez não seja sempre - como no caso vertente, o que não foi - o melhor método de tornar o processo de administração da justiça mais célere e eficaz, mais simples e acessível aos cidadãos.\nÉ certo que qualquer deputado ou grupo parlamentar poderia ter apresentado, durante este espaço de tempo, um projecto de lei que visasse corrigir mais atempadamente algumas das deficiências do sistema consubstanciado na Lei Orgânica dos Tribunais Judiciais. Mas era ao Governo que fundamentalmente cabia o ónus de, num espaço de tempo mais curto, proceder às necessárias alterações, evitando, deste modo, muita da polémica e da insegurança gerada.\nSr. Presidente, Srs. Deputados: Como consequências, entre outras, tivemos dois anos de paralisação de muitos tribunais. Tivemos dois anos em que o Estado Português se alheou de uma das suas primeiras obrigações: a de promover a valorização da justiça. Tivemos dois anos em que os contribuintes e utentes da justiça viram os seus processos andarem de «Pilatos para Caifás», num kafquiano processo de juízes, a considerarem-se, amiudadas vezes, incompetentes para julgar muitas das matérias sujeitas à sua apreciação.\nForam dois anos em que nos tribunais de círculo se amontoaram, absurdos mas tecnicamente justificáveis, incidentes de incompetência.\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: Esta proposta de lei vem melhorar a actual situação, mas, no essencial, tal como foi por diversas vezes analisado e expressamente concluído no II Congresso Extraordinário dos Advogados Portugueses, o que talvez esteja errado seja o próprio sistema. Nada justifica que de uma justiça com séculos de tradição e à porta de casa se tenha passado para uma centralização nas grandes urbes, dificultando o acesso dos cidadãos à justiça e tornando-a por vezes incomportavelmente onerosa.\nNão cabe por ora - e este já não é o momento próprio para o fazer - reanalisar globalmente o sistema. Bom ou mau, é o que temos. Importa, efectivamente - e é o que estamos a fazer-, aperfeiçoá-lo, e este é o nosso propósito.\nTalvez houvesse outras vias que permitissem que a administração da justiça fosse também mais justa. Por que não se permitir, por exemplo, a entrega dos articulados nos tribunais singulares e de competência genérica e requerimentos dirigidos aos tribunais de círculo? \nNão ficariam, com esta simples medida, mais protegidos os interesses dos cidadãos, que vêem encarecido o acesso à justiça só pelo facto de não residirem na sede dos tribunais de círculo? Para quê obrigar os mandatários judiciais, solicitadores e advogados a deslocarem-se à sede daqueles para procederem à entrega de um simples requerimento? \nEstas e muitas outras questões irão, certamente, ser objecto de debate em sede de especialidade, onde o PRD apresentará, naturalmente, as suas propostas.\nEsperamos, sinceramente, que não se perca mais tempo na busca de soluções que visem aperfeiçoar e tornar mais eficaz o acesso dos cidadãos à justiça, um dos direitos constitucionais mais importantes, e que a nós, seus representantes nesta Assembleia, compete zelar e fazer cumprir.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PRD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PRD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, a Mesa informa que já se procedeu a algumas transferências de tempos.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado Manuel Barros.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a Mesa informa que já se procedeu a algumas transferências de tempos.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado Manuel Barros.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Manuel Barros* (PSD): O Sr. Deputado Rui Silva disse, na sua intervenção, muitas coisas com as quais estamos de acordo, embora discordemos, fundamentalmente, em questões de pormenor. É que V. Ex.ª disse, entre outras coisas, que a onerosidade da justiça se traduz e resulta na necessidade de uma pane interessada ter de fazer uma deslocação ao tribunal de círculo para entregar um simples \nrequerimento. Porventura desconhece o Sr. Deputado que esse simples requerimento pode ser enviado pelo correio? \nFinalmente - e esta é outra questão -, é certo que era ao Governo que cabia o ónus de rever a Lei, porque foi ele que teve a iniciativa de fazer a respectiva proposta. Todavia, entende o Partido \nSocial-Democrata que o Governo está, efectivamente, a encarar esse ónus ao apresentar neste momento, e para debate, a proposta de lei em análise. É que «mais vale tarde do que nunca», e", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Manuel Barros", 
+   "text": "O Sr. Deputado Rui Silva disse, na sua intervenção, muitas coisas com as quais estamos de acordo, embora discordemos, fundamentalmente, em questões de pormenor. É que V. Ex.ª disse, entre outras coisas, que a onerosidade da justiça se traduz e resulta na necessidade de uma pane interessada ter de fazer uma deslocação ao tribunal de círculo para entregar um simples \nrequerimento. Porventura desconhece o Sr. Deputado que esse simples requerimento pode ser enviado pelo correio? \nFinalmente - e esta é outra questão -, é certo que era ao Governo que cabia o ónus de rever a Lei, porque foi ele que teve a iniciativa de fazer a respectiva proposta. Todavia, entende o Partido \nSocial-Democrata que o Governo está, efectivamente, a encarar esse ónus ao apresentar neste momento, e para debate, a proposta de lei em análise. É que «mais vale tarde do que nunca», e 2458 I SÉRIE - NÚMERO 73", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "2458 I SÉRIE - NÚMERO 73", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Manuel Barros", 
    "text": "o Governo, ao proceder desta forma, está a demonstrar uma evidente coragem por reconhecer que alguns aspectos da Lei existente carecem de revisão, de estudo e apuramento, e é isso que estamos agora a fazer.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Manuel Barros", 
    "text": "O Sr. José Magalhães (PCP):- Teria tido mais coragem se tivesse dito que era uma revogação!", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: O objectivo visa servir a justiça, os administrados, e, por isso mesmo, não sei que críticas pode merecer essa matéria.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "O objectivo visa servir a justiça, os administrados, e, por isso mesmo, não sei que críticas pode merecer essa matéria.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Não sabe, mas o debate esclarece!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Não sabe, mas o debate esclarece!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: De qualquer maneira, agradecia que me respondesse a essa questão.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "De qualquer maneira, agradecia que me respondesse a essa questão.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar, tem a palavra o Sr. Deputado Rui Silva.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Rui Silva.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Rui Silva* (PRD): Sr. Deputado Manuel Barros, naturalmente V.\nEx.ª não desconhece situações flagrantes em que as testemunhas se têm de deslocar de um círculo para outro, nomeadamente de um tribunal para outro, e quando lá chegam ouvem dizer que o julgamento foi adiado e que as ajudas de custo não cobrem sequer as despesas dos transportes. Foi uma situação a que aludi, e que, de facto, deveria ter sido acautelada em 1987, perante as justificações dadas pelos partidos da oposição.\nV. Ex.ª não poderá refutar esta realidade e se, de facto, exerce a advocacia, como penso que sim, saberá que os utentes e as pessoas que têm hoje de se servir da justiça contestam flagrantemente essa situação, pois vêem-se francamente prejudicados.\nNaturalmente que a entrega de um simples requerimento pode ser feita pelo correio. E a demora que isso acarreta, Sr. Deputado? Se os requerimentos forem enviados pelo correio, o Sr. Deputado sabe muito bem o tempo que a resposta demorará e o que isso acarreta em termos de processo. Ou seja, isso faz com que os processos se amontoem nos tribunais, como todos sabemos, e obriga a que os mandatários se tenham de deslocar lá, Sr. Deputado. Esta é uma realidade que o senhor não pode, de maneira alguma, desconhecer, e se exerce, de facto, advocacia, não poderá dizer que não é verdade.\nO ónus de rever a Lei compete ao Governo, naturalmente, e tive a oportunidade de o dizer. Nós próprios podê-lo-íamos ter feito, mas já hoje aqui foi dito que o Sr. Secretário de Estado disse que até Setembro do ano passado todos os tribunais de círculo estariam implantados. No entanto, isso não aconteceu, pelo que o Governo vem hoje dar a mão à palmatória, e muito bem! \nQuero, no entanto, dizer que ontem conseguimos ter com o Sr. Ministro da Justiça um debate muito franco, profícuo e valorizado - e fomos os primeiros a elogiar! -, mas, como tive oportunidade de dizer, perderam-se vários anos, e V. Ex.ª sabe os prejuízos que isso acarretou. Se tivessem ouvido as críticas, e nomeadamente as propostas que aqui, a 4 de Dezembro de 1987, todos nós fizemos, talvez se pudessem ter evitado situações destas.\n«Antes tarde que nunca», sim senhor, mas vamos agora, de facto, tomar providências para .que esse «tarde» não seja «demasiado tarde».", 
-   "type": "documento"
+   "party": "PRD", 
+   "speaker": "Rui Silva", 
+   "text": "Sr. Deputado Manuel Barros, naturalmente V.\nEx.ª não desconhece situações flagrantes em que as testemunhas se têm de deslocar de um círculo para outro, nomeadamente de um tribunal para outro, e quando lá chegam ouvem dizer que o julgamento foi adiado e que as ajudas de custo não cobrem sequer as despesas dos transportes. Foi uma situação a que aludi, e que, de facto, deveria ter sido acautelada em 1987, perante as justificações dadas pelos partidos da oposição.\nV. Ex.ª não poderá refutar esta realidade e se, de facto, exerce a advocacia, como penso que sim, saberá que os utentes e as pessoas que têm hoje de se servir da justiça contestam flagrantemente essa situação, pois vêem-se francamente prejudicados.\nNaturalmente que a entrega de um simples requerimento pode ser feita pelo correio. E a demora que isso acarreta, Sr. Deputado? Se os requerimentos forem enviados pelo correio, o Sr. Deputado sabe muito bem o tempo que a resposta demorará e o que isso acarreta em termos de processo. Ou seja, isso faz com que os processos se amontoem nos tribunais, como todos sabemos, e obriga a que os mandatários se tenham de deslocar lá, Sr. Deputado. Esta é uma realidade que o senhor não pode, de maneira alguma, desconhecer, e se exerce, de facto, advocacia, não poderá dizer que não é verdade.\nO ónus de rever a Lei compete ao Governo, naturalmente, e tive a oportunidade de o dizer. Nós próprios podê-lo-íamos ter feito, mas já hoje aqui foi dito que o Sr. Secretário de Estado disse que até Setembro do ano passado todos os tribunais de círculo estariam implantados. No entanto, isso não aconteceu, pelo que o Governo vem hoje dar a mão à palmatória, e muito bem! \nQuero, no entanto, dizer que ontem conseguimos ter com o Sr. Ministro da Justiça um debate muito franco, profícuo e valorizado - e fomos os primeiros a elogiar! -, mas, como tive oportunidade de dizer, perderam-se vários anos, e V. Ex.ª sabe os prejuízos que isso acarretou. Se tivessem ouvido as críticas, e nomeadamente as propostas que aqui, a 4 de Dezembro de 1987, todos nós fizemos, talvez se pudessem ter evitado situações destas.\n«Antes tarde que nunca», sim senhor, mas vamos agora, de facto, tomar providências para .que esse «tarde» não seja «demasiado tarde».", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado José Puig.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado José Puig.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Puig* (PSD): Sr. Presidente, Srs. Deputados: A Lei n.º 38/87, de 23 de Dezembro, simboliza, naturalmente, as grandes transformações dos últimos tempos na área da organização judiciária portuguesa.\nTrata-se de uma reforma de fundo, visando a melhoria da qualidade da justiça do nosso país, valor tanto mais relevante quanto se relaciona directamente com direitos fundamentais dos cidadãos portugueses.\nPara nós, sociais-democratas, o progresso não é apenas, ao contrário do que frequentemente somos acusados, um somatório de valores aritméticos, eventualmente de preços. Em suma, não nos contentamos com o crescimento e procuramos um verdadeiro desenvolvimento, o que implica todo um esforço de aperfeiçoamento em termos de infra-estruturas que proporcionem um crescimento harmonioso, sem colocar em causa valores fundamentais da nossa vida em sociedade.\nSintomático é o facto de, apesar das constantes acusações de tecnocracia, as grandes reformas, não só de natureza sócio-económica mas também nas áreas da justiça, da saúde e da educação, se lerem concretizado em Portugal quando o Partido Social-Democrata era e é a força liderante do Governo e do Parlamento.\nAs alterações na nossa organização judiciária, há dois anos em vigor, já produziram, de resto, resultados palpáveis e positivos no funcionamento da justiça em Portugal. Só não vislumbra quem não quer ver as coisas seriamente.\nMas, como em todos os sectores, nos primeiros tempos de funcionamento de novas instituições surgem sempre dificuldades na aplicação prática dos novos princípios.\nPerante uma realidade tão complexa, dinâmica e delicada, como é a do «funcionamento da justiça», o uso de critérios de interpretação e integração de lacunas menos adequados em face dos objectivos desejados pode, aqui e ali, emperrar a máquina judiciária, gerando situações de difícil clarificação.\nAcresce que, como se expõe no relatório sobre a proposta de lei orgânica dos tribunais, que foi unanimemente aprovado em comissão, «um diploma como este não terá, por si só, a virtualidade de enfrentar e resolver os complexos problemas e dificuldades que se põem à administração da justiça. Ocorre, como se tem observado, uma vincada interacção entre o que dela constar e as soluções que provenham de leis de processo mais flexíveis e simplificadoras, dos estatutos que valerem para as magistraturas e para os funcionários de justiça, da introdução de novos métodos de gestão processual e judiciária e das próprias leis substantivas que vierem a ser aplicadas».\nDaí que, mediante o aditamento de um novo artigo à Lei n.º 38/87, se pretenda resolver, uma questão que provocou certas dificuldades na aplicação do diploma: a da menor adequação de alguns dos seus preceitos aos processos pendentes, a que é ainda aplicável o Código de Processo Penal de 1929.\nMas a alteração de maior relevo ora proposta incide no artigo 81.º da Lei n.º 38/87, relativo à delimitação das competências do tribunal de círculo.\nMediante a proposta de lei em discussão clarificam-se dúvidas surgidas quanto à definição do critério de competência do tribunal de círculo, a estabelecer em função do valor da causa ou da intervenção do tribunal colectivo.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "José Puig", 
+   "text": "Sr. Presidente, Srs. Deputados: A Lei n.º 38/87, de 23 de Dezembro, simboliza, naturalmente, as grandes transformações dos últimos tempos na área da organização judiciária portuguesa.\nTrata-se de uma reforma de fundo, visando a melhoria da qualidade da justiça do nosso país, valor tanto mais relevante quanto se relaciona directamente com direitos fundamentais dos cidadãos portugueses.\nPara nós, sociais-democratas, o progresso não é apenas, ao contrário do que frequentemente somos acusados, um somatório de valores aritméticos, eventualmente de preços. Em suma, não nos contentamos com o crescimento e procuramos um verdadeiro desenvolvimento, o que implica todo um esforço de aperfeiçoamento em termos de infra-estruturas que proporcionem um crescimento harmonioso, sem colocar em causa valores fundamentais da nossa vida em sociedade.\nSintomático é o facto de, apesar das constantes acusações de tecnocracia, as grandes reformas, não só de natureza sócio-económica mas também nas áreas da justiça, da saúde e da educação, se lerem concretizado em Portugal quando o Partido Social-Democrata era e é a força liderante do Governo e do Parlamento.\nAs alterações na nossa organização judiciária, há dois anos em vigor, já produziram, de resto, resultados palpáveis e positivos no funcionamento da justiça em Portugal. Só não vislumbra quem não quer ver as coisas seriamente.\nMas, como em todos os sectores, nos primeiros tempos de funcionamento de novas instituições surgem sempre dificuldades na aplicação prática dos novos princípios.\nPerante uma realidade tão complexa, dinâmica e delicada, como é a do «funcionamento da justiça», o uso de critérios de interpretação e integração de lacunas menos adequados em face dos objectivos desejados pode, aqui e ali, emperrar a máquina judiciária, gerando situações de difícil clarificação.\nAcresce que, como se expõe no relatório sobre a proposta de lei orgânica dos tribunais, que foi unanimemente aprovado em comissão, «um diploma como este não terá, por si só, a virtualidade de enfrentar e resolver os complexos problemas e dificuldades que se põem à administração da justiça. Ocorre, como se tem observado, uma vincada interacção entre o que dela constar e as soluções que provenham de leis de processo mais flexíveis e simplificadoras, dos estatutos que valerem para as magistraturas e para os funcionários de justiça, da introdução de novos métodos de gestão processual e judiciária e das próprias leis substantivas que vierem a ser aplicadas».\nDaí que, mediante o aditamento de um novo artigo à Lei n.º 38/87, se pretenda resolver, uma questão que provocou certas dificuldades na aplicação do diploma: a da menor adequação de alguns dos seus preceitos aos processos pendentes, a que é ainda aplicável o Código de Processo Penal de 1929.\nMas a alteração de maior relevo ora proposta incide no artigo 81.º da Lei n.º 38/87, relativo à delimitação das competências do tribunal de círculo.\nMediante a proposta de lei em discussão clarificam-se dúvidas surgidas quanto à definição do critério de competência do tribunal de círculo, a estabelecer em função do valor da causa ou da intervenção do tribunal colectivo.\n11 DE MAIO DE 1990 2459", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "11 DE MAIO DE 1990 2459", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "José Puig", 
    "text": "Por outro lado, prevêem-se expressamente, nas alterações propostas, os casos de excepção ao princípio tradicional da estabilidade da competência.\nSão expressamente definidas as hipóteses, quer de ocorrência de cisão entre a competência para a preparação e o julgamento de um mesmo processo, quer de separação entre a competência para a tramitação da causa principal e o processamento de um incidente ou determinada fase processual, sem autonomia dos autos da causa principal, ou por apenso a estes.\nPor fim, o artigo 3.º da proposta de lei em análise determina a sua aplicação imediata, salvaguardando dois princípios fundamentais: o respeito pelo caso julgado formado acerca da competência e a não interrupção de audiência de julgamento já iniciada.\nSr. Presidente, Srs. Deputados: Para concluir, pode dizer-se que a presente proposta de lei, clarificando as situações que, na prática, têm suscitado dúvidas de interpretação, é bem demonstrativa da atenção que o legislador tem tido, e deve sempre ter, perante a evolução das realidades concretas e o modo como se articula com os normativos instituídos.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "José Puig", 
    "text": "Entretanto assumiu a presidência o Sr. Vice-Presidente Maia Nunes de Almeida.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Luís Filipe Madeira.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Filipe Madeira.\nO Sr. *Luís Filipe Madeira* (PS): -Sr. Presidente, Sr. Ministro da Justiça, Srs. Membros do Governo, Srs. Deputados: Gostaria de começar por fazer uma saudação especial ao Sr. Ministro, pessoa que, pela sua qualidade humana, científica e política, me merece o maior respeito e a quem gostaria de, com toda a formalidade que este lugar exige, dirigir uma saudação muito efusiva pela sua coragem política, pela sua coragem cívica e pela sua competência técnica.\nA sua coragem política é óbvia, uma vez que faz parte deste Governo, o que é, em si, um acto de coragem.\nA sua coragem cívica resulta do seu empenhamento, que já vem de há muitos anos, nas questões públicas do interesse da comunidade. É essa homenagem que lhe quero prestar, sabendo que o facto de estar no Governo não limita essa disposição, mas, pelo contrário, até a poderá potenciar.\nA sua competência técnica é óbvia e resulta do longo trabalho feito ao serviço da justiça e dos tribunais.\nDito isto, queria pedir desculpa ao Sr. Ministro e à Câmara do seguinte: por razões que têm a ver com o funcionamento da Assembleia da República, cheguei ligeiramente atrasado, pelo que não tive o privilégio de ouvir a exposição inicial do Sr. Ministro, que me dizem ter sido excelente do ponto de vista geral e do ponto de vista da filosofia do direito.\nTalvez não fosse essa a exposição que hoje aqui esperávamos ouvir.\nTanto quanto me foi dado perceber, por aquilo que me disseram e por aquilo que li, o Sr. Ministro fez uma exposição globalizante, ou seja, de filosofia global do sistema judiciário português. Permita-me que diga, com toda a simpatia, que foi uma árvore muito frondosa mas com um fruto muito escasso: uma ligeira alteração à Lei Orgânica dos Tribunais. A árvore poderia ter dado sombra para nela se protegerem, destes calores estivais que aí vêm, os males que acometem a nossa justiça.\nSabe V. Ex.ª - e sabe-o porque há muito que trabalha como autoridade especialmente empenhada nas questões relativas aos tribunais - que os tribunais portugueses e a justiça portuguesa vão mal. Vão mesmo muito mal, e de nada vale esgrimir com estatísticas! Não vale a pena que os defensores do não mexer e do não mudar venham dizer, o que é algo extremamente discutível, que a média de demora judicial dos tribunais portugueses não anda longe da média europeia. Esse é um famoso engano, idêntico àquele que ocorre quando se diz que se uma pessoa come um bife e a outra não come a média é a de meio bife para cada pessoa. Não faz sentido! Em Portugal há, de facto, comarcas, áreas judiciais, onde a justiça é, em termos de demoras, perfeitamente satisfatória. No entanto, também é verdade que há outras áreas onde, Sr. Ministro, é urgente intervir. Podemos encontrar essas áreas de norte a sul do País e, por vezes, esse problema até não tem nada a ver com a interioridade e a litoralidade. Tem, sim, a ver com questões que se arrastam há muito tempo.\nO Sr. Ministro tem, com certeza, a informação, que lhe veio de pessoas que reputará ou não de idóneas, de que em Portugal a justiça vai muito mal, que não há Estado de direito que suporte a situação de os cidadãos não terem acesso atempado ao direito. Não ter acesso atempado é não ter acesso! Exigir a um cidadão que espere anos para ver resolvida uma questão que em princípio se deveria resolver em poucos meses é recusar-lhe a justiça. Aliás, o Estado Português vê-se frequentemente confrontado com queixas sucessivas no Tribunal Europeu - e penso que no futuro se irá ver confrontado com casos mais frequentes, que seriam perfeitamente evitáveis.\nSr. Ministro, V. Ex.ª, por dever do cargo e por dever da sua experiência, sabe melhor do que eu que são necessárias medidas excepcionais que reponham a legalidade democrática do Estado de direito nos tribunais que têm atrasos médios de, pelo menos, cinco anos. E isso não se pode fazer, Sr. Ministro, com normas ou com reformas como aquela que trouxe aqui hoje. Isso tem de ser feito com uma task force - e utilizo esta expressão não lusitana porque não está aqui a minha colega de bancada Sr.ª Deputada Edite Estrela -, o que em si diz muita coisa, pois é algo criado para uma tarefa excepcional, para um período excepcional, e que depois acaba. É preciso dar aos novos juízes, que assumem o poder judicial, tribunais em dia. Quando se entrega a um juiz uma comarca e ele entra no gabinete e vê processos até ao tecto que estão ali há cerca de 10 anos, é condenar esse mesmo juíz a prosseguir a mesma tarefa.\nOutra medida, Sr. Ministro, que lhe sugiro - que não tem a ver com as que constam desta proposta de lei, que, na minha opinião, resolvem casos menores mas não o essencial - é a que diz respeito à estabilidade dos juízes.\nNão é possível recuperar o atraso dos tribunais portugueses quando um juiz é nomeado para uma comarca que tem muitos processos em atraso e para onde ele só vai porque não tem outra saída melhor. Quando ele chega lá e tem à sua espera uma montanha de processos para julgar e preparar e sabe que daí a seis meses pode sair, ele não se vai empenhar! Humanamente isso é impossível! Não se pode exigir a esse juiz que se dedique a trabalhar durante meses quando ele está à espera de sair daquela comarca ao fim desse tempo ou ao fim de três meses. Não é exigível! Ele está a trabalhar - passe a expressão - «para o boneco».\nEle tem de saber que está a fazer uma tarefa da qual ele próprio vai mais tarde - talvez daí a dois ou três anos - colher os frutos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Filipe Madeira* (PS): -Sr. Presidente, Sr. Ministro da Justiça, Srs. Membros do Governo, Srs. Deputados: Gostaria de começar por fazer uma saudação especial ao Sr. Ministro, pessoa que, pela sua qualidade humana, científica e política, me merece o maior respeito e a quem gostaria de, com toda a formalidade que este lugar exige, dirigir uma saudação muito efusiva pela sua coragem política, pela sua coragem cívica e pela sua competência técnica.\nA sua coragem política é óbvia, uma vez que faz parte deste Governo, o que é, em si, um acto de coragem.\nA sua coragem cívica resulta do seu empenhamento, que já vem de há muitos anos, nas questões públicas do interesse da comunidade. É essa homenagem que lhe quero prestar, sabendo que o facto de estar no Governo não limita essa disposição, mas, pelo contrário, até a poderá potenciar.\nA sua competência técnica é óbvia e resulta do longo trabalho feito ao serviço da justiça e dos tribunais.\nDito isto, queria pedir desculpa ao Sr. Ministro e à Câmara do seguinte: por razões que têm a ver com o funcionamento da Assembleia da República, cheguei ligeiramente atrasado, pelo que não tive o privilégio de ouvir a exposição inicial do Sr. Ministro, que me dizem ter sido excelente do ponto de vista geral e do ponto de vista da filosofia do direito.\nTalvez não fosse essa a exposição que hoje aqui esperávamos ouvir.\nTanto quanto me foi dado perceber, por aquilo que me disseram e por aquilo que li, o Sr. Ministro fez uma exposição globalizante, ou seja, de filosofia global do sistema judiciário português. Permita-me que diga, com toda a simpatia, que foi uma árvore muito frondosa mas com um fruto muito escasso: uma ligeira alteração à Lei Orgânica dos Tribunais. A árvore poderia ter dado sombra para nela se protegerem, destes calores estivais que aí vêm, os males que acometem a nossa justiça.\nSabe V. Ex.ª - e sabe-o porque há muito que trabalha como autoridade especialmente empenhada nas questões relativas aos tribunais - que os tribunais portugueses e a justiça portuguesa vão mal. Vão mesmo muito mal, e de nada vale esgrimir com estatísticas! Não vale a pena que os defensores do não mexer e do não mudar venham dizer, o que é algo extremamente discutível, que a média de demora judicial dos tribunais portugueses não anda longe da média europeia. Esse é um famoso engano, idêntico àquele que ocorre quando se diz que se uma pessoa come um bife e a outra não come a média é a de meio bife para cada pessoa. Não faz sentido! Em Portugal há, de facto, comarcas, áreas judiciais, onde a justiça é, em termos de demoras, perfeitamente satisfatória. No entanto, também é verdade que há outras áreas onde, Sr. Ministro, é urgente intervir. Podemos encontrar essas áreas de norte a sul do País e, por vezes, esse problema até não tem nada a ver com a interioridade e a litoralidade. Tem, sim, a ver com questões que se arrastam há muito tempo.\nO Sr. Ministro tem, com certeza, a informação, que lhe veio de pessoas que reputará ou não de idóneas, de que em Portugal a justiça vai muito mal, que não há Estado de direito que suporte a situação de os cidadãos não terem acesso atempado ao direito. Não ter acesso atempado é não ter acesso! Exigir a um cidadão que espere anos para ver resolvida uma questão que em princípio se deveria resolver em poucos meses é recusar-lhe a justiça. Aliás, o Estado Português vê-se frequentemente confrontado com queixas sucessivas no Tribunal Europeu - e penso que no futuro se irá ver confrontado com casos mais frequentes, que seriam perfeitamente evitáveis.\nSr. Ministro, V. Ex.ª, por dever do cargo e por dever da sua experiência, sabe melhor do que eu que são necessárias medidas excepcionais que reponham a legalidade democrática do Estado de direito nos tribunais que têm atrasos médios de, pelo menos, cinco anos. E isso não se pode fazer, Sr. Ministro, com normas ou com reformas como aquela que trouxe aqui hoje. Isso tem de ser feito com uma task force - e utilizo esta expressão não lusitana porque não está aqui a minha colega de bancada Sr.ª Deputada Edite Estrela -, o que em si diz muita coisa, pois é algo criado para uma tarefa excepcional, para um período excepcional, e que depois acaba. É preciso dar aos novos juízes, que assumem o poder judicial, tribunais em dia. Quando se entrega a um juiz uma comarca e ele entra no gabinete e vê processos até ao tecto que estão ali há cerca de 10 anos, é condenar esse mesmo juíz a prosseguir a mesma tarefa.\nOutra medida, Sr. Ministro, que lhe sugiro - que não tem a ver com as que constam desta proposta de lei, que, na minha opinião, resolvem casos menores mas não o essencial - é a que diz respeito à estabilidade dos juízes.\nNão é possível recuperar o atraso dos tribunais portugueses quando um juiz é nomeado para uma comarca que tem muitos processos em atraso e para onde ele só vai porque não tem outra saída melhor. Quando ele chega lá e tem à sua espera uma montanha de processos para julgar e preparar e sabe que daí a seis meses pode sair, ele não se vai empenhar! Humanamente isso é impossível! Não se pode exigir a esse juiz que se dedique a trabalhar durante meses quando ele está à espera de sair daquela comarca ao fim desse tempo ou ao fim de três meses. Não é exigível! Ele está a trabalhar - passe a expressão - «para o boneco».\nEle tem de saber que está a fazer uma tarefa da qual ele próprio vai mais tarde - talvez daí a dois ou três anos - colher os frutos.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "2460 I SÉRIE - NÚMERO 73", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Sugeria, portanto, que houvesse uma norma que salvaguardasse este aspecto. Só esta Assembleia da República é que a pode elaborar, mas o Governo tem outros termómetros para avaliar os graus de temperatura a que deve elevar o ferro no forno. Penso que o tempo necessário é de três anos, mas pode também ser de quatro ou dois anos. Tem de ser um tempo razoável, de estabilidade, para que o juiz saiba que é possível fazer um julgamento da sua actividade. Nenhum juíz pode ser julgado pela actividade que exerce durante seis meses numa comarca. Não pode! \nNão é possível! O Sr. Ministro sabe - e se porventura não soubesse, daqui a 15 minutos ficaria a sabê-lo - que há centenas de juízes que pulam de comarca em comarca de seis em seis meses. Isto assim não funciona! \nV. Ex.ª tem à sua frente esse grande desafio, que ultrapassa as fronteiras do interesse do Governo e ,se entrechoca positivamente com os interesses da comunidade, de todo o País. Penso até que o Ministro da Justiça é um dos raros ministros que tem o privilégio de estar acima da política partidária. Em Portugal todos estamos sujeitos a ser passivos ou activos na justiça e toda a gente quer que ela funcione, independentemente de saber qual o Governo que está em funções.\nO Governo, aliás, não tem a ver com os tribunais, a não ser quanto à sua organização. Mas tem algo a ver, na medida em que pode, \nespecialmente por ter uma maioria a apoiá-lo, proporcionar aos Portugueses os remédios que a justiça portuguesa vem exigindo desde há anos, por muitas razões, cujo inventário não farei agora. O que é certo é que houve períodos tumultuosos em que a justiça se atrasou e períodos em que nem sempre a qualidade dos magistrados terá sido a exigível, designadamente por inexperiência (as reformas têm os seus custos).\nHouve também, depois, um maior acesso ao direito, que é legítimo e razoável num país com um estatuto político que sobretudo se define pelo Estado de direito, sendo, pois, natural que aumentem as questões que se debatem nos tribunais.\nÉ importante e indispensável que os tribunais possam dar resposta a esse caudal de pedidos que lhes são apresentados. O Estado - e quando me refiro ao Estado utilizo a expressão numa acepção que ultrapassa a ideia de Governo-maioria-oposição - inventou processos de limitar o acesso ao direito, como é o caso da tão falada questão das custas judiciais, que constitui hoje um grande peso para quem recorre à justiça. Mas o Estado não terá um melhor processo de limitar o acesso ao direito - que é ilegítimo e levanta uma onda de clamores contra o Estado - que não sejam as demoras. Em Lisboa as coisas vão andando, mas já nos arredores de Lisboa, no Norte e no Sul as coisas não vão andando. Há já advogados que hesitam em aceitar algumas causas dos seus constituintes, preferindo aconselhá-los a procurar meia dúzia de «jagunços» para resolverem o problema com umas «marretadas». O tribunal, de facto, não funciona e essa é uma forma de defesa razoável num Estado de direito que não dá resposta aos direitos dos cidadãos.\nOs tribunais de círculo tem vários vícios, designadamente na forma como funcionam, por não terem funcionários nem instalações capazes, na instabilidade dos próprios juízes que fazem parte desses tribunais e numa forma que o Governo prometeu resolver mas que até hoje não resolveu. Como Maomé não podia ir à montanha, fez vir a montanha a Maomé.\nNa verdade, o Estado não pode fazer recair sobre os cidadãos esse ónus terrível de terem de se deslocar da sua comarca, onde os problemas estão em jogo e se debatem, e irem, provavelmente num autocarro carregado de testemunhas, à sede do círculo para aí se fazer o julgamento, quando é certo que em cada dez julgamentos quatro, para não dizer oito, não se fazem, ou por faltar o advogado ou uma testemunha, ou por o tribunal estar ocupado com a continuação de um julgamento do dia anterior, ou por mil e uma razões que permitem adiamentos. E são as partes que suportam tudo isso, o que constitui outro entrave tremendo e injusto aos cidadãos, sejam eles cidadãos de mais ou de menos posses, pois todo o cidadão, pelo facto de o ser, goza do direito de ter acesso à justiça, sendo certo que quanto menos posses tem o cidadão menos hipóteses tem de ter acesso à justiça.\nEstou a falar em tom coloquial por ter a certeza de que o Sr. Ministro da Justiça está perfeitamente aberto a encontrar as soluções mais adequadas para responder à necessidade básica de um Estado de direito que é permitir aos cidadãos o acesso à justiça.\nA minha bancada irá votar favoravelmente a proposta apresentada por V.\nEx.ª porque ela resolve algumas questões. Mas todo este intróito que fiz antes de afirmar o que acabei de dizer, que não estava em causa, serviu para lembrar quê esta proposta não resolve o essencial. A questão é estrutural e há que atacá-la com medidas estruturais, nem que sejam medidas temporárias ou só para vigorarem apenas enquanto for necessário. Há que atacar este problema com meios excepcionais. O Sr.Ministro da Justiça, por o ser, está confrontado com um problema gravíssimo que pode ser resolvido num ano ou em dois. Depois de resolvido já será fácil controlá-lo. É um rio que saiu das margens e o importante é repô-lo nas margens; feito isso, ele lá seguirá as suas margens. Agora que ele está, cavalo à solta, de bridão nos dentes, a galopar por fora das margens, ninguém o controla. O que se passa em Portugal é isso mesmo: temos um rio incontrolado.\nO Sr. Ministro está perante o desafio de encontrar soluções, que vai certamente motivar pensamentos, reflexões e trabalho com os seus colaboradores e com todos aqueles que poderão colaborar consigo. Penso que há soluções que estão ao alcance deste Governo,, como o estariam de outro qualquer governo, e que esta tarefa não pertence concretamente a este Governo do PSD, mas a um governo nacional, como certamente este é e como outros o serão.\nAs reformas que constam desta proposta tem algum interesse, porque resolvem algumas questões que, como disse a Sr.ª Deputada Odete Santos, afligem os cidadãos. Tendo a Sr.ª Deputada invocado o meu nome, quero dizer-lhe que tem toda a razão, porque sou testemunha do que relatou.\nApesar de o advogado não poder ser testemunha e o deputado muito menos, posso afirmar, usando da bonomia que estes debates permitem, que o que a Sr.ª Deputada disse é verdade. Há processos que em 1987 estavam prontos para julgamento mas que, devido à questão dos tribunais de círculo, ainda hoje estão por julgar, porque se gerou um conflito negativo de competência.\nConcordo igualmente com a Sr.ª Deputada Odete Santos quando refere que o n.º 3 do artigo 81.º não é correcto. O n.º 3 do artigo 81.º, na redacção dada pela proposta, não é correcto. Infringe, desde logo, uma regra vital que todos nós, mais ou menos escolásticos e filhos", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "11 DE MAIO DE 1990 2461", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "da mesma mãe jurídica, aprendemos: que o juíz da causa é também o juiz dos incidentes. Não o ser provoca perturbações tremendas. Percebo a intenção do Governo e do autor da proposta, qual seja a de poder haver um incidente de valor muito superior ao da causa, hipótese em que as partes seriam aparentemente prejudicadas. Só que esse problema resolve-se por uma forma muito simples: em vez desta redacção, dir-se-ia que o juíz da causa é o juíz do incidente, mas que sempre que o incidente tiver valor superior à causa é o valor do incidente que conta para efeitos de recurso. Com esta fórmula as partes não ficam excluídas do direito de recurso e não se perturba o processo com uma mudança de juíz em pleno desenvolvimento do processo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "A Sr.ª Odete Santos (PCP): Muito bem!", 
-   "type": "documento"
+   "text": "Muito bem!", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Orador: Isso é que é perturbador.\nV. Ex.ª pode perfeitamente proteger o legítimo interesse das partes em verem julgado um incidente que porventura terá valor muito superior ao da causa - têm, pois, o direito de recurso decorrente da alçada normal desse incidente - que isso não perturbará o desenrolar do processo, ato porque se fosse no tribunal de círculo também teriam direito a recurso.\nAqui o que muda é o primeiro julgamento: não é feito pelo tribunal de círculo, mas, por exemplo, pelo tribunal de comarca, nomeadamente o colectivo. Penso que essa solução, além de ser mais correcta, não provoca uma violação indesejável do princípio de que o juíz da causa principal é o juíz da causa acessória.\nCausou-me também alguma perplexidade o artigo 107.º-A, n.ºs 1 e 2, onde me parece haver um choque. Muito embora se trate aqui de questões de técnica legislativa, sobre as quais os deputados não se devem pronunciar (essa tarefa cabe aos técnicos), solicitaria a V. Ex.ª que se debruçasse um pouco melhor sobre estes dois números e estudasse a forma de evitar interpretações que possam conduzir de novo a conflitos negativos de jurisdição.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Isso é que é perturbador.\nV. Ex.ª pode perfeitamente proteger o legítimo interesse das partes em verem julgado um incidente que porventura terá valor muito superior ao da causa - têm, pois, o direito de recurso decorrente da alçada normal desse incidente - que isso não perturbará o desenrolar do processo, ato porque se fosse no tribunal de círculo também teriam direito a recurso.\nAqui o que muda é o primeiro julgamento: não é feito pelo tribunal de círculo, mas, por exemplo, pelo tribunal de comarca, nomeadamente o colectivo. Penso que essa solução, além de ser mais correcta, não provoca uma violação indesejável do princípio de que o juíz da causa principal é o juíz da causa acessória.\nCausou-me também alguma perplexidade o artigo 107.º-A, n.ºs 1 e 2, onde me parece haver um choque. Muito embora se trate aqui de questões de técnica legislativa, sobre as quais os deputados não se devem pronunciar (essa tarefa cabe aos técnicos), solicitaria a V. Ex.ª que se debruçasse um pouco melhor sobre estes dois números e estudasse a forma de evitar interpretações que possam conduzir de novo a conflitos negativos de jurisdição.", 
+   "type": "continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado Manuel Barros.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado Manuel Barros.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Manuel Barros (PSD) : Sr. Deputado Luís Filipe Madeira, ouvi com muita atenção e agrado as palavras proferidas por V. Ex.ª no que toca, designadamente, à declaração da intenção de votar favoravelmente a proposta de lei em apreço. Nesse aspecto creio que as posições do PS coincidem com as do PSD, na medida em que ambas visam melhorar as condições de funcionamento dos tribunais, que é a aposta definitiva e decisiva do Governo.\nO Sr. Ministro da Justiça, aliás, tem dado sobejas provas da sua capacidade e merecimento, não apenas desde que ocupa o cargo de ministro mas também na sua acção anterior, designadamente enquanto director do Centro de Estudos Judiciários. Nessa altura foram notórios a preocupação e o trabalho desenvolvido, designadamente no que respeita à formação de juízes, que passou necessariamente por uma melhoria da sua capacidade e qualidade técnica e do seu merecimento.\nSe é certo que nos tempos que correm ainda nem tudo está bem e as reformas estruturais não estão completas e acabadas, importa não esquecer, a este respeito, que Portugal é um país pequeno e carenciado de recursos que, \npor isso, não pode resolver ao mesmo tempo todas as situações que se suscitam. Em termos da situação dos juízes nos tempos que correm, que devem merecer, e merecem de facto, da parte do Governo e do PSD o maior respeito, quer pela função que desempenham, quer pelo papel e dignificação que essa função deve ter na sociedade portuguesa, pois a eles confiamos o dirimir dos litígios que surgem entre nós.\nPortugueses, creio estar em condições de afirmar nesta Casa que os juízes foram altamente dignificados e as suas condições de trabalho significativamente melhoradas.\nRecordo-me de, quando comecei a trabalhar, há 14 ou 15 anos, ter ido a um tribunal para fazer um julgamento, que não pôde ter lugar precisamente por o tribunal se encontrar encerrado, porque não tinha condições de funcionamento. Por isso, o juiz e o delegado do Ministério Público foram-se embora e apenas lá ficou um funcionário para informar que o tribunal estava fechado. Hoje isso não acontece e a situação que vivemos actualmente é muito diferente.\nPara concluir, diria ao Sr. Deputado que os adiamentos que muitas vezes se fazem - se V. Ex.ª exerce a profissão de advogado sabe muito bem que assim é - resultam precisamente das conveniências das partes - falta o advogado porque convém à parte adiar o julgamento e faltam as testemunhas pelas mesmas razões! Por conseguinte, as causas dos adiamentos residem fundamentalmente no interesse das partes em tais adiamentos e não na conveniência do tribunal, que muitas vezes (para não dizer sempre...) se encontra presente para fazer o julgamento.\nAssim, Sr. Deputado Luís Filipe Madeira, gostaria que me dissesse se concorda ou não com este entendimento.", 
-   "type": "documento"
+   "text": "Sr. Deputado Luís Filipe Madeira, ouvi com muita atenção e agrado as palavras proferidas por V. Ex.ª no que toca, designadamente, à declaração da intenção de votar favoravelmente a proposta de lei em apreço. Nesse aspecto creio que as posições do PS coincidem com as do PSD, na medida em que ambas visam melhorar as condições de funcionamento dos tribunais, que é a aposta definitiva e decisiva do Governo.\nO Sr. Ministro da Justiça, aliás, tem dado sobejas provas da sua capacidade e merecimento, não apenas desde que ocupa o cargo de ministro mas também na sua acção anterior, designadamente enquanto director do Centro de Estudos Judiciários. Nessa altura foram notórios a preocupação e o trabalho desenvolvido, designadamente no que respeita à formação de juízes, que passou necessariamente por uma melhoria da sua capacidade e qualidade técnica e do seu merecimento.\nSe é certo que nos tempos que correm ainda nem tudo está bem e as reformas estruturais não estão completas e acabadas, importa não esquecer, a este respeito, que Portugal é um país pequeno e carenciado de recursos que, \npor isso, não pode resolver ao mesmo tempo todas as situações que se suscitam. Em termos da situação dos juízes nos tempos que correm, que devem merecer, e merecem de facto, da parte do Governo e do PSD o maior respeito, quer pela função que desempenham, quer pelo papel e dignificação que essa função deve ter na sociedade portuguesa, pois a eles confiamos o dirimir dos litígios que surgem entre nós.\nPortugueses, creio estar em condições de afirmar nesta Casa que os juízes foram altamente dignificados e as suas condições de trabalho significativamente melhoradas.\nRecordo-me de, quando comecei a trabalhar, há 14 ou 15 anos, ter ido a um tribunal para fazer um julgamento, que não pôde ter lugar precisamente por o tribunal se encontrar encerrado, porque não tinha condições de funcionamento. Por isso, o juiz e o delegado do Ministério Público foram-se embora e apenas lá ficou um funcionário para informar que o tribunal estava fechado. Hoje isso não acontece e a situação que vivemos actualmente é muito diferente.\nPara concluir, diria ao Sr. Deputado que os adiamentos que muitas vezes se fazem - se V. Ex.ª exerce a profissão de advogado sabe muito bem que assim é - resultam precisamente das conveniências das partes - falta o advogado porque convém à parte adiar o julgamento e faltam as testemunhas pelas mesmas razões! Por conseguinte, as causas dos adiamentos residem fundamentalmente no interesse das partes em tais adiamentos e não na conveniência do tribunal, que muitas vezes (para não dizer sempre...) se encontra presente para fazer o julgamento.\nAssim, Sr. Deputado Luís Filipe Madeira, gostaria que me dissesse se concorda ou não com este entendimento.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Luís Filipe Madeira.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Luís Filipe Madeira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Filipe Madeira* (PS): Sr. Deputado Manuel Barros, congratulo-me com as suas palavras. Porém, não intervenho apenas para referir isto, mas para dizer que alguns aspectos não têm a minha inteira concordância, versando, aliás, o primeiro, acerca da questão dos juízes.\nEu não pus em causa que os juízes portugueses fossem competentes, pois, embora uma classe tão vasta tenha de, naturalmente, integrar pessoas mais ou menos competentes, a qualidade da nossa classe judicial é, em regra, bastante boa.\nO que referi aqui ao Sr, Ministro da Justiça foi a necessidade de lhe garantir estabilidade. E não digo uma estabilidade de septénio, excessiva, mas uma estabilidade que dê condições e que potencie a necessidade de mostrar serviço e de o fazer.\nPor outro lado, diz-me o Sr. Deputado que quando começou a sua actividade de advogado teve um acidente gravíssimo, que foi o de chegar a um tribunal e encontrá-lo fechado.\nLamento desiludi-lo, mas isso aconteceu há escassos meses em Albufeira - a Saint-Tropez portuguesa -, onde o respectivo tribunal encerrou por falta de condições de funcionamento. Não foi há 14 anos, mas há 40 ou 50 dias! \nPortanto, parece-me que o Sr. Deputado não terá a informação suficiente acerca do estado judicial deste país. No entanto, o Sr. Ministro tem-na...", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Filipe Madeira", 
+   "text": "Sr. Deputado Manuel Barros, congratulo-me com as suas palavras. Porém, não intervenho apenas para referir isto, mas para dizer que alguns aspectos não têm a minha inteira concordância, versando, aliás, o primeiro, acerca da questão dos juízes.\nEu não pus em causa que os juízes portugueses fossem competentes, pois, embora uma classe tão vasta tenha de, naturalmente, integrar pessoas mais ou menos competentes, a qualidade da nossa classe judicial é, em regra, bastante boa.\nO que referi aqui ao Sr, Ministro da Justiça foi a necessidade de lhe garantir estabilidade. E não digo uma estabilidade de septénio, excessiva, mas uma estabilidade que dê condições e que potencie a necessidade de mostrar serviço e de o fazer.\nPor outro lado, diz-me o Sr. Deputado que quando começou a sua actividade de advogado teve um acidente gravíssimo, que foi o de chegar a um tribunal e encontrá-lo fechado.\nLamento desiludi-lo, mas isso aconteceu há escassos meses em Albufeira - a Saint-Tropez portuguesa -, onde o respectivo tribunal encerrou por falta de condições de funcionamento. Não foi há 14 anos, mas há 40 ou 50 dias! \nPortanto, parece-me que o Sr. Deputado não terá a informação suficiente acerca do estado judicial deste país. No entanto, o Sr. Ministro tem-na...\n2462 I SÉRIE - NÚMERO 73", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "2462 I SÉRIE - NÚMERO 73", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nogueira de Brito.\nO Sr. *Nogueira de Brito* (CDS): -Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Nesta função de polivalência que cabe aos deputados dos pequenos grupos parlamentares, cá estou agora a intervir nesta matéria.\nSr. Ministro da Justiça, na perspectiva de ter de intervir hoje, fui ontem à Comissão onde V. Ex.ª interveio também e devo dizer-lhe que foi com imenso agrado que o ouvi.\nÉ sabido que V. Ex.ª diz frontalmente o que pensa e é óbvio que não se situa numa área política e de pensamento que coincida com a minha ou com a dos que comigo ocupam esta bancada. Porém, mesmo assim foi com agrado que registei aquilo que ouvi ontem na Comissão.\nNa verdade, V. Ex.ª terminou a sua intervenção dizendo aos membros da Comissão, e respondendo ao seu, presidente, Dr. Mário Raposo, que os deputados presentes não tinham de lhe agradecer a sua presença e as suas vindas - já frequentes desde que tomou posse - ao Parlamento, pois era o Sr. Ministro que agradecia à Assembleia o tê-lo recebido. Aliás, sublinhava ainda que aproveitava a sua vinda a esta Assembleia para o exercício das suas funções e para os aperfeiçoamentos que, porventura, como colaboradora fundamental da tarefa legislativa do Governo, teria de introduzir em algumas áreas, designadamente nas que se encontravam a cargo do seu Ministério.\nPortanto, é com agrado que hoje vemos o Sr. Ministro intervir num estilo parlamentar, improvisando o seu discurso, mas improvisando-o sobre o que sabe, sobre matéria bem sabida, registando, ao mesmo tempo, com atenção, e tomando frequentes notas, o que dizem os deputados.\nTudo isso nos agrada e tudo isso começamos por registar com prazer. É, sem dúvida, uma atitude diferente daquela a que estávamos habituados, revelando, a par de um respeito sentido pelo Parlamento, a consciência das deficiências do sistema organizatório introduzido pela Lei aprovada e que o Sr. Ministro revela com a humildade de quem quer acenar, de quem pretende fazer melhor.\nO Sr. Ministro corrigir-me-á se, de facto, não for assim, mas eu suponho que é.\nPor outro lado, queria salientar que o que se propõe agora revela precisamente as deficiências do novo esquema de organização da justiça aprovado pela Assembleia em 1987 e desenvolvido pelo Governo em 1988.\nPara além de uma reforma que, sem dúvida, foi mal preparada no terreno da prática,...", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Nogueira de Brito.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "E não só!\nO Orador: -... a sua entrada em vigor conheceu dificuldades que todos aqui reconhecemos e de que demos testemunho.\nPor exemplo, testemunho eloquente foi o dos nossos colegas deputados Odete Santos e Luís Filipe Madeira, que têm uma prática a relatar ao Parlamento e que, nesse , sentido e sem qualquer desdouro, funcionaram, e muito bem, como testemunhas perante a Assembleia.\nPor conseguinte, a reforma foi mal preparada no terreno, quando deveria ter o objectivo de alterar a situação de uma justiça que todos sentem que vai mal.\nAliás, não estou de acordo com o Sr. Deputado Manuel Barros quando diz, por exemplo; que os adiamentos são do interesse das partes, pois. então o País seria uma colecção de hipócritas, que se estariam a queixar de uma justiça atrasada, queixando-se, em geral, daquilo que no fundo pretendem! De facto, o País não pode pretender uma justiça atrasada e depois estar a queixar-se dela - não acredito nisso! \nNestes termos, como dizia, visando ou devendo visar corrigir uma situação que todos sentíamos que eslava mal, a Lei revelou-se mal preparada no terreno da prática e apresentou-se também mal sustentada pela própria infra-estrutura legal que lhe serviu de suporte.\nDe qualquer modo, como já aqui foi dito por vários Srs. Deputados, não devemos confundir as referidas deficiências- má preparação no terreno da prática para a entrada em vigor da reforma e, aqui e ali, defeitos do próprio diploma legislativo que a suportou -, que são aquilo que, apesar de tudo, deveremos considerar como acessório com o que é fundamental; com o que é ainda fonte de dúvidas em relação à grande reforma que se fez - e estou de acordo em que se trata de uma reforma ambiciosa. E o que é fundamental e o novo sistema, traduzido na introdução do tribunal de círculo como espécie mais solene - espécie de supremo tribunal local, como há em certos países - da 1.ª instância.\nEsta nova espécie possui, sem dúvida, Sr. Ministro, Srs. Deputados e Sr. Presidente - peço desculpa, mas os últimos são os primeiros... -, todas as vantagens do seu carácter sedentário. Contudo, tem todas as desvantagens da possível dessincronização que potencía entre as várias fases do processo.\nEstivemos a debruçar-nos sobre o novo n.º 3 do artigo 81.º e vimos que pode revelar-se inconveniente introduzir aí esta cisão entre o tribunal que julga a causa e o que julga o incidente. Para além disso, são outras as soluções de continuidade que se vão estabelecer e que se revelam como um inconveniente directamente derivado da introdução desta nova espécie: o tribunal de círculo.\nNo entanto, o grande inconveniente que, sem qualquer dúvida, possui é o que se traduz no afastamento da justiça em relação àqueles que a demandam - este e um inconveniente real.\nPodemos todos dizer que estamos numa nova era, que os transportes já não são hoje o que foram, etc., mas não há dúvida' de que, com este efeito, adicionada a outras que foram introduzidas por este' Governo, esta reforma provocou um afastamento nítido. E de tal maneira o fez que ontem um deputado do partido que suporta o Governo pedia ao Sr.Ministro da Justiça - parecendo nada ter a ver com o que se estava a tratar - que não deixasse de, a par disto, voltar a olhar de uma maneira diferente para o problema das custas, solicitando até uma regressividade porventura maior nessa matéria.\nNão há dúvida nenhuma de que, com o diploma que ora propõe, o Sr.Ministro corrige alguns erros e faz o que pode, sendo que, por isso, também poderemos desde já anunciar que o iremos votar favoravelmente.\nSeria, aliás, tolice não o fazer, uma vez que se irá melhorar o sistema que foi introduzido - irá melhorar-se nas suas franjas, mas irá efectivamente melhorar-se.\nNo entanto, o fundamental persiste. E vamos ver, Sr. Ministro se a prática que agora se corrige não virá, ao fim de mais algum tempo, a aconselhar que o fundamental tenha também de ser mudado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Nogueira de Brito* (CDS): -Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Nesta função de polivalência que cabe aos deputados dos pequenos grupos parlamentares, cá estou agora a intervir nesta matéria.\nSr. Ministro da Justiça, na perspectiva de ter de intervir hoje, fui ontem à Comissão onde V. Ex.ª interveio também e devo dizer-lhe que foi com imenso agrado que o ouvi.\nÉ sabido que V. Ex.ª diz frontalmente o que pensa e é óbvio que não se situa numa área política e de pensamento que coincida com a minha ou com a dos que comigo ocupam esta bancada. Porém, mesmo assim foi com agrado que registei aquilo que ouvi ontem na Comissão.\nNa verdade, V. Ex.ª terminou a sua intervenção dizendo aos membros da Comissão, e respondendo ao seu, presidente, Dr. Mário Raposo, que os deputados presentes não tinham de lhe agradecer a sua presença e as suas vindas - já frequentes desde que tomou posse - ao Parlamento, pois era o Sr. Ministro que agradecia à Assembleia o tê-lo recebido. Aliás, sublinhava ainda que aproveitava a sua vinda a esta Assembleia para o exercício das suas funções e para os aperfeiçoamentos que, porventura, como colaboradora fundamental da tarefa legislativa do Governo, teria de introduzir em algumas áreas, designadamente nas que se encontravam a cargo do seu Ministério.\nPortanto, é com agrado que hoje vemos o Sr. Ministro intervir num estilo parlamentar, improvisando o seu discurso, mas improvisando-o sobre o que sabe, sobre matéria bem sabida, registando, ao mesmo tempo, com atenção, e tomando frequentes notas, o que dizem os deputados.\nTudo isso nos agrada e tudo isso começamos por registar com prazer. É, sem dúvida, uma atitude diferente daquela a que estávamos habituados, revelando, a par de um respeito sentido pelo Parlamento, a consciência das deficiências do sistema organizatório introduzido pela Lei aprovada e que o Sr. Ministro revela com a humildade de quem quer acenar, de quem pretende fazer melhor.\nO Sr. Ministro corrigir-me-á se, de facto, não for assim, mas eu suponho que é.\nPor outro lado, queria salientar que o que se propõe agora revela precisamente as deficiências do novo esquema de organização da justiça aprovado pela Assembleia em 1987 e desenvolvido pelo Governo em 1988.\nPara além de uma reforma que, sem dúvida, foi mal preparada no terreno da prática,...", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *José Magalhães* (PCP): E não só!", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Orador: -... a sua entrada em vigor conheceu dificuldades que todos aqui reconhecemos e de que demos testemunho.\nPor exemplo, testemunho eloquente foi o dos nossos colegas deputados Odete Santos e Luís Filipe Madeira, que têm uma prática a relatar ao Parlamento e que, nesse , sentido e sem qualquer desdouro, funcionaram, e muito bem, como testemunhas perante a Assembleia.\nPor conseguinte, a reforma foi mal preparada no terreno, quando deveria ter o objectivo de alterar a situação de uma justiça que todos sentem que vai mal.\nAliás, não estou de acordo com o Sr. Deputado Manuel Barros quando diz, por exemplo; que os adiamentos são do interesse das partes, pois. então o País seria uma colecção de hipócritas, que se estariam a queixar de uma justiça atrasada, queixando-se, em geral, daquilo que no fundo pretendem! De facto, o País não pode pretender uma justiça atrasada e depois estar a queixar-se dela - não acredito nisso! \nNestes termos, como dizia, visando ou devendo visar corrigir uma situação que todos sentíamos que eslava mal, a Lei revelou-se mal preparada no terreno da prática e apresentou-se também mal sustentada pela própria infra-estrutura legal que lhe serviu de suporte.\nDe qualquer modo, como já aqui foi dito por vários Srs. Deputados, não devemos confundir as referidas deficiências- má preparação no terreno da prática para a entrada em vigor da reforma e, aqui e ali, defeitos do próprio diploma legislativo que a suportou -, que são aquilo que, apesar de tudo, deveremos considerar como acessório com o que é fundamental; com o que é ainda fonte de dúvidas em relação à grande reforma que se fez - e estou de acordo em que se trata de uma reforma ambiciosa. E o que é fundamental e o novo sistema, traduzido na introdução do tribunal de círculo como espécie mais solene - espécie de supremo tribunal local, como há em certos países - da 1.ª instância.\nEsta nova espécie possui, sem dúvida, Sr. Ministro, Srs. Deputados e Sr. Presidente - peço desculpa, mas os últimos são os primeiros... -, todas as vantagens do seu carácter sedentário. Contudo, tem todas as desvantagens da possível dessincronização que potencía entre as várias fases do processo.\nEstivemos a debruçar-nos sobre o novo n.º 3 do artigo 81.º e vimos que pode revelar-se inconveniente introduzir aí esta cisão entre o tribunal que julga a causa e o que julga o incidente. Para além disso, são outras as soluções de continuidade que se vão estabelecer e que se revelam como um inconveniente directamente derivado da introdução desta nova espécie: o tribunal de círculo.\nNo entanto, o grande inconveniente que, sem qualquer dúvida, possui é o que se traduz no afastamento da justiça em relação àqueles que a demandam - este e um inconveniente real.\nPodemos todos dizer que estamos numa nova era, que os transportes já não são hoje o que foram, etc., mas não há dúvida' de que, com este efeito, adicionada a outras que foram introduzidas por este' Governo, esta reforma provocou um afastamento nítido. E de tal maneira o fez que ontem um deputado do partido que suporta o Governo pedia ao Sr.Ministro da Justiça - parecendo nada ter a ver com o que se estava a tratar - que não deixasse de, a par disto, voltar a olhar de uma maneira diferente para o problema das custas, solicitando até uma regressividade porventura maior nessa matéria.\nNão há dúvida nenhuma de que, com o diploma que ora propõe, o Sr.Ministro corrige alguns erros e faz o que pode, sendo que, por isso, também poderemos desde já anunciar que o iremos votar favoravelmente.\nSeria, aliás, tolice não o fazer, uma vez que se irá melhorar o sistema que foi introduzido - irá melhorar-se nas suas franjas, mas irá efectivamente melhorar-se.\nNo entanto, o fundamental persiste. E vamos ver, Sr. Ministro se a prática que agora se corrige não virá, ao fim de mais algum tempo, a aconselhar que o fundamental tenha também de ser mudado.", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
    "text": "11 DE MAIO DE 1990 2463", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
    "text": "O Sr. Presidente:- Para uma intervenção, tem a palavra o Sr. Ministro da Justiça.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. Ministro da Justiça: Sr. Presidente, Srs. Deputados: Não sei se o verbo que vou utilizar é comum nesta Sala, mas gostaria de dizer que me apetecia ficar aqui bem mais do que os 7,3 minutos de que disponho para, convosco, poder, neste tom, continuar a falar não tanto sobre os problemas do sistema judiciário português mas, sim, sobre as possíveis soluções que possam encaminha-lo para um futuro melhor.\nTodavia, porque disponho agora de 7 minutos, irei tentar fazer uma síntese cerzida de várias intervenções e, de alguma forma, responder, em nome do Governo e do Ministério da Justiça, àquilo que nelas me pareceu essencial, pedindo que me permitam associar-me a algumas simbologias.\nGostaria de imaginar-me num palco, onde estaria em cena a peça de teatro imaginosamente apresentada pela Deputada Sr.ª Dr.ª Odete Santos, para representar a peça Tribunal competente, procura-se. Ficava pelo menos já com a certeza de que a peça, que não subia à cena, era antes uma meia dúzia de jagunços...\nJustamente por isto havia, pelo menos, a ideia de que o cidadão procura o tribunal, procura o palco e sente-se, por isso, capaz de representar a peça de todos nós, isto é, a da administração da justiça portuguesa.\nE porque é essa a peça que sobe à cena, peço ao Sr. Deputado Luís Filipe Madeira que me deixe, agora em termos de cenografia, plantar nela a árvore frondosa que trouxe do Ministério da Justiça e dizer-lhe, apenas que, desta vez, não trouxe o cesto completo, trouxe apenas o fruto que convinha discutir hoje aqui.\nFelizmente a árvore tem produzido outros frutos, o cesto existe, a pouco e pouco ele passará por aqui, e espero que sejam frutos suculentos, por forma que o Parlamento, no seu todo, os possa saborear e devolver em realidade nova ao povo português, que aqui representamos.\nRelativamente às intervenções de carácter excepcional, há, neste momento, medidas em estudo no Ministério da Justiça e esperamos, dentro de algum tempo, poder apresentá-las no Parlamento, visto que, obviamente, também elas terão de passar, antes de mais, por um pedido de autorização legislativa.\nHá um outro aspecto importante que gostaria de referir, colocando agora a Sr.\" Deputada Odete Santos na situação de encenadora quando ela faz entrar o diploma que aqui apresentamos pela direita baixa. É bom que assim seja, porque isso demonstra que ela já actua no palco à italiana - como sabem, com origem no século XIX - e recusou já o «juiz da Beira», de Gil Vicente, ou o «Azdak», de Brecht. Já estamos, felizmente, no tempo em que aquilo que recebemos, e que é comum a todos nós, é já um discurso de comunhão de uma forma e de um estilo que nos pode encaminhar, por sua vez, para uma mais comum procura e encontro de soluções para o sistema.\nA confissão que aqui fazemos é realmente tardia! É, pois, agora a minha vez de vir à boca de cena fazer uma vénia e explicar porquê. É que representar a peça sem o papel decorado seria, porventura, interessante pela excitação que provocaria no público, mas mereceria poucos aplausos, porque a representação era fraca. Por isso, procurámos estudar bem o papel, levantar as situações, analisar na parte em que a estatística não é faiscante aquilo que cia nos dizia, levantar o problema na sua habilidade e encontrar, agora sim, um texto \ndefinitivamente aceitável pelo comum do espectador e um texto que cada um de nós fosse capaz de representar devidamente.\nComo sabem, neste campo não se poderá dizer que esta peça não vá circular por todo o País e que, neste ponto, o teatro português fique deficitário por continuar a manter-se na macrocefalia dos grandes palcos. Aqui o palco é cada um dos tribunais de comarca e há-de ser cada um dos tribunais de círculo. Desta forma esperamos que da árvore frondosa, que serve de cenário, os frutos vão pendendo maduros e à mão de cada um.\nMas, Srs. Deputados, não se trata só de uma lei interpretativa, se quisermos cingir-nos ao texto da lei; é uma lei com uma forte vocação interpretativa, se quisermos dirigi-la ao espírito do legislador.\nQuando o Governo diz que se trata de uma lei essencialmente \ninterpretativa pretende deixar claro que não muda a filosofia que lhe é subjacente, mas que fica aberto a introduzir todo o tipo de alterações de estratégia ou de metodologia que permitam, mais rapidamente, produzir o seu resultado.\nDe qualquer forma, olhando para as galerias e vendo gente que vem ouvir-nos, e que, porventura, poderá estar menos informada acerca do que aqui se passa, é bom que se diga que esta proposta de lei é apresentada pelo Governo, porque em alguns aspectos terá parecido que o Governo se sentava no banco dos réus confrontado com a proposta alternativa que a oposição fazia para emendar os erros que o próprio Governo tinha cometido.\nÉ evidente que o Governo reconhece claramente, porque falamos na área da justiça, porque falamos de uma questão de Estado, porque cada movimento que tenhamos relativamente ao cidadão no domínio da justiça é um movimento de total responsabilidade ética, que se tivesse havido, porventura, maior experiência na inovação a Lei poderia também ter sido menos clara. Simplesmente, havia a inexperiência do novo, e isto é evidentemente um paradoxo lógico: o novo não é experimentado, portanto é necessário experimentá-lo para que depois se possa corrigir.\nTodavia, o importante é que a alternativa era, essa sim, de \nconstrangimento grave. E que inovar com o risco da inovação era permitir que se procure o tribunal, que brevemente será competente e facilmente identificável; não inovar era o recurso rápido à ideia de uma justiça paralela, à legitimação moral do jagunço quê, em nome do Estado, intervém para deturpar a filosofia do próprio Estado. Daí que se tivesse corrido o risco de errar pontualmente perante a certeza de se estar correctamente a legislar.\nHá problemas fundamentais na administração da justiça portuguesa! Todos o reconhecemos, mas, justamente por isso, teremos de partilhar os vários reconhecimentos possíveis. Um deles é o de que aquilo que hoje se apresenta - e é bastante! -, ainda mal nos dá uma sensação de esperança de futuro próximo bastante mais alicerçado em realidades do que aquilo que acontecia, por exemplo, há 10 anos atrás. Nessa altura a situação era de pré-rotura, era de plano inclinado, era de drama judiciário, no sentido negativo do termo; hoje a situação é \ncompletamento diferente, e, estando muito ainda por fazer, o projecto é de potenciação das qualidades adquiridas, que nos permite a todos empolgar e envolver na capacidade de cada um para, em conjunto, descobrirmos as soluções", 
-   "type": "documento"
+   "speaker": "O Sr. Ministro da Justiça", 
+   "text": "Sr. Presidente, Srs. Deputados: Não sei se o verbo que vou utilizar é comum nesta Sala, mas gostaria de dizer que me apetecia ficar aqui bem mais do que os 7,3 minutos de que disponho para, convosco, poder, neste tom, continuar a falar não tanto sobre os problemas do sistema judiciário português mas, sim, sobre as possíveis soluções que possam encaminha-lo para um futuro melhor.\nTodavia, porque disponho agora de 7 minutos, irei tentar fazer uma síntese cerzida de várias intervenções e, de alguma forma, responder, em nome do Governo e do Ministério da Justiça, àquilo que nelas me pareceu essencial, pedindo que me permitam associar-me a algumas simbologias.\nGostaria de imaginar-me num palco, onde estaria em cena a peça de teatro imaginosamente apresentada pela Deputada Sr.ª Dr.ª Odete Santos, para representar a peça Tribunal competente, procura-se. Ficava pelo menos já com a certeza de que a peça, que não subia à cena, era antes uma meia dúzia de jagunços...\nJustamente por isto havia, pelo menos, a ideia de que o cidadão procura o tribunal, procura o palco e sente-se, por isso, capaz de representar a peça de todos nós, isto é, a da administração da justiça portuguesa.\nE porque é essa a peça que sobe à cena, peço ao Sr. Deputado Luís Filipe Madeira que me deixe, agora em termos de cenografia, plantar nela a árvore frondosa que trouxe do Ministério da Justiça e dizer-lhe, apenas que, desta vez, não trouxe o cesto completo, trouxe apenas o fruto que convinha discutir hoje aqui.\nFelizmente a árvore tem produzido outros frutos, o cesto existe, a pouco e pouco ele passará por aqui, e espero que sejam frutos suculentos, por forma que o Parlamento, no seu todo, os possa saborear e devolver em realidade nova ao povo português, que aqui representamos.\nRelativamente às intervenções de carácter excepcional, há, neste momento, medidas em estudo no Ministério da Justiça e esperamos, dentro de algum tempo, poder apresentá-las no Parlamento, visto que, obviamente, também elas terão de passar, antes de mais, por um pedido de autorização legislativa.\nHá um outro aspecto importante que gostaria de referir, colocando agora a Sr.\" Deputada Odete Santos na situação de encenadora quando ela faz entrar o diploma que aqui apresentamos pela direita baixa. É bom que assim seja, porque isso demonstra que ela já actua no palco à italiana - como sabem, com origem no século XIX - e recusou já o «juiz da Beira», de Gil Vicente, ou o «Azdak», de Brecht. Já estamos, felizmente, no tempo em que aquilo que recebemos, e que é comum a todos nós, é já um discurso de comunhão de uma forma e de um estilo que nos pode encaminhar, por sua vez, para uma mais comum procura e encontro de soluções para o sistema.\nA confissão que aqui fazemos é realmente tardia! É, pois, agora a minha vez de vir à boca de cena fazer uma vénia e explicar porquê. É que representar a peça sem o papel decorado seria, porventura, interessante pela excitação que provocaria no público, mas mereceria poucos aplausos, porque a representação era fraca. Por isso, procurámos estudar bem o papel, levantar as situações, analisar na parte em que a estatística não é faiscante aquilo que cia nos dizia, levantar o problema na sua habilidade e encontrar, agora sim, um texto \ndefinitivamente aceitável pelo comum do espectador e um texto que cada um de nós fosse capaz de representar devidamente.\nComo sabem, neste campo não se poderá dizer que esta peça não vá circular por todo o País e que, neste ponto, o teatro português fique deficitário por continuar a manter-se na macrocefalia dos grandes palcos. Aqui o palco é cada um dos tribunais de comarca e há-de ser cada um dos tribunais de círculo. Desta forma esperamos que da árvore frondosa, que serve de cenário, os frutos vão pendendo maduros e à mão de cada um.\nMas, Srs. Deputados, não se trata só de uma lei interpretativa, se quisermos cingir-nos ao texto da lei; é uma lei com uma forte vocação interpretativa, se quisermos dirigi-la ao espírito do legislador.\nQuando o Governo diz que se trata de uma lei essencialmente \ninterpretativa pretende deixar claro que não muda a filosofia que lhe é subjacente, mas que fica aberto a introduzir todo o tipo de alterações de estratégia ou de metodologia que permitam, mais rapidamente, produzir o seu resultado.\nDe qualquer forma, olhando para as galerias e vendo gente que vem ouvir-nos, e que, porventura, poderá estar menos informada acerca do que aqui se passa, é bom que se diga que esta proposta de lei é apresentada pelo Governo, porque em alguns aspectos terá parecido que o Governo se sentava no banco dos réus confrontado com a proposta alternativa que a oposição fazia para emendar os erros que o próprio Governo tinha cometido.\nÉ evidente que o Governo reconhece claramente, porque falamos na área da justiça, porque falamos de uma questão de Estado, porque cada movimento que tenhamos relativamente ao cidadão no domínio da justiça é um movimento de total responsabilidade ética, que se tivesse havido, porventura, maior experiência na inovação a Lei poderia também ter sido menos clara. Simplesmente, havia a inexperiência do novo, e isto é evidentemente um paradoxo lógico: o novo não é experimentado, portanto é necessário experimentá-lo para que depois se possa corrigir.\nTodavia, o importante é que a alternativa era, essa sim, de \nconstrangimento grave. E que inovar com o risco da inovação era permitir que se procure o tribunal, que brevemente será competente e facilmente identificável; não inovar era o recurso rápido à ideia de uma justiça paralela, à legitimação moral do jagunço quê, em nome do Estado, intervém para deturpar a filosofia do próprio Estado. Daí que se tivesse corrido o risco de errar pontualmente perante a certeza de se estar correctamente a legislar.\nHá problemas fundamentais na administração da justiça portuguesa! Todos o reconhecemos, mas, justamente por isso, teremos de partilhar os vários reconhecimentos possíveis. Um deles é o de que aquilo que hoje se apresenta - e é bastante! -, ainda mal nos dá uma sensação de esperança de futuro próximo bastante mais alicerçado em realidades do que aquilo que acontecia, por exemplo, há 10 anos atrás. Nessa altura a situação era de pré-rotura, era de plano inclinado, era de drama judiciário, no sentido negativo do termo; hoje a situação é \ncompletamento diferente, e, estando muito ainda por fazer, o projecto é de potenciação das qualidades adquiridas, que nos permite a todos empolgar e envolver na capacidade de cada um para, em conjunto, descobrirmos as soluções", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Sr. Ministro da Justiça", 
    "text": "2464 I SÉRIE - NÚMERO 73", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Sr. Ministro da Justiça", 
    "text": "que agora são soluções à vista e que, espera-se, a breve trecho permitam que o nosso sistema judiciário, não sendo perfeito - evidentemente, nunca o será-, seja um sistema judiciário exactamente à medida dos direitos de cada um e de todos os nossos cidadãos.\nHá aspectos que só chamarei pontuais pela sua característica técnica e não pela menor importância que eventualmente tenham e que se prendem, ao que se viu, sobretudo com o n.º 3 do artigo 81.º Quando ontem, na Comissão, disse, acolitado pelo Sr. Secretário de Estado Adjunto, que estaríamos dispostos a analisar o problema, é porque estamos sempre dispostos a analisar os problemas e porque entendemos que vir à Comissão mio, e fazer a defesa cega do diploma que vimos apresentar, mas sim colher o contributo, as dúvidas, aquilo que a Comissão pode apresentar-nos para que tudo seja permanentemente reflectido.\nAliás, não sei até se ontem não teremos mostrado excessiva abertura perante os problemas, porque cremos bem - e, certamente, na discussão na especialidade isso ou se provará ou se corrigirá - que há alguma deficiência de entendimento relativamente ao n.º 3 do artigo 81.º No meu entender, é importante valorizar a deficiência de entendimento se realmente disso se tratar, porque, se, aqui entre nós, esse entendimento se mostra deficiente, é importante que não deixemos que essa deficiência se transmita para o exterior e venhamos a encontrar aqui outro pólo de divergência.\nAssim sendo, estamos abertos a reapreciar o n.º 3 do artigo 81.º, mas cremos que essa interpretação mais aturada nos levará à conclusão de que, de facto, raríssimas serão as situações em que se fará a cisão neste domínio. Elas estarão sempre dependentes do valor do respectivo incidente e, como sabem, a generalidade dos incidentes não têm alteração de valor que determine, por sua vez, a alteração de competência na passagem do tribunal de comarca para o tribunal de círculo.\nÉ mesmo possível que, no fundo, este n.º 3 do artigo 81.º seja, por excesso, uma perversão do diploma, isto é, na ideia de tudo \nregulamentar, porventura regulamentámos quase a excepção das excepções e teremos criado com ela uma outra dificuldade de interpretação. Se assim for, obviamente que estaremos totalmente abertos a introduzir as correcções que a situação merecer.\nTodavia, gostaria de deixar claro, porque é bom que o discurso do consenso não esconda a clareza das coisas, que há uma determinação firme por pane do Governo de introduzir o novo círculo judicial no nosso sistema, reafirmando, como o fiz há pouco, que o tribunal de círculo não é uma essência em si. Não é tanto pela necessidade de criar uma outra instância que o tribunal de círculo se cria, mas porque ele é uma peça fundamental desse novo círculo judicial, pujante, onde o cidadão, ao deslocar-se, porventura com um incómodo superior ao que leria quando se deslocou à comarca, sinta claramente que o incómodo foi mais do que compensado pelo aumento nítido da qualidade da justiça que lhe foi administrada. Qualidade essa que, aliás, não se prende, necessariamente, com a qualidade dos agentes, sujeitos participantes, mas sobretudo com o conjunto de instrumentos à disposição do sistema judiciário, que, por isso, são privilegiadamente voltados para questões de natureza mais complexa ou que provocam gravidade social mais profunda.\nSe assim for, Sr. Presidente, Srs. Deputados, como disse há pouco, teremos neste diploma, que é um diploma intercalar de natureza quase regulamentar, embora com \na dignidade de lei, dado o passo último e inequívoco para o primeiro grande arranque para a implantação do círculo judicial. Aliás, ainda há poucos dias despachei no sentido da constituição de uma equipa de concepção e de elaboração do circulo, que apresentará no dia 15 de Maio o seu primeiro relatório e que permitirá que sejam instalados, a breve trecho, círculos modelo.\nOra, isto vem demonstrar que o Governo não está precipitadamente a instalar de novo o que havia de instalar, mas, serena e gradualmente, a modificar o sistema judiciário português numa expectativa que para nós é fundamental: a de que aquilo que vier a acontecer se inscreva numa política nacional de justiça que possa ser prosseguida por quem queira, ou possa, ou tenha condição de vir a desenvolver acção que nós agora iniciámos.\nNão se trata, por isso, de reivindicar méritos, mas de, sobretudo, distribuir projectos de intervenção e desafios de solução.\nDaí que termine dizendo, uma vez mais, que, quando somos confrontados, em nome do cidadão, com um sistema que conhecemos, e que portanto nos remete simbolicamente para o interior da nossa aldeia, a grande questão que temos de colocar é esta: haverá ou não outros horizontes para lá da minha aldeia? \nE para sabermos se há, se vale a pena viver neles, se é importante ser esse o caminho, temos de sair da nossa aldeia. O Governo aceitou sair da nossa aldeia, aceitou alargar os horizontes, aceitou comprometer-se, porventura, pela primeira vez, numa grande reforma do sistema judiciário.\nVem aí o século XXI e, nessa altura, cada um de nós será apontado a dedo, bem, positivamente, se a tiver feito; mal, vergonhosamente, se não teve coragem de a fazer.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD e do PRD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "A Sr.ª Isabel Espada (PRD): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "documento"
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "O Sr. Presidente:- Faça favor, Sr.ª Deputada.", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "A Sr.ª Isabel Espada (PRD): Sr. Presidente, peço desculpa por interromper o debate, mas cheguei agora ao Plenário e tomei \nconhecimento de que foi distribuída uma carta a todos os grupos parlamentares - carta essa dirigida ao Sr. Presidente da Assembleia da República - relativamente a uma intervenção que fiz aqui, neste Plenário, na passada terça-feira.\nO que quero dizer é que considero que este processo não foi conduzido de uma forma correcta, pois consideramos que o conselho de gerência não tem competência nem legitimidade para...", 
-   "type": "documento"
+   "text": "Sr. Presidente, peço desculpa por interromper o debate, mas cheguei agora ao Plenário e tomei \nconhecimento de que foi distribuída uma carta a todos os grupos parlamentares - carta essa dirigida ao Sr. Presidente da Assembleia da República - relativamente a uma intervenção que fiz aqui, neste Plenário, na passada terça-feira.\nO que quero dizer é que considero que este processo não foi conduzido de uma forma correcta, pois consideramos que o conselho de gerência não tem competência nem legitimidade para...", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr.ª Deputada, vai desculpar-me, mas as \ninterpelações à Mesa não são bem para isso.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, vai desculpar-me, mas as interpelações à Mesa não são bem para isso.\nVozes do PSD:- Muito bem!", 
+   "type": "presidente"
   }, 
   {
-   "text": "Vozes do PSD:- Muito bem!", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a ver, antes, com dúvidas levantadas pelos Srs.Deputados relativamente à condução dos trabalhos ou a alguma decisão que a Mesa tenha tomado.\nAlém disso, devo dizer que não tenho conhecimento desse documento e, como tal, a qualquer dúvida que a Sr.ª Deputada possa colocar não terei possibilidade de responder sem primeiro averiguar.\n11 DE MAIO DE 1990 2465", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a ver, antes, com dúvidas levantadas pelos Srs.Deputados relativamente à condução dos trabalhos ou a alguma decisão que a Mesa tenha tomado.\nAlém disso, devo dizer que não tenho conhecimento desse documento e, como tal, a qualquer dúvida que a Sr.ª Deputada possa colocar não terei possibilidade de responder sem primeiro averiguar.", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "V. Ex.ª está, neste momento, em substituição do Sr.Presidente da Assembleia da República, a quem é dirigida a carta, e é por essa razão que me dirijo à Mesa. Além disso, foi por iniciativa do Sr. Presidente da Assembleia da República que essa carta foi distribuída aos grupos parlamentares...", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "11 DE MAIO DE 1990 2465", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Cardoso Ferreira", 
+   "text": "E depois? Qual é o problema?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Oradora: V. Ex.ª está, neste momento, em substituição do Sr.Presidente da Assembleia da República, a quem é dirigida a carta, e é por essa razão que me dirijo à Mesa. Além disso, foi por iniciativa do Sr. Presidente da Assembleia da República que essa carta foi distribuída aos grupos parlamentares...", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada, precisamente por essa razão, parece-me que não será esta a melhor oportunidade para colocar a sua questão, uma vez que não tenho qualquer possibilidade nem poder para alterar seja o que for. Se, de facto, o documento teve o despacho do Sr. Presidente, é com o Sr. Presidente que deve trocar opiniões.\nTal como a Sr.ª Deputada disse, eu não sou Presidente da Assembleia da República, estou apenas, neste momento, a presidir ao Plenário, que é uma coisa corripletamente diferente.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Cardoso Ferreira* (PSD): E depois? Qual é o problema?", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "De qualquer modo, gostaria de declarar à Mesa que considero que a distribuição dessa carta foi uma subalternização da Assembleia da República, uma vez que o texto já foi dado a conhecer publicamente, ontem, através dos serviços noticiosos da Radiotelevisão Portuguesa, e só depois disso é que a Assembleia da República teve conhecimento. Isto é, de algum modo, uma subalternização deste orgão de soberania e do próprio Presidente da Assembleia da República.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr.ª Deputada, precisamente por essa razão, parece-me que não será esta a melhor oportunidade para colocar a sua questão, uma vez que não tenho qualquer possibilidade nem poder para alterar seja o que for. Se, de facto, o documento teve o despacho do Sr. Presidente, é com o Sr. Presidente que deve trocar opiniões.\nTal como a Sr.ª Deputada disse, eu não sou Presidente da Assembleia da República, estou apenas, neste momento, a presidir ao Plenário, que é uma coisa corripletamente diferente.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Cardoso Ferreira", 
+   "text": "Subalternização foi a intervenção que a senhora fez!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Oradora: De qualquer modo, gostaria de declarar à Mesa que considero que a distribuição dessa carta foi uma subalternização da Assembleia da República, uma vez que o texto já foi dado a conhecer publicamente, ontem, através dos serviços noticiosos da Radiotelevisão Portuguesa, e só depois disso é que a Assembleia da República teve conhecimento. Isto é, de algum modo, uma subalternização deste orgão de soberania e do próprio Presidente da Assembleia da República.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Fica registado, Sr.ª Deputada.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr, *Cardoso Ferreira* (PSD): Subalternização foi a intervenção que a senhora fez!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, se me permite, peço a palavra para interpelar a Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Fica registado, Sr.ª Deputada.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado, desde que seja de acordo com o espírito do Regimento.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, se me permite, peço a palavra para interpelar a Mesa.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Será certamente. Sr. Presidente! \nQuero fazer uma proposta e, simultaneamente, um anúncio. Face ao debate travado sobre esta proposta de lei, não vemos qualquer inconveniente em proceder-se à votação do texto na generalidade neste preciso momento.\nConsideramos, aliás, que isso seria vantajoso.\nPor outro lado, se esta proposta for aceite, quero anunciar que o nosso sentido de voto será favorável, na generalidade, à proposta de lei, e condicionalmente, em sede de comissão, aquando da discussão na especialidade, e tendo ainda em conta as palavras do Sr. Ministro da Justiça, sendo certo que nenhum de nós deixa de considerar que há seguramente outras coisas para além da «nossa aldeia», embora, naturalmente, ninguém aqui seja saloio, como é óbvio.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado, desde que seja de acordo com o espírito do Regimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Dado que não há objecções, a Mesa põe à votação, na generalidade, a proposta de lei n.º 143/V.\nSubmetida à votação, foi aprovada por unanimidade, registando-se a ausência dos deputados independentes Carlos Macedo e Helena Roseta.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Será certamente. Sr. Presidente! \nQuero fazer uma proposta e, simultaneamente, um anúncio. Face ao debate travado sobre esta proposta de lei, não vemos qualquer inconveniente em proceder-se à votação do texto na generalidade neste preciso momento.\nConsideramos, aliás, que isso seria vantajoso.\nPor outro lado, se esta proposta for aceite, quero anunciar que o nosso sentido de voto será favorável, na generalidade, à proposta de lei, e condicionalmente, em sede de comissão, aquando da discussão na especialidade, e tendo ainda em conta as palavras do Sr. Ministro da Justiça, sendo certo que nenhum de nós deixa de considerar que há seguramente outras coisas para além da «nossa aldeia», embora, naturalmente, ninguém aqui seja saloio, como é óbvio.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Dado que não há objecções, a Mesa põe à votação, na generalidade, a proposta de lei n.º 143/V.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Submetida à votação, foi aprovada por unanimidade, registando-se a ausência dos deputados independentes Carlos Macedo e Helena Roseta.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "A proposta seguirá os trâmites normais, isto é, baixará à Comissão para debate na especialidade.\nSrs. Deputados, a próxima sessão plenária terá lugar amanhã, pelas 10 horas, e do período da ordem do dia consta uma sessão de perguntas ao Governo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Está encerrada a sessão.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 18 horas e 25 minutos.", 
@@ -838,17 +892,19 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Carlos Miguel M. de Almeida Coelho.\nDinah Serrão Alhandra.\nFernando José R. Roque Correia Afonso.\nFrancisco João Bernardino da Silva.\nJoão Soares Pinto Montenegro.\nManuel da Costa Andrade.\nManuel Joaquim Baptista Cardoso.\nMário Júlio Montalvão Machado.\nVítor Pereira Crespo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

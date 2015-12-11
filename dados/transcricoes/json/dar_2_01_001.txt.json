@@ -29,24 +29,20 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Srs. Deputados, tal como sucedeu no início da última sessão legislativa da I Legislatura, uso da palavra apenas para, depois de vos saudar muito calorosamente, no início da II Legislatura da Assembleia da República, como representantes do povo português, e de acordo com um consenso de novo estabelecido na conferência dos representantes dos partidos que aqui tem assento, convidar, pedindo-vos que me acompanheis nessa proposta, o Sr. Deputado Leonardo Ribeiro de Almeida, Presidente da Assembleia na última sessão legislativa, a presidir à sessão de hoje.", 
-   "type": null
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Srs. Deputados, tal como sucedeu no início da última sessão legislativa da I Legislatura, uso da palavra apenas para, depois de vos saudar muito calorosamente, no início da II Legislatura da Assembleia da República, como representantes do povo português, e de acordo com um consenso de novo estabelecido na conferência dos representantes dos partidos que aqui tem assento, convidar, pedindo-vos que me acompanheis nessa proposta, o Sr. Deputado Leonardo Ribeiro de Almeida, Presidente da Assembleia na última sessão legislativa, a presidir à sessão de hoje.\nAssumiu a presidência o Sr. Deputado Leonardo Ribeiro de Almeida, aplaudido pelo PSD e pelo PPM.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Assumiu a presidência o Sr. Deputado Leonardo Ribeiro de Almeida, aplaudido pelo PSD e pelo PPM.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, torna-se necessário, de seguida, completar a Mesa para a sessão de hoje, e, na sequência do consenso já referido pelo Sr. Deputado Pedro Roseta, convido para as funções de Secretários: do PSD, a Sr.ª Deputada Marília Raimundo; do PS, o Sr.Deputado Alberto Marques Antunes; do CDS, a Sr.ª Deputada Maria José Paulo Sampaio, e do PCP, o Sr. Deputado José Manuel Maia Nunes de Almeida.\nOs deputados convidados para Secretários tomaram os seus lugares na Mesa.\nI SÉRIE - NÚMERO 1 2", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, torna-se necessário, de seguida, completar a Mesa para a sessão de hoje, e, na sequência do consenso já referido pelo Sr. Deputado Pedro Roseta, convido para as funções de Secretários: do PSD, a Sr.ª Deputada Marília Raimundo; do PS, o Sr.Deputado Alberto Marques Antunes; do CDS, a Sr.ª Deputada Maria José Paulo Sampaio, e do PCP, o Sr. Deputado José Manuel Maia Nunes de Almeida.\nOs deputados convidados para Secretários tomaram os seus lugares na Mesa.", 
-   "type": null
-  }, 
-  {
-   "text": "I SÉRIE - NÚMERO 1 2", 
-   "type": null
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Vai agora proceder-se à chamada.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Vai agora proceder-se à chamada.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 15 horas e 40 minutos.", 
@@ -55,300 +51,331 @@
   {
    "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adérito Manuel Soares Campos.\nAfonso de Sousa F. de Moura Guedes.\nAlberto Augusto Faria dos Santos.\nÁlvaro Barros Marques Figueiredo.\nAmândio Anes de Azevedo.\nAmélia Cavaleiro M. de Andrade Azevedo.\nAmérico Abreu Dias.\nAntónio Alberto Correia Cabecinha.\nAntónio Augusto Lacerda de Queirós.\nAntónio Duarte e Duarte Chagas.\nAntónio Mana de O. Ourique Mendes.\nAntónio Roleira Marinho.\nAntónio Vilar Ribeiro.\nArménio dos Santos.\nCarlos Manuel Pereira Pinho.\nCarlos Manuel Chaves de Macedo.\nCecília Pita Catarino.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nEleutério Manuel Alves.\nFernando José da Costa.\nFernando José Sequeira Roriz.\nFernando .Manuel A. Cardoso Ferreira.\nFernando Manuel C. Barbosa Mesquita.\nFernando dos Reis Condesso.\nFrancisco José de Sousa Tavares.\nHenrique Alberto F. Nascimento Rodrigues.\nJaime Adalberto Simões Ramos.\nJoão Manuel Coutinho Sá Fernandes.\nJoão Vasco da Luz Botelho Paiva.\nJoaquim Manuel Cabrita Neto.\nJoaquim Pinto.\nJosé Adriano Gago Vitorino.\nJosé Ângelo Ferreira Correia.\nJosé Augusto de Oliveira Baptista.\nJosé Augusto Santos da Silva Marques.\nJosé Manuel Meneres Sampaio Pimentel.\nJosé Manuel Pinheiro Barradas.\nJosé Mário de Lemos Damião.\nJosé de Vargas Bulcão.\nJúlio Lemos de Castro Caldas.\nLeonardo Eugénio R. Ribeiro de Almeida.\nLuís António Martins.\nLuís Fernando C. Nandim de Carvalho.\nManuel António Araújo dos Santos» \nManuel da Costa Andrade.\nManuel Ferreira Martins.\nManuel Filipe Correia de Jesus.\nManuel Maria Moreira.\nManuel Maria Portugal da Fonseca.\nManuel Pereira.\nMaria Adelaide S. de Almeida Paiva.\nMaria da Glória Rodrigues Duarte.\nMaria Helena do Rego C. Salema Roseta.\nMarília Dulce Coelho Pires M Raimundo.\nMário Dias Lopes.\nMário Júlio Montalvão Machado.\nMário Martins Adegas.\nMário Marques Ferreira Maduro.\nNatália de Oliveira Correia.\nNicolau Gregório de Freitas.\nNuno Aires Rodrigues dos Santos.\nPedro Manuel da Cruz Roseta.\nReinaldo Alberto Ramos Gomes.\nValdemar Cardoso Alves.\nVirgílio António Pinto Nunes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adelino Teixeira de Carvalho.\nAlberto Arons Braga de Carvalho.\nAlberto Marques Antunes.\nAlberto Marques de Oliveira e Silva.\nAlfredo Barroso.\nAlfredo Pinto da Silva.\nAntónio de Almeida Santos.\nAntónio Duarte Arnaut.\nAntónio Azevedo Gomes.\nAntónio Cândido Miranda Macedo.\nAntónio Carlos Ribeiro Campos.\nAntónio Fernandes da Fonseca.\nAntónio José Sanches Esteves.\nAntónio Manuel de Oliveira Guterres.\nAntónio Janeiro.\nAntónio José Vieira de Freitas.\nAntónio Marques Ribeiro Reis.\nAntónio de Sousa Gomes.\nAntónio Teixeira Lopes.\nAquilino Ribeiro Machado.\nArmando dos Santos Lopes.\nAvelino Ferreira Loureiro Zenha.\nBento Elísio de Azevedo.\nCarlos Cardoso Laje.\nCarlos Manuel Natividade Costa Candal.\nEduardo Ribeiro Pereira.\nFausto Sacramento Marques.\nFernando Manuel Gomes \nFrancisco de Almeida Salgado Zenha.\nFrancisco Manuel Marcelo M. Curto.\nFrancisco Soares Mesquita Machado.\nGuilherme Gomes dos Santos.\nJaime José Matos da Gama.\nJoão Alfredo Félix Vieira Lima.\nJoão Cardona Gomes Cravinho.\nJoaquim José Catanho Meneses.\nJoaquim Sousa Gomes Carneiro.\nJorge Fernando Branco de Sampaio.\nJosé Gomes Fernandes.\nJosé Manuel Nisa Antunes Mendes.\nJúlio Almeida Carrapato.\nJúlio Francisco Miranda Calha.\nLuís Filipe Nascimento Madeira.\nLuís Nunes de Almeida.\nLuís Patrão.\nLuís Silvério Gonçalves Saias.\nManuel Alegre de Melo Duarte.\nManuel da Costa.\nManuel José Bragança Tender.\nManuel da Mata de Cáceres.\nManuel Alfredo Tito de Morais.\nManuel dos Santos.\nManuel Trindade Reis.\nMaria Teresa V. Bastos Ramos Ambrósio.\nMário Manuel Cal Brandão.\nParcídio Summavielle.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "14 DE NOVEMBRO DE 1980 3", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Raúl d'Assunção Pimenta Rego.\nTeófilo Carvalho dos Santos.\nVítor Brás.\nVítor Manuel Ribeiro Constâncio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adalberto Neiva de Oliveira.\nAdriano José Alves Moreira.\nAdriano Vasco da Fonseca Rodrigues.\nAlberto Henriques Coimbra.\nAlexandre Correia de Carvalho Reigoto.\nAlfredo Albano de C. Azevedo Soares.\nAntónio Jacinto Martins Canaverde.\nArmando Domingues L. Ribeiro de Oliveira.\nDaniel Fernandes Domingues.\nEmídio Ferrão da Costa Pinheiro.\nEmílio Leitão Paulo.\nEugénio Maria N. Anacoreta Correia.\nFrancisco António Lucas Pires.\nFrancisco Manuel L. V. de Oliveira Dias.\nFrancisco Manuel de Meneses Falcão.\nHenrique José C. M. Pereira de Morais.\nHenrique Manuel Soares Cruz.\nJoão Gomes de Abreu de Lima.\nJoão da Silva Mendes Morgado.\nJosé Augusto Gama.\nJosé Eduardo F. de Sanches Osório.\nJosé Girão Pereira.\nLuís Carlos C. Veloso de Sampaio.\nLuís Eduardo da Silva Barbosa.\nLuís Filipe Pais Beiroso.\nManuel António de A. de A. Vasconcelos.\nMaria José Paulo Sampaio.\nMário Gaioso Henriques.\nNarana Sinai Coissoró.\nNuno Kruz Abecasis.\nPedro António José B. P. de Vasconcelos.\nRui Eduardo Ferreira Rodrigues Pena.\nRui Garcia de Oliveira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nÁlvaro Barreirinhas Cunhal.\nÂngelo Matos Mendes Veloso.\nAnselmo Aníbal.\nAntónio Dias Lourenço da Silva.\nAntónio Joaquim Gervásio.\nAntónio da Silva Mota.\nArmando Teixeira da Silva.\nCarlos Alberto do Carmo da C. Espadinha.\nCarlos Alfredo Brito.\nCarlos Hahnemann S. de Aboim Inglês.\nCustódio Jacinto Gingão.\nDinis Fernandes Miranda.\nDomingos Abrantes Ferreira.\nErcília Carreira Pimenta Talhadas.\nFernando de Almeida Sousa Marques.\nFrancisco Miguel Duarte.\nGeorgete de Oliveira Ferreira.\nHélder Simão Pinheiro.\nJerónimo Carvalho de Sousa.\nJoaquim Miranda da Silva.\nJoaquim Gomes dos Santos.\nJoaquim Vítor Gomes de Sá.\nJorge do Carmo da Silva Leite.\nJorge Patrício.\nJosé Ernesto I. Leão de Oliveira.\nJosé Luís Judas.\nJosé Manuel da Costa Carreira Marques.\nJosé Manuel Maia Nunes de Almeida.\nJosé Rodrigues Vitoriano.\nManuel Lopes.\nManuel Rogério Brito.\nMaria Alda Barbosa Nogueira.\nMaria Odete Santos.\nOctávio Floriano Rodrigues Pato.\nRaimundo Cabral.\nVital Martins Moreira.\nZita Maria de Seabra Roseiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Popular Monárquico (PPM)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "António Borges de Carvalho.\nAntónio Cardoso Moniz.\nAugusto Martins Ferreira do Amaral.\nHenrique Barrilaro Ruas.\nLuís Filipe Ottolini Bebiano Coimbra.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Acção Social-Democrata Independente (ASDI)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Joaquim Jorge de Magalhães S. da Mota.\nJorge Manuel M. Loureiro de Miranda.\nManuel Cardoso Vilhena de Carvalho.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "União da Esquerda para a Democracia Socialista (UEDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "António Poppe Lopes Cardoso.\nCésar Oliveira.\nMaria Teresa de Santa Clara Gomes.\nRui Polónio Sampaio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "União Democrática Popular (UDP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Mário António Baptista Tomé.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Responderam à chamada 212 Srs. Deputados. Temos quórum, pelo que declaro aberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Responderam à chamada 212 Srs. Deputados. Temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 16 horas e 5 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, comunico-vos que o Sr.Primeiro-Ministro e o Sr. Vice-Primeiro-Ministro tiveram a gentileza de, há pouco, se deslocarem ao meu gabinete, onde me apresentaram os seus cumprimentos, que, evidentemente, não eram apresentados apenas a título pessoal mas também a toda esta Câmara no momento do início dos seus trabalhos. É por isso que, muito gostosamente, trans-", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, comunico-vos que o Sr.Primeiro-Ministro e o Sr. Vice-Primeiro-Ministro tiveram a gentileza de, há pouco, se deslocarem ao meu gabinete, onde me apresentaram os seus cumprimentos, que, evidentemente, não eram apresentados apenas a título pessoal mas também a toda esta Câmara no momento do início dos seus trabalhos. É por isso que, muito gostosamente, trans- I SÉRIE -NUMERO 1 4", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "I SÉRIE -NUMERO 1 4", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "mito a todas VV. Ex.ªs o facto, endossando, portanto, à Câmara os cumprimentos que de ambos recebi.\nJá depois do encerramento dos trabalhos da última sessão legislativa e bem recentemente ocorreu um facto que a todos não deve ter deixado de tocar profundamente: refiro-me ao falecimento do Sr. Deputado Herculano Pires.\nO Sr. Deputado Herculano Pires era um verdadeiro democrata, um homem de bem que em todos nós, e independentemente das nossas posições nesta Casa, deixou a bela recordação do seu convívio, do seu carácter, do seu perfil de homem de bem.\nSuponho interpretar o sentir unânime desta Câmara solicitando a aprovação de um voto de pesar pelo seu falecimento.\nA Assembleia aprovou, de pé, o voto de pesar.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sem necessidade de qualquer outra prova, declaro o voto aprovado por unanimidade, e porque a Mesa tem a informação de que se encontra nas galerias a viúva do deputado e nosso antigo companheiro Herculano Pires, transmito-lhe, em nome da Câmara, o pesar que todos sentimos pela perda dolorosa que sofreu.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sem necessidade de qualquer outra prova, declaro o voto aprovado por unanimidade, e porque a Mesa tem a informação de que se encontra nas galerias a viúva do deputado e nosso antigo companheiro Herculano Pires, transmito-lhe, em nome da Câmara, o pesar que todos sentimos pela perda dolorosa que sofreu.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, como VV. Ex.ªs sabem, a ordem do dia consiste na constituição de uma comissão eventual de regimento e mandatos que proceda à verificação de poderes de todos os Srs. Deputados eleitos.\nNa conferência dos representantes dos partidos com assento na Câmara, que já mais do que uma vez aqui foi referida, estabeleceu-se que essa comissão teria a seguinte constituição: nove deputados do PSD, seis deputados do PS, cinco deputados do CDS, quatro deputados do PCP e um de cada um de todos os outros partidos com assento na Câmara.\nEste consenso estabelecido entre os representantes de todos os grupos parlamentares não se encontra neste momento formalizado em proposta escrita, mas, porque resulta de um consenso estabelecido em reunião de representantes de todos os grupos parlamentares, parece-me dispensável essa formalidade, e, com o anúncio da existência desse consenso, parece-me que o mesmo pode ser votado sem essa formalização escrita.\nHá alguma oposição?", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não havendo qualquer oposição, vão de seguida ser lidos os nomes dos Srs. Deputados indicados por cada partido para comporem essa mesma comissão.\nForam lidos. São os seguintes:", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Composição da Comissão Eventual de Regimento e Mandatos", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "PSD", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "PSD", 
    "text": "Mário Montalvão Machado.\nNicolau Gregório de Freitas.\nAntónio Duarte Chagas.\nMaria Adelaide Paiva.\nValdemar Cardoso Alves.\nJaime Simões Ramos.\nCristóvão Guerreiro Norte.\nFernando José da Costa.\nLuís Nandim de Carvalho.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "PS", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "PS", 
    "text": "rmando dos Santos Lopes.\nAntónio José Sanches Esteves.\nLuís Manuel dos Santos Silva Patrão.\nAntónio Cândido de Miranda de Macedo.\nJoão Alfredo Félix Vieira Lima.\nCarlos Manuel Natividade da Costa Candal.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Suplentes", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Suplentes", 
    "text": "Carlos Cardoso Laje.\nJosé Manuel Nisa Antunes Mendes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "CDS", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "CDS", 
    "text": "Maria José Sampaio.\nAlberto Henriques Coimbra.\nAlexandre Reigoto.\nArmando de Oliveira.\nFrancisco Meneses Falcão.\nNarana Coissoró.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "PCP", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "PCP", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nJosé Manuel Maia Nunes de Almeida.\nJorge do Carmo da Silva Leite.\nFernando de Almeida Sousa Marques.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "PPM", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "PPM", 
    "text": "Augusto Ferreira do Amaral.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "ASDI", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "ASDI", 
    "text": "Vilhena de Carvalho.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "UEDS", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "UEDS", 
    "text": "Rui Polónio Sampaio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "MDP", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "MDP", 
    "text": "Raul de Castro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "UDP", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "UDP", 
    "text": "Mário Tomé.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Ponho à votação, portanto, a composição da Comissão Eventual de Regimento e Mandatos.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Ponho à votação, portanto, a composição da Comissão Eventual de Regimento e Mandatos.\nSubmetida à votação, foi aprovada por unanimidade.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetida à votação, foi aprovada por unanimidade.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Com a aprovação da constituição da Comissão Eventual de Regimento e Mandatos e com o anúncio dos nomes dos Srs.Deputados que os respectivos partidos indicaram, está composta a Comissão.\nConvido-a, pois, a reunir imediatamente, lembrando- seria \ndesnecessário, mas em todo o caso permito-me fazê-lo- que terá necessariamente de eleger 14 DE NOVEMBRO DE 1980 5", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Com a aprovação da constituição da Comissão Eventual de Regimento e Mandatos e com o anúncio dos nomes dos Srs.Deputados que os respectivos partidos indicaram, está composta a Comissão.\nConvido-a, pois, a reunir imediatamente, lembrando- seria \ndesnecessário, mas em todo o caso permito-me fazê-lo- que terá necessariamente de eleger", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "14 DE NOVEMBRO DE 1980 5", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "desde logo um presidente, um relator e um secretário. Peço, portanto, aos Srs. Deputados que compõem a Comissão o favor de reunirem imediatamente e de iniciarem os seus trabalhos, para o que suponho que o tempo de duas horas será eventualmente suficiente.\nAinda antes de suspender a sessão, quero informar a Câmara de um outro ponto. O Sr. Presidente da República solicitou-me ontem pessoalmente que me deslocasse hoje a Belém, porque desejava fazer-me a entrega de uma mensagem dirigida à Assembleia da República.\nEntendi o pedido que o Sr. Presidente da República me fazia no sentido que desejava, ao pedir-me para ser eu o portador dessa mesma mensagem, de tornar mais formal, mais solene a maneira de a fazer chegar à Assembleia da República.\nAssim, hoje mesmo recebi do Sr. Presidente da República o texto dessa mensagem. Dei do facto conhecimento -não do teor da mensagem, porque só me foi entregue depois do encerramento da reunião dos representantes dos grupos parlamentares - a todos os Srs. Deputados que estavam presentes na reunião a que já aludi e ficou estabelecido que, uma vez verificados os mandatos de todas VV. Ex.ªs e assegurada por aí a legitimidade plena da Assembleia, imediatamente a seguir seria lida a mensagem do Sr. Presidente da República.\nDesse modo, convido desde já a Comissão Eventual acabada de constituir a iniciar os seus trabalhos, o que poderá ter lugar na antiga sala do Conselho de Ministros, e suspendo os trabalhos do Plenário durante duas horas.\nA sessão foi suspensa.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 16 horas e 15 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está reaberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 19 horas e 55 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, aproxima-se o termo da hora regimental e, não obstante toda a boa vontade dos Srs. Deputados que compõem a Comissão Eventual de Regimento e Mandatos, não foi possível terminar até este momento o parecer da mesma Comissão. Chega-me a informação de que dentro de dez minutos estará concluído. Contudo, a prorrogação dos trabalhos da Assembleia terá necessariamente que processar-se antes da hora regimental do encerramento.\nNesses termos, e pela necessidade absoluta de fazermos hoje a votação do referido parecer, sugeria à Assembleia a prorrogação dos trabalhos do Plenário até às 21 horas, na previsão de que a discussão e votação desse parecer, acrescida do tempo necessário para se proceder à leitura da mensagem do Sr. Presidente da República, preencherão sensivelmente o tempo dessa hora.\nHá alguma objecção?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, aproxima-se o termo da hora regimental e, não obstante toda a boa vontade dos Srs. Deputados que compõem a Comissão Eventual de Regimento e Mandatos, não foi possível terminar até este momento o parecer da mesma Comissão. Chega-me a informação de que dentro de dez minutos estará concluído. Contudo, a prorrogação dos trabalhos da Assembleia terá necessariamente que processar-se antes da hora regimental do encerramento.\nNesses termos, e pela necessidade absoluta de fazermos hoje a votação do referido parecer, sugeria à Assembleia a prorrogação dos trabalhos do Plenário até às 21 horas, na previsão de que a discussão e votação desse parecer, acrescida do tempo necessário para se proceder à leitura da mensagem do Sr. Presidente da República, preencherão sensivelmente o tempo dessa hora.\nHá alguma objecção?", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Visto não haver, considero prorrogado por mais uma hora o período de trabalhos. Está suspensa a sessão por quinze minutos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "A sessão foi suspensa.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está reaberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 20 horas e 5 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Carlos Candal para a leitura do relatório e parecer da Comissão Eventual de Regimento e Mandatos.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Carlos Candal para a leitura do relatório e parecer da Comissão Eventual de Regimento e Mandatos.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS): Passo, portanto, a ler o relatório e parecer da Comissão Eventual de Regimento e Mandatos, que é do seguinte teor", 
-   "speaker": "O Sr. *Carlos Candal*", 
-   "text": "", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "1 - Aos 13 de Novembro de 1980, numa sala do Palácio de S. Bento, reuniu-se a Comissão Parlamentar Eventual de Regimento e Mandatos, para proceder à verificação dos poderes dos deputados eleitos no dia 5 de Outubro de 1980 para a Assembleia da República.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Carlos Candal", 
+   "text": "Passo, portanto, a ler o relatório e parecer da Comissão Eventual de Regimento e Mandatos, que é do seguinte teor:\n1 - Aos 13 de Novembro de 1980, numa sala do Palácio de S. Bento, reuniu-se a Comissão Parlamentar Eventual de Regimento e Mandatos, para proceder à verificação dos poderes dos deputados eleitos no dia 5 de Outubro de 1980 para a Assembleia da República.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "speaker": "A Comissão é constituída pelos seguintes deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Comissão é constituída pelos seguintes deputados", 
    "text": "Mário Montalvão Machado, Nicolau Gregório de Freitas, António Duarte Chagas, Maria Adelaide Paiva, Valdemar Cardoso Alves, Jaime Simões Ramos, Cristóvão Guerreiro Norte, Fernando José da Costa e Luís Nandim de Carvalho, do Partido Social-Democrata; \nArmando dos Santos Lopes, António José Sanches Esteves, Luís Manuel dos Santos Silva Patrão, António Cândido de Miranda de Macedo, João Alfredo Félix Vieira Lima e Carlos Manuel Natividade da Costa Candal, do Partido Socialista; \nMaria José Sampaio, Alberto Henriques Coimbra, Alexandre Reigoto, Armando de Oliveira, Francisco Meneses Falcão e Narana Coissoró, do Partido do Centro Democrático Social; \nÁlvaro Augusto Veiga de Oliveira, José Manuel Maia Nunes de Almeida, Jorge do Carmo da Silva Leite e Fernando de Almeida Sousa Marques, do Partido Comunista Português; \nAugusto Ferreira do Amaral; do Partido Popular Monárquico; \nVilhena de Carvalho, da Acção Social-Democrata Independente; Rui Polónio Sampaio, da União de Esquerda para a Democracia Socialista; Raul de Castro, do Movimento Democrático Português; \nMário Tomé, da União Democrática Popular.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Comissão é constituída pelos seguintes deputados", 
    "text": "2 - Iniciando os trabalhos, a Comissão procedeu à eleição do seu presidente, relator, 1.º secretário e 2.º secretário, sendo esses cargos preenchidos, respectivamente, pelos deputados Mário Júlio Montalvão Machado (PSD), Carlos Candal (PS), Alexandre Correia de Carvalho Reigoto (CDS) e Jorge do Carmo da Silva Leite (PCP).\n3 - Foi seguidamente deliberado constituir-se uma subcomissão, com vista, designadamente, ao eventual debate preliminar de quaisquer questões teóricas postas a propósito da verificação dos poderes dos deputados e à execução de operações materiais necessárias à mesma verificação.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Comissão é constituída pelos seguintes deputados", 
    "text": "I SÉRIE -NÚMERO 1 6", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Essa Comissão foi formada por aqueles referidos deputados, que constituem a mesa da comissão, e pelos seguintes", 
@@ -489,220 +516,250 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Se nenhum dos Srs. Deputados deseja usar da palavra, vamos passar já à votação deste primeiro relatório e parecer.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Se nenhum dos Srs. Deputados deseja usar da palavra, vamos passar já à votação deste primeiro relatório e parecer.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "10 I SÉRIE - NÚMERO 1", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Carlos Candal para a leitura do segundo relatório.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Carlos Candal para a leitura do segundo relatório.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PS): É do seguinte teor o segundo relatório e parecer da Comissão Eventual de Regimento e Mandatos", 
-   "speaker": "O Sr. *Carlos Candal*", 
-   "text": "", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Carlos Candal", 
+   "text": "É do seguinte teor o segundo relatório e parecer da Comissão Eventual de Regimento e Mandatos:", 
+   "type": "deputado_intervencao"
   }, 
   {
    "speaker": "Em reunião realizada no dia 13 de Novembro de 1980, pelas 17 horas e 30 minutos, foram apreciadas as' seguintes substituições de deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "l - Solicitadas pelo Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "l - Solicitadas pelo Partido Social-Democrata", 
    "text": "Francisco Manuel Lumbrales Sá Carneiro (círculo eleitoral de Lisboa) por Pedro Augusto Cunha Pinto. Esta substituição é pedida , ao abrigo do artigo 4.º do Regimento;", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "l - Solicitadas pelo Partido Social-Democrata", 
    "text": "Aníbal António Cavaco Silva (círculo eleitoral de Lisboa) por Pedro Miguel de Santana Lopes. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nAntónio Patrício Pinto Basto Gouveia (círculo eleitoral de Lisboa) por Leonel Santa Rita, Pires. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nFrancisco José Pereira Pinto Balsemão (círculo eleitoral do Porto) por Bernardino da Costa Pereira. Esta substituição é pedida ao abrigo do artigo, 4.º do Regimento; \nAlípio Barbosa Pereira Dias (círculo eleitoral do Porto) por Manuel António Lopes Ribeiro. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nMaria Manuela Aguiar Dias Moreira (círculo eleitoral de fora da Europa) por José Teodoro da Silva. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nJoão Bosco Soares Mota Amaral (círculo eleitoral dos Açores) por Manuel Ribeiro Arruda. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nÁlvaro Roque de Pinho Bissaia Barreto (círculo eleitoral de Viseu) por Manuel João Vaz Freixo. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nJosé Silva Domingues (círculo eleitoral de Viana do Castelo) por Armando Lopes Gouveia Costa. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; Vítor Pereira Crespo (círculo eleitoral de Leiria) por Fernando José Ferreira Fleming d'Oliveira. Esta \nsubstituição é pedida ao abrigo do artigo 4.º do Regimento; \nCasimiro António Pires (círculo eleitoral de Bragança) por João Afonso Gonçalves. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; Mário Ferreira Bastos Raposo (círculo eleitoral de Coimbra) por Cipriano Rodrigues Martins. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nAntónio José Baptista Cardoso e Cunha (círculo eleitoral de Leiria) por João Aurélio Dias Mendes. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nAntónio D'Orey Capucho (círculo eleitoral de Lisboa) por Maria Margarida do Rego da Costa Salema Moura Ribeiro. Esta substituição é pedida por um período \nde quatro meses.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Solicitadas pelo Partido Socialista", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Solicitadas pelo Partido Socialista", 
    "text": "Herculano Rodrigues Pires (círculo eleitoral de Setúbal) por João Francisco Ludovico da Costa. Esta substituição é pedida em virtude de falecimento do deputado; Parricídio Matos Summavielle Soares (círculo eleitoral de Braga) por António Magalhães da Silva. Esta substituição é pedida por um período de nove meses; \nFrancisco Soares Mesquita Machado (círculo eleitoral de Braga) por Vergílio Fernando Marques Rodrigues. Esta substituição é pedida por um período de nove meses.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Solicitadas pelo Centro Democrático Social", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Solicitadas pelo Centro Democrático Social", 
    "text": "Basílio Adolfo de Mendonça Horta da Franca (círculo eleitoral de Braga) por João José Magalhães Ferreira Pulido de Almeida. Esta substituição e pedida ao abrigo do artigo 4.º do Regimento; José Luís da Cruz Vilaça (círculo eleitoral de Braga) por António Mendes de Carvalho. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nCarlos Martins Robalo (círculo eleitoral de Castelo Branco) por Isilda da Silva Barata. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento;", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Solicitadas pelo Centro Democrático Social", 
    "text": "14 DE NOVEMBRO DE 1980 11", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Solicitadas pelo Centro Democrático Social", 
    "text": "José Miguel Nunes Anacoreta Correia (círculo eleitoral de Faro) por João Cantinho Machado Figueiras de Andrade. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nDiogo Pinto Freitas do Amaral (círculo eleitoral de Lisboa) por Francisco Gonçalves Cavaleiro de Ferreira. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nJosé Duarte de Almeida Ribeiro e Castro (círculo eleitoral de Lisboa) por Luísa Maria Freire Cabral Vaz Raposo. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nJoão António de Morais Leitão (círculo eleitoral de Lisboa) por Rogério Ferreira Monção Leão. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nJosé Vicente de Jesus Carvalho Cardoso (círculo eleitoral de Lisboa) por António José Tomás Gomes de Pinho. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nMaria Teresa Paulo Sampaio da Costa Macedo (círculo eleitoral de Lisboa) por José Alberto de Faria Xerez. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nAdelino Manuel Lopes Amaro da Costa (círculo eleitoral do Porto) por Américo Maria Coelho Gomes de Sá. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nJoão Lopes Porto (círculo eleitoral do Porto) por Manuel Eugénio Pimentel Cavaleiro Brandão. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento; \nLuís Aníbal de Sá de Azevedo Coutinho (círculo eleitoral do Porto) por Maria Cândida Von Hafe de Almeida Cunha Perez. Esta substituição é pedida ao abrigo do artigo 4.º do Regimento.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "4 - Solicitada pelo Partido Comunista Português", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "4 - Solicitada pelo Partido Comunista Português", 
    "text": "Carlos Campos Rodrigues da Costa (círculo eleitoral do Porto) por Lino Carvalho de Lima. Esta substituição é pedida por um período não superior a seis meses.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "5 - Solicitadas pelo MDP/CDE", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "5 - Solicitadas pelo MDP/CDE", 
    "text": "José Manuel Marques do Carmo Mendes Tengarrinha (círculo eleitoral de Lisboa) por Herberto de Castro Goulart da Silva. Esta substituição é pedida por um período não superior a seis meses; \nRaul Fernandes de Morais e Castro (círculo eleitoral do Porto) por Helena Tâmega Cidade, que usa Helena Cidade Moura. Esta substituição é pedida por um período não superior a seis meses.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "6 - Solicitada pelo Partido Popular Monárquico", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "6 - Solicitada pelo Partido Popular Monárquico", 
    "text": "Gonçalo Pereira Ribeiro Teles (círculo eleitoral de Lisboa) por Jorge Vítor Melo Portugal da Silveira. Esta substituição é temporária.\nAnalisados os documentos pertinentes de que a Comissão dispunha, verificou-se que os substitutos indicados são realmente os candidatos não eleitos que devem ser chamados ao exercício de funções; \nconsiderando a ordem de precedência das respectivas listas eleitorais apresentadas a sufrágio pelos aludidos partidos nos concernentes círculos eleitorais.\nForam observados os preceitos regimentais e legais aplicáveis.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
    "text": "As substituições em causa são de admitir, uma vez que se encontram verificados os requisitos legais.\nO presente relatório foi aprovado por maioria, com a abstenção do deputado da União Democrática Popular.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
    "text": "A Comissão: O Presidente, Mário Júlio Montalvão Machado (PSD) - O Secretário, Alexandre Correia de Carvalho Reigoto (CDS) - O Secretário, Jorge do Carmo da Silva Leite (PCP) - Nicolau Gregório de Freitas (PSD) - António Duarte Chagas (PSD) - Maria Adelaide Paiva (PSD) - Valdemar Cardoso Alves (PSD) - Jaime Simões Ramos (PSD) - Cristóvão Guerreiro Norte (PSD) - Fernando José da Costa (PSD) - Luís Nandim de Carvalho (PSD) - Armando dos Santos Lopes (PS) - António José Sanches Esteves (PS) - Luís Manuel dos Santos Silva Patrão (PS) - António Cândido de Miranda Macedo (PS) - João Alfredo Félix Vieira Lima (PS) - Maria José Sampaio (CDS) - Alberto Henriques Coimbra (CDS) - Armando de Oliveira (CDS) - Francisco Meneses Falcão (CDS)-Narana Coissoró (CDS) - Álvaro Augusto Veiga de Oliveira (PCP) - José Manuel Maia Nunes de Almeida (PCP) - Fernando de Almeida Sousa Marques (PCP) - Augusto Ferreira do Amaral (PPM) - Vilhena de Carvalho (ASDI) -Rui Polónio Sampaio (UEDS) - Raul de Castro (MDP) -Mário Tomé (UDP).- O Relator, Carlos Candal.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
    "text": "12 I SÉRIE - NÚMERO 1", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Se nenhum dos Srs. Deputados deseja usar da palavra, vamos passar à votação deste novo relatório e parecer.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Se nenhum dos Srs. Deputados deseja usar da palavra, vamos passar à votação deste novo relatório e parecer.\nSubmetido à votação, foi aprovado por maioria, com a abstenção do Sr.Deputado Mário Tomé, da UDP.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetido à votação, foi aprovado por maioria, com a abstenção do Sr.Deputado Mário Tomé, da UDP.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "O Sr. Vital Moreira (PCP):- Dá-me licença, Sr. Presidente?", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Vital Moreira.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vital Moreira.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Vital Moreira* (PCP): Sr. Presidente, eu não chamei a atenção antes da votação - achei que não valia a pena-, mas, em todo o caso, é pouco curial que tenham votado deputados que ainda o não eram antes do momento da votação, isto é, deputados que iam substituir outros, substituição de que se estava a tratar. Há vários, toda a gente está a olhar para eles, mas creio que era curial que ainda cá não estivessem.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Vital Moreira", 
+   "text": "Sr. Presidente, eu não chamei a atenção antes da votação - achei que não valia a pena-, mas, em todo o caso, é pouco curial que tenham votado deputados que ainda o não eram antes do momento da votação, isto é, deputados que iam substituir outros, substituição de que se estava a tratar. Há vários, toda a gente está a olhar para eles, mas creio que era curial que ainda cá não estivessem.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: A Mesa não se apercebeu da presença dos Srs.Deputados que só depois da aprovação do parecer realmente poderiam tomar lugar na Sala.\nEntende a Câmara que os Srs. Deputados deverão abandonar a Sala para se voltar a repetir a votação ou, perante o resultado dela, consideram sanada a eventual irregularidade?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "A Mesa não se apercebeu da presença dos Srs.Deputados que só depois da aprovação do parecer realmente poderiam tomar lugar na Sala.\nEntende a Câmara que os Srs. Deputados deverão abandonar a Sala para se voltar a repetir a votação ou, perante o resultado dela, consideram sanada a eventual irregularidade?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Entendo o silêncio da Câmara como considerando sanada a irregularidade, não obstante a pertinência da observação do Sr. Deputado Vital Moreira.\nSrs. Deputados, com a aprovação destes dois pareceres está definida a legitimidade plena de todos e de cada um de VV. Ex.ªs.\nEncerrado este ponto de ordem do dia, vai de seguida ser lida a mensagem enviada pelo Sr. Presidente da República a esta Assembleia.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Marília Raimundo):- É do seguinte teor a mensagem do Sr. Presidente da República", 
    "speaker": "A Sr.ª Secretária", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Marília Raimundo):- É do seguinte teor a mensagem do Sr. Presidente da República", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "No início de uma nova legislatura da Assembleia da República quero, antes de mais, apresentar aos Srs. Deputados os meus cumprimentos e felicitar cada um pela sua eleição. Não é constitucionalmente obrigatório que a legislatura abra por uma sessão solene à qual venha o Presidente da República. Mas representaria da minha parte extrema falta de cortesia não saudar, neste começo da II Legislatura, a Assembleia e todos os seus membros. Mau grado as dificuldades que nos últimos quatro anos tivemos de enfrentar, sobretudo no plano económico e financeiro, a institucionalização da democracia está a fazer-se.\nNa base da consolidação do sistema democrático encontram-se alguns factores fundamentais. Encontra-se, primeiro que tudo, a vontade hoje intransigente do povo português, que soube assumir nas suas mãos o destino colectivo, que quer ser, como é agora, povo de cidadãos e nunca mais conjunto apenas de súbditos - e que, estamos certos, será capaz de se defender de todas as ameaças que no horizonte possam algum dia vir a pairar. Para alguns portugueses a composição do Parlamento não corresponderá ao seu desejo, como ao de outros não corresponderiam composições anteriores. Mas é indispensável que todos vejamos nessa Assembleia a expressão da vontade colectiva em cuja formação todos também participámos. E- é indispensável ainda dizermos e repetirmos que todos queremos um Parlamento que, qualquer que seja a distribuição de forças, traduza, no quadro do pluralismo democrático, a legitimidade popular- única verdadeira e definitiva.\nFactor de institucionalização democrática foi também o comportamento das forças armadas.\nSó em momentos cruciais da história de um país, quando governos ilegítimos comprometem decisivamente o destino nacional, ou por acção externa a independência fica ameaçada ou prejudicada, sem que os mecanismos próprios de representação sejam capazes de funcionar-só em casos desses podem, e então, iniludivelmente, devem, as forças armadas assumir autonomamente responsabilidade política.\nAssim o tiveram de fazer as forças armadas portuguesas em 25 de Abril de 1974.\nDesde o início, porém, o então chamado «Movimento das Forças Armadas» entendeu a sua legitimidade como transitória e assumiu o compromisso de, mediante a eleição livre de uma assembleia constituinte, reconduzir o poder à sua origem.\nO compromisso das forças armadas esteve quase a ser rompido, no desenrolar de um processo de convulsão colectiva em que os militares se viram, numa grande medida, instrumentalizados. Mas as forças armadas ainda souberam e conseguiram responder ao apelo da resistência do povo português- e em 25 de Novembro de 1975 a legalidade democrática pôde ser restabelecida, a Assembleia Constituinte encontrou garantias de cumprimento da sua missão e o processo de reestruturação das forças armadas, de restabelecimento da hierarquia e da disciplina e de rigorosa subordinação à legalidade democrática pôde começar.\nÉ certo que, por livre acordo entre os principais partidos e representantes do Conselho da Revolução, se decidiu que este transitoriamente subsistisse. O objectivo não era o de criar quaisquer formas de tutela, mas sim o de, após a clara intervenção política que na Revolução a instância militar havia assumido, restringir e conter essa intervenção e separá-la quanto possível da estrutura e do normal funcionamento das forças armadas. Houve, por isso, o cuidado de evitar que o Conselho da Revolução, sendo embora um órgão de composição militar, e com importantes competências no domínio militar, funcionasse como órgão representativo das forças armadas enquanto tais. E houve igualmente a cautela de, num domínio particularmente delicado, . como é a fiscalização da inconstitucionalidade, acompanhar o Conselho de uma comissão especializada e representativa sobre cujo parecer se pudesse apoiar.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Marília Raimundo):- É do seguinte teor a mensagem do Sr. Presidente da República", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "14 DE NOVEMBRO DE 1980 13", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Marília Raimundo):- É do seguinte teor a mensagem do Sr. Presidente da República", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "Tratava-se, no fundo, de um ponto transitório de contacto entre o período da Revolução e o da Constituição. E esperava-se que a extinção formal do Conselho, prevista desde o início, pudesse corresponder a um processo natural em que, a par da progressiva institucionalização democrática, o relevo político real daquele orgão fosse diminuindo.\nJulgo que, no essencial, assim aconteceu. De qualquer modo, com os olhos no futuro, não se justificam grandes discussões. O início desta legislatura, em que a Assembleia da República vem investida de poderes de revisão constitucional, marca o começo do processo que conduzirá ao termo do período de transição. O Conselho da Revolução será extinto e não sobreviverá, directa ou indirectamente, por nenhuma forma. É ponto assente. Não vale a pena querer abrir portas que já estão abertas.\nOutro elemento basilar do processo de institucionalização da democracia foram os partidos políticos.\nEmbora o Programa do Movimento das Forças Armadas, que representava a carta política fundamental do 25 de Abril, se mostrasse tímido a seu respeito, logo se assistiu à afirmação categórica dos partidos políticos, uns saídos da luta na clandestinidade contra a ditadura, outros então constituídos. O crivo eleitoral desfez muitas ilusões e definiu um quadro de grandes partidos que, embora com variação relativa das posições, se mantêm.\nOs partidos políticos constituem a peça essencial da democracia pluralista e a subsistência desta encontra-se condicionada pela vitalidade daqueles. Mas depende também do respeito comum de regras fundamentais, que fixem clara e lealmente o quadro da concorrência política, que não sejam constantemente postas em causa e de que nenhum dos concorrentes se aproprie.\nOs repositórios dessas regras são a Constituição e as leis políticas fundamentais (designadamente leis eleitorais, leis dos partidos políticos, Lei da Imprensa e leis relativas aos direitos de reunião e associação).\nPor isso, a Constituição e essas leis representaram, também elas, factor decisivo de institucionalização do sistema democrático.\nA azáfama política do dia-a-dia, o debate permanente e ensurdecedor e o combate nem sempre leal tornam a memória curta. Mas, se fizermos um esforço para nos distanciarmos da conjuntura e olharmos para trás, recordaremos seguramente que, após o 25 de Abril, a batalha pela democracia pluralista esteve indissociavelmente ligada à batalha pela Constituição.\nNão me cabe discutir se a Constituição é boa ou má: foram- os representantes do povo, investidos por este do poder constituinte originário, que a aprovaram - pelo voto, aliás, de mais de 90 % dos deputados. Os órgãos de Soberania têm apenas de respeitá-la como é, enquanto não for revista pelas formas que ela mesma estabelece. E o Presidente da República, que a jura, tem ainda que defendê-la seja qual for o seu conceito.\nCom isto toco o último dos factores de consolidação democrática que queria referir: o sistema de divisão, interdependência e equilíbrio de poderes.\nA democracia pluralista, que resulta da interpretação liberal do princípio democrático, reclama, por sua própria natureza, a limitação do poder. Aí, precisamente, o Estado democrático, como o entendemos, se distingue do Estado totalitário e autoritário.\nOra, por muito que o tempo haja passado, uma das traves-mestras em que assenta a limitação da autoridade continua a ser a separação de poderes. É, todavia, indispensável que esta não se torne simplesmente formal, isto é, que por detrás da diversidade jurídica dos órgãos não se insinue um contrôle único e não se estabeleça a unidade de decisão e de comando, que os vários órgãos não sejam meros instrumentos de uma só e ilimitada vontade.\nA Constituição, para além de procurar salvaguardar a independência dos tribunais, moldou a separação de poderes na base de dois órgãos com a mesma origem e legitimidade paralelas, ambos provindos do sufrágio directo e universal: o Presidente da República e a Assembleia da República. Perante ambos responde politicamente o Governo.\nO sistema tem virtualidades que os quatro anos passados, vistos com isenção, julgamos demonstrarem, sobretudo enquanto permite superar bloqueios que possam decorrer da composição parlamentar- situação que, aliás, neste momento não se verifica. Mas exige um cuidadoso respeito mútuo por parte dos vários órgãos e um claro reconhecimento recíproco da competência de cada um.\nA democracia que preparámos em 25 de Abril de 1974, que salvámos em 25 de Novembro de 1975, que formalizámos, com a Constituição, em 25 de Abril de 1976 cumpriu a sua 1.ª fase de consolidação.\nMas a habituação não pode permitir que nos esqueçamos de que a democracia é um valor precioso e delicado, que reclama cuidados e atenções constantes - para não termos de recordá-los apenas, e dolorosamente então, quando a houvermos perdido.\nA facilidade com que algumas vezes o sistema democrático se consome resulta, numa parte, de constituir um processo de concorrência política, que, no plano parlamentar, é e deve ser permanente. Por isso, a democracia exige dos seus protagonistas sobretudo consciência do que é, por natureza, passageiro e do que deve ser duradouro; do que é secundário e do que é essencial. E auto-limitação ainda: para que os interesses conjunturais não se sobreponham à salvaguarda do sistema, para que os fundamentos não sejam permanentemente postos em causa, para que a parte não se confunda com o todo, para que o jogo das várias ambições não conduza ao suicídio colectivo.\nEm matéria da defesa da democracia, qualquer excesso de confiança se torna perigoso. A história mostra como ditaduras se instalaram quando", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Marília Raimundo):- É do seguinte teor a mensagem do Sr. Presidente da República", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "14 I SÉRIE - NÚMERO 1", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Marília Raimundo):- É do seguinte teor a mensagem do Sr. Presidente da República", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "tudo fazia crer que às condições internas e externas eram favoráveis ao sistema democrático. E revela frequentemente a cegueira que impede no meio de querelas e paixões de ver os inimigos às portas da cidade.\nSrs. Deputados: Quando acabámos de trilhar o primeiro percurso da II República democrática, a responsabilidade de todos os órgãos de Soberania redobra.\nE acentua-se em virtude de a Assembleia da República vir munida de poderes de revisão constitucional. É outra particularidade desta legislatura.\nQue a Constituição tem de ser revista, ninguém - o coloca em dúvida. De resto, há necessariamente que pôr termo àquilo que foi chamado o «período de transição», extinguindo o Conselho da Revolução e atribuindo as suas competências a outros órgãos.\nOs poderes de revisão pertencem à Assembleia, e, por isso, só a ela compete definir o conteúdo das alterações que se hajam de introduzir na Lei Fundamental.\nO ponto que aqui quero referir é outro. O poder de revisão \nconstitucional tem a natureza de um poder derivado que se funda na própria Constituição. Isto significa que, sob pena de se romper a continuidade jurídica, de deixar de haver revisão para passar a existir nova Constituição, sob pena de se trair o mandato recebido, a revisão constitucional tem de observar as normas que a regem.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "A Sr.ª Teresa Ambrósio (PS): Muito bem!", 
-   "type": "documento"
+   "text": "Muito bem!", 
+   "type": "speaker_error"
   }, 
   {
    "text": "A Oradora:- E significa que nenhum Presidente da Republica - o qual, no início das funções, jura a Constituição - poderá, dentro dos limites da sua competência, admitir uma mudança constitucional que não observe o processo prescrito de revisão.", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "text": "O Sr. Rui Pena (CDS):- É um espanto!", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
    "text": "A Oradora:- Nos termos do artigo 286.º, n.º 2, que respeita à primeira revisão constitucional, «as alterações da Constituição terão de ser aprovadas por maioria de dois terços dos deputados presentes desde que superior à maioria absoluta dos deputados em efectividade de funções, e o Presidente da República não poderá recusar a promulgação da lei da revisão».\nNão importa discutir se a exigência de uma maioria qualificada deveria ou não ter sido feita: é a que existe. (Risos PSD e CDS.) Tem, aliás, paralelo em muitas constituições e a Assembleia Constitucional votou o preceito por unanimidade. De resto, a razão de ser da disposição mostra-se facilmente compreensível. Trata-se de distinguir maiorias de governo e de regime, de modo a evitar que a Constituição flutue ao sabor da conjuntura ou que se torne objecto de apropriação por maioria de circunstância.\nSó pelo voto da maioria qualificada de dois terços pode a Constituição ser alterada.\nPodem-se discutir no plano teórico a legitimidade e no plano prático as vantagens e os inconvenientes do referendo.\nA questão é antiga e esteve ligada à querela - entre a democracia representativa e democracia semidirecta - a qual, aliás, dispõe ainda de outros instrumentos, como a iniciativa popular e o direito de destituição dos representantes. Associou-se também à significativa limitação da liberdade que a opção por via de regra entre apenas dois termos de uma alternativa frequentemente implica.\nNo aspecto político, o referendo é um processo que pode apresentar muitas modalidades e a sua vantagem ou desvantagem depende em grande medida da modalidade que se adopte e das condições concretas do tempo e do país em que se aplique. Umas vezes o referendo tem sido um instrumento efectivo de participação popular no exercício da autoridade. Outras, tornando-se plebiscito, tem representado um meio de personalização do Poder.\nEntre nós, não temos tradição de referendo, mesmo constituinte. O exemplo que há é o da aprovação plebiscitaria da Constituição de 1933 e não se mostra abonatório.", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
    "text": "O Sr. Manuel Alegre (PS):- Muito bem!", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
    "text": "A Oradora:- Por outro lado, as circunstâncias justificam o receio de que um referendo de revisão associada a uma mera maioria parlamentar simples viesse a funcionar como um factor de bloqueio, muito mais do que de abertura, de instabilidade, muito mais do que consolidação, de divisão, muito mais do que de unidade.\nSe a Assembleia da República, pela maioria qualificada de dois terços, referida no artigo 286.º, quisesse instituir para o futuro a revisão por referendo nestas ou naquelas condições, poderia discutir-se se seria uma boa ou má decisão - mas \nseria sempre, sem dúvida, uma decisão legítima.\nExcepção feita a esse caso, nenhum orgão poderá admitir a via referendária de revisão sem pôr em causa, e negar, a sua própria legitimidade pois a de todos eles é estabelecida ao abrigo da Constituição.\nNem se diga, a este propósito, que, pelo referendo, o povo exerceria o poder constituinte originário que sempre lhe pertence. Pois, além do mais, restaria saber quem teria competência para inquirir o eleitorado e em que termos. E ninguém constitucionalmente a possui.\nSó nos momentos revolucionários a legitimidade se manifesta inorgânica e informalmente.\nFora deles, exprime-se através da legalidade. Se a legalidade não é necessariamente legítima, não há, excluídos aqueles momentos, e sobretudo num Estado de direito, legitimidade que não seja coberta pela legalidade.", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
    "text": "14 DE NOVEMBRO DE 1980 15", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
    "text": "Ora nenhum Orgão de Soberania recebeu ou receberá mandato para fazer revoluções ou rupturas.\nE o ponto político fundamental está aqui: se hoje, com a melhor das intenções que fosse, abríssemos a porta a uma ruptura, ainda que pacífica, perderíamos pelo menos a autoridade moral para amanhã nos opormos a quem quer que, arrogando-se uma qualquer representação, quisesse destruir o sistema democrático.\nPara o Presidente da República há, aliás, ainda, e haverá sempre, um outro limite, insuperável: o do seu próprio juramento de fidelidade às instituições.\nSrs. Deputados: Inicia-se hoje a II Legislatura da II República democrática. Que a Assembleia tenha sucesso no cumprimento da sua missão, e em particular na elaboração da lei da revisão constitucional, é o meu voto sincero.\nE não posso crer que, com sentido das realidades e vontade de compromisso, não seja possível encontrar o consenso necessário para que o povo português se possa, com unidade, sentir identificado no resultado do trabalho da Assembleia.", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
    "text": "Lisboa, 13 de Novembro de 1980. - O Presidente da República, A. Ramalho Eanes.", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
    "text": "Aplausos de alguns deputados do PS e do PCP, da ASDI, do MDP/CDE e da Deputada Santa Clara Gomes (UEDS).", 
-   "type": "documento"
+   "type": "continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, depois da leitura da mensagem de S.\nEx.ª o Sr. Presidente da República, resta-me apenas comunicar a VV.\nEx.ªs que a Assembleia voltará a reunir em Plenário na próxima terça-feira, às 15 horas, com a seguinte ordem do dia: eleição dos membros da Mesa da Assembleia.\nDevo informar que as candidaturas que os partidos desejem apresentar devem ser subscritas pelo mínimo de trinta a um máximo de cinquenta Srs. Deputados até dois dias antes da reunião da Assembleia para esse fim. Por consenso estabelecido na reunião dos grupos parlamentares, ficou assente que o termo do prazo era no dia lie, portanto, como as candidaturas são entregues ao Presidente em exercício, o Gabinete da Presidência da Assembleia da República assegurará até às 13 horas do próximo sábado, dia 15, a recepção de quaisquer candidaturas.\nEstá encerrada a sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, depois da leitura da mensagem de S.\nEx.ª o Sr. Presidente da República, resta-me apenas comunicar a VV.\nEx.ªs que a Assembleia voltará a reunir em Plenário na próxima terça-feira, às 15 horas, com a seguinte ordem do dia: eleição dos membros da Mesa da Assembleia.\nDevo informar que as candidaturas que os partidos desejem apresentar devem ser subscritas pelo mínimo de trinta a um máximo de cinquenta Srs. Deputados até dois dias antes da reunião da Assembleia para esse fim. Por consenso estabelecido na reunião dos grupos parlamentares, ficou assente que o termo do prazo era no dia lie, portanto, como as candidaturas são entregues ao Presidente em exercício, o Gabinete da Presidência da Assembleia da República assegurará até às 13 horas do próximo sábado, dia 15, a recepção de quaisquer candidaturas.\nEstá encerrada a sessão.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 21 horas.", 
@@ -711,100 +768,122 @@
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Armando Costa.\nBernardino da Costa Pereira.\nJoão António Gonçalves.\nJoão Aurélio Dias Mendes.\nJosé Bento Gonçalves.\nJosé Teodoro da Silva.\nLeonel Santa Rita Pires.\nManuel António Lopes Ribeiro.\nManuel Ribeiro Arruda.\nManuel Vaz Freixo.\nMaria Margarida R. C. S. Moura Ribeiro.\nPedro Miguel de Santana Lopes.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "João Francisco Ludovico da Costa.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Américo Maria Coelho Gomes de Sá.\nAntónio José T. Gomes de Pinho.\nFrancisco Gonçalves C. de Ferreira.\nIsilda da Silva Barata.\nJoão José M. Ferreira Pulido Almeida.\nJosé Alberto de Faria Xerez.\nJosé Manuel Rodrigues Casqueiro.\nLuísa Maria Freire C. Vaz Raposo.\nManuel Eugénio P. Cavaleiro Brandão.\nMaria Cândida Von Hafe A. Cunha Perez.\nRogério Ferreira Monção Leão.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Popular Monárquico (PPM)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Jorge Vítor M. Portugal da Silveira.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Movimento Democrático Português (MDP/CDE)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Herberto de Castro Goulart da Silva.\nHelena Tâmega Cidade Moura.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Cipriano Rodrigues Martins.\nFernando José F. Fleming de Oliveira.\nPedro Augusto Cunha Pinto.\nRui Alberto Barradas do Amaral.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António Magalhães da Silva.\nAntónio Manuel Maldonado Gonelha.\nFernando Torres Marinho.\nJosé Luís do Amaral Nunes.\nMário Lopes Soares.\nRui Fernando Pereira Mateus.\nVirgílio Fernando Marques Rodrigues.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António Mendes de Carvalho.\nJoão Cantinho M. Figueiras de Andrade.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Lino Carvalho Lima.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Acção Social-Democrata Independente (ASDI)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António Luciano P. Sousa Franco.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "PREÇO DESTE NÚMERO 16$00", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "IMPRENSA NACIONAL-CASA DA MOEDA", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

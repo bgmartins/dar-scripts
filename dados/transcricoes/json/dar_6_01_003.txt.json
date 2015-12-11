@@ -29,8 +29,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 21 horas e 5 minutos.", 
@@ -39,25 +40,31 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Adão José Fonseca e Silva.\nAdérito Manuel Soares Campos.\nAdriano da Silva Pinto.\nAlberto Cerqueira de Oliveira.\nAlberto Monteiro de Araújo.\nAlípio Barrosa Pereira Dias.\nÁlvaro José Martins Viegas.\nÁlvaro Roque de Pinho Bissaia Barreto.\nAna Paula Matos Barros.\nAntónio de Carvalho Martins.\nAntónio do Carmo Branco Malveiro.\nAntónio Esteves Morgado.\nAntónio Fernandes de Sá e Abreu.\nAntónio Joaquim Correia Vairinhos.\nAntónio José Barradas Leilão.\nAntónio José Caeiro da Mota Veiga.\nAntónio Manuel Fernandes Alves.\nAntónio Maria Pereira.\nAntónio Moreira Barbosa de Melo.\nAntónio Paulo Martins Pereira Coelho.\nAntónio Roleira Marinho.\nAntónio da Silva Bacelar.\nAristides Alves do Nascimento Teixeira.\nArmando de Carvalho Guerreiro da Cunha.\nArménio dos Santos.\nBelarmino Henriques Correia.\nBernardino Gata da Silva.\nCarlos Alberto Lopes Pereira.\nCarlos Almeida Figueiredo.\nCarlos Lélis da Câmara Gonçalves.\nCarlos Manuel Duarte Oliveira.\nCarlos Manuel Maria Gonçalves.\nCarlos Manuel Oliveira da Silva.\nCarlos Miguel M. de Almeida Coelho.\nCarlos Miguel de Valleré P. de Oliveira.\nCecília Pita Catarino.\nDelmar Ramiro Palas.\nDomingos Duarte Lima.\nDuarte Rogério Matos V. Pacheco.\nEduardo Alfredo de C. Pereira da Silva.\nElói Franklin Fernandes Ribeiro.\nEma Maria Lóia Paulista.\nDomingos José Soares A. Lima.\nFernando Carlos Branco M. Andrade.\nFernando José Antunes Gomes Pereira.\nFernando José da Costa.\nFernando José Roque Correia Afonso.\nFernando Manuel Alves Cardoso Ferreira.\nFernando dos Reis Condesso.\nFernando Santos Pereira.\nFilipe Manuel da Silva Abreu.\nFrancisco Antunes da Silva.\nFrancisco João Bernardino da Silva.\nGuido Orlando de Freitas Rodrigues.\nGuilherme Henrique V. Rodrigues da Silva.\nHilário Torres Azevedo Marques.\nJaime Carlos Marta Soares.\nJaime Gomes Mil-Homens.\nJosé Alberto Granja dos S. Silva.\nJoão Álvaro Poças Santos.\nJoão Domingos Abreu Salgado.\nJoão José da Silva Maçãs.\nJoão do Lago V. Mota.\nJoão Maria Leitão de Oliveira Martins.\nJoão Cardoso Martins.\nJoaquim Eduardo Gomes.\nJoaquim Manuel Cabrita Neto.\nJoaquim Maria Fernandes Marques.\nJoaquim Vilela de Araújo.\nJorge Paulo Roque da Cunha.\nJosé Alberto Puig dos Santos Cosia.\nJosé de Almeida Cesário.\nJosé Angelo Ferreira Correia.\nJosé Augusto Santos da Silva Marques.\nJosé Bernardo Veloso Falcão e Cunha.\nJosé Fortunato Freitas Costa Silva.\nJosé Guilherme Reis Leite.\nJosé Júlio Carvalho Ribeiro.\nJosé Leite Machado.\nJosé Macário Custódio Correia.\nJosé Manuel Borregana Meireles.\nJosé Manuel da Silva Cosia.\nJosé Mário Lemos Damião.\nJosé de Oliveira Cosia.\nJosé Pacheco Pereira.\nJosé Pereira Lopes.\nLeonardo Eugénio Ribeiro de Almeida.\nLuís António Carrilho da Cunha.\nLuís António Martins.\nLuís Carlos David Nobre.\nLuís Filipe Garrido Pais de Sousa.\nLuís Manuel Costa Geraldes.\nManuel Albino Casimira de Almeida.\nManuel Antero da Cunha Pinto.\nManuel Acácio Martins Roque.\nManuel Castro de Almeida.\nManuel da Costa Andrade.\nManuel Joaquim Baptista Cardoso.\nManuel Lima Amorim.\nManuel Maria Moreira.\nManuel da Silva Azevedo.\nMaria Margarida da C. P. Taveira Sousa.\nMaria da Conceição Figueira Rodrigues.\nMaria da Conceição U. de Castro Pereira.\nMaria Fernanda Dias Cardoso.\nMaria Fernanda Correia da Mota Pinto.\nMaria José Paulo Barbosa Correia.\nMaria Leonor Beleza Mendonça Tavares.\nMaria de Lurdes Póvoa Costa.\nMaria Luísa Lourenço Ferreira.\nMaria Manuela Aguiar Dias Moreira.\nMaria Dulce Coelho Morgado Raimundo.\nMário Jorge Belo Maciel.\nMário Júlio Montalvão Machado.\nMário Silva Coutinho Albuquerque.\nMelchior Ribeiro Pereira Moreira.\nMiguel Bento Martins de Macedo e Silva.\nMiguel Fernando Cassola Miranda Relvas.\nNuno Francisco F. Delerue Alvim de Matos.\nPedro Augusto Cunha Pinto.\nPedro Domingos de Sousa Holstein Campilho.\nPedro Manuel Mamede Pessoa Coelho.\nRui Alberto Limpo Salvada.\nRui Carlos Alvarez Carp.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "8 DE NOVEMBRO DE 1991 31", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Rui Fernando da Silva Rio.\nRui Manuel Lobo Gomes da Silva.\nRui Manuel Parente Chancerelle de Machete.\nSimão José Ricon Peres.\nTelmo José Moreno.\nVasco Francisco Aguiar Miguel.\nVirgílio de Oliveira Carneiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -112,92 +119,83 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos proceder, nesta sessão, à eleição dos representantes dos grupos parlamentares para o Conselho de Administração da Assembleia da República. Foram designados para escrutinadores os Srs. Deputados Maria da Conceição Castro Pereira, Rui Cunha e Rogério Brito. Agradeço-lhes que se dirijam para o lugar em que se encontram as umas.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputado independente", 
-   "text": "Srs. Deputados, vamos, então, dar início à votação, exercendo a Mesa o seu direito de voto, em primeiro lugar, seguindo-se a chamada dos Srs.Deputados por ordem alfabética.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos proceder, nesta sessão, à eleição dos representantes dos grupos parlamentares para o Conselho de Administração da Assembleia da República. Foram designados para escrutinadores os Srs. Deputados Maria da Conceição Castro Pereira, Rui Cunha e Rogério Brito. Agradeço-lhes que se dirijam para o lugar em que se encontram as umas.\nSrs. Deputados, vamos, então, dar início à votação, exercendo a Mesa o seu direito de voto, em primeiro lugar, seguindo-se a chamada dos Srs.Deputados por ordem alfabética.", 
+   "type": "presidente"
   }, 
   {
    "text": "Procedeu-se à votação.", 
    "type": "voto"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, para que os Srs. Deputados escrutinadoras procedam à contagem dos votos, declaro interrompida a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 21 horas e 25 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, está reaberta a sessão. Eram 21 horas e 40 minutos.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, o Sr. Deputado Secretário vai proceder à leitura da acta do escrutínio feito.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "32 I SÉRIE - NÚMERO 3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Secretário* (João Salgado): Srs. Deputados, é do seguinte teor a acta da eleição dos representantes dos grupos parlamentares para o Conselho de Administração da Assembleia da República: \nAos 7 dias do mês de Novembro de 1991 procedeu-se à eleição dos representantes dos grupos parlamentares para o Conselho de \nAdministração da Assembleia da República.\nO resultado obtido nos termos do artigo 12.º da Lei n.º 77/88, de 1 de Julho, foi o seguinte:", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputado independente", 
-   "text": "Votantes - 190.", 
-   "type": "deputado_continuacao"
+   "party": "João Salgado", 
+   "speaker": "Secretário", 
+   "text": "Srs. Deputados, é do seguinte teor a acta da eleição dos representantes dos grupos parlamentares para o Conselho de Administração da Assembleia da República: \nAos 7 dias do mês de Novembro de 1991 procedeu-se à eleição dos representantes dos grupos parlamentares para o Conselho de \nAdministração da Assembleia da República.\nO resultado obtido nos termos do artigo 12.º da Lei n.º 77/88, de 1 de Julho, foi o seguinte:\nVotantes - 190.", 
+   "type": "secretario"
   }, 
   {
    "speaker": "Lista A", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
    "speaker": "Lista A", 
    "text": "Sim - 187; \nNão - 2; \nAbstenção - 0.", 
-   "type": "deputado_continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
    "speaker": "Lista A", 
    "text": "Face ao resultado declaram-se eleitos os candidatos propostos.\nPara constar se lavrou a presente acta, que vai ser devidamente assinada, tendo-se ainda registado um voto nulo.", 
-   "type": "deputado_continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
-   "speaker": "Lista A", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, face aos resultados acabados de anunciar, proclamo eleitos, para o Conselho de Administração, os seguintes Srs. Deputados:", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, face aos resultados acabados de anunciar, proclamo eleitos, para o Conselho de Administração, os seguintes Srs. Deputados:", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Efectivos", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Efectivos", 
    "text": "Joaquim Maria Fernandes Marques (PSD), José Lello Ribeiro de Almeida (PS), João António Gonçalves do Amaral (PCP), José Luís Nogueira de Brito (CDS), Isabel Maria de Almeida e Castro (Os Verdes);", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Suplentes", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Suplentes", 
    "text": "Manuel de Castro Almeida (PSD), Rui do Nascimento Rabaça Vieira (PS), José Manuel Maia Nunes de Almeida (PCP), Manuel Tomás Rodrigues Queiró (CDS) e André Valente Martins (Os Verdes).", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos gerais.", 
@@ -206,7 +204,7 @@
   {
    "speaker": "Suplentes", 
    "text": "Srs. Deputados, terminámos, por hoje, os nossos trabalhos.\nA próxima sessão plenária terá lugar na segunda-feira, dia 11, pelas 15 horas, paia a apresentação, nos termos regimentais e constitucionais, do Programa do Governo.\nEstá, pois, encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 21 horas e 45 minutos.", 
@@ -215,25 +213,25 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "Vítor Pereira Crespo.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
    "speaker": "Partido Socialista", 
    "text": " José Eduardo Vera Cruz Jardim.", 
-   "type": "deputado_aparte"
+   "type": "deputado_intervencao"
   }, 
   {
    "speaker": "Deputado independente", 

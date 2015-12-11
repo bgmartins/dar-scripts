@@ -41,8 +41,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a reunião.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a reunião.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 15 horas e 5 minutos.", 
@@ -51,24 +52,27 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Presidente: Vítor Pereira Crespo (PSD).", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Vice-Presidentes", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Vice-Presidentes", 
    "text": "Maria Manuela Aguiar Dias Moreira (PSD).\nJoão Eduardo Coelho Ferraz de Abreu (PS).\nJosé Manuel Maia Nunes de Almeida (PCP).\nAntónio Alves Marques Júnior (PRD).\nReinaldo Alberto Ramos Gomes (PSD).\nAmândio Santa Cruz D. Basto Oliveira (PSD).\nAntónio Paulo Pereira Coelho (PSD).\nGuilherme Henrique V. Rodrigues da Silva (PSD).\nDomingos Duarte Lima (PSD).\nFernando Manuel A. Cardoso Ferreira (PSD).\nGuido Orlando de Freitas Rodrigues (PSD).\nCarlos Manuel Oliveira da Silva (PSD).\nAntónio Jorge Santos Pereira (PSD).\nJosé Augusto S. da Silva Marques (PSD).\nAntónio Costa de A. Sousa Lara (PSD).\nDaniel Abílio Ferreira Bastos (PSD).\nMiguel Fernando C. Miranda Relvas (PSD).\nJosé Manuel da Silva Torres (PSD).\nAntónio Manuel de Oliveira Guterres (PS).\nArmando António Martins Vara (PS).\nJoão Rui Gaspar de Almeida (PS).\nJorge Lacão Costa (PS).\nRui do Nascimento Rabaça Vieira (PS).\nCarlos Alfredo de Brito (PCP).\nAna Paula da Silva Coelho (PCP).\nHermínio Paiva Fernandes Martinho (PRD).\nNarana Sinai Coissoró (CDS).\nHerculano da Silva Pombo Sequeira (PEV).", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Vice-Presidentes", 
    "text": "Srs. Deputados, da nossa ordem de trabalhos de hoje consta apenas a apreciação e \nvotação de um parecer e proposta de resolução da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação.\nAntes, porém, vamos apreciar e votar um relatório e parecer da Comissão de Regimento e Mandatos, que vai ser lido imediatamente.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 

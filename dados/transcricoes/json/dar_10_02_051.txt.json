@@ -380,23 +380,24 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "Vozes do PSD: É verdade!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "É verdade!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: Pensaram que ele tinha medo de eleições. Mas agora, que efectivamente há essa possibilidade de irem para eleições, VV. Ex.as retraem-se e já dão o dito pelo não dito! Mas compreendam esta questão: \nnão se faz o que VV. Ex.as fizeram, que foi alterar as regras de funcionamento democrático de uma Região a meio de um mandato.", 
+   "text": "Pensaram que ele tinha medo de eleições. Mas agora, que efectivamente há essa possibilidade de irem para eleições, VV. Ex.as retraem-se e já dão o dito pelo não dito! Mas compreendam esta questão: \nnão se faz o que VV. Ex.as fizeram, que foi alterar as regras de funcionamento democrático de uma Região a meio de um mandato.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Luís Montenegro* (PSD): É verdade!", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Montenegro", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: VV. Ex.as sabiam que havia compromissos sufragados pela população da Madeira em eleições livres, VV. Ex.as sabiam que havia um programa de governo que estava aprovado pela Assembleia Regional, VV.\nEx.as sabiam que havia esses compromissos, pelo que não é correcto, não é lícito e não é sério retirar meios para o cumprimento desse programa a meio do mandato, abusando de uma maioria que têm na Assembleia da República.\nO Sr. Deputado atacou o líder do meu partido. Há uma coisa que lhe quero dizer, que é, com certeza, diferente do que acontece no seu partido: nós, cá dentro, sabemos ser solidários uns para com os outros.\nE quem não sabe ser solidário dentro da sua casa dificilmente sabe ser solidário com o povo português, como nós somos e VV. Ex.as não são.", 
+   "text": "VV. Ex.as sabiam que havia compromissos sufragados pela população da Madeira em eleições livres, VV. Ex.as sabiam que havia um programa de governo que estava aprovado pela Assembleia Regional, VV.\nEx.as sabiam que havia esses compromissos, pelo que não é correcto, não é lícito e não é sério retirar meios para o cumprimento desse programa a meio do mandato, abusando de uma maioria que têm na Assembleia da República.\nO Sr. Deputado atacou o líder do meu partido. Há uma coisa que lhe quero dizer, que é, com certeza, diferente do que acontece no seu partido: nós, cá dentro, sabemos ser solidários uns para com os outros.\nE quem não sabe ser solidário dentro da sua casa dificilmente sabe ser solidário com o povo português, como nós somos e VV. Ex.as não são.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -409,73 +410,76 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Pedro Mota Soares.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Pedro Mota Soares.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Pedro Mota Soares", 
+   "text": "Sr. Presidente, Sr. Deputado Alberto Martins, ouvi muito atentamente a sua intervenção e estranhei que, logo no início, V. Ex.ª não tenha reconhecido que há hoje na Região Autónoma da Madeira um problema. A verdade é que há hoje um problema, e esse problema tem responsáveis. E o primeiro responsável chama-se José Sócrates, acompanhado pelo Sr. Deputado Alberto Martins e pela sua bancada.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Pedro Mota Soares* (CDS-PP): Sr. Presidente, Sr. Deputado Alberto Martins, ouvi muito atentamente a sua intervenção e estranhei que, logo no início, V. Ex.ª não tenha reconhecido que há hoje na Região Autónoma da Madeira um problema. A verdade é que há hoje um problema, e esse problema tem responsáveis. E o primeiro responsável chama-se José Sócrates, acompanhado pelo Sr. Deputado Alberto Martins e pela sua bancada.", 
+   "text": "É muito curioso que lembremos aqui que parte da origem desse problema começou quando o PS, pela primeira vez, conseguiu o feito de aprovar uma lei de finanças regionais sozinho. É que, até então, as leis de finanças regionais tinham sido todas votadas por unanimidade! Curiosamente a última lei de finanças regionais…", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "Vozes do CDS-PP: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Porque é que não votaram contra?!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: É muito curioso que lembremos aqui que parte da origem desse problema começou quando o PS, pela primeira vez, conseguiu o feito de aprovar uma lei de finanças regionais sozinho. É que, até então, as leis de finanças regionais tinham sido todas votadas por unanimidade! Curiosamente a última lei de finanças regionais…", 
+   "text": "Srs. Deputados, tenham calma! Sr. Deputado Renato Leal, tenha calma! Isto não é sobre os Açores, é sobre a Madeira! Tenha calma, não fique tão animado! Acalme-se um bocadinho! A verdade é que a lei de finanças regionais foi aprovada nesta Câmara, na generalidade, por unanimidade, e depois, na votação final global, o Partido Socialista votou-a sozinho. Porquê? Porque escolheu o caminho da divisão em vez do caminho da união de todos os portugueses - os do continente e os das regiões autónomas.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "Vozes do PS: Porque é que não votaram contra?!", 
-   "type": "deputado_continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Abel Baptista", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: Srs. Deputados, tenham calma! Sr. Deputado Renato Leal, tenha calma! Isto não é sobre os Açores, é sobre a Madeira! Tenha calma, não fique tão animado! Acalme-se um bocadinho! A verdade é que a lei de finanças regionais foi aprovada nesta Câmara, na generalidade, por unanimidade, e depois, na votação final global, o Partido Socialista votou-a sozinho. Porquê? Porque escolheu o caminho da divisão em vez do caminho da união de todos os portugueses - os do continente e os das regiões autónomas.", 
+   "text": "Quem escolheu esse caminho e quem ficou sozinho no caminho que escolheu foi o Partido Socialista e foi o seu Secretário-Geral, José Sócrates.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Abel Baptista* (CDS-PP): Exactamente!", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Até agora não tiveram posição sobre as finanças regionais!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: Quem escolheu esse caminho e quem ficou sozinho no caminho que escolheu foi o Partido Socialista e foi o seu Secretário-Geral, José Sócrates.", 
+   "text": "Mas há também outro responsável. Nós, nesta bancada, com seriedade, também dizemos que esse responsável, que criou o problema de antecipar eleições, é o Dr. Alberto João Jardim.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *José Junqueiro* (PS): Até agora não tiveram posição sobre as finanças regionais!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Ah!…", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: Mas há também outro responsável. Nós, nesta bancada, com seriedade, também dizemos que esse responsável, que criou o problema de antecipar eleições, é o Dr. Alberto João Jardim.", 
+   "text": "A verdade é que, para o problema que está criado e para os problemas que hoje existem na Madeira, as eleições não são a solução.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "Vozes do PS: Ah!…", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: A verdade é que, para o problema que está criado e para os problemas que hoje existem na Madeira, as eleições não são a solução.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "Vozes do CDS-PP: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: O problema que hoje está criado na Madeira é que há um governo regional que é claramente despesista e que não tem controlo financeiro. Isso é verdade!", 
+   "text": "O problema que hoje está criado na Madeira é que há um governo regional que é claramente despesista e que não tem controlo financeiro. Isso é verdade!", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -488,13 +492,13 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "Vozes do CDS-PP: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: É por tudo isso que criticamos também a decisão de convocação de eleições, porque ela não resolve o problema. Mas uma vez que o problema está criado, alguém vai ter de o resolver, que será o povo da Madeira. E, acima de tudo, confiamos no bom senso e na sensatez dos madeirenses, na decisão legítima dos madeirenses.\nHá uma coisa de que temos a certeza, pelos vistos ao contrário do Partido Socialista: a bancada do CDS, aqui ou na Madeira, nunca tem medo de ir a eleições.", 
+   "text": "É por tudo isso que criticamos também a decisão de convocação de eleições, porque ela não resolve o problema. Mas uma vez que o problema está criado, alguém vai ter de o resolver, que será o povo da Madeira. E, acima de tudo, confiamos no bom senso e na sensatez dos madeirenses, na decisão legítima dos madeirenses.\nHá uma coisa de que temos a certeza, pelos vistos ao contrário do Partido Socialista: a bancada do CDS, aqui ou na Madeira, nunca tem medo de ir a eleições.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -511,18 +515,29 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Para responder a estes dois pedidos de \nesclarecimento, tem a palavra o Sr. Deputado Alberto Martins.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder a estes dois pedidos de esclarecimento, tem a palavra o Sr. Deputado Alberto Martins.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Alberto Martins", 
+   "text": "Sr. Presidente, começo por responder ao Sr. Deputado Pedro Mota Soares, manifestando-lhe a minha concordância com a crítica que fez ao governo despesista da Madeira. Estamos de acordo que se trata de um governo despesista, que não serve o interesse da Madeira nem o interesse nacional.\nMas há pelo menos uma questão que me deixa perplexo: porque é que o CDS não votou contra a lei de finanças regionais?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Guilherme Silva", 
+   "text": "Está arrependido!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Alberto Martins* (PS): Sr. Presidente, começo por responder ao Sr. Deputado Pedro Mota Soares, manifestando-lhe a minha concordância com a crítica que fez ao governo despesista da Madeira. Estamos de acordo que se trata de um governo despesista, que não serve o interesse da Madeira nem o interesse nacional.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "Mas há pelo menos uma questão que me deixa perplexo: porque é que o CDS não votou contra a lei de finanças regionais?", 
+   "text": "Porque é que o CDS se absteve na votação da lei de finanças regionais? Se era tão má assim, porque é que o CDS não foi coerente? O CDS fez bem em não votar contra, em abster-se, porque se trata de uma boa lei para a República e para a solidariedade nacional.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -530,47 +545,36 @@
    "type": "aplauso"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Guilherme Silva", 
+   "text": "É uma boa lei não sei para quem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
    "speaker": "O Orador", 
-   "text": "O Sr. *Guilherme Silva* (PSD): Está arrependido!", 
+   "text": "Sr. Deputado Guilherme Silva, hoje não foi um grande momento para as suas intervenções parlamentares — tenho-as acompanhado algumas vezes e retenho o seu brilho. Hoje a sua intervenção foi, de facto, muito difícil, abaixo do seu nível habitual.\nDevo dizer-lhe que a questão do medo é interessante, mas, quanto a isso, remeto-o para palavras do Dr.\nAlberto João Jardim: «Candidato-me porque ‘tenho medo’…» — \nsubentende-se — «…que o governo fique na mão de tontos e traumatizados sociais».", 
    "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "É verdade!", 
+   "type": "deputado_aparte"
+  }, 
+  {
    "speaker": "O Orador", 
-   "text": "O Orador: Porque é que o CDS se absteve na votação da lei de finanças regionais? Se era tão má assim, porque é que o CDS não foi coerente? O CDS fez bem em não votar contra, em abster-se, porque se trata de uma boa lei para a República e para a solidariedade nacional.", 
+   "text": "De duas, uma: ou ele quer referir-se ao Partido \nSocialista,…", 
    "type": "deputado_continuacao"
   }, 
   {
-   "text": "Aplausos do PS.", 
-   "type": "aplauso"
+   "party": "PSD", 
+   "speaker": "António Montalvão Machado", 
+   "text": "Quer mesmo! Não tenha dúvidas!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Guilherme Silva* (PSD): É uma boa lei não sei para quem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: Sr. Deputado Guilherme Silva, hoje não foi um grande momento para as suas intervenções parlamentares — tenho-as acompanhado algumas vezes e retenho o seu brilho. Hoje a sua intervenção foi, de facto, muito difícil, abaixo do seu nível habitual.\nDevo dizer-lhe que a questão do medo é interessante, mas, quanto a isso, remeto-o para palavras do Dr.\nAlberto João Jardim: «Candidato-me porque ‘tenho medo’…» — \nsubentende-se — «…que o governo fique na mão de tontos e traumatizados sociais».", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Mota Andrade* (PS): É verdade!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: De duas, uma: ou ele quer referir-se ao Partido \nSocialista,…", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Sr. *António Montalvão Machado* (PSD): Quer mesmo! Não tenha dúvidas!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: … e é profundamente injusto e antidemocrático, ou então quer referir-se aos membros do PSD — é assim que ele os trata.", 
+   "text": "… e é profundamente injusto e antidemocrático, ou então quer referir-se aos membros do PSD — é assim que ele os trata.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -583,48 +587,52 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Guilherme Silva* (PSD): Estou a ver que não conhece o PS da Madeira!", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guilherme Silva", 
+   "text": "Estou a ver que não conhece o PS da Madeira!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: Recordo-me, Sr. Deputado Guilherme Silva - até pelo seu nome deve ter uma ideia precisa disso -, quando ele atacou o primeiro-ministro, dizendo que se estava borrifando para o Sr. Silva - um antigo primeiro-ministro.", 
+   "text": "Recordo-me, Sr. Deputado Guilherme Silva - até pelo seu nome deve ter uma ideia precisa disso -, quando ele atacou o primeiro-ministro, dizendo que se estava borrifando para o Sr. Silva - um antigo primeiro-ministro.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "Vozes do PS: Bem lembrado!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Bem lembrado!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: É assim que o Dr. Jardim trata os grandes representantes da República.\nE, por favor, Sr. Deputado, não me venha falar na ética republicana da Madeira.", 
+   "text": "É assim que o Dr. Jardim trata os grandes representantes da República.\nE, por favor, Sr. Deputado, não me venha falar na ética republicana da Madeira.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Mota Andrade* (PS): Muito bem!", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Guilherme Silva", 
+   "text": "Não é uma monarquia!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Guilherme Silva* (PSD): Não é uma monarquia!", 
+   "text": "Sabemos o combate que temos travado aqui contra a promiscuidade entre interesses públicos e privados,…", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Orador: Sabemos o combate que temos travado aqui contra a \npromiscuidade entre interesses públicos e privados,…", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Mota Andrade", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Mota Andrade* (PS): Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: … designadamente a propósito da lei das incompatibilidades de titulares de cargos políticos.\nNessa matéria, Sr. Deputado Guilherme Silva, é preciso ter pudor.", 
+   "text": "… designadamente a propósito da lei das incompatibilidades de titulares de cargos políticos.\nNessa matéria, Sr. Deputado Guilherme Silva, é preciso ter pudor.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -632,93 +640,100 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Também para pedir esclarecimentos, tem a palavra o Sr. Deputado António Filipe.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Também para pedir esclarecimentos, tem a palavra o Sr. Deputado António Filipe.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "António Filipe", 
+   "text": "Sr. Presidente, Sr. Deputado Alberto Martins, começo este pedido de esclarecimento por lembrar que o PCP votou contra a lei de finanças regionais.\nDurante toda a discussão que aqui foi travada sempre considerámos que a lei de finanças regionais, tal como foi proposta pelo Governo do Partido Socialista, seria uma lei contra a autonomia regional, que poria em causa a solidariedade nacional e a solidariedade recíproca entre o Estado e as regiões autónomas e que seria uma lei prejudicial para o povo da Região Autónoma da Madeira. Dissemos isso desde a primeira hora, dissemo-lo no debate e mantemo-lo agora.\nRefiro-o para dizer que se o Dr. Alberto João Jardim se ficasse pela crítica legítima à lei de finanças regionais teria boas razões para isso. Esta é a primeira parte.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "É «uma no cravo e outra na ferradura».", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *António Filipe* (PCP): Sr. Presidente, Sr. Deputado Alberto Martins, começo este pedido de esclarecimento por lembrar que o PCP votou contra a lei de finanças regionais.\nDurante toda a discussão que aqui foi travada sempre considerámos que a lei de finanças regionais, tal como foi proposta pelo Governo do Partido Socialista, seria uma lei contra a autonomia regional, que poria em causa a solidariedade nacional e a solidariedade recíproca entre o Estado e as regiões autónomas e que seria uma lei prejudicial para o povo da Região Autónoma da Madeira. Dissemos isso desde a primeira hora, dissemo-lo no debate e mantemo-lo agora.\nRefiro-o para dizer que se o Dr. Alberto João Jardim se ficasse pela crítica legítima à lei de finanças regionais teria boas razões para isso. Esta é a primeira parte.", 
+   "text": "Quanto à demissão do Dr. Alberto João Jardim para provocar novas eleições, é preciso dizer, desde logo, que esta não é uma demissão contra a lei de finanças regionais,…", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *José Junqueiro* (PS): É «uma no cravo e outra na ferradura».", 
-   "type": "deputado_continuacao"
+   "text": "Obviamente!", 
+   "type": "speaker_error"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: Quanto à demissão do Dr. Alberto João Jardim para provocar novas eleições, é preciso dizer, desde logo, que esta não é uma demissão contra a lei de finanças regionais,…", 
-   "type": "deputado_continuacao"
+   "text": "… é uma demissão mediante a qual o Dr. Alberto João Jardim quer aproveitar a seu favor a lei de finanças regionais, o que é uma coisa diferente.", 
+   "type": "continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "A Sr.ª Helena Terra (PS): Obviamente!", 
+   "text": "Evidentemente que esta demissão e a convocação de novas eleições não vai alterar, como é óbvio, a lei de finanças regionais.\nEm segundo lugar, trata-se de mais do mesmo: há pessoas que se demitem dos seus cargos porque não querem permanecer neles; o Dr. Alberto João Jardim faz o contrário: demite-se porque quer ficar.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Orador: … é uma demissão mediante a qual o Dr. Alberto João Jardim quer aproveitar a seu favor a lei de finanças regionais, o que é uma coisa diferente.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Bernardino Soares* (PCP): Muito bem!", 
+   "text": "E o candidato do PSD é também mais do mesmo: é o mesmo candidato, é o candidato que o PSD tem apresentado ao longo das últimas três décadas e que tem governado a Madeira também ao longo das últimas três décadas.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Orador: Evidentemente que esta demissão e a convocação de novas eleições não vai alterar, como é óbvio, a lei de finanças regionais.\nEm segundo lugar, trata-se de mais do mesmo: há pessoas que se demitem dos seus cargos porque não querem permanecer neles; o Dr. Alberto João Jardim faz o contrário: demite-se porque quer ficar.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guilherme Silva", 
+   "text": "Queria que fosse alguém para perder as eleições?!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Bernardino Soares* (PCP): Exactamente!", 
+   "text": "O Dr. Alberto João Jardim quer antecipar as eleições por considerar que este momento lhe será favorável. E pensará isso - diga-se - por culpa do Governo do Partido Socialista, que aprovou esta lei de finanças regionais.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Orador: E o candidato do PSD é também mais do mesmo: é o mesmo candidato, é o candidato que o PSD tem apresentado ao longo das últimas três décadas e que tem governado a Madeira também ao longo das últimas três décadas.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Guilherme Silva* (PSD): Queria que fosse alguém para perder as eleições?!", 
+   "text": "E quer convocar eleições para evitar que, no fim do mandato, tenha de ser julgado não em função de um juízo dos madeirenses sobre a lei de finanças regionais mas de um juízo sobre o seu exercício do mandato nestes últimos quatro anos.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Orador: O Dr. Alberto João Jardim quer antecipar as eleições por considerar que este momento lhe será favorável. E pensará isso - diga-se - por culpa do Governo do Partido Socialista, que aprovou esta lei de finanças regionais.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Bernardino Soares* (PCP): Muito bem!", 
+   "text": "E é isso que o Dr. Alberto João Jardim quer evitar.\nMais - e com isto concluirei a pergunta que lhe quero fazer: o Dr.\nAlberto João Jardim também sabe que, pela primeira vez em próximas eleições, independentemente da data em que se realizem, será aplicada a nova lei eleitoral para a Região Autónoma da Madeira e que, com esta nova lei eleitoral, não haverá maiorias na secretaria, ou se obtêm votos ou não se obtêm maiorias!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Orador: E quer convocar eleições para evitar que, no fim do mandato, tenha de ser julgado não em função de um juízo dos madeirenses sobre a lei de finanças regionais mas de um juízo sobre o seu exercício do mandato nestes últimos quatro anos.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guilherme Silva", 
+   "text": "Essa lei foi aprovada por unanimidade, ao contrário da lei de finanças regionais!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Bernardino Soares* (PCP): Exactamente!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: E é isso que o Dr. Alberto João Jardim quer evitar.\nMais - e com isto concluirei a pergunta que lhe quero fazer: o Dr.\nAlberto João Jardim também sabe que, pela primeira vez em próximas eleições, independentemente da data em que se realizem, será aplicada a nova lei eleitoral para a Região Autónoma da Madeira e que, com esta nova lei eleitoral, não haverá maiorias na secretaria, ou se obtêm votos ou não se obtêm maiorias!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Guilherme Silva* (PSD): Essa lei foi aprovada por unanimidade, ao contrário da lei de finanças regionais!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: E, sabendo isso, para o Dr. Alberto João Jardim será preferível procurar antecipar eleições agora, para que o resultado seja condicionado por um juízo em face da lei de finanças regionais, do que ter de", 
+   "text": "E, sabendo isso, para o Dr. Alberto João Jardim será preferível procurar antecipar eleições agora, para que o resultado seja condicionado por um juízo em face da lei de finanças regionais, do que ter de", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -731,23 +746,25 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Igualmente para pedir esclarecimentos, tem a palavra o Sr. Deputado Luís Fazenda.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Igualmente para pedir esclarecimentos, tem a palavra o Sr. Deputado Luís Fazenda.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "BE", 
+   "speaker": "Luís Fazenda", 
+   "text": "Sr. Presidente, Sr. Deputado Alberto Martins, porventura por estarmos no fecho dos festejos carnavalescos, alguns episódios burlescos já aqui tiveram lugar neste debate, a começar pelo CDS, que tenta demarcar-se da lei que negociou em algumas propostas e na qual se absteve, o que só pode ser uma brincadeira de Entrudo,…", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "Pedro Mota Soares", 
+   "text": "Como é que o Bloco de Esquerda votou na generalidade?!", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Luís Fazenda* (BE): Sr. Presidente, Sr. Deputado Alberto Martins, porventura por estarmos no fecho dos festejos carnavalescos, alguns episódios burlescos já aqui tiveram lugar neste debate, a começar pelo CDS, que tenta demarcar-se da lei que negociou em algumas propostas e na qual se absteve, o que só pode ser uma brincadeira de Entrudo,…", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Pedro Mota Soares* (CDS-PP): Como é que o Bloco de Esquerda votou na generalidade?!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: … continuando pelo PSD, que vem reclamar a ética \nrepublicana na Madeira, e terminando nessa peça de delícia oratória que foi o Sr. Deputado Alberto Martins ter admitido, ao menos em teoria, que os «tontos e traumatizados sociais» pudessem ser os socialistas.\nTrata-se de algo para todos nos rirmos um pouco.\nFalando de coisas sérias, a verdade é que se verberamos e reprovamos completamente a decisão do Presidente do Governo Regional da Madeira em cessar um mandato, recandidatando-se automaticamente, provocando eleições antecipadas, porque o faz para perpetuar uma maioria, porque o faz quando sabia que estava em perda de base social de apoio e porque o faz para encobrir aquilo que têm sido os erros e o esbanjamento das finanças públicas na sua governação, também é nesta sede e neste momento que temos de criticar e condenar a maioria do Partido Socialista, que deu o argumento e o pretexto ao aprovar uma lei de finanças regionais errada, baseada num cálculo, que não era obrigatório pela União Europeia, em torno do produto bruto clara e artificialmente empolado, devido às riquezas geradas pela zona franca da Madeira.", 
+   "text": "… continuando pelo PSD, que vem reclamar a ética republicana na Madeira, e terminando nessa peça de delícia oratória que foi o Sr. Deputado Alberto Martins ter admitido, ao menos em teoria, que os «tontos e traumatizados sociais» pudessem ser os socialistas.\nTrata-se de algo para todos nos rirmos um pouco.\nFalando de coisas sérias, a verdade é que se verberamos e reprovamos completamente a decisão do Presidente do Governo Regional da Madeira em cessar um mandato, recandidatando-se automaticamente, provocando eleições antecipadas, porque o faz para perpetuar uma maioria, porque o faz quando sabia que estava em perda de base social de apoio e porque o faz para encobrir aquilo que têm sido os erros e o esbanjamento das finanças públicas na sua governação, também é nesta sede e neste momento que temos de criticar e condenar a maioria do Partido Socialista, que deu o argumento e o pretexto ao aprovar uma lei de finanças regionais errada, baseada num cálculo, que não era obrigatório pela União Europeia, em torno do produto bruto clara e artificialmente empolado, devido às riquezas geradas pela zona franca da Madeira.", 
    "type": "deputado_continuacao"
   }, 
   {

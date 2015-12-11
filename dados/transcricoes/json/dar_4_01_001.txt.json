@@ -25,63 +25,70 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *António Capucho* (PSD): Srs. Deputados, tenho a honra de vos propor que a Mesa desta sessão, e até à eleição da nova Mesa, seja composta pela Mesa cessante.\nSe não houver objecções, convidarei, pois, o Sr. Deputado Fernando Amaral e os restantes membros da Mesa a assumirem essas funções.\nPergunto aos líderes parlamentares se levantam objecções a esta minha proposta.\n_Pausa_.", 
-   "type": null
+   "party": "PSD", 
+   "speaker": "António Capucho", 
+   "text": "Srs. Deputados, tenho a honra de vos propor que a Mesa desta sessão, e até à eleição da nova Mesa, seja composta pela Mesa cessante.\nSe não houver objecções, convidarei, pois, o Sr. Deputado Fernando Amaral e os restantes membros da Mesa a assumirem essas funções.\nPergunto aos líderes parlamentares se levantam objecções a esta minha proposta.\n_Pausa_.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Deputado António Capucho, a bancada do Partido Comunista Português está de acordo com a proposta que apresentou.", 
-   "type": null
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Deputado António Capucho, a bancada do Partido Comunista Português está de acordo com a proposta que apresentou.\nO Sr. José Manuel Tengarrinha (MDP/CDE): Também concordamos com a proposta, Sr. Deputado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. José Manuel Tengarrinha (MDP/CDE): Também concordamos com a proposta, Sr. Deputado.", 
-   "type": null
+   "party": "CDS", 
+   "speaker": "Luís Beiroco", 
+   "text": "Sr. Deputado António Capucho, pretendo saber se há alguma objecção a que o CDS faça substituir o seu deputado que era membro da Mesa.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Beiroco* (CDS): Sr. Deputado António Capucho, pretendo saber se há alguma objecção a que o CDS faça substituir o seu deputado que era membro da Mesa.", 
-   "type": null
+   "party": "PSD", 
+   "speaker": "António Capucho", 
+   "text": "Penso que não haverá objecções de nenhum grupo parlamentar e, nesses termos, peço ao Sr. Deputado Fernando Amaral e aos restantes membros da Mesa que assumam funções.\nCom o assentimento da Assembleia, assumiu a presidência o Sr. Deputado Fernando Monteiro do Amaral.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Capucho* (PSD): Penso que não haverá objecções de nenhum grupo parlamentar e, nesses termos, peço ao Sr. Deputado Fernando Amaral e aos restantes membros da Mesa que assumam funções.\nCom o assentimento da Assembleia, assumiu a presidência o Sr. Deputado Fernando Monteiro do Amaral.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados eleitos, para secretariar a Mesa peço a presença dos Srs. Deputados José Manuel Maia Nunes de Almeida, Jorge Manuel Lampreia Patrício, Aloísio Fernando Macedo Fonseca e Reinaldo Alberto Ramos Gomes.\n_Pausa_.\nInformo os Srs. Deputados eleitos que chamei o Sr. Deputado José Manuel Maia Nunes de Almeida por ter sido Secretário da Mesa cessante e o Sr.Deputado Jorge Manuel Lampreia Patrício por ser o único Vice-Secretário que foi eleito.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados eleitos, para secretariar a Mesa peço a presença dos Srs. Deputados José Manuel Maia Nunes de Almeida, Jorge Manuel Lampreia Patrício, Aloísio Fernando Macedo Fonseca e Reinaldo Alberto Ramos Gomes.\n_Pausa_.", 
-   "type": null
-  }, 
-  {
-   "text": "Informo os Srs. Deputados eleitos que chamei o Sr. Deputado José Manuel Maia Nunes de Almeida por ter sido Secretário da Mesa cessante e o Sr.Deputado Jorge Manuel Lampreia Patrício por ser o único Vice-Secretário que foi eleito.", 
-   "type": null
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "0002 I SÉRIE - NÚMERO 1", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Uma vez que os demais Secretários e Vice-Secretários não foram eleitos, designei, nos termos do n.º 5 do artigo 22.º do Regulamento, um Secretário do Partido Socialista e um do Partido Social-Democrata, ou seja, os Srs. Deputados Aloísio Fonseca e Reinaldo Gomes \nrespectivamente.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Os deputados convidados para Secretários tomaram os seus lugares na Mesa.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos agora proceder à chamada dos Srs. Deputados eleitos, segundo a lista que nos foi enviada pela Comissão Nacional de Eleições. Posteriormente, essa lista será submetida à comissão eventual que vai ser constituída para proceder à verificação de poderes, a qual produzirá um relatório e parecer que apresentará a este Plenário. Vai, então, proceder-se à chamada dos Srs. Deputados.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Vamos agora proceder à chamada dos Srs. Deputados eleitos, segundo a lista que nos foi enviada pela Comissão Nacional de Eleições. Posteriormente, essa lista será submetida à comissão eventual que vai ser constituída para proceder à verificação de poderes, a qual produzirá um relatório e parecer que apresentará a este Plenário. Vai, então, proceder-se à chamada dos Srs. Deputados.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Responderam à chamada os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Adérito Manuel Soares Campos.\nAfonso de Sousa F. de Moura Guedes.\nÁlvaro Barros Marques de Figueiredo.\nAmélia Cavaleiro Monteiro de A. Azevedo.\nAníbal António Cavaco e Silva.\nAntónio Augusto Lacerda de Queiroz.\nAntónio d'Orey Capucho.\nAntónio José Baptista Cardoso Cunha.\nAntónio Manuel Lopes Tavares.\nAntónio do Nascimento Machado Lourenço.\nArménio Jerónimo Martins Matias.\nArménio dos Santos.\nArnaldo Ângelo Brito Lhamas.\nBelarmino Henriques Correia.\nCarlos Miguel M. de Almeida Coelho.\nCecília Pita Catarino.\nDaniel Abílio Ferreira Bastos.\nDomingos Duarte Lima.\nEurico Silva Teixeira de Melo.\nFernando Dias de Carvalho Conceição.\nFernando José Russo R. Correia Afonso.\nFernando Manuel A. Cardoso Ferreira.\nFernando Monteiro do Amaral.\nFernando Reis Condesso.\nFrancisco Antunes da Silva.\nFrancisco Jardim Ramos.\nFrancisco José P. Pinto Balsemão.\nGuido Orlando de Freitas Rodrigues.\nHenrique Rodrigues da Mata.\nJoão Luís Malato Correia.\nJoão Maria Ferreira Teixeira.\nJoaquim Carneiro de Barros Domingues.\nJoaquim Eduardo Gomes.\nJoaquim Manuel Cabrito Neto.\nJoaquim da Silva Martins.\nJosé de Almeida Cesário.\nJosé Ângelo Ferreira Correia.\nJosé Augusto Baptista Lopes Seabra.\nJosé Augusto Santos da Silva Marques.\nJosé Luís Bonifácio Ramos.\nJosé Manuel Rodrigues Casqueiro.\nJosé Mendes Bota.\nJosé Mendes Melo Alves.\nJosé Pereira Lopes.\nJosé da Silva Domingos.\nJosé Vargas Bulcão.\nLicínio Moreira da Silva.\nLuís António Damásio Capoulas.\nLuís António Martins.\nLuís Costa Geraldes.\nLuís Francisco Valente de Oliveira.\nManuel Filipe Correia de Jesus.\nManuel Joaquim Dias Loureiro.\nManuel Maria Moreira.\nManuel Maria Portugal da Fonseca.\nManuel Pereira.\nMarília Dulce C. P. Morgado Raimundo.\nMário Júlio Montalvão Machado.\nMário de Oliveira Mendes dos Santos.\nPedro Miguel de Santana Lopes.\nReinaldo Alberto Ramos Gomes.\nRui Carlos de Alvarez Carp.\nRui Manuel de Sousa Almeida Mendes.\nVirgílio Higino Gonçalves Pereira.\nVirgílio de Oliveira Carneiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -144,22 +151,14 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "MDP/CDE", 
-   "speaker": "Movimento Democrático Português", 
-   "text": "O Sr. *Presidente*: Srs. Deputados eleitos, antes de entrarmos na ordem dos nossos trabalhos, vão permitir-me que aproveite a solenidade deste momento para proferir duas breves palavras em nome da Mesa a que presido.\nUma, de agradecimento por nos concederem a subida honra de presidirmos a esta primeira reunião que dá início à 1.ª Sessão da IV Legislatura da Assembleia da República de Portugal. A outra, de saudação a todos os Srs. Deputados eleitos: aos que regressam a este admirável Plenário, num reencontro que sentimos auspicioso, para reafirmar a vontade, numa responsabilidade acrescida, pela experiência já vivida, e que constitui património enriquecido de cada um, para a colocarem ao serviço do povo que somos; aos que pela primeira vez aqui tomam assento, plenos de entusiasmo e esperança que se adivinham e que irão dar um contributo sério e vivo na solução dos problemas que a este órgão de soberania compete.\nA uns e outros, a todos nós deputados eleitos, legítimos representantes do nosso país, espera-nos uma larga, profunda e nobre tarefa.\nEstamos certos que tudo faremos para merecer a distinção do mandato que nos foi conferido.\nCom o contributo de cada um e o trabalho de todos, na assunção plena das responsabilidades que a nós respeitam, havemos de sentir orgulho da qualidade em que vamos ser investidos.\nAquele orgulho será legítimo e ajustado se nos entregarmos de alma e coração, de corpo inteiro, ao trabalho que nos espera.\nFazemos votos para que nunca demos causa a razões de censura do povo que nos elegeu.\nEstas as palavras e as intenções para as quais havíamos pedido a vossa generosa audiência.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados eleitos, antes de entrarmos na ordem dos nossos trabalhos, vão permitir-me que aproveite a solenidade deste momento para proferir duas breves palavras em nome da Mesa a que presido.\nUma, de agradecimento por nos concederem a subida honra de presidirmos a esta primeira reunião que dá início à 1.ª Sessão da IV Legislatura da Assembleia da República de Portugal. A outra, de saudação a todos os Srs. Deputados eleitos: aos que regressam a este admirável Plenário, num reencontro que sentimos auspicioso, para reafirmar a vontade, numa responsabilidade acrescida, pela experiência já vivida, e que constitui património enriquecido de cada um, para a colocarem ao serviço do povo que somos; aos que pela primeira vez aqui tomam assento, plenos de entusiasmo e esperança que se adivinham e que irão dar um contributo sério e vivo na solução dos problemas que a este órgão de soberania compete.\nA uns e outros, a todos nós deputados eleitos, legítimos representantes do nosso país, espera-nos uma larga, profunda e nobre tarefa.\nEstamos certos que tudo faremos para merecer a distinção do mandato que nos foi conferido.\nCom o contributo de cada um e o trabalho de todos, na assunção plena das responsabilidades que a nós respeitam, havemos de sentir orgulho da qualidade em que vamos ser investidos.\nAquele orgulho será legítimo e ajustado se nos entregarmos de alma e coração, de corpo inteiro, ao trabalho que nos espera.\nFazemos votos para que nunca demos causa a razões de censura do povo que nos elegeu.\nEstas as palavras e as intenções para as quais havíamos pedido a vossa generosa audiência.\n4 I SÉRIE - NÚMERO 1", 
+   "type": "presidente"
   }, 
   {
-   "party": "MDP/CDE", 
-   "speaker": "Movimento Democrático Português", 
-   "text": "4 I SÉRIE - NÚMERO 1", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "MDP/CDE", 
-   "speaker": "Movimento Democrático Português", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos agora proceder à constituição da comissão eventual para a verificação de poderes.\nSegundo a deliberação da Comissão Permanente, a comissão eventual será constituída tomando em consideração o número de deputados de cada partido e da \nseguinte forma: 8 membros do PSD, 5 do PS,`4 do PRD, 3 do PCP, 2 do CDS e l do MDP/CDE. Serão ao todo 23 deputados.\nAs direcções dos respectivos grupos parlamentares, para preenchimento dos lugares que lhes competem, indicaram os membros correspondentes.\nPenso que a comissão poderá desenvolver o trabalho de verificação de poderes e feitura do relatório e consequente parecer até às 16 horas.\nPor essa razão, e se não houver qualquer objecção ao que acabo de referir, vou submeter à vossa aprovação a resolução correspondente.\nA resolução tem o seguinte conteúdo: «Aos 4 dias do mês de Novembro, os deputados eleitos para a lV Legislatura da Assembleia da República, deliberam constituir uma comissão eventual para a verificação de poderes dos deputados eleitos constantes da lista apresentada pela Comissão Nacional de Eleições, a qual terá a seguinte composição: \n8 membros designados pelo Grupo Parlamentar do PSD; \n5 membros designados pelo Grupo Parlamentar do PS; \n4 membros designados pelo Grupo Parlamentar do PRD; \n3 membros designados pelo Grupo Parlamentar do PCP; \n2 membros designados pelo Grupo Parlamentar do CDS; \n1 membro designado pelo Grupo Parlamentar do MDP/CDE.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Os membros do PSD são os seguintes", 
@@ -220,7 +219,9 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Magalhães Mota* (PRD): Sr. Presidente, peço a palavra.", 
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
+   "text": "Sr. Presidente, peço a palavra.", 
    "type": "documento"
   }, 
   {
@@ -232,139 +233,153 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, V. Ex.ª tem toda a razão e a expressão «grupos parlamentares» será substituída por «partidos».\nSrs. Deputados, a correcção está feita e, se não houver mais objecções, vamos proceder à votação da resolução.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, V. Ex.ª tem toda a razão e a expressão «grupos parlamentares» será substituída por «partidos».\nSrs. Deputados, a correcção está feita e, se não houver mais objecções, vamos proceder à votação da resolução.\nSubmetida à votação, foi, aprovada por unanimidade.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetida à votação, foi, aprovada por unanimidade.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "O Sr. Presidente:- Srs. Deputados, a comissão \neventual para a verificação de poderes tem à sua disposição uma sala junto dos serviços de apoio às comissões que se situa no 5º andar.\nVou suspender os trabalhos até às 16 horas, mas entretanto convido os representantes dos partidos aqui presentes para irem ao gabinete da Presidência a fim de se efectuar uma reunião muito breve.\nSrs. Deputados, está suspensa a reunião.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 12 horas.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está reaberta a sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Eram 17 horas e 20 minutos", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Peço ao Sr. Deputado Montalvão Machado o favor de ler o relatório e parecer da Comissão Eventual de Regimento e Mandatos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Peço ao Sr. Deputado Montalvão Machado o favor de ler o relatório e parecer da Comissão Eventual de Regimento e Mandatos.", 
+   "type": "presidente"
   }, 
   {
-   "party": "PSD): É o seguinte o texto do relatório e parecer", 
-   "speaker": "O Sr. *Montalvão Machado*", 
-   "text": "", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Aos 4 de Novembro de 1985, numa sala do Palácio de São Bento, reuniu-se a Comissão Parlamentar Eventual de Regimento e Mandatos, para proceder à verificação dos poderes dos Deputados \neleitos no dia 6 de Outubro de Ì985 para a Assembleia da República.\nA Comissão é constituída pelos seguintes Deputados:", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Montalvão Machado", 
+   "text": "É o seguinte o texto do relatório e parecer:\nAos 4 de Novembro de 1985, numa sala do Palácio de São Bento, reuniu-se a Comissão Parlamentar Eventual de Regimento e Mandatos, para proceder à verificação dos poderes dos Deputados \neleitos no dia 6 de Outubro de Ì985 para a Assembleia da República.\nA Comissão é constituída pelos seguintes Deputados:", 
+   "type": "deputado_intervencao"
   }, 
   {
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Social-Democrata", 
    "text": "Mário Júlio Montalvão Machado; \nLicínio Moreira da Silva; \nAdérito Manuel Soares Campos;", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Social-Democrata", 
    "text": "5 DE NOVEMBRO DE 1985", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Social-Democrata", 
    "text": "Daniel Abílio Ferreira Bastos; \nManuel Maria Moreira; \nManuel Maria Portugal da Fonseca; \nReinaldo Alberto Ramos Gomes.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Partido Socialista", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Socialista", 
    "text": "António Cândido Miranda de Macedo; \nCarlos Manuel Natividade da Costa Candal; \nAntónio José Sanches Esteves; \nMário Sottomayor Leal Cardia; \nCarlos Cardoso Lage.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Partido Renovador Democrático", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Renovador Democrático", 
    "text": "Agostinho Correia de Sousa; \nAna Gonçalves; \nJoaquim Carmelo Lobo; \nJorge Pegado Liz.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Partido Comunista Português", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Comunista Português", 
    "text": "José Manuel Maia Nunes de Almeida; \nJoão António Gonçalves do Amaral; \nJorge Manuel Abreu de Lemos.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Partido do Centro Democrático Social", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido do Centro Democrático Social", 
    "text": "José Maria Andrade Pereira; \nFrancisco António Oliveira Teixeira.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Movimento Democrático Português", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Movimento Democrático Português", 
    "text": "João Cerveira Corregedor da Fonseca.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Movimento Democrático Português", 
    "text": "Iniciados os trabalhos, a Comissão procedeu à eleição dos seus presidente, vice-presidente, 1.º secretário e 2.º secretário, sendo estes cargos preenchidos respectivamente pelos deputados Mário Júlio Montalvão Machado (PSD), Carlos Manuel Natividade da Costa Candal (PS), Jorge Pegado Liz (PRD) e José Manuel Maia Nunes de Almeida (PCP).\nFoi seguidamente deliberado constituir-se uma subcomissão, com vista designadamente ao eventual debate preliminar de quaisquer questões teóricas postas a propósito da verificação dos poderes dos deputados e à execução de operações materiais necessárias à mesma verificação.\nEssa subcomissão foi formada por aqueles referidos deputados, que constituem a mesa da Comissão, e pelos seguintes:", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Movimento Democrático Português", 
    "text": "José Maria Andrade Pereira (CDS); \nJoão Cerveira Corregedor da Fonseca (MDP/CDE).", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Movimento Democrático Português", 
    "text": "As conclusões da referida subcomissão foram verbalmente relatadas à Comissão de Verificação de Poderes, que as ratificou.\nAssim, compulsado a processo e os demais elementos enviados pela Comissão Nacional de Eleições, designadamente as actas de apuramento geral das eleições para a Assembleia da República, ali inclusas, constatou-se a regularidade formal da atribuição dos mandatos.\nÉ assim possível apurar a seguinte lista dos candidatos eleitos, organizada sob os nomes dos partidos que os apresentaram a sufrágio, segundo a", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Movimento Democrático Português", 
    "text": "representatividade decrescente dos mesmos e por ordem alfabética dos deputados, com indicação do respectivo círculo eleitoral, atribuindo-se a cada deputado um número de ordem geral:", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "l - Abílio Gaspar Rodrigues - círculo eleitoral de Santarém; 2 - Adérito Manuel Soares Campos - círculo eleitoral de Aveiro; 3 - Afonso de Sousa Freire de Moura Guedes - círculo eleitoral de Lisboa: \n4 - Alípio Barrosa Pereira Dias - círculo eleitoral do Porto; 5 - Álvaro Barros Marques de Figueiredo - círculo eleitoral de Viseu; 6 - Álvaro Roque de Pinho Bissaia Barreto - círculo eleitoral de Beja; 7 - Amândio Anes de Azevedo - círculo eleitoral de Vila Real; 8 - Amélia Cavaleiro Monteiro de Andrade Azevedo - círculo eleitoral do Porto; \n9 - Aníbal António Cavaco Silva - círculo eleitoral de Lisboa; 10 - António Augusto Lacerda de Queiroz - círculo eleitoral do Porto; 11 - António Joaquim Bastos Marques Mendes - círculo eleitoral de Braga; \n12 - António Jorge de Figueiredo Lopes - círculo eleitoral de Viseu; 13 - António José Baptista Cardoso Cunha - círculo eleitoral de Santarém; \n14 - António Manuel Lopes Tavares Teixeira - círculo eleitoral do Porto; \nl5 - António do Nascimento Machado Lourenço - círculo eleitoral de Lisboa; \nl6 - António d'Orey Capucho - círculo eleitoral de Faro; \n17 - António Sérgio Barbosa de Azevedo - círculo eleitoral de Braga; 18 - Arménio Jerónimo Martins Matias - círculo eleitoral da Guarda; l9 - Arménio dos Santos - circulo eleitoral de Lisboa; \n20 - Arnaldo Ângelo de Brito Lhamas - círculo eleitoral de Aveiro; 21 - Belarmino Henrique Correia - círculo eleitoral de Leiria; 22 - Carlos Alberto Martins Pimenta - círculo eleitoral de Setúbal; 23 - Carlos Miguel Maximiano de Almeida Coelho - círculo eleitoral de Lisboa; \n24 - Casimiro António Pires - círculo eleitoral de Bragança; 25 - Cecília Pita Catarino - círculo eleitoral da Madeira; \n26 - Daniel Abílio Ferreira Bastos - círculo eleitoral de Vila Real; 27 - Domingos Duarte Lima - círculo eleitoral de Bragança; \n28 - Eurico Silva Teixeíra de Melo - círculo eleitoral de Braga; 29 - Fernando Dias de Carvalho Conceição - círculo eleitoral de Braga; 30 - Fernando José Russo Roque Correia Afonso - círculo eleitoral de Lisboa;", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "6 I SÉRIE - NÚMERO 1", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "31 - Fernando Manuel Alves Cardoso Ferreira - círculo eleitoral de Setúbal; \n32 - Fernando Monteiro do Amaral - círculo eleitoral de Viseu; 33 - Fernando Reis Condesso - círculo eleitoral de Santarém; 34 - Francisco Antunes da Silva - círculo eleitoral de Castelo Branco; 35 - Francisco Jardim Ramos - círculo eleitoral da Madeira; \n36 - Francisco José Pereira Pinto Balsemão - círculo eleitoral de Lisboa; \n37 - Guido Orlando de Freitas Rodrigues - círculo eleitoral do Porto; 38 - Henrique Rodrigues da Mata - círculo eleitoral de Viana do Castelo; \n39 - João Bosco Soares Mota Amaral - círculo eleitoral dos Açores; 40 - João de Deus Rogado Salvador Pinheiro- - círculo eleitoral de Viana do Castelo; \n41 - João Luís Malato Correia - círculo eleitoral de Portalegre; 42 - João Maria Ferreira Teixeira - círculo eleitoral de Vila Real; 43 - Joaquim Carneiro de Barros Domingues - círculo eleitoral de Braga; 44 - Joaquim Eduardo Gomes - círculo eleitoral de Setúbal; \n45 - Joaquim Fernando Nogueira - círculo eleitoral de Coimbra; 46 - Joaquim Manuel Cabrita Neto - círculo eleitoral de Faro; 47 - Joaquim da Silva Martins - círculo eleitoral de Aveiro; 48 - José Albino da Silva Peneda - círculo eleitoral do Porto; 49 - José de Almeida Cesário - círculo eleitoral de Viseu; \n50 - José Ângelo Ferreira Correia - círculo eleitoral de Aveiro; 5l.- José Augusto Baptista Lopes Seabra - círculo eleitoral do Porto; 52 - José Augusto Santos da Silva Marques - círculo eleitoral de Leiria; \n53 - José Luís Bonifácio Ramos - círculo eleitoral de Lisboa; 54 - José Manuel Durão Barroso - círculo eleitoral de Lisboa; 55 - José Manuel Rodrigues Casqueiro - círculo eleitoral de Aveiro; 56 - José Mendes Bota - círculo eleitoral de Faro; \n57 - José Mendes Melo Alves - círculo eleitoral dos Açores; \n58 - José Pereira Lopes - círculo eleitoral de Castelo Branco; 59 - José da Silva Domingos - círculo eleitoral de Viana do Castelo; 60 - José Vargas Bulcão - círculo eleitoral dos Açores; \n61 - Leonor Couceiro Pizarro Beleza Mendonça Tavares - círculo eleitoral do \nPorto; \n62 - Licínio Moreira da Silva - círculo eleitoral de Leiria; 63 - Luís António Damásio Capoulas - círculo eleitoral de Évora; 64 - Luís António Martins - círculo eleitoral de Viseu; \n65 - Luís Costa Geraldes - círculo eleitoral de Fora da Europa; 66 - Luís Francisco Valente de Oliveira - círculo eleitoral do Porto; 67 - Manuel da Costa Andrade - círculo eleitoral de Coimbra; 68 - Manuel Filipe Correia de Jesus - círculo eleitoral da Madeira; 69 - Manuel Joaquim Dias Loureiro - círculo eleitoral de Coimbra; 70 - Manuel Maria Moreira - círculo eleitoral do Porto; \n71 - Manuel Maria Portugal da Fonseca - círculo eleitoral de Aveiro; 72 - Manuel Pereira - círculo eleitoral de Coimbra; \n73 - Maria Manuela Aguiar Dias Moreira - círculo eleitoral da Europa; 74 - Marília Dulce Coelho Pires Morgado Raimundo - círculo eleitoral da Guarda; \n75 - Mário Ferreira Bastos Raposo - círculo eleitoral de Leiria; 76 - Mário Júlio Montalvão Machado - círculo eleitoral do Porto; 77 - Mário de Oliveira Mendes dos Santos - círculo eleitoral de Santarém; \n78 - Pedro Augusto Cunha Pinto - círculo eleitoral de Lisboa; 79 - Pedro Miguel Santana Lopes - círculo eleitoral de Lisboa; 80 - Reinaldo Alberto Ramos Gomes - círculo eleitoral de Leiria; 81 - Rui Alberto Barradas do Amaral - círculo eleitoral do Porto; 82 - Rui Carlos de Alvarez Carp - círculo eleitoral de Lisboa; 83 - Rui Manuel de Oliveira Costa - círculo eleitoral de Lisboa; 84 - Rui Manuel Parente Chancerelle de Machete - círculo eleitoral de Lisboa \n85 - Rui Manuel de Sousa Almeida Mendes - círculo eleitoral de Lisboa; 86 - Virgílio Higino Gonçalves Pereira - círculo eleitoral da Madeira; 87 - Virgílio de Oliveira Carneiro - círculo eleitoral de Braga; 88 - Vítor Pereira Crespo - círculo eleitoral de Castelo Branco.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "party": "PS", 
@@ -477,168 +492,167 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Partido do Centro Democrático Social", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, acabaram de ouvir dois pareceres emitidos pela comissão de verificação de poderes no relatório que acabou de ser lido.\nO primeiro parecer refere o seguinte:", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, acabaram de ouvir dois pareceres emitidos pela comissão de verificação de poderes no relatório que acabou de ser lido.\nO primeiro parecer refere o seguinte:\nA Comissão foi de parecer - por unanimidade - que devem ser julgados como verificados os poderes de todos os deputados constantes da referida lista.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Partido do Centro Democrático Social", 
-   "text": "A Comissão foi de parecer - por unanimidade - que devem ser julgados como verificados os poderes de todos os deputados constantes da referida lista.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Partido do Centro Democrático Social", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, está em discussão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Partido do Centro Democrático Social", 
+   "speaker": "Presidente", 
    "text": "Como não há inscrições, vamos proceder à votação.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "speaker": "Partido do Centro Democrático Social", 
+   "speaker": "Presidente", 
    "text": "5 DE NOVEMBRO DE 1985 10", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Partido do Centro Democrático Social", 
+   "speaker": "Presidente", 
    "text": "223 - Octávio Floriano Rodrigues Pato - círculo eleitoral de Lisboa; 224 - Rogério Paulo Sardinha de Sousa Moreira - círculo eleitoral de Lisboa; \n225 - Zita Maria de Seabra Roseiro - círculo eleitoral de Aveiro;", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "CDS", 
    "speaker": "Partido do Centro Democrático Social", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "CDS", 
    "speaker": "Partido do Centro Democrático Social", 
    "text": "226 - Adriano José Alves Moreira - círculo eleitoral do Porto; 227 - António José Tomás Comes de Pinho - círculo eleitoral de Viseu; 228 - António Vasco de Melo Silva César e Meneses - círculo eleitoral de Aveiro; \n229 - Francisco António Lucas Pires - círculo eleitoral de Lisboa; 230 - Francisco António Oliveira Teixeira - círculo eleitoral de Vila Real; \n231 - Henrique Manuel Soares Cruz - círculo eleitoral de Santarém; 232 - Hernâni Torres Moutinho - círculo eleitoral de Bragança; 233 - João Gomes de Abreu Lima - círculo eleitoral de Viana do Castelo; 234 - João da Silva Mendes Morgado - círculo eleitoral de Viseu; 235 - Joaquim Rocha dos Santos - círculo eleitoral do Porto; 236 - José Augusto Gama - círculo eleitoral de Fora da Europa; 237 - José Girão Pereira - círculo eleitoral de Aveiro; \n238 - José Luís Nogueira de Brito - círculo eleitoral de Braga; 239 - José Luís Vilaça - círculo eleitoral de Braga; \n240 - José Maria Andrade Pereira - círculo eleitoral da Guarda; 241 - José Miguel Nunes Anacoreta Correia - círculo eleitoral de Leiria; \n242 - José Vieira de Carvalho - círculo eleitoral do Porto; \n243 - Luís Filipe Paes Beiroco - círculo eleitoral de Lisboa; 244 - Manuel Eugénio Pimentel Cavaleiro Brandão - círculo eleitoral do Porto; \n245 - Manuel Tomás Cortês Rodrigues Queiró - círculo eleitoral de Coimbra; \n246 - Narana Sinai Coissoró - círculo eleitoral de Lisboa; \n247 - Nuno Krus Abecasis - círculo eleitoral de Lisboa.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "CDS", 
    "speaker": "Partido do Centro Democrático Social", 
    "text": "Movimento Democrático Português \n(MDP/CDE):", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "CDS", 
    "speaker": "Partido do Centro Democrático Social", 
    "text": "248 - João Cerveira Corregedor da Fonseca - círculo eleitoral de Lisboa; \n249 - José Manuel Marques do Carmo Mendes Tengarrinha - círculo eleitoral de Lisboa; \n250 - Raúl Fernandes de Morais e Castro - círculo eleitoral do Porto.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "CDS", 
    "speaker": "Partido do Centro Democrático Social", 
    "text": "A Comissão foi de parecer - por unanimidade - que devem ser julgados como verificados ,os poderes de todos os deputados constantes da referida lista.\nTendo em conta as disposições legais aplicáveis, \na Comissão de Verificação de Poderes, em harmonia, aliás, com os pedidos formulados a tal propósito, procedeu às substituições pertinentes dos \ndeputados que exercem cargos que determinam a \nsuspensão de mandato (artigo 4.º, n.º 1, do Estatuto dos Deputados), pelos candidatos não eleitos \ndos concernentes partidos que se lhes seguem na \nordem de precedência nas listas dos respectivos círculos eleitorais.\nAssim:", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Partido Social-Democrata", 
    "text": "Álvaro Roque de Pinho Bissaia Barreto (Beja), por António do Carmo Branco Malveiro; \nCasimiro António Pires (Bragança), por Amândio dos Anjos Gomes; Joaquim Fernando Nogueira (Coimbra), por Cipriano Rodrigues Martins; Mário Ferreira Bastos Raposo (Leiria),por João Álvaro Poças Santos; Rui Manuel Parente Chancerelle de Machete (Lisboa), por Aurora Margarida Carvalho Santos Borges de Carvalho; \nAlípio Barrosa Pereira Dias (Porto), por Arlindo da Silva André Moreira; \nLeonor Couceiro Pizarro Beleza de Mendonça Tavares (Porto), por Manuel Ferreira Martins; \nRui Alberto Barradas do Amaral (Porto),por Fernando Manuel Torres Matos de Vasconcelos; \nCarlos Alberto Martins Pimenta (Setúbal), por Francisco Mendes Costa; Amândio Anes de Azevedo (Vila Real), por Abílio de Mesquita Araújo Guedes; \nJoão de Deus Rogado Salvador Pinheiro (Viana do Castelo), por José Francisco Amaral; \nAntónio Jorge Figueiredo Lopes (Viseu), por João Vaz Freixo; João Bosco Mota Amaral (Açores), por Vasco Manuel Verdasca da Silva Garcia; \nMaria Manuela Aguiar Dias Moreira (Europa), por Fernando José Alves Figueiredo; \nAbílio Gaspar Rodrigues (Santarém), por Miguel Fernando Cassola de Miranda Relvas.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Partido Socialista", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Partido Socialista", 
    "text": "Helena de Melo Torres Marques (Beja), por Aníbal Coelho da Costa; António Manuel de Carvalho Ferreira Vitorino (Braga), por António Domingues de Azevedo; \nAntónio Carlos Ribeiro Campos (Coimbra), por Fausto de Sousa Correia; José Veiga Simão (Guarda), por Jorge Alberto dos Santos Correia;", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Partido Socialista", 
    "text": "5 DE NOVEMBRO DE 1985 - 11", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "O Sr. *Presidente*: O segundo parecer refere o seguinte", 
-   "text": "", 
-   "type": "inicio_documento"
+   "speaker": "Presidente", 
+   "text": "O segundo parecer refere o seguinte:\nExaminando os elementos de que dispõe, a Comissão foi de parecer que devem igualmente ser julgados como verificados os poderes dos mencionados deputados substitutos e, assim, legitimadas as \nsubstituições em apreço.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Examinando os elementos de que dispõe, a Comissão foi de parecer que devem igualmente ser julgados como verificados os poderes dos mencionados deputados substitutos e, assim, legitimadas as \nsubstituições em apreço.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Está em discussão.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como não há inscrições, vamos proceder à votação.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o Sr.Deputado Montalvão Machado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o Sr.Deputado Montalvão Machado.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Montalvão Machado* (PSD): Sr. Presidente, o Partido \nSocial-Democrata aprovou o relatório que acaba de ser lido, sem prejuízo, como é evidente, do recurso que tem interposto para o Tribunal Constitucional a propósito do número de deputados do círculo de Évora e do círculo de Braga.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Montalvão Machado", 
+   "text": "Sr. Presidente, o Partido Social-Democrata aprovou o relatório que acaba de ser lido, sem prejuízo, como é evidente, do recurso que tem interposto para o Tribunal Constitucional a propósito do número de deputados do círculo de Évora e do círculo de Braga.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Levo ao conhecimento dos Srs. Deputados que, em conferência dos representantes dos partidos que têm assento no Plenário, foi sugerida uma resolução que vou ler para submeter depois à vossa apreciação.\nA resolução é do seguinte teor: \nAos 4 dias do mês de Novembro de 1985, os Deputados da Assembleia da República deliberam o seguinte: \n1.° Que o Plenário seja especialmente convocado para as 11 horas do próximo dia 8 para se proceder à eleição do Presidente da Assembleia da República; \n2.° Que, após aquele acto eleitoral, se proceda à eleição dos Vice-Presidentes, Secretários e Vice-Secretários que constituirão a Mesa da Assembleia da República; \n3.° Que a votação destes se faça por lista completa, da composição da Mesa, e com os nomes expressos para cada um dos respectivos cargos; 4.° Que as listas de candidatura sejam apresentadas, até às 13 horas do próximo dia 6, na Secretaria da Presidência da Assembleia da República.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Levo ao conhecimento dos Srs. Deputados que, em conferência dos representantes dos partidos que têm assento no Plenário, foi sugerida uma resolução que vou ler para submeter depois à vossa apreciação.\nA resolução é do seguinte teor: \nAos 4 dias do mês de Novembro de 1985, os Deputados da Assembleia da República deliberam o seguinte: \n1.° Que o Plenário seja especialmente convocado para as 11 horas do próximo dia 8 para se proceder à eleição do Presidente da Assembleia da República; \n2.° Que, após aquele acto eleitoral, se proceda à eleição dos Vice-Presidentes, Secretários e Vice-Secretários que constituirão a Mesa da Assembleia da República; \n3.° Que a votação destes se faça por lista completa, da composição da Mesa, e com os nomes expressos para cada um dos respectivos cargos; 4.° Que as listas de candidatura sejam apresentadas, até às 13 horas do próximo dia 6, na Secretaria da Presidência da Assembleia da República.\nEstá em discussão, Srs. Deputados.\n_Pausa_.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Está em discussão, Srs. Deputados.\n_Pausa_.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Vamos proceder à votação.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetida à votação, foi aprovada por unanimidade.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, convoco, pois, na sequência do que foi agora deliberado, o Plenário para as 11 horas da próxima sexta-feira, dia 8 de Novembro, para se proceder à eleição do Presidente da Assembleia da República e dos demais membros que haverão de constituir a Mesa.\nNada mais havendo a tratar, dou por encerrados os trabalhos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, convoco, pois, na sequência do que foi agora deliberado, o Plenário para as 11 horas da próxima sexta-feira, dia 8 de Novembro, para se proceder à eleição do Presidente da Assembleia da República e dos demais membros que haverão de constituir a Mesa.\nNada mais havendo a tratar, dou por encerrados os trabalhos.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 17 horas e 45 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Em resultado das substituições constantes do relatório e parecer da Comissão Eventual de Regimento e Mandatos, estiveram ainda presentes os seguintes Srs. Deputados:", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Abílio Mesquita Araújo Guedes.\nAmândio Gomes.\nAntónio do Carmo Branco Malveiro.\nAntónio Sérgio Barbosa de Azevedo.\nArlindo da Silva André Moreira.\nCipriano Rodrigues Martins.\nFernando Manuel T. M. de Vasconcelos.\nFrancisco Mendes da Costa.\nJoão Álvaro Poças Santos.\nJosé Albino da Silva Peneda.\nJosé Francisco Amaral.\nMiguel Cassola de Miranda Relvas.\nManuel Costa Andrade.\nManuel Ferreira Martins.\nManuel João Vaz Freixo.\nPedro Augusto Cunha Pinto.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

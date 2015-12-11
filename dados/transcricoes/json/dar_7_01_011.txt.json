@@ -5,80 +5,102 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado Luís Pedro Martins.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado Luís Pedro Martins.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Pedro Martins* (PS): Sr. Presidente, Sr. Deputado Bernardino Soares, V. Ex.ª fez aqui um diagnóstico perfeito da situação, mas o prognóstico, sinceramente, não se entendeu. Fazia-lhe, por isso, uma pergunta simples e clara, para a qual desejava uma resposta também simples e clara.\nSr. Deputado, visto serem possíveis várias reformulações de um sistema de propinas - o PSD fez uma, que falhou, mas poderemos tentar muitas outras -, gostava que me dissesse se o PCP, com qualquer outro sistema de propinas, alguma vez estará a favor ou, pelo contrário, estará sempre contra qualquer sistema de propinas, seja ele qual for.", 
-   "type": null
+   "party": "PS", 
+   "speaker": "Luís Pedro Martins", 
+   "text": "Sr. Presidente, Sr. Deputado Bernardino Soares, V. Ex.ª fez aqui um diagnóstico perfeito da situação, mas o prognóstico, sinceramente, não se entendeu. Fazia-lhe, por isso, uma pergunta simples e clara, para a qual desejava uma resposta também simples e clara.\nSr. Deputado, visto serem possíveis várias reformulações de um sistema de propinas - o PSD fez uma, que falhou, mas poderemos tentar muitas outras -, gostava que me dissesse se o PCP, com qualquer outro sistema de propinas, alguma vez estará a favor ou, pelo contrário, estará sempre contra qualquer sistema de propinas, seja ele qual for.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, querendo, tem a palavra o Sr.Deputado Bernardino Soares.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Para responder, querendo, tem a palavra o Sr.Deputado Bernardino Soares.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Sr. Presidente, Sr. Deputado Luís Pedro Martins, o PCP está e estará sempre contra todo e qualquer tipo de propinas instituídas no ensino superior, porque, para nós, é princípio fundamental a prioridade ao ensino e à educação, princípio esse que está constitucionalmente garantido. Na realidade, não se percebe nem se encontra qualquer razão para que possa existir esta situação de imposição de propinas aos estudantes do ensino superior, dado que não há razões de justiça ou de redistribuição social que justifiquem, nesta matéria, a imposição de propinas nem se vislumbram quaisquer outras que as possam justificar.\nPortanto, nesta matéria, e assumindo claramente que, para se dar prioridade à educação, é necessário atingir a gratuitidade e a universalidade do nosso sistema de ensino, nomeadamente do ensino superior, as propinas não devem existir, já que não servem como factor de redistribuição social e da riqueza. Isso faz-se através do sistema fiscal e sua reforma e é isso que há que mudar.", 
-   "type": null
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Sr. Presidente, Sr. Deputado Luís Pedro Martins, o PCP está e estará sempre contra todo e qualquer tipo de propinas instituídas no ensino superior, porque, para nós, é princípio fundamental a prioridade ao ensino e à educação, princípio esse que está constitucionalmente garantido. Na realidade, não se percebe nem se encontra qualquer razão para que possa existir esta situação de imposição de propinas aos estudantes do ensino superior, dado que não há razões de justiça ou de redistribuição social que justifiquem, nesta matéria, a imposição de propinas nem se vislumbram quaisquer outras que as possam justificar.\nPortanto, nesta matéria, e assumindo claramente que, para se dar prioridade à educação, é necessário atingir a gratuitidade e a universalidade do nosso sistema de ensino, nomeadamente do ensino superior, as propinas não devem existir, já que não servem como factor de redistribuição social e da riqueza. Isso faz-se através do sistema fiscal e sua reforma e é isso que há que mudar.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, em representação do Governo, tem a palavra o Sr. Ministro da Educação.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, em representação do Governo, tem a palavra o Sr. Ministro da Educação.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Ministro da Educação (Marçal Grilo): Sr. Presidente, Sr.^as e Srs. Deputados: Com esta iniciativa, que visa suspender as chamadas leis das propinas com vista à sua revogação, pretende o Governo encerrar um capítulo da nossa história política recente em que se desperdiçaram inutilmente demasiadas energias sem que houvesse a oportunidade de dar ênfase aos problemas essenciais que importa encarar com urgência no ensino superior, em Portugal.\nNão vamos, porém, recordar o que se passou mas, sim, olhando o futuro, procurar repor, no centro do debate, os temas fundamentais que nunca deveriam ter sido esquecidos e subalternizados.\nComo se afirmava no livro branco sobre o financiamento do ensino superior, que o Governo anterior esqueceu depois de o ter encomendado e de ter promovido a sua discussão pública, o problema das propinas é apenas e tão só um subcapítulo num conjunto mais vasto, não fazendo sentido isolá-lo sem colocar a questão do financiamento do ensino superior e da acção social escolar. Eis o que deve ser reposto, mudando o método e dando relevo ao que, em nossa opinião, é mais importante e central, tanto para o Governo, como para as instituições, como para os próprios estudantes e famílias.\nPropomos a suspensão das leis das propinas com vista à sua revogação, pois esse é, a nosso ver, o único meio de repor, em clima de paz, as questões de fundo nos seus justos termos.\nCom efeito, é nosso entendimento que a problemática das propinas tem de ser equacionada no âmbito mais global da definição, por um lado, das políticas de financiamento das instituições de ensino superior público e, por outro, do estabelecimento de uma política para a acção social escolar.", 
-   "type": null
+   "text": "Sr. Presidente, Sr.^as e Srs. Deputados: Com esta iniciativa, que visa suspender as chamadas leis das propinas com vista à sua revogação, pretende o Governo encerrar um capítulo da nossa história política recente em que se desperdiçaram inutilmente demasiadas energias sem que houvesse a oportunidade de dar ênfase aos problemas essenciais que importa encarar com urgência no ensino superior, em Portugal.\nNão vamos, porém, recordar o que se passou mas, sim, olhando o futuro, procurar repor, no centro do debate, os temas fundamentais que nunca deveriam ter sido esquecidos e subalternizados.\nComo se afirmava no livro branco sobre o financiamento do ensino superior, que o Governo anterior esqueceu depois de o ter encomendado e de ter promovido a sua discussão pública, o problema das propinas é apenas e tão só um subcapítulo num conjunto mais vasto, não fazendo sentido isolá-lo sem colocar a questão do financiamento do ensino superior e da acção social escolar. Eis o que deve ser reposto, mudando o método e dando relevo ao que, em nossa opinião, é mais importante e central, tanto para o Governo, como para as instituições, como para os próprios estudantes e famílias.\nPropomos a suspensão das leis das propinas com vista à sua revogação, pois esse é, a nosso ver, o único meio de repor, em clima de paz, as questões de fundo nos seus justos termos.\nCom efeito, é nosso entendimento que a problemática das propinas tem de ser equacionada no âmbito mais global da definição, por um lado, das políticas de financiamento das instituições de ensino superior público e, por outro, do estabelecimento de uma política para a acção social escolar.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *António Braga* (PS): Muito bem!", 
-   "type": null
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Ao contrário, o que aconteceu com a questão das propinas, em Portugal, nos últimos anos, foi que a componente de participação do estudante no financiamento foi isolada artificialmente, o que distorceu toda a questão e inviabilizou um debate sério.\nConsideramos, por outro lado, que o cálculo da propina não pode nem deve basear-se nos custos reais das instituições de ensino superior, qualquer que seja o critério usado,...", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "Ao contrário, o que aconteceu com a questão das propinas, em Portugal, nos últimos anos, foi que a componente de participação do estudante no financiamento foi isolada artificialmente, o que distorceu toda a questão e inviabilizou um debate sério.\nConsideramos, por outro lado, que o cálculo da propina não pode nem deve basear-se nos custos reais das instituições de ensino superior, qualquer que seja o critério usado,...", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": null
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: ... não só porque há um limite constitucional para essa solução, mas também porque há responsabilidades sociais do Estado democrático a que este não pode nem deve eximir-se.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "... não só porque há um limite constitucional para essa solução, mas também porque há responsabilidades sociais do Estado democrático a que este não pode nem deve eximir-se.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Junqueiro* (PS): Muito bem!", 
-   "type": null
+   "party": "PS", 
+   "speaker": "José Junqueiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Não concordamos ainda com a solução em vigor porque não aceitamos que o rendimento das famílias, calculado em sede de IRS, seja a base para determinar quem paga e quem não paga ou quem paga menos.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "Não concordamos ainda com a solução em vigor porque não aceitamos que o rendimento das famílias, calculado em sede de IRS, seja a base para determinar quem paga e quem não paga ou quem paga menos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *António Braga* (PS): Muito bem!", 
-   "type": null
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Na realidade, esta metodologia de cálculo do rendimento familiar penaliza sobretudo os trabalhadores por conta de outrem e conduz a enormes distorções bem conhecidas, que algumas instituições do ensino superior e os cidadãos interessados já identificaram e divulgaram publicamente pelos meios ao seu alcance.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "Na realidade, esta metodologia de cálculo do rendimento familiar penaliza sobretudo os trabalhadores por conta de outrem e conduz a enormes distorções bem conhecidas, que algumas instituições do ensino superior e os cidadãos interessados já identificaram e divulgaram publicamente pelos meios ao seu alcance.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem.", 
-   "type": null
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem.", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: É de todos conhecido o número de estudos que foram feitos sobre esta matéria e que provam a enorme iniquidade e distorções da aplicação da lei.\nA estas razões de fundo acresce que o processo de elaboração e aplicação da lei foi inadequado e pouco próprio de um Estado democrático. Tratou-se de um processo ao longo do qual muitos tiveram de dizer o que não pensavam, outros foram obrigados a fazer aquilo com que não concordavam e outros ainda tiveram que «remendar» aquilo que já não tinha conserto.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "É de todos conhecido o número de estudos que foram feitos sobre esta matéria e que provam a enorme iniquidade e distorções da aplicação da lei.\nA estas razões de fundo acresce que o processo de elaboração e aplicação da lei foi inadequado e pouco próprio de um Estado democrático. Tratou-se de um processo ao longo do qual muitos tiveram de dizer o que não pensavam, outros foram obrigados a fazer aquilo com que não concordavam e outros ainda tiveram que «remendar» aquilo que já não tinha conserto.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Essa é que é a verdade!", 
-   "type": null
+   "speaker": "Vozes do PS", 
+   "text": "Essa é que é a verdade!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: É um conjunto de episódios que, para nós, interessa sobretudo esquecer.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "É um conjunto de episódios que, para nós, interessa sobretudo esquecer.", 
+   "type": "deputado_continuacao"
   }
  ], 
  "president": "", 

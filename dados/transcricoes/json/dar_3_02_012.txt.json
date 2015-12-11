@@ -25,8 +25,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 30 minutos.", 
@@ -35,7 +36,7 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -128,28 +129,20 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social Democrata Independente", 
-   "text": "O Sr. *Presidente*: O Sr. Deputado Silva Marques pediu a palavra para que efeito?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Silva Marques pediu a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social Democrata Independente", 
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, é para comunicar que, relativamente às alterações ao Regimento, acabei de apresentar na Mesa uma proposta relativa ao artigo 184.º, retirando a que apresentei anteriormente. Pretendia, pois, explicar o sentido desta nova proposta.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, é para comunicar que, relativamente às alterações ao Regimento, acabei de apresentar na Mesa uma proposta relativa ao artigo 184.º, retirando a que apresentei anteriormente. Pretendia, pois, explicar o sentido desta nova proposta.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social Democrata Independente", 
-   "text": "O Sr. *Presidente*: Sr. Deputado, na altura própria dar-lhe-ei a palavra, pois temos um ponto prévio, segundo a ordem de trabalhos, que deverá ser de imediato apreciado. Seguidamente entraremos nas alterações ao Regimento e, nessa altura, V. Ex.ª terá oportunidade de expor o que acabou de referir.\nSrs. Deputados, do primeiro ponto da ordem de trabalhos consta a apreciação do pedido de prorrogação do prazo anteriormente concedido à Comissão Eventual de Inquérito à Radiotelevisão Portuguesa para conclusão dos seus trabalhos.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social Democrata Independente", 
-   "text": "Vai ser lido o pedido.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, na altura própria dar-lhe-ei a palavra, pois temos um ponto prévio, segundo a ordem de trabalhos, que deverá ser de imediato apreciado. Seguidamente entraremos nas alterações ao Regimento e, nessa altura, V. Ex.ª terá oportunidade de expor o que acabou de referir.\nSrs. Deputados, do primeiro ponto da ordem de trabalhos consta a apreciação do pedido de prorrogação do prazo anteriormente concedido à Comissão Eventual de Inquérito à Radiotelevisão Portuguesa para conclusão dos seus trabalhos.\nVai ser lido o pedido.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -161,128 +154,154 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em discussão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em discussão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, não havendo pedidos de palavra, vai ser votado.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Presidente*: Prosseguindo a discussão e votação das alterações ao Regimento, tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Prosseguindo a discussão e votação das alterações ao Regimento, tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, Srs. Deputados, e em particular os colegas da bancada comunista: Acabo de reformular a proposta que apresentei num sentido que obtém o acordo da bancada socialista, presumo também que da bancada democrata-cristã, mas creio não ter obtido totalmente o vosso acordo. Por isso vos quero dar uma explicação.\nPensamos que as alterações incidentes sobre um decreto sujeito a ratificação não podem exceder limites que criem uma situação de - desculpem-me o termo - eventual «subversão» do decreto-lei, até porque o diploma não é da Assembleia mas de um outro sujeito e se a Assembleia entender, pois ela que tome a iniciativa, mas isso seria inaceitável.\nNeste ponto creio que os Srs. Deputados da bancada comunista também estarão de acordo; não seria aceitável que se alterasse ou que se criasse uma eventual situação de alteração substancial e global do documento inicial.\nCreio termos uma divergência quanto aos limites a estabelecer ou quanto à expressão a dar aos limites sobre os quais todos nós convimos. Penso haver, neste ponto da definição dos limites, uma divergência entre nós e vós e no fundo queria dar-vos esta explicação, fazendo o ponto da situação quanto à divergência política e também à convergência.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, Srs. Deputados, e em particular os colegas da bancada comunista: Acabo de reformular a proposta que apresentei num sentido que obtém o acordo da bancada socialista, presumo também que da bancada democrata-cristã, mas creio não ter obtido totalmente o vosso acordo. Por isso vos quero dar uma explicação.\nPensamos que as alterações incidentes sobre um decreto sujeito a ratificação não podem exceder limites que criem uma situação de - desculpem-me o termo - eventual «subversão» do decreto-lei, até porque o diploma não é da Assembleia mas de um outro sujeito e se a Assembleia entender, pois ela que tome a iniciativa, mas isso seria inaceitável.\nNeste ponto creio que os Srs. Deputados da bancada comunista também estarão de acordo; não seria aceitável que se alterasse ou que se criasse uma eventual situação de alteração substancial e global do documento inicial.\nCreio termos uma divergência quanto aos limites a estabelecer ou quanto à expressão a dar aos limites sobre os quais todos nós convimos. Penso haver, neste ponto da definição dos limites, uma divergência entre nós e vós e no fundo queria dar-vos esta explicação, fazendo o ponto da situação quanto à divergência política e também à convergência.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para um pedido de esclarecimento, tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, suponho que este é o exemplo claro de a noite ser má conselheira. A interessante discussão aqui havida ontem traduziu-se em zero.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, suponho que este é o exemplo claro de a noite ser má conselheira. A interessante discussão aqui havida ontem traduziu-se em zero.\nSr. Deputado, então, depois das considerações que fez e depois de ter introduzido uma expressão nova - «a subversão do processo legislativo» -, como é que entende o disposto claramente no artigo 72.º, segundo o qual a Assembleia pode apreciar todos os decretos-leis? Onde é que há subversão pelo facto de a Assembleia deliberar alterar um certo decreto-lei?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Sr. Deputado, então, depois das considerações que fez e depois de ter introduzido uma expressão nova - «a subversão do processo legislativo» -, como é que entende o disposto claramente no artigo 72.º, segundo o qual a Assembleia pode apreciar todos os decretos-leis? Onde é que há subversão pelo facto de a Assembleia deliberar alterar um certo decreto-lei?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Deputado João Amaral, utilizei a palavra subversão entre aspas, pois todos os actos da Assembleia, por definição, não são subversivos. Encontra-se aqui a sede do poder legal.\nAssim, o Sr. Deputado deveria ter respondido à minha intervenção mantendo as aspas que coloquei na palavra subversão.\nO que quis dizer foi que a Assembleia deve estabelecer limites que não permitam, dentro do que é possível não permitir, que pela via da alteração se crie um novo diploma que, no fundo, pertence a outrem. Se a Assembleia sentir necessidade de o fazer deve ela própria assumir uma iniciativa legislativa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Deputado João Amaral, utilizei a palavra subversão entre aspas, pois todos os actos da Assembleia, por definição, não são subversivos. Encontra-se aqui a sede do poder legal.\nAssim, o Sr. Deputado deveria ter respondido à minha intervenção mantendo as aspas que coloquei na palavra subversão.\nO que quis dizer foi que a Assembleia deve estabelecer limites que não permitam, dentro do que é possível não permitir, que pela via da alteração se crie um novo diploma que, no fundo, pertence a outrem. Se a Assembleia sentir necessidade de o fazer deve ela própria assumir uma iniciativa legislativa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um protesto, tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para um protesto, tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Deputado Silva Marques, de facto, se há alguma subversão é apenas na sua linguagem. O diploma decreto-lei não pertence ao Governo, pertence à ordem jurídica, e na ordem jurídica constitucional está sujeito a um incidente de percurso - a apreciação pela Assembleia da República. E apreciação para que? Para a revogação total - que é o mais - ou para a alteração - que é o menos.\nSr. Deputado Silva Marques, é só uma questão de lógica e, quase lhe digo, de lógica aristotélica...!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Deputado Silva Marques, de facto, se há alguma subversão é apenas na sua linguagem. O diploma decreto-lei não pertence ao Governo, pertence à ordem jurídica, e na ordem jurídica constitucional está sujeito a um incidente de percurso - a apreciação pela Assembleia da República. E apreciação para que? Para a revogação total - que é o mais - ou para a alteração - que é o menos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "Sr. Deputado Silva Marques, é só uma questão de lógica e, quase lhe digo, de lógica aristotélica...!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Deputado Silva Marques, creio estar fora de questão - e realmente é lamentável que se tenha de discutir isso - que a Assembleia da República possa destruir, de uma penada, ou refazer de «cabo a rabo» um decreto-lei governamental. Nada pode impedir isso.\n388 I SÉRIE - NÚMERO 12", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para um pedido de esclarecimento, tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Deputado Silva Marques, creio estar fora de questão - e realmente é lamentável que se tenha de discutir isso - que a Assembleia da República possa destruir, de uma penada, ou refazer de «cabo a rabo» um decreto-lei governamental. Nada pode impedir isso.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "388 I SÉRIE - NÚMERO 12", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
    "text": "Agora a questão que ontem discutíamos e que aqui vamos ter de dirimir é outra, que é esta: até que momento nós, deputados, podemos apresentar propostas de alteração aos decretos governamentais? É só isto que estamos a discutir.\nOntem tinha-se convindo que talvez fosse de admitir - tem de se apresentar algumas propostas até à generalidade senão não há especialidade, é óbvio - dar um prazo adicional para apresentar outras propostas sobre outras matérias.\nCreio que a redacção que o Sr. Deputado aqui propõe não contempla isto e diz uma coisa que, apesar de ser óbvia e verdadeira, não responde a esta pergunta. Pergunto-lhe, pois, se não está disponível para a corrigir consoante aquilo que disse ser o seu espírito.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Caros colegas, na minha intervenção inicial procurei definir rapidamente e com franqueza o grau de convergência e de divergência entre nós.\nExiste aqui, de facto, uma divergência política e sobre esse ponto estamos de acordo com os nossos colegas socialistas e presumo que também com a bancada centrista. Há uma divergência que não é apenas regimental ou processual nem sequer quantitativa quanto ao problema, porque naquilo em que ela é apenas formal ou quantitativa estamos de acordo convosco. Só que pensamos - e o Sr. Deputado José Magalhães acabou de definir bem o ponto de divergência - que se deve introduzir um limite, dentro das possibilidades que ele tem ou não de funcionar.\nDe qualquer modo, uma coisa é eliminar esse limite, outra é ele não vir a ser suficientemente eficaz, mas entendemos que quando se trata de ratificação de decretos-leis não deve haver um mecanismo que facilite a alteração substancial e global do decreto-lei, até porque, no caso de haver necessidade de o alterar de uma ponta à outra, isto é, de produzir um diploma novo, a Assembleia deve fazê-lo por sua iniciativa e de forma clara.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Caros colegas, na minha intervenção inicial procurei definir rapidamente e com franqueza o grau de convergência e de divergência entre nós.\nExiste aqui, de facto, uma divergência política e sobre esse ponto estamos de acordo com os nossos colegas socialistas e presumo que também com a bancada centrista. Há uma divergência que não é apenas regimental ou processual nem sequer quantitativa quanto ao problema, porque naquilo em que ela é apenas formal ou quantitativa estamos de acordo convosco. Só que pensamos - e o Sr. Deputado José Magalhães acabou de definir bem o ponto de divergência - que se deve introduzir um limite, dentro das possibilidades que ele tem ou não de funcionar.\nDe qualquer modo, uma coisa é eliminar esse limite, outra é ele não vir a ser suficientemente eficaz, mas entendemos que quando se trata de ratificação de decretos-leis não deve haver um mecanismo que facilite a alteração substancial e global do decreto-lei, até porque, no caso de haver necessidade de o alterar de uma ponta à outra, isto é, de produzir um diploma novo, a Assembleia deve fazê-lo por sua iniciativa e de forma clara.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para um protesto, tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um protesto, tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Não retomarei a questão de saber qual o melhor caminho para a Assembleia da República se pronunciar. Pode fazer leis com base em iniciativas de deputados, com base em propostas do Governo, com base em propostas das regiões autónomas ou com base na reconversão total ou parcial de decretos-leis do Governo.\nA questão que lhe coloco - e isto não é discutível, é o que decorre da Constituição, depois é uma questão de gosto ou de medida; pode repugnar ao Sr. Deputado Silva Marques alterar um decreto-lei governamental e a mim não me repugna nada; em todo o caso a Assembleia pode, e isso está fora de questão -, é se considera que é só uma questão de divergência política adoptarmos uma redacção como a que ontem veio sugerida até pelo Sr. Deputado Vilhena de Carvalho, se não estou em erro, e que na sequência de uma troca de impressões alargaremos ligeiramente por forma a fazer com que o preceito rezasse qualquer coisa como isto: «Sem prejuízo de propostas respeitantes a outros artigos poderem ser apresentados até ao termo da reunião plenária subsequente.»", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Não retomarei a questão de saber qual o melhor caminho para a Assembleia da República se pronunciar. Pode fazer leis com base em iniciativas de deputados, com base em propostas do Governo, com base em propostas das regiões autónomas ou com base na reconversão total ou parcial de decretos-leis do Governo.\nA questão que lhe coloco - e isto não é discutível, é o que decorre da Constituição, depois é uma questão de gosto ou de medida; pode repugnar ao Sr. Deputado Silva Marques alterar um decreto-lei governamental e a mim não me repugna nada; em todo o caso a Assembleia pode, e isso está fora de questão -, é se considera que é só uma questão de divergência política adoptarmos uma redacção como a que ontem veio sugerida até pelo Sr. Deputado Vilhena de Carvalho, se não estou em erro, e que na sequência de uma troca de impressões alargaremos ligeiramente por forma a fazer com que o preceito rezasse qualquer coisa como isto: «Sem prejuízo de propostas respeitantes a outros artigos poderem ser apresentados até ao termo da reunião plenária subsequente.»", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, é apenas para dizer ao Sr.Deputado José Magalhães que pensamos não ser de aceitar essa possibilidade. Trocámos impressões e isso foi o fruto da nossa reflexão. A nossa posição, neste momento, é esta.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, é apenas para dizer ao Sr.Deputado José Magalhães que pensamos não ser de aceitar essa possibilidade. Trocámos impressões e isso foi o fruto da nossa reflexão. A nossa posição, neste momento, é esta.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, Srs. Deputados: Suponho que o que poderia e deveria conduzir a uma solução razoável, neste caso, seria a consideração de que, no instituto de ratificação está, através da apreciação pela Assembleia da República, a consideração de saber se é vantajoso ou inconveniente vigorar certo ordenamento jurídico que é constituído pelo articulado do decreto-lei.\nObviamente que a Assembleia pode alterá-lo de muitas formas, pode modificá-lo através de iniciativa legislativa, mas o processo típico é o processo de alteração com base no processo de ratificação. Uma questão como esta não se situa no quadro político, não é uma divergência política, Sr. Deputado Silva Marques, quando muito poderá ser uma insuficiente leitura do texto constitucional.\nÉ neste ponto que me parece que outras bancadas, nomeadamente as do PS, do CDS e da ASDI, que também interveio neste debate, poderiam dar um contributo positivo.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, Srs. Deputados: Suponho que o que poderia e deveria conduzir a uma solução razoável, neste caso, seria a consideração de que, no instituto de ratificação está, através da apreciação pela Assembleia da República, a consideração de saber se é vantajoso ou inconveniente vigorar certo ordenamento jurídico que é constituído pelo articulado do decreto-lei.\nObviamente que a Assembleia pode alterá-lo de muitas formas, pode modificá-lo através de iniciativa legislativa, mas o processo típico é o processo de alteração com base no processo de ratificação. Uma questão como esta não se situa no quadro político, não é uma divergência política, Sr. Deputado Silva Marques, quando muito poderá ser uma insuficiente leitura do texto constitucional.\nÉ neste ponto que me parece que outras bancadas, nomeadamente as do PS, do CDS e da ASDI, que também interveio neste debate, poderiam dar um contributo positivo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, Srs. Deputados: Esgotei a minha argumentação mas não alterei a minha convicção.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, Srs. Deputados: Esgotei a minha argumentação mas não alterei a minha convicção.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, é apenas para anunciar que irei apresentar na Mesa, sob a forma de proposta, aquela sugestão que formulara oralmente, durante o debate, de um novo aditamento ao texto em apreço.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, é apenas para anunciar que irei apresentar na Mesa, sob a forma de proposta, aquela sugestão que formulara oralmente, durante o debate, de um novo aditamento ao texto em apreço.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai ser lida a proposta de aditamento à parte final do n.º 1 do artigo 184.º, apresentada pelo PCP.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vai ser lida a proposta de aditamento à parte final do n.º 1 do artigo 184.º, apresentada pelo PCP.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -294,64 +313,79 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, esse aditamento faria com que o preceito ficasse assim: «As propostas de alteração podem ser apresentadas até", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, esse aditamento faria com que o preceito ficasse assim: «As propostas de alteração podem ser apresentadas até 10 DE NOVEMBRO DE 1984 389", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "10 DE NOVEMBRO DE 1984 389", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
    "text": "ao termo da discussão na generalidade, sem prejuízo de propostas respeitantes a outros artigos poderem ser apresentadas até ao termo da reunião plenária subsequente.»", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Vilhena de Carvalho* (ASDI): Sr. Deputado José Magalhães, acabei de ouvir ler a proposta de substituição para o n.º 1 do artigo 184.º mas fica-me a seguinte dúvida que gostaria de ver, se possível, dissipada: na medida em que, na economia da sua proposta, se prevê que a apresentação de propostas de alteração poderá ter lugar até ao termo da reunião plenária subsequente, gostaria de saber se isto aconteceria sempre, quer houvesse ou não baixa à comissão.\nNão havendo baixa à comissão, poderá até acontecer que o processo de ratificação se esgote numa única reunião plenária e então, se esta proposta vingasse, poderia acontecer que se tivesse de dilatar a discussão no Plenário por mais uma sessão.\nSó me parece que esta sugestão poderá ter acolhimento no caso de o Plenário ter deliberado a baixa à comissão para discussão e votação na especialidade das propostas apresentadas. Se a discussão e votação tiver lugar no Plenário, penso que poderá ter o inconveniente de implicar um possível prolongamento da discussão no Plenário para uma nova sessão para permitir que até à sessão plenária seguinte se possam ainda apresentar propostas.", 
-   "type": "documento"
+   "party": "ASDI", 
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Sr. Deputado José Magalhães, acabei de ouvir ler a proposta de substituição para o n.º 1 do artigo 184.º mas fica-me a seguinte dúvida que gostaria de ver, se possível, dissipada: na medida em que, na economia da sua proposta, se prevê que a apresentação de propostas de alteração poderá ter lugar até ao termo da reunião plenária subsequente, gostaria de saber se isto aconteceria sempre, quer houvesse ou não baixa à comissão.\nNão havendo baixa à comissão, poderá até acontecer que o processo de ratificação se esgote numa única reunião plenária e então, se esta proposta vingasse, poderia acontecer que se tivesse de dilatar a discussão no Plenário por mais uma sessão.\nSó me parece que esta sugestão poderá ter acolhimento no caso de o Plenário ter deliberado a baixa à comissão para discussão e votação na especialidade das propostas apresentadas. Se a discussão e votação tiver lugar no Plenário, penso que poderá ter o inconveniente de implicar um possível prolongamento da discussão no Plenário para uma nova sessão para permitir que até à sessão plenária seguinte se possam ainda apresentar propostas.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Creio que a hipótese adiantada pelo Sr.Deputado Vilhena de Carvalho pode desenhar-se. Só que é uma hipótese que nós queríamos excluir em absoluto. Isto é: só pensámos esta solução - que, sublinho, tem mais a ver, até, com experiências de funcionamento da Assembleia que resultaram do comportamento de outras bancadas e não da nossa - para o caso de baixa à comissão. Digo francamente que se entende haver dúvidas bastantes para justificar que acautelemos isso; nós estamos perfeitamente disponíveis para sublinhar que a expressão é: \n«..., em caso de baixa à comissão, ...»", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Creio que a hipótese adiantada pelo Sr.Deputado Vilhena de Carvalho pode desenhar-se. Só que é uma hipótese que nós queríamos excluir em absoluto. Isto é: só pensámos esta solução - que, sublinho, tem mais a ver, até, com experiências de funcionamento da Assembleia que resultaram do comportamento de outras bancadas e não da nossa - para o caso de baixa à comissão. Digo francamente que se entende haver dúvidas bastantes para justificar que acautelemos isso; nós estamos perfeitamente disponíveis para sublinhar que a expressão é: \n«..., em caso de baixa à comissão, ...»", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, não havendo mais inscrições, vai ser posta à votação, primeiro, uma proposta apresentada pelo PCP, e depois a proposta apresentada pelo Sr. Deputado Silva Marques. Se ela for aprovada votar-se-á, então, o aditamento posteriormente apresentado pelo PCP.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, não havendo mais inscrições, vai ser posta à votação, primeiro, uma proposta apresentada pelo PCP, e depois a proposta apresentada pelo Sr. Deputado Silva Marques. Se ela for aprovada votar-se-á, então, o aditamento posteriormente apresentado pelo PCP.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Soares Cruz* (CDS): Dá-me licença, Sr. Presidente? É para interpelar a Mesa.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Soares Cruz", 
+   "text": "Dá-me licença, Sr. Presidente? É para interpelar a Mesa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Soares Cruz* (CDS): Sr. Presidente, é para solicitar a distribuição da proposta que o Sr. Deputado José Magalhães acaba de fazer porque não a temos ainda na bancada.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Soares Cruz", 
+   "text": "Sr. Presidente, é para solicitar a distribuição da proposta que o Sr. Deputado José Magalhães acaba de fazer porque não a temos ainda na bancada.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos, então, aguardar uns momentos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vamos, então, aguardar uns momentos.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Vai ser lida & proposta apresentada pelo PCP, que seguidamente será posta à votação.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -363,16 +397,14 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos votar.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vamos votar.\nSubmetida à votação, foi rejeitada, com os votos contra do PS, do PSD, do CDS, da UEDS e da ASDI e os votos a favor do PCP e do MDP/CDE.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetida à votação, foi rejeitada, com os votos contra do PS, do PSD, do CDS, da UEDS e da ASDI e os votos a favor do PCP e do MDP/CDE.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Vai ser lida a proposta apresentada pelo Sr.Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vai ser lida a proposta apresentada pelo Sr.Deputado Silva Marques.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -384,272 +416,336 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Dá-me licença, Sr. Presidente? É para interpelar a Mesa.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Dá-me licença, Sr. Presidente? É para interpelar a Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, ao ouvir o Sr. Secretário ler o preceito, apercebi-me de que a leitura foi dos n.ºs 1, 2, 3 e 4, ou seja, do preceito todo. Sucede, Sr. Presidente, que o n.º 4 não chegou a ser objecto de discussão, se bem me lembro.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, ao ouvir o Sr. Secretário ler o preceito, apercebi-me de que a leitura foi dos n.ºs 1, 2, 3 e 4, ou seja, do preceito todo. Sucede, Sr. Presidente, que o n.º 4 não chegou a ser objecto de discussão, se bem me lembro.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tal como a proposta apresentada pelo PCP, esta tinha sido posta em discussão, globalmente. Mas se V. Ex.ª tem dúvidas e julgar pertinente, entraremos no processo de discussão desse n.º 4.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tal como a proposta apresentada pelo PCP, esta tinha sido posta em discussão, globalmente. Mas se V. Ex.ª tem dúvidas e julgar pertinente, entraremos no processo de discussão desse n.º 4.\n390 I SÉRIE - NÚMERO 12", 
+   "type": "presidente"
   }, 
   {
-   "text": "390 I SÉRIE - NÚMERO 12", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Acho que seria preferível, Sr.Presidente, porque, tendo nós discutido os n.ºs 1, 2 e 3, é verdade que não discutimos o n.º 4, e ele, pelo menos, merece algumas notas.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Acho que seria preferível, Sr.Presidente, porque, tendo nós discutido os n.ºs 1, 2 e 3, é verdade que não discutimos o n.º 4, e ele, pelo menos, merece algumas notas.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está, pois, em discussão o n.º 4 do artigo 184.º Para interpelar a Mesa, tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está, pois, em discussão o n.º 4 do artigo 184.º", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, a observação feita pelo meu camarada José Magalhães, desde logo, tinha toda a razão de ser. Pelo facto de ter havido uns «saltinhos» na numeração estamos novamente confrontados com o. facto de esta proposta, relativa ao n.º 4 do artigo 184.º, corresponder à nova proposta para o n.º 2 do artigo 185.º Portanto, solicitava ao Sr. Presidente para ser também lida essa nossa proposta e para serem simultaneamente, postas à discussão.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Para interpelar a Mesa, tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Acontece, Sr. Deputado, que essa proposta do PCP, do n.º 2 do artigo 185.º, já foi votada. Portanto, não é possível voltar atrás para a pôr à discussão. Assim, está apenas em discussão o n.º 4 do artigo 184.º \nTem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, a observação feita pelo meu camarada José Magalhães, desde logo, tinha toda a razão de ser. Pelo facto de ter havido uns «saltinhos» na numeração estamos novamente confrontados com o. facto de esta proposta, relativa ao n.º 4 do artigo 184.º, corresponder à nova proposta para o n.º 2 do artigo 185.º Portanto, solicitava ao Sr. Presidente para ser também lida essa nossa proposta e para serem simultaneamente, postas à discussão.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amarai", 
+   "text": "Sr. Presidente, provavelmente haverá lapso da minha parte, mas o facto é que a proposta relativa ao n.º 2 do artigo 185.º, tanto quanto me parece, não foi votada. Mas vou conferir...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Acontece, Sr. Deputado, que essa proposta do PCP, do n.º 2 do artigo 185.º, já foi votada. Portanto, não é possível voltar atrás para a pôr à discussão. Assim, está apenas em discussão o n.º 4 do artigo 184.º \nTem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, o artigo 185.º acabou de ser votado globalmente há pouco e não houve objecções. Ninguém pediu que fosse votado número por número.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *João Amarai* (PCP): Sr. Presidente, provavelmente haverá lapso da minha parte, mas o facto é que a proposta relativa ao n.º 2 do artigo 185.º, tanto quanto me parece, não foi votada. Mas vou conferir...", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, esclareci agora a questão. O que nós votámos foi a nossa proposta para o artigo 184.º, que corresponde, na organização da Sr.ª Deputada Margarida Salema, subscrita pelos Srs. Deputados do PSD e do PS, ao n.º 3 do artigo 183.º, que é a que se refere ao efeito da recusa de ratificação.\nO que agora vai ser discutido com o n.º 4 do artigo 184.º é o termo da suspensão por efeito da rejeição de todas as propostas de alteração.\nOra, esse é exactamente o âmbito da nossa proposta para o n.º 2 do artigo 185.º, o qual - peço desculpa Sr. Presidente - tenho por certo que não pode ter sido votado, porque se o foi, então, não pode agora ser votada a proposta agora apresentada pelo Sr. Deputado Silva Marques.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, o artigo 185.º acabou de ser votado globalmente há pouco e não houve objecções. Ninguém pediu que fosse votado número por número.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado João Amaral, não posso conceber a sua observação, pelo seguinte: o artigo 185.º, que é proposto pelo PCP e que corresponde ao artigo 184.º da proposta apresentada pela Sr.ª Deputada Margarida Salema, foi votado e, antes de o ter sido, o Sr.Secretário leu o seu texto. O artigo 185.º foi votado há pouco, portanto, não é possível voltar atrás. V. Ex.ª fala em proposta do PCP para o artigo 184.º, mas essa proposta foi retirada ontem. Assim, não é possível repetirmos essa situação. O que está, portanto, em discussão é apenas o n.º 4 do artigo 184.º da proposta apresentada pelo Sr.Deputado Silva Marques.\nLembro ainda, Srs. Deputados - e certamente terá presente -, que ontem suspendemos a discussão em conjunto destes 2 diplomas para que fosse possível encontrar uma plataforma de acordo, dando expressão a essa unanimidade de pensamentos que não tinha encontrado expressão na letra da formulação apresentada nas propostas.\nTem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, esclareci agora a questão. O que nós votámos foi a nossa proposta para o artigo 184.º, que corresponde, na organização da Sr.ª Deputada Margarida Salema, subscrita pelos Srs. Deputados do PSD e do PS, ao n.º 3 do artigo 183.º, que é a que se refere ao efeito da recusa de ratificação.\nO que agora vai ser discutido com o n.º 4 do artigo 184.º é o termo da suspensão por efeito da rejeição de todas as propostas de alteração.\nOra, esse é exactamente o âmbito da nossa proposta para o n.º 2 do artigo 185.º, o qual - peço desculpa Sr. Presidente - tenho por certo que não pode ter sido votado, porque se o foi, então, não pode agora ser votada a proposta agora apresentada pelo Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Continuo a interpelar a Mesa, Sr.Presidente.\nTanto quanto percebi o Sr. Presidente diz que foi aprovado o dispositivo referente ao n.º 2 do artigo 185.º, ou seja, o seguinte: «2 - No caso de terem sido rejeitadas todas as propostas de alteração e o decreto-lei se encontrar suspenso, será publicada no Diário da República a declaração do termo da suspensão.» \nA proposta que aqui tenho do n.º 4 do artigo 184.º, diz o seguinte: «Se forem rejeitadas todas as propostas de alteração e a vigência do decreto-lei se encontrar suspensa ...» - ou seja, o condicionalismo é o mesmo - o Presidente da Assembleia, para os efeitos do n.º 2 do artigo 172.º da Constituição, remeterá para publicação na 1.ª série do Diário da República o anúncio da respectiva votação, o que, no essencial, significa o mesmo procedimento com uma redacção diferente.\nPortanto, solicito a V. Ex.ª que me esclareça qual é a função da votação deste n.º 4.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado João Amaral, não posso conceber a sua observação, pelo seguinte: o artigo 185.º, que é proposto pelo PCP e que corresponde ao artigo 184.º da proposta apresentada pela Sr.ª Deputada Margarida Salema, foi votado e, antes de o ter sido, o Sr.Secretário leu o seu texto. O artigo 185.º foi votado há pouco, portanto, não é possível voltar atrás. V. Ex.ª fala em proposta do PCP para o artigo 184.º, mas essa proposta foi retirada ontem. Assim, não é possível repetirmos essa situação. O que está, portanto, em discussão é apenas o n.º 4 do artigo 184.º da proposta apresentada pelo Sr.Deputado Silva Marques.\nLembro ainda, Srs. Deputados - e certamente terá presente -, que ontem suspendemos a discussão em conjunto destes 2 diplomas para que fosse possível encontrar uma plataforma de acordo, dando expressão a essa unanimidade de pensamentos que não tinha encontrado expressão na letra da formulação apresentada nas propostas.\nTem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, isso depende, exclusivamente, dos critérios que VV. Ex.ªs adoptam. O certo é que o n.º 2 do artigo 185.º já foi votado e foi rejeitado, com os votos favoráveis, apenas, do PCP e do MDP/CDE. V. Ex.ª diz que o n.º 4 da proposta do Sr. Deputado Silva Marques corresponde a esse n.º 2, mas isso é apenas o critério de interpretação de V. Ex.ª, porque pode não corresponder, até porque as palavras nem são as mesmas e não há uma identificação total e perfeita, nos termos que V. Ex.ª refere.\nTem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Continuo a interpelar a Mesa, Sr.Presidente.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, Srs. Deputados: O incidente agora suscitado só mostra a desatenção com que o Grupo Parlamentar do PCP seguiu a votação que acabou de ser feita da sua proposta relativa ao artigo 185.º, e penso que a Mesa tem inteira razão ao dizer que essa proposta já foi votada e rejeitada.\nNo entanto, não queremos deixar de dizer que o PS não se opõe a que a votação que foi feita se entenda como tendo sido apenas referida ao n.º 1 do artigo 185.º da proposta apresentada pelo PCP e que se abra a discussão do n.º 2, conjuntamente com a do n.º 4 da proposta apresentada pelo Sr. Deputado Silva Marques.\nPenso que este entendimento acabará com este incidente, mas não deixaremos de acentuar que ele só resulta de uma desatenção, porventura justificada, aquando da votação.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Tanto quanto percebi o Sr. Presidente diz que foi aprovado o dispositivo referente ao n.º 2 do artigo 185.º, ou seja, o seguinte: «2 - No caso de terem sido rejeitadas todas as propostas de alteração e o decreto-lei se encontrar suspenso, será publicada no Diário da República a declaração do termo da suspensão.» \nA proposta que aqui tenho do n.º 4 do artigo 184.º, diz o seguinte: «Se forem rejeitadas todas as propostas de alteração e a vigência do decreto-lei se encontrar suspensa ...» - ou seja, o condicionalismo é o mesmo - o Presidente da Assembleia, para os efeitos do n.º 2 do artigo 172.º da Constituição, remeterá para publicação na 1.ª série do Diário da República o anúncio da respectiva votação, o que, no essencial, significa o mesmo procedimento com uma redacção diferente.\nPortanto, solicito a V. Ex.ª que me esclareça qual é a função da votação deste n.º 4.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.\n10 DE NOVEMBRO DE 1984 391", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, isso depende, exclusivamente, dos critérios que VV. Ex.ªs adoptam. O certo é que o n.º 2 do artigo 185.º já foi votado e foi rejeitado, com os votos favoráveis, apenas, do PCP e do MDP/CDE. V. Ex.ª diz que o n.º 4 da proposta do Sr. Deputado Silva Marques corresponde a esse n.º 2, mas isso é apenas o critério de interpretação de V. Ex.ª, porque pode não corresponder, até porque as palavras nem são as mesmas e não há uma identificação total e perfeita, nos termos que V. Ex.ª refere.\nTem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, Srs. Deputados: Não nos oporemos à sugestão proposta apresentada pela bancada do Partido Socialista.\nEm todo o caso, permita-se-nos que digamos o seguinte: o Diário da Assembleia da República existe e creio que quando os Srs. Deputados o lerem poderão constatar que quando ontem discutimos - e intensamente - o regime de alteração dos decretos-leis e a hipótese de se prosseguir o debate em caso de não recusa de apresentação o fizemos cotejando o texto do PCP e o texto da Sr.ª Deputada Margarida Salema, votámos o texto proposto por aquela Sr.ª Deputada e instámos as bancadas a reflectirem sobre formulações que conjugassem as soluções apresentadas pelo PCP e pela Sr.ª Deputada Margarida Salema. O Sr. Deputado Silva Marques levou isso para casa para reflectir, e a votação está a ser feita agora.\nPortanto, não nos deteremos mais nesta matéria e estamos de acordo que se debata este segundo aspecto que, sublinho, creio não ter sido, de forma alguma, objecto de votação. Portanto, estamos perfeitamente disponíveis para o discutir.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, Srs. Deputados: O incidente agora suscitado só mostra a desatenção com que o Grupo Parlamentar do PCP seguiu a votação que acabou de ser feita da sua proposta relativa ao artigo 185.º, e penso que a Mesa tem inteira razão ao dizer que essa proposta já foi votada e rejeitada.\nNo entanto, não queremos deixar de dizer que o PS não se opõe a que a votação que foi feita se entenda como tendo sido apenas referida ao n.º 1 do artigo 185.º da proposta apresentada pelo PCP e que se abra a discussão do n.º 2, conjuntamente com a do n.º 4 da proposta apresentada pelo Sr. Deputado Silva Marques.\nPenso que este entendimento acabará com este incidente, mas não deixaremos de acentuar que ele só resulta de uma desatenção, porventura justificada, aquando da votação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, embora o processo não seja ortodoxo, a Mesa, após ter consultado os Srs. Secretários, está de acordo, se porventura não houver objecções, quanto à proposta que foi apresentada pelo Sr. Deputado Luís Saias, no sentido de se retomar - esquecendo ou desprezando as votações já feitas - a discussão da proposta do PCP relativa ao n.º 2 do artigo 185.º e da proposta relativa ao n.º 4 do artigo 184.º, segundo a proposta do Sr. Deputado Silva Marques.\nPortanto, se não houver objecções, Srs. Deputados, está reaberta a discussão do n.º 2 do artigo 185.º proposto pelo PCP e do n.º 4 do artigo 184.º proposto pelo Sr. Deputado Silva Marques.\nDevo dizer que o artigo 184.º proposto pelo Sr. Deputado Silva Marques ainda não foi votado.\nTem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, Srs. Deputados: A questão que o texto sugerido pelo Sr. Deputado Silva Marques visa equacionar é de um certo relevo. Na verdade, quando houver suspensão de um decreto-lei, diz a Constituição que essa suspensão cessa com a entrada em vigor da lei que o altere ou com a rejeição de todas as propostas que lhe digam respeito.\nNão há dúvida de que é assim. Mas qual é esse momento e que formas de publicidade é que existem para que saibamos que foram rejeitadas todas as propostas? \nCreio que a proposta do Sr. Deputado Silva Marques coloca apenas um problema, ou seja, o cotejo disto com a lei de formulário, bem como a questão do anúncio da respectiva votação. Porquê? \nEram estas as perguntas que queria formular.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "10 DE NOVEMBRO DE 1984 391", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, Srs. Deputados: Não nos oporemos à sugestão proposta apresentada pela bancada do Partido Socialista.\nEm todo o caso, permita-se-nos que digamos o seguinte: o Diário da Assembleia da República existe e creio que quando os Srs. Deputados o lerem poderão constatar que quando ontem discutimos - e intensamente - o regime de alteração dos decretos-leis e a hipótese de se prosseguir o debate em caso de não recusa de apresentação o fizemos cotejando o texto do PCP e o texto da Sr.ª Deputada Margarida Salema, votámos o texto proposto por aquela Sr.ª Deputada e instámos as bancadas a reflectirem sobre formulações que conjugassem as soluções apresentadas pelo PCP e pela Sr.ª Deputada Margarida Salema. O Sr. Deputado Silva Marques levou isso para casa para reflectir, e a votação está a ser feita agora.\nPortanto, não nos deteremos mais nesta matéria e estamos de acordo que se debata este segundo aspecto que, sublinho, creio não ter sido, de forma alguma, objecto de votação. Portanto, estamos perfeitamente disponíveis para o discutir.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, quanto à questão de fundo não há divergência entre nenhuma das bancadas. Coloca-se apenas uma questão respeitante à terminologia empregada. Deveremos nós utilizar o termo «declaração»? A Assembleia da República não faz declarações, mas sim leis, resoluções, votos de protesto, de pesar, etc. Daí que, sendo unanimemente reconhecida esta dificuldade jurídico-formal, eu tenha - aliás, no decurso de trocas de impressões com colegas de outras bancadas e, em particular, com a minha colega Margarida Salema - utilizado esta forma de resolver o problema. Reconheço que ela não é isenta de dúvida, mas à falta de melhor proponho esta fórmula.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, embora o processo não seja ortodoxo, a Mesa, após ter consultado os Srs. Secretários, está de acordo, se porventura não houver objecções, quanto à proposta que foi apresentada pelo Sr. Deputado Luís Saias, no sentido de se retomar - esquecendo ou desprezando as votações já feitas - a discussão da proposta do PCP relativa ao n.º 2 do artigo 185.º e da proposta relativa ao n.º 4 do artigo 184.º, segundo a proposta do Sr. Deputado Silva Marques.\nPortanto, se não houver objecções, Srs. Deputados, está reaberta a discussão do n.º 2 do artigo 185.º proposto pelo PCP e do n.º 4 do artigo 184.º proposto pelo Sr. Deputado Silva Marques.\nDevo dizer que o artigo 184.º proposto pelo Sr. Deputado Silva Marques ainda não foi votado.\nTem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, Srs. Deputados: A questão que o texto sugerido pelo Sr. Deputado Silva Marques visa equacionar é de um certo relevo. Na verdade, quando houver suspensão de um decreto-lei, diz a Constituição que essa suspensão cessa com a entrada em vigor da lei que o altere ou com a rejeição de todas as propostas que lhe digam respeito.\nNão há dúvida de que é assim. Mas qual é esse momento e que formas de publicidade é que existem para que saibamos que foram rejeitadas todas as propostas? \nCreio que a proposta do Sr. Deputado Silva Marques coloca apenas um problema, ou seja, o cotejo disto com a lei de formulário, bem como a questão do anúncio da respectiva votação. Porquê? \nEram estas as perguntas que queria formular.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Deputado Silva Marques, percebi a sua proposta que, aliás, também li. Mas a questão prende-se com a problemática da escolha do anúncio da respectiva votação, pois há ainda outros fenómenos através dos quais as propostas deperecem. Por outro lado, como é que compatibiliza isto com o artigo 115.º da Constituição e com a lei de formulário?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, quanto à questão de fundo não há divergência entre nenhuma das bancadas. Coloca-se apenas uma questão respeitante à terminologia empregada. Deveremos nós utilizar o termo «declaração»? A Assembleia da República não faz declarações, mas sim leis, resoluções, votos de protesto, de pesar, etc. Daí que, sendo unanimemente reconhecida esta dificuldade jurídico-formal, eu tenha - aliás, no decurso de trocas de impressões com colegas de outras bancadas e, em particular, com a minha colega Margarida Salema - utilizado esta forma de resolver o problema. Reconheço que ela não é isenta de dúvida, mas à falta de melhor proponho esta fórmula.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Pedia ao Sr. Deputado José Magalhães que explicitasse melhor a dúvida que colocou. Não quer dizer que eu não possa interpretá-la, mas, através dum processo de consulta, explicite melhor, Sr. Deputado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Deputado Silva Marques, percebi a sua proposta que, aliás, também li. Mas a questão prende-se com a problemática da escolha do anúncio da respectiva votação, pois há ainda outros fenómenos através dos quais as propostas deperecem. Por outro lado, como é que compatibiliza isto com o artigo 115.º da Constituição e com a lei de formulário?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Deputado Silva Marques, o artigo 172.º, n.º 2, da Constituição estabelece que a Assembleia da República pode suspender a vigência dum decreto-lei. Primeira hipótese a Assembleia pode fazê-lo até à publicação da lei que o vier alterar; segunda hipótese - até à rejeição de todas aquelas propostas, isto é, as propostas de alteração ao decreto-lei. Na primeira, isto é, até à publicação da lei que o vier alterar, colocam-se algumas questões, como seja o problema de saber se deve ser até à entrada em vigor ou até à publicação da lei citada anteriormente. Mas vamos ignorar este aspecto pontual. Interessa-nos fundamentalmente a segunda hipótese, ou seja, «até à rejeição de todas as propostas de alteração ao decreto-lei».\nO Sr. Deputado diz que anunciar-se-á no Diário da República - não é uma declaração, mas um anúncio - a respectiva votação, que, como sabe, em regra se faz em comissão, mas que se pode fazer também em plenário.\nPorquê a votação quando há outras formas de cessação, de destruição, de inviabilização das propostas apresentadas? Por outro lado, como é que compatibiliza a realização deste anúncio com o disposto na lei de formulário e com o estatuído no artigo 115.º da Constituição?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Pedia ao Sr. Deputado José Magalhães que explicitasse melhor a dúvida que colocou. Não quer dizer que eu não possa interpretá-la, mas, através dum processo de consulta, explicite melhor, Sr. Deputado.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Deputado, não vou - longe de mim - excluir que tenha razão. Mas tem de explicitar melhor a sua ideia porque relativamente à explicitação que fez dir-lhe-ei que utilizo, à cautela, também a terminologia da Constituição. Es- 392 I SÉRIE - NÚMERO 12", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Deputado Silva Marques, o artigo 172.º, n.º 2, da Constituição estabelece que a Assembleia da República pode suspender a vigência dum decreto-lei. Primeira hipótese a Assembleia pode fazê-lo até à publicação da lei que o vier alterar; segunda hipótese - até à rejeição de todas aquelas propostas, isto é, as propostas de alteração ao decreto-lei. Na primeira, isto é, até à publicação da lei que o vier alterar, colocam-se algumas questões, como seja o problema de saber se deve ser até à entrada em vigor ou até à publicação da lei citada anteriormente. Mas vamos ignorar este aspecto pontual. Interessa-nos fundamentalmente a segunda hipótese, ou seja, «até à rejeição de todas as propostas de alteração ao decreto-lei».\nO Sr. Deputado diz que anunciar-se-á no Diário da República - não é uma declaração, mas um anúncio - a respectiva votação, que, como sabe, em regra se faz em comissão, mas que se pode fazer também em plenário.\nPorquê a votação quando há outras formas de cessação, de destruição, de inviabilização das propostas apresentadas? Por outro lado, como é que compatibiliza a realização deste anúncio com o disposto na lei de formulário e com o estatuído no artigo 115.º da Constituição?", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Deputado, não vou - longe de mim - excluir que tenha razão. Mas tem de explicitar melhor a sua ideia porque relativamente à explicitação que fez dir-lhe-ei que utilizo, à cautela, também a terminologia da Constituição. Es-", 
-   "type": "documento"
-  }, 
-  {
-   "text": "392 I SÉRIE - NÚMERO 12", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
    "text": "ta última refere, no seu artigo 172.º, n.º 2, que «a Assembleia poderá suspender a vigência do decreto-lei até à rejeição das propostas de alteração». Bem, parece-me que só há uma forma de rejeitar propostas de alteração: com uma votação. Portanto, prudentemente, ative-me ao texto constitucional. Não excluo que não haja aqui outros aspectos, mas o Sr.Deputado também não os explicitou.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, compreendo as cautelas do Sr. Deputado Silva Marques em relação à terminologia empregada. Em todo o caso, creio que quando a Constituição utiliza a palavra «rejeição» fá-lo num sentido amplo para abranger todas as formas através das quais uma proposta de alteração pode ver desarticulada a sua eficácia e cessada a sua existência. Como sabe, tais termos são em sentido técnico; para além do termo «rejeição» há ainda outros, designadamente «retirada».", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, compreendo as cautelas do Sr. Deputado Silva Marques em relação à terminologia empregada. Em todo o caso, creio que quando a Constituição utiliza a palavra «rejeição» fá-lo num sentido amplo para abranger todas as formas através das quais uma proposta de alteração pode ver desarticulada a sua eficácia e cessada a sua existência. Como sabe, tais termos são em sentido técnico; para além do termo «rejeição» há ainda outros, designadamente «retirada».", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Longe de mim ter a pretensão de me medir com o Sr. Deputado nesses domínios. Peco-lhe é que me dê uma alternativa, que, se me parecer boa, adoptarei imediatamente.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Longe de mim ter a pretensão de me medir com o Sr. Deputado nesses domínios. Peco-lhe é que me dê uma alternativa, que, se me parecer boa, adoptarei imediatamente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Quanto à dita alternativa, nós iremos ponderá-la rapidissimamente. Relativamente à questão do artigo 115.º, tal prende-se com a problemática da interpretação desse último artigo e da lei de formulário. Ora, há quem faça uma interpretação muito restrita, que não consentiria sequer que nós aditássemos o que quer que fosse com a obrigatoriedade de publicação no Diário da República, 1.ª série.\nEm todo o caso, creio que o interesse público, na certeza e no conhecimento duma coisa tão importante e que produz efeitos gerais como a cessação de vigência dum decreto-lei, justifica que adoptemos um critério mais complacente do que aquele que, habitualmente, a ASDI utiliza nestas matérias, por exemplo, para citar precedentes. Portanto, estamos disponíveis para considerar a inclusão duma norma deste tipo.\nQuanto à solução alternativa - repito-o - precisamos de a ponderar rapidamente.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Quanto à dita alternativa, nós iremos ponderá-la rapidissimamente. Relativamente à questão do artigo 115.º, tal prende-se com a problemática da interpretação desse último artigo e da lei de formulário. Ora, há quem faça uma interpretação muito restrita, que não consentiria sequer que nós aditássemos o que quer que fosse com a obrigatoriedade de publicação no Diário da República, 1.ª série.\nEm todo o caso, creio que o interesse público, na certeza e no conhecimento duma coisa tão importante e que produz efeitos gerais como a cessação de vigência dum decreto-lei, justifica que adoptemos um critério mais complacente do que aquele que, habitualmente, a ASDI utiliza nestas matérias, por exemplo, para citar precedentes. Portanto, estamos disponíveis para considerar a inclusão duma norma deste tipo.\nQuanto à solução alternativa - repito-o - precisamos de a ponderar rapidamente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Deputado Luís Beiroco pediu a palavra para que efeito?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Luís Beiroco pediu a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Luís Beiroco* (CDS): Para uma intervenção muito breve, Sr.Presidente.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Luís Beiroco", 
+   "text": "Para uma intervenção muito breve, Sr.Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Beiroco* (CDS): Penso que, apesar de tudo, nesta matéria - e ela é tecnicamente difícil -, parece-me que a forma proposta pelo Partido Comunista é a melhor.\nO Sr. Deputado Silva Marques disse há pouco, e bem, que a Assembleia da República não pode fazer declarações. Mas penso que o que aqui está em causa não é uma declaração da Assembleia, mas apenas uma declaração que o Presidente da Assembleia da República faz no sentido de dar a conhecer uma determinada votação da Assembleia, que tem determinado número de efeitos e uma determinada eficácia externa.\nTrata-se não de uma declaração do órgão - é óbvio - mas de uma forma de levar a conhecimento público uma votação da Assembleia que produz efeitos com eficácia externa, bem como relativamente a terceiros.\nNesta medida, não me choca de maneira nenhuma o termo «comunicação», que é usado na fórmula proposta pelo Partido Comunista, parecendo-me que a declaração do termo da «suspensão», enriquecerá melhor a fórmula.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Luís Beiroco", 
+   "text": "Penso que, apesar de tudo, nesta matéria - e ela é tecnicamente difícil -, parece-me que a forma proposta pelo Partido Comunista é a melhor.\nO Sr. Deputado Silva Marques disse há pouco, e bem, que a Assembleia da República não pode fazer declarações. Mas penso que o que aqui está em causa não é uma declaração da Assembleia, mas apenas uma declaração que o Presidente da Assembleia da República faz no sentido de dar a conhecer uma determinada votação da Assembleia, que tem determinado número de efeitos e uma determinada eficácia externa.\nTrata-se não de uma declaração do órgão - é óbvio - mas de uma forma de levar a conhecimento público uma votação da Assembleia que produz efeitos com eficácia externa, bem como relativamente a terceiros.\nNesta medida, não me choca de maneira nenhuma o termo «comunicação», que é usado na fórmula proposta pelo Partido Comunista, parecendo-me que a declaração do termo da «suspensão», enriquecerá melhor a fórmula.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, pretendia fazer um pedido de esclarecimento ao Sr. Deputado Luís Beiroco e, simultaneamente, por esta via, a todas as restantes bancadas, porque aceito a ideia do Sr.Deputado Luís Beiroco, mas talvez haja que colher algum contributo que, entretanto, a minha proposta avançou.\nNessa altura, a proposta poderia passar a ter a seguinte formulação: \n«Se forem rejeitadas todas as propostas de alteração, e a vigência do decreto-lei se encontrar suspensa...» Até aqui não há qualquer diferença nem sequer formal, a partir daqui parece-me que também há unanimidade quanto à aceitação do que agora escrevo e que é o seguinte: \n«O Presidente da Assembleia da República... - não digo somente a Assembleia, independentemente de ser anúncio ou declaração, mas refiro precisamente o Presidente - .... para os efeitos do n.º 2 do artigo 172.º da Constituição, remeterá para publicação no Diário da República, 1.ª série, a declaração do termo da suspensão.» O que é que lhes parece, caros colegas?", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, pretendia fazer um pedido de esclarecimento ao Sr. Deputado Luís Beiroco e, simultaneamente, por esta via, a todas as restantes bancadas, porque aceito a ideia do Sr.Deputado Luís Beiroco, mas talvez haja que colher algum contributo que, entretanto, a minha proposta avançou.\nNessa altura, a proposta poderia passar a ter a seguinte formulação: \n«Se forem rejeitadas todas as propostas de alteração, e a vigência do decreto-lei se encontrar suspensa...» Até aqui não há qualquer diferença nem sequer formal, a partir daqui parece-me que também há unanimidade quanto à aceitação do que agora escrevo e que é o seguinte: \n«O Presidente da Assembleia da República... - não digo somente a Assembleia, independentemente de ser anúncio ou declaração, mas refiro precisamente o Presidente - .... para os efeitos do n.º 2 do artigo 172.º da Constituição, remeterá para publicação no Diário da República, 1.ª série, a declaração do termo da suspensão.» O que é que lhes parece, caros colegas?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Presidente: Tem a palavra o Sr. Deputado O Sr. Luís Beiroco.", 
-   "type": "documento"
+   "speaker": "O Presidente", 
+   "text": "Tem a palavra o Sr. Deputado O Sr. Luís Beiroco.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luis Beiroco* (CDS): Sr. Presidente, já que me foi feito um pedido de esclarecimento, direi que, pessoalmente, considero esta fórmula perfeitamente aceitável e que resolve os problemas com que estávamos confrontados.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Luis Beiroco", 
+   "text": "Sr. Presidente, já que me foi feito um pedido de esclarecimento, direi que, pessoalmente, considero esta fórmula perfeitamente aceitável e que resolve os problemas com que estávamos confrontados.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, creio que a conjugação das 2 redacções conduz a um resultado aceitável. Creio também que sempre teria que o Sr. Presidente da Assembleia fazer as diligências necessárias para conseguir o desiderato que vinha apontado na nossa redacção - a publicação no Diário da República, como é usual. Adita-se aqui a referência a que deve ser publicado no Diário da República, 1.ª série, e muito bem - tal referência estava omitida na nossa proposta - e opta-se pela formulação «declaração do termo da suspensão». Creio, pois, que se chegou a um resultado aceitável.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, creio que a conjugação das 2 redacções conduz a um resultado aceitável. Creio também que sempre teria que o Sr. Presidente da Assembleia fazer as diligências necessárias para conseguir o desiderato que vinha apontado na nossa redacção - a publicação no Diário da República, como é usual. Adita-se aqui a referência a que deve ser publicado no Diário da República, 1.ª série, e muito bem - tal referência estava omitida na nossa proposta - e opta-se pela formulação «declaração do termo da suspensão». Creio, pois, que se chegou a um resultado aceitável.\n10 DE NOVEMBRO DE 1904 393", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "10 DE NOVEMBRO DE 1904 393", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Concluo que a proposta do Sr. Deputado Silva Marques obteve aceitação das bancadas, Sr. Deputado, queira ter a bondade de ler a proposta novamente e de a apresentar na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Concluo que a proposta do Sr. Deputado Silva Marques obteve aceitação das bancadas, Sr. Deputado, queira ter a bondade de ler a proposta novamente e de a apresentar na Mesa.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Mangues", 
+   "text": "Era isso precisamente que eu ia sugerir, Sr. Presidente.\nA redacção definitiva do artigo 184.º, n.º 4, será a seguinte: «Se forem rejeitadas todas as propostas de alteração, e a vigência do decreto-lei se encontrar suspensa, o Presidente da Assembleia da República, para os efeitos do n.º 2 do artigo 172.º da Constituição, remeterá para publicação no Diário da República, 1.ª série, a declaração do termo da suspensão.»", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Mangues* (PSD): Era isso precisamente que eu ia sugerir, Sr. Presidente.\nA redacção definitiva do artigo 184.º, n.º 4, será a seguinte: «Se forem rejeitadas todas as propostas de alteração, e a vigência do decreto-lei se encontrar suspensa, o Presidente da Assembleia da República, para os efeitos do n.º 2 do artigo 172.º da Constituição, remeterá para publicação no Diário da República, 1.ª série, a declaração do termo da suspensão.»", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Srs. Deputados, peço a vossa atenção para o seguinte: em função desta proposta, fica retirada a proposta apresentada pelo PCP relativa ao n.º 2 do artigo 185.º, e a proposta apresentada pelo Sr. Deputado Silva Marques relativa ao n.º 4 do artigo 184.º. Não há objecções quanto a este entendimento?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, peço a vossa atenção para o seguinte: em função desta proposta, fica retirada a proposta apresentada pelo PCP relativa ao n.º 2 do artigo 185.º, e a proposta apresentada pelo Sr. Deputado Silva Marques relativa ao n.º 4 do artigo 184.º. Não há objecções quanto a este entendimento?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "A proposta vai, pois, ser fotocopiada para ser distribuída.\nEntretanto, vamos passar à votação dos restantes números do artigo 184.º \nEntretanto, tem ainda a palavra o Sr. Deputado Luis Saias.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Salas* (PS): Sr. Presidente, penso que os 4 números poderão ser lidos e votados conjuntamente, uma vez que...", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Salas", 
+   "text": "Sr. Presidente, penso que os 4 números poderão ser lidos e votados conjuntamente, uma vez que...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, só poderei ler o n.º 4 após ter sido distribuída a proposta de substituição deste número.\nTem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, só poderei ler o n.º 4 após ter sido distribuída a proposta de substituição deste número.\nTem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Joio Amarei* (PCP): Sr. Presidente, nós requeríamos a votação separada do n.º 1, e em relação aos outros 3 números estamos de acordo em que a votação seja conjunta.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Joio Amarei", 
+   "text": "Sr. Presidente, nós requeríamos a votação separada do n.º 1, e em relação aos outros 3 números estamos de acordo em que a votação seja conjunta.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, compreendi que estava dispensado de apresentar o novo texto. Creio que é a própria Mesa que está a fazer o favor de proceder à sua redacção.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, compreendi que estava dispensado de apresentar o novo texto. Creio que é a própria Mesa que está a fazer o favor de proceder à sua redacção.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Então, como não apresenta...", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Então, como não apresenta...", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: Nesse caso, requeiro que a Mesa corrija a minha proposta n.º 4...", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Nesse caso, requeiro que a Mesa corrija a minha proposta n.º 4...", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, faça o favor de a ler de novo para que o Sr. Secretário possa fazer as alterações de acordo com a proposta agora apresentada.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, faça o favor de a ler de novo para que o Sr. Secretário possa fazer as alterações de acordo com a proposta agora apresentada.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: A alteração é apenas no final e consiste na substituição de «o anúncio da respectiva votação» pela expressão «a declaração do termo da suspensão».", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "A alteração é apenas no final e consiste na substituição de «o anúncio da respectiva votação» pela expressão «a declaração do termo da suspensão».", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Assim sendo, vai ser lido todo o artigo 184.º", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Assim sendo, vai ser lido todo o artigo 184.º", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -665,32 +761,30 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos passar à votação do n.º 1 do artigo 184.º", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos passar à votação do n.º 1 do artigo 184.º Submetido à votação, foi aprovado, com votos a favor do PS, do PSD e do CDS e as abstenções do PCP, do MDP/CDE, da UEDS e da ASDI.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetido à votação, foi aprovado, com votos a favor do PS, do PSD e do CDS e as abstenções do PCP, do MDP/CDE, da UEDS e da ASDI.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o Sr.Deputado José Magalhães.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o Sr.Deputado José Magalhães.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, Srs. Deputados: Não poderíamos ter votado favoravelmente este preceito uma vez que consideramos que se perdeu uma boa oportunidade para introduzir benfeitorias num sistema que, pela experiência que dele temos, se vê que carecia delas.\nNa verdade, poderíamos ter considerado a hipótese que o PCP formulou - hipótese essa, aliás, também sustentada por outras bancadas - e que era eminentemente razoável. Porém, ao rejeitar essa proposta, a maioria governamental não aditou uma benfeitoria e, infelizmente, ficámos na mesma.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, Srs. Deputados: Não poderíamos ter votado favoravelmente este preceito uma vez que consideramos que se perdeu uma boa oportunidade para introduzir benfeitorias num sistema que, pela experiência que dele temos, se vê que carecia delas.\nNa verdade, poderíamos ter considerado a hipótese que o PCP formulou - hipótese essa, aliás, também sustentada por outras bancadas - e que era eminentemente razoável. Porém, ao rejeitar essa proposta, a maioria governamental não aditou uma benfeitoria e, infelizmente, ficámos na mesma.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos agora passar à votação dos n.ºs 2, 3 e 4 do mesmo artigo.\nSubmetidos à votação, foram aprovados por unanimidade.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos agora passar à votação dos n.ºs 2, 3 e 4 do mesmo artigo.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Submetidos à votação, foram aprovados por unanimidade.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vai ser lido o texto da Comissão relativo ao artigo 185.º", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vai ser lido o texto da Comissão relativo ao artigo 185.º", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -714,52 +808,62 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão.\nTem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, Srs. Deputados: Salvo erro, este texto da Comissão relativo ao artigo 185.º é exactamente igual ao actual artigo 186.º do Regimento. Sendo assim, creio que ele não deverá ser votado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, Srs. Deputados: Salvo erro, este texto da Comissão relativo ao artigo 185.º é exactamente igual ao actual artigo 186.º do Regimento. Sendo assim, creio que ele não deverá ser votado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, Srs. Deputados: Possuo uma anotação que chama a atenção para o seguinte - e vou passar à sua leitura porque a observação do Sr. Deputado João Amaral pode ser pertinente: «Este artigo é uma simples adaptação do actual artigo 186.º, nada se inovando.» Porém, devo dizer que não tive oportunidade de verificar se pelo facto de nada se inovar ainda existe a adaptação.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, Srs. Deputados: Possuo uma anotação que chama a atenção para o seguinte - e vou passar à sua leitura porque a observação do Sr. Deputado João Amaral pode ser pertinente: «Este artigo é uma simples adaptação do actual artigo 186.º, nada se inovando.» Porém, devo dizer que não tive oportunidade de verificar se pelo facto de nada se inovar ainda existe a adaptação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Silva Marques, há a inovação da epígrafe. Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Silva Marques, há a inovação da epígrafe. Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Deputado, de facto há pequenas inovações: há a inovação já apontada pelo Sr. Presidente, que diz respeito à epígrafe; há a alteração no n.º l, de «ratificação» para «apreciação», e no n.º 2 há ainda a alteração de «apreciação» para «debate». Portanto, há pequenas alterações que justificam uma votação.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Deputado, de facto há pequenas inovações: há a inovação já apontada pelo Sr. Presidente, que diz respeito à epígrafe; há a alteração no n.º l, de «ratificação» para «apreciação», e no n.º 2 há ainda a alteração de «apreciação» para «debate». Portanto, há pequenas alterações que justificam uma votação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, Srs. Deputados: Apenas gostaria de chamar a atenção da Câmara para a existência de pequenas alterações entre o artigo 186.º do Regimento e o texto da Comissão relativo ao artigo 185.º e, portanto, a conveniência de se proceder à votação.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, Srs. Deputados: Apenas gostaria de chamar a atenção da Câmara para a existência de pequenas alterações entre o artigo 186.º do Regimento e o texto da Comissão relativo ao artigo 185.º e, portanto, a conveniência de se proceder à votação.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Vamos, pois, passar à votação do texto da Comissão relativo ao artigo 185.º", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vamos, pois, passar à votação do texto da Comissão relativo ao artigo 185.º", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vai ser lido o artigo 187.º, tal como consta do texto da Comissão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vai ser lido o artigo 187.º, tal como consta do texto da Comissão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -779,104 +883,134 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão.\nTem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão.\nTem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, Srs. Deputados: Este texto é da autoria da Sr.ª Deputada Margarida Salema, mas creio que ele nunca foi objecto de debate na Comissão. Contudo, se estou enganado, agradecia que os proponentes fizessem uma ligeira apresentação sobre esta matéria.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, Srs. Deputados: Este texto é da autoria da Sr.ª Deputada Margarida Salema, mas creio que ele nunca foi objecto de debate na Comissão. Contudo, se estou enganado, agradecia que os proponentes fizessem uma ligeira apresentação sobre esta matéria.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, Srs. Deputados: Gostaria de declarar que não sinto necessidade de fazer qualquer apresentação.\nNo entanto, não excluo a hipótese de haver questões concretas a colocar sobre a proposta feita, pois nesse caso haveria lugar a uma apreciação mais aprofundada.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, Srs. Deputados: Gostaria de declarar que não sinto necessidade de fazer qualquer apresentação.\nNo entanto, não excluo a hipótese de haver questões concretas a colocar sobre a proposta feita, pois nesse caso haveria lugar a uma apreciação mais aprofundada.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Deputado Silva Marques, a sua intervenção é excessivamente sucinta, particularmente quando se compara o texto actual do Regimento com o que vem proposto da Comissão.\nO n.º 1 do artigo 189.º do Regimento refere que «A discussão do tratado no Plenário será feita na generalidade e na especialidade». Ora, esta frase desapareceu na proposta feita pela Sr.ª Deputada Margarida Salema com efeitos importantes no que toca designadamente à possibilidade de introdução de reservas. Este é, pois, um lapso que deveria ser corrigido.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Deputado Silva Marques, a sua intervenção é excessivamente sucinta, particularmente quando se compara o texto actual do Regimento com o que vem proposto da Comissão.\nO n.º 1 do artigo 189.º do Regimento refere que «A discussão do tratado no Plenário será feita na generalidade e na especialidade». Ora, esta frase desapareceu na proposta feita pela Sr.ª Deputada Margarida Salema com efeitos importantes no que toca designadamente à possibilidade de introdução de reservas. Este é, pois, um lapso que deveria ser corrigido.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado João Amaral, lembro-lhe que está em discussão o artigo 187.º, cujo texto da Comissão é semelhante ao do Regimento, tendo apenas algumas diferenças de pormenor no que respeita à redacção. Ora, V. Ex.ª está a referir-se ao artigo 189.º em relação ao qual não existe qualquer proposta de alteração.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado João Amaral, lembro-lhe que está em discussão o artigo 187.º, cujo texto da Comissão é semelhante ao do Regimento, tendo apenas algumas diferenças de pormenor no que respeita à redacção. Ora, V. Ex.ª está a referir-se ao artigo 189.º em relação ao qual não existe qualquer proposta de alteração.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, essa é a razão pela qual se justificava uma apresentação de todo o capítulo mais aprofundada por parte do Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, essa é a razão pela qual se justificava uma apresentação de todo o capítulo mais aprofundada por parte do Sr. Deputado Silva Marques.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Deputado João Amaral, creio que V. Ex.ª já se apercebeu que a alteração que se propõe é relativa ao artigo 187.º Os artigos 188.º e 189.º são intocáveis: no artigo 188.º prevê-se o exame em comissão e no artigo 189.º fala-se na discussão na \ngeneralidade e na especialidade. Portanto, parece-me que estão ressalvados os aspectos que preocupam o Sr. Deputado.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Deputado João Amaral, creio que V. Ex.ª já se apercebeu que a alteração que se propõe é relativa ao artigo 187.º Os artigos 188.º e 189.º são intocáveis: no artigo 188.º prevê-se o exame em comissão e no artigo 189.º fala-se na discussão na \ngeneralidade e na especialidade. Portanto, parece-me que estão ressalvados os aspectos que preocupam o Sr. Deputado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.\n10 DE NOVEMBRO DE 1984 395", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "10 DE NOVEMBRO DE 1984 395", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, Srs. Deputados: Gostaria de insistir que só tem sentido abordarmos questões concretas. De outra forma, estamos a fazer intervenções genéricas e explicativas que se pressupõem realizadas para cada um de nós.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, Srs. Deputados: Gostaria de insistir que só tem sentido abordarmos questões concretas. De outra forma, estamos a fazer intervenções genéricas e explicativas que se pressupõem realizadas para cada um de nós.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, Srs. Deputados: \nClarificado este aspecto, fica em aberto uma outra questão que me merece ser relevante, que é a da consulta obrigatória às regiões autónomas em tratados que lhes digam respeito, e a necessidade de se prever um procedimento adequado para este efeito.\nCreio, pois, que esta questão nos deveria tomar alguns segundos para se aditar uma disposição que exprimisse este princípio.\nSr. Presidente, Srs. Deputados: Está implícito nas minhas palavras um apelo a que se travasse sobre a matéria algum debate que conduzisse à formulação de uma proposta. Pela nossa parte estamos disponíveis para iniciar a redacção da proposta. Em todo o caso, creio que talvez possamos trocar rapidamente impressões sobre essa matéria para se chegar a um texto comum, o que não será difícil.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, Srs. Deputados: \nClarificado este aspecto, fica em aberto uma outra questão que me merece ser relevante, que é a da consulta obrigatória às regiões autónomas em tratados que lhes digam respeito, e a necessidade de se prever um procedimento adequado para este efeito.\nCreio, pois, que esta questão nos deveria tomar alguns segundos para se aditar uma disposição que exprimisse este princípio.\nSr. Presidente, Srs. Deputados: Está implícito nas minhas palavras um apelo a que se travasse sobre a matéria algum debate que conduzisse à formulação de uma proposta. Pela nossa parte estamos disponíveis para iniciar a redacção da proposta. Em todo o caso, creio que talvez possamos trocar rapidamente impressões sobre essa matéria para se chegar a um texto comum, o que não será difícil.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, Srs. Deputados: O Sr. Deputado José Magalhães fez um apelo para que se esclarecesse esta questão e eu faço um apelo para que ele explique melhor qual o seu pensamento. Na verdade, não se deduziu das suas palavras o teor exacto das suas preocupações! \nSeja como for, pedia ao Sr. Deputado José Magalhães que fizesse qualquer proposta nesse sentido.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, Srs. Deputados: O Sr. Deputado José Magalhães fez um apelo para que se esclarecesse esta questão e eu faço um apelo para que ele explique melhor qual o seu pensamento. Na verdade, não se deduziu das suas palavras o teor exacto das suas preocupações! \nSeja como for, pedia ao Sr. Deputado José Magalhães que fizesse qualquer proposta nesse sentido.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, Srs. Deputados: Creio que poderia ser aditado um n.º 3 ao artigo 187.º, referindo que os tratados seriam enviados às regiões autónomas para que elas também tenham a possibilidade de se pronunciar.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, Srs. Deputados: Creio que poderia ser aditado um n.º 3 ao artigo 187.º, referindo que os tratados seriam enviados às regiões autónomas para que elas também tenham a possibilidade de se pronunciar.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
    "text": "Visto os Srs. Deputados do PCP estarem a redigir uma disposição no sentido que pronunciei, dispenso-me de a fazer.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Peço a atenção dos Srs. Deputados para a leitura que o Sr. Deputado José Magalhães vai fazer da proposta que está em curso.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Peço a atenção dos Srs. Deputados para a leitura que o Sr. Deputado José Magalhães vai fazer da proposta que está em curso.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, a proposta que vou ler esta já subscrita por 4 deputados, mas como é óbvio está aberta à assinatura de quaisquer Deputados de outras bancadas.\nQuando o tratado diga respeito às regiões autónomas, nos termos da alínea p) do artigo 229.º da Constituição, o texto será remetido aos respectivos órgãos de governo próprio, a fim de sobre ele se pronunciarem.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, a proposta que vou ler esta já subscrita por 4 deputados, mas como é óbvio está aberta à assinatura de quaisquer Deputados de outras bancadas.\nQuando o tratado diga respeito às regiões autónomas, nos termos da alínea p) do artigo 229.º da Constituição, o texto será remetido aos respectivos órgãos de governo próprio, a fim de sobre ele se pronunciarem.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Se os Srs. Deputados não virem inconveniente, tomar-se-á esta proposta como um aditamento do n.º 3 ao artigo 187.º do Regimento.\nNão havendo mais inscrições, vamos pôr à votação o artigo 187.º, acrescido do aditamento que o Sr. Deputado José Magalhães acabou de ler.\nSubmetida à votação, foi aprovada por unanimidade.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Se os Srs. Deputados não virem inconveniente, tomar-se-á esta proposta como um aditamento do n.º 3 ao artigo 187.º do Regimento.\nNão havendo mais inscrições, vamos pôr à votação o artigo 187.º, acrescido do aditamento que o Sr. Deputado José Magalhães acabou de ler.\nSubmetida à votação, foi aprovada por unanimidade.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos agora passar à apreciação da proposta relativa ao artigo 190.º, cujo texto vai ser lido.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos agora passar à apreciação da proposta relativa ao artigo 190.º, cujo texto vai ser lido.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -892,126 +1026,156 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: A proposta está em discussão. Tem a palavra o Sr.Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "A proposta está em discussão. Tem a palavra o Sr.Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): O artigo 190.º do actual Regimento contém um n. º 2 que diz: «Se o tratado for rejeitado, será a respectiva resolução mandada publicar no Diário da República, pelo Presidente da Assembleia.» \nEsta norma é omitida na versão apresentada pela Sr.ª Deputada Margarida Salema. Provavelmente tal facto deve-se à circunstância de o tratado não vigorar e por isso não ser necessário proceder à sua revogação, ou talvez por lapso, ou talvez ainda por qualquer outra razão.\nDaí que gostaria de ouvir os proponentes darem uma explicação sobre isso.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "O artigo 190.º do actual Regimento contém um n. º 2 que diz: «Se o tratado for rejeitado, será a respectiva resolução mandada publicar no Diário da República, pelo Presidente da Assembleia.» \nEsta norma é omitida na versão apresentada pela Sr.ª Deputada Margarida Salema. Provavelmente tal facto deve-se à circunstância de o tratado não vigorar e por isso não ser necessário proceder à sua revogação, ou talvez por lapso, ou talvez ainda por qualquer outra razão.\nDaí que gostaria de ouvir os proponentes darem uma explicação sobre isso.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, para pedir esclarecimentos, o Sr.Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, para pedir esclarecimentos, o Sr.Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luis Saías* (PS): Que utilidade vê, Sr. Deputado João Amaral, nesta norma do n.º 2 do artigo 190.º do Regimento?", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luis Saías", 
+   "text": "Que utilidade vê, Sr. Deputado João Amaral, nesta norma do n.º 2 do artigo 190.º do Regimento?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, se desejar responder, o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, se desejar responder, o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): O que está em questão, Sr. Deputado Luís Saias, é saber qual é a utilidade de retirar este normativo.\nConcretamente, o acordo existe no sentido de existir o acordo ou de existir o tratado. Ora o sentido desta norma era o de explicitar na ordem jurídica que ele, por deliberação da Assembleia, não produz efeitos.\nOra, qual é a utilidade de se retirar este normativo?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "O que está em questão, Sr. Deputado Luís Saias, é saber qual é a utilidade de retirar este normativo.\nConcretamente, o acordo existe no sentido de existir o acordo ou de existir o tratado. Ora o sentido desta norma era o de explicitar na ordem jurídica que ele, por deliberação da Assembleia, não produz efeitos.\nOra, qual é a utilidade de se retirar este normativo?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Deputado João Amaral, se bem interpreto a proposta da minha colega Margarida Salema, ela procura - e a meu ver bem - fazer uma distinção entre 2 situações: a do n.º 1, que é a de no caso de aprovação o tratado ser enviado ao Presidente da República para ratificação; e o outro caso, que diz respeito à Assembleia da República e que tem efeitos, quer para o caso de aprovação,", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Deputado João Amaral, se bem interpreto a proposta da minha colega Margarida Salema, ela procura - e a meu ver bem - fazer uma distinção entre 2 situações: a do n.º 1, que é a de no caso de aprovação o tratado ser enviado ao Presidente da República para ratificação; e o outro caso, que diz respeito à Assembleia da República e que tem efeitos, quer para o caso de aprovação, 396 I SÉRIE - NÚMERO 12", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "396 I SÉRIE - NÚMERO 12", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
    "text": "quer para o caso de rejeição, que é o de uma coisa ou outra ser publicada no Diário da República, por iniciativa do Presidente da Assembleia.\nJulgo que é esta a interpretação - pelo menos a que eu faço - da formulação introduzida pela minha colega Margarida Salema.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, provavelmente o texto que o Sr. Deputado Silva Marques tem não coincide com o que está publicado no relatório e talvez seja daí que resulta a confusão.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, provavelmente o texto que o Sr. Deputado Silva Marques tem não coincide com o que está publicado no relatório e talvez seja daí que resulta a confusão.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "PSD): Sr. Presidente, o texto que proponho é o seguinte", 
-   "speaker": "O Sr. *Silve Marques*", 
-   "text": "", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silve Marques", 
+   "text": "Sr. Presidente, o texto que proponho é o seguinte:\nARTIGO 190.º \n(Efeitos da votação)", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "ARTIGO 190.º \n(Efeitos da votação)", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Silve Marques", 
    "text": "1 - Se o tratado for aprovado, será enviado ao Presidente da República para ratificação.\n2 - A resolução de aprovação ou rejeição do tratado será mandada publicar no Diário da República, pelo Presidente da Assembleia.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Esse texto é diferente.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Esse texto é diferente.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Não me tinha apercebido que havia diferentes textos.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Não me tinha apercebido que havia diferentes textos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Na realidade, o Sr. Deputado Silva Marques estava a raciocinar sobre um texto diferente daquele que é proposto pela comissão.\nPenso que o Sr. Deputado Silva Marques fará uma proposta de aditamento desse n. º 2, que antecipadamente declaramos aceitar.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Na realidade, o Sr. Deputado Silva Marques estava a raciocinar sobre um texto diferente daquele que é proposto pela comissão.\nPenso que o Sr. Deputado Silva Marques fará uma proposta de aditamento desse n. º 2, que antecipadamente declaramos aceitar.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Vou já escrevê-la, Sr. Presidente, e entregar na Mesa.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Vou já escrevê-la, Sr. Presidente, e entregar na Mesa.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, creio que valeu a pena criar este incidente. Entretanto, solicitava ao Sr. Deputado Silva Marques que promovesse a distribuição da proposta.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, creio que valeu a pena criar este incidente. Entretanto, solicitava ao Sr. Deputado Silva Marques que promovesse a distribuição da proposta.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Entretanto, Srs. Deputados, queiram ter a bondade de me esclarecer. É que presumo que não será necessário fazer a proposta que o Sr. Deputado Silva Marques está a pretender redigir, bastando apenas e tão só que o artigo 190.º tivesse como n.º 1 a proposta apresentada pela Sr.ª Deputada Margarida Salema e se mantivesse o n.º 2 do artigo 190.º do actual Regimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Entretanto, Srs. Deputados, queiram ter a bondade de me esclarecer. É que presumo que não será necessário fazer a proposta que o Sr. Deputado Silva Marques está a pretender redigir, bastando apenas e tão só que o artigo 190.º tivesse como n.º 1 a proposta apresentada pela Sr.ª Deputada Margarida Salema e se mantivesse o n.º 2 do artigo 190.º do actual Regimento.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Os Srs. Silva Marques e Luís Saías: Não, não!", 
-   "type": "documento"
+   "speaker": "Os Srs. Silva Marques e Luís Saías", 
+   "text": "Não, não!", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Então desculpem! \nTem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Então desculpem! \nTem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, há uma pequeníssima diferença entre o n.º 2 do artigo 190.º, na redacção actual, e a proposta da Sr.ª Deputada Margarida Salema. É que ela propende para que a Assembleia aprove um dispositivo regimental no sentido de que seja publicada a resolução de rejeição ou de aprovação, ou seja as duas.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, há uma pequeníssima diferença entre o n.º 2 do artigo 190.º, na redacção actual, e a proposta da Sr.ª Deputada Margarida Salema. É que ela propende para que a Assembleia aprove um dispositivo regimental no sentido de que seja publicada a resolução de rejeição ou de aprovação, ou seja as duas.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Obrigado, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Obrigado, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Sr. Secretário vai ler a proposta apresentada pelo Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -1027,12 +1191,14 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, se tiverem o entendimento necessário quanto à proposta agora apresentada, vamos proceder à votação da proposta de substituição do artigo 190.º, que passa agora a ter 2 números: o n.º 1, que é a proposta apresentada pela Sr.\" Deputada Margarida Salema, e o n.º 2, que é a proposta agora apresentada pelo Sr. Deputado Silva Marques.\nSubmetida à votação, foi aprovada por unanimidade.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, se tiverem o entendimento necessário quanto à proposta agora apresentada, vamos proceder à votação da proposta de substituição do artigo 190.º, que passa agora a ter 2 números: o n.º 1, que é a proposta apresentada pela Sr.\" Deputada Margarida Salema, e o n.º 2, que é a proposta agora apresentada pelo Sr. Deputado Silva Marques.\nSubmetida à votação, foi aprovada por unanimidade.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos passar ao artigo 191.º, em relação ao qual há a proposta da Comissão, subscrita pela Sr.ª Deputada Margarida Salema, e uma proposta de eliminação, subscrita pelos Srs.Deputados Silva Marques, Margarida Salema e Luís Saias, que vão ser lidas.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos passar ao artigo 191.º, em relação ao qual há a proposta da Comissão, subscrita pela Sr.ª Deputada Margarida Salema, e uma proposta de eliminação, subscrita pelos Srs.Deputados Silva Marques, Margarida Salema e Luís Saias, que vão ser lidas.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foram lidas. São as seguintes", 
@@ -1052,52 +1218,64 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Silva Marques, V. Ex.ª é o primeiro subscritor desta proposta. Ora, parece-me que ela não está \nortodoxamente elaborada. Primeiro, porque teríamos que votar o texto e, depois, votar a eliminação, o que me parece absurdo. Esta segunda proposta, em que se pretende a eliminação de determinada parte da proposta apresentada, deveria constituir uma segunda proposta ou então deveria ser uma proposta de substituição, contendo todo o texto e as alterações.\nTem a palavra, Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Silva Marques, V. Ex.ª é o primeiro subscritor desta proposta. Ora, parece-me que ela não está \nortodoxamente elaborada. Primeiro, porque teríamos que votar o texto e, depois, votar a eliminação, o que me parece absurdo. Esta segunda proposta, em que se pretende a eliminação de determinada parte da proposta apresentada, deveria constituir uma segunda proposta ou então deveria ser uma proposta de substituição, contendo todo o texto e as alterações.\nTem a palavra, Sr. Deputado Silva Marques.\n10 DE NOVEMBRO DE 1984 397", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "10 DE NOVEMBRO DE 1984 397", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, V. Ex.ª poderá ter razão, mas foi apresentada uma proposta ...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, V. Ex.ª poderá ter razão, mas foi apresentada uma proposta ...", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Foi apresentada uma proposta de eliminação a um proposta da comissão. Ora, essa eliminação refere-se apenas à expressão «e pode compreender recomendações ao Governo, relativas à sua execução».", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Foi apresentada uma proposta de eliminação a um proposta da comissão. Ora, essa eliminação refere-se apenas à expressão «e pode compreender recomendações ao Governo, relativas à sua execução».", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "O Sr. Presidente, quer fazer o favor de mandar repetir a leitura da proposta da Comissão?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): O Sr. Presidente, quer fazer o favor de mandar repetir a leitura da proposta da Comissão?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Com certeza, Sr. Deputado. Foi lida de novo.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Com certeza, Sr. Deputado. Foi lida de novo.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Não estou a compreender o problema, Sr.Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Não estou a compreender o problema, Sr.Presidente.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente depois de apurado o entendimento acerca da formulação, gostaria de interpelar a Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente depois de apurado o entendimento acerca da formulação, gostaria de interpelar a Mesa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, o que deverá ser entendido é que os proponentes eliminam a parte final dessa proposta. De facto, porque é assim, retiramos a parte final da nossa proposta e, consequentemente, retiramos a proposta de eliminação.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, o que deverá ser entendido é que os proponentes eliminam a parte final dessa proposta. De facto, porque é assim, retiramos a parte final da nossa proposta e, consequentemente, retiramos a proposta de eliminação.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Vai ser lida a redacção definitiva destas 2 propostas, que conjugadas dão apenas uma, para ver se efectivamente a Câmara está de acordo ou se haverá qualquer objecção.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vai ser lida a redacção definitiva destas 2 propostas, que conjugadas dão apenas uma, para ver se efectivamente a Câmara está de acordo ou se haverá qualquer objecção.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -1113,358 +1291,451 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Se não há nenhuma objecção a este texto, está em discussão.\nTem a palavra, para interpelar a Mesa, o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Se não há nenhuma objecção a este texto, está em discussão.\nTem a palavra, para interpelar a Mesa, o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, tanto quanto entendi, agora só há um texto em discussão.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, tanto quanto entendi, agora só há um texto em discussão.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Assim é, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Assim é, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: Então, agradecia que fosse repetido o seu conteúdo.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Então, agradecia que fosse repetido o seu conteúdo.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Com certeza, Sr. Deputado. Vai ser novamente lido o texto que está em discussão depois de feitas as correcções que, há pouco, enunciei.\nFoi lido de novo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Com certeza, Sr. Deputado. Vai ser novamente lido o texto que está em discussão depois de feitas as correcções que, há pouco, enunciei.\nFoi lido de novo.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, trata-se de uma alteração com algum significado e alcance. No mínimo, poder-se-á esperar dos proponentes - já que durante o ano e tal que durou o debate na especialidade das alterações ao Regimento, nunca se lembraram dela - que agora, aqui no Plenário, justifiquem esta proposta. E o mínimo que, neste momento, se poderá pedir aos proponentes.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, trata-se de uma alteração com algum significado e alcance. No mínimo, poder-se-á esperar dos proponentes - já que durante o ano e tal que durou o debate na especialidade das alterações ao Regimento, nunca se lembraram dela - que agora, aqui no Plenário, justifiquem esta proposta. E o mínimo que, neste momento, se poderá pedir aos proponentes.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Por uma questão de respeito pelas intervenções dos colegas das outras bancadas, peço que nos ponham questões concretas, porque não vemos outra utilidade em intervir a não ser nessa base.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Por uma questão de respeito pelas intervenções dos colegas das outras bancadas, peço que nos ponham questões concretas, porque não vemos outra utilidade em intervir a não ser nessa base.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Deputado Silva Marques, vou pôr-lhe uma questão concreta: por que é que elimina a expressão: «pode compreender recomendações ao Governo, relativas à sua execução»?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Deputado Silva Marques, vou pôr-lhe uma questão concreta: por que é que elimina a expressão: «pode compreender recomendações ao Governo, relativas à sua execução»?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Porque não estamos de acordo com essa possibilidade.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Porque não estamos de acordo com essa possibilidade.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Outra questão concreta: Sr. Deputado Silva Marques, por que razão?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Outra questão concreta: Sr. Deputado Silva Marques, por que razão?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Porque penso que será prejudicial.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Porque penso que será prejudicial.\nRisos do PSD.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Risos do PSD.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, em nosso entender, a disposição não é prejudicial. Ela justifica-se plenamente, na medida em que a aplicação dos tratados possa merecer da Assembleia uma deliberação, cujo conteúdo seja o de uma recomendação.\nPodem, eventualmente, no espírito de alguns, suscitar-se algumas dúvidas. Mas, então, que se discutam as dúvidas porque das duas, uma: \nou as razões são de índole jurídico-formal ou jurídico-constitucional ou são razões políticas.\nPara que saibamos qual é o terreno que vamos pisar era bom que, pelo menos, essa distinção fosse feita.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, em nosso entender, a disposição não é prejudicial. Ela justifica-se plenamente, na medida em que a aplicação dos tratados possa merecer da Assembleia uma deliberação, cujo conteúdo seja o de uma recomendação.\nPodem, eventualmente, no espírito de alguns, suscitar-se algumas dúvidas. Mas, então, que se discutam as dúvidas porque das duas, uma: \nou as razões são de índole jurídico-formal ou jurídico-constitucional ou são razões políticas.\nPara que saibamos qual é o terreno que vamos pisar era bom que, pelo menos, essa distinção fosse feita.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.\n398 I SÉRIE - NÚMERO 12", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "São razões políticas, não de politiquice, relativas à concepção do Estado.\nConsideramos que a Assembleia deve aprovar ou rejeitar, mas não deve introduzir dúvidas sobre a sua verdadeira vontade relativamente a um texto que, inclusivamente, ultrapassa as fronteiras da Nação, como é o caso de um tratado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "398 I SÉRIE - NÚMERO 12", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral, para um pedido de esclarecimento.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): São razões políticas, não de politiquice, relativas à concepção do Estado.\nConsideramos que a Assembleia deve aprovar ou rejeitar, mas não deve introduzir dúvidas sobre a sua verdadeira vontade relativamente a um texto que, inclusivamente, ultrapassa as fronteiras da Nação, como é o caso de um tratado.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, a questão que se coloca aqui é a seguinte: no texto de uma qualquer lei nós podemos introduzir aqueles dispositivos que materialmente definem a alteração da ordem jurídica e, simultaneamente e em normas avulsas, fazer recomendações ao governo acerca da sua forma de aplicação. E isso está perfeitamente contido no âmbito de todos esses artigos, que fazem parte da lei.\nO que é que materialmente distingue esta situação, Sr. Deputado?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral, para um pedido de esclarecimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, a questão que se coloca aqui é a seguinte: no texto de uma qualquer lei nós podemos introduzir aqueles dispositivos que materialmente definem a alteração da ordem jurídica e, simultaneamente e em normas avulsas, fazer recomendações ao governo acerca da sua forma de aplicação. E isso está perfeitamente contido no âmbito de todos esses artigos, que fazem parte da lei.\nO que é que materialmente distingue esta situação, Sr. Deputado?", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "O facto de no caso que V. Ex.ª referiu se tratar de leis e, neste caso, de tratados.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Que vigoram na ordem interna!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): O facto de no caso que V. Ex.ª referiu se tratar de leis e, neste caso, de tratados.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Que vigoram na ordem interna!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente: Eu creio que é pena que não tenhamos podido debater esta questão, talvez numa outra sede, com alguns argumentos e informações.\nConfrontados com ela nestas condições, creio que apenas valeria a pena tentarmos qualificar uma coisa: a Assembleia da República já usou este mecanismo. Eu lembro-me - e creio que foi no caso da Convenção Internacional para a Eliminação de Todas as Formas de Discriminação contra a Mulher - de terem sido feitas algumas recomendações sobre esta matéria. Em todo o caso, percebe-se porque é que o mecanismo está cá, ou seja, não é para fazer vincular o Estado português na ordem externa - porque ele vinculado está nos termos do tratado e de acordo com reservas que faça ou não. Outra coisa, é que a Assembleia no mesmo acto aproveite para recomendar ao governo que adopte esta ou aquela medida para que na ordem interna aquele tratado, que se acabou agora mesmo de aprovar para ratificação, possa ter a plenitude dos seus efeitos. É isso que nos devemos discutir!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente: Eu creio que é pena que não tenhamos podido debater esta questão, talvez numa outra sede, com alguns argumentos e informações.\nConfrontados com ela nestas condições, creio que apenas valeria a pena tentarmos qualificar uma coisa: a Assembleia da República já usou este mecanismo. Eu lembro-me - e creio que foi no caso da Convenção Internacional para a Eliminação de Todas as Formas de Discriminação contra a Mulher - de terem sido feitas algumas recomendações sobre esta matéria. Em todo o caso, percebe-se porque é que o mecanismo está cá, ou seja, não é para fazer vincular o Estado português na ordem externa - porque ele vinculado está nos termos do tratado e de acordo com reservas que faça ou não. Outra coisa, é que a Assembleia no mesmo acto aproveite para recomendar ao governo que adopte esta ou aquela medida para que na ordem interna aquele tratado, que se acabou agora mesmo de aprovar para ratificação, possa ter a plenitude dos seus efeitos. É isso que nos devemos discutir!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Se a Assembleia sentir necessidade disso pode-o fazer perfeitamente, sem que essa recomendação seja anexa ao tratado.\nNós pretendemos precisamente evitar essa possibilidade, porque julgamos que pode introduzir, não do ponto de vista jurídico-formal e muito menos na ordem externa, uma dúvida política sobre o tratado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Se a Assembleia sentir necessidade disso pode-o fazer perfeitamente, sem que essa recomendação seja anexa ao tratado.\nNós pretendemos precisamente evitar essa possibilidade, porque julgamos que pode introduzir, não do ponto de vista jurídico-formal e muito menos na ordem externa, uma dúvida política sobre o tratado.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Deputado Silva Marques: Tenho uma certa dificuldade em configurar como é que uma recomendação tendente a garantir uma implementação mais adequada de um tratado, que se acaba de aprovar para ratificação, possa em qualquer circunstância introduzir dúvidas sobre o grau de empenhamento do Estado português na sua aplicação plena na ordem interna. Se acaba de admitir que a \nrecomendação visa precisamente garantir a eficácia do texto, não vemos como possa haver contradição.\nCreio que a sua dúvida não tem fundamento. Há um equívoco!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Deputado Silva Marques: Tenho uma certa dificuldade em configurar como é que uma recomendação tendente a garantir uma implementação mais adequada de um tratado, que se acaba de aprovar para ratificação, possa em qualquer circunstância introduzir dúvidas sobre o grau de empenhamento do Estado português na sua aplicação plena na ordem interna. Se acaba de admitir que a \nrecomendação visa precisamente garantir a eficácia do texto, não vemos como possa haver contradição.\nCreio que a sua dúvida não tem fundamento. Há um equívoco!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Não tem que haver necessariamente contradição, mas pode haver inconveniência e nós queremos evitar essa eventualidade. Tanto mais que, para os efeitos benéficos que V. Ex.ª refere, a Assembleia tem toda a possibilidade de exercer a sua iniciativa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Não tem que haver necessariamente contradição, mas pode haver inconveniência e nós queremos evitar essa eventualidade. Tanto mais que, para os efeitos benéficos que V. Ex.ª refere, a Assembleia tem toda a possibilidade de exercer a sua iniciativa.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, Srs. Deputados: Figure-se esta hipótese: a bancada do PSD entende que não se deve fazer nenhuma recomendação no acto de aprovação de uma convenção internacional sobre a eliminação do apartheid, por exemplo. Simples: vota contra qualquer recomendação nesse sentido. Aquilo que os Srs. Deputados agora estão a colocar é a proibição de a minha bancada, a vossa ou qualquer deputado apresentar uma recomendação nesse sentido. É, verdadeiramente, cortar a mão. Ora, tal não é necessário, pois basta que, no caso concreto, não autorizem que ela se mova. Agora eliminar esta possibilidade é drástico e inútil. Assim, o Sr. Deputado não conseguiu demonstrar que tivesse qualquer razão constitucional!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, Srs. Deputados: Figure-se esta hipótese: a bancada do PSD entende que não se deve fazer nenhuma recomendação no acto de aprovação de uma convenção internacional sobre a eliminação do apartheid, por exemplo. Simples: vota contra qualquer recomendação nesse sentido. Aquilo que os Srs. Deputados agora estão a colocar é a proibição de a minha bancada, a vossa ou qualquer deputado apresentar uma recomendação nesse sentido. É, verdadeiramente, cortar a mão. Ora, tal não é necessário, pois basta que, no caso concreto, não autorizem que ela se mova. Agora eliminar esta possibilidade é drástico e inútil. Assim, o Sr. Deputado não conseguiu demonstrar que tivesse qualquer razão constitucional!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Para terminar esta discussão, direi que há uma diferença de posição! \nEu referi, inicialmente, que se tratava de uma visão acerca da arquitectura - permitam-me a expressão - do Estado. Não é relativamente à possibilidade de, dentro de uma certa figura de Estado, ter lugar um processo de formação de vontade. Por exemplo, se os Srs. Deputados nos propusessem que no artigo dos votos - votos de pesar, votos de congratulação -, fosse incluído um voto de declaração de guerra nós éramos contra, pois seria misturar! \nE a questão é esta: somos contra a mistura, Sr. Deputado, porque estamos no domínio da arquitectura do Estado e dos institutos de formulação da vontade política do Estado português.\n10 DE NOVEMBRO DE 1984", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Para terminar esta discussão, direi que há uma diferença de posição! \nEu referi, inicialmente, que se tratava de uma visão acerca da arquitectura - permitam-me a expressão - do Estado. Não é relativamente à possibilidade de, dentro de uma certa figura de Estado, ter lugar um processo de formação de vontade. Por exemplo, se os Srs. Deputados nos propusessem que no artigo dos votos - votos de pesar, votos de congratulação -, fosse incluído um voto de declaração de guerra nós éramos contra, pois seria misturar! \nE a questão é esta: somos contra a mistura, Sr. Deputado, porque estamos no domínio da arquitectura do Estado e dos institutos de formulação da vontade política do Estado português.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Eu suponho que a questão está relativamente equacionada e que a argumentação do Sr. Deputado Silva Marques não é, de facto, convincente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "10 DE NOVEMBRO DE 1984", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Pois não!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Desde logo, e em primeiro lugar, ele próprio admite que pode ser necessária a aprovação de recomendações relativas à aplicação de certas convenções; em segundo lugar porque, obviamente, o acto da Assembleia se destina precisamente a vigorar na ordem interna e, portanto, tem a eficácia que tem.\nÉ disso que estamos aqui a tratar, neste momento, Sr. Deputado. Não inovamos a questão da necessidade e possibilidade de recomendação, eliminando a possibilidade de isso ser feito na sede própria, durante a discussão do tratado.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Eu suponho que a questão está relativamente equacionada e que a argumentação do Sr. Deputado Silva Marques não é, de facto, convincente.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Pois não!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente: Esgotei a minha argumentação, mas mantenho a minha convicção.\nÉ tudo o que vos posso dizer!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Desde logo, e em primeiro lugar, ele próprio admite que pode ser necessária a aprovação de recomendações relativas à aplicação de certas convenções; em segundo lugar porque, obviamente, o acto da Assembleia se destina precisamente a vigorar na ordem interna e, portanto, tem a eficácia que tem.\nÉ disso que estamos aqui a tratar, neste momento, Sr. Deputado. Não inovamos a questão da necessidade e possibilidade de recomendação, eliminando a possibilidade de isso ser feito na sede própria, durante a discussão do tratado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados não há mais inscrições.\nAssim, vai proceder-se à votação da proposta de substituição do artigo 191.º Submetido à votação, foi aprovado, com votos a favor do PS, do PSD, do CDS e da ASDI e votos contra do PCP, da UEDS e do MDP/CDE.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente: Esgotei a minha argumentação, mas mantenho a minha convicção.\nÉ tudo o que vos posso dizer!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral!", 
+   "text": "Sr. Presidente: Obviamente, não votámos contra o facto de a resolução de aprovação do tratado dever conter o texto do mesmo, mas sim contra aquilo que foi eliminado, ou seja, contra a eliminação daquilo que foi eliminado.\nEntretanto, na sequência do interesse e da possibilidade que os Srs.Deputados demonstraram em aprofundar esta questão, vamos apresentar uma proposta de aditamento.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados não há mais inscrições.\nAssim, vai proceder-se à votação da proposta de substituição do artigo 191.º", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias, para uma declaração de voto.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "Submetido à votação, foi aprovado, com votos a favor do PS, do PSD, do CDS e da ASDI e votos contra do PCP, da UEDS e do MDP/CDE.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, Srs. Deputados: Votámos a favor do texto proposto porque entendemos que não tinha qualquer justificação constitucional introduzir, na resolução de aprovação dos tratados, recomendações ao Governo.\nPensamos que, assim, o texto ficou mais de harmonia com o texto constitucional.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral!* (PCP): Sr. Presidente: Obviamente, não votámos contra o facto de a resolução de aprovação do tratado dever conter o texto do mesmo, mas sim contra aquilo que foi eliminado, ou seja, contra a eliminação daquilo que foi eliminado.\nEntretanto, na sequência do interesse e da possibilidade que os Srs.Deputados demonstraram em aprofundar esta questão, vamos apresentar uma proposta de aditamento.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Era para anunciar que vou entregar na Mesa uma proposta de alteração ao artigo 192.º", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias, para uma declaração de voto.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Entretanto, Sr. Deputado, estamos ainda no artigo 191.º \nSrs. Deputados, façam favor de prestar atenção à leitura da proposta de aditamento ao texto que foi aprovado do artigo 191.º, que o Sr.Deputado José Magalhães fará o favor de ler.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, Srs. Deputados: Votámos a favor do texto proposto porque entendemos que não tinha qualquer justificação constitucional introduzir, na resolução de aprovação dos tratados, recomendações ao Governo.\nPensamos que, assim, o texto ficou mais de harmonia com o texto constitucional.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Silva Marques* (PSD): Era para anunciar que vou entregar na Mesa uma proposta de alteração ao artigo 192.º", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Entretanto, Sr. Deputado, estamos ainda no artigo 191.º \nSrs. Deputados, façam favor de prestar atenção à leitura da proposta de aditamento ao texto que foi aprovado do artigo 191.º, que o Sr.Deputado José Magalhães fará o favor de ler.", 
-   "type": "documento"
-  }, 
-  {
-   "party": "PCP): A proposta é do seguinte teor", 
-   "speaker": "O Sr. José Magalhães", 
-   "text": "", 
-   "type": "documento"
+   "text": "A proposta é do seguinte teor:", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Proposta do aditamento do um n.º 2 ao artigo 161.º", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "2 - Será assegurada a discussão simultânea de propostas de resolução tendentes à aprovação de recomendação ao governo relativas à execução do tratado.", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: A proposta é a que foi lida pelo Sr. Deputado, será fotocopiada e distribuída pelas bancadas.\nTem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "A proposta é a que foi lida pelo Sr. Deputado, será fotocopiada e distribuída pelas bancadas.\nTem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente: Através desta proposta visámos dar resposta às objecções suscitadas, designadamente pela bancada do PSD, em relação à necessidade de não misturar formalmente processos, que o PSD entende deverem estar separados.\nNão os misturar juridicamente, não quer dizer que não seja pertinente a sua discussão; de modo que se assegurava a simultaneidade no processo de debate e a separação no processo de votação e publicação no Diário da República, assim se dando satisfação por inteiro às objecções do Sr.Deputado Silva Marques.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente: Através desta proposta visámos dar resposta às objecções suscitadas, designadamente pela bancada do PSD, em relação à necessidade de não misturar formalmente processos, que o PSD entende deverem estar separados.\nNão os misturar juridicamente, não quer dizer que não seja pertinente a sua discussão; de modo que se assegurava a simultaneidade no processo de debate e a separação no processo de votação e publicação no Diário da República, assim se dando satisfação por inteiro às objecções do Sr.Deputado Silva Marques.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, pelas razões expostas, nós somos contra.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, pelas razões expostas, nós somos contra.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Quais razões?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Quais razões?", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Somos contra as misturas das coisas!", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Somos contra as misturas das coisas!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, Srs. Deputados: O PSD alegou sucintamente que já tinha dito tudo e depois, em off, que era contra as misturas. Ora, na verdade, não sei a que misturas que o Sr.Deputado Silva Marques alude! Se são as misturas em que eu estou a pensar, não existem; se são outras eu não sou obrigado a conhecê-las.\nPrimeiro, pode objectar-se que a Assembleia não pode fazer \nrecomendações - de vez em quando, a ASDI sustenta isso no Plenário; porém, não é isso que o Sr. Deputado sustenta, mas sim uma outra mistura política, que não explanou. É corripletamente inconsistente!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, Srs. Deputados: O PSD alegou sucintamente que já tinha dito tudo e depois, em off, que era contra as misturas. Ora, na verdade, não sei a que misturas que o Sr.Deputado Silva Marques alude! Se são as misturas em que eu estou a pensar, não existem; se são outras eu não sou obrigado a conhecê-las.\nPrimeiro, pode objectar-se que a Assembleia não pode fazer \nrecomendações - de vez em quando, a ASDI sustenta isso no Plenário; porém, não é isso que o Sr. Deputado sustenta, mas sim uma outra mistura política, que não explanou. É corripletamente inconsistente!\n400 I SÉRIE - NÚMERO 12", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "400 I SÉRIE - NÚMERO 12", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente: A proposta ainda não foi distribuída e nós queríamos fazer-lhe uma pequena alteração.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente: A proposta ainda não foi distribuída e nós queríamos fazer-lhe uma pequena alteração.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está a ser distribuída, Sr. Deputado. Eu não poria à votação sem primeiro perguntar se os Srs. Deputados concordariam que se procedesse à votação.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está a ser distribuída, Sr. Deputado. Eu não poria à votação sem primeiro perguntar se os Srs. Deputados concordariam que se procedesse à votação.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Suponho que, apesar de tudo, a discussão em torno desta questão está resumida ao que disse o Sr. Deputado Silva Marques, ou seja, que não tem argumentos. É um pouco curta e pedíamos, designadamente à bancada do Partido Socialista e do CDS, que dissessem alguma coisa sobre a matéria.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Suponho que, apesar de tudo, a discussão em torno desta questão está resumida ao que disse o Sr. Deputado Silva Marques, ou seja, que não tem argumentos. É um pouco curta e pedíamos, designadamente à bancada do Partido Socialista e do CDS, que dissessem alguma coisa sobre a matéria.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, Srs. Deputados: Somos contra a junção dos 2 institutos, mesmo que somente pela via do agendamento - que, no fundo, é a vossa proposta. Não nos repugna à priori que, por acaso e em consequência da programação dos trabalhos, se agende uma coisa após a outra. O que nós excluímos é que se estabeleça por via regimental a junção em termos de agendamento.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, Srs. Deputados: Somos contra a junção dos 2 institutos, mesmo que somente pela via do agendamento - que, no fundo, é a vossa proposta. Não nos repugna à priori que, por acaso e em consequência da programação dos trabalhos, se agende uma coisa após a outra. O que nós excluímos é que se estabeleça por via regimental a junção em termos de agendamento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Não há mais inscrições? Tem a palavra o Sr.Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Não há mais inscrições? Tem a palavra o Sr.Deputado João Amaral.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Dando cabimento, pelo menos parcialmente, às observações feitas, propomos a alteração para «será assegurada a discussão sucessiva».", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Dando cabimento, pelo menos parcialmente, às observações feitas, propomos a alteração para «será assegurada a discussão sucessiva».", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Não vale a pena!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Não vale a pena!", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Em segundo lugar, Sr. Presidente, eu quero dizer que me parece que a função do Regimento é justamente resolver os problemas que se levantam à Assembleia, não o de os eliminar pela via da Comissão. É neste contexto e neste quadro que chamo a atenção dos Srs. Deputados Silva Marques, Luís Saias e Luís Beiroco para a necessidade da introdução desta norma.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Em segundo lugar, Sr. Presidente, eu quero dizer que me parece que a função do Regimento é justamente resolver os problemas que se levantam à Assembleia, não o de os eliminar pela via da Comissão. É neste contexto e neste quadro que chamo a atenção dos Srs. Deputados Silva Marques, Luís Saias e Luís Beiroco para a necessidade da introdução desta norma.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Luís Beiroco", 
+   "text": "Sr. Presidente, peço a palavra para uma intervenção.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Beiroco* (CDS): Sr. Presidente, peço a palavra para uma intervenção.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Luís Beiroco", 
+   "text": "O CDS dá o seu acordo a esta norma proposta pelo PCP.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Beiroco* (CDS): O CDS dá o seu acordo a esta norma proposta pelo PCP.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Devo tomar como assente que a proposta apresentada pelo PCP sofreu uma alteração, no sentido de substituir a palavra «simultânea» por «sucessiva»? É esse o entendimento Srs. Deputados da bancada do PCP?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Devo tomar como assente que a proposta apresentada pelo PCP sofreu uma alteração, no sentido de substituir a palavra «simultânea» por «sucessiva»? É esse o entendimento Srs. Deputados da bancada do PCP?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amara!", 
+   "text": "Exactamente, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amara!* (PCP): Exactamente, Sr. Presidente.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Não há objecções quanto a esta alteração das restantes bancadas?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Não há objecções quanto a esta alteração das restantes bancadas?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vai proceder-se à votação da proposta de aditamento de um n.º 2, proposta pelo PCP, com a alteração que foi anunciada, substituindo a palavra «simultânea» por «sucessiva».", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetida à votação, foi rejeitada, com votos a favor do PCP, do CDS, da UEDS e do MDP/CDE e votos contra do PS, do PSD e da ASDI.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos passar à discussão do artigo 192.º. Há uma proposta da Comissão e uma proposta do Sr. Deputado Silva Marques. Estamos na dúvida se a proposta da Comissão foi ou não retirada. Vão ser lidas, primeiro & proposta da Comissão e depois a proposta do Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos passar à discussão do artigo 192.º. Há uma proposta da Comissão e uma proposta do Sr. Deputado Silva Marques. Estamos na dúvida se a proposta da Comissão foi ou não retirada. Vão ser lidas, primeiro & proposta da Comissão e depois a proposta do Sr. Deputado Silva Marques.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foram lidas. São as seguintes", 
@@ -1488,229 +1759,289 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Estão em discussão estas propostas, Srs. Deputados.\nNão há inscrições, Srs. Deputados?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Estão em discussão estas propostas, Srs. Deputados.\nNão há inscrições, Srs. Deputados?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, a proposta que acaba de ser apresentada não é propriamente uma proposta pequenina. É sim, uma proposta com", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, a proposta que acaba de ser apresentada não é propriamente uma proposta pequenina. É sim, uma proposta com 10 DE NOVEMBRO DE 1984 401", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "10 DE NOVEMBRO DE 1984 401", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "João Amaral", 
    "text": "6 números e com soluções inovatórias em relação ao regime geral do actual artigo 162.º. O mínimo que se terá que fazer é um debate suficientemente esclarecedor dos fundamentos para cada uma dessas alterações. Para isso, precisamos de tempo para ler a proposta.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, a Mesa está aqui precisamente para ouvir - aliás com muito prazer - a discussão que se possa travar sobre o assunto. O que não podemos é estar parados e, portanto, eu pergunto aos Srs. Deputados se não há inscrições.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, a Mesa está aqui precisamente para ouvir - aliás com muito prazer - a discussão que se possa travar sobre o assunto. O que não podemos é estar parados e, portanto, eu pergunto aos Srs. Deputados se não há inscrições.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, poderemos eventualmente ter que estar parados se o conjunto do articulado não for explicado. Se for necessário interromper os trabalhos para fazer a análise da proposta - e isso depende obviamente de quem apresentou a proposta e de uma fundamentação suficiente -, solicitaremos uma interrupção.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, poderemos eventualmente ter que estar parados se o conjunto do articulado não for explicado. Se for necessário interromper os trabalhos para fazer a análise da proposta - e isso depende obviamente de quem apresentou a proposta e de uma fundamentação suficiente -, solicitaremos uma interrupção.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Se o Plenário assim o entender, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Se o Plenário assim o entender, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Peço a palavra para uma intervenção, Sr.Presidente.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Peço a palavra para uma intervenção, Sr.Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça o favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça o favor, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Eu volto a enunciar a metodologia que tenho estado a seguir, a qual, se me permitem, tenho o direito de adoptar.\nSe os Srs. Deputados me colocarem questões concretas, tentarei responder.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Eu volto a enunciar a metodologia que tenho estado a seguir, a qual, se me permitem, tenho o direito de adoptar.\nSe os Srs. Deputados me colocarem questões concretas, tentarei responder.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Não há inscrições Srs. Deputados? \nTem a palavra o Sr. Deputado José Manuel Mendes.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Não há inscrições Srs. Deputados? \nTem a palavra o Sr. Deputado José Manuel Mendes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Manuel Mendes* (PCP): Sr. Deputado Silva Marques, a questão é um pouco mais complexa do que aquilo que quer fazer crer. Este artigo tem uma filosofia informante que, naturalmente, se retira de uma análise cuidada de cada um dos números em que está plasmada. Ora, é exactamente no sentido de que nos dê indicações sobre quais são as razões de fundo que determinam a proposição de cada um destes preceitos que nós o interpelamos, para podermos entrar num debate minimamente estribado e a sério, sobre os problemas.\nSe o Sr. Deputado Silva Marques quer que o questionemos caso a caso, número a número, quase palavra a palavra, nós poderemos fazê-lo. Só que, com isso, os trabalhos do Plenário emperram muito mais e a discussão terá uma dignidade menor.\nPergunto, porém, ao Sr. Deputado Silva Marques por que é que, por exemplo, no n.º 3, há a consagração de que apenas se dá tempo de discussão e disponibilidade para uma intervenção a um membro do Governo e a um Sr. Deputado.\nQue outras cláusulas são essas a que se refere o n.º 5? E, como estas, muitas outras questões colocaria, ad nauseum.\nSuponho que não é este o processo mais correcto de proceder a uma análise amadurecida do que nos ocupa.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "Sr. Deputado Silva Marques, a questão é um pouco mais complexa do que aquilo que quer fazer crer. Este artigo tem uma filosofia informante que, naturalmente, se retira de uma análise cuidada de cada um dos números em que está plasmada. Ora, é exactamente no sentido de que nos dê indicações sobre quais são as razões de fundo que determinam a proposição de cada um destes preceitos que nós o interpelamos, para podermos entrar num debate minimamente estribado e a sério, sobre os problemas.\nSe o Sr. Deputado Silva Marques quer que o questionemos caso a caso, número a número, quase palavra a palavra, nós poderemos fazê-lo. Só que, com isso, os trabalhos do Plenário emperram muito mais e a discussão terá uma dignidade menor.\nPergunto, porém, ao Sr. Deputado Silva Marques por que é que, por exemplo, no n.º 3, há a consagração de que apenas se dá tempo de discussão e disponibilidade para uma intervenção a um membro do Governo e a um Sr. Deputado.\nQue outras cláusulas são essas a que se refere o n.º 5? E, como estas, muitas outras questões colocaria, ad nauseum.\nSuponho que não é este o processo mais correcto de proceder a uma análise amadurecida do que nos ocupa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): O texto da Sr.ª Deputada Margarida Salema era melhor, mais simples!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "O texto da Sr.ª Deputada Margarida Salema era melhor, mais simples!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Deputado Silva Marques vai desculpar que lhe façamos uma interpelação, mas também a Mesa tem esse direito.\nNós temos aqui 2 propostas respeitantes ao artigo 192.º. Uma apresentada pela Comissão e outra apresentada por V. Ex.ª. Não podem ser textos alternativos, porque votado o artigo 192.º, se o fossem ficaria prejudicada a proposta do Sr. Deputado Silva Marques. Na conversa que estou a ter aqui com o Sr. Secretário, entendemos que o artigo 192.º seria uma explicação dos pressupostos lançados na proposta da Comissão. Assim sendo, o artigo 192.º não pode ser uma alternativa à proposta da Comissão, mas sim um artigo novo, por exemplo, artigo 192.º-A.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Silva Marques vai desculpar que lhe façamos uma interpelação, mas também a Mesa tem esse direito.\nNós temos aqui 2 propostas respeitantes ao artigo 192.º. Uma apresentada pela Comissão e outra apresentada por V. Ex.ª. Não podem ser textos alternativos, porque votado o artigo 192.º, se o fossem ficaria prejudicada a proposta do Sr. Deputado Silva Marques. Na conversa que estou a ter aqui com o Sr. Secretário, entendemos que o artigo 192.º seria uma explicação dos pressupostos lançados na proposta da Comissão. Assim sendo, o artigo 192.º não pode ser uma alternativa à proposta da Comissão, mas sim um artigo novo, por exemplo, artigo 192.º-A.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Aceito, Sr. Presidente. Contudo, porque não me sentia no direito de anunciar a retirada da proposta da Comissão - e só por isso o não fiz -, contornava esse problema formal apresentando esta minha proposta como uma proposta de substituição relativamente ao artigo. O facto de uma proposta de substituição ser vencida não quer dizer que a outra o seja.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Aceito, Sr. Presidente. Contudo, porque não me sentia no direito de anunciar a retirada da proposta da Comissão - e só por isso o não fiz -, contornava esse problema formal apresentando esta minha proposta como uma proposta de substituição relativamente ao artigo. O facto de uma proposta de substituição ser vencida não quer dizer que a outra o seja.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, não é possível esse entendimento e eu vou referir porquê.\nA proposta da Comissão já é uma proposta de substituição e se ela tiver vencimento, a de V. Ex.ª não pode ser posta à votação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, não é possível esse entendimento e eu vou referir porquê.\nA proposta da Comissão já é uma proposta de substituição e se ela tiver vencimento, a de V. Ex.ª não pode ser posta à votação.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, eu estou neste momento largamente esperançado em que a proposta da Comissão seja vencida. E essa a minha esperança.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, eu estou neste momento largamente esperançado em que a proposta da Comissão seja vencida. E essa a minha esperança.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: É um pressuposto de que a Mesa não tem \nconhecimento, nem sequer pode adivinhar, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "É um pressuposto de que a Mesa não tem conhecimento, nem sequer pode adivinhar, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): No entanto, Sr. Presidente, se não houver objecção - como já disse, porque eu não me sentia com legitimidade para retirar a proposta da Comissão -, pretendo que o texto que acabei de apresentar seja considerado como substitutivo da proposta de substituição da Comissão.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "No entanto, Sr. Presidente, se não houver objecção - como já disse, porque eu não me sentia com legitimidade para retirar a proposta da Comissão -, pretendo que o texto que acabei de apresentar seja considerado como substitutivo da proposta de substituição da Comissão.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Entretanto, tenho que perguntar se há qualquer objecção a esse entendimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Entretanto, tenho que perguntar se há qualquer objecção a esse entendimento.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, peço a palavra.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, eu gostava de ser esclarecido exactamente sobre o que se está a passar, nos seguintes aspectos.\nExiste uma proposta da Comissão, que só ela pode retirar. Essa proposta tem um texto alternativo apresentado pelo Sr. Deputado Silva Marques.\nTanto", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, eu gostava de ser esclarecido exactamente sobre o que se está a passar, nos seguintes aspectos.\nExiste uma proposta da Comissão, que só ela pode retirar. Essa proposta tem um texto alternativo apresentado pelo Sr. Deputado Silva Marques.\nTanto 402 I SÉRIE - NÚMERO 12", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "402 I SÉRIE - NÚMERO 12", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "João Amaral", 
    "text": "é alternativo que, quando na proposta da Comissão se circunscreve o objecto, ele é a declaração de inconstitucionalidade de normas incluídas em tratados e quando de descreve o processo, remete-se para os artigos 162.º e 163.º, que se referem à segunda deliberação.\nA proposta do Sr. Deputado Silva Marques, no seu n.º 1, descreve o objecto como a inconstitucionalidade de norma constante do tratado e nos números seguintes refere o processo segundo a deliberação.\nCom o mesmo objectivo e versando sobre processo semelhante, não há uma proposta para ser votada primeiro e depois se abrir o debate sobre a segunda. O que há são 2 propostas com o mesmo objecto, que devem ser postas simultaneamente a debate, competindo ao Sr. Deputado Silva Marques fazer aquilo que se tem recusado a fazer, ou seja, explicar porque é que propõe este regime estranho, pouco fundamentado e pouco claro.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Por informação que me dá o Sr. Secretário, a proposta que eu tenho referido como sendo da Comissão não o é, mas sim da Sr.ª Deputada Margarida Salema. Seja como for, se a Sr.ª Deputada não retirar a proposta, ela continua a ser uma proposta de \nsubstituição, que foi recebida em primeiro lugar, sendo a do Sr.Deputado Silva Marques a recebida em segundo lugar.\nTem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Por informação que me dá o Sr. Secretário, a proposta que eu tenho referido como sendo da Comissão não o é, mas sim da Sr.ª Deputada Margarida Salema. Seja como for, se a Sr.ª Deputada não retirar a proposta, ela continua a ser uma proposta de \nsubstituição, que foi recebida em primeiro lugar, sendo a do Sr.Deputado Silva Marques a recebida em segundo lugar.\nTem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, anuncio a retirada da proposta da Sr.ª Deputada Margarida Salema.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, anuncio a retirada da proposta da Sr.ª Deputada Margarida Salema.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, peço a palavra.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, é questionável que esta proposta, que está introduzida no relatório e assumida pelo Sr.Deputado Luís Saias em nome da Comissão como proposta desta, possa ser retirada. Porém, não vou fazer V. Ex.ª perder tempo com isso e digo, pura e simplesmente, que retomo eu a proposta da Sr.ª Deputada Margarida Salema.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, é questionável que esta proposta, que está introduzida no relatório e assumida pelo Sr.Deputado Luís Saias em nome da Comissão como proposta desta, possa ser retirada. Porém, não vou fazer V. Ex.ª perder tempo com isso e digo, pura e simplesmente, que retomo eu a proposta da Sr.ª Deputada Margarida Salema.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, em conformidade com o verificado, isto é, pela retoma, por parte do PCP, da proposta da Sr.ª Deputada Margarida Salema - que constitui agora como que uma nova proposta -, será esta submetida à votação após o ter sido em primeiro lugar a proposta do Sr. Deputado Silva Marques.\nUma vez definida a metodologia, estas 2 propostas continuam em discussão.\nPara uma interpelação à Mesa, tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, em conformidade com o verificado, isto é, pela retoma, por parte do PCP, da proposta da Sr.ª Deputada Margarida Salema - que constitui agora como que uma nova proposta -, será esta submetida à votação após o ter sido em primeiro lugar a proposta do Sr. Deputado Silva Marques.\nUma vez definida a metodologia, estas 2 propostas continuam em discussão.\nPara uma interpelação à Mesa, tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, Srs. Deputados: Bem gostaria que a proposta apresentada pelo Sr. Deputado Silva Marques o tivesse sido em termos de fundamentação de razões. É para mim totalmente inexplicável a redacção do seu n. º 5, cuja clarificação entendemos ser de grande importância institucional, que assenta num grande equívoco ou numa qualquer filosofia que não foi aqui exposta, pelo que se não compadece com o silêncio. Era bom que ficasse clarificado se vai haver real debate ou se vai haver expressão de convicções, para que o nosso grupo parlamentar tome as medidas necessárias a fim de intervir adequadamente.\nNesse sentido, apelo a V. Ex.ª para que use das suas competências por forma a que tomemos providências para garantir um debate, pois caso contrário somos obrigados, nós próprios também, a encarar as formas que temos para garantir este desiderato.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, Srs. Deputados: Bem gostaria que a proposta apresentada pelo Sr. Deputado Silva Marques o tivesse sido em termos de fundamentação de razões. É para mim totalmente inexplicável a redacção do seu n. º 5, cuja clarificação entendemos ser de grande importância institucional, que assenta num grande equívoco ou numa qualquer filosofia que não foi aqui exposta, pelo que se não compadece com o silêncio. Era bom que ficasse clarificado se vai haver real debate ou se vai haver expressão de convicções, para que o nosso grupo parlamentar tome as medidas necessárias a fim de intervir adequadamente.\nNesse sentido, apelo a V. Ex.ª para que use das suas competências por forma a que tomemos providências para garantir um debate, pois caso contrário somos obrigados, nós próprios também, a encarar as formas que temos para garantir este desiderato.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, como certamente tem verificado, a Mesa tem dado à discussão a maior largueza possível, por entender estar em causa um diploma fundamental que determina todo o futuro de manifestação legislativa - e não só - desta Câmara. Por essa mesma importância, tantas vezes temos fugido até do rigor regimental para dar uma maior abertura no sentido de todos os Srs. Deputados se \nmanifestarem e assim dar a transparência e clareza necessárias a cada uma das disposições.\nTem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, como certamente tem verificado, a Mesa tem dado à discussão a maior largueza possível, por entender estar em causa um diploma fundamental que determina todo o futuro de manifestação legislativa - e não só - desta Câmara. Por essa mesma importância, tantas vezes temos fugido até do rigor regimental para dar uma maior abertura no sentido de todos os Srs. Deputados se \nmanifestarem e assim dar a transparência e clareza necessárias a cada uma das disposições.\nTem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, Srs. Deputados: Que não se diga ao Sr. Presidente que obrigue a falar os Srs. Deputados.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, Srs. Deputados: Que não se diga ao Sr. Presidente que obrigue a falar os Srs. Deputados.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Não que obrigue, mas que exorte!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Não que obrigue, mas que exorte!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Com certeza, Sr. Deputado José Magalhães. Para já, peço-lhe desculpa, Sr. Deputado, mas a minha bancada já não tem muito tempo ...", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Com certeza, Sr. Deputado José Magalhães. Para já, peço-lhe desculpa, Sr. Deputado, mas a minha bancada já não tem muito tempo ...", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): A minha bancada ceder-lhe-á algum tempo.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "A minha bancada ceder-lhe-á algum tempo.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Conceder-me-á algum tempo, Sr. Deputado, mas a sua bancada também já não dispõe de muito. De qualquer modo, digo-lhe para me colocar questões concretas. Diz o Sr. Deputado que a proposta que apresentei enferma de grandes equívocos. Justifique-o e tentarei responder-lhe, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Conceder-me-á algum tempo, Sr. Deputado, mas a sua bancada também já não dispõe de muito. De qualquer modo, digo-lhe para me colocar questões concretas. Diz o Sr. Deputado que a proposta que apresentei enferma de grandes equívocos. Justifique-o e tentarei responder-lhe, Sr. Deputado.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, já colocámos algumas questões concretas. Poderei tentar aditar mais uma, para ver se alguma delas suscita qualquer cintilação no espírito do Sr. Deputado Silva Marques.\nDiz-se no n.º 5 da proposta que «não há discussão nem votação sobre quaisquer outras cláusulas constantes da resolução da Assembleia».\nSucede que se está aqui a ver a questão da inconstitucionalidade de normas constantes do próprio tratado. Como o Sr. Deputado se apercebe, há uma diferença entre o tratado e a resolução. Subitamente, aparece-nos aquela disposição que se refere às «outras cláusulas constantes da resolução», a qual não está em causa. E, já agora, que cláusulas é que estão aqui em causa?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, já colocámos algumas questões concretas. Poderei tentar aditar mais uma, para ver se alguma delas suscita qualquer cintilação no espírito do Sr. Deputado Silva Marques.\nDiz-se no n.º 5 da proposta que «não há discussão nem votação sobre quaisquer outras cláusulas constantes da resolução da Assembleia».\nSucede que se está aqui a ver a questão da inconstitucionalidade de normas constantes do próprio tratado. Como o Sr. Deputado se apercebe, há uma diferença entre o tratado e a resolução. Subitamente, aparece-nos aquela disposição que se refere às «outras cláusulas constantes da resolução», a qual não está em causa. E, já agora, que cláusulas é que estão aqui em causa?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Silva Marques.\n10 DE NOVEMBRO DE 1984 403", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "10 DE NOVEMBRO DE 1984 403", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Tem razão, Sr. Deputado José Magalhães.\nTrata-se de um erro de redacção, a qual deverá passar a ser: «Não há discussão nem votação sobre quaisquer outras cláusulas constantes do tratado sobre o qual recaiu a resolução da Assembleia.»", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Tem razão, Sr. Deputado José Magalhães.\nTrata-se de um erro de redacção, a qual deverá passar a ser: «Não há discussão nem votação sobre quaisquer outras cláusulas constantes do tratado sobre o qual recaiu a resolução da Assembleia.»", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, sem querermos interromper os trabalhos, pedimos que nos sejam concedidos alguns minutos para pensarmos e redigirmos a redacção definitiva que se propõe para os n.ºs 3 e 5 desta proposta.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, sem querermos interromper os trabalhos, pedimos que nos sejam concedidos alguns minutos para pensarmos e redigirmos a redacção definitiva que se propõe para os n.ºs 3 e 5 desta proposta.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Presidente, creio que esta matéria merece reflexão. O que creio também, pelo raciocínio dos Srs. Deputados que intervieram no debate, é que não é possível chegar-se a uma situação pensada nalguns minutos apenas. Assim, penso ser preferível remeter esta questão para a próxima reunião plenária, pelo que requeremos a interrupção dos trabalhos pelo período regimental. Pela nossa parte, precisamos pensar na questão com a serenidade necessária, o que é não possível agora dado o adiantado da hora.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Presidente, creio que esta matéria merece reflexão. O que creio também, pelo raciocínio dos Srs. Deputados que intervieram no debate, é que não é possível chegar-se a uma situação pensada nalguns minutos apenas. Assim, penso ser preferível remeter esta questão para a próxima reunião plenária, pelo que requeremos a interrupção dos trabalhos pelo período regimental. Pela nossa parte, precisamos pensar na questão com a serenidade necessária, o que é não possível agora dado o adiantado da hora.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai anunciar de seguida um diploma entrado na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, o Sr. Secretário vai anunciar de seguida um diploma entrado na Mesa.", 
-   "type": "documento"
+   "party": "Leonel Fadigas", 
+   "speaker": "Secretário", 
+   "text": "Deu entrada na Mesa e foi admitido o Projecto-Lei n.º 395/III, da iniciativa do Sr. Deputado Luís Martins e outro do PSD, relativo à «criação de Região Demarcada dos Vinhos de Lamego», o qual baixou à 6.ª Comissão.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Secretário* (Leonel Fadigas): Deu entrada na Mesa e foi admitido o Projecto-Lei n.º 395/III, da iniciativa do Sr. Deputado Luís Martins e outro do PSD, relativo à «criação de Região Demarcada dos Vinhos de Lamego», o qual baixou à 6.ª Comissão.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Srs. Deputados, a próxima reunião plenária terá lugar no dia 13, terça-feira, pelas 15 horas, e a ordem de trabalhos será: «Continuação das alterações ao Regimento.»", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Srs. Deputados, está encerrada a sessão. Eram 12 horas e 35 minutos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a próxima reunião plenária terá lugar no dia 13, terça-feira, pelas 15 horas, e a ordem de trabalhos será: «Continuação das alterações ao Regimento.» Srs. Deputados, está encerrada a sessão. Eram 12 horas e 35 minutos.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -1826,20 +2157,17 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "UEDS", 
-   "speaker": "Agrupamento Parlamentar da União da Esquerda para a Democracia Socialista", 
-   "text": "Os REDACTORES: Ana Maria Marques da Cruz - Carlos Pinto da Cruz.", 
+   "speaker": "Os REDACTORES", 
+   "text": "Ana Maria Marques da Cruz - Carlos Pinto da Cruz.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "UEDS", 
-   "speaker": "Agrupamento Parlamentar da União da Esquerda para a Democracia Socialista", 
+   "speaker": "Os REDACTORES", 
    "text": "PREÇO DESTE NÚMERO 50$00", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "UEDS", 
-   "speaker": "Agrupamento Parlamentar da União da Esquerda para a Democracia Socialista", 
+   "speaker": "Os REDACTORES", 
    "text": "IMPRENSA NACIONAL-CASA DA MOEDA", 
    "type": "deputado_continuacao"
   }

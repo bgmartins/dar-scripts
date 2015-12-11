@@ -41,8 +41,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados temos quórum pelo que declaro aberta a reunião.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados temos quórum pelo que declaro aberta a reunião.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 16 horas e 10 minutos.", 
@@ -51,35 +52,42 @@
   {
    "speaker": "Estavam presentes os seguintes Srs Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs Deputados", 
    "text": "Presidente", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs Deputados", 
    "text": "Vítor Pereira Crespo (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs Deputados", 
    "text": "Vice Presidente", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs Deputados", 
    "text": "José Manuel Maia Nunes de Almeida (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs Deputados", 
    "text": "Secretários", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs Deputados", 
    "text": "Reinaldo Alberto Ramos Gomes (PSD) \nJoão Domingos F de Abreu Salgado (PSD) \nCarlos Manuel de Sousa Encarnação (PSD) \nJosé Luis de Carvalho Lalanda Ribeiro (PSD) \nJoão Soares Pinto Montenegro (PSD) \nFernando José Correia Afonso (PSD) \nJoaquim Mana Fernandes Marques (PSD) \nJosé Leite Machado (PSD) \nFernando Gomes Pereira (PSD) \nJosé Augusto da Silva Marques (PSD) \nJosé Luis Campos Vieira de Castro (PSD) \nArlindo da Silva André Moreira (PSD) \nMiguel Bento da Costa de Macedo e Silva (PSD) \nEvaristo Guerra de Oliveira (PSD) \nAntónio Manuel de Oliveira Guterres (PS) \nArmando António Martins Vara (PS) \nJosé Sócrates Carvalho Pinto de Sousa (PS) \nJerónimo de Sousa (PCP) \nHerminio Pai a Fernandes Martinho (PRD) \nNarana Sinai Coissoró (CDS) \nHerculano da Silva P. Sequeira (PEV)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados da nossa ordem de trabalhos de hoje consta apenas a apreciação de dois relatórios sendo um da Comissão de Negócios Estrangeiros Comunidades Portuguesas e Cooperaçâo e outro da Comissão de Regimento e Mandatos.\nO Sr. Secretário vai passar à leitura do primeiro relatório.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados da nossa ordem de trabalhos de hoje consta apenas a apreciação de dois relatórios sendo um da Comissão de Negócios Estrangeiros Comunidades Portuguesas e Cooperaçâo e outro da Comissão de Regimento e Mandatos.\nO Sr. Secretário vai passar à leitura do primeiro relatório.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -95,7 +103,8 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr Presidente: Srs. Deputados está em apreciação.", 
+   "speaker": "O Sr Presidente", 
+   "text": "Srs. Deputados está em apreciação.", 
    "type": "documento"
   }, 
   {
@@ -103,6 +112,7 @@
    "type": "pausa"
   }, 
   {
+   "speaker": "O Sr Presidente", 
    "text": "Vamos votar.", 
    "type": "documento"
   }, 
@@ -111,6 +121,7 @@
    "type": "voto"
   }, 
   {
+   "speaker": "O Sr Presidente", 
    "text": "Srs Deputados vai ser lido o relatório e parecer da Comissão de Regimento e Mandatos", 
    "type": "documento"
   }, 
@@ -144,88 +155,107 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em apreciação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em apreciação.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Vamos votar.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, está esgotada a nossa ordem de trabalhos de hoje.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): Sr. Presidente, gostaria que V. Ex.ª transmitisse ao Sr. Presidente da República o reconhecimento do meu grupo parlamentar, bem como o de toda a Assembleia, pelo empenho que pôs no acompanhamento do estado de saúde dos nossos colegas deputados João Soares, Rui Gomes da Silva e Nogueira de Brito, que foram vítimas do acidente de aviação na Jamba e se encontram hospitalizados na África do Sul.\nGostaria, pois, que ficasse exarado em acta este agradecimento.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, gostaria que V. Ex.ª transmitisse ao Sr. Presidente da República o reconhecimento do meu grupo parlamentar, bem como o de toda a Assembleia, pelo empenho que pôs no acompanhamento do estado de saúde dos nossos colegas deputados João Soares, Rui Gomes da Silva e Nogueira de Brito, que foram vítimas do acidente de aviação na Jamba e se encontram hospitalizados na África do Sul.\nGostaria, pois, que ficasse exarado em acta este agradecimento.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, é também essa a expressão da Mesa e a de todos os deputados. Eu próprio transmitirei ao Sr. Presidente da República as suas palavras, porventura numa reunião mais alargada, com a presença de Srs. Deputados.\nEstá encerrada a reunião.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, é também essa a expressão da Mesa e a de todos os deputados. Eu próprio transmitirei ao Sr. Presidente da República as suas palavras, porventura numa reunião mais alargada, com a presença de Srs. Deputados.\nEstá encerrada a reunião.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 16 horas e 15 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "A REDACTORA, Cacilda Nordeste.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "DIÁRIO", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Da Assembleia da República", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Depósito legal n.º 8818/85", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "IMPRENSA NACIONAL-CASA DA MOEDA E. P.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "AVISO", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Por ordem superior e para constar comunica-se que não serão aceites quaisquer originais destinados ao Diário da Republica desde que não tragam aposta a competente ordem de publicação assinada e autenticada com selo branco.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "PORTE PAGO", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "l - Preço de página 93$. Preço de página para venda avulso, 4%50 .", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "2 - Para os novos assinantes do Diário da Assembleia da República, o período da assinatura será compreendido de Janeiro a Dezembro de cada ano. Os números publicados em Outubro, Novembro e Dezembro do ano anterior que completam a legislatura serão adquiridos ao preço de capa.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "3 - O texto final impresso deste Diário é da responsabilidade da Assembleia da República.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "PREÇO DESTE NÚMERO 18$00", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Toda a correspondência, quer oficial, quer relativa a anúncios a assinaturas do «Diário da República» e do «Diário da Assembleia da República» deve ser dirigida à administração da Imprensa Nacional-Casa da Moeda, E. P., Rua de D. Francisco Manuel de Melo, 5 - 1092 Lisboa Codex.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

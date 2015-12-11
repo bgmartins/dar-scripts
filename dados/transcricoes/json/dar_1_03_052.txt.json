@@ -25,852 +25,1021 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai proceder-se à chamada.\n_Eram 16 horas e 10 minutos_.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Vai proceder-se à chamada.\n_Eram 16 horas e 10 minutos_.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Adelino Teixeira de Carvalho.\nAgostinho Martins ido Vale.\nAlbano Pereira da Cunha Pina.\nAlberto Arons Braga de Carvalho.\nAlberto Augusto M. da Silva Andrade.\nAlberto Marques Antunes.\nAlfredo Fernando de Carvalho.\nAlfredo Pinto da Silva.\nAmadeu da Silva Cruz.\nAntónio Alberto Monteiro de Aguiar.\nAntónio Barros dos Santos.\nAntónio Carlos Ribeiro Campos.\nAntónio Chaves Medeiros.\nAntónio Duarte Arnaut.\nAntónio Francisco Barroso Sousa Gomes.\nAntónio Jorge Moreira Portugal.\nAntónio José Pinheiro da Silva.\nAntónio José Sanches Esteves.\nAntónio Magalhães da Silva.\nAntónio Manuel de Oliveira Guterres.\nAquilino Ribeiro Machado.\nArmando F. C. Pereira Bacelar.\nArmando dos Santos Lopes.\nAvelino Ferreira Loureiro Zenha.\nBeatriz Almeida Cal Brandão.\nBento Elísio de Azevedo.\nCarlos Alberto Andrade Neves.\nCarlos Cardoso Lage.\nCarlos Justino Luís Cordeiro.\nCarlos Manuel da Costa Moreira.\nCarlos Manuel Natividade da C. Candal.\nDelmiro Manuel de Sousa Carreira.\nDieter Dellinger.\nEdmundo Pedro.\nEduardo Ribeiro Pereira.\nEtelvina Lopes de Almeida.\nEurico Manuel das Neves H. Mendes.\nFernando Reis Luís.\nFernando Tavares Loureiro.\nFlorival da Silva Nobre.\nFrancisco de Almeida Salgado Zenha.\nFrancisco António Marcos Barracosa.\nFrancisco de Assis de M. Lino Neto.\nFrancisco Cardoso Pereira de Oliveira.\nFrancisco Igrejas Caeiro.\nFrancisco Manuel Marcelo Curto.\nGualter Viriato Nunes Basílio.\nHenrique do Carmo Carmine.\nHerculano Rodrigues Pires.\nJaime José Matos da Gama.\nJerónimo da Silva Pereira.\nJoão Alfredo Félix Vieira Lima.\nJoão Francisco Ludovico da Costa.\nJoaquim José Catanho de Menezes.\nJorge Augusto Barroso Coutinho.\nJosé Cândido Rodrigues Pimenta.\nJosé dos Santos Francisco Vidal.\nJosé Ferreira Dionísio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "1838 I SÉRIE - NÚMERO 52", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "José Macedo Fragateiro.\nJosé Manuel Niza Antunes Mendes \nJosé Maria Parente Mendes Godinho.\nJosé M. de Albuquerque de A. Leitão.\nJúlio Francisco Miranda Calha.\nLudovina dias Dores Rosado.\nLuís Abílio da Conceição Cacito.\nLuís Alfredo Cardoso Monteiro.\nLuís Filipe Nascimento Madeira.\nLuís José Godinho Cid.\nManuel Alegre de Melo Duarte.\nManuel Alfredo Tito de Morais.\nManuel Branco Peneira Lima.\nManuel do Carmo Mendes.\nManuel Joaquim Paiva Pereira Pires.\nManuel Lencastre M. de Sousa Figueiredo.\nManuel Pereira Dias.\nMaria Emília de Melo Moreira da Silva.\nMaria de Jesus Simões Barroso Soares.\nMaria Teresa Vieira Bastos R. Ambrósio.\nMário Alberto Nobre Lopes Soares.\nMário Augusto Sottomayor Leal Cardia.\nPedro Amadeu de A. dos Santos Coelho.\nRaúl D'Assunção Pimenta Rêgo.\nRodolfo Alexandrino Suzano Crespo \nSérgio Augusto Nunes Simões.\nTelmo Ferreira Neto.\nTeófilo Carvalho dos Santos.\nVictor Fernandes de Almeida.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Afonso de Sousa Freire de Moura Guedes.\nÁlvaro Barros Marques de Figueiredo.\nAmândio Anes de Azevedo.\nAmélia Cavaleiro M. de A. de Azevedo.\nAnatólio Manuel dos Santos Vasconcelos.\nAntónio Augusto Lacerda de Queiroz.\nAntónio Coutinho Monteiro de Freitas.\nAntónio José dos Santos M. da Silva.\nAntónio Júlio Simões de Aguiar.\nArmando António Correia.\nArnaldo Ângelo Brito Lhamas.\nAugusto Nunes de Sousa.\nCarlos Alberto Coelho de Sousa.\nCasimiro Gomes Pereira.\nCristóvão Guerreiro Norte.\nEduardo José Vieira.\nFernando José da Costa.\nFernando José Sequeira Roriz.\nFrancisco M. L. de Sá Carneiro.\nJoão Gabriel Soeiro de Carvalho.\nJoão Vasco da Luz Botelho Paiva.\nJosé Adriano Gago Vitorino.\nJosé Ângelo Ferreira Correia.\nJosé Bento Gonçalves.\nJosé Manuel M. Sampaio Pimentel.\nJosé Theodoro de Jesus da Silva.\nLuís Fernando C. Nandim de Carvalho.\nManuel Henriques Pires Fontoura.\nManuel Sérgio Vila Lobos Menezes.\nMaria Élia Brito Câmara.\nMário Júlio Montalvão Machado.\nNicolau Gregório de Freitas.\nNuno Aires Rodrigues dos Santos.\nRui Manuel Parente de C Machete", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Adelino- Manuel Lopes Amaro da Costa.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "driano Vasco da Fonseca Rodrigues.\nAlexandre Correia Carvalho Reigoto.\nÁlvaro Dias de Sousa Ribeiro.\nÁlvaro Manuel Brandão Estêvão.\nÂngelo Alberto Ribas da Silva Vieira.\nAntónio Jacinto Martins Canaverde.\nCarlos Alberto Faria de Almeida.\nCarlos Martins Robalo.\nDiogo Pinto de Freitas do Amaral.\nEmídio Ferrão da Costa Pinheiro.\nEugénio Maria N. Anacoreta Correia.\nFrancisco António Lucas Pires.\nFrancisco Manuel L. V. Oliveira Dias.\nHenrique José C. M. P. de Moraes \nJoão Carlos F. Malho da Fonseca.\nJoão Gomes de Abreu de Uma.\nJoão José M. F. Pulido de Almeida.\nJoão Lopes Porto.\nJoão da Silva Mendes Morgado.\nJoaquim A. da F. P. de Castelo Branco.\nJosé Cunha Simões.\nJosé Duarte de A Ribeiro e Castro.\nJosé Luís R. de Albuquerque Christo.\nJosé Manuel Macedo Pereira.\nJosé Vicente de Jesus Carvalho Cardoso.\nLuís Aníbal de Sá de Azevedo Coutinho.\nLuís Esteves Ramires.\nMaria José Paulo Sampaio.\nNarana Sinai Coissoró.\nNuno Cruz Abecasis.\nRui Eduardo Ferreira Rodrigues Pena.\nRui Fausto Fernandes Marrana.\nRui Mendes Tavares.\nVictor Afonso Pinto da Cruz.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nAntónio Joaquim Navalha Garcia.\nAntónio Marques Zuzarte.\nAntónio Marques Pedrosa.\nCândido Matos Gago.\nCarlos Alberto do Vale G. Carvalhas.\nCarlos Alfredo de Brito.\nCustódio Jacinto Gingão.\nDiamantino José Dias.\nDomingos Abrantes Ferreira.\nEduardo Sá Matos.\nErcília Carreira Pimenta Talhadas.\nFernanda Peleja Patrício.\nFrancisco Miguel Duarte.\nFernando de Almeida Sousa Marques \nGeorgete de Oliveira Ferreira.\nHermenegilda Rosa C Pacheco Pereira.\nJaime dos Santos Serra.\nJerónimo Carvalho de Sousa \nJoaquim da Silva Rocha Felgueiras.\nJoaquim Gomes dos Santos.\nJorge do Carmo da Silva Leite.\nJorge Manuel Abreu de Lemos \nJosé Cavalheira Antunes.\nJosé Manuel da Costa Carreira Marques.\nJosé Manuel Maia Numes de Almeida.\nJosé Rodrigues Vitoriano", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "26 DE ABRIL DE 1979 1839", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Lino Carvalho de Uma.\nManuel Duarte Gomes.\nManuel Mendes Nobre de Gusmão.\nManuel do Rosado Moita.\nMaria Alda Barbosa Nogueira.\nNicolau de Assunção M. Dias Ferreira.\nOctávio Floriano Rodrigues 'Pato.\nSeveriano Pedro Falcão.\nVital Martins Moreira.\nVictor Henrique Louro de Sá.\nZita Maria de Seabra Roseiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "União Democrática Popular (UDP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Acácio Manuel de Frias Barreiros.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Independentes", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada à qual responderam os seguintes Srs. Deputados", 
    "text": "Amantino Marques Pereira de Lemos.\nAmérico de Sequeira.\nAntídio das Neves Costa.\nAntónio Augusto Gonçalves.\nAntónio Egídio Fernandes Loja.\nAntónio Joaquim Bastos Marques Mendes.\nAntónio Joaquim Veríssimo.\nAntónio Jorge Duarte Retido de Sousa.\nAntónio Manuel Barata 'Portugal.\nArcanjo Numes Luís.\nCarlos Galvão de Melo.\nFernando Adriano Pinto.\nFrancisco Barbosa da Costa.\nFrancisco Braga Barroso.\nFrancisco da Costa Lopes Oliveira.\nGabriel Ribeiro da Frada.\nJoão António Martelo de Oliveira.\nJoão Lucílio Caceia Leitão.\nJoão Manuel Ferreira.\nJoaquim Jorge de Magalhães S. da Mota.\nJosé Alberto Ribeiro.\nJosé António Nunes Furtado Fernandes.\nJosé Gonçalves Sapinho.\nJosé Ferreira Júnior.\nJosé Joaquim Lima Monteiro Andrade.\nJosé Júlio Carvalho Ribeiro.\nJosé Manuel Ribeiro Sérvulo Correia.\nJúlio Maria Alves da Silva.\nManuel Cardoso Vilhena de Carvalho.\nManuel Cunha Rodrigues.\nManuel Valentim Pereira Vilar.\nMário Fernando de Campos Pinto \nOlívio da Silva França.\nRúben José de Almeida Martins Raposo \nVasco dia Gama Lopes Fernandes.\nVictor Hugo Mendes dos Santos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Responderam à chamada os Srs. Deputados.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Temos quórum, pelo que declaro aberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Responderam à chamada os Srs. Deputados.\nTemos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 16 horas e 25 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, em virtude do fim a que se destina esta reunião, interrompo-a neste momento, recomeçando os trabalhos cerca das 17 horas, quando chegar o Sr. Presidente da República.\nEntretanto, pedia aos grupos parlamentares o favor de indicarem os nomes dos seus representantes que irão esperar o Sr. Presidente da República à porta principal do Palácio.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, em virtude do fim a que se destina esta reunião, interrompo-a neste momento, recomeçando os trabalhos cerca das 17 horas, quando chegar o Sr. Presidente da República.\nEntretanto, pedia aos grupos parlamentares o favor de indicarem os nomes dos seus representantes que irão esperar o Sr. Presidente da República à porta principal do Palácio.\nEstá suspensa a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Está suspensa a sessão.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Peias 17 horas deu entrada na Sala das Sessões o cortejo em que se integravam o Sr. Presidente da República, o Sr. Presidente da Assembleia da República, o Primeiro-Ministro, o Presidente do Supremo Tribunal de Justiça, os Secretários da Mesa, a comitiva do Presidente da República, o Secretário-Geral da Assembleia da República, o chefe e os secretários do protocolo.\nNo hemiciclo encontravam-se já os membros do Conselho da Revolução, os Ministros, o Ministro da República na Madeira, o Provedor de Justiça, o procurador-geral da República, o Presidente do Supremo Tribunal Militar e alguns presidentes dos tribunais das relações e alguns membros da Comissão Constitucional.\nEncontravam-se ainda presentes nas tribunas e galerias os Secretários e Subsecretários de Estado, o corpo diplomático, o pró-vigário-geral da Diocese de Lisboa, em representação do cardeal-patriarca, altas autoridades civis e militares e numerosos outros convidados.\nConstituída a Mesa, na qual o Sr. Presidente da República ocupou o lugar à direita do Sr. Presidente da Assembleia da República, a banda da Guarda Nacional Republicana, colocada na Sala dos Passos Perdidos, executou o Hino Nacional.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está reaberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 17 horas e 5 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o representante dia UDP, Sr. Deputado Acácio Barreiros.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante dia UDP, Sr. Deputado Acácio Barreiros.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Acácio Barreiros* (UDP): Sr. Presidente da República, Sr.Presidente da Assembleia da República, Sr. Primeiro-Ministro, Srs.Conselheiros da Revolução, Srs. Deputados, Srs. Convidados: Neste 5.º aniversário do 25 de Abri o povo português legitimamente coloca duas questões essenciais. A primeira dirige-se aos vencedores do 25 de Novembro, para lhes pedir contas dos que fizeram ao 25 de Abril, e que é feito das landas promessas com que nos têm enchido os ouvidos. A segunda questão terá de ser uma reflexão séria sobre o caminho a seguir. Será ainda possível salvar Abril? Os sonhos de liberdade e socialismo de todo um povo poderão ser concretizados ou ficarão apenas como recordações, decepadas na amargura de uma desilusão colectiva? \nSim, importa hoje perguntar aos vencedores do 25 de Novembro com toda a clareza: meus senhores, onde está o Portugal pleno de justiça e progresso, onde cada português se sinta realizado numa obra colectiva que, pelo menos, lhe permitisse encarar o futuro dos seus filhos com um mínimo d& segurança? \nE no entanto foi esse Portugal que há três anos e meio, em 25 de Novembro, foi por vós prometido ao povo.\nOs Portugueses não esquecem que o 25 de Novembro foi erguido com a prisão de numerosos oficiais de Abril que ainda hoje aguardam um julgamento digno onde possam defender a sua honra e o seu bom nome das calúnias e insultos de que tem sido vítimas este tempo todo. O povo conhece bem esses oficiais de Abril! E se muitos tem críticas a fazer-lhes, todos têm em relação a eles «uma dividia de gratidão", 
-   "type": "continuacao"
+   "party": "UDP", 
+   "speaker": "Acácio Barreiros", 
+   "text": "Sr. Presidente da República, Sr.Presidente da Assembleia da República, Sr. Primeiro-Ministro, Srs.Conselheiros da Revolução, Srs. Deputados, Srs. Convidados: Neste 5.º aniversário do 25 de Abri o povo português legitimamente coloca duas questões essenciais. A primeira dirige-se aos vencedores do 25 de Novembro, para lhes pedir contas dos que fizeram ao 25 de Abril, e que é feito das landas promessas com que nos têm enchido os ouvidos. A segunda questão terá de ser uma reflexão séria sobre o caminho a seguir. Será ainda possível salvar Abril? Os sonhos de liberdade e socialismo de todo um povo poderão ser concretizados ou ficarão apenas como recordações, decepadas na amargura de uma desilusão colectiva? \nSim, importa hoje perguntar aos vencedores do 25 de Novembro com toda a clareza: meus senhores, onde está o Portugal pleno de justiça e progresso, onde cada português se sinta realizado numa obra colectiva que, pelo menos, lhe permitisse encarar o futuro dos seus filhos com um mínimo d& segurança? \nE no entanto foi esse Portugal que há três anos e meio, em 25 de Novembro, foi por vós prometido ao povo.\nOs Portugueses não esquecem que o 25 de Novembro foi erguido com a prisão de numerosos oficiais de Abril que ainda hoje aguardam um julgamento digno onde possam defender a sua honra e o seu bom nome das calúnias e insultos de que tem sido vítimas este tempo todo. O povo conhece bem esses oficiais de Abril! E se muitos tem críticas a fazer-lhes, todos têm em relação a eles «uma dividia de gratidão", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Acácio Barreiros", 
    "text": "1840 I SÉRIE - NÚMERO 52", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Acácio Barreiros", 
    "text": "que nesta data é bom recordar na justa homenagem que tanto merecem. A UDP ao reafirmar a exigência de que os julgamentos do 11 de Março e do 25 de Novembro se façam quer apenas dizer que não tem medo da verdade e está segura que nesses julgamentos o povo saberá ver que os oficiais do 25 de Abril que foram presos e caluniados sempre se comportaram com total respeito pela sua honra de militares e de lutadores \nantifascistas. E, sobretudo, se tais julgamentos tiverem um mínimo de dignidade o povo verá quem foram os verdadeiros golpistas que atentaram contra os ideais de Abril.\nO povo também não esquece que o 25 de Novembro foi erguido- contra a Reforma Agrara, cobrindo-a de insultos e mesmo de repressão violenta.\nMas hoje pode \nver-se que as lindas promessas de verdadeiras reformas agrárias só têm significado a substituição do trabalho - sério e honesto na zona de intervenção, pelos grandes aparatos policiais que custam hoje ao País 2000 contos diários e que (naturalmente não dão pão, antes semeiam ódios e violências tais, que não podem deixar de 'repugnar a qualquer democrata, E mesmo os pequenos e medos agricultores do Norte, do Centro e das ilhas em nome dos quais se dizia fazer o 25 de Novembro, podem hoje ver que a sua vida não melhorou, antes piorou e cada vez mais são esmagados por uma criminosa política de preços e deixados às mãos dos grandes intermediários que actuam com todo o descaramento.\nO povo não esquece que o 25 de Novembro foi erguido em nome, dizia-se, de uma justa política económica que combatendo as injustiças sociais, melhorasse a repartição da riqueza e diminuísse o desemprego.\nHoje, todo o povo pode ver que tal pratica económica se resume à defesa da iniciativa privada e aos acordos com o FMI, à custa da ruína do sector nacionalizado e, sobretudo, do abandono daqueles projectos essenciais que uma política de independência nacional, o projecto Alqueva, etc. E mais! Que mesmo nacional, o projecto Alqueva, etc. E mais! Que mesmo a chamada defesa da iniciativa privada nada tem a ver com os pequenos industriais que se vêem esmagados por juros \nimpossíveis. É claro que tal política económica resumindo-se à construção do poder dos lucros dos grandes monopólios, aceitando sem um protesto as leis dos magnates estrangeiros através do FMI e deixando os -\"intermediários à rédea solta, só poderia trazer, como trouxe, mais e mais desemprego, mais e mais aumentos do custo de vida, e é preciso dizer que a fome já começou a bater à porta de muitas famílias.\nFinalmente, o povo não esquece que o 25 de Novembro se ergueu em nome de um realismo e de um bom senso. O tempo mostrou que esses são um falso realismo e um falso bom senso que a serem seguidos levariam o povo a ficar de braços cruzados a assistir ao roubo de tudo o que conquistámos com o 25 de Abril pelos velhos monopolistas e \nlatifundiários, pelo imperialismo estrangeiro.\nTem sido em nome desse falso realismo e desse falso bom senso que os salários reais estão hoje abaixo de 1968, que na imprensa e na rádio são caladas vozes de democratas e as lutas dos trabalhadores e que se chegou ao cúmulo de hoje em Portugal haver um governo em quem ninguém votou, formado à revelia da vontade popular.\nUm governo claramente de direita, que publicamente declara que não gosta da constituição, que tem falado uma linguagem feita de arrogância e mesmo de repressão violenta, incapaz de resolver um só problema nacional, antes agravando-os todos, é este Governo que temos cinco amos depois do 25 de Abril.\nE nem se venha dizer que assim é porque o povo assim o quis.\nPelo contrário. A direita reaccionária perdeu todas as eleições e se é Governo, é porque claramente se desrespeitou a vontade popular.\nMais ainda. As grandes manifestações populares já mostraram que o povo não quer este Governo e continuará a lutar contra ele. A corajosa luta dos assalariados rurais do Alentejo e Ribatejo, a luta dos \ntrabalhadores dos TLP, da comunicação social, nas grandes manifestações de 10 e 17 de Março mostram isso mesmo.\nEste Governo não interessa ao País e tem de ser demitido. Não para ser substituído por qualquer outro Governo reaccionário, mas para que haja lugar a que o povo tome a palavra em eleições gerais antecipadas e volte a reafirmar de forma inequívoca a sua vontade.\nEsta solução torna-se tanto mais urgente quanto é certo que a direita reaccionária se aproveita da fórmula falsamente apartidária deste Governo, que é o seu Governo, para procurar demagogicamente demarcar-se e fomentar um clima golpista a que é preciso pôr cobro rapidamente.\nOs sucessivos ataques ao Conselho da Revolução, as calúnias aos oficiais de Abril, os ataques demagógicos à Constituição e, sobretudo, os apegos aos referendos inconstitucionais visam reerguer os valores da ditadura e tentar fomentar um qualquer golpe militar a exemplo do 28 de Maio.\nE tudo isto falando demagogicamente dos sentimentos nacionais e, até, da própria vontade do povo, esquecendo-se, muitos dos reaccionários que assim falam, que neste país só ganharam eleições quando elas foram farsas montadas pela ditadura.\nE hoje quando nenhum trabalhador pode deixar de recordam com profunda emoção as lágrimas de alegria dessa madrugada de há cinco anos, onde numa onda gigantesca de entusiasmo e esperança todo uni povo apoiou o movimento dos capitães e arrancou para as grandes jornadas de luta pela liquidação do fascismo.\nHoje, confrontando essas esperanças com a situação para onde o 25 de Novembro arrastou o País, é preciso dizer claramente: Basta meus senhores! Não foi para isto que o povo fez o 25 de Abril.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Acácio Barreiros", 
    "text": "nestas palavras vai toda a nossa determinação de continuar a defender Abril, reforçando a unidade popular nas trincheiras da Reforma Agrária, das nacionalizações, da Constituição da República.\nMas elas encerram também a determinação de, contra os apóstolos da desgraça ou as ameaças das forças reaccionárias, continuar a manter bem erguidas as bandeiras do socialismo e da liberdade! Foram essas bandeiras que animaram a resistência de todo um povo contra a ditadura! \nSão elas que ainda hoje", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Acácio Barreiros", 
    "text": "26 DE ABRIL DE 1979 1841", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Acácio Barreiros", 
    "text": "iluminam a confiança de reabrir os caminhos de Abril.\nÉ bem verdade que olhando hoje para a obra gigantesca que o povo soube pôr de pé em poucos meses após o 25 de Abril, ela surge aos nossos olhos como uma obra inacabada.\nO fim de uma guerra injusta, o grande movimento de ocupações de terras para as fazer produzir, as nacionalizações, o movimento cooperativo, as ocupações de casas e a luta pela construção de habitação digna, o combate aos grandes intermediários, tudo isso não foi ainda o suficiente para edificar o socialismo, mas constituíram passos muito importantes que indicam o caminho a seguir para um Portugal diferente.\nQuando hoje saudamos as principais dessas conquistas, é preciso dizer que e as são sobretudo e principalmente obra da luta dos trabalhadores.\nEm cada hectare ocupado e semeado, em cada saneamento de fascistas, em cada manifestação de trabalhadores, em cada ocupação de casas e em cada bairro novo conquistado, em cada nacionalização imposta, em cada contingente militar que se recusou a partir para as colónias, os trabalhadores começaram a edificar esse Portugal novo.\nE hoje, não é de mais recordar que mesmo as conquistas dos \ntrabalhadores que estão aia Constituí cão da República foram escritas nos campos, nas fábricas e nas escolas muito antes de os Srs. Deputados as aprovarem debaixo da exigência popular.\nÉ certo que se cometeram erros, mas esses erros aconteceram sobretudo quando o povo ficou à espera que a melhoria da sua vida lhe fosse oferecida pelo Parlamento au pelos Governos.\nSempre que o povo soube tomar nas suas mãos, na força da sua unidade e da sua determinação os destinos do País, as coisas avançaram.\nÉ ou não verdade que se os trabalhadores não começassem as ocupações ainda hoje estávamos à espera da Reforma Agrária. É ou não verdade que se o povo não começasse a correr com os fascistas ainda hoje estávamos à espera dos saneamentos? \nPor isso, mão podemos aceitar que hoje se pretenda reduzir o aniversário do 25 de Abril a duas ou três comemorações oficiais e a um discurso do Sr. Presidente da República. É preciso dizer bem alto que o 25 de Abril é para o povo uma coisa muito diferente.\nO 25 de Abril é sobretudo a prova da força do povo quando se sabe unir e toma com coragem os destinos do seu País nas suas mãos, fazendo com qua a voz dos pobres também se ouça e mesmo que também seja lei.\nE é esse 25 de Abril nas mãos do povo que nos querem fazer esquecer, pretendendo que o povo se limite a votar de quatro em quatro anos, ficando à espera das decisões do Parlamento ou dos discursos do Presidente.\nMas a verdade é que se a Reforma Agrária, apesar de tudo, se mantém de pé, não se deve a este Parlamento que votou a Lei Barreto, nem aos governantes que só a atacaram, mas à irreverente coragem dos trabalhadores que a têm defendido no próprio terreno.\nA verdade é que se a Constituição não é hoje um simples papel para consolar os pobres, é porque os trabalhadores a têm sabido manter de pé na defesa das suas conquistas e direitos.\nÉ por isso que o dia de hoje tem de ser uma jornada de luta feita na convicção de que é sobretudo nas mãos do povo que reside a sua defesa, que será feita palmo a palmo, alargando e aprofundando a resistência à ofensiva reaccionária.\nE fazemos essa defesa com a confiança que a vontade dos pobres ainda voltará a ser lei neste país.\nPara isso importa não repetir erros antigos, isto é, que o povo não deixe que alguém faça por ele aquilo que só ele pode fazer, porque assim não mais acabaremos a obra que começámos a 25 de Abril e que foi interrompida a 25 de Novembro.\nPor tudo isto termino, com uma palavra de esperança que é ao mesmo tempo uma palavra de certeza de que um dia virá em que acabaremos essa grande obra que será fazer de Portugal uma pátria socialista.\nUm dia virá em que festejaremos o 25 de Abril com a mesma alegria de 1974, num Portugal feito à medida da vontade e do trabalho do seu povo.\nViva o 25 de Abril!", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o representante do Partido Comunista Português.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante do Partido Comunista Português.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente da República, Sr. Presidente da Assembleia da República, Srs. Conselheiros da Revolução, Sr.Primeiro-Ministro e Membros do Governo, Sr. Presidente do Supremo Tribunal de Justiça, Srs. Deputados, Senhoras e Senhores: A Assembleia da República reúne-se com o Presidente da República e na presença da unanimidade dos Órgãos de Soberania para, tal como nos últimos dois anos, assinalar solenemente a data morredoura do 25 de Abril de 1974.\nMas permita-se-nos que adiantemos que mais ainda do que nos anos anteriores esta reunião solene se reveste de um alcance profundo.\nÉ que a Revolução de Abril completa hoje cinco anos de vida, o que não sendo quase nada na história de um regime é um período significativo para julgar da sorte de uma revolução.\nA Revolução de Abril, por muito que pese aos projectos de desforra dos seus inimigos e aos maus presságios dos seus detractores, é uma revolução vitoriosa.\nPor graves que sejam as preocupações que o viver nacional infunde na hora presente, a vitória de Abril não pode deixar de abraçar, num sentimento de grande alegria e de imenso regozijo, todos os que, embora em posições diferenciadas, se empenharam e empenham na recusa de um passado ignominioso de guerra colonial, de opressão e tirania, de exploração cruel e de abdicação nacional, todos os que 55 empenharam e empenham em afirmar a paz, a Uberdade, o progresso social e a independência nacional como grandes valores e objectivos da Pátria Portuguesa.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente da República, Sr. Presidente da Assembleia da República, Srs. Conselheiros da Revolução, Sr.Primeiro-Ministro e Membros do Governo, Sr. Presidente do Supremo Tribunal de Justiça, Srs. Deputados, Senhoras e Senhores: A Assembleia da República reúne-se com o Presidente da República e na presença da unanimidade dos Órgãos de Soberania para, tal como nos últimos dois anos, assinalar solenemente a data morredoura do 25 de Abril de 1974.\nMas permita-se-nos que adiantemos que mais ainda do que nos anos anteriores esta reunião solene se reveste de um alcance profundo.\nÉ que a Revolução de Abril completa hoje cinco anos de vida, o que não sendo quase nada na história de um regime é um período significativo para julgar da sorte de uma revolução.\nA Revolução de Abril, por muito que pese aos projectos de desforra dos seus inimigos e aos maus presságios dos seus detractores, é uma revolução vitoriosa.\nPor graves que sejam as preocupações que o viver nacional infunde na hora presente, a vitória de Abril não pode deixar de abraçar, num sentimento de grande alegria e de imenso regozijo, todos os que, embora em posições diferenciadas, se empenharam e empenham na recusa de um passado ignominioso de guerra colonial, de opressão e tirania, de exploração cruel e de abdicação nacional, todos os que 55 empenharam e empenham em afirmar a paz, a Uberdade, o progresso social e a independência nacional como grandes valores e objectivos da Pátria Portuguesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
    "text": "É este o sentido que observamos nos múltiplos actos e acções comemorativas de natureza oficial e de iniciativa popular, que se realizam nestes dias de um extremo ao outro do País e onde a força do espírito do 25 de Abril se confirma, reforça e vivifica na", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
    "text": "1842 I SÉRIE - NÚMERO 52", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
    "text": "reunião de quantos, divergindo embora no curso da sua concretização, o prezam no seu conteúdo essencial e o querem preservar, consolidar e prosseguir.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: No quinto aniversário da Revolução reafirmamos a nossa saudação emocionada aos bravos Capitães de Abril, que com o seu histórico levantamento assestaram um golpe demolidor na ditadura fascista, logo continuado e completado pelo levantamento de adesão e apoio das massas populares.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "No quinto aniversário da Revolução reafirmamos a nossa saudação emocionada aos bravos Capitães de Abril, que com o seu histórico levantamento assestaram um golpe demolidor na ditadura fascista, logo continuado e completado pelo levantamento de adesão e apoio das massas populares.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Saudando os militares obreiros do 25 de Abril, saudamos também todos os militares que souberam depois identificar-se com o seu espírito e com os objectivos da democracia portuguesa.\nNo quinto aniversário da Revolução prestamos sentida e comovida homenagem a todos os antifascistas, a todos os democratas, a todos os patriotas que ao longo de quase meio século de fascismo, nas condições mais difíceis, enfrentando a morte, a prisão, a tortura, a perseguição continuada e discriminação constante, souberam manter a resistência e souberam organizar a luta peta liberdade, o fim da guerra e a justiça criando as condições para que Abril chegasse. Nesta homenagem incluímos .todos os que vieram depois e formaram a caudalosa torrente que tomou possível levar avante as transformações democráticas históricas da revolução portuguesa e a edificação do regime democrático.\nImporta dizer hoje que, no processo de desenvolvimento e vicissitudes da revolução portuguesa, se foi formando e estabelecendo um projecto político bem definido, que suscitando um amplo consenso, foi adoptado pelos constituintes de 1976 e finalmente incorporado na lei \nfundamental.\nAmplo consenso, desde logo, em torno da firme recusa da ditadura e na condenação do fascismo. Amplo consenso na afirmação da necessidade de completa e rigorosa consagração das liberdades democráticas.\nAmplo consenso em torno da eliminação dos monopólios e latifúndios, sustentáculos principais da ditadura e travão do desenvolvimento económico e do progresso social.\nAmplo consenso na consagração da intervenção dos trabalhadores em todos os 'domínios da vida nacional, com particular relevância para a actividade das comissões de trabalhadores e associações sindicais, no respeito pela sua autonomia, independência e democracia interna..\nAmplo consenso, ainda, na condenação do belicismo, do colonialismo, do racismo - com a afirmação clara no empenhamento de Portugal numa política de paz e cooperação com todos os povos e, de especial significado, com os novos países africanos libertados do colonialismo português \nAmplo consenso, finalmente, na condenação do separatismo e na defesa clara dos princípios da unidade da Pátria e da independência nacional.\nArticulados entre si num projecto coerente e global de transformação política, social, económica e cultural da sociedade portuguesa, estes princípios e objectivos congregam a esperança, a adesão e o \nempenhamento de milhões de portugueses pertencentes a um amplo e diversificado leque de camadas sociais, que os ratificaram nos sucessivos sufrágios a que foram chamados desde o 25 de Abril.\nImporta dizer agora que as dificuldades agudas com que o País e o povo se debatem não resultam da observância destes grandes princípios e orientações, mas precisamente da fuga à sua execução e das tentativas de os desvirtuar e subverter.\nA fresta por onde penetra o ataque mais insidioso dos inimigos da democracia portuguesa reside precisamente na actuação daqueles que tendo responsabilidades na condução dos seus destinos se recusam ou pelo menos hesitam em prosseguir a rota defenida pela vontade maioritária do povo português e consagrada na lei fundamental do País.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Alegou-se primeiro que era necessário fazer algumas cedências aos meios reaccionários para diminuir tensões, aplacar descontentamentos e desmontar a conspiração antidemocrática. Sabe-se ao que tem conduzido essa orientação suicida. Na verdade, a democracia não se estabiliza e consolida nem o País progride pelo caminho das cedências aos inimigos da democracia e do progresso social", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Alegou-se primeiro que era necessário fazer algumas cedências aos meios reaccionários para diminuir tensões, aplacar descontentamentos e desmontar a conspiração antidemocrática. Sabe-se ao que tem conduzido essa orientação suicida. Na verdade, a democracia não se estabiliza e consolida nem o País progride pelo caminho das cedências aos inimigos da democracia e do progresso social", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador - Mas foi-se ainda mais longe. Pretextando argumentos para fugir aos rumos constitucionais e dar motivações a uma política de restauração do poder económico e pó ático do grande capital, arvora-se em mal-estar nacional os queixumes e protestos dos ultraminoritários beneficiários do regime fascista, dos privilegiados do antigamente.\nNão se estranhe, pois, que os inimigos da democracia subam o tom no coro das exigências: ontem pediam a liquidação da Reforma Agrária e das nacionalizações, logo passaram a pedir a liquidação da Constituição e agora não hesitam em pedir a liquidação do próprio 25 de Abril É um escândalo inadmissível que a comunicação social estatizada esteja a fazer a promoção, precisamente nestes dias de Abril, de figuras das mais responsáveis do regime fascista derrubado.\nImporta lembrar, a propósito, que o regime fascista não só oprimiu, reprimiu e explorou cruelmente o povo português e os povos das colónias, mas conduziu o nosso país, em meio século de vigência, ao último lugar da escala europeia em todos os indicadores económicos e sociais fundamentas, desde o produto nacional à mortandade infantil. É ridícula a pretensão de responsáveis desse regime ao quererem afivelar agora a máscara de «salvadores» O povo português não esquecerá", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Aplausos do PCP e de alguns deputados do PS", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Particularmente preocupante é que, a par do inaceitável clima de complacência que se foi generalizando para com as actividades dos servidores do fascismo e outros inimigos declarados da democracia, se observam, especialmente nos últimos meses, inadmissíveis actuações repressivas das autoridades e do patronato sobre trabalhadores, que fazem uso dos seus", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "26 DE ABRIL DE 1979 1843", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "direitos constitucionais e legais, quer em defesa da Reforma Agrária, quer em defesa das suas condições de vida e de trabalho.\nHá dois anos, quando aqui nos reunimos pela primeira vez para celebrar o 25 de Abril, era a crise económica e financeira que estava no centro das preocupações de quantos usaram da palavra. Havia então, como continua a haver hoje, dois caminhos paira enfrentar as dificuldades neste domínio: ou o reconhecimento das inovas realidades da nossa economia (com as nacionalizações, a Reforma Agrara e o contrôle de gestão), o respeito pelas orientações constitucionais e a mobilização dos trabalhadores e do povo, ou o caminho da recuperação capitalista e dos empréstimos externos com o seu cortejo de imposições. O PCP defendeu e defende o primeiro. Preferiu-se o segundo, teimou-se no segundo. O resultado desastroso está à vista. As condições de vida do povo português agravaram-se.\nEstamos ainda mais longe da recuperação económica que se torna imperioso consegui e para a qual o nosso regime económico e político apresenta especiais virtualidades, ma diversidade das formações económicas que reconhece e no papel que reserva aos trabalhadores na vida nacional.\nA crise económica degenera numa preocupante crise política. Esta aprofunda-se tonto mais quanto se acentuam os desvios ao figurino constitucional, quer na fórmula governativa, quer na actuação do Governo. Este tornou-se o ponto central das nossas dificuldades e origina, pela sua existência e pela sua prática, uma situação generalizada de desrespeito pela legalidade democrática. Muito embora não seja este o momento adequado para mais largas considerações a propósito, não queremos deixar de dizer que a situação não pode persistir sem sinos perigos para as instituições e dano muito grave para o País e o povo.\nAs situações de instabilidade tem que ser vencidas pelo decidido regresso à observância das orientações e normas da Constituição. Não está em causa a recusa de qualquer revisão constitucionalmente legítima e necessária do seu articulado. Aquilo que se impõe e exige é que o País possa viver, trabalhar e optar dentro da continuidade do projecto político que definiu e estabeleceu num profundo processo democrático.\nAs comemorações do 25 de Abril têm a grande virtude de confirmar que o povo português não está desmobilizado, como pretendem os propagandistas da reacção e os que forcejam o lançamento de novos projectos subversivos. A ampla participação popular que nelas se verifica, tal como a participação nas operações do recenseamento, na generalidade das eleições locais, na vida sindical, na acção reivindicativa, na movimentação pela observância dos direitos, liberdades e garantias, demonstra que o povo português está com a democracia, está com a Constituição, que o fez seu, e quer levar adiante o 25 de Abril. É por isto que a Revolução de Abril triunfa. É nisto que reside a imensa confiança, que nos anima, de que Portugal vencerá a crise.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o representante do Centro Democrático Social.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante do Centro Democrático Social.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Nuno Abecasis* (CDS): Sr. Presidente da República, Sr.Presidente da Assembleia da República, Srs. Deputados: Pela terceira vez consecutiva, e com representantes só hoje celebram solenidade idêntica eleitos peto povo, que tem esta Assembleia como casa e como local de trabalho, mais um aniversário do 25 de Abril, que desde a primeira hora quisemos democrático e por isso mesmo pluralista e libertador do homem e da sociedade portuguesa.\nFoi assim que há dois anos, desta mesma tribuna, o CDS se pôde referir ao seu contributo, prestado com coragem, determinação e sofrimento, não só para que fosse preservada a dimensão democrática do 25 de Abril, como também para que se mantivesse permanentemente aberta, para o povo português, uma alternativa personalista e europeia ao projecto colectivista que alguns lhe quiseram impor.\nFoi assim também que mo ano passado os democratas cristãos aqui se pronunciaram, vigorosa e claramente, na defesa da democraticidade e do pluralismo das nossas instituições, na defesa da opção europeia, que esta Assembleia acolhe maioritariamente, e na recusa frontal e sem ambiguidades de qualquer projecto totalitário- e ditatorial, que vozes enganadoras e de traição viessem segredar aos ouvidos do povo, como via para a ultrapassagem de todas as dificuldades.", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Nuno Abecasis", 
+   "text": "Sr. Presidente da República, Sr.Presidente da Assembleia da República, Srs. Deputados: Pela terceira vez consecutiva, e com representantes só hoje celebram solenidade idêntica eleitos peto povo, que tem esta Assembleia como casa e como local de trabalho, mais um aniversário do 25 de Abril, que desde a primeira hora quisemos democrático e por isso mesmo pluralista e libertador do homem e da sociedade portuguesa.\nFoi assim que há dois anos, desta mesma tribuna, o CDS se pôde referir ao seu contributo, prestado com coragem, determinação e sofrimento, não só para que fosse preservada a dimensão democrática do 25 de Abril, como também para que se mantivesse permanentemente aberta, para o povo português, uma alternativa personalista e europeia ao projecto colectivista que alguns lhe quiseram impor.\nFoi assim também que mo ano passado os democratas cristãos aqui se pronunciaram, vigorosa e claramente, na defesa da democraticidade e do pluralismo das nossas instituições, na defesa da opção europeia, que esta Assembleia acolhe maioritariamente, e na recusa frontal e sem ambiguidades de qualquer projecto totalitário- e ditatorial, que vozes enganadoras e de traição viessem segredar aos ouvidos do povo, como via para a ultrapassagem de todas as dificuldades.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Porque assim somos e por estas verdades nos batemos, afirmámo-lo então, e hoje o repetimos, o CDS foi, é e será parte da dimensão libertadora e democrática de um ideal 25 de Abril.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Porque assim somos e por estas verdades nos batemos, afirmámo-lo então, e hoje o repetimos, o CDS foi, é e será parte da dimensão libertadora e democrática de um ideal 25 de Abril.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Liberdade e democracia que são ruptura permanente, não só com os traços injustos e traumatizantes do antigo regime, mas também com aquilo que no regime actual ainda é fonte de frustração e desilusão, para que a nossa pátria siga, permanentemente, mimo a um futuro mais livre e mais justo e por isso mais próspero e mais feliz.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Liberdade e democracia que são ruptura permanente, não só com os traços injustos e traumatizantes do antigo regime, mas também com aquilo que no regime actual ainda é fonte de frustração e desilusão, para que a nossa pátria siga, permanentemente, mimo a um futuro mais livre e mais justo e por isso mais próspero e mais feliz.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Neste sentido, o CDS foi, é e continuará a ser uma força política apostada em Lutar contra o imobilismo, a injustiça e a ineficácia. Acreditamos, profundamente, que ao povo português está reservado um futuro de plena realização do destino a que a história lhe dá direito e não será com a nossa cumplicidade que serão criadas barreiras ao seu caminho de liberdade, de prosperidade e de paz.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Neste sentido, o CDS foi, é e continuará a ser uma força política apostada em Lutar contra o imobilismo, a injustiça e a ineficácia. Acreditamos, profundamente, que ao povo português está reservado um futuro de plena realização do destino a que a história lhe dá direito e não será com a nossa cumplicidade que serão criadas barreiras ao seu caminho de liberdade, de prosperidade e de paz.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Presidente da Assembleia da República, Srs. Deputados: \nEm todo o nosso ainda curto percurso histórico temo-nos batido pela realização de condições propícias ao enraizamento profundo do pluralismo democrático. Temo-lo feito com frontalidade e com lisura, respeitando as ideias e os projectos alheios, sem abdicar do que somos e do que queremos.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente da Assembleia da República, Srs. Deputados: \nEm todo o nosso ainda curto percurso histórico temo-nos batido pela realização de condições propícias ao enraizamento profundo do pluralismo democrático. Temo-lo feito com frontalidade e com lisura, respeitando as ideias e os projectos alheios, sem abdicar do que somos e do que queremos.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "1844 I SÉRIE - NÚMERO 52", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O pluralismo democrático exige que assumamos a coragem de nos mostrarmos diferentes nos caminhos que escolhemos.\nO pluralismo não é, nem pode ser, a simples possibilidade filosófica da formulação de alternativas. Para que ele exista é indispensável que se concretizem, se explicitem e se ofereçam ao eleitorado os diferentes caminhos possíveis para realizar o bem-estar colectivo, em sintonia com as diversas opções culturais que percorrem o pluralismo da própria sociedade e, sempre, no respeito indesmentível pela dignidade nacional.\nPelo seu lado, o CDS não tem abdicado, uma e outra vez, de acentuar o sentido original do seu próprio contributo político, oferecendo um projecto inspirado no humanismo personalista de raiz crusta, como forma de se construir a sociedade do futuro.\nOs caminhos seguidos em Portugal, sobretudo depois do 11 de Março, têm vindo a confirmar a justeza de muitas das nossas críticas e a oportunidade dês nossas propostas.\nAo fim de vários anos ide imposição colectivista, durante algum tempo no plano político e depois no plano jurídico, é preciso reconhecer que, em muitos aspectos, o País seguiu por rumos errados.\nMesmo o 25 de Novembro - reencontro nacional no piano democrático- não impediu o progresso estrutural do colectivismo, na economia e da sociedade.\nOs frutos da experiência colectivista estão a conduzir-nos a bloqueamentos cada vez maiores. É, pois, necessário ter a coragem de reconhecer a urgência da mudança e de alternativas capazes de sustentar e dinamizar a introdução de profundas reformas, de sentido modernizador e inovador, na sociedade portuguesa.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: A única forma de lutar contra o restauracionismo do 24 de Abriu ou do 24 de Novembro, salvando assim a democracia, está na mudança.\nÉ a própria defesa das liberdades, é a luta peto ressurgimento nacional que \nno-lo impõem.\nCompreender-se-á, porém, que o contributo específico de que, como partido, somos portadores, ino quadro do pluralismo democrático, tenha em conta, por um lado, a profundidade e a dimensão das mudanças necessárias e, por outro, as circunstâncias políticas do momento presente.\nA hora presente impõe uma ampla mobilização dos portugueses \ninteressados em ajudar a construir um futuro melhor para todos. A hora presente é hostil ao abstencionismo e é de combate à tentação totalitária. A hora presente faz apelo a maior unidade, dentro da diversidade, e reclama mais autoridade institucional do Estado.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "A única forma de lutar contra o restauracionismo do 24 de Abriu ou do 24 de Novembro, salvando assim a democracia, está na mudança.\nÉ a própria defesa das liberdades, é a luta peto ressurgimento nacional que \nno-lo impõem.\nCompreender-se-á, porém, que o contributo específico de que, como partido, somos portadores, ino quadro do pluralismo democrático, tenha em conta, por um lado, a profundidade e a dimensão das mudanças necessárias e, por outro, as circunstâncias políticas do momento presente.\nA hora presente impõe uma ampla mobilização dos portugueses \ninteressados em ajudar a construir um futuro melhor para todos. A hora presente é hostil ao abstencionismo e é de combate à tentação totalitária. A hora presente faz apelo a maior unidade, dentro da diversidade, e reclama mais autoridade institucional do Estado.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: A hora presente é da sociedade civil. A hora presente, para ser fonte de mudança, tem de ser uma hora de lucidez, de patriotismo e de coragem.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "A hora presente é da sociedade civil. A hora presente, para ser fonte de mudança, tem de ser uma hora de lucidez, de patriotismo e de coragem.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Pelo seu lado, e em face das circunstâncias políticas actuais, o CDS pensa que é necessário construir uma maior unidade orgânica entre as forças que se reclamam de uma mesma intenção reformadora e de sentido civil, moderno e europeu da nossa sociedade e que se opõem ao estatismo, à burocracia e ao centralismo.\nNestes termos, Sr. Presidente e Srs. Deputados, o CDS, ao propor a concretização de uma nova forma de unidade democrática, respeitadora dos contributos específicos daqueles a quem foi proposta, procura, ainda e uma vez mais, servir um pluralismo democrático miais eficaz e mais operante.\nÉ próprio da democracia ser-«e diferente. A diferença é, em si mesmo, uma condição básica da democracia.\nMas em democracia também não é legítimo acentuar de tal modo as diferenças, que se inviabilize o mínimo de entendimento entre forças políticas que partilhem de um mesmo ideal de sociedade. Se tal se fizer ou consentir, em Portugal, então estaremos perante um sinal claro de que forças políticas houve que trocaram a bandeira do País pelo seu emblema partidário e poucas esperanças poderão restar, no horizonte dos portugueses, de que algum dia sejam vencidas as dificuldades que os afligem e ultrapassada a crise em que se sentem afogados.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Pelo seu lado, e em face das circunstâncias políticas actuais, o CDS pensa que é necessário construir uma maior unidade orgânica entre as forças que se reclamam de uma mesma intenção reformadora e de sentido civil, moderno e europeu da nossa sociedade e que se opõem ao estatismo, à burocracia e ao centralismo.\nNestes termos, Sr. Presidente e Srs. Deputados, o CDS, ao propor a concretização de uma nova forma de unidade democrática, respeitadora dos contributos específicos daqueles a quem foi proposta, procura, ainda e uma vez mais, servir um pluralismo democrático miais eficaz e mais operante.\nÉ próprio da democracia ser-«e diferente. A diferença é, em si mesmo, uma condição básica da democracia.\nMas em democracia também não é legítimo acentuar de tal modo as diferenças, que se inviabilize o mínimo de entendimento entre forças políticas que partilhem de um mesmo ideal de sociedade. Se tal se fizer ou consentir, em Portugal, então estaremos perante um sinal claro de que forças políticas houve que trocaram a bandeira do País pelo seu emblema partidário e poucas esperanças poderão restar, no horizonte dos portugueses, de que algum dia sejam vencidas as dificuldades que os afligem e ultrapassada a crise em que se sentem afogados.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Nós acreditamos que assim não será e que no tecido político de Portugal ainda será possível encontrar os fios restantes que, uma vez unidos e solidários, possam constituir a esperança de vencer a adversidade. Daí o nosso entusiasmo e a nossa esperança. Daí a certeza, que hoje aqui manifestamos, de que a nossa proposta encontrará eco no meio daqueles a quem foi dirigida, porque para lá e acima dos partidos em que militamos está o próprio sentido dessa militância e esse não pode ser outro que não seja o desejo irreprimível de assegurar o futuro de Portugal.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Nós acreditamos que assim não será e que no tecido político de Portugal ainda será possível encontrar os fios restantes que, uma vez unidos e solidários, possam constituir a esperança de vencer a adversidade. Daí o nosso entusiasmo e a nossa esperança. Daí a certeza, que hoje aqui manifestamos, de que a nossa proposta encontrará eco no meio daqueles a quem foi dirigida, porque para lá e acima dos partidos em que militamos está o próprio sentido dessa militância e esse não pode ser outro que não seja o desejo irreprimível de assegurar o futuro de Portugal.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Sr. Presidente da República: É convicção do CDS que se torna necessário reconciliar o País real com o Estado. Esta promessa de Abril ainda não foi cumprida.\nÉ verdade que foram restauradas as liberdades e que um novo impulso de justiça social percorreu o País, mas também é verdade que o caminho da democracia política, tornado de novo possível com o 25 de Novembro, não foi acompanhado, como devia, por um processo de democratização económica e cultural. Não admira, por isso, que o impulso de justiça não tenha assim encontrado um suporte suficiente no progresso da economia e na criação de riqueza e por isso continue à espera de concretização.\nÉ verdade que se alargou o espaço de participação cívica e política dos cidadãos e que os negócios públicos se tornaram mais transparentes, passando a ser objecto directo da fiscalização popular, mas também é verdade que as instituições não oferecem, globalmente, aos cidadãos a clareza e a autoridade que se impunha e que a lei democrática é, aqui e além, desafiada, enquanto muitos sectores das forcas sociais", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "26 DE ABRIL DE 1979 1845", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "activas da Nação continuam a confrontar-se, no seu labor, com as contradições que lhe são impostas por um sistema económico-social desajustado, incoerente e, em muitos aspectos, imposto, sem lógica nem justiça, pelo revolucionarismo totalitário que sofremos em fins de 1974 e durante 1975.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador. - A completa reconciliação da sociedade civil com o Estado é, pois, tarefa por realizar.\nNão basta, por conseguinte, construir, no campo do pluralismo democrático, espaços de maior unidade e coerência. Os instrumentos políticos assim criados podem facilitar o reencontro da sociedade democrática com os partidos e ajudar ao reforço destes, como os mais idóneos medos de expressão do pluralismo social e cultural. Mas nós julgamos que do lado do próprio Estado se toma necessário definir, com maior rigor, o modo lê o sentido de intervenção dos órgãos dotados de legitimidade democrática.\nSó uma profunda revisão constitucional, de acordo com a vontade da maioria investida de poderes para a realizar, poderá assegurar, cabalmente, tal objectivo.\nEntretanto, porém, é útil que as instituições emergentes do sufrágio popular, como o Presidente da República e a Assembleia da República, ou com especiais responsabilidades na defesa da legalidade, como os tribunais, encontrem os meios necessários para assegurar o aumento- do seu prestígio e paira promover a sua maior adequação às necessidades do país real.\nO CDS, pelo seu lado, está tão interessado em contribuir para a dignificação do pluralismo democrático como empenhado está na defesa e reforma das instituições, die modo que o sistema político em Portugal seja capaz de se sintonizar, em profundidade, comi o sentido da sociedade civil.\nPara nós, um ideal 25 de Abril é também, neste pano, um ideal de mudança, uma capacidade de regeneração, um aprender de experiência.\nNesta perspectiva o saudosismo do 11 de Março é tão prejudicial ao 25 de Abril como o saudosismo do antigo regime - ambos são adversários da democracia.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Este tema merece da nossa parte, Srs. Deputados, representantes eleitos do Povo, uma cuidadosa reflexão, quando presenciamos aquilo que parecem ser ambíguas manifestações de restauracionismo malhar na nossa sociedade.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "onhecemos os preceitos normativos da nossa Constituição, cujo projecto final não aprovámos, mas que nos comprometemos a respeitar, e temos respeitado.\nNão ignoramos, todavia, que o sentido ético e político do regime aponta, como repetidamente tem sido afirmado pelos mais legítimos responsáveis do País, para a inequívoca subordinação da força militar ao poder civil democrático", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Rui Pena* (CDS): Muito bem!", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
+   "text": "Muito bem!", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
    "text": "O Orador - Esse é também um sentido de mudança claramente inscrito no nosso horizonte institucional.\nTudo o que seja contrariar a clareza desse sentido é, objectivamente, desfavorável à democracia.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS e dos deputados independentes ex-PSD.", 
    "type": "aplauso"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
    "text": "A recordação de que o «MFA está cá» pode constituir uma evocação de artigos do texto constitucional aprovados antes do 25 de Novembro, mas a verdade é que não consta das disposições aprovadas depois dessa data.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Rui Pena* (CDS): Muito bem!", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
+   "text": "Muito bem!", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Assim, é uma recordação que nós julgamos ao arrepio da dinâmica democrática e ido carácter transitório do presente período constitucional.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Assim, é uma recordação que nós julgamos ao arrepio da dinâmica democrática e ido carácter transitório do presente período constitucional.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Vozes do CDS e dos deputados independentes ex-PSD - Muito bem!", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Não apoiado!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Não apoiado!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: A nosso ver, nada a justifica. Nem sequer a legitimam alguns ataques desgarrados, inconsequentes e injustos que por vezes se ouvem contra a instituição militar.\nNão é por nas forças armadas ter havido quem tivesse traído as promessas feitas ao povo em 25 de Abril que se pode pôr em causa o sentido histórico, nacional e patriótico da instituição militar.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "A nosso ver, nada a justifica. Nem sequer a legitimam alguns ataques desgarrados, inconsequentes e injustos que por vezes se ouvem contra a instituição militar.\nNão é por nas forças armadas ter havido quem tivesse traído as promessas feitas ao povo em 25 de Abril que se pode pôr em causa o sentido histórico, nacional e patriótico da instituição militar.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Hoje, 25 de Abril, saudamos solenemente a instituição militar, na sua hierarquia legítima, aqui representada pelo seu comandante supremo, e manifestamos o nosso profundo apreço, o nosso respeito e o nosso orgulho pelas multisseculares e gloriosas forças armadas portuguesas.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS e dos deputados independentes ex-PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Sr. Presidente da República, Sr. Presidente da Assembleia da República, Srs. Deputados: Decorridos que vão cinco anos sobre a 'madrugada do 25 de Abril, é tempo de romper o dia, num ideal 25 de Abril que foi prometido ao povo português, no respeito do pluralismo democrático e da sociedade civil \nUm 25 de Abril em que os país vejam com tranquilidade um futuro seguro para os seus filhos, enquadrados por uma escolaridade que, em extensão e competência, não nos envergonhe; em que os jovens encontrem um mercado de trabalho amplo e diversificado, quando chegar a altura de ingressarem na vida activa; em que a prosperidade recompense o trabalho, de modo que o dia de amanhã se}a mais fácil de vencer do que o de hoje; em que os doentes se sintam protegidos, acarinhados e tratados, de modo que rapidamente possam voltar a dar o seu contributo ao esforço social da comunidade; em que as famílias que se constituem encontrem um lar acessível e digno, onde se possam desenvolver e solidificar; em que os velhos e os reformados recebam os cuidados e o carinho que o seu esforço passado justifica e exige - esse 25 de Abril, ainda hoje está por construir.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "1846 I SÉRIE - NÚMERO 52", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: A liberdade e a justiça são duas faces de um mesmo projecto de dignificação do homem.\nComo recentemente recordava em Puebla o Papa João Paulo II, «aqueles sobre quem recai a responsabilidade da vida pública deverão compreender que a paz interna e a paz internacional só estarão asseguradas se tiver vigência um sistema social e económico baseado na justiça».", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "A liberdade e a justiça são duas faces de um mesmo projecto de dignificação do homem.\nComo recentemente recordava em Puebla o Papa João Paulo II, «aqueles sobre quem recai a responsabilidade da vida pública deverão compreender que a paz interna e a paz internacional só estarão asseguradas se tiver vigência um sistema social e económico baseado na justiça».", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Raras são as gerações que tem o privilégio de traçar os destinos de uma pátria. À nossa geração, como já sucedera à de Quinhentos, é-nos exigido que tracemos o destino de Portugal europeu dos séculos vindouros", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Raras são as gerações que tem o privilégio de traçar os destinos de uma pátria. À nossa geração, como já sucedera à de Quinhentos, é-nos exigido que tracemos o destino de Portugal europeu dos séculos vindouros", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Apesar de todas as hesitações, apesar de todos os erros, perplexidades e desencontros que encheram estes cinco anos, o CDS afirma hoje, aqui e com esta solenidade, a certeza de que em breve findará a penumbra em que temos vivido e atingiremos o sol pleno de um ideal 25 de Abril para o povo português, finalmente reencontrado com o seu destino e determinado a reconstruir, com o seu próprio esforço, o desenvolvimento nacional, que, também aqui, é o novo nome da paz, da democracia, da liberdade e da justiça.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Apesar de todas as hesitações, apesar de todos os erros, perplexidades e desencontros que encheram estes cinco anos, o CDS afirma hoje, aqui e com esta solenidade, a certeza de que em breve findará a penumbra em que temos vivido e atingiremos o sol pleno de um ideal 25 de Abril para o povo português, finalmente reencontrado com o seu destino e determinado a reconstruir, com o seu próprio esforço, o desenvolvimento nacional, que, também aqui, é o novo nome da paz, da democracia, da liberdade e da justiça.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o representante do Partido Social-Democrata", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante do Partido Social-Democrata O Sr. Meneres Pimentel (PSD) - Sr. Presidente da República, Sr.Presidente da Assembleia e Srs. Deputados, Sr. Primeiro-Ministro e Srs.membros do Governo, Srs. Conselheiros da Revolução, Srs. Presidente do Supremo Tribunal de Justiça e Procurador-Geral da República, Srs.Convidados: É importante celebrar o 25 da Abril, mas comemorá-lo com serenidade, reflexão e sobriedade, eis o que importará mais neste momento Serenidade e sobriedade que não dispensam a verdade. Pelo contrário, exigem-na.\nNeste quadro tentarei, pois, ser sincero.\nCircunstâncias de vária ordem obrigaram, por motivos patrióticos, à viabilização inicial de um Governo que, apesar de constitucional e legítimo, não emana dos partidos políticos que integram - ou deviam integrar completamente - esta Assembleia. Circunstâncias de vária ordem conduziram, não pelo mesmos motivos, a que cerca de um quinto dos actuais Deputados representassem, aqui, tão-somente as suas próprias personalidades.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Meneres Pimentel (PSD) - Sr. Presidente da República, Sr.Presidente da Assembleia e Srs. Deputados, Sr. Primeiro-Ministro e Srs.membros do Governo, Srs. Conselheiros da Revolução, Srs. Presidente do Supremo Tribunal de Justiça e Procurador-Geral da República, Srs.Convidados: É importante celebrar o 25 da Abril, mas comemorá-lo com serenidade, reflexão e sobriedade, eis o que importará mais neste momento Serenidade e sobriedade que não dispensam a verdade. Pelo contrário, exigem-na.\nNeste quadro tentarei, pois, ser sincero.\nCircunstâncias de vária ordem obrigaram, por motivos patrióticos, à viabilização inicial de um Governo que, apesar de constitucional e legítimo, não emana dos partidos políticos que integram - ou deviam integrar completamente - esta Assembleia. Circunstâncias de vária ordem conduziram, não pelo mesmos motivos, a que cerca de um quinto dos actuais Deputados representassem, aqui, tão-somente as suas próprias personalidades.", 
-   "type": "continuacao"
+   "speaker": "Vozes de Deputados independentes ex-PSD", 
+   "text": "Não apoiado!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes de Deputados independentes ex-PSD: Não apoiado!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Estes factos excepcionais, quando não testados por evidente capacidade política ou por seriedade de processos, exigem soluções de igual excepção ou de mudança.\nA excepção política resulta, como é evidente, de uma anormalidade no funcionamento das instituições. E é sempre esta degenerescência do tecido político que urge estar atento para intervir no momento em que a regeneração ainda é possível. A escolha desse tempo de intervenção constitui, pois, tarefa delicada, em jovens democracias como a nossa. A delicadeza e a gravidade da opção interventora e democrática não devem contribuir, através de demora excessiva, para a tentativa de compatibilizar o que é irreconciliável. De igual modo, devora evitar-se a contemporização ou convivência com a degenerescência. Estas atitudes só podem interessar a quem deseje o desgaste progressivo das instituições democráticas, a quem, com receios, por vezes \nacomodatícias, não suporte a verdadeira confrontação democrática, ou seja, a consulta popular.\nOs sociais-democratas, aqui exclusiva e legitimamente representados pelo Grupo Parlamentar do PSD, não perfilham a tibieza como processo político nem temem dizer a verdade em momentos difíceis como o actual.\nSempre desejaram clareza nos processos, limpidez nas atitudes, sinceridade e frontalidade nas palavras. Repudiam fáceis conformismos, situacionismos ou demagogias.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Estes factos excepcionais, quando não testados por evidente capacidade política ou por seriedade de processos, exigem soluções de igual excepção ou de mudança.\nA excepção política resulta, como é evidente, de uma anormalidade no funcionamento das instituições. E é sempre esta degenerescência do tecido político que urge estar atento para intervir no momento em que a regeneração ainda é possível. A escolha desse tempo de intervenção constitui, pois, tarefa delicada, em jovens democracias como a nossa. A delicadeza e a gravidade da opção interventora e democrática não devem contribuir, através de demora excessiva, para a tentativa de compatibilizar o que é irreconciliável. De igual modo, devora evitar-se a contemporização ou convivência com a degenerescência. Estas atitudes só podem interessar a quem deseje o desgaste progressivo das instituições democráticas, a quem, com receios, por vezes \nacomodatícias, não suporte a verdadeira confrontação democrática, ou seja, a consulta popular.\nOs sociais-democratas, aqui exclusiva e legitimamente representados pelo Grupo Parlamentar do PSD, não perfilham a tibieza como processo político nem temem dizer a verdade em momentos difíceis como o actual.\nSempre desejaram clareza nos processos, limpidez nas atitudes, sinceridade e frontalidade nas palavras. Repudiam fáceis conformismos, situacionismos ou demagogias.", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Há um ano, V. Ex.ª Sr. Presidente da República...", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Há um ano, V. Ex.ª Sr. Presidente da República...", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "O Orador", 
    "text": "Vozes do PS: -Ah! Ah!", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: .. nesta Assembleia, teve oportunidade de afirmar que o momento não autorizava que acto idêntico decorresse sem a sombra de perigos que ameaçavam a obra incompleta da Revolução. Se o Presidente da República, em 1978, falou com esta frontalidade, para que a fé dos portugueses pudesse ser recuperada, ninguém estranhará que, na actual conjuntura, utilize o mesmo processo linear Seja qual for a análise crítica do Presidente da República, por mais errada ou frustrante que nos possa parecer, ninguém duvidará. ao que suponho, da sua intenção democrática. Esta certeza confere-me, assim, uma total tranquilidade para lhe transmitir e a todos os portugueses» as nossas preocupações.\nSerá do exame destas que poderá nascer a nova esperança.\nComo V. Ex.ª disse, também há um ano, o acto do 25 de Abril foi legítimo e autêntico pela intenção democrática que lhe estava subjacente e o seu programa claramente estabelecia e impunha. Só por isso a esmagadora maioria dos portugueses esteve com a revolução libertadora. Mas o povo não precisava que tivessem persistido em libertá-lo com a força e, portanto, sem a razão democrática", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": ".. nesta Assembleia, teve oportunidade de afirmar que o momento não autorizava que acto idêntico decorresse sem a sombra de perigos que ameaçavam a obra incompleta da Revolução. Se o Presidente da República, em 1978, falou com esta frontalidade, para que a fé dos portugueses pudesse ser recuperada, ninguém estranhará que, na actual conjuntura, utilize o mesmo processo linear Seja qual for a análise crítica do Presidente da República, por mais errada ou frustrante que nos possa parecer, ninguém duvidará. ao que suponho, da sua intenção democrática. Esta certeza confere-me, assim, uma total tranquilidade para lhe transmitir e a todos os portugueses» as nossas preocupações.\nSerá do exame destas que poderá nascer a nova esperança.\nComo V. Ex.ª disse, também há um ano, o acto do 25 de Abril foi legítimo e autêntico pela intenção democrática que lhe estava subjacente e o seu programa claramente estabelecia e impunha. Só por isso a esmagadora maioria dos portugueses esteve com a revolução libertadora. Mas o povo não precisava que tivessem persistido em libertá-lo com a força e, portanto, sem a razão democrática", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Foi indispensável a violência libertadora em 25 de Abril dt 1974, mas já foram reprováveis as atitudes unilaterais tomadas em momentos posteriores, designadamente a partir de 12 de Março de 1975.\nSó que forças sectárias pretenderam - e conseguiram, embora \nparcialmente - alterar o programa democrático entregue ao País no dia 26 de Abril e daí a necessidade de outro 25 de Abril libertador que ocorreu, como é reconhecido, geralmente, em 25 de Novembro. Pelas atitudes corajosas e democráticas tomadas por V. Ex.ª. Sr. Presidente da República,", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Foi indispensável a violência libertadora em 25 de Abril dt 1974, mas já foram reprováveis as atitudes unilaterais tomadas em momentos posteriores, designadamente a partir de 12 de Março de 1975.\nSó que forças sectárias pretenderam - e conseguiram, embora \nparcialmente - alterar o programa democrático entregue ao País no dia 26 de Abril e daí a necessidade de outro 25 de Abril libertador que ocorreu, como é reconhecido, geralmente, em 25 de Novembro. Pelas atitudes corajosas e democráticas tomadas por V. Ex.ª. Sr. Presidente da República,", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "26 DE ABRIL DE 1979 1847", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "nessa data a maioria absoluta dos portugueses não hesitou em elegê-lo em 1976 para o exercício das pesadas mas honrosas funções de Presidente da República. Eleição esta que lhe permitiu, com toda a legitimidade, afirmar em 25 de Abril de 1978 que o Presidente da República, eleito por sufrágio universal, tirava «o sentido do seu mandato, directamente, da vontade de quantos nele votaram e que tinham em comum a fidelidade aos valores da democracia pluralista e do Estado de direito capaz de responder às necessidades reais da sociedade portuguesa». Nestas claras pá avias ficou, pois, bem expressa a ligação do general Ramalho Eanes ao seu eleitorado. Assim qualquer atitude posterior de desvinculação não se afigura consentânea com tão impressivos conceitos delineados há um ano somente.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador. - É certo que um Presidente da República, uma vez deito, é o presidente de todos os portugueses, mas não pode, não deve, voltar as costas ao seu eleitorado.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador - Quem assim procede está a criar condições para uma eventual renúncia ao exercício das suas funções, mas o certo é que nenhuma das forças políticas que apoiaram a candidatura do general Ramalho Eanes em 1976 manifestou, até agora, esse desejo.\nNo que diz respeito ao PSD, até se foi mais longe, pois em uma das reuniões do seu conselho nacional deliberou considerar desestabilizador para o processo democrático uma renúncia antecipada do Presidente da República ao exercício do seu mandato. Só que a evolução do processo democrático em Portugal pode vir a aconselhar tomar outras posições firmes, frontais e caras quanto a este aspecto, mas também sempre em defesa da democracia pluralista e da construção de um Estado de direito democrático.\nEm 22 de Setembro de 1978, já depois de ter sido aqui derrubado o III Governo Constitucional, o Sr. Presidente da República foi muito claro ao propor aos partidos várias soluções para a crise então desencadeada.\nCreio não adulterar o sentido dessas propostas se as resumia: nestes termos: ou os partidos com assento parlamentar concluíam um acordo que assegurasse ao Governo base parlamentar maioritária, estável e coerente e fosse julgado adequado à situação política existente pelo Pressente da República, ou esse acordo interpartidário, com validade até 1980, seria concretizado, não de imediato, mas dentro de um prazo em que a realização de eleições antecipadas, que completassem a actual legislatura, ainda tivessem significado político.\nComo se sabe, a hipótese do acordo interpartidário não se tornou possível na altura da crise subsequente ao derrube do III Governo e daí a formação do IV Governo Constitucional, que não se baseou em qualquer consenso nem tão-pouco evoluiu nesse sentido.\nPelo contrário: certas atitudes ou desejos políticos do actual Primeiro-Ministro inutilizaram, na nossa óptica, qualquer hipótese de evolução para um acordo interpartidário. As críticas ao actual espectro partidário, os aplausos à necessidade de formação de um novo agrupamento político foram tão repetidamente insistidas que tudo indica desejar o Sr. Primeiro-Ministro um realinhamento partidário. Mas como tal modificação, no quadro desta Assembleia, só é possível \nconstitucionalmente através de eleições legislativas, afigura-se lícito concluir que o primeiro responsável pelo IV Governo terá aderido ao segundo termo da alternativa formulada pelo Sr. Presidente dia República em 22 de Setembro passado, ou seja a dissolução desta Assembleia.\nAssim todos parecem adoptar ou, peio menos, admitir a necessidade de um acto eleitoral antes do prazo normal, ou seja antes de Outubro de 1980.\nE para que seja útil esta consulta popular, parece evidente a sua urgência.\nInteressará agora viabilizar as eleições, ou melhor, tomá-las mobilizadoras para os Portugueses. Sempre me pareceu que nova campanha eleitoral, sobretudo em momentos de crise social, política e económica muito profunda, só será aceitável se uma larga maioria dos portugueses, através dos seus enquadramentos partidários, conseguir, anteriormente ao acto eleitoral, oferecer um conjunto de soluções correctas e coerentes para ser iniciada a resolução dos grandes problemas deste país.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Vozes do PSD: -Muito bem!", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Se se conseguir formar rapidamente este bloco de ideias e projectos concretos, justos e dotados de pragmatismo, as futuras eleições serão mais de escolha do que de preferência.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Se se conseguir formar rapidamente este bloco de ideias e projectos concretos, justos e dotados de pragmatismo, as futuras eleições serão mais de escolha do que de preferência.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Orador. - Escolha de certo modelo bem definido qualitativa e quantitativamente. Escolha por um Estado ao serviço da sociedade e não o inverso. Escolha pela libertação e criatividade. A preferência partidária \nfar-se-ia, então, em função da ideológica de cada eleitor, tornando o voto mais consente e não meramente estratégico ou útil.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Bento Gonçalves* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Bento Gonçalves", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Mas se isto é possível conseguir em curto espaço de tempo, por que não a celebração de um acorrido interpartidário antes de novo acto eleitoral? \nA resposta é bem simples: o actual xadrez parlamentar resultou de uma campanha eleitoral processada em termos de insegurança e de total desacordo partidário. Mais: os partidos não assumiram o compromisso prévio ao acto eleitoral de só participar em governo com apoio parlamentar maioritário. Daí que as actuais opções políticas dos Portugueses não tenham correspondência com a realidade, também actual, desta Assembleia. Daí a necessidade da sua dissolução.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Mas se isto é possível conseguir em curto espaço de tempo, por que não a celebração de um acorrido interpartidário antes de novo acto eleitoral? \nA resposta é bem simples: o actual xadrez parlamentar resultou de uma campanha eleitoral processada em termos de insegurança e de total desacordo partidário. Mais: os partidos não assumiram o compromisso prévio ao acto eleitoral de só participar em governo com apoio parlamentar maioritário. Daí que as actuais opções políticas dos Portugueses não tenham correspondência com a realidade, também actual, desta Assembleia. Daí a necessidade da sua dissolução.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Se o novo acto eleitoral decorrer sob o signo da mudança e da reconstrução da sociedade, parece evidente que os inconvenientes, sempre de ponderar, de eleições intercalares serão largamente superadas pela aquisição de uma autêntica estabilidade governativa.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "1848 I SÉRIE - NÚMERO 52", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Ao Presidente da República importa menos quem governa e mais como se governa. Esta afirmação, aqui produzida há um ano, mantém todo o peso de uma síntese já transportada de Mouzinho da Silveira. Deverá ser, pois, indiferente ao Presidente da República procurar antever a maioria ou as maiorias que se formarão após um acto eleitoral \nJá, porém, não será indiferente ao Presidente da República saber se antes da dissolução da Assembleia os partidos se comprometem a participar somente em governos com apoio parlamentar maioritário, estável e coerente. Este compromisso, pela nossa parte, aqui fica adiantado, mas sem qualquer desejo incontrolado de acesso ao Poder.\nApenas o contributo para a tão falada e desejada estabilidade governativa.\nBem sabemos que os Portugueses preferem a razão e a prudência à linguagem da emoção e das promessas demagógicas que, como as do passado, são impossíveis de cumprir. E por assim ser, admitamos que o actual Governo continue, ainda que só para preparar eleições, mas desde que seja assegurado um mínimo de respeito pelas formações partidárias e a satisfação de algumas necessidades fundamentais.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Não se percebe, por exemplo, como e que o Governo ainda mão providenciou, antes mesmo de aprovado novo Orçamento, pela aprovação de uma lei que regule aspectos essenciais como os da cobrança de impostos imediatos com taxas novas, o do financiamento às autarquias locais e outros. Não se percebe também como é que o Governo, ou paute dele, procura instalar a sua máquina de propaganda como se pudesse concorrer como tal a novas eleições.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Não se percebe, por exemplo, como e que o Governo ainda mão providenciou, antes mesmo de aprovado novo Orçamento, pela aprovação de uma lei que regule aspectos essenciais como os da cobrança de impostos imediatos com taxas novas, o do financiamento às autarquias locais e outros. Não se percebe também como é que o Governo, ou paute dele, procura instalar a sua máquina de propaganda como se pudesse concorrer como tal a novas eleições.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Apesar de tudo, o PSD, consciente das suas \nresponsabilidades, não se colocará, para já, em posição de hostilidade ao IV Governo, mas também não o apoiará. Aguardará com serenidade a evolução do processo político, e se nada for feito para regenerar as instituições democráticas, então, sim, usará de todos os meios constitucionais ao seu alcance para combater a apatia que tomou conta de grandes faixas de diversas classes sociais.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Apesar de tudo, o PSD, consciente das suas \nresponsabilidades, não se colocará, para já, em posição de hostilidade ao IV Governo, mas também não o apoiará. Aguardará com serenidade a evolução do processo político, e se nada for feito para regenerar as instituições democráticas, então, sim, usará de todos os meios constitucionais ao seu alcance para combater a apatia que tomou conta de grandes faixas de diversas classes sociais.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Assumirá as responsabilidades que lhe cabem e não receará todas as campanhas que meios oficiais ou governamentais lhe \ndesencadearem.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Assumirá as responsabilidades que lhe cabem e não receará todas as campanhas que meios oficiais ou governamentais lhe \ndesencadearem.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Mais valerá perder a popularidade fácil do que \ncomparticipar em processos degenerativos. O caminho,«para a recuperação material e para a ordem cívica» não pode correr o risco de «acabar na miséria e no caos». Mas não é com contemporizações fáceis nem com subserviências inúteis que se evitará esta miséria e este caos.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Mais valerá perder a popularidade fácil do que \ncomparticipar em processos degenerativos. O caminho,«para a recuperação material e para a ordem cívica» não pode correr o risco de «acabar na miséria e no caos». Mas não é com contemporizações fáceis nem com subserviências inúteis que se evitará esta miséria e este caos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: O projecto de salvação nacional prometido em 25 de Abril terá de ser assegurado pela concórdia e pela conciliação, mas não por cedências Cedências a qualquer tipo de intromissões mil tares no poder democrático civil. Cedências a qualquer tipo de demagogia fácil encoberta por pretenso realismo não efectivado. Cedências a forças sectárias e não patrióticas. Cedências à tentação do acesso fácil ao Poder. Cedências à imoralidade, à falta de transparência dos processos de actuação, à ambiguidade de um Governo no apartidário, mas em que parte dele parece apostado em projectos político-partidários. Será no terreno da confrontação democrática que se poderão definir as capacidades técnico-politicas e que se deverão regenerar as \ninstituições democráticas. Estas não se desgastam quando servidas por pessoas capazes e dotadas de representatividade.\nA legitimação popular é condição da sobrevivência democrática. O individualismo conduz ao sectarismo, ao afrontamento e não ao confronto saudável e, portanto, democrático.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O projecto de salvação nacional prometido em 25 de Abril terá de ser assegurado pela concórdia e pela conciliação, mas não por cedências Cedências a qualquer tipo de intromissões mil tares no poder democrático civil. Cedências a qualquer tipo de demagogia fácil encoberta por pretenso realismo não efectivado. Cedências a forças sectárias e não patrióticas. Cedências à tentação do acesso fácil ao Poder. Cedências à imoralidade, à falta de transparência dos processos de actuação, à ambiguidade de um Governo no apartidário, mas em que parte dele parece apostado em projectos político-partidários. Será no terreno da confrontação democrática que se poderão definir as capacidades técnico-politicas e que se deverão regenerar as \ninstituições democráticas. Estas não se desgastam quando servidas por pessoas capazes e dotadas de representatividade.\nA legitimação popular é condição da sobrevivência democrática. O individualismo conduz ao sectarismo, ao afrontamento e não ao confronto saudável e, portanto, democrático.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Só se pode confrontar quem dispuser de um mínimo de legitimidade democrática adquirida pelo sufrágio. Qualquer outra atitude representará arrogância insuportável em democracia.\nHá que recuperar a imagem, dos partidos perante a opinião púbica, mas para tanto será indispensável conferir-lhes a oportunidade máxima dessa recuperação. Não é através de pretensas acções pedagógicas, oriundas de quem não possui inserção popular; não é através de tentativas de desertificação política; não é através de atitudes, mais ou menos poujadistas, que se recuperará a liberdade na segurança.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Só se pode confrontar quem dispuser de um mínimo de legitimidade democrática adquirida pelo sufrágio. Qualquer outra atitude representará arrogância insuportável em democracia.\nHá que recuperar a imagem, dos partidos perante a opinião púbica, mas para tanto será indispensável conferir-lhes a oportunidade máxima dessa recuperação. Não é através de pretensas acções pedagógicas, oriundas de quem não possui inserção popular; não é através de tentativas de desertificação política; não é através de atitudes, mais ou menos poujadistas, que se recuperará a liberdade na segurança.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: É sim, com trabalho denodado, com competência e espírito de serviço que se retomará a dignidade paira Portugal e para os Portugueses.\nQualquer força política responsável só poderá prometer mais sacrifícios e trabalho, especialmente no sector público. Sacrifícios, porém, distribuídos com justiça e equidade, trabalho eficaz e não vazo de conteúdo, embora revestido de dilúvio de palavras. Não é com estas que se restituirá a confiança no regime democrático e pluralista. É com acções despidas de desejos de promoção pessoal. A política não serve os políticos. Estes é que, arrancando de um sentimento popular, se devem voltar paira o País.\nSó assim será possível comemorar com segurança a Constituição da liberdade. Só assim importa, ao que penso, vitoriar o 25 de Abriu.\nEstes os nossos propósitos.\nDeus permita que eles obtenham eficácia.\nCom humildade, com sacrifício, com simplicidade e com trabalho, acreditemos na liberdade e no regime democrático pluralista.\nAs nossas responsabilidades aqui ficam bem expressas. V. Ex.ª Sr.Presidente da República, assumirá as suas com a frontalidade que os portugueses esperam.\nAs minhas últimas palavras destinam-se exclusivamente àqueles que em Portugal ainda vivem em condições sub-humanas, longe de qualquer favor do pró-", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "É sim, com trabalho denodado, com competência e espírito de serviço que se retomará a dignidade paira Portugal e para os Portugueses.\nQualquer força política responsável só poderá prometer mais sacrifícios e trabalho, especialmente no sector público. Sacrifícios, porém, distribuídos com justiça e equidade, trabalho eficaz e não vazo de conteúdo, embora revestido de dilúvio de palavras. Não é com estas que se restituirá a confiança no regime democrático e pluralista. É com acções despidas de desejos de promoção pessoal. A política não serve os políticos. Estes é que, arrancando de um sentimento popular, se devem voltar paira o País.\nSó assim será possível comemorar com segurança a Constituição da liberdade. Só assim importa, ao que penso, vitoriar o 25 de Abriu.\nEstes os nossos propósitos.\nDeus permita que eles obtenham eficácia.\nCom humildade, com sacrifício, com simplicidade e com trabalho, acreditemos na liberdade e no regime democrático pluralista.\nAs nossas responsabilidades aqui ficam bem expressas. V. Ex.ª Sr.Presidente da República, assumirá as suas com a frontalidade que os portugueses esperam.\nAs minhas últimas palavras destinam-se exclusivamente àqueles que em Portugal ainda vivem em condições sub-humanas, longe de qualquer favor do pró-", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "26 DE ABRIL DE 1979 1849", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "gresso e da chamada civilização material; àqueles que, apesar de tudo isto e certamente por causa disto, nos dão lições diárias de independência de carácter e de democracia; àqueles que nos olham com alguma indiferença e certa descrença. Para esses vai o nosso apelo; para esses deve ir a nossa disponibilidade gratuita e não sectária. Com eles reconstruiremos Portugal; com eles recuperaremos a esperança e a fé nos caminhos da liberdade, da solidariedade e da justiça.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o representante do Partido Socialista.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante do Partido Socialista.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Herculano Pires* (PS): Sr. Presidente da República, Sr.Presidente da Assembleia da República, Sr. Primeiro-Ministro, Sr.Presidente do Supremo Tribunal de Justiça, Srs. Conselheiros da Revolução, Srs. Deputados, Senhoras e Senhores: O Partido Socialista associa-se, com inequívoca e clara sinceridade, à celebração do 5.º aniversário da Revolução de Abril. Para os socialistas, a data que hoje comemoramos representou o coroar de uma luta que, sendo também de outros, for empenhadamente sua.\nNa verdade, o Movimento dos Capitães de Abriu, entendido na sua perspectiva histórica, é menos um acto de pronunciamento militar do que um impulso de consciência colectiva, adequadamente interpretado pelos elementos mais progressistas das forças armadas. Aos militares de Abril prestamos aqui a nossa homenagem.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Herculano Pires", 
+   "text": "Sr. Presidente da República, Sr.Presidente da Assembleia da República, Sr. Primeiro-Ministro, Sr.Presidente do Supremo Tribunal de Justiça, Srs. Conselheiros da Revolução, Srs. Deputados, Senhoras e Senhores: O Partido Socialista associa-se, com inequívoca e clara sinceridade, à celebração do 5.º aniversário da Revolução de Abril. Para os socialistas, a data que hoje comemoramos representou o coroar de uma luta que, sendo também de outros, for empenhadamente sua.\nNa verdade, o Movimento dos Capitães de Abriu, entendido na sua perspectiva histórica, é menos um acto de pronunciamento militar do que um impulso de consciência colectiva, adequadamente interpretado pelos elementos mais progressistas das forças armadas. Aos militares de Abril prestamos aqui a nossa homenagem.\nAplausos do PS, do PCP, da UDP, de Deputados independentes do PSD e do Deputado independente Vasco da Gama Fernandes.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Aplausos do PS, do PCP, da UDP, de Deputados independentes do PSD e do Deputado independente Vasco da Gama Fernandes.", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Herculano Pires", 
    "text": "Certo que alguns terão lutado por uma aragem de liberdade, sem que a esta luta se tivesse juntado o desejo sincero das reformas sociais de que a Revolução de Abril se tornou mensageira. Outros terão lutado por transformações mais profundas, dispostos a sacrificar-lhes a liberdade.\nPor nós, socialistas, temas a consciência de termos sido dos mais genuínos intérpretes do espírito de Abril.\nDefendendo as reformas sociais compatíveis com a salvaguarda das liberdades, dispostos a garantir aquelas por forma que estas não fossem postas em causa, antes e depois de Abril, dizemo-lo sem hesitação, fomos dos intérpretes autênticos dos anseios colectivos do povo português que no 1.º de Maio de 1974 saiu à rua de mãos dadas e de cravo vermelho na lapela.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: E se devemos comungar com outros na glória de termos ajudado a possibilitar Abril, é com o povo anónimo (que nos apoiou com o calor do seu entusiasmo e a determinação da sua vontade) que julgamos dever compartilhar outra glória: a de termos salvado Abril.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "E se devemos comungar com outros na glória de termos ajudado a possibilitar Abril, é com o povo anónimo (que nos apoiou com o calor do seu entusiasmo e a determinação da sua vontade) que julgamos dever compartilhar outra glória: a de termos salvado Abril.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Por isso, aqui estamos hoje para dizer a este povo que nos mantemos fiéis ao Abril que temos sido, ao Abril que continuaremos a ser.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Por isso, aqui estamos hoje para dizer a este povo que nos mantemos fiéis ao Abril que temos sido, ao Abril que continuaremos a ser.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Sr. Presidente, Srs. Deputados: Os ideais de Abril foram algumas vezes objecto de claras manipulações que, a terem surtido êxito, conduziriam em linha recita à sua desfiguração. Pela nossa parte, queremos alarmar claramente que não alinhamos nem nos comprometeremos em jogos de tracção. Não somos imobilistas. Mas não permutaremos que o justo e desejável equilíbrio entre os valores da liberdade e da igualdade possa ser subvertido em nome de radicalismos \nescravizantes.\nCom esta atitude de intransigência, fazemos nós coincidir o socialismo democrático de que nos reclamamos, tendo em vista a realização da justiça social, que constitui a mais funda ansiedade da maioria esmagadora dos portugueses.\nE aqui caberá perguntar: que povo éramos antes de 25 de Abril de 1974? \nUm povo dividido pelo medo e pela desconfiança, surdo aos grandes apelos colectivos, que perdia os seus filhos em três frentes de batalha. Um povo que emigrava para comer e, por último, para não morrer ou não matar. Um povo que dependia economicamente de mercados coloniais, com a inconsistência e o preço de uma guerra que não podia ser ganha e cada vez mais se perdia. Um povo vítima de um regime que a comunidade das nações execrava e isolava, porque totalitário, porque praticava o colonialismo agressivo, porque tinha por suportes uma polícia política feroz e uma censura implacável. Nestas condições, tocou as raias do milagre a ausência de sangrentos ajustes de contas e a institucionalização pacífica, pelo voto livre e ordeiro, de uma autêntica democracia.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Democracia que é política e é económica, tal como a define a Constituição da República, ou seja, como um Estado democrático de direito, em que assumem particular relevo e significado a sujeição do Estado à lei, a separação dos poderes, a independência dos tribunais e a sempre generosa consagração dos direitos, liberdade e garantias, inscritos nas chamadas declarações universais de direitos, além de outros de natureza económica e social.\nE tudo isto na linha de um empenhamento equilibrado e harmónico na realização do socialismo democrático, que o mesmo é dizer da liberdade e da justiça social.\nDe sinal positivo foram também a paz conseguida, a descolonização (que dificilmente podia ter sido melhor nas condições em que teve de ser feita), a consequente recuperação do nosso lugar no concerto e no conceito dais nações, a reintegração dos retornados na sociedade e na economia da metrópole, a definição de uma política de integração europeia, a recuperação da confiança dos emigrantes e a criação progressiva de uma autoridade democrática a todos os níveis.\nE bom será realçar que tudo foi realizado sem apelo a violências que não tenham podido ser neutralizadas, sem subverter os hábitos dos Portugueses e sem des-", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "1850 I SÉRIE - NÚMERO 52", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "respeitar as suas crenças, os seus sentimentos, os seus valores.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Tivemos, é certo, acidentes de percurso. Mas hoje é dia de alegria e de festa. E nos dias festivos deve realçar-se o lado positivo da história.\nMeditemos no bem que foi e no mal que podia ter sido. Meditemos, sobretudo, no mal que deixou de ser.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Vozes do PS: -Muito bem!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: E daqui devemos dizer aos que sonham com o regresso ao passado, porque tem alma de escravos ou não se resignam a não escravizar os outros, que estamos atentos às suas manobras.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "E daqui devemos dizer aos que sonham com o regresso ao passado, porque tem alma de escravos ou não se resignam a não escravizar os outros, que estamos atentos às suas manobras.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Que nos encontram vigilantes sempre que atacam a Constituição, acusando-a, falsamente, de responsável por todas as nossas \ndificuldades, e procurando \nrevê-la por métodos inconstitucionais, ou seja, à revelia do que nela se dispõe.\nQue nos encontram despeitos sempre que atacam esta Assembleia, tratando-a com o mesmo desprezo com que durante meio século encararam o povo nela legitimamente representado.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Que nos encontram alerta sempre que atacam os partidos, as ideologias, em suma, a política, em nome de uma simulada independência, de uma tecnocracia comprometida ou de um falso administrativismo burocrático.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Que nos encontram alerta sempre que atacam os partidos, as ideologias, em suma, a política, em nome de uma simulada independência, de uma tecnocracia comprometida ou de um falso administrativismo burocrático.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Que nos encontram vigilantes sempre que atacam Abril e o que ele representa no coração dos Portugueses que querem continuar a ser livres: a democracia, a justiça social, liberdade!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Que nos encontram vigilantes sempre que atacam Abril e o que ele representa no coração dos Portugueses que querem continuar a ser livres: a democracia, a justiça social, liberdade!", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Em defender Abril reside, no fim de contas, a melhor forma de lhe prestar homenagem.\nEstamos aqui para dizer aos responsáveis pela tentativa de afastamento dia área do poder daqueles que o povo escolheu paira exercê-lo, que já chega de demonstração da evidência de que não há situação sem os partidos e muito menos contra eles, que o mesmo é dizer contra o povo e a sua soberana vontade.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS e do Sr. Deputado Lacerda de Queirós (PSD).", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Para lhes dizer que, se essa demonstração se tornou episodicamente necessária, está mais que feita e maus que pago o duro preço no retrocesso que tivemos de pagar por ela.\nPara lhes dizer que o povo sabe que em democracia os partidos são por toda a parte reconhecidos como organizações eminentemente necessárias à definição das grandes linhas de orientação e de pragmática política que possibilita ao eleitorado opções conscientes. Que são, cada vez mais, condição de vivência democrática e cada vez menos simples máquinas eleitorais, digam o que descerem os falsas «Messias», que tão depressa juram a inutilidade das organizações partidárias como defendem a criação de mais algumas ou se propõem criá-las eles próprios.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS e do Sr. Deputado Lacerda de Queirós (PSD).", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Para lhes dizer que quando pretendem que a actuai composição desta Assembleia ou o texto da Constituição já não representam a vontade popular, nós temos a certeza de que não são democratas, porque um verdadeiro democrata não põe em causa a representatividade de um mandatário do povo antes do termo constitucional do seu mandato.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "A vontade popular não pode ser ou deixar de ser acatada ao sabor dos oportunismos e das ambições dos que, no fundo, a não respeitam. Os que lhe recusarem acatamento colocam-se fora das instituições e da prática democrática. Continuarão a ter lugar entre nós porque é próprio da democracia procurar estabelecer a concórdia entre todos os portugueses.\nMas sabendo-se que a não querem, para que o povo, na hora de escolher os seus representantes, claramente os distinga dos que sinceramente a amam.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "r. Presidente, Srs. Deputados: Quis o Partido Socialista que as comemorações de Abril pudessem ficar assinaladas por um acto de pacificação e de clemência.\nQuatro anos volvidos sobre o 11 de Março, e mais de três decorridos sobre o 25 dia Novembro, sem que os responsáveis pelos respectivos actos tenham sido julgados, como podiam e deviam ter sido, carece hoje de sentido julgá-los. Pelo contrário, ganha sentido um gesto de definitiva pacificação da família portuguesa, hoje suficientemente protegida de actos semelhantes por forças armadas moralizadas e conscientes do papel que em democracia lhes cabe.\nDaí o projecto de lei de amnistia de que o Partido Socialista tomou a iniciativa e assumiu a responsabilidade, e que nesta Assembleia foi aprovado por maioria. Projecto que patrocinou tanto mais à vontade quanto é cento que o gesto de esquecimento nele proposto se aplica fundamentalmente a dois actos de sinal contrário, sem que em nenhum deles tenha estado envolvido.\nNão impediu isso que, em nome de um pretenso justicialismo, que em alguns casos mal disfarçou preocupações de vingança, se tenham ouvido vozes acusando o projecto de desestabilizador e até de \ninconstitucional. É manifesto que desestabilizadores seriam os julgamentos feitos com tanto atraso, e que só esta Assembleia tem competência político-legistiva para conceder amnistias.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Seja como for, ou melhor, como vier a ser, o Partido Socialista cumpriu o seu dever, como aliás o cumpriu esta Assembleia.\nTanto quanto quis foi que ao dia de hoje ficasse ligada uma iniciativa que constitui de certo a melhor homenagem que à Revolução de Abril pode ser prestada: a de consagrar como Revolução sem ódio, sem revanchismos, a unir os Portugueses num caloroso", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Seja como for, ou melhor, como vier a ser, o Partido Socialista cumpriu o seu dever, como aliás o cumpriu esta Assembleia.\nTanto quanto quis foi que ao dia de hoje ficasse ligada uma iniciativa que constitui de certo a melhor homenagem que à Revolução de Abril pode ser prestada: a de consagrar como Revolução sem ódio, sem revanchismos, a unir os Portugueses num caloroso", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "26 DE ABRIL DE 1979 1851", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "apelo à solidariedade e à fraternidade, na liberdade e na paz.\nViva o 25 de Abril.\nViva Portugal.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Presidente da República, Srs. Conselheiros da Revolução, Srs. Deputados, Sr. Primeiro-Ministro e Srs. Membros do Governo, Sr. Presidente do Supremo Tribunal de Justiça, Sr.Procurador-Geral da República, minhas Senhoras e meus Senhores: Antes de mais, é-me grato saudar a presença aqui de S. Ex.ª o Sr. Presidente da República.\nO 25 de Abril assinala a reconquista, pelo povo português, da liberdade e da democracia, da dignidade e do exercício dos direitos de cidadania.\nPor isso, não há melhor quadro de fundo para a sua comemoração do que a presença simultânea dos dois órgãos de soberania que directamente decorrem do sufrágio popular: o Presidente da República e a Assembleia da República.\nV. Ex.ª, Sr. Presidente, exerce as suas altas funções porque tal foi a vontade deste povo. A sua presença, como a dos Deputados do povo, é a afirmação de que o regime iniciado em 25 de Abril continua a ver na vontade popular, livremente expressa no voto, a verdadeira fonte de legitimidade e a sua linha orientadora.\nMas pondero também uma outra circunstância. É que precisamente por serem as instituições mais inerentes à democracia, o Presidente da República e a \nAssembleia foram os órgãos mais desvirtuados pelo salazarismo. Em lugar de órgãos representativos da vontade do povo, foram órgãos \nrepresentativos da vontade do ditador. Em lugar de exercerem um poder autónomo, que limitasse ou condicionasse o poder do Governo, nada mais fizeram do que aplaudir os actos da Administração. Por isso, para que o corte com o passado seja devidamente sublinhado nesta data, parece-me essencial que o Presidente da República e a Assembleia da República se juntam e colaborem nesta celebração.\nSr. *Presidente*: Coube a V. Ex.ª a honrosa responsabilidade de ser o primeiro Presidente eleito livremente após meio século de ditadura.\nCabe a V. Ex.ª a histórica missão de presidir à consolidação do regime democrático e à defesa dos seus valores essenciais. O povo português confiou a V. Ex.ª os seus propósitos e a sua vontade, certo de que em V. Ex.ª não falta a capacidade, nem esmorece a vontade.\nQuero dar-lhe aqui o testemunho de que esta Assembleia, depositária também do mandato colectivo, está e estará na primeira linha da necessária colaboração institucional para que tais valores vinguem e para que a democracia, seja definitivamente o modo de viver ,em Portugal.\nComemoramos hoje, pela quinta vez, o 25 de Abril. As duas primeiras comemorações celebrou-as o povo português da maneira mais \nsignificativa, isto é, votando em liberdade.\nA partir de 1977 foi aqui que festejámos essa data, nesta Assembleia que só ela tornou possível.\nCinco anos é tempo bastante para que as palavras vão perdendo o seu encanto. Para aqueles de nós que conseguiram esperar meio século pela liberdade, \nsenti-la hoje à sua volta é o bastante para não desesperarem da solução dos problemas e da remoção das dificuldades que a implantação e consolidação de uma democracia em Portugal necessariamente implica.\nMas nem todos encaram a data do 25 de Abril na perspectiva de cinquenta anos de luta. Uns, porque o tempo que têm de vida lhes não chegou para tanto. Outros, porque só depois de anos ou décadas descobriram o que era o salazarismo e só então despertaram para a lula. Outros ainda, porque se resignaram cedo de mais, rendidos às sucessivas derrotas dos combatentes da liberdade, vendo os amigos presos ou exilados, verificando que nem o passar das décadas impedia o triunfo da força sobre a razão e cruzaram os braços, vencidos antes do tempo. Outros, enfim, porque nem chegaram a lutar: homens para quem o incómodo da ditadura não estava na privação da sua liberdade, na anulação da dignidade de um povo, antes se resumia ao problema técnico da incapacidade do regime para fazer face às necessidades do \ndesenvolvimento económico e da integração de Portugal no concerto das nações modernas - estes limitaram-se a aguardar que o salazarismo caísse por si para dar lugar a qualquer regime mais sensível àquelas necessidades.\nTodos estes que enumerei tem razões pessoais para mais facilmente desesperarem do que a democracia ainda não conseguiu e para mais facilmente esquecerem tudo aquilo que ela já nos deu. Para todos eles, ainda que por razões diversas, o combate sempre e sempre renovado, porque sempre e sempre baldado, o combate contra os opressores deste povo foi um episódio das suas vidas. Um episódio entre muitos. Não o esquecem, nem o renegam, mas não podem identificar com ele a sua razão de existir.\nAqueles, porém, que lutaram cinquenta anos pela liberdade não cedem tão facilmente à impaciência, porque melhor conhecem o valor daquilo que com ela podam perder. São homens experimentados por uma longa adversidade. O apogeu das suas vidas já lá vai: consumiu-o esse imenso rosário de vitórias morais que foram derrotas sentidas na carne, ou seja, essa Interminável Juta, aparentemente sem sentido, para conseguir aquilo mesmo que hoje aqui celebramos. Não terão, por isso, hoje, as qualidades da vitalidade e energia dos políticos jovens. Não terão também a actualização cultural e até a preparação técnica que felizmente são correntes entre os melhores das gerações que lhes sucederam.\nMas, por uma vez, estão em vantagem sobre os jovens. E essa vantagem é estarem por instituto mais próximos da visão da História. Essa é a enorme diferença entre os que apostam na democracia como um futuro mais cheio de melhores oportunidades de realização pessoal e colectiva e os que contavam um por um os quarenta e oito anos da ditadura, só parando a contagem quando já não havia futuro pessoal em que apostar. Para estes, a vida está vivida: trata-se apenas de olhá-la como algo que valeu a pena. Mas não é preciso enganarem-se a si próprios, porque já não são parte interessada no que está para vir.\nO ocaso da vida dá conselhos que nenhuma ciência substitui. E para os velhos combatentes, é uma evidência que não se constrói em cinco anos um templo de liberdade sobre os escombros da prisão que levou cinquenta a destruir.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Presidente da República, Srs. Conselheiros da Revolução, Srs. Deputados, Sr. Primeiro-Ministro e Srs. Membros do Governo, Sr. Presidente do Supremo Tribunal de Justiça, Sr.Procurador-Geral da República, minhas Senhoras e meus Senhores: Antes de mais, é-me grato saudar a presença aqui de S. Ex.ª o Sr. Presidente da República.\nO 25 de Abril assinala a reconquista, pelo povo português, da liberdade e da democracia, da dignidade e do exercício dos direitos de cidadania.\nPor isso, não há melhor quadro de fundo para a sua comemoração do que a presença simultânea dos dois órgãos de soberania que directamente decorrem do sufrágio popular: o Presidente da República e a Assembleia da República.\nV. Ex.ª, Sr. Presidente, exerce as suas altas funções porque tal foi a vontade deste povo. A sua presença, como a dos Deputados do povo, é a afirmação de que o regime iniciado em 25 de Abril continua a ver na vontade popular, livremente expressa no voto, a verdadeira fonte de legitimidade e a sua linha orientadora.\nMas pondero também uma outra circunstância. É que precisamente por serem as instituições mais inerentes à democracia, o Presidente da República e a \nAssembleia foram os órgãos mais desvirtuados pelo salazarismo. Em lugar de órgãos representativos da vontade do povo, foram órgãos \nrepresentativos da vontade do ditador. Em lugar de exercerem um poder autónomo, que limitasse ou condicionasse o poder do Governo, nada mais fizeram do que aplaudir os actos da Administração. Por isso, para que o corte com o passado seja devidamente sublinhado nesta data, parece-me essencial que o Presidente da República e a Assembleia da República se juntam e colaborem nesta celebração.\nSr. *Presidente*: Coube a V. Ex.ª a honrosa responsabilidade de ser o primeiro Presidente eleito livremente após meio século de ditadura.\nCabe a V. Ex.ª a histórica missão de presidir à consolidação do regime democrático e à defesa dos seus valores essenciais. O povo português confiou a V. Ex.ª os seus propósitos e a sua vontade, certo de que em V. Ex.ª não falta a capacidade, nem esmorece a vontade.\nQuero dar-lhe aqui o testemunho de que esta Assembleia, depositária também do mandato colectivo, está e estará na primeira linha da necessária colaboração institucional para que tais valores vinguem e para que a democracia, seja definitivamente o modo de viver ,em Portugal.\nComemoramos hoje, pela quinta vez, o 25 de Abril. As duas primeiras comemorações celebrou-as o povo português da maneira mais \nsignificativa, isto é, votando em liberdade.\nA partir de 1977 foi aqui que festejámos essa data, nesta Assembleia que só ela tornou possível.\nCinco anos é tempo bastante para que as palavras vão perdendo o seu encanto. Para aqueles de nós que conseguiram esperar meio século pela liberdade, \nsenti-la hoje à sua volta é o bastante para não desesperarem da solução dos problemas e da remoção das dificuldades que a implantação e consolidação de uma democracia em Portugal necessariamente implica.\nMas nem todos encaram a data do 25 de Abril na perspectiva de cinquenta anos de luta. Uns, porque o tempo que têm de vida lhes não chegou para tanto. Outros, porque só depois de anos ou décadas descobriram o que era o salazarismo e só então despertaram para a lula. Outros ainda, porque se resignaram cedo de mais, rendidos às sucessivas derrotas dos combatentes da liberdade, vendo os amigos presos ou exilados, verificando que nem o passar das décadas impedia o triunfo da força sobre a razão e cruzaram os braços, vencidos antes do tempo. Outros, enfim, porque nem chegaram a lutar: homens para quem o incómodo da ditadura não estava na privação da sua liberdade, na anulação da dignidade de um povo, antes se resumia ao problema técnico da incapacidade do regime para fazer face às necessidades do \ndesenvolvimento económico e da integração de Portugal no concerto das nações modernas - estes limitaram-se a aguardar que o salazarismo caísse por si para dar lugar a qualquer regime mais sensível àquelas necessidades.\nTodos estes que enumerei tem razões pessoais para mais facilmente desesperarem do que a democracia ainda não conseguiu e para mais facilmente esquecerem tudo aquilo que ela já nos deu. Para todos eles, ainda que por razões diversas, o combate sempre e sempre renovado, porque sempre e sempre baldado, o combate contra os opressores deste povo foi um episódio das suas vidas. Um episódio entre muitos. Não o esquecem, nem o renegam, mas não podem identificar com ele a sua razão de existir.\nAqueles, porém, que lutaram cinquenta anos pela liberdade não cedem tão facilmente à impaciência, porque melhor conhecem o valor daquilo que com ela podam perder. São homens experimentados por uma longa adversidade. O apogeu das suas vidas já lá vai: consumiu-o esse imenso rosário de vitórias morais que foram derrotas sentidas na carne, ou seja, essa Interminável Juta, aparentemente sem sentido, para conseguir aquilo mesmo que hoje aqui celebramos. Não terão, por isso, hoje, as qualidades da vitalidade e energia dos políticos jovens. Não terão também a actualização cultural e até a preparação técnica que felizmente são correntes entre os melhores das gerações que lhes sucederam.\nMas, por uma vez, estão em vantagem sobre os jovens. E essa vantagem é estarem por instituto mais próximos da visão da História. Essa é a enorme diferença entre os que apostam na democracia como um futuro mais cheio de melhores oportunidades de realização pessoal e colectiva e os que contavam um por um os quarenta e oito anos da ditadura, só parando a contagem quando já não havia futuro pessoal em que apostar. Para estes, a vida está vivida: trata-se apenas de olhá-la como algo que valeu a pena. Mas não é preciso enganarem-se a si próprios, porque já não são parte interessada no que está para vir.\nO ocaso da vida dá conselhos que nenhuma ciência substitui. E para os velhos combatentes, é uma evidência que não se constrói em cinco anos um templo de liberdade sobre os escombros da prisão que levou cinquenta a destruir.\n1852", 
+   "type": "presidente"
   }, 
   {
-   "text": "1852", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "I SÉRIE - NUMERO 52", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não o digo aqui com a autoridade moral dos que derrubaram o fascismo, porque não o derrubámos. Não que nos faltasse a vontade ou que desprezássemos quaisquer sacrifícios para isso, mas porque, mesmo que uma obra dessas pudesse ser feita por um pequeno grupo, sempre nos faltou uma força igual à razão que nos assistia: unira força feita de coragem e lucidez, é certo, mas também, mais precisamente, feita de armas. Não fui eu, não fomos nós, quem derrubou o fascismo.\nEssa fase longa saga do povo português, uma resistência discreta mas firme, um interminável ranger de dentes em silêncio, pontuado por heróicos sacrifícios de alguns dos seus melhores filhos, com os quais se alimentava a chama da Luta.\nFoi esse povo, que aqui nos cumpre representar, foi o homem da rua, o homem dos escritórios, o camponês e o operário anónimos, que voltaram a caíra à ditadura e que, ao fazê-lo, a desmascararam como um corpo estranho à Nação.\nFoi o seu implacável veredicto moral que tornou insustentável a pôs cão do regime. Faltava apenas encontrar quem estivesse disposto a encarnar a não pequena glória de ser o seu executor. Alguém dispondo da energia, da audácia e dos meios, mas sobretudo da rara capacidade para investir o sentido de uma vida inteira numa só decisão irreversível. Bis o que fez a glória dos jovens capitães de Abri de 1974.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PS, do PSD, da UDP e dos deputados independentes ex-PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Disse-vos aqui, há pouco tempo, quando comentámos o aniversário da Constituição, que saudava os capitães de Abril, independentemente das opções que cada um deles mais tarde, vira a tomar. Umas dessas opções ter-nos-ão merecido concordância, outras não - e nós próprios não coincidimos nessa apreciação. Mais os capitães de Abril são todos eles, porque é nesse momento que a História os vai reter e nesse momento, eles mas todos eles souberam ser a consciência e a vontade do seu povo.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PS, do PSD, dai UDP e dos deputados independentes ex-PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Machado dos. Santos é a Rotunda, e não cada uma das discutíveis opções que, antes e depôs do 5 de Outubro, ele possa ter tornado na Carbonária ou nas hostes democráticas em gerai; como Churohill foi a Batalha de Inglaterra e a derrota doa fascismos e não cada uma das tricas palacianas que possam ter orientado alguns dos deus despachos.\nNesta data, que importa o que cada um desses homens diz ou pensa do gesto de um político ou da declaração de um governante? Nesta data e perante a História, que importa o que divide esses homens, se eles - quer o que quer não - estão irmanados no seu significado, amarrados aquele momento histórico que, além de ser a memória das suas vidas, é um marco na memória deste povo?", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PS e do PCP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Nesta data perante a História, que sentido e que alcance podem ter as fechadas que contra estes homens arremessem aqueles de quem a mesma História nunca terá ocasião de se ocupar?", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Nesta data, saibamos parar um pouco acima do conjuntural.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Multo bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Multo bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Este povo soube merecer a Liberdade. Temo-la nos braços.\nNão há melhor ponto de partida para construir um futuro colectivo digno de ser vivido.\nSe concebemos de modos diferentes esse futuro, nada de mais natural, pois a democracia assenta precisamente no reconhecimento desse facto como normal e até saudável. Mas não esqueçamos que nenhum dos ideários que aqui se exprimissem, nenhuma das filosofias que nesta sala se manifestam, poderiam exprimir-se ou manifesta-se dentro do regime cuja queda hoje celebramos. E isso, depois de ter feito do 25 de Abril uma vitória nacional, faz dessa data aqui dentro uma vitória comum.\nSaibamos nós estar à altura dessa vitória comum, convivendo \npoliticamente uns com os outros, e não procurando sobreviver politicamente uns aos outros. Porque a democracia encontra a sua identidade não tanto nos seus objectivos coimo nas suas regras.\nSaibamos nós respeitar e fazer respeitar essas regras, que o povo irá traçando os seus objectivos.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Este povo soube merecer a Liberdade. Temo-la nos braços.\nNão há melhor ponto de partida para construir um futuro colectivo digno de ser vivido.\nSe concebemos de modos diferentes esse futuro, nada de mais natural, pois a democracia assenta precisamente no reconhecimento desse facto como normal e até saudável. Mas não esqueçamos que nenhum dos ideários que aqui se exprimissem, nenhuma das filosofias que nesta sala se manifestam, poderiam exprimir-se ou manifesta-se dentro do regime cuja queda hoje celebramos. E isso, depois de ter feito do 25 de Abril uma vitória nacional, faz dessa data aqui dentro uma vitória comum.\nSaibamos nós estar à altura dessa vitória comum, convivendo \npoliticamente uns com os outros, e não procurando sobreviver politicamente uns aos outros. Porque a democracia encontra a sua identidade não tanto nos seus objectivos coimo nas suas regras.\nSaibamos nós respeitar e fazer respeitar essas regras, que o povo irá traçando os seus objectivos.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra S. Ex.ª o Sr. Presidente da Republica.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra S. Ex.ª o Sr. Presidente da Republica.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Presidente da República (Ramalho Eanes): Sr. Presidente da Assembleia da República, Sr. Primeiro-ministro, Sr. Presidente do Supremo Tribunal de Justiça, Srs. Conselheiros da Revolução, Srs.Deputados, Portugueses: É difícil imaginar outra data histórica em que o País pudesse mais legitimamente celebrar a liberdade da Pátria e mais justamente prestar homenagem aos que a tomaram possível.\nHomenagem às forcas armadas, que em 25 de Abril de 1974 restituíram Portugal aos Portugueses, permitindo à Nação que reassumisse a sua dignidade soberana e a direcção do seu próprio destino.\nHomenagem às forças militares e políticas que, no 25 de Novembro, repudiando todos os totalitarismos, restabeleceram as condições de construção de um país fraterno e viabilizaram de novo o projecto nacional de liberdade, de democracia e de justiça que impulsionou a intervenção militar.\nHomenagem aos que nesta Casa se bateram, em circunstâncias por vezes quase dramáticas, paira consagrar constitucionalmente a intenção democrática original e fizeram triunfar sobre os desvios vanguardistas a concepção democrática do Estado, assente no sufrágio universal, na coexistência de diferente opções ideológicas, no pluralismo político e no respeito da vontade maioritária.\nHomenagem, enfim, ao povo português, vencedor real do 25 de Abril e do 25 de Novembro, e vencedor porque criou os pressupostos do êxito do movimento libertador; porque assumiu com confiança e entusiasmo a promessa que as forças animadas lhe fizeram; vencedor porque, quando pôde determinar a dinâmica da revolução, tornou possível o regime democrático de que os órgãos institucionais são expressão e garantia; porque resistiu às ameaças e venceu as con-", 
-   "type": "continuacao"
+   "text": "Sr. Presidente da Assembleia da República, Sr. Primeiro-ministro, Sr. Presidente do Supremo Tribunal de Justiça, Srs. Conselheiros da Revolução, Srs.Deputados, Portugueses: É difícil imaginar outra data histórica em que o País pudesse mais legitimamente celebrar a liberdade da Pátria e mais justamente prestar homenagem aos que a tomaram possível.\nHomenagem às forcas armadas, que em 25 de Abril de 1974 restituíram Portugal aos Portugueses, permitindo à Nação que reassumisse a sua dignidade soberana e a direcção do seu próprio destino.\nHomenagem às forças militares e políticas que, no 25 de Novembro, repudiando todos os totalitarismos, restabeleceram as condições de construção de um país fraterno e viabilizaram de novo o projecto nacional de liberdade, de democracia e de justiça que impulsionou a intervenção militar.\nHomenagem aos que nesta Casa se bateram, em circunstâncias por vezes quase dramáticas, paira consagrar constitucionalmente a intenção democrática original e fizeram triunfar sobre os desvios vanguardistas a concepção democrática do Estado, assente no sufrágio universal, na coexistência de diferente opções ideológicas, no pluralismo político e no respeito da vontade maioritária.\nHomenagem, enfim, ao povo português, vencedor real do 25 de Abril e do 25 de Novembro, e vencedor porque criou os pressupostos do êxito do movimento libertador; porque assumiu com confiança e entusiasmo a promessa que as forças animadas lhe fizeram; vencedor porque, quando pôde determinar a dinâmica da revolução, tornou possível o regime democrático de que os órgãos institucionais são expressão e garantia; porque resistiu às ameaças e venceu as con-", 
+   "type": "speaker_error"
   }, 
   {
    "text": "26 DE ABRIL DE 1979 1853", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "frontações que tentaram impedi-lo de definir livremente a sua decisão de concretizar os ideais de Abril", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "Sr. Presidente, Srs. Deputados, Portugueses: Continuamos a viver tempos de confusão e perplexidade. Trata-se de uma evidência irrecusável no quotidiano dos portugueses: é uma realidade social, determinante e determinada nada, em que a acção política se exerce.\nMas importa também reconhecer que não nos falta, que não nos faltou, o conjunto de condições indispensáveis à consolidação da democracia e ao desenvolvimento económico do País.\nSe a confusão e a perplexidade persistem, e a crise e instala, é sobretudo porque continuamos a não conseguir o que parece e é realmente mais fácil num regime democrático: o entendimento entre os partidos: o compromisso político estável; o exercício consequente do Poder com conhecimento, trabalho, determinação, liberdade e integridade.\nEntendimento e compromisso possíveis, dada a existência de objectivos comuns.\nEntendimento e compromisso indispensáveis para que a democracia, arduamente alcançada, se vitalize e consolide através da adequação dinâmica das estruturas e instituições às exigências e expectativas do povo português.\nEntendimento e compromisso necessários, enfim, para que se atinja a mobilização de todas as força\" da colectividade, de modo a enfrentar com êxito a crise e a fundamentar solidamente a posterior recuperação.\nPorque falta o que pareceria mais simples, tudo fica ameaçado Esquecem-se ou minimizam-se as vitórias democráticas do nosso passado recente. Os progressos na situação económica, aparar de tudo conseguidos, defrontam uma atitude de reserva, nascida muitas vezes de causas passageiras ou mesmo acidentais.\nSubsiste uma tendência generalizada para o desânimo e para a descrença aliás intencionalmente ampliada com vista a recordar o destino trágico de outras experiências democráticas e liberais da História de Portugal.\nComo noutras ocasiões aconteceu, também agora podemos dizer que os mais temíveis adversários da democracia não são os antidemocrática declarados - que não encontram acolhimento entre o povo português , mas os próprios democratas, quando se deixam prender na teia de conflitos secundários e esquecem o campo real de entendimento que melhor responderia aos interesses de Portugal.\nA esperança democrática, que continua viva. tornou-se assim mais vulnerável. O povo português está cansado de esperar.\nComemorar hoje o 25 de Abril de 1974 exige por isso de todos nós a coragem de enfrentar com clareza os desafios que podemos ganhar. Que deveremos ganhar, se quisermos ser dignos do que esse dia nos trouxe como promessa de vida em liberdade, como responsabilidade de comportamento democrático e como obrigação do respeito permanente das regras da democracia pluralista.\nSr. Presidente. Srs. Deputados: Os fundamentos político? da nossa democrata estão claramente balizados por duas datas - 25 de Abrir e 25 de Novembro. Elas separam e anuíam duas situações que. sendo diferentes, tinham de comum o carácter antidemocrático.\nMas o 25 de Abril e o 25 de Novembro são manifestações integradas de afirmação democrática, que não pertencem a nenhuma entidade, a nenhum grupo ou classe social. Por muito que pese aos que delas tentaram apropriar-se, para prossegui objectivos particulares, elas são, de facto, expressões da vontade profunda do ,povo português.\nCompete-nos analisar com serenidade e ponderação esse período de luta pela democracia e de fundação democrática, de modo a encontrar nele rumos de futuro, firmes e portugueses.\nOs valores que a esmagadora maioria dos portugueses vitoriosamente defendeu e consagrou nessa altura são a tolerância política, a exigência de democracia pluralista e o consequente exercício das liberdades públicas nomeadamente as de religião, expressão, reunião e associação , a defesa permanente da liberdade individual, o respeito pelas regras da legitimidade e da legalidade democrática e a procura de uma autêntica justiça social.\nSão em si mesmos, valores que sintetizam e afirmam inequivocamente o civismo político e cultural dos Portugueses. E são, também, caboucos de qualquer projecto político que queira basear-se na realidade social portuguesa e neta realizar-se em plena liberdade.\nMas nesse período de luta pela instauração de um regime democrático a vontade da Nação afirmou também outros valores mais concretos que, com maior ou menor nitidez, tem orientado a nossa actividade política.\nDesses valores concretos apenas sublinharei os que, além de se imporem pela sua actualidade, contribuem para definir os contornos do quadro de possibilidades políticas. São eles: a defesa da Constituição, como afirmação determinada de democracia, de justiça, de liberdade real, de dignidade cultural e de independência nacional; o estabelecimento do primado do Estado de direito democrático e, por consequência, a imposição firme de todas as suas leis; a afirmação de um projecto de modernização da economia, tendo em vista uma rápida integração na Comunidade Económica Europeia que, só por si, exige a mobilização racional de todos os recursos disponíveis; a garantia dos direitos dos trabalhadores, livremente organizados para defesa dos seus interesses, num quadro de compatibilização com as possibilidades nacionais e com o processo de modernização da economia portuguesa; a defesa de uma política social justa, que corrija os actuais desequilíbrios e salvaguarde a solidez do crescimento económico a médio e a longo prazos; a colaboração democrática entre as instituições, de modo a dar ao sistema coerência e estabilidade e a garantir-lhe eficiência perante as situações de crise; a procura constante de soluções negociadas. para evitar o confronto e o conflito, sem prejuízo do recurso a toda a firmeza democrática sempre que uma divergência de posições ponha em causa interesses nacionais essenciais; a afirmação de uma politica externa aberta que, respeitando e defendendo a nossa especificidade, vise a correcta inserção de Portugal na comunidade internacional, traduzida na integração do País na Europa Ocidental. na \nco-responsabilização do seu sistema integrado de defesa na participação activa nas diversas instâncias internacionais e na cooperação e amizade com todos os povos do Mundo, dedicando especial atenção ao Bra", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "1854 I SERIE - NÚMERO 52", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "sil, aos novos Estados africanos de expressão portuguesa e aos restante Estados onde se radicaram comunidades portuguesas significativas.\nRecordando sem. preconceitos estes valores, defendidos em 1974 e 1975, e confirmados nas diferentes eleições que institucionalizaram a democracia, não poderemos deixar de concluir que o quadro resultante é suficientemente claro como balizador da acção política corrente.\nMais ainda: Este quadro político é tão inequívoco que não admite a alusão a ambiguidades ideológicas nem a permanente reposição de dúvidas sobre os objectivos nacionais. Apenas exige eficácia política para ser concretizado.\nNaturalmente, é de acordo com este sistema de valores, uns globais e outros concretos, que se orienta a minha acção como Presidente da República. A sua afirmação clara e repetida desde a campanha eleitoral - leva a olhar com reserva e profunda desconfiança os jogos confusos em que parecem participar, numa estranha aliança, responsáveis de formações democráticas e outras forças que prosseguem fundamentalmente totalitarismos sem regresso.\nSr. Presidente, Srs. Deputados: Se evoquei os princípios consagrados pelo povo português é porque considero que a situação presente exige a cada responsável político que explicite com clareza os critérios a que obedece a sua actuação, para que os portugueses possam identificar e compreender as razões que continuam a impedir um esforço de \nentendimento e de concertação de posições partidárias.\nSempre entendi -e foi esse entendimento que expressei aos Portugueses em 1976, no compromisso eleitoral e na declaração de princípios, quando me submeti à decisão do sufrágio popular-, sempre entendi, repito, que não compete ao Presidente da República substituir-se aos partidos na definição de um programa político concreto, adoptar um modelo de desenvolvimento específico ou optar institucionalmente por um dos diferentes modelos abstractos de sociedade que são propostos à consideração dos Portugueses.\nPelo contrário, considero que é responsabilidade institucional do Presidente dia República interpretar a vontade dos Portugueses nas suas opções eleitorais, reconhecendo que diversos programas e modelos são possíveis no quadro dos valores essenciais que o povo português tem defendido e que já sintetizei.\nEm coerência com esta posição constante, tenho orientado a minha acção política por cinco critérios fundamentais: consolidar as estruturas e os órgãos fundamentais do Estado democrático de modo que, •no fim da fase de transição que se atinge em 1980, se passe a viver em plena normalidade democrática; aumentar a coesão e a operacionalidade das forças armadas portuguesas, ao serviço da democracia e da independência nacional, e promover a sua correcta e definitiva inserção na nação civil; promover a formação de executivos capazes de apresentar programas de, governo que correspondam aos valores essenciais afirmados e defendidos pelo povo português; assegurar o pragmatismo da acção política que as necessidades do País impõem e as possibilidades humanas e materiais determinam; manter como objectivo prioritário a \nimplementação de mudanças nos sectores económicos e sociais que mais importam à construção democrática e à satisfação das esperanças legítimas abertas pelo 25 de Abril.\nEstou certo de que as decisões tomadas desde a institucionalização do regime democrático, em particular no que respeita à formação dos governos, corresponderam às exigências decorrentes dos princípios enunciados.\nNão sendo clara nem unanimemente reconhecida a vantagem da realização de eleições legislativas intercalares - aliás, até agora irrealizáveis por indisponibilidade de legislação adequada-, sendo indispensável assegurar a continuidade governativa e tornando-se imperativa a existência de executivos aptos a negociar com países amigos programas essenciais à recuperação económica do País, não hesitei em assumir as responsabilidades. da função que exerço, recorrendo a modalidades de governo pouco frequentes em regimes como o nosso, mas nem por isso menos democráticas.\nConsidero que as soluções adoptadas foram as ajustadas ao tempo histórico, inclusive quando a única via que ficava aberta era a formação de governos democráticos extra-partidários que pudessem responde* às principais dificuldades do País e oferecessem o tempo de meditação e de negociação de que os partidos- necessitavam para superar as suas divergências.\nÉ ainda este o quadro de condicionantes que caracterizam a situação presente, até porque, apesar de eu próprio anunciar a excepcionalidade de solução adoptada, não foram ainda criadas pelos partidos políticos condições que permitam alternativas diferentes.\nMas um tal governo repito em nada vê diminuída a sua legitimidade constitucional e, democrática. Dispondo da confiança política do Presidente da República e de aceitação política da Assembleia da República, desde que esta não rivalize nem o seu programa nem a sua existência, um governo extra-partidário está vocacionado para o exercício de três missões essenciais.\nA primeira é governar, no quadro da legalidade existente, com respeito pelas normas de articulação e vigilância política estabelecidas entre os diversos Órgãos de Soberania, procurando, na medida do possível, compatibilizar as diferentes posições que se integrem no sistema de valores por que optou o povo português.\nA segunda é assegurar uma continuidade governativa que, como disse, deixe aos partidos o tempo necessário para que encontrem condições de entendimento e de cooperação.\nA terceira é não interromper o esforço para criar condições que permitam salvaguardar, no presente e no futuro, a dignidade dos Portugueses e a independência nacional. Esta terceira missão cumpre-se na aplicação criteriosa dos recursos e medidas de política que melhorem a resposta interna à procura e contribuam para um maior equilíbrio da balança de pagamentos, para a estabilização económica, base da estabilidade política, e por isso pressuposto do aperfeiçoamento da convivência democrática.\nNeste triplo sentido, não quero deixar de sublinhar claramente que o actual Governo assumiu objectivos patrióticos de continuidade da acção governativa e de defesa institucional da democracia, e tem tido, como recentemente referi, uma actuação que", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "16 DE ABRIL DE 1979 1855", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "entendo globalmente meritória. Por ambas as razões, mantém a minha confiança.\nA mera continuação em actividade de um governo extra-partidário significa, naturalmente, que ele é considerado politicamente conveniente pelos partidos representados na Assembleia da República.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "O Sr. António Arnaut (PS)- Não apoiado!", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "O Sr. Presidente da República:-É evidente que este juízo implica também que o Governo seja considerado politicamente conveniente para o País, dado que seria inadmissível que qualquer partido responsável colocasse os seus eventuais interesses eleitoralistas acima das conveniências e interesses nacionais. No actual estado de crise, tal comportamento, qualquer que fosse o resultado final, nunca se traduziria em ganhos para a estabilidade das formações partidárias e do Estado democrático.\nPor todas estas razões, ao juízo prático sobre a conveniência política da continuidade deste Governo terá de corresponder uma atitude consciente da Assembleia da República no sentido de, sem limitar a sua crítica e a sua fiscalização política, assegurar ao executivo, de modo continuado, os instrumentos necessários à acção governativa.\nSr. Presidente, Srs. Deputados: É nosso dever considerar, no plano teórico, as vias políticas possíveis se a Assembleia da República vier a colocar ao Governo obstáculos políticos insuperáveis ou se vier a decidir accionar os mecanismos constitucionais que impeçam a continuidade do actual Executivo.\nUma delas, e que importa analisar com clareza, consistiria na realização de eleições legislativas intercalares.\nIndependentemente dos custos que a concretização dessa hipótese acarretará para a democracia e para a vida económica, é uma saída legítima e por isso mesmo irrecusável.\nNão posso, porém, deixar de sublinhar a eventualidade de o quadro parlamentar não se alterar de modo significativo - pelo menos, de não se alterar de um modo que permita encontrar uma base maioritária sem recurso necessário a um entendimento interpartidário.\nA verificar-se tal eventualidade, continuaríamos a ter, depois dessas eleições intercalares, exactamente o mesmo problema com que hoje nos defrontamos.\nE ainda que uma composição parlamentar idêntica á actual permita, depois de eleições intercalares, o que até hoje não se atingiu, será difícil compreender por que é que dirigentes políticos conscientes do estado do País e das dificuldades da consolidação democrática não conseguiram concretizar a mesma solução antes dá realização de eleições intercalares.", 
+   "type": null
+  }, 
+  {
+   "speaker": "Vozes do CDS e de Deputados independentes ex-PSD", 
+   "text": "Multo bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Sr. Presidente da República", 
+   "text": "Nestes termos, e se não se verificar qualquer dos casos que constitucionalmente conduzem à dissolução da Assembleia da República, reservarei a decisão de realizar eleições legislativas intercalares e só a tomarei se e quando entender que ela corresponde, sem qualquer dúvida, ao interesse nacional.", 
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do CDS e de Deputados independentes ex-PSD: Multo bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS e de Deputados independentes ex-PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. Presidente da República: Nestes termos, e se não se verificar qualquer dos casos que constitucionalmente conduzem à dissolução da Assembleia da República, reservarei a decisão de realizar eleições legislativas intercalares e só a tomarei se e quando entender que ela corresponde, sem qualquer dúvida, ao interesse nacional.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Vozes do CDS e de Deputados independentes ex-PSD: Muito bem!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. Presidente da República: Ê evidente que a ocorrência de novos factos políticos significativos e a vontade maioritária desta Assembleia serão factores de decisão.\nOutra solução entretanto possível - e, na perspectiva democrática, mais desejável - consistirá na concretização de alguma modalidade de acordo que assegure à governação a conveniente base parlamentar maioritária, estável e coerente.\nÉ uma solução que nunca deixou de estar posta à consideraçâo dos partidos.\nContinuo a pensar que será possível encontrar, em função do interesse nacional, um consenso mínimo das forças políticas e sociais em torno de questões basilares como as seguintes: \nDesenvolvimento prioritário das actividades ligadas à produção e distribuição de bem alimentares, que elevem o nível da nossa alimentação e tornem disponíveis meios financeiros para investir em sectores de imediata reprodutividade; \nVitalização do sector exportador, tornando-o competitivo a nível europeu, de maneira a contribuir para o equilíbrio da balança comercial e para a redução d\" desemprego; \nDefinição e implementação de uma política económica que permita, a médio prazo, o lançamento de actividades que melhor correspondam ao integral aproveitamento dos recursos disponíveis, quer humanos, quer financeiros, quer naturais; \nUtilização, a exemplo de outros países do ocidente europeu, e sem preconceitos ideológicos, das técnicas de planeamento económico e financeiro como instrumentos que, além do mais, possibilitem a fundamentação de uma política de redistribuição de rendimento e o incremento simultâneo do sector público e da iniciativa e actividade do sector privado; \nDefinição, no quadro dos objectivos referidos, de modalidades de acordo entre os representantes das forcas económicas e do Executivo, de modo que se possa estruturar ou bases seguras a política económica de estabilização e recuperação e, em particular, as decisões empresariais; Descentralizar a vida política, com vista a interessar a generalidade dos portugueses na resolução dos seus próprios problema\", para uma responsável e crescente participação democrática na vida da Nação.\nSr. Presidente, Srs. Deputados: Os tempos de confusão e de perplexidade que vivemos não decorrem de alterações da opinião política do povo português em relação aos valores essenciais que escolheu.\nMelhor do que ninguém o sabem os inimigos da democracia, que, no nosso país como, aliás, em toda", 
+   "speaker": "O Sr. Presidente da República", 
+   "text": "Ê evidente que a ocorrência de novos factos políticos significativos e a vontade maioritária desta Assembleia serão factores de decisão.\nOutra solução entretanto possível - e, na perspectiva democrática, mais desejável - consistirá na concretização de alguma modalidade de acordo que assegure à governação a conveniente base parlamentar maioritária, estável e coerente.\nÉ uma solução que nunca deixou de estar posta à consideraçâo dos partidos.\nContinuo a pensar que será possível encontrar, em função do interesse nacional, um consenso mínimo das forças políticas e sociais em torno de questões basilares como as seguintes: \nDesenvolvimento prioritário das actividades ligadas à produção e distribuição de bem alimentares, que elevem o nível da nossa alimentação e tornem disponíveis meios financeiros para investir em sectores de imediata reprodutividade; \nVitalização do sector exportador, tornando-o competitivo a nível europeu, de maneira a contribuir para o equilíbrio da balança comercial e para a redução d\" desemprego; \nDefinição e implementação de uma política económica que permita, a médio prazo, o lançamento de actividades que melhor correspondam ao integral aproveitamento dos recursos disponíveis, quer humanos, quer financeiros, quer naturais; \nUtilização, a exemplo de outros países do ocidente europeu, e sem preconceitos ideológicos, das técnicas de planeamento económico e financeiro como instrumentos que, além do mais, possibilitem a fundamentação de uma política de redistribuição de rendimento e o incremento simultâneo do sector público e da iniciativa e actividade do sector privado; \nDefinição, no quadro dos objectivos referidos, de modalidades de acordo entre os representantes das forcas económicas e do Executivo, de modo que se possa estruturar ou bases seguras a política económica de estabilização e recuperação e, em particular, as decisões empresariais; Descentralizar a vida política, com vista a interessar a generalidade dos portugueses na resolução dos seus próprios problema\", para uma responsável e crescente participação democrática na vida da Nação.\nSr. Presidente, Srs. Deputados: Os tempos de confusão e de perplexidade que vivemos não decorrem de alterações da opinião política do povo português em relação aos valores essenciais que escolheu.\nMelhor do que ninguém o sabem os inimigos da democracia, que, no nosso país como, aliás, em toda", 
    "type": "continuacao"
   }, 
   {
@@ -882,88 +1051,104 @@
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Sr. Presidente da República", 
+   "text": "Assim, a permanência de uma situação de afastamento interpartidário e de bloqueamento continuado da acção governativa obrigarão o Presidente da República a uma intervenção política mais intensa. O Presidente da República tora de cumprir o dever patriótico de contribuir, no respeito do quadro de valores que o povo português defendeu em 1974 e 1975 e confirmou nas diferentes eleições, para a formulação de um projecto de acção que primeiramente visará tornar realizável o consenso possível de partidos e de forças sociais organizadas, mas. em última análise, deverá mobilizar todos os democratas e satisfazer e englobar todos os portugueses.\nEstou consciente dos riscos inerentes a esta intervenção política mais activa, designadamente quanto ao precedente que abre na esfera da actuação do Presidente da República e que outros, no futuro, poderão invocar com diferentes finalidades.\nMas não posso menosprezar os perigos com que já hoje se confronta a nossa democracia, nem aceitar que se desenvolvam situações de tesão entre instituições, nem consentir que se iludam as legítimas expectativas dos Portugueses.\nO quadro de possibilidades existentes é claro, mas reduz-se dia a dia.\nO tempo de que ainda dispomos e assim limitado. Há que mudar de vida enquanto é tempo.\nTermino com uma palavra de esperança e com uma palavra de certeza: \nEsperança de que nós, dirigentes políticos \"n quem o povo português confiou, vejamos dignos do exemplo só ido e mobilizante de consciência democrática dessa fonte do poder: \nCerteza de que o povo português, que em oito séculos sempre soube vencer os desafios e caminhar honrado na História, também agora encontrará as vias realistas e estáveis que lhe permitirão vencer a crise e transformar efectivamente Portugal. Se quisermos, esta Nação saberá reconciliar-se em torno de um projecto que permita a todos os portugueses viver em paz um futuro mais livre e mais igual, de acordo com as esperanças de Abril que em conjunto, hoje celebramos.\nAplausos do CDS. dos Deputados independentes ex-PSD (de pé), do Deputado independente Vasco da Gama Fernandes (de pé) e dos \nConselheiros da Revolução (de pé), permanecendo de pé durante os mesmos o Deputado independente Galvão de Melo.", 
    "type": "continuacao"
   }, 
   {
-   "text": "O Sr. Presidente da República: Assim, a permanência de uma situação de afastamento interpartidário e de bloqueamento continuado da acção governativa obrigarão o Presidente da República a uma intervenção política mais intensa. O Presidente da República tora de cumprir o dever patriótico de contribuir, no respeito do quadro de valores que o povo português defendeu em 1974 e 1975 e confirmou nas diferentes eleições, para a formulação de um projecto de acção que primeiramente visará tornar realizável o consenso possível de partidos e de forças sociais organizadas, mas. em última análise, deverá mobilizar todos os democratas e satisfazer e englobar todos os portugueses.\nEstou consciente dos riscos inerentes a esta intervenção política mais activa, designadamente quanto ao precedente que abre na esfera da actuação do Presidente da República e que outros, no futuro, poderão invocar com diferentes finalidades.\nMas não posso menosprezar os perigos com que já hoje se confronta a nossa democracia, nem aceitar que se desenvolvam situações de tesão entre instituições, nem consentir que se iludam as legítimas expectativas dos Portugueses.\nO quadro de possibilidades existentes é claro, mas reduz-se dia a dia.\nO tempo de que ainda dispomos e assim limitado. Há que mudar de vida enquanto é tempo.\nTermino com uma palavra de esperança e com uma palavra de certeza: \nEsperança de que nós, dirigentes políticos \"n quem o povo português confiou, vejamos dignos do exemplo só ido e mobilizante de consciência democrática dessa fonte do poder: \nCerteza de que o povo português, que em oito séculos sempre soube vencer os desafios e caminhar honrado na História, também agora encontrará as vias realistas e estáveis que lhe permitirão vencer a crise e transformar efectivamente Portugal. Se quisermos, esta Nação saberá reconciliar-se em torno de um projecto que permita a todos os portugueses viver em paz um futuro mais livre e mais igual, de acordo com as esperanças de Abril que em conjunto, hoje celebramos.\nAplausos do CDS. dos Deputados independentes ex-PSD (de pé), do Deputado independente Vasco da Gama Fernandes (de pé) e dos \nConselheiros da Revolução (de pé), permanecendo de pé durante os mesmos o Deputado independente Galvão de Melo.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está encerrada a sessão.\nA banda da Guarda Nacional Republicana executou de novo o Hino Nacional.\nRealizou-se então o cortejo de saída, composto pelas mesmas \nindividualidades Já entrada, tendo o Sr. Presidente da República saudado o corpo diplo-", 
+   "type": "presidente_encerrada"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está encerrada a sessão.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "A banda da Guarda Nacional Republicana executou de novo o Hino Nacional.\nRealizou-se então o cortejo de saída, composto pelas mesmas \nindividualidades Já entrada, tendo o Sr. Presidente da República saudado o corpo diplo-", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "26 DE ABRIL DE 1979 1857", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "mático com uma vénia ao passar diante da respectiva tribuna.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Eram 19 horas e 30 minutos. Deputados que faltaram à sessão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "António Cândido Miranda Macedo.\nAntónio Fernandes da Fonseca.\nAntónio Fernando Marques Ribeiro Reis.\nAntónio Manuel Maldonado Gonelha.\nFernando Jaime Pereira de Almeida.\nFlorêncio Quintas Matias.\nJoão Joaquim Gomes.\nJoão da Silva.\nJoaquim Manuel Barros de Sousa.\nJoaquim Oliveira Rodrigues.\nJoaquim Sousa Gomes Carneiro.\nJosé Gomes Fernandes.\nJosé Luís do Amaral Nunes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Manuel Francisco Costa.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Partido social-democrata (PSD/PPD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "José Rui Sousa Fernandes.\nMaria Helena do Rego da Costa S. Roseta.\nPedro Manuel da Cruz Roseta", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Basílio Adolfo Mendonça Horta da Franca.\nJosé Manuel Cabral Fernandes.\nManuel António de Almeida de Azevedo e Vasconcelos.\nMargarida Garcês da S. Ventura.\nRuy Garcia de Oliveira.\nWalter Francisco- ' \nBurmester Oudel.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Carlos Hahnemann Saavedra de Aboim Inglês.\nRaul Luís Rodrigues.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "INDEPENDENTES", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "António Jorge Oliveira Aires Rodrigues.\nAntónio Luciano Pacheco de Sousa Franco.\nAntónio Poppe Lopes Caridoso.\nArtur Videira Pinto da Cunha Leal.\nCarminada Mania dos Santos Peneira.\nJosé Justiniano Taboada Braz Pinto.\nReinaldo Jorge Vital Rodrigues.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O REDACTOR PRINCIPAL,Manuel Adolfo de Vasconcelos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "PREÇO DESTE NÚMERO 11$00", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "IMPRENSA NACIONAL-CASA DA MOEDA", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

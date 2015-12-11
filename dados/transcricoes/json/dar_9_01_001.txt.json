@@ -25,8 +25,8 @@
    "type": null
   }, 
   {
-   "text": "A Sr.ª Manuela Ferreira Leite (PSD): Srs. Deputados, vamos ter de dar início a esta sessão, que tem por fim a constituição de uma comissão eventual de verificação de poderes dos Deputados, para o que terá de ser designado, por acordo da Câmara, quem presidirá aos nossos trabalhos.\nSei que existe uma praxe parlamentar, no sentido de se convidar o Presidente cessante a presidir, que, no entanto, não gostaria de invocar. Gostaria antes de dizer que, em nome do mérito e do prestígio, há um nome que, sem sombra de dúvida, se impõe entre todos nós. Esse nome, que o PSD propõe para presidir a esta sessão, é o do Dr. Almeida Santos.", 
-   "type": null
+   "text": "Srs. Deputados, vamos ter de dar início a esta sessão, que tem por fim a constituição de uma comissão eventual de verificação de poderes dos Deputados, para o que terá de ser designado, por acordo da Câmara, quem presidirá aos nossos trabalhos.\nSei que existe uma praxe parlamentar, no sentido de se convidar o Presidente cessante a presidir, que, no entanto, não gostaria de invocar. Gostaria antes de dizer que, em nome do mérito e do prestígio, há um nome que, sem sombra de dúvida, se impõe entre todos nós. Esse nome, que o PSD propõe para presidir a esta sessão, é o do Dr. Almeida Santos.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Com o assentimento da Assembleia, assumiu a presidência o Sr. Deputado do PS Almeida Santos.", 
@@ -37,259 +37,299 @@
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr.ª Deputada Manuela Ferreira Leite, Srs.Deputados, agradeço muito a vossa simpatia e a vossa deferência.\nProponho para secretariar a Mesa nesta sessão os Srs. Deputados José Cesário, do PSD, e Artur Penedos, do PS.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada Manuela Ferreira Leite, Srs.Deputados, agradeço muito a vossa simpatia e a vossa deferência.\nProponho para secretariar a Mesa nesta sessão os Srs. Deputados José Cesário, do PSD, e Artur Penedos, do PS.\nTambém com o assentimento da Assembleia, aqueles Deputados ocuparam os seus lugares na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Também com o assentimento da Assembleia, aqueles Deputados ocuparam os seus lugares na Mesa.", 
-   "type": null
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "De acordo com o Regimento, vai proceder-se à chamada dos Srs. Deputados eleitos, segundo a lista enviada pela Comissão Nacional de Eleições.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Responderam à chamada os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Responderam à chamada os seguintes Srs. Deputados", 
    "text": "Abílio Jorge Leite Almeida Costa.\nAcílio Domingues Gala.\nAdão José Fonseca Silva.\nAires Manuel Jacinto de Carvalho.\nAlberto Bernardes Costa.\nAlberto Marques Antunes.\nÁlvaro António Magalhães Ferrão de Castello Branco.\nÁlvaro Roque de Pinho Bissaia Barreto.\nAna Maria Benavente da Silva Nuno.\nAna Maria Sequeira Mendes Pires Manso.\nAntero Gaspar de Paiva Vieira.\nAntónio Alfredo Delgado da Silva Preto.\nAntónio Alves Marques Júnior.\nAntónio Bento da Silva Galamba.\nAntónio da Silva Pinto de Nazaré Pereira.\nAntónio de Almeida Santos.\nAntónio Edmundo Barbosa Montalvão Machado.\nAntónio Fernandes da Silva Braga.\nAntónio Filipe Gaião Rodrigues.\nAntónio Henriques de Pinho Cardão.\nAntónio João Rodeia Machado.\nAntónio Joaquim Almeida Henriques.\nAntónio Manuel da Cruz Silva.\nAntónio Maria Almeida Braga Pinheiro Torres.\nAntónio Paulo Martins Pereira Coelho.\nAntónio Pedro Roque da Visitação Oliveira.\nAntónio Ramos Preto.\nArménio dos Santos.\nArtur Miguel Claro da Fonseca Mora Coelho.\nAscenso Luís Seixas Simões.\nBasílio Adolfo de Mendonça Horta da Franca.\nBernardino José Torrão Soares.\nBruno Jorge Viegas Vitorino.\nBruno Ramos Dias.\nCarlos Alberto do Vale Gomes Carvalhas.\nCarlos Alberto Silva Gonçalves.\nCarlos Jorge Martins Pereira.\nCarlos José das Neves Martins.\nCarlos Manuel de Andrade Miranda.\nCarlos Manuel Luís.\nCarlos Parente Antunes.\nDiogo Alves de Sousa de Vasconcelos.\nDiogo de Sousa Almeida da Luz.\nDiogo Nuno de Gouveia Torres Feio.\nDuarte Rogério Matos Ventura Pacheco.\nEdite de Fátima Santos Marreiros Estrela.\nEduardo Artur Neves Moreira.\nEduardo Luís Barreto Ferro Rodrigues.\nEugénio Fernando de Sá Cerqueira Marinho.\nFeliciano José Barreiras Duarte.\nFernando Manuel dos Santos Gomes.\nFernando Manuel Lopes Penha Pereira.\nFernando Mimoso Negrão.\nFernando Pereira Serrasqueiro.\nFernando Ribeiro Moniz.\nFernando Santos Cabral.\nFernando Santos Pereira.\nFrancisco Anacleto Louçã.\nFrancisco José Pereira de Assis Miranda.\nGonçalo Dinis Quaresma Sousa Capitão.\nGonçalo Miguel Lopes Breda Marques.\nGonçalo Trigo de Morais de Albuquerque Reis.\nGuilherme Henrique Valente Rodrigues da Silva.\nHeloísa Augusta Baião de Brito Apolónia.\nHenrique José Monteiro Chaves.\nHermínio José Sobral Loureiro Gonçalves.\nHugo José Teixeira Velosa.\nIsabel Maria de Almeida e Castro.\nIsménia Aurora Salgado dos Anjos Vieira Franco.\nJamila Bárbara Madeira e Madeira.\nJerónimo Carvalho de Sousa.\nJoão Barroso Soares.\nJoão Bosco Soares Mota Amaral.\nJoão Cardona Gomes Cravinho.\nJoão Eduardo Guimarães Moura de Sá.\nJoão Guilherme Nobre Prata Fragoso Rebelo.\nJoão Miguel Trancoso Vaz Teixeira Lopes.\nJoão Nuno Lacerda Teixeira de Melo.\nJoão Rodrigo Pinho de Almeida.\nJoaquim Augusto Nunes de Pina Moura.\nJoaquim Carlos Vasconcelos da Ponte.\nJoaquim Martins Ferreira do Amaral.\nJoaquim Virgilio Leite Almeida Costa.\nJoel Eduardo Neves Hasse Ferreira.\nJorge Lacão Costa.\nJorge Manuel de Oliveira Godinho.\nJorge Manuel Ferraz de Freitas Neto.\nJorge Manuel Gouveia Strecht Ribeiro.\nJorge Paulo Sacadura Almeida Coelho.\nJosé Alberto Vasconcelos Tavares Moreira.\nJosé António Bessa Guerra.\nJosé António Sousa e Silva.\nJosé da Conceição Saraiva.\nJosé David Gomes Justino.\nJosé de Almeida Cesário.\nJosé Eduardo Rêgo Mendes Martins.\nJosé Eduardo Vera Cruz Jardim.\nJosé Honório Faria Gonçalves Novo.\nJosé Luís Campos Vieira de Castro.\nJosé Luís Fazenda Arnaut Duarte.\nJosé Manuel Carvalho Cordeiro.\nJosé Manuel de Lemos Pavão.\nJosé Manuel de Matos Correia.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Responderam à chamada os seguintes Srs. Deputados", 
    "text": "José Manuel de Medeiros Ferreira.\nJosé Manuel Durão Barroso.\nJosé Manuel Pereira da Costa.\nJosé Miguel Abreu de Figueiredo Medeiros.\nJosé Miguel Nunes Anacoreta Correia.\nJúlio Francisco Miranda Calha.\nLaurentino José Monteiro de Castro Dias.\nLino António Marques de Carvalho.\nLuís Afonso Cerqueira Natividade Candal.\nLuís Alberto da Silva Miranda.\nLuís Álvaro Barbosa de Campos Ferreira.\nLuís António Damásio Capoulas.\nLuís Cirilo Amorim de Campos Carvalho.\nLuís Emídio Lopes Mateus Fazenda.\nLuís Filipe Alexandre Rodrigues.\nLuís Filipe Montenegro Cardoso de Morais Esteves.\nLuís José Vieira Duque.\nLuís Manuel de Carvalho Carito.\nLuís Manuel Gonçalves Marques Mendes.\nLuís Manuel Machado Rodrigues.\nLuís Maria Barros Serra Marques Guedes.\nLuísa Pinheiro Portugal.\nLuiz Manuel Fagundes Duarte.\nManuel Alegre de Melo Duarte.\nManuel Alves de Oliveira.\nManuel Filipe Correia de Jesus.\nManuel Joaquim Dias Loureiro.\nManuel Maria Ferreira Carrilho.\nManuel Maria Moreira.\nManuel Ricardo Dias dos Santos Fonseca de Almeida.\nMarco António Ribeiro dos Santos Costa.\nMaria Amélia do Carmo Mota Santos.\nMaria Aurora Moura Vieira.\nMaria Celeste Ferreira Lopes Cardona.\nMaria Celeste Lopes da Silva Correia.\nMaria Clara de Sá Morais Rodrigues Carneiro Veríssimo.\nMaria Custódia Barbosa Fernandes Costa.\nMaria da Assunção Andrade Esteves.\nMaria de Belém Roseira Martins Coelho Henriques de Pina.\nMaria do Carmo Romão Sacadura dos Santos.\nMaria do Rosário da Silva Cardoso Águas.\nMaria do Rosário Lopes Amaro da Costa Luz Carneiro.\nMaria Eduarda de Almeida Azevedo.\nMaria Elisa Rogado Contente Domingues.\nMaria Goreti Sá Maia da Costa Machado.\nMaria Graça Ferreira Proença Carvalho.\nMaria Helena do Rêgo da Costa Salema Roseta.\nMaria Isabel da Silva Pires de Lima.\nMaria Leonor Couceiro Pizarro Beleza Mendonça Tavares.\nMaria Luísa Raimundo Mesquita.\nMaria Manuela Aguiar Dias Moreira.\nMaria Manuela Dias Ferreira Leite.\nMaria Natália Guterres Viegas Carrascalão da Conceição Antunes.\nMaria Odete dos Santos.\nMaria Ofélia Fernandes dos Santos Moleiro.\nMaria Teresa da Silva Morais.\nMaria Teresa Pinto Basto Gouveia.\nMário da Silva Coutinho de Albuquerque.\nMário Patinha Antão.\nMaximiano Alberto Rodrigues Martins.\nMelchior Ribeiro Pereira Moreira.\nMiguel Bernardo Ginestal Machado Monteiro Albuquerque.\nMiguel Fernando Alves Ramos Coleta.\nMiguel Fernando Cassola de Miranda Relvas.\nMiguel Jorge Reis Antunes Frasquilho.\nNarana Sinai Coissoró.\nNelson da Cunha Correia.\nNelson Madeira Baltazar.\nNuno Albuquerque Morais Sarmento.\nOsvaldo Alberto Rosário Sarmento e Castro.\nPaula Cristina Ferreira Guimarães Duarte.\nPaulo Jorge Frazão Batista dos Santos.\nPaulo Sacadura Cabral Portas.\nPedro Manuel Brandão Rodrigues.\nPedro Manuel da Cruz Roseta.\nPedro Miguel de Azeredo Duarte.\nRenato Luís de Araújo Forte Sampaio.\nRicardo Manuel Ferreira Gonçalves.\nRosa Maria da Silva Bastos da Horta Albernaz.\nRosalina Maria Barbosa Martins.\nRui do Nascimento Rabaça Vieira.\nRui Manuel Lobo Gomes da Silva.\nRui Miguel Lopes Martins Mendes Ribeiro.\nSalvador Manuel Correia Massano Cardoso.\nSérgio André da Costa Vieira.\nSónia Ermelinda Matos da Silva Fertuzinhos.\nSusana Maria de Moura Alves da Silva Toscano.\nTelmo Augusto Gomes de Noronha Correia.\nTeresa Maria Neto Venda.\nValter Victorino Lemos.\nVasco Jorge Valdez Ferreira Matias.\nVicente Jorge Lopes Gomes da Silva.\nVictor do Couto Cruz.\nVictor Manuel Bento Baptista.\nVítor Manuel Sampaio Caetano Ramalho.\nZelinda Margarida Carmo Marouço Oliveira Semedo.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Faltaram à chamada os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Faltaram à chamada os seguintes Srs. Deputados", 
    "text": "Acácio Manuel de Frias Barreiros.\nAlberto Arons Braga de Carvalho.\nAlberto de Sousa Martins.\nAlberto João Cardoso Gonçalves Jardim.\nAntónio José Martins Seguro.\nAntónio Luís Santos da Costa.\nArmando António Martins Vara.\nAugusto Ernesto Santos Silva.\nEduardo Arménio do Nascimento Cabrita.\nElisa Maria da Costa Guimarães Ferreira.\nFausto de Sousa Correia.\nFernando Pereira Cabodeira.\nGuilherme Valdemar Pereira d'Oliveira Martins.\nJaime José Matos da Gama.\nJoão Rui Gaspar de Almeida.\nJosé Adelmo Gouveia Bordalo Junqueiro.\nJosé Alberto Lello Ribeiro de Almeida.\nJosé Álvaro Machado Pacheco Pereira.\nJosé António Fonseca Vieira da Silva.\nJosé Apolinário Nunes Portada.\nJosé Augusto Clemente de Carvalho.\nJosé Manuel Santos de Magalhães.\nJosé Sócrates Carvalho Pinto de Sousa.\nLeonor Coutinho Pereira dos Santos.\nLuís Manuel de Capoulas Santos.\nManuel Pedro Cunha da Silva Pereira.\nMaria Manuela de Macedo Pinho e Melo.\nMaria Teresa Vaz Torrão Lago.\nPaulo José Fernandes Pedroso.\nRui António Ferreira da Cunha.\nVitalino José Ferreira Prova Canas.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, creio ser este o momento próprio para felicitar todos aqueles que foram eleitos. Desde logo, os que foram eleitos pela primeira vez, e que asseguram a renovação do universo parlamentar, mas também aqueles que mereceram a renovação dos seus anteriores mandatos.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, creio ser este o momento próprio para felicitar todos aqueles que foram eleitos. Desde logo, os que foram eleitos pela primeira vez, e que asseguram a renovação do universo parlamentar, mas também aqueles que mereceram a renovação dos seus anteriores mandatos.\nÉ um honra muito grande, penso mesmo ser a maior honra política que pode conferir-se a alguém, à excepção da honra de se ser eleito Presidente da República, a de se ser escolhido pelo povo português para o representar na feitura das leis, na fiscalização do Governo e nas demais competências que a Constituição atribui à Assembleia da República. Tenho a certeza de que os Srs. Deputados mereceram essa honra e que estarão à altura das inerentes responsabilidades. Desejo que o vosso mandato decorra da melhor maneira e que venha a dar-vos, e ao povo português necessariamente, as satisfações que dele esperam uns e outros.\nQueria também, neste momento, com um reconhecimento sincero, cumprimentar os senhores funcionários da Assembleia da República, que são uma peça fundamental do funcionamento desta prestigiosa \ninstituição. Sem eles não seria possível esse funcionamento e o sucesso que, apesar de tudo, vai sendo conseguido.\nNão obstante a instituição parlamentar enfrentar dias difíceis em todas as democracias modernas, creio que temos aqui um universo parlamentar preparado para enfrentar esse desafio e prestigiar, tanto quanto possível, esta instituição.\nQueria ainda cumprimentar os senhores representantes da comunicação social que connosco convivem quase diariamente, transformando-se, por força das suas funções, em especialistas nos assuntos relacionados com a Assembleia da República. Sem eles, tudo o que aqui se passa seria verdadeiramente um segredo de Estado.\nSem mais palavras, que neste momento se não justificam, temos a tarefa de votar um projecto de deliberação no sentido de aprovar a \nconstituição de uma comissão eventual de verificação de poderes dos Srs. Deputados eleitos, do ponto de vista da apreciação da regularidade formal dos seus mandatos.\nTemos também de nos despedir desde já - creio que não haverá outra oportunidade - dos Srs. Deputados que vão deixar-nos, porque mereceram, eles próprios, a honra específica de serem escolhidos para o Governo da Nação.\nDito isto, peço ao Sr. Secretário José Cesário que proceda à leitura do projecto de deliberação n.º 1/IX - Constituição de uma Comissão Eventual de Verificação de Poderes dos Deputados Eleitos, subscrito por todos os grupos parlamentares.", 
+   "type": "presidente"
   }, 
   {
-   "text": "É um honra muito grande, penso mesmo ser a maior honra política que pode conferir-se a alguém, à excepção da honra de se ser eleito Presidente da República, a de se ser escolhido pelo povo português para o representar na feitura das leis, na fiscalização do Governo e nas demais competências que a Constituição atribui à Assembleia da República. Tenho a certeza de que os Srs. Deputados mereceram essa honra e que estarão à altura das inerentes responsabilidades. Desejo que o vosso mandato decorra da melhor maneira e que venha a dar-vos, e ao povo português necessariamente, as satisfações que dele esperam uns e outros.\nQueria também, neste momento, com um reconhecimento sincero, cumprimentar os senhores funcionários da Assembleia da República, que são uma peça fundamental do funcionamento desta prestigiosa \ninstituição. Sem eles não seria possível esse funcionamento e o sucesso que, apesar de tudo, vai sendo conseguido.\nNão obstante a instituição parlamentar enfrentar dias difíceis em todas as democracias modernas, creio que temos aqui um universo parlamentar preparado para enfrentar esse desafio e prestigiar, tanto quanto possível, esta instituição.\nQueria ainda cumprimentar os senhores representantes da comunicação social que connosco convivem quase diariamente, transformando-se, por força das suas funções, em especialistas nos assuntos relacionados com a Assembleia da República. Sem eles, tudo o que aqui se passa seria verdadeiramente um segredo de Estado.\nSem mais palavras, que neste momento se não justificam, temos a tarefa de votar um projecto de deliberação no sentido de aprovar a \nconstituição de uma comissão eventual de verificação de poderes dos Srs. Deputados eleitos, do ponto de vista da apreciação da regularidade formal dos seus mandatos.\nTemos também de nos despedir desde já - creio que não haverá outra oportunidade - dos Srs. Deputados que vão deixar-nos, porque mereceram, eles próprios, a honra específica de serem escolhidos para o Governo da Nação.\nDito isto, peço ao Sr. Secretário José Cesário que proceda à leitura do projecto de deliberação n.º 1/IX - Constituição de uma Comissão Eventual de Verificação de Poderes dos Deputados Eleitos, subscrito por todos os grupos parlamentares.", 
-   "type": "continuacao"
-  }, 
-  {
-   "party": "José Cesário*): O projecto de deliberação n.º 1 /IX é do seguinte teor", 
-   "speaker": "O Sr. *Secretário", 
-   "text": "", 
-   "type": "continuacao"
+   "text": "O projecto de deliberação n.º 1 /IX é do seguinte teor:", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Aos 5 dias do mês de Abril de 2002, os Deputados eleitos na IX Legislatura da Assembleia da República deliberam constituir uma comissão eventual de verificação de poderes dos Deputados constantes da lista apresentada pela Comissão Nacional de Eleições, a qual se manterá em funcionamento até que se constitua a comissão competente em razão desta matéria.\nA comissão eventual é constituída pelos seguintes Srs. Deputados: \n11 membros designados pelo Partido Social Democrata: \n- Adão Fonseca Silva \n- António Montalvão Machado \n- Carlos José Martins \n- Duarte Pacheco \n- Gonçalo Capitão \n- Hugo Velosa \n- Joaquim Vasconcelos da Ponte \n- Jorge Neto \n- José Cesário \n- Maria Natália Carrascalão \n- Maria Ofélia Moleiro", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "9 membros designados pelo Partido Socialista: \n- António Braga \n- Artur Penedos \n- Fernando Serrasqueiro \n- Laurentino Dias \n- Luís Fagundes Duarte \n- Maria de Belém Roseira \n- Marques Júnior \n- Osvaldo Castro \n- Teresa Venda", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "4 membros designados pelo Partido Popular: \n- Álvaro Castello Branco \n- Diogo Feyo \n- Luís Duque \n- Nuno Teixeira de Melo", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "3 membros designados pelo Partido Comunista Português: \n- António Filipe \n- Luísa Mesquita \n- Bruno Dias", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "1 membro designado pelo Bloco de Esquerda: \n- Luís Fazenda", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "1 membro designado pelo Partido Ecologista Os Verdes: \n- Isabel Castro.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "Esta Comissão elegerá a sua Mesa e designará um relator.\nÉ seu objecto o apuramento da lista dos candidatos eleitos, organizada por partidos, segundo a representatividade decrescente dos mesmos, e por ordem alfabética, com indicação do respectivo círculo eleitoral, atribuindo a cada Deputado um número de ordem geral.\nEstes elementos constarão de um relatório a submeter à votação do Plenário, contendo a declaração de verificação dos poderes dos Deputados eleitos. A comissão procederá ainda às pertinentes substituições dos Deputados que exerçam cargos que determinem a suspensão do respectivo mandato, bem como dos demais que tenham requerido a mesma suspensão, pelos candidatos não eleitos dos respectivos partidos que se sigam na ordem de precedências, dos respectivos círculos e listas.\nDo relatório deverão constar ainda os demais factos com incidência na respectiva verificação de poderes.\nO relatório concluirá por um parecer formal, a submeter à votação do Plenário.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, o projecto de deliberação diz tudo menos que a reunião da comissão eventual decorrerá na sala 2 das comissões. Os Srs. Deputados que já sabem onde fica essa sala farão o favor de conduzir os demais que, porventura, não o souberem, por forma a que possam reunir de imediato.\nSrs. Deputados, vamos, então, proceder à votação do projecto de deliberação n.º 1/IX.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o projecto de deliberação diz tudo menos que a reunião da comissão eventual decorrerá na sala 2 das comissões. Os Srs. Deputados que já sabem onde fica essa sala farão o favor de conduzir os demais que, porventura, não o souberem, por forma a que possam reunir de imediato.\nSrs. Deputados, vamos, então, proceder à votação do projecto de deliberação n.º 1/IX.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos interromper os trabalhos para que a Comissão Eventual possa elaborar o seu relatório e respectivo parecer.\nPenso estarmos em condições de retomar os trabalhos da sessão plenária às 12 horas e 30 minutos.\nEstá, pois, interrompida a sessão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 10 horas e 40 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos reiniciar os trabalhos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 12 horas e 40 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, tendo a Comissão Eventual de Verificação de Poderes dos Deputados Eleitos elaborado o relatório e respectivo parecer, peço ao Sr. Deputado Duarte Pacheco, que foi eleito relator desta Comissão, o favor de proceder à sua leitura.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "PSD): O relatório apresentado pela Comissão Eventual de Verificação de Poderes dos Deputados Eleitos é do seguinte teor", 
-   "speaker": "O Sr. *Duarte Pacheco*", 
-   "text": "", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
+   "text": "O relatório apresentado pela Comissão Eventual de Verificação de Poderes dos Deputados Eleitos é do seguinte teor:\nAos 5 dias de Abril de 2002, pelas 11 horas, numa sala do Palácio de São Bento, reuniu a Comissão Eventual de Verificação de Poderes, para proceder à verificação dos poderes dos Deputados eleitos no dia 17 de Março de 2002 para a Assembleia da República - IX Legislatura.\nA Comissão é constituída pelos seguintes Deputados:", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Aos 5 dias de Abril de 2002, pelas 11 horas, numa sala do Palácio de São Bento, reuniu a Comissão Eventual de Verificação de Poderes, para proceder à verificação dos poderes dos Deputados eleitos no dia 17 de Março de 2002 para a Assembleia da República - IX Legislatura.\nA Comissão é constituída pelos seguintes Deputados:", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Partido Social Democrata - PSD \n- Adão José Fonseca Silva \n- António Edmundo Barbosa Montalvão Machado \n- Carlos José das Neves Martins \n- Duarte Rogério Matos Ventura Pacheco \n- Gonçalo Dinis Quaresma Sousa Capitão \n- Hugo José Teixeira Velosa \n- Joaquim Carlos Vasconcelos da Ponte \n- Jorge Manuel Ferraz de Freitas Neto \n- José de Almeida Cesário \n- Maria Natália Guterres V. Carrascalão da C. Antunes \n- Maria Ofélia Fernandes dos Santos Moleiro", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Partido Socialista - PS \n- António Alves Marques Júnior \n- António Fernandes da Silva Braga \n- Artur Rodrigues Pereira dos Penedos \n- Fernando Pereira Serrasqueiro \n- Laurentino José Monteiro Castro Dias \n- Luís Manuel Fagundes Duarte \n- Maria de Belém Roseira Martins Coelho H. de Pina \n- Osvaldo Alberto Rosário Sarmento e Castro \n- Teresa Maria Neto Venda", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Partido Popular - CDS-PP \n- Álvaro António Magalhães Ferrão Castello Branco \n- Diogo Nuno de Gouveia Torres Feyo \n- João Nuno Lacerda Teixeira de Melo \n- José Luís Vieira Duque", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Partido Comunista Português - PCP \n- António Filipe Gaião Rodrigues \n- Bruno Ramos Dias \n- Maria Luísa Raimundo Mesquita", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Bloco de Esquerda - BE \n- Luís Emídio Lopes Mateus Fazenda", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Partido Ecologista «Os Verdes» - PEV \n- Isabel Maria de Almeida e Castro", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Iniciada a reunião, a Comissão deliberou eleger a Mesa da Comissão constituída pelo Deputado António Fernandes da Silva Braga, do Partido Socialista - Presidente - e pelo Deputado Jorge Manuel Ferraz de Freitas Neto, do Partido Social Democrata - Vice-Presidente.\nFoi seguidamente deliberado nomear relator o Deputado Duarte Rogério Matos Ventura Pacheco do Partido Social Democrata.\nCompulsado o processo e os demais elementos enviados pela Comissão Nacional de Eleições, designadamente as actas de apuramento geral das eleições para a Assembleia da República, ali inclusas, constatou-se a regularidade formal da atribuição dos mandatos.\nÉ assim possível apurar a seguinte lista dos candidatos eleitos, organizada sob os nomes dos partidos que os apresentaram a sufrágio, segundo a representatividade decrescente dos mesmos e por ordem alfabética dos Deputados, com indicação do respectivo círculo eleitoral, atribuindo-se a cada, um número de ordem geral:", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Partido Social Democrata - PSD \n1 - Abílio Jorge Leite Almeida Costa - Porto \n2 - Adão José Fonseca Silva - Bragança \n3 - Alberto João Cardoso Gonçalves Jardim - Madeira \n4 - Álvaro Roque de Pinho Bissaia Barreto - Lisboa \n5 - Ana Maria Sequeira Mendes Pires Manso - Guarda \n6 - António Alfredo Delgado da Silva Preto - Lisboa \n7 - António da Silva Pinto de Nazaré Pereira - Vila Real \n8 - António Edmundo Barbosa Montalvão Machado - Porto \n9 - António Henriques de Pinho Cardão - Porto \n10 - António Joaquim Almeida Henriques - Viseu \n11 - António Manuel da Cruz Silva - Aveiro \n12 - António Maria Almeida Braga Pinheiro Torres - Braga \n13 - António Paulo Martins Pereira Coelho - Coimbra \n14 - António Pedro da Visitação Oliveira - Setúbal \n15 - Arménio dos Santos - Lisboa \n16 - Bruno Jorge Viegas Vitorino - Setúbal \n17 - Carlos Alberto Silva Gonçalves - Europa \n18 - Carlos Jorge Martins Pereira - Braga \n19 - Carlos José das Neves Martins - Faro \n20 - Carlos Manuel de Andrade Miranda - Viseu \n21 - Carlos Parente Antunes - Viana do Castelo \n22 - Diogo Alves de Sousa de Vasconcelos - Porto \n23 - Diogo de Sousa Almeida da Luz - Porto \n24 - Duarte Rogério Matos Ventura Pacheco - Lisboa \n25 - Eduardo Artur Neves Moreira - Fora da Europa \n26 - Eugénio Fernando de Sá Cerqueira Marinho - Braga \n27 - Feliciano José Barreiras Duarte - Leiria \n28 - Fernando Manuel Lopes Penha Pereira - Castelo Branco \n29 - Fernando Mimoso Negrão - Faro \n30 - Fernando Santos Pereira - Braga \n31 - Gonçalo Dinis Quaresma Sousa Capitão - Lisboa \n32 - Gonçalo Miguel Lopes Breda Marques - Aveiro \n33 - Gonçalo Trigo de Morais de Albuquerque Reis - Lisboa \n34 - Guilherme Henrique Valente Rodrigues da Silva - Madeira 35 - Henrique José Monteiro Chaves - Lisboa \n36 - Hermínio José Sobral de Loureiro Gonçalves - Aveiro \n37 - Hugo José Teixeira Velosa - Madeira \n38 - Isménia Aurora Salgado dos Anjos Vieira Franco - Aveiro 39 - João Bosco Soares Mota Amaral - Açores \n40 - João Eduardo Guimarães Moura de Sá - Porto \n41 - Joaquim Carlos Vasconcelos da Ponte - Açores \n42 - Joaquim Martins Ferreira do Amaral - Leiria \n43 - Joaquim Virgílio Leite Almeida da Costa - Braga \n44 - Jorge Manuel de Oliveira Godinho - Aveiro \n45 - Jorge Manuel Ferraz de Freitas Neto - Porto \n46 - José Alberto Vasconcelos Tavares Moreira - Braga \n47 - José Álvaro Machado Pacheco Pereira - Porto \n48 - José António Bessa Guerra - Vila Real \n49 - José António de Sousa e Silva - Leiria \n50 - José David Gomes Justino - Lisboa \n51 - José de Almeida Cesário - Viseu \n52 - José Eduardo Rêgo Mendes Martins - Viana do Castelo \n53 - José Luís Campos Vieira de Castro - Lisboa \n54 - José Luís Fazenda Arnaut Duarte - Viseu \n55 - José Manuel Carvalho Cordeiro - Santarém \n56 - José Manuel de Lemos Pavão - Bragança \n57 - José Manuel de Matos Correia - Lisboa", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "58 - José Manuel Durão Barroso - Lisboa \n59 - José Manuel Pereira da Costa - Lisboa \n60 - Luís Álvaro Barbosa de Campos Ferreira - Viana do Castelo 61 - Luís António Damásio Capoulas - Évora \n62 - Luís Cirilo Amorim de Campos Carvalho - Braga \n63 - Luís Filipe Alexandre Rodrigues - Setúbal \n64 - Luís Filipe Montenegro Cardoso de Morais Esteves - Aveiro 65 - Luís Manuel Gonçalves Marques Mendes - Aveiro \n66 - Luís Manuel Machado Rodrigues - Bragança \n67 - Luís Maria de Barros Serra Marques Guedes - Lisboa \n68 - Manuel Alves de Oliveira - Aveiro \n69 - Manuel Filipe Correia de Jesus - Madeira \n70 - Manuel Joaquim Dias Loureiro - Coimbra \n71 - Manuel Maria Moreira - Porto \n72 - Manuel Ricardo Dias dos Santos Fonseca de Almeida - Porto 73 - Marco António Ribeiro dos Santos Costa - Porto \n74 - Maria Aurora Moura Vieira - Porto \n75 - Maria Clara de Sá Morais R. Carvalho Veríssimo - Setúbal 76 - Maria da Assunção Andrade Esteves - Vila Real \n77 - Maria do Rosário da Silva Cardoso Águas - Porto \n78 - Maria Eduarda de Almeida Azevedo - Lisboa \n79 - Maria Elisa Rogado Contente Domingues - Castelo Branco \n80 - Maria Goreti Sá Maia da Costa Malhado - Braga \n81 - Maria Graça Ferreira Proença Carvalho - Leiria \n82 - Maria Leonor Couceiro P. Beleza Mendonça Tavares - Portalegre 83 - Maria Manuela Aguiar Dias Moreira - Fora da Europa \n84 - Maria Manuela Dias Ferreira Leite - Lisboa \n85 - Maria Natália Guterres V. Carrascalão da C. Antunes - Faro 86 - Maria Ofélia Fernandes dos Santos Moleiro - Leiria \n87 - Maria Teresa da Silva Morais - Coimbra \n88 - Maria Teresa Pinto Basto Patrício Gouveia - Porto \n89 - Mário da Silva Coutinho Albuquerque - Santarém \n90 - Mário Patinha Antão - Faro \n91 - Melchior Ribeiro Pereira Moreira - Viseu \n92 - Miguel Fernando Alves Ramos Coleta - Coimbra \n93 - Miguel Fernando Cassola de Miranda Relvas - Santarém \n94 - Miguel Jorge Reis Antunes Frasquilho - Setúbal \n95 - Nuno Albuquerque de Morais Sarmento - Santarém \n96 - Paulo Jorge Frazão Batista dos Santos - Leiria \n97 - Pedro Manuel Cruz Roseta - Lisboa \n98 - Pedro Miguel de Azeredo Duarte - Porto \n99 - Rui Manuel Lobo Gomes da Silva - Lisboa \n100 - Rui Miguel Lopes Martins Mendes Ribeiro - Braga \n101 - Salvador Manuel Correia Massano Cardoso - Coimbra \n102 - Sérgio André da Costa Vieira - Porto \n103 - Susana Maria de Moura Alves da Silva Toscano - Lisboa \n104 - Vasco Jorge Valdez Ferreira Matias - Guarda \n105 - Victor do Couto Cruz - Açores", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Partido Socialista - PS \n106 - Acácio Manuel de Frias Barreiros - Lisboa \n107 - Aires Manuel Jacinto de Carvalho - Setúbal \n108 - Alberto Arons Braga de Carvalho - Lisboa \n109 - Alberto Bernardes Costa - Porto \n110 - Alberto de Sousa Martins - Porto \n111 - Alberto Marques Antunes - Setúbal \n112 - Ana Maria Benavente da Silva Nuno - Viseu \n113 - Antero Gaspar de Paiva Vieira - Aveiro \n114 - António Alves Marques Júnior - Viana do Castelo \n115 - António Bento da Silva Galamba - Lisboa \n116 - António de Almeida Santos - Coimbra \n117 - António Fernandes da Silva Braga - Braga \n118 - António José Martins Seguro - Lisboa \n119 - António Luís Santos da Costa - Leiria \n120 - António Ramos Preto - Lisboa \n121 - Armando António Martins Vara - Bragança \n122 - Artur Miguel Claro da Fonseca Mora Coelho - Lisboa \n123 - Ascenso Luís Seixas Simões - Vila Real \n124 - Augusto Ernesto Santos Silva - Porto \n125 - Carlos Manuel Luís - Europa \n126 - Edite de Fátima Santos Marreiros Estrela - Lisboa \n127 - Eduardo Arménio do Nascimento Cabrita - Setúbal \n128 - Eduardo Luís Barreto Ferro Rodrigues - Lisboa \n129 - Elisa Maria da Costa Guimarães Ferreira - Braga \n130 - Fausto de Sousa Correia - Coimbra \n131 - Fernando dos Santos Cabral - Guarda \n132 - Fernando Manuel dos Santos Gomes - Porto \n133 - Fernando Pereira Cabodeira - Viana do Castelo \n134 - Fernando Pereira Serrasqueiro - Castelo Branco \n135 - Fernando Ribeiro Moniz - Braga \n136 - Francisco José Pereira de Assis Miranda - Porto \n137 - Guilherme Valdemar Pereira d'Oliveira Martins - Porto \n138 - Jaime José Matos da Gama - Lisboa \n139 - Jamila Bárbara Madeira e Madeira - Faro \n140 - João Barroso Soares - Lisboa \n141 - João Cardona Gomes Cravinho - Aveiro \n142 - João Rui Gaspar de Almeida - Coimbra \n143 - Joaquim Augusto Nunes de Pina Moura - Guarda \n144 - Joel Eduardo Neves Hasse Ferreira - Setúbal \n145 - Jorge Lacão Costa - Santarém \n146 - Jorge Manuel Gouveia Strecht Ribeiro - Porto \n147 - Jorge Paulo Sacadura de Almeida Coelho - Lisboa \n148 - José Adelmo Gouveia Bordalo Junqueiro - Viseu \n149 - José António Fonseca Vieira da Silva - Braga \n150 - José Apolinário Nunes Portada - Faro \n151 - José Augusto Clemente de Carvalho - Lisboa \n152 - José da Conceição Saraiva - Porto \n153 - José Eduardo Vera Cruz Jardim - Lisboa \n154 - José Manuel de Medeiros Ferreira - Açores \n155 - José Manuel Lello Ribeiro de Almeida - Porto \n156 - José Manuel Santos de Magalhães - Porto \n157 - José Miguel Abreu de Figueiredo Medeiros - Leiria \n158 - José Sócrates Carvalho Pinto de Sousa - Castelo Branco 159 - Júlio Francisco Miranda Calha - Portalegre \n160 - Laurentino José Monteiro Castro Dias - Braga \n161 - Leonor Coutinho Pereira dos Santos - Lisboa \n162 - Luís Afonso Cerqueira Natividade Candal - Aveiro \n163 - Luís Alberto da Silva Miranda - Beja \n164 - Luís Manuel Capoulas dos Santos - Évora \n165 - Luís Manuel de Carvalho Carito - Faro \n166 - Luís Manuel Fagundes Duarte - Açores \n167 - Luísa Pinheiro Portugal - Santarém \n168 - Manuel Alegre de Melo Duarte - Lisboa \n169 - Manuel Maria Ferreira Carrilho - Porto \n170 - Manuel Pedro Cunha da Silva Pereira - Vila Real \n171 - Maria Amélia do Carmo Mota Santos - Setúbal \n172 - Maria Celeste Lopes da Silva Correia - Lisboa \n173 - Maria Custódia Barbosa Fernandes Costa - Lisboa \n174 - Maria de Belém Roseira Martins Coelho H. de Pina - Aveiro 175 - Maria do Carmo Romão Sacadura dos Santos - Lisboa \n176 - Maria do Rosário L. Amaro da Costa da L. Carneiro - Faro 177 - Maria Helena do Rêgo da Costa Salema Roseta - Coimbra", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "178 - Maria Isabel da Silva Pires de Lima - Porto \n179 - Maria Manuela de Macedo Pinho de Melo - Porto \n180 - Maria Teresa Vaz Torrão Lago - Porto \n181 - Maximiano Alberto Rodrigues Martins - Madeira \n182 - Miguel Bernardo Ginestal Machado M. Albuquerque - Viseu 183 - Nelson da Cunha Correia - Porto \n184 - Nelson Madeira Baltazar - Santarém \n185 - Osvaldo Alberto Rosário Sarmento e Castro - Leiria \n186 - Paula Cristina Ferreira Guimarães Duarte - Porto \n187 - Paulo José Fernandes Pedroso - Setúbal \n188 - Renato Luís de Araújo Forte Sampaio - Porto \n189 - Ricardo Manuel Ferreira Gonçalves - Braga \n190 - Rosa Maria da Silva Bastos da Horta Albernaz - Aveiro \n191 - Rosalina Maria Barbosa Martins - Viana do Castelo \n192 - Rui António Ferreira da Cunha - Beja \n193 - Rui do Nascimento Rabaça Vieira - Lisboa \n194 - Sónia Ermelinda Matos da Silva Fertuzinhos - Braga \n195 - Teresa Maria Neto Venda - Braga \n196 - Valter Victorino Lemos - Castelo Branco \n197 - Vicente Jorge Lopes Gomes da Silva - Lisboa \n198 - Victor Manuel Bento Baptista - Coimbra \n199 - Vitalino José Ferreira Prova Canas - Santarém \n200 - Vítor Manuel Sampaio Caetano Ramalho - Setúbal \n201 - Zelinda Margarida Carmo Marouço Oliveira Semedo - Portalegre", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Partido Popular - CDS-PP \n202 - Acílio Domingues Gala - Aveiro \n203 - Álvaro António Magalhães Ferrão Castello Branco - Porto 204 - Basílio Adolfo de Mendonça Horta da Franca - Porto \n205 - Diogo Nuno Gouveia Torres Feyo - Porto \n206 - João Guilherme Nobre Prata Fragoso Rebelo - Lisboa \n207 - João Nuno Lacerda Teixeira de Melo - Braga \n208 - João Rodrigo Pinho de Almeida - Lisboa \n209 - José Miguel Nunes Anacoreta Correia - Viseu \n210 - Luís José Vieira Duque - Santarém \n211 - Maria Celeste Ferreira Lopes Cardona - Leiria \n212 - Narana Sinai Coissoró - Setúbal \n213 - Paulo Sacadura Cabral Portas - Aveiro \n214 - Pedro Manuel Brandão Rodrigues - Lisboa \n215 - Telmo Augusto Gomes de Noronha Correia - Lisboa", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Partido Comunista Português - PCP \n216 - António Filipe Gaião Rodrigues - Lisboa \n217 - António João Rodeia Machado - Beja \n218 - Bernardino José Torrão Soares - Lisboa \n219 - Bruno Ramos Dias - Setúbal \n220 - Carlos Alberto do Vale Gomes Carvalhas - Lisboa \n221 - Jerónimo Carvalho de Sousa - Setúbal \n222 - José Honório Faria Gonçalves Novo - Porto \n223 - Lino António Marques de Carvalho - Évora \n224 - Maria Luísa Raimundo Mesquita - Santarém \n225 - Maria Odete dos Santos - Setúbal", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Bloco de Esquerda - BE \n226 - Francisco Anacleto Louçã - Lisboa \n227 - João Manuel Trancoso Vaz Teixeira Lopes - Porto \n228 - Luís Emídio Lopes Mateus Fazenda - Lisboa", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "Partido Ecologista «Os Verdes» - PEV \n229 - Heloísa Augusta Baião de Brito Apolónia - Setúbal \n230 - Isabel Maria de Almeida e Castro - Lisboa", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Duarte Pacheco", 
    "text": "A Comissão foi de parecer, por unanimidade, que devem ser julgados como verificados os poderes de todos os Deputados constantes da referida lista.\nTendo em conta as disposições legais aplicáveis, a Comissão Eventual de Verificação de Poderes, com os pedidos formulados a tal propósito, procedeu às substituições pertinentes dos Deputados que exercem cargos que determinam a suspensão do mandato (artigo 4.º e artigo 20.º do Estatuto dos Deputados) pelos candidatos não eleitos dos concernentes partidos que lhes seguem na ordem de precedência nas listas dos respectivos círculos eleitorais, salvo os que na presente data estejam abrangidos por impedimento ou tenham apresentado pedido de suspensão:", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "- Artigo 20.º, n. 1, alínea a), do Estatuto dos Deputados, com início a 5 de Abril corrente, inclusive", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "- Artigo 20.º, n. 1, alínea a), do Estatuto dos Deputados, com início a 5 de Abril corrente, inclusive", 
    "text": "Partido Socialista - PS \n- Rui António Ferreira da Cunha (Círculo Eleitoral de Beja), por Nelson Domingos Brito; \n- Elisa Maria da Costa Guimarães Ferreira (Círculo Eleitoral de Braga), por Isabel Maria Pinto Nunes Jorge Tinoco de Faria; \n- José António Fonseca Vieira da Silva (Círculo Eleitoral de Braga), por Luís Miguel Gomes Miranda Teixeira; \n- José Sócrates Carvalho Pinto de Sousa (Círculo Eleitoral de Castelo Branco), por Maria Cristina Vicente Pires Granada; \n- Fausto de Sousa Correia (Círculo Eleitoral de Coimbra), por Vítor Manuel Barreto Marinho da Cunha; \n- João Rui Gaspar de Almeida (Círculo Eleitoral de Coimbra), por Artur Barreirinhas Sales Guedes Coimbra; \n- Luís Manuel de Capoulas Santos (Círculo Eleitoral de Évora), por José Alberto Leal Fateixa Palmeiro; \n- José Apolinário Nunes Portada (Círculo Eleitoral de Faro), por António Franciso Ventura Pina; \n- António Luís Santos da Costa (Círculo Eleitoral de Leiria), por Isabel Maria Batalha Vigia Polaco d'Almeida; \n- Jaime José Matos da Gama (Círculo Eleitoral de Lisboa), por José Aurélio da Silva Barros Moura; \n- António José Martins Seguro (Círculo Eleitoral de Lisboa), por Maria Irene Marques Veloso; \n- Leonor Coutinho Pereira dos Santos (Círculo Eleitoral de Lisboa), por Emanuel Silva Martins; \n- Acácio Manuel de Frias Barreiros (Círculo Eleitoral de Lisboa), por Manuel Alberto Barbosa de Oliveira; \n- José Augusto Clemente de Carvalho (Círculo Eleitoral de Lisboa), por João Francisco Gomes Benavente; \n- Alberto Arons Braga de Carvalho (Círculo Eleitoral de Lisboa), por Casimiro Francisco Ramos; \n- Alberto de Sousa Martins (Círculo Eleitoral do Porto), por Artur Rodrigues Pereira dos Penedos; \n- José Alberto Lello Ribeiro de Almeida (Círculo Eleitoral do Porto), por Gustavo Emanuel Alves de Figueiredo Carranca; \n- Guilherme Valdemar Pereira d'Oliveira Martins (Círculo Eleitoral do Porto), por Manuel Joaquim Barbosa Ribeiro; \n- Augusto Ernesto Santos Silva (Círculo Eleitoral do Porto), por Mário Joaquim Silva Mourão; \n- José Manuel Santos de Magalhães (Círculo Eleitoral do Porto), por Fernando Manuel de Jesus; \n- Vitalino José Ferreira Prova Canas (Círculo Eleitoral de Santarém), por José Miguel Correia Noras; \n- Paulo José Fernandes Pedroso (Círculo Eleitoral de Setúbal), por Ana Catarina Veiga Santos Mendonça Mendes; \n- Eduardo Arménio do Nascimento Cabrita (Círculo Eleitoral de Setúbal), por José Manuel Pires Epifânio; \n- Manuel Pedro Cunha da Silva Pereira (Círculo Eleitoral de Vila Real), por Ema Paula Morais Gonçalo;", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "- Artigo 20.º, n. 1, alínea a), do Estatuto dos Deputados, com início a 5 de Abril corrente, inclusive", 
    "text": "- José Adelmo Gouveia Bordalo Junqueiro (Círculo Eleitoral de Viseu), por João Alberto Martins Sobral;", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "- Artigo 20.º, n. 1, alínea c), do Estatuto dos Deputados, com início a 5 de Abril corrente, inclusive", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "- Artigo 20.º, n. 1, alínea c), do Estatuto dos Deputados, com início a 5 de Abril corrente, inclusive", 
    "text": "Partido Social Democrata - PSD \n- José Álvaro Machado Pacheco Pereira (Círculo Eleitoral do Porto), por Adriana Maria Bento de Aguiar Branco;", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "- Artigo 20.º, n. 1, alínea d), do Estatuto dos Deputados, com início a 5 de Abril corrente, inclusive", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "- Artigo 20.º, n. 1, alínea d), do Estatuto dos Deputados, com início a 5 de Abril corrente, inclusive", 
    "text": "Partido Social Democrata - PSD \n- Alberto João Cardoso Gonçalves Jardim (Círculo Eleitoral da Madeira), por Carlos Alberto Rodrigues;", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "- Artigo 20.º, n. 1, alínea h), do Estatuto dos Deputados, com início a 5 de Abril corrente, inclusive", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "- Artigo 20.º, n. 1, alínea h), do Estatuto dos Deputados, com início a 5 de Abril corrente, inclusive", 
    "text": "Partido Socialista - PS \n- Fernando Pereira Cabodeira (Círculo Eleitoral de Viana do Castelo), por José Alberto Sequeiros de Castro Pontes.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "A Comissão analisou ainda as seguintes substituições nos termos do artigo 5.º do Estatuto dos Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Comissão analisou ainda as seguintes substituições nos termos do artigo 5.º do Estatuto dos Deputados", 
    "text": "- Artigo 5.º, n.º 2, alínea d), do Estatuto dos Deputados, com início a 5 de Abril corrente, inclusive, e por um período não inferior a 50 (cinquenta) dias:", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Comissão analisou ainda as seguintes substituições nos termos do artigo 5.º do Estatuto dos Deputados", 
    "text": "Partido Socialista - PS \n- Armando António Martins Vara (Círculo Eleitoral de Bragança), por José Carlos Correia Mota de Andrade; \n- Maria Teresa Vaz Torrão Lago (Círculo Eleitoral do Porto), por Helena Maria Mesquita Ribeiro; \n- Maria Manuela de Macedo Pinho e Melo (Círculo Eleitoral do Porto), por Ricardo Manuel da Silva Monteiro Bexiga.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Comissão analisou ainda as seguintes substituições nos termos do artigo 5.º do Estatuto dos Deputados", 
    "text": "Admitindo desde já todas as substituições de acordo com os \nrequerimentos apresentados, a Comissão deliberou, contudo, remeter para ulterior apreciação da Comissão de Ética os pedidos de substituição formulados ao abrigo do disposto nos pontos n.os 7, alínea b), e 8 deste relatório, atento o disposto no artigo 5.º do Estatuto dos Deputados.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Comissão analisou ainda as seguintes substituições nos termos do artigo 5.º do Estatuto dos Deputados", 
    "text": "Examinados os elementos de que dispõe, a Comissão foi de parecer que devem igualmente ser julgados como verificados os poderes dos mencionados Deputados substitutos e, assim, legitimadas as \nsubstituições em apreço.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Comissão analisou ainda as seguintes substituições nos termos do artigo 5.º do Estatuto dos Deputados", 
    "text": "Palácio de São Bento, em 5 de Abril de 2002. - Pela Comissão: \nPresidente, António Fernandes da Silva Braga (PS) - Vice-Presidente, Jorge Manuel Ferraz de Freitas Neto (PSD) - Relator, Duarte Rogério Matos Ventura Pacheco (PSD).", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Não havendo pedidos de palavra, vamos passar à votação do parecer.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Não havendo pedidos de palavra, vamos passar à votação do parecer.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, julgo que posso pedir-vos autorização para, num dia como o de hoje, não se marcarem faltas.\nSrs. Deputados, retomaremos os nossos trabalhos na próxima \nquarta-feira, dia 10, pelas 15 horas, como foi acordado em Conferência dos Representantes dos Grupos Parlamentares, para a eleição do Presidente da Assembleia da República e dos restantes membros da Mesa, Vice-Presidentes, Secretários e Vice-Secretários, bem como para a eleição dos representantes dos grupos parlamentares para o Conselho de Administração da Assembleia da República.\nEspero que seja muito feliz o vosso primeiro fim-de-semana na qualidade de Deputados eleitos.\nSrs. Deputados, está encerrada a sessão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 12 horas e 50 minutos.", 

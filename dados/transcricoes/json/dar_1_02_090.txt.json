@@ -29,8 +29,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai proceder-se à chamada.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Vai proceder-se à chamada.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 15 horas e 50 minutos.", 
@@ -39,244 +40,286 @@
   {
    "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adelino Teixeira de Carvalho.\nAgostinho Martins do Vale.\nAlbano Pereira da Cunha Pina.\nAlfredo Fernando de Carvalho.\nAlfredo Pinto da Silva.\nAmadeu da Silva Cruz.\nAntónio Alberto Monteiro de Aguiar.\nAntónio Barros dos Santos.\nAntónio Cândido Macedo.\nAntónio Chaves Medeiros.\nAntónio Fernandes da Fonseca.\nAntónio Jorge Moreira Portugal.\nAntónio José Pinheiro Silva.\nAntónio José Sanches Esteves.\nAntónio Magalhães da Silva.\nAntónio Manuel de Oliveira Guterres.\nAntónio Rico Calado.\nAquilino Ribeiro Machado.\nArmando F. C. Pereira Bacelar.\nArmando dos Santos Lopes.\nAvelino Ferreira Loureiro Zenha.\nBeatriz Almeida Cal Brandão.\nBenjamim Nunes Leitão de Carvalho.\nBento Elísio de Azevedo.\nCarlos Alberto Andrade Neves.\nCarlos Cardoso Lage.\nCarlos Justino Luís Cordeiro.\nCarlos Manuel da Costa Moreira.\nCarlos Manuel Natividade da C. Candal.\nDelmiro Manuel de Sousa Correia.\nDieter Dellinger.\nEduardo Ribeiro Pereira.\nEtelvina Lopes de Almeida.\nEurico Manuel das Neves H. Mendes.\nEurico Teimo de Campos.\nFernando Abel Simões.\nFernando Jaime Pereira de Almeida.\nFernando Luís de Almeida Torres Marinho.\nFernando Reis Luís.\nFernando Tavares Loureiro.\nFlorêncio Quintas Matias.\nFrancisco de Almeida Salgado Zenha.\nFrancisco António Marques Barracosa.\nFrancisco de Assis de M. Lino Neto.\nFrancisco Cardoso Pereira de Oliveira.\nFrancisco Manuel Marcelo Curto.\nFrancisco do Patrocínio Martins.\nGualter Viriato Nunes Basílio.\nHenrique M. Velez Marques dos Santos.\nHerculano Rodrigues Pires.\nJerónimo da Silva Pereira.\nJoão Francisco Ludovico da Costa.\nJoão Luís Tavares de Medeiros.\nJoão da Silva.\nJoão do Rosário Barrento Henriques.\nJoaquim José Catanho de Menezes.\nJoaquim Oliveira Rodrigues.\nJoaquim Sousa Gomes Carneiro.\nJosé Cândido Rodrigues Pimenta.\nJosé Ferreira Dionísio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "3356 I SÉRIE-NÚMERO 90", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "José Manuel Medeiros Ferreira.\nJosé Manuel Nisa Antunes Mendes.\nJosé Maria Parente Mendes Godinho.\nJosé M. de Albuquerque de A. Leitão.\nLudovina das Dores Rosado.\nLuís Abílio da Conceição Cacito.\nLuís Filipe Nascimento Madeira.\nLuís José Godinho Cid.\nLuís Patrício Rosado Gonçalves.\nManuel Alegre de Melo Duarte.\nManuel Alfredo Tito de Morais.\nManuel do Carmo Mendes.\nManuel Francisco Costa.\nManuel Joaquim Paiva Pereira Pires.\nManuel Lencastre M. de Sousa Figueiredo.\nManuel Pereira Dias.\nMaria Alzira Costa de Castro C. Lemos.\nMaria Emília de Melo Moreira da Silva.\nMaria de Jesus Simões Barroso Soares.\nMaria Margarida de Ramos de Carvalho.\nMaria Teresa do Vale de Matos.\nMário Manuel Cal Brandão.\nNuno Maria Monteiro Godinho de Matos.\nPedro Amadeu de A. dos Santos Coelho.\nRaul d'Assunção Pimenta Rego.\nRodolfo Alexandrino Suzano Crespo.\nRui Paulo do Vale Valadares.\nSerafim Olindo Ramos Bastos.\nSérgio Augusto Nunes Simões.\nTelmo Ferreira Neto.\nTeófilo Carvalho dos Santos.\nVasco da Gama Lopes Fernandes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Afonso de Sousa Freire de Moura Guedes.\nÁlvaro Barros Marques de Figueiredo.\nAmândio Anes de Azevedo.\nAmantino Marques Pereira de Lemos.\nAmélia Cavaleiro M. de A. de Azevedo.\nAmérico de Sequeira.\nAnatólio Manuel dos Santos Vasconcelos.\nAntídio das Neves Costa.\nAntónio Augusto Lacerda de Queiroz.\nAntónio Coutinho Monteiro de Freitas.\nAntónio Egídio Fernandes Loja.\nAntónio Joaquim Bastos Marques Mendes.\nAntónio Joaquim Veríssimo.\nAntónio Jorge Duarte Rebelo de Sousa.\nAntónio José dos Santos Moreira da Silva.\nAntónio Júlio Simões de Aguiar.\nAntónio Manuel Barata Portugal.\nArcanjo Nunes Luís.\nArmando António Correia.\nArnaldo Ângelo de Brito Lhamas.\nArtur Videira Pinto da Cunha Leal.\nCarlos Alberto Coelho de Sousa.\nCirilo Oliveira Marinho.\nCristóvão Guerreiro Norte.\nEduardo José Vieira.\nFernando Adriano Pinto.\nFernando José Sequeira Roriz.\nFrancisco Barbosa da Costa.\nFrancisco Braga Barroso.\nGabriel Ribeiro da Frada.\nHenrique Manuel de Pontes Leça.\nJoão António Martelo de Oliveira.\nJoão Gabriel Soeiro de Carvalho.\nJoão José dos Santos Rocha.\nJoão Lucílio Caceia Leitão.\nJoão Manuel Ferreira.\nJoaquim Jorge de Magalhães S. da Mota.\nJosé Adriano Gago Vitorino.\nJosé Alberto Ribeiro.\nJosé Ângelo Ferreira Correia.\nJosé António Nunes Furtado Fernandes.\nJosé Augusto de A. de Oliveira Baptista.\nJosé Bento Gonçalves.\nJosé Ferreira Júnior.\nJosé Gonçalves Sapinho.\nJosé Joaquim Lima Monteiro de Andrade.\nJosé Júlio Carvalho Ribeiro.\nJosé Manuel M. Sampaio Pimentel.\nJosé Manuel Ribeiro Sérvulo Correia.\nJosé Rui Sousa Fernandes.\nJosé Theodoro de Jesus da Silva.\nJúlio Maria Alves da Silva.\nLuís Fernando C. Nandim de Carvalho.\nManuel Cardoso Vilhena de Carvalho.\nManuel da Costa Andrade.\nManuel Cunha Rodrigues.\nManuel Henriques Pires Fontoura.\nManuel Sérgio Vila Lobos Menezes.\nManuel Valentim Pereira Vilar.\nMaria Élia Brito Câmara.\nMaria Helena do Rego da Costa S. Roseta.\nMário Fernando de Campos Pinto.\nNicolau Gregório de Freitas.\nNuno Aires Henriques dos Santos.\nOlívio da Silva França.\nPedro Manuel da Cruz Roseta.\nRui Manuel Parente C. de Machete.\nVictor Hugo Mendes dos Santos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adelino Manuel Lopes Amaro da Costa.\nAdriano Vasco da Fonseca Rodrigues.\nAlexandre Correia Carvalho Reigoto.\nÁlvaro Dias de Sousa Ribeiro.\nÁlvaro Manuel Brandão Estêvão.\nÂngelo Alberto Ribas da Silva Vieira.\nAntónio Jacinto Martins Canaverde.\nAntónio João Pistachini Gomes Moita.\nCarlos Alberto Faria de Almeida.\nCarlos Martins Robalo.\nDiogo Pinto de Freitas do Amaral.\nDomingos da Silva Pereira.\nEugénio Maria N. Anacoreta Correia.\nFrancisco António Lucas Pires.\nFrancisco Manuel Farromba Vilela.\nFrancisco Manuel L. V. Oliveira Dias.\nHenrique José C. M. P. de Morais.\nJoão Carlos F. Malho da Fonseca.\nJoão José M. F. Pulido de Almeida.\nJoão Manuel Korrodi G. da S. Gravato.\nJosé Cunha Simões.\nJosé Duarte de A. Ribeiro de Castro.\nJosé Manuel Cabral Fernandes.\nJosé Manuel Macedo Pereira.\nJosé Vicente de J. Carvalho Cardoso.\nLuís Aníbal de Sá de Azevedo Coutinho.\nLuís Esteves Ramires.\nManuel A. de A. de Azevedo Vasconcelos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "21 DE JULHO DE 1978 3357", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Maria José Sampaio.\nNarana Sinai Coissoró.\nRui Fausto Fernandes Marrana.\nRui Garcia de Oliveira.\nRui Mendes Tavares.\nVictor Afonso Pinto da Cruz.\nWalter Francisco Burmester Cudell.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nAntónio Marques Juzarte.\nAntónio Marques Pedrosa.\nCarlos Alberto do Vale G. Carvalhas.\nEduardo Sá Matos.\nErcília Carreira Pimenta Talhadas.\nFernando de Almeida Sousa Marques.\nFrancisco Miguel Duarte.\nGeorgete de Oliveira Ferreira.\nJaime dos Santos Serra.\nJerónimo Carvalho de Sousa.\nJoaquim Gomes dos Santos.\nJoaquim da Silva Rocha Felgueiras.\nJorge Manuel Abreu de Lemos.\nJosé Cavalheira Antunes.\nJosé Manuel Maia Nunes de Almeida.\nJosé Manuel Paiva Jara.\nLino Carvalho de Lima.\nManuel Duarte Gomes.\nManuel Gonçalves.\nManuel Mendes Nobre de Gusmão.\nMaria Alda Barbosa Nogueira.\nOctávio Floriano Rodrigues Pato.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Independentes", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "António Poppe Lopes Cardoso.\nCarlos Galvão de Melo.\nJosé Justiniano Taboada Brás Pinto.\nReinaldo Jorge Vital Rodrigues.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Responderam à chamada 222 Srs. Deputados.\nEstá aberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Responderam à chamada 222 Srs. Deputados.\nEstá aberta a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 16 horas e 15 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Peço aos grupos parlamentares o favor de nomearem os seus representantes, um Deputado por cada um, para, às 16 horas e 40 minutos, receberem o Sr. Presidente da República Francesa junto da porta principal.\nInterrompo, pois, a sessão para se organizar a recepção ao Sr.Presidente da República Francesa.\nÀs 17 horas e 10 minutos entrou na Sala das Sessões o cortejo em que se integravam o Sr. Presidente da Republica Francesa (Valery Giscard d'Estaing), o Sr. Presidente da Assembleia da República, o Sr.Primeiro-Ministro, o Sr. Presidente do Supremo Tribunal de Justiça, os Secretários da Mesa, os membros da comitiva do Sr. Presidente da República Francesa, o Secretário-Geral da Assembleia da República, o chefe e os secretários do Protocolo.\nNo hemiciclo, especialmente convidados, encontravam-se Conselheiros da Revolução, o Ministro da República na Região Autónoma da Madeira, o Provedor de Justiça, o Presidente da Assembleia Regional dos Açores, o procurador-geral da República e membros da Comissão Constitucional.\nOs Ministros ocuparam a sua bancada, enquanto os restantes membros do Governo e o Corpo Diplomático tomaram lugar nas tribunas.\nFormada a Mesa, O Sr. Presidente da República Francesa ocupou o lugar à direita do Sr. Presidente da Assembleia da República, tendo igualmente tomado lugar na Mesa o Sr. Primeiro-Ministro e o Sr. Presidente do Supremo Tribunal de Justiça.\nNesse momento a Assembleia e a assistência aplaudiram, de pé, o Sr.Presidente da República Francesa.\nSeguidamente a Banda da Guarda Nacional Republicana, colocada junto aos Passos Perdidos, executou os hinos nacionais dos dois países, primeiro o da França e depois o de Portugal.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Peço aos grupos parlamentares o favor de nomearem os seus representantes, um Deputado por cada um, para, às 16 horas e 40 minutos, receberem o Sr. Presidente da República Francesa junto da porta principal.\nInterrompo, pois, a sessão para se organizar a recepção ao Sr.Presidente da República Francesa.\nÀs 17 horas e 10 minutos entrou na Sala das Sessões o cortejo em que se integravam o Sr. Presidente da Republica Francesa (Valery Giscard d'Estaing), o Sr. Presidente da Assembleia da República, o Sr.Primeiro-Ministro, o Sr. Presidente do Supremo Tribunal de Justiça, os Secretários da Mesa, os membros da comitiva do Sr. Presidente da República Francesa, o Secretário-Geral da Assembleia da República, o chefe e os secretários do Protocolo.\nNo hemiciclo, especialmente convidados, encontravam-se Conselheiros da Revolução, o Ministro da República na Região Autónoma da Madeira, o Provedor de Justiça, o Presidente da Assembleia Regional dos Açores, o procurador-geral da República e membros da Comissão Constitucional.\nOs Ministros ocuparam a sua bancada, enquanto os restantes membros do Governo e o Corpo Diplomático tomaram lugar nas tribunas.\nFormada a Mesa, O Sr. Presidente da República Francesa ocupou o lugar à direita do Sr. Presidente da Assembleia da República, tendo igualmente tomado lugar na Mesa o Sr. Primeiro-Ministro e o Sr. Presidente do Supremo Tribunal de Justiça.\nNesse momento a Assembleia e a assistência aplaudiram, de pé, o Sr.Presidente da República Francesa.\nSeguidamente a Banda da Guarda Nacional Republicana, colocada junto aos Passos Perdidos, executou os hinos nacionais dos dois países, primeiro o da França e depois o de Portugal.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está reaberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Presidente da República Francesa, Sr.Primeiro-Ministro, Sr. Presidente do Supremo Tribunal de Justiça, Srs.Conselheiros da Revolução, Srs. Ministros, ilustres convidados, Srs.Deputados, minhas Senhoras e meus Senhores: Se me lembro, Sr.Presidente! \nSe me lembro daquele período dramático em que a França entrara no drama da ocupação! E ainda me lembro mais que no próprio dia em que as tropas de Hitler atravessaram a fronteira a população da cidadezinha onde então vivia reuniu-se à minha volta e dos amigos da França para protestar e, mais do que isso, para garantir de que estávamos presentes.\nNessa altura tinha sob os olhos o n.º 883 de Lês Nouvelles Litéraires, onde Paul Hazard lançava este apelo dramático, que não sou capaz de ler, a não ser na língua original tão comoventemente expressiva:", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Presidente da República Francesa, Sr.Primeiro-Ministro, Sr. Presidente do Supremo Tribunal de Justiça, Srs.Conselheiros da Revolução, Srs. Ministros, ilustres convidados, Srs.Deputados, minhas Senhoras e meus Senhores: Se me lembro, Sr.Presidente! \nSe me lembro daquele período dramático em que a França entrara no drama da ocupação! E ainda me lembro mais que no próprio dia em que as tropas de Hitler atravessaram a fronteira a população da cidadezinha onde então vivia reuniu-se à minha volta e dos amigos da França para protestar e, mais do que isso, para garantir de que estávamos presentes.\nNessa altura tinha sob os olhos o n.º 883 de Lês Nouvelles Litéraires, onde Paul Hazard lançava este apelo dramático, que não sou capaz de ler, a não ser na língua original tão comoventemente expressiva:\nAmis étrangers, amis proches et lointains, amis d'Europe et d'Amérique, vous ne nous avez jamais failli. Chaque fois que nous étions en péril, vous avez oublié nos défauts, sachant qu'ils étaient tous humains; et vous vous êtes ranges à notre cote, avec une générosité de couer que nous n'avons point oublié; car nous savons qu'un peuple ne se soutient pás, s'il n'est pás digne de vivre; par votre affection, par votre estime, vous nous aviez dit que nous étions dignes de vivre \néternellement; et que quelque chose d'essentiel manquerait au monde, si la France n'accomplissait plus sa mission.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Amis étrangers, amis proches et lointains, amis d'Europe et d'Amérique, vous ne nous avez jamais failli. Chaque fois que nous étions en péril, vous avez oublié nos défauts, sachant qu'ils étaient tous humains; et vous vous êtes ranges à notre cote, avec une générosité de couer que nous n'avons point oublié; car nous savons qu'un peuple ne se soutient pás, s'il n'est pás digne de vivre; par votre affection, par votre estime, vous nous aviez dit que nous étions dignes de vivre \néternellement; et que quelque chose d'essentiel manquerait au monde, si la France n'accomplissait plus sa mission.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Na verdade, qualquer coisa de essencial faltaria ao mundo se a França não realizasse a sua missão.\nO que estava em causa não era só o destino da França, mas sim o destino da própria Humanidade, pois a França, segundo Rodin, definia-se como sendo modelada pelo coração e desenhada pela inteligência.\nO coração era aquele que um príncipe indiano sintetizava ao chegar a Paris: «Aqui bate o coração do Mundo.» \nA inteligência era a concepção milenária de uma cultura que, começando por ser francesa, passou imediatamente a ser património do universo sensível.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "3358 I SÉRIE -NUMERO 90", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Na sua tocante simplicidade, o príncipe indiano recordava-se certamente das páginas de Vítor Hugo ou do teatro de Moliére; lembrava-se instintivamente de Descartes, de Bergson, de Jean-Jacques Rous-seau, de Ravel, de Faurier, que tinha nos olhos a recordação do penseur de Rodin, dos enciclopedistas da revolução e do heroísmo dos homens e da mulheres que jamais deixaram de ser dignos nas procelas da adversidade passageira, civis ou militares, intelectuais ou simples homens de rua.\nÉ esta agora a minha recordação também, vendo passar, face à minha sensibilidade, as mensagens da inteligência que formaram a essência daquela cultura que, nascida nos arcanos da civilização greco-latina, encontraram na França a intérprete ansiosa e polivalente de um estilo de vida sem o qual não vale a pena viver.\nNesse estilo de vida se insere o amor à liberdade, a devoção pelas grandes solicitações do espírito, os pensamentos que Montaigne tão bem sintetizou. Também se insere o heroísmo civil e heróico das populações insubmissas, que durante as resistências souberam sofrer e morrer para a felicidade de todos nós.\nHá quem afirme que a vida é feita de mistérios, mas, se é assim, nada há de misterioso na projecção do génio francês. Objectivamente esse génio processou-se à luz clara da razão, trazendo à superfície todos os resíduos da libertação do homem, ou seja, os resistentes que nas agonias e nas glórias souberam defender exemplarmente os direitos do homem e do cidadão, transformando este numa entidade válida e autêntica, firme na cidadela conquistada e desafiando as incógnitas do futuro.\nSr. Presidente, é isto que eu sinto sempre que, renovadamente, me encontro junto de vós, particularmente na féerie desse Paris de mil e uma sugestões, e é isso que sinto agora ao dirigir a Vossa Excelência as homenagens vivas e sentidas deste Portugal, o mais francófilo, perdoem-me, dos países do Mundo.\nEm nome, pois, da Assembleia da República, curvo-me perante a grandeza da França eterna, e na pessoa do mais alto magistrado da Nação reafirmo a nossa fidelidade às raízes comuns da nossa bela aventura.\nE faço-o comovidamente, Sr. Presidente, não só como português, mas também como resistente, junto com tantos outros, e muitos aqui presentes neste hemiciclo, que jamais desistiram de acreditar no sortilégio de uma missão que vamos continuar a cumprir nesta pátria portuguesa, após décadas de expiação e de martírios.\nAqui o juro solenemente com todas as veras da minha profunda emoção.\nO mais francófilo dos países do Mundo? Sem dúvida, a despeito de saber que por esse mundo fora a presença da França persiste como farol rotativo das ansiedades dispersas.\nMas será Portugal o mais francófilo dos países do Mundo, repito? \nInsisto que sim. Em nenhuma parte do universo, que eu conheça, a França é mais amada, mais respeitada e mais admirada.\nComo Vossa Excelência sabe, Sr. Presidente, o francês é a nossa segunda língua e é hoje o português, pelos contratempos da vida, a segunda língua que se fala em França, pelo menos em Paris e na sua periferia.\nPor outro lado, toda a nossa história se entronca na história da França, logo no início da nossa nacionalidade e nas relações das famílias reinantes, e, se me é permitido um exemplo, diria que ao passar por Alcobaça, à semelhança do príncipe indiano, sinto que bate no Mosteiro inigualável o coração cisterciense da velha França. E ao cruzarmo-nos nas ruas é difícil não encontrar alguém que mesmo num francês modesto não consiga fazer-se entender com os nossos amigos franceses que nos visitam ou aqui se demoram.\nTudo isto resulta da circunstância do nosso ensino secundário e superior, onde o francês é obrigatório; resulta outrossim do fascínio da literatura francesa e das múltiplas mensagens do vosso espírito.\nE se me permite, Sr. Presidente, de que a França está tão presente no coração dos Portugueses que as jovens mães aguardam sempre o momento da chegada da mágica cegonha de Alsácia, trazendo num berço florido os filhos que vão nascer.\nEste sedimento exaltante é o fruto de uma persistência nos parâmetros da evolução da nossa sociedade.\nFora do âmbito do ensino é sempre com alvoroço que nos debruçamos sobre as lições austeras da vossa cultura, excepcionalmente dinâmica e persuasiva, servida por uma língua plástica e comovente, que na sua essência traduz as grandes conquistas da espécie.\nPara além da literatura, toda a sociologia e toda a política portuguesas foram tocadas pelo magistério da vossa pátria. Nada se construiu até hoje neste país, incluindo os diplomas fundamentais do Estado, que não recebesse o influxo da vossa alma e não fizesse suas as reflexões das vossas longas madrugadas.\nFiéis a este destino, aqui estamos, Sr. Presidente, num país de liberdade, a apertar contra o nosso peito a República Francesa, os seus responsáveis, tão bem definidos na personalidade de Vossa Excelência, apertando também todo esse admirável povo francês, companheiro dos milhares de portugueses que honram a França com o carácter e as qualidades do nosso povo.\nNeste simbólico momento da vida do Portugal democrático, aguardávamos com ansiedade a presença de Vossa Excelência para lhe manifestar-mos a nossa adesão, a nossa fraterna amizade, reafirmando a continuidade do tal estilo de vida sem o qual, repito, não vale a pena viver: o homem-cidadão, as instituições representativas, a liberdade do espírito, a inspiração para consolidar, de facto e de direito, uma democracia económica, social e cultural.\nE também neste simbólico momento seja-me permitido, Sr. Presidente, que relembre, por ser minimamente justo, que foi nesta mesma Sala que os estadistas da República - aquela República que seria jugulada pela ditadura de 1926 - proclamaram o cumprimento dos tratados e nos colocaram ao vosso lado na guerra de 1914-1918.\nEste facto não seria possível se não estivessem, como estavam, à frente dos negócios públicos os homens isentos que naquela altura e em tantas outras bem souberam cumprir com o seu dever. Mas, Sr. Presidente, para além dos tratados, a presença de Portugal na Flandres foi também o reflexo do nosso grande amor pela França, à qual estávamos ligados pelas determinações da história e pelas solicitações do nosso coração.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "21 DE JULHO DE 1978 3359", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Por isso e por muito mais, quando o cepticismo ou o pessimismo nos tocar fundo, ergueremos os olhos para a luz imorredoura da Étoile, procurando nela o ânimo e a voluntariedade.\nE nesse erguer de olhos encontraremos os grandes princípios, as democráticas normas de conduta, a constitucionalidade, como ponto de arranque para a construção de um novo mundo, mais justo e mais feliz.\nSr. Presidente, beijando as mãos de sua mulher, a quem presto as homenagens do meu maior respeito, asseguro a ambos que estão em vossa casa, neste Portugal tão pequeno mas tão digno, parceiro que já é e vai continuar a ser daquela Europa que Paul Valéry definiu como «o cabo do Mundo».\nSr. Presidente, quando em plena monarquia o Presidente Loubet visitou Portugal, o povo português que o rodeava dava vivas à República...\nFrancesa.\nHoje, Sr. Presidente, não resisto, ao terminar estas palavras, a arrancar do meu peito este viva sem reticências, expressão de todos os sentimentos e de todas as certezas: Viva a República Francesa!", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos gerais, de pé.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Presidente da República Francesa.\nAo levantar-se para usar da palavra, o Sr. Presidente da República Francesa foi novamente aplaudido de pé.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Presidente da República Francesa.\nAo levantar-se para usar da palavra, o Sr. Presidente da República Francesa foi novamente aplaudido de pé.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. Presidente da República Francesa: Monsieur le Président, Monsieur le Premier Ministre, Messieurs les Membres du Gouvernement, Mesdames, Mesdemoiselles et Messieurs les Deputes:", 
-   "type": "continuacao"
+   "speaker": "O Sr. Presidente da República Francesa", 
+   "text": "Monsieur le Président, Monsieur le Premier Ministre, Messieurs les Membres du Gouvernement, Mesdames, Mesdemoiselles et Messieurs les Deputes:", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República Francesa", 
    "text": "Je suis profondément sensible à l'honneur que vous faites au Président de la Republique Française en l'accueillant au milieu de vous dans cette salle qui est lê coeur de la démocratie portugaise et qui a été opportunément décorée d'oeillets, cette fois-ci tricolores.\nA cet honneur, Monsieur le Président, vous venez d'ajouter en m'exprimant vos sentiments et ceux de vos collègues dans des termes dont la chaleur, la dignité et la profonde connaissance de notre culture et de nos écrivains m'ont impressionne sans me surprendre.\nCes paroles et cet accueil sont pour mói, et seront pour mes compatriotes, un émouvant témoignage des liens qui unissent le peuple français et le peuple portugais, la République Française et la République Portugaise.\nL'amitié, je paie dit en mettant le pied sur le sol de votre pays, est une donnée fondamentale des relations entre la France et le Portugal.\nJe ne chercherai pas à en analyser les causes. Il suffit de la constater, permanente, à travers les siècles et de la sentir, bien vivante, aujourd'hui. La fonction du Président de la République vous convie, vous le savez, à vous préoccuper toujours de la dures dans les phénomènes, dans les situations, et c'est pourquoi, par la fonction, je pense naturellement à cette longue durée de l'amitié entre le Portugal et la France.\nJ'en ai évoque hier les origines, très étroitement liées à la naissance de votre nation. Le courant qui s'était créé à l'époque entre nos deux peuples, il y a \ndonc huit siècles, n'a jamais cesse. Tantôt il a pris la forme de mouvements de Français venant au Portugal, tantôt, plus récemment, il a pris la forme de Portugais venant en France. Accompagnant ou suivant les chevaliers de la Reconquête, les moines de Cluny et de Cîteaux ont contribué à dresser au milieu devos villes comme dans vos campagnes da silhouette, qui pour nous paraít si familière, de vos églises romanes.\nPlus tard, c'est à l'école de vos marins, de vos cartographes, de vos savants, reunis autour de la grande figure d'Henri le Navigateur que les Français ont appris, à leur tour, à connaître le monde. Plus prés de nous, on sait quel profond retentissement eut dans notre littérature la terrible catastrophe qui frappa Lisbonne en plein Siècle des Lumières et qui provoqua 1'émotion de toute 1'intelligentsia française de l'époque, qui exprima, vous le savez, sa solidarité avec le peuple de Lisbonne, et quelle part ensuite les artistes français prirent à la reconstruction de votre capitale.\nSi je mentionne ces épisodes c'est parce qu'ils illustrent, parmi beaucoup d'autres, là continuité historique de l'intérêt et de la sympathie que Portugais et Français n'ont cesse de se porter.\nCes liens créés par l'histoire et par la culture ne se limitent pas, heureusement, au passe. C'est dans des pays communaux, qui ont tôt, assurément, une tradition historique, que nous ne devons pas nous laisser écraser par celle-ci, que nous devons toujours regarder la réalité du présent. II suffit de voir combien nombreux sont les Français qu'attire votre pays et qui y seront chaque année, à quel point tous les mouvements d'idées - intellectuelles, politiques, artistiques - circulent aisément entre Lisbonne et Paris, quelle place, enfin, tient notre langue dans la vie intellectuelle et littéraire du Portugal.\nMais je voudrais aussi rendre hommage au rôle de vos compatriotes qui vivent et qui travaillent dans notre pays. Cette communauté portugaise de France est très importante par le nombre de ses membres: comme vous le savez, la plus importante communauté européenne vivant en France.\nMais, à cote du nombre qui la décrit simplement, elle est encore plus importante par 1'exemple qu'elle donne des qualités de votre peuple, par le concours qu'elle apporte à notre activité nationale dans de nombreux secteurs et par cette dimension humaine et populaire qu'elle ajoute à l'ensemble de nos relations.\nDans ma province d'origine, que j'ai représentée pendant 18 ans au Parlement, nombreux sont les Portugaises et les Portugais qui sont vénus vivre parmi nous. lis nous ont fait connaître la gentillesse, la simplicité, et aussi la douce mélancolie de votre peuple, qu'il exprime dans ses poèmes et dans ses chansons. Sachez que j'attache une importance particulière au sort des travailleurs portugais vivant en France, qu'ils peuvent compter sur mon attention personnelle et sur celle du Gouvernement et que rien ne sera fait qui puisse les discriminer dans leur dignité ou dans leur travail.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Sr. Presidente da República Francesa", 
    "text": "Puisque j'ai l'honneur de m'adresser ici, Monsieur le Président, aux représentants de tout le peuple portugais, je voudrais saisir cette occasion pour vous", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República Francesa", 
    "text": "3360 I SÉRIE-NÚMERO 90", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República Francesa", 
    "text": "demander, Mesdames et Messieurs les Députés, dont votre mission est à la fois de transmettre les messages de vos électeurs vers les institutions de le Republique et les messages que vos visiteurs adressent au peuple portugais, de lui transmettre aussi le message d'amitié et d'estime que je lui apporte de la part du peuple français.\nCette amitié et cette estime trouvent dans ce qui s'est passe ici depuis quatre ans des raisons de s'approfondir.\nDans la préface que vous avez donnés à l'édition française de votre Constitution, puisque vous avez voulu prendre le soin de la faire traduire dans notre langue, vous avez écrit, Monsieur le Président, qu'en ce qui concerne les institutions politiques et leur mise en forme juridique, le Portugal s'était toujours laisse - je vous cite - «imprégner des leçons de sagesse et d'équilibre issues de la Révolution Française et maintenues jusqu'à nos jours».\nCet hommage nous a touchés parce qu'il exprime 1'étroite parente spirituelle et politique qui unit le Portugal et la France. Le goût de la liberté, le sens de la justice, le prix que nous attachons par-dessus tout à la dignité de l'homme appartiennent à notre fonds commun, ils composent l'atmosphère morale dont nous avons besoin, les uns et les autres, pour respirer.\nC'est ce qui explique Pintérêt passionné qu'a éveillé dans l'opinion française la nouvelle, voici quatre ans, que le Portugal était devenu une terre de liberté. C'est ce qui explique aussi l'attention, parfois inquiet, mais bientôt rassurée, avec laquelle la France a suivi les différents étapes de la restauration de la démocratie dans votre pays: \ndepuis la Révolution du 25 avril jusqu'à Pélection un peu plus tard de votre Assemblée et jusqu'au vote, voici deux ans, de votre \nConstitution.\nCette jeune démocratie que vous avez fondés, il vous appartient maintenant de la faire vivre et grandir. Les difficultés que vous y rencontrez sont peut-être plus aiguas ici qu'ailleurs, mais elles ne sont pas de nature différente. Elles tiennent au changement des techniques, à l'évolution des mentalités, aux vicissitudes d'une conjoncture internationale défavorable, aux problèmes difficiles du développement de l'activité économique et de 1'emploi. Partout ces données imposent adaptation et reformes.\nLa démocratie est, il est vrai, le régime de Peffort et non celui de la facilite, mais il est aussi le régime du progrès - le seul progrès qui compte, en tout cas, à vous yeux comme aux nôtres, je veux dire le progrès des hommes.\nSachez que les décisions que vous serez conduits à prendre, la manière dont vous donnerez la priorité à ce qui peut consolider la démocratie, dont vous démontrerez que la stabilité, la durée et l'efficacité sont compatibles avec la liberté, ces décisions intéressent pas seulement le Portugal, elles intéressent tous ceux qui aspirent dans le monde au progrès et au succès de la démocratie. Sachez, Mesdames et Messieurs les Députés, que vous portez entre vos mains une grande partie des espoirs de la démocratie.\nVous avez choisi cette voie, et vous commencez, d'ailleurs, à en recueillir les premiers fruits. Le Portugal a repris la place qui lui revient dans le concert des nations. Aux Nations-Unies, son élection à la Commission des Droits de l'Homme témoigne de la considération qui vous entoure. En Europe, l'accueil que la Communauté vient de réserver à votre candidature traduit la conviction qu'elle voit dans le Portugal un futur partenaire. Ainsi, des perspectives positives s'ouvrent au Portugal Démocratique, moderne et pacifique que vous avez la volonté de bâtir.\nMonsieur le Président, dans le règlement de notre Assemblée Nationale on a introduit une disposition qui interdit aux orateurs de lire un texte à la tribune. J'observe, d'ailleurs, que de toutes le \ndispositions de notre Règlement c'est elle la moins respectée.\nNéanmoins permettez-moi de m'inspirer de cette disposition pour vous présenter quelques réflexions improvisées.\nVous exercez en effet vos fonctions dans des circonstances qui sont économiquement et socialement difficiles. II y a entre votre République et les problèmes que nous avons à résoudre en France une sorte de parente d'âge, puisque votre République a pris naissance au printemps de 1974 et j'ai été moi-même élu dans mês fonctions par le peuple français au même printemps. Ca fait donc quatre ans que vous suivez, à des titres divers, l'évolution de la situation politique, économique et sociale du Portugal, comme j'ai la responsabilité de celle de la France.\nOr nous avons ce trait commun d'avoir à exercer nos responsabilités dans une conjoncture économique et sociale qui est exceptionnellement difficile. II faut en effet remonter aux années 30 pour retrouver dans 1'économie mondiale une situation comparable à celle que nous traversons. Et souvent dans les jugements qui sont portes sur notre action - je mets «notre» au collectif - on oublie de rappeler que, si les circonstances économiques étaient celles des années 60, ou encore 70, notre tache serait singulièrement plus facile. En effet, conduire une démocratie, composer des reformes ou animer un changement dans des pays ou la population souffre de l'inflation, est atteinte par le chômage, c'est naturellement beaucoup plus difficile, beaucoup plus lourd que dans les périodes ou l'expansion nous portait d'elle-même sur sa vague.\nSur les causes de cette crise il y a naturellement d'interminables discussions et parfois on cherche à 1'analyser pour faire apparaître que telle ou telle tendance ou conception serait à son origine et en aurait la responsabilité. Prenons un instant les vues de l'histoire: \ncette crise, elle est mondiale, elle atteint de la même manière les pays grands et petits, et pratiquement, vous le savez, quelle que soit leur structure économique et sociale. Elle fait peser sur les uns sur les autres le redoutable problème, ou plutôt les deux problèmes, réunis par une sorte de fatalité, car autrefois ils s'excluaient, de l'inflation et du chômage.\nFace à cette situation, chacun de nous doit naturellement lutter à sa manière et il ne m'appartient, en aucune sorte, de porter un jugement sur la manière dont les autorités portugaises conduisent, dans le cadre de leur propre responsabilité, le redressement économique de leur pays.\nMais je voudrais seulement vous dire que, face à cette situation, même si elle n'est pas décisive, nous devons compter, les uns et les autres, sur une certaine solidarité. Et cette solidarité, à mon avis, elle peut s'exercer à trois niveaux.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República Francesa", 
    "text": "21 DE JULHO DE 1978 3361", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República Francesa", 
    "text": "D'abord, elle peut s'exercer entre tous que j'appellerais des partenaires de Histoire. J'ai évoque tout à l'heure les très anciennes relations du Portugal et de la France. Ces relations, ce n'est pas seulement pour feuilleter de main distraite les manuels d'histoire ou pour descendre dans la salle des archives que je crois sous la salle des séances, c'est pour dire qu'el-les ont lie entre nous le tissu étroit d'une certaine solidarité. Et sachez donc que dans nos rapports économiques, dans 1'étude que nous pouvons apporter, les uns ou les autres, à tel ou tel problème, à telle ou telle action nous tiendrons compte de la solidarité nécessaire face à cette situation de crise économique.\nEnsuite, je crois que cette solidarité elle peut exister également entre les différentes régions du monde. Je suis venu presque sans escale de Bonn à Lisbonne et nous avions à Bonn, il y a quelques jours, une réunion ou étaient rassembles des pays dont la production industrielle représente plus de la moitié, vous le savez, de la production industrielle totale. Nous n'étions pas réunis dans un esprit de recherche d'avantages tactiques. Nous étions réunis pour savoir s'il y avait moyen de mettre en oeuvre des efforts, des ressources pour faire que cette crise économique soit moins longue, moins pesante sur nos économies et sur nos peuples. Et je crois que nous avons abouti à un certain nombre d'orientations positives. Mais sachez que dans cette délibération nous pensions autant, si je puis dire, aux absents qu'aux présents. Nous savions très bien qu'il ne s'agissait pas de créer une sorte de zone de prospérité entre quelques-uns et qu'il s'agissait d'apporter un stimulant supplémentaire à l'activité économique dans le monde qui puisse être bénéfique pour tous. Et je souhaite que les décisions prises, si elles sont soigneusement et rapidement appliqués, apportent cette contribution supplémentaire.\nIl y a enfin une solidarité naturelle qui se développera dans les temps à venir et qui est la solidarité entre les partenaires européens. Nous avons note avec beaucoup d'attention la position de la quasi-totalité des partis politiques portugais en ce qui concerne leur désir de voir s'établir de liens nouveaux entre le Portugal et la CEE et vous savez que ce mouvement est à 1'heure actuelle en marche.\nEh bien, je souhaite que cette Europe, qu'on décrit parfois comme devant être l'instrument de je ne sais quelle domination, de je ne sais quelle conception économique particulière, apparaisse dans la carte du monde comme étant une zone de prospérité économique et d'emploi éleva et qu'ainsi les peuples qui y vivent et qui y vivront aient le sentiment d'appartenir à une communauté de progrès réglant les problèmes, soulageant les difficultés et apportant le progrès à tous les peuples qui la composent. Et ce veut dire, d'ailleurs, que dans cette Europe il faudra tenir compte, bien entendu, des efforts à conduire pour que les conditions du développement soient réparties d'une façon plus homogène entre le Nord et le Sud de l'Europe.\nVoilà, Monsieur le Président, Monsieur le Premier Ministre, \nl'improvisation risquée que je me suis permis à cette tribune. Je pensais à mon ancienne fonction ou j'étais si préoccupé des problèmes économiques et financiers et je pensais en même temps à la \npréoccupation de nos peuples d' aujourd'hui, qui est très largement une préoccupation économique et sociale et à laquelle les grands dirigeants de nos pays doivent apporter une réponse, non pas seulement une réponse rhétorique, mais une réponse par des mesures qui soient à la hauteur des problèmes et qui puissent donc éclairer et contribuer à leur solution.\nC'est pourquoi, Mesdames et Messieurs les Députés, au message d'amitié que je vous ai demande tout à l'heure de bien vouloir transmettre en mon nom au peuple portugais je veux joindre maintenant l'expression de ma profonde confiance dans les destinées de votre démocratie.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos gerais, de pé.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está encerrada a sessão.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "A Banda da Guarda Nacional Republicana executou de novo os hinos nacionais dos dois países.\nSeguidamente reorganizou-se o cortejo, que acompanhou à saída o Sr.Presidente da República Francesa.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está encerrada a sessão.\nA Banda da Guarda Nacional Republicana executou de novo os hinos nacionais dos dois países.\nSeguidamente reorganizou-se o cortejo, que acompanhou à saída o Sr.Presidente da República Francesa.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 17 horas e 50 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Rectificações", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "No cabeçalho do Diário da Assembleia da República. n.º 80, onde se lê: \n«Reunião plenária de 1 de Junho de 1978»; deve ler-se: «Reunião plenária de 31 de Maio de 1978»; e no cabeçalho do Diário da Assembleia da República, n.º 85, onde se lê: «Reunião plenária de 7 de Junho de 1978», deve ler-se: «Reunião plenária de 8 de Junho de 1978».", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Alberto Arons Braga de Carvalho.\nAlberto Marques Antunes.\nÁlvaro Monteiro.\nAntónio Miguel Morais Barreto.\nFlorival da Silva Nobre.\nFrancisco Igrejas Caeiro.\nJorge Augusto Barroso Coutinho.\nJosé dos Santos Francisco Vidal.\nJosé Luís do Amaral Nunes.\nMaria Teresa Vieira Bastos R. Ambrósio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António Luciano Pacheco de Sousa Franco.\nFernando José da Costa.\nJoão Vasco da Luz Botelho Paiva.\nJorge de Figueiredo Dias.\nRúben José de Almeida Martins Raposo.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António Simões da Costa.\nCaetano Maria Dias da Cunha Reis.\nEmídio Ferrão da Costa Pinheiro.\nJoão Gomes de Abreu de Lima.\nJoão da Silva Mendes Morgado.\nJosé Luís R. de Albuquerque Christo.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António Joaquim Navalha Garcia.\nCândido de Matos Gago.\nCarlos Alfredo de Brito.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "3362 I SÉRIE-NÚMERO 90", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Custódio Jacinto Gingão.\nDomingos Abrantes Ferreira.\nFernanda Peleja Patrício.\nHermenegilda Rosa C. Pacheco Pereira.\nJorge do Carmo da Silva Leite.\nJosé Manuel da Costa Carreira Marques.\nJosé Rodrigues Vitoriano.\nManuel do Rosário Moita.\nNicolau de Ascensão M. Dias Ferreira.\nRaul Luís Rodrigues.\nSeveriano Pedro Falcão.\nVital Martins Moreira.\nVítor Henrique Louro de Sá.\nZita Maria de Seabra Roseiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "União Democrática Popular (UDP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Acácio Manuel de Frias Barreiros.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Independentes", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António Jorge de O. Aires Rodrigues.\nCarmelinda Maria dos Santos Pereira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "PREÇO DESTE NÚMERO 4$00", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "IMPRENSA NACIONAL-CASA DA MOEDA", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

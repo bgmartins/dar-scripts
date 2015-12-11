@@ -33,8 +33,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 30 minutos.", 
@@ -43,17 +44,19 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Abílio Sousa e Silva.\nAdérito Soares Campos.\nAdriano da Silva Pinto.\nAlberto Cerqueira Oliveira.\nAlberto Monteiro de Araújo.\nÁlvaro José Martins Viegas.\nAna Paula Matos Barros.\nAntónio Barradas Leitão.\nAntónio Correia Vairinhos.\nAntónio da Silva Bacelar.\nAntónio de Carvalho Martins.\nAntónio do Carmo Malveiro.\nAntónio Esteves Morgado.\nAntónio Fernandes Alves.\nAntónio Germano Sá e Abreu.\nAntónio José da Motta Veiga.\nAntónio Maria Pereira.\nAntónio Santos Pires Afonso.\nArlindo da Silva Moreira.\nArmando Guerreiro da Cunha.\nArménio dos Santos.\nBelarmino Henriques Correia.\nBernardino Gata da Silva.\nCarlos Almeida Figueiredo.\nCarlos de Almeida Coelho.\nCarlos Duarte Oliveira.\nCarlos Lopes Pereira.\nCarlos Lélis.\nCarlos Manuel Gonçalves.\nCarlos Miguel de Oliveira.\nCarlos Oliveira da Silva.\nDelmar Ramiro Palas.\nDinah Serrão Alhandra.\nDomingos Duarte Lima.\nDomingos José Soares Lima.\nDuarte Rogério Pacheco.\nEduardo Pereira da Silva.\nElói Franklin Ribeiro.\nEma Maria Lóia Paulista.\nFernando Cardoso Ferreira.\nFernando Correia Afonso.\nFernando dos Reis Condesso.\nFernando Gomes Pereira.\nFernando Marques de Andrade.\nFernando Monteiro do Amaral.\nFilipe Manuel Silva Abreu.\nFrancisco Antunes da Silva.\nFrancisco Bernardino Silva.\nGuido Orlando Rodrigues.\nGuilherme Rodrigues Silva.\nHilário Azevedo Marques.\nIsilda Maria Pires Martins.\nJaime Gomes Milhomens.\nJoão Alberto Granja Silva.\nJoão Álvaro Poças Santos.\nJoão do Lago Mota.\nJoão Granja da Fonseca.\nJoão José da Silva Maçãs.\nJoão José Pedreira de Matos.\nJoão Salgado.\nJoaquim Eduardo Gomes.\nJoaquim Fernandes Marques.\nJoaquim Manuel Barros Sousa.\nJoaquim Vilela de Araújo.\nJorge Paulo Roque da Cunha.\nJosé Alberto Puig Costa.\nJosé Álvaro Pacheco Pereira.\nJosé António Peixoto Lima.\nJosé Augusto Silva Marques.\nJosé Bernardo Falcão Cunha.\nJosé Borregana Meireles.\nJosé de Almeida Cesário.\nJosé Freitas Costa Leite.\nJosé Júlio Carvalho Ribeiro.\nJosé Leite Machado.\nJosé Manuel da Silva Costa.\nJosé Mário Gaspar.\nJosé Mário Lemos Damião.\nJosé Pereira Lopes.\nJosé Reis Leite.\nLeonardo Ribeiro de Almeida.\nLuís António Martins.\nLuís Carrilho da Cunha.\nLuís Filipe Pais de Sousa.\nLuís Manuel Cosia Geraldes.\nManuel Acácio Martins Roque.\nManuel Antero Cunha Pinto.\nManuel Azevedo.\nManuel Baptista Cardoso.\nManuel Lima Amorim.\nManuel Maria Moreira.\nManuel Simões Marques.\nMaria Conceição Rodrigues.\nMaria da Conceição Pereira.\nMaria de Lurdes Póvoa Costa.\nMaria Fernanda Dias Cardoso.\nMaria Helena Ramos Mourão.\nMaria Luísa Ferreira.\nMaria Manuela Aguiar.\nMaria Margarida de Sousa.\nMarília Dulce Pires Morgado.\nMário Belo Maciel.\nMário de Oliveira Santos.\nMelchior Pereira Moreira.\nMiguel Bento Macedo e Silva.\nMiguel Fernando Relvas.\nNuno Delerue Alvim de Matos.\nPedro Augusto Cunha Pinto.\nPedro e Holstein Campilho.\nPedro Manuel Cruz Roseta.\nPedro Manuel Passos Coelho.\nRui Alberto Limpo Salvada.\nRui Carlos Alvarez Carp.\nRui Fernando da Silva Rio.\nRui Manuel Lobo Gomes Silva.\nSimão José Ricon Peres.\nVasco Francisco Miguel.\nVirgílio de Carneiro.\nVítor Manuel Igreja Raposo.\nVítor Pereira Crespo.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -108,685 +111,818 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Sr. *Presidente*: Srs. Deputados, recebi uma carta do Sr. Presidente da República, que refere o seguinte", 
-   "text": "", 
-   "type": "inicio_documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, recebi uma carta do Sr. Presidente da República, que refere o seguinte:\n«Tencionando deslocar-me a Madrid, entre os dias 13 e 14 do corrente mês de Março, em viagem sem carácter oficial, para participar num jantar de homenagem ao ex-Chancelcr Willy Brandt, dela venho dar conhecimento prévio à Assembleia da República, nos termos do artigo 132.º, n.º 2, da Constituição.»", 
+   "type": "presidente"
   }, 
   {
-   "text": "«Tencionando deslocar-me a Madrid, entre os dias 13 e 14 do corrente mês de Março, em viagem sem carácter oficial, para participar num jantar de homenagem ao ex-Chancelcr Willy Brandt, dela venho dar conhecimento prévio à Assembleia da República, nos termos do artigo 132.º, n.º 2, da Constituição.»", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "O Sr. Secretário vai dar conta dos diplomas que deram entrada na Mesa.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Secretário* (João Salgado): Srs. Deputados, deram entrada na Mesa, e foram admitidos, os seguintes diplomas: projecto de lei n.º 108/VI - Lei de objecção de consciência (Deputado de Os Verdes André Martins e Deputado independente Mário Tomé), que baixou à 3.ª Comissão, e propostas de resolução n.º 6/VI - Aprova o Acordo, por Troca de Notas, entre a República Portuguesa e o Reino Unido Relativo à Supressão de Vistos entre Portugal e os Territórios das Bermudas, 7/VI - Aprova o Acordo, por Troca de Notas, entre a República Portuguesa e a República Federativa Checa e Eslovaca Relativo à Supressão de Vistos e 8/VI - Aprova o Acordo, por Troca de Notas, entre a República Portuguesa e a República da Hungria Relativo à Supressão de Vistos, que baixaram à 4.ª Comissão.", 
-   "type": "documento"
+   "party": "João Salgado", 
+   "speaker": "Secretário", 
+   "text": "Srs. Deputados, deram entrada na Mesa, e foram admitidos, os seguintes diplomas: projecto de lei n.º 108/VI - Lei de objecção de consciência (Deputado de Os Verdes André Martins e Deputado independente Mário Tomé), que baixou à 3.ª Comissão, e propostas de resolução n.º 6/VI - Aprova o Acordo, por Troca de Notas, entre a República Portuguesa e o Reino Unido Relativo à Supressão de Vistos entre Portugal e os Territórios das Bermudas, 7/VI - Aprova o Acordo, por Troca de Notas, entre a República Portuguesa e a República Federativa Checa e Eslovaca Relativo à Supressão de Vistos e 8/VI - Aprova o Acordo, por Troca de Notas, entre a República Portuguesa e a República da Hungria Relativo à Supressão de Vistos, que baixaram à 4.ª Comissão.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): Sr. Presidente, dentro do prazo regimental o CDS fez uma pergunta ao Governo, que tinha várias alíneas, com o objectivo de averiguar o andamento dos processos relativos ao pagamento das indemnizações devidas aos ex-titulares das quotas sociais e outros bens nacionalizados em 11 de Março.\nJá é a terceira vez que o CDS dirige esta pergunta ao Governo, sem, no entanto, obter qualquer resposta. Poderia pensar-se que isto era matéria abrangida pelo segredo de Estado - e como não temos lei alguma acerca desta matéria, o Governo até poderia dizer que isto estava abrangido pelo maior dos segredos!...", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, dentro do prazo regimental o CDS fez uma pergunta ao Governo, que tinha várias alíneas, com o objectivo de averiguar o andamento dos processos relativos ao pagamento das indemnizações devidas aos ex-titulares das quotas sociais e outros bens nacionalizados em 11 de Março.\nJá é a terceira vez que o CDS dirige esta pergunta ao Governo, sem, no entanto, obter qualquer resposta. Poderia pensar-se que isto era matéria abrangida pelo segredo de Estado - e como não temos lei alguma acerca desta matéria, o Governo até poderia dizer que isto estava abrangido pelo maior dos segredos!...", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
    "text": "1212 I SÉRIE - NÚMERO 40", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
    "text": "Mas, na verdade, o que se verifica é que os membros do Governo dão entrevistas sobre esta questão aos jornais, como, por exemplo, o Sr.Ministro das Finanças, que, em entrevista ao jornal Expresso, respondeu, em parte, a esta questão, tal como o Sr. Secretário de Estado, que, em entrevista ao jornal Semanário Económico, também respondeu, resposta essa que até certo ponto foi contrária àquela que tinha sido dada pelo Sr. Ministro das Finanças.\nPortanto, só na Assembleia da República é que o Governo se recusa a dar informação aos Deputados! Ora, dizer aos outros aquilo que não se quer dizer aos Deputados é uma forma de desprestigiar a Assembleia da República! \nEste instituto de perguntas ao Governo já está degradado, mas, pelos vistos, ainda o querem degradar mais! \nDado que não posso chamar a atenção do Governo, uma vez que não estão aqui presentes nem o Sr. Primeiro-Ministro nem o Ministro da tutela a quem estas questões deveriam ser dirigidas, peço a V. Ex.ª que diligencie no sentido de que o Governo responda, oportuna e \ntempestivamente, às perguntas feitas pelo CDS.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Assim se fará, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Assim se fará, Sr. Deputado.\nSrs. Deputados, entrando na ordem do dia de hoje, que consta de uma sessão de perguntas ao Governo, dou a palavra ao Sr. Deputado André Martins para formular uma pergunta sobre o Plano de Desenvolvimento Estratégico do Porto de Lisboa e o Projecto do Fecho da Golada do Tejo.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Srs. Deputados, entrando na ordem do dia de hoje, que consta de uma sessão de perguntas ao Governo, dou a palavra ao Sr. Deputado André Martins para formular uma pergunta sobre o Plano de Desenvolvimento Estratégico do Porto de Lisboa e o Projecto do Fecho da Golada do Tejo.", 
-   "type": "documento"
+   "text": "Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Em Agosto de 1990 foram postos à discussão pública os Projectos da Dragagem do Canal de Acesso ao Porto de Lisboa e do Fecho da Golada do Tejo entre a Trafaria e o Bugio.\nEmbora estes projectos façam parte do Plano Estratégico de \nDesenvolvimento do Porto de Lisboa, que prevê a expansão do porto para a margem sul do Tejo e a sua localização nos 800 ha criados com o fecho da Golada, a Administração do Porto de Lisboa fez questão de separar estes dois processos e de apenas elaborar um estudo de impacte ambiental para o fecho da Golada.\nQuem conhecia o plano de desenvolvimento estratégico e os propósitos que lhe estavam subjacentes - como era o caso dos municípios da zona sul, em particular a Câmara Municipal de Almada - facilmente se apercebeu da manobra (algo ingénua, aliás) que estava a ser encoberta pelo Ministério do Ambiente e Recursos Naturais, entidade responsável pela apreciação do estudo de impacte ambiental que separava estes dois processos, fazendo com que esse estudo não considerasse a instalação de uma zona portuária e industrial nesta área entre o Bugio e a Trafaria.\nFace aos protestos das autarquias e da população, o Ministério do Ambiente foi obrigado a reconsiderar e a solicitar à Administração do Porto de Lisboa que reconsiderasse e reformulasse o estudo de impacte ambiental.\nIsto ocorreu entre Agosto e Novembro de 1990, mas até hoje ainda não sabemos qual o desenvolvimento que teve todo este processo. Como já estamos em Março de 1991, gostaria que o Sr. Ministro se referisse a esta questão.\nFinalmente, gostaria de formular as seguintes duas perguntas ao Sr.Ministro: \nQual é a posição actual do Governo face aos projectos de dragagem do canal de acesso e ao fecho da Golada do Tejo? \nQual a posição do Governo quanto à possibilidade, pretendida, aliás, pela Administração do Porto de Lisboa, de localização na zona da Trafaria/Bugio do terminal portuário e da zona industrial?", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. André Martins (Os Verdes): Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Em Agosto de 1990 foram postos à discussão pública os Projectos da Dragagem do Canal de Acesso ao Porto de Lisboa e do Fecho da Golada do Tejo entre a Trafaria e o Bugio.\nEmbora estes projectos façam parte do Plano Estratégico de \nDesenvolvimento do Porto de Lisboa, que prevê a expansão do porto para a margem sul do Tejo e a sua localização nos 800 ha criados com o fecho da Golada, a Administração do Porto de Lisboa fez questão de separar estes dois processos e de apenas elaborar um estudo de impacte ambiental para o fecho da Golada.\nQuem conhecia o plano de desenvolvimento estratégico e os propósitos que lhe estavam subjacentes - como era o caso dos municípios da zona sul, em particular a Câmara Municipal de Almada - facilmente se apercebeu da manobra (algo ingénua, aliás) que estava a ser encoberta pelo Ministério do Ambiente e Recursos Naturais, entidade responsável pela apreciação do estudo de impacte ambiental que separava estes dois processos, fazendo com que esse estudo não considerasse a instalação de uma zona portuária e industrial nesta área entre o Bugio e a Trafaria.\nFace aos protestos das autarquias e da população, o Ministério do Ambiente foi obrigado a reconsiderar e a solicitar à Administração do Porto de Lisboa que reconsiderasse e reformulasse o estudo de impacte ambiental.\nIsto ocorreu entre Agosto e Novembro de 1990, mas até hoje ainda não sabemos qual o desenvolvimento que teve todo este processo. Como já estamos em Março de 1991, gostaria que o Sr. Ministro se referisse a esta questão.\nFinalmente, gostaria de formular as seguintes duas perguntas ao Sr.Ministro: \nQual é a posição actual do Governo face aos projectos de dragagem do canal de acesso e ao fecho da Golada do Tejo? \nQual a posição do Governo quanto à possibilidade, pretendida, aliás, pela Administração do Porto de Lisboa, de localização na zona da Trafaria/Bugio do terminal portuário e da zona industrial?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o entender, tem a palavra o Sr. Ministro do Mar.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o entender, tem a palavra o Sr. Ministro do Mar.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. Ministro do Mar (Eduardo de Azevedo Soares): Sr. Presidente, Srs. Deputados, Sr. Deputado André Martins, a pergunta que V. Ex.ª acaba de colocar já teve resposta por diversas vezos. Que me recorde, já na Comissão de Economia, Finanças e Plano respondi, tal como o meu antecessor na tutela sobre os portos respondeu e já sobre a mesma matéria tomou posição o Primeiro-Ministro. Mas a pergunta foi colocada por V. Ex.ª nesta Câmara, o Governo tem o dever de responder e fá-lo com muito gosto.\nTanto quanto consegui reter da sua pergunta, ela cinge-se a duas questões fundamentais, uma das quais é a de saber qual a posição actual do Governo quanto à dragagem da barra e qual a posição actual do Governo quanto à instalação de uma zona portuária ou industrial na zona Trafaria/Bugio. Poderia resumir a minha resposta da seguinte maneira: a dragagem da barra de Lisboa terá de processar-se no momento adequado e nas circunstâncias técnicas adequadas para que continue a funcionar operativamente o porto de Lisboa. É uma situação que de anos a anos tem de ocorrer; a dragagem será feita.\nQuanto à construção de uma zona industrial ou de uma zona portuária no eixo Trafaria/Bugio, esta não será autorizada pelo Governo. Já foi dito e é aqui mais uma vez repetido, perante toda a Assembleia: não será autorizada a construção de uma zona industrial ou portuária nesse eixo.\nMas penso, Srs. Deputados, que a pergunta é mais vasta e talvez valesse a pena que se clarificasse mais detalhadamente a questão, até porque o Sr. Deputado referiu um estudo de impacte ambiental que foi mandado reformular. Estudo esse que está de facto a ser reformulado e será posto em discussão pública muito brevemente. Convém ler presente que esse estudo de impacte ambiental, naturalmente, não há-de envolver as consequências da construção de uma zona portuária e de uma zona industrial no eixo Trafaria/Bugio, uma vez que essas obras não vão ser autorizadas. Portanto, dispensam qualquer estudo.\nNão referiu V. Ex.ª, nas questões que levantou, o problema do fecho da Golada. Mas tenho muito gosto de aqui o referir, pois estão levantadas sobre este conjunto de circunstâncias um encadeado de suspeições que convinha aqui esclarecer. A Administração do Porto de Lisboa tem um plano estratégico para o porto e deve tê-lo! Esse plano prevê três cenários, um dos quais prevê a criação de uma zona industrial e de uma zona portuária nesse eixo. Por outro lado, a Administração do Porto de Lisboa encara a necessidade de proceder ao fecho da Golada, por virtude de esse fecho se estar a processar naturalmente, mas desordenadamente, podendo causar graves dificuldades futuras ao funcionamento do porto de Lisboa. E, finalmente, existe a necessidade operacional e corrente de dialogar o porto de Lisboa.\nPor razões de ordem vária, que possivelmente não vale a pena agora explorar, todas estas questões foram encadeadas e daqui resultou que de uma dragagem do Podo de Lisboa, que se faz há vários anos \nperiodicamente, se partiu para o fecho da Golada - e há polémica à volta do fecho da Golada. Depois a areia da dragagem serviria para fechar a Golada e, fechada esta, criar-se-ia um espaço de 800 ha para instalar uma zona portuária. Penso que é vantajoso referir, de uma vez por todas, que se o cenário da construção de uma zona industrial e portuária no eixo Trafaria/Bugio fosse considerado e autorizado - e não é o caso, repito! - naturalmente que se articularia com o fecho da Golada. E por razões de economia e aproveitamento de areias de boa", 
-   "type": "documento"
+   "text": "Sr. Presidente, Srs. Deputados, Sr. Deputado André Martins, a pergunta que V. Ex.ª acaba de colocar já teve resposta por diversas vezos. Que me recorde, já na Comissão de Economia, Finanças e Plano respondi, tal como o meu antecessor na tutela sobre os portos respondeu e já sobre a mesma matéria tomou posição o Primeiro-Ministro. Mas a pergunta foi colocada por V. Ex.ª nesta Câmara, o Governo tem o dever de responder e fá-lo com muito gosto.\nTanto quanto consegui reter da sua pergunta, ela cinge-se a duas questões fundamentais, uma das quais é a de saber qual a posição actual do Governo quanto à dragagem da barra e qual a posição actual do Governo quanto à instalação de uma zona portuária ou industrial na zona Trafaria/Bugio. Poderia resumir a minha resposta da seguinte maneira: a dragagem da barra de Lisboa terá de processar-se no momento adequado e nas circunstâncias técnicas adequadas para que continue a funcionar operativamente o porto de Lisboa. É uma situação que de anos a anos tem de ocorrer; a dragagem será feita.\nQuanto à construção de uma zona industrial ou de uma zona portuária no eixo Trafaria/Bugio, esta não será autorizada pelo Governo. Já foi dito e é aqui mais uma vez repetido, perante toda a Assembleia: não será autorizada a construção de uma zona industrial ou portuária nesse eixo.\nMas penso, Srs. Deputados, que a pergunta é mais vasta e talvez valesse a pena que se clarificasse mais detalhadamente a questão, até porque o Sr. Deputado referiu um estudo de impacte ambiental que foi mandado reformular. Estudo esse que está de facto a ser reformulado e será posto em discussão pública muito brevemente. Convém ler presente que esse estudo de impacte ambiental, naturalmente, não há-de envolver as consequências da construção de uma zona portuária e de uma zona industrial no eixo Trafaria/Bugio, uma vez que essas obras não vão ser autorizadas. Portanto, dispensam qualquer estudo.\nNão referiu V. Ex.ª, nas questões que levantou, o problema do fecho da Golada. Mas tenho muito gosto de aqui o referir, pois estão levantadas sobre este conjunto de circunstâncias um encadeado de suspeições que convinha aqui esclarecer. A Administração do Porto de Lisboa tem um plano estratégico para o porto e deve tê-lo! Esse plano prevê três cenários, um dos quais prevê a criação de uma zona industrial e de uma zona portuária nesse eixo. Por outro lado, a Administração do Porto de Lisboa encara a necessidade de proceder ao fecho da Golada, por virtude de esse fecho se estar a processar naturalmente, mas desordenadamente, podendo causar graves dificuldades futuras ao funcionamento do porto de Lisboa. E, finalmente, existe a necessidade operacional e corrente de dialogar o porto de Lisboa.\nPor razões de ordem vária, que possivelmente não vale a pena agora explorar, todas estas questões foram encadeadas e daqui resultou que de uma dragagem do Podo de Lisboa, que se faz há vários anos \nperiodicamente, se partiu para o fecho da Golada - e há polémica à volta do fecho da Golada. Depois a areia da dragagem serviria para fechar a Golada e, fechada esta, criar-se-ia um espaço de 800 ha para instalar uma zona portuária. Penso que é vantajoso referir, de uma vez por todas, que se o cenário da construção de uma zona industrial e portuária no eixo Trafaria/Bugio fosse considerado e autorizado - e não é o caso, repito! - naturalmente que se articularia com o fecho da Golada. E por razões de economia e aproveitamento de areias de boa", 
+   "type": "speaker_error"
   }, 
   {
    "text": "14 DE MARÇO DE 1992 1213", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "qualidade, era normal que as areias do canal de acesso (da dragagem) fossem utilizadas nesta operaçao. Não é isso que está em causa, o que está em causa é que a dragagem tem de ser feita.", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Carlos Coelho* (PSD): Muito bem!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: E o fecho da Golada será executado se, depois de apreciado o estudo de impacte ambiental e feita a subsequente discussão pública, se verificar que não surgem inconvenientes ou prejuízos que \ndesaconselhem claramente essa operação. A materializar-se, ela será executada do modo necessário a garantir a protecção do ambiente e impedir o alastramento de construções, sejam elas portuárias, industriais ou de quaisquer outros tipos. Estará o Governo, com certeza, predisposto a analisar a possibilidade de considerar inclusive o fecho da Golada como zona de não edificação.\nSuponho que com estes esclarecimentos, a polémica sobre estas matérias poderá estar terminada. E penso que esta posição do Governo é claramente partilhada por autarquias, associações de protecção do ambiente e outras entidades que sobre esta matéria se tom pronunciado.\nO orador reviu.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "E o fecho da Golada será executado se, depois de apreciado o estudo de impacte ambiental e feita a subsequente discussão pública, se verificar que não surgem inconvenientes ou prejuízos que \ndesaconselhem claramente essa operação. A materializar-se, ela será executada do modo necessário a garantir a protecção do ambiente e impedir o alastramento de construções, sejam elas portuárias, industriais ou de quaisquer outros tipos. Estará o Governo, com certeza, predisposto a analisar a possibilidade de considerar inclusive o fecho da Golada como zona de não edificação.\nSuponho que com estes esclarecimentos, a polémica sobre estas matérias poderá estar terminada. E penso que esta posição do Governo é claramente partilhada por autarquias, associações de protecção do ambiente e outras entidades que sobre esta matéria se tom pronunciado.\nO orador reviu.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado interrogante, para formular pedidos de esclarecimento, nos termos do n.º 3 do artigo 239.º do Regimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado interrogante, para formular pedidos de esclarecimento, nos termos do n.º 3 do artigo 239.º do Regimento.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. André Martins (Os Verdes): Sr. Presidente, Sr. Ministro, certamente que compreenderá que estamos satisfeitos com o facto de o Governo reconhecer aqui e reafirmar a posição de não aceitar a instalação na zona da Trafaria/Bugio, com os impactes que imediatamente se antevêem num cenário desses, do desenvolvimento do porto de Lisboa e de uma zona industrial.\nO Sr. Ministro referiu que já respondeu a estas questões em vários sítios, inclusive na Comissão de Economia, Finança e do Plano. Tendo nós conhecimento 4a resposta que deu na altura, o que nos levou a trazer aqui esta questão tem a ver com outros factores em relação aos quais gostaríamos que o Sr. Ministro também aqui se pronunciasse.\nUma primeira questão coloca-se relativamente ao desenvolvimento do porto de Lisboa. O Plano de Desenvolvimento Estratégico do Porto de Lisboa está elaborado - e recordaria, Sr. Ministro, que este plano foi aprovado pela tutela após a sua elaboração - e o sentido que presidiu à sua elaboração foi o do desenvolvimento do porto de Lisboa. Nas várias estratégias ou hipóteses alternativas de desenvolvimento que são apontadas chega-se à conclusão de que, para se verificar esse desenvolvimento pretendido pela Administração do Porto, só há uma possibilidade, que é a de instalar o porto na margem sul. E o único espaço onde é menos custoso e onde se verificam menos problemas de implantação é, de facto, a zona do Bugio. Com a resposta que o Sr.Ministro dá, somos levados a considerar que o Governo não tem por necessária a proposta de desenvolvimento do porto de Lisboa, tal como ela está formulada aqui, e que, possivelmente, ponderará a necessidade de desenvolvimento dos portos em Portugal, considerando as \npossibilidades que outros portos tom, designadamente os portos de Setúbal e de Sines, que são os mais próximos. Esta é a minha suposição, Sr. Ministro, pelo que gostava que V. Ex.ª se referisse a esta questão.\nMas quero também salientar que aquilo que o Sr. Ministro aqui afirmou é um pouco a tese desenvolvida pela Administração do Porto de Lisboa, quando, em termos públicos, separa a realização do fecho da Golada da implantação do porto e da zona portuária. Foi, assim, que elaboraram primeiro um estudo de impacte ambiental, que não tem em conta os impactes futuros. Mas está bem expresso no Plano de Desenvolvimento Estratégico quais são os objectivos a atingir com o fecho da Golada!...\nA questão que se coloca é a de saber se o que o Sr. Ministro agora diz aqui, ou seja, que não vai ser feita a instalação das zonas portuária e industrial, não se traduzirá na primeira fase de uma ponderação do Governo, para depois, quando o fecho da Golada estiver feito, vir invocar a necessidade e importância da implantação do porto de Lisboa naquela zona para o desenvolvimento não só nacional como, desde logo, de toda aquela região.\nUma outra questão que quero colocar-lhe diz respeito à fábrica da Ford instalada em Palmela, que tem reivindicado como necessário ao desenvolvimento das sua produção o acesso a dois portos de mar. Sabemos que tem acesso ao porto de Setúbal, mas falia-lhe o acesso a um outro porto de mar. Esta perspectiva pressupõe a possibilidade de vir a ter acesso ao porto da Trafaria, em relação ao qual há estudos, feitos pelo Governo, no sentido do desenvolvimento rodo-ferroviário em toda aquela zona.", 
-   "type": "documento"
+   "text": "Sr. Presidente, Sr. Ministro, certamente que compreenderá que estamos satisfeitos com o facto de o Governo reconhecer aqui e reafirmar a posição de não aceitar a instalação na zona da Trafaria/Bugio, com os impactes que imediatamente se antevêem num cenário desses, do desenvolvimento do porto de Lisboa e de uma zona industrial.\nO Sr. Ministro referiu que já respondeu a estas questões em vários sítios, inclusive na Comissão de Economia, Finança e do Plano. Tendo nós conhecimento 4a resposta que deu na altura, o que nos levou a trazer aqui esta questão tem a ver com outros factores em relação aos quais gostaríamos que o Sr. Ministro também aqui se pronunciasse.\nUma primeira questão coloca-se relativamente ao desenvolvimento do porto de Lisboa. O Plano de Desenvolvimento Estratégico do Porto de Lisboa está elaborado - e recordaria, Sr. Ministro, que este plano foi aprovado pela tutela após a sua elaboração - e o sentido que presidiu à sua elaboração foi o do desenvolvimento do porto de Lisboa. Nas várias estratégias ou hipóteses alternativas de desenvolvimento que são apontadas chega-se à conclusão de que, para se verificar esse desenvolvimento pretendido pela Administração do Porto, só há uma possibilidade, que é a de instalar o porto na margem sul. E o único espaço onde é menos custoso e onde se verificam menos problemas de implantação é, de facto, a zona do Bugio. Com a resposta que o Sr.Ministro dá, somos levados a considerar que o Governo não tem por necessária a proposta de desenvolvimento do porto de Lisboa, tal como ela está formulada aqui, e que, possivelmente, ponderará a necessidade de desenvolvimento dos portos em Portugal, considerando as \npossibilidades que outros portos tom, designadamente os portos de Setúbal e de Sines, que são os mais próximos. Esta é a minha suposição, Sr. Ministro, pelo que gostava que V. Ex.ª se referisse a esta questão.\nMas quero também salientar que aquilo que o Sr. Ministro aqui afirmou é um pouco a tese desenvolvida pela Administração do Porto de Lisboa, quando, em termos públicos, separa a realização do fecho da Golada da implantação do porto e da zona portuária. Foi, assim, que elaboraram primeiro um estudo de impacte ambiental, que não tem em conta os impactes futuros. Mas está bem expresso no Plano de Desenvolvimento Estratégico quais são os objectivos a atingir com o fecho da Golada!...\nA questão que se coloca é a de saber se o que o Sr. Ministro agora diz aqui, ou seja, que não vai ser feita a instalação das zonas portuária e industrial, não se traduzirá na primeira fase de uma ponderação do Governo, para depois, quando o fecho da Golada estiver feito, vir invocar a necessidade e importância da implantação do porto de Lisboa naquela zona para o desenvolvimento não só nacional como, desde logo, de toda aquela região.\nUma outra questão que quero colocar-lhe diz respeito à fábrica da Ford instalada em Palmela, que tem reivindicado como necessário ao desenvolvimento das sua produção o acesso a dois portos de mar. Sabemos que tem acesso ao porto de Setúbal, mas falia-lhe o acesso a um outro porto de mar. Esta perspectiva pressupõe a possibilidade de vir a ter acesso ao porto da Trafaria, em relação ao qual há estudos, feitos pelo Governo, no sentido do desenvolvimento rodo-ferroviário em toda aquela zona.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Ministro do Mar.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Ministro do Mar.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Ministro do Mar: Sr. Presidente e Sr. Deputado André Martins, acho estranho que V. Ex.ª se refira apenas a um dos cenários previstos no Plano de Desenvolvimento Estratégico do Porto de Lisboa e não também aos outros dois cenários nele contemplados: um de crescimento zero e o outro de crescimento moderado dos investimentos.\nPortanto, existe um plano estratégico, oportunamente aprovado, com características muito genéricas, estando previsto que os seus grandes investimentos e decisões específicas terão depois de ser aprovadas pelo Governo. Não posso ser mais explícito do que já fui, na sequência do que o ministro anterior responsável pela tutela e o próprio \nPrimeiro-Ministro já tinham sido. Mais do que isto, o discurso torna-se repetitivo e mesmo cansativo.\nAcho estranho que se levante uma suspeita sobre a actuação de uma administração portuária que foi transparente. A administração portuária apresentou um cenário de desenvolvimento claro, que é público, e fez a associação dos três factores mencionados, a saber: dragagem, fecho da Golada e porto. Publicou e discutiu os estudos. O Governo aprovou a zona industrial, mas não a expansão do porto para a Trafaria - tem mesmo e necessita de aprovar a dragagem -, estando o fecho da Golada em discussão.\nE normal, pois, que as coisas se processem desta maneira. Não é o ministro que segue a lese da Administração do Porto de Lisboa, porque os governos não tem de seguir as leses das administrações, mas sim fazer opções, decidir e fazer cumprir. É isso o que se fará, como é normal, neste terreno.\nQuanto à questão do projecto Ford, são totalmente desconhecidas no seio do Governo, pelo menos da minha parte, as aspirações da Ford no sentido da necessidade de utilizar mais portos. Tanto quanto julgamos saber, o desenvolvimento do projecto Ford está previsto, financiado e enquadrado no desenvolvimento do porto de Setúbal.", 
-   "type": "documento"
+   "speaker": "O Sr. Ministro do Mar", 
+   "text": "Sr. Presidente e Sr. Deputado André Martins, acho estranho que V. Ex.ª se refira apenas a um dos cenários previstos no Plano de Desenvolvimento Estratégico do Porto de Lisboa e não também aos outros dois cenários nele contemplados: um de crescimento zero e o outro de crescimento moderado dos investimentos.\nPortanto, existe um plano estratégico, oportunamente aprovado, com características muito genéricas, estando previsto que os seus grandes investimentos e decisões específicas terão depois de ser aprovadas pelo Governo. Não posso ser mais explícito do que já fui, na sequência do que o ministro anterior responsável pela tutela e o próprio \nPrimeiro-Ministro já tinham sido. Mais do que isto, o discurso torna-se repetitivo e mesmo cansativo.\nAcho estranho que se levante uma suspeita sobre a actuação de uma administração portuária que foi transparente. A administração portuária apresentou um cenário de desenvolvimento claro, que é público, e fez a associação dos três factores mencionados, a saber: dragagem, fecho da Golada e porto. Publicou e discutiu os estudos. O Governo aprovou a zona industrial, mas não a expansão do porto para a Trafaria - tem mesmo e necessita de aprovar a dragagem -, estando o fecho da Golada em discussão.\nE normal, pois, que as coisas se processem desta maneira. Não é o ministro que segue a lese da Administração do Porto de Lisboa, porque os governos não tem de seguir as leses das administrações, mas sim fazer opções, decidir e fazer cumprir. É isso o que se fará, como é normal, neste terreno.\nQuanto à questão do projecto Ford, são totalmente desconhecidas no seio do Governo, pelo menos da minha parte, as aspirações da Ford no sentido da necessidade de utilizar mais portos. Tanto quanto julgamos saber, o desenvolvimento do projecto Ford está previsto, financiado e enquadrado no desenvolvimento do porto de Setúbal.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Ministro do Mar", 
    "text": "1214 I SÉRIE - NÚMERO 40", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Ministro do Mar", 
    "text": "Finalmente, parece-me que «ilustrar os galões ecologistas» de V. Ex.ª com uma tese de suspeição sucessiva sobre as intenções da administração portuária nesta matéria não é a forma mais construtiva de participar no debate público, do maior interesse, sobre o funcionamento do porto e de Lisboa. O porto de Lisboa diz respeito a todos, ao País em geral, e o Governo tem e assume as suas responsabilidades nessa matéria! Lançar uma suspeita sobre qualquer iniciativa, mesmo quando ela implica decisões do tipo das que referi, e fazê-la renascer sempre sob a suspeita de uma «maldade» que encerrará esse projecto, parece-me constituir uma forma de envenenar as decisões que têm de ser, e serão seguramente, tomadas no interesse das autarquias, dos valores que o Governo defende, nomeadamente o da protecção do ambiente e do património, e da economia do País. É isto que está em causa e que irá ser decidido pelo Governo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para formular uma pergunta em nome do Grupo Parlamentar do Partido Comunista Português, relativa à democraticidade na elaboração do Plano de Desenvolvimento Regional, tem a palavra o Sr.Deputado Luís Sá.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para formular uma pergunta em nome do Grupo Parlamentar do Partido Comunista Português, relativa à democraticidade na elaboração do Plano de Desenvolvimento Regional, tem a palavra o Sr.Deputado Luís Sá.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Sá* (PCP): Sr. Presidente, Srs. Membros do Governo, como é do conhecimento de todos, a elaboração do Plano de Desenvolvimento Regional (PDR) reveste-se de uma importância particular. Tem-se dito - e com razão - que todo o desenvolvimento é regional. Num país com as assimetrias que o nosso tem, um país em que há regiões que continuam a desertificar-se e outras onde continua a imperar o caos, esse problema é particularmente importante.\nEntretanto, costuma dizer-se, com bastante razão lambem, que o desenvolvimento regional quer dizer, antes de mais, desenvolvimento das regiões. O Governo tem optado, de uma forma muito discutível, por um plano de desenvolvimento regional único para todo o País. Está, naturalmente, acompanhado por outros países da Europa comunitária, mas tal facto não constituirá propriamente um argumento a favor, porque por vezes não se é bem acompanhado.\nO problema fundamental que existe nesta matéria reside no facto de este Plano de Desenvolvimento Regional ser particularmente importante no momento em que está ern causa o mercado interno, com a perspectiva da união económica e monetária e da união política, e em que a coesão económica e social, com a sua importantíssima dimensão regional, é e tem de ser uma dimensão essencial e inseparável da união política e da união económica e monetária. Apesar disso, pensamos que a opinião pública continua de fora da perspectiva da elaboração de uma política de desenvolvimento regional pós-1993, o mesmo acontecendo com as autarquias. De resto, a participação autárquica arrisca-se a consistir, tal como aconteceu no passado, em pouco mais do que enviar colecções de projectos às comissões de coordenação regional (CCR).\nNeste aspecto, é particularmente grave o facto de as regiões administrativas continuarem por criar, pois deveriam ser, naturalmente, um instrumento fundamental de participação. Entretanto, e sem iludir o importantíssimo problema da falta de regionalização, no qual o PSD e o Governo tem responsabilidades decisivas, a verdade é que se continua a privilegiar a intervenção dos vários ministérios e restantes departamentos da administração central, bem como das comissões de coordenação regional, enquanto a participação autárquica é pura e simplesmente inexistente até ao momento.\nÉ evidente que o Governo negará estes factos, como, aliás, já fez nesta Câmara perante uma questão colocada pela minha bancada, mas o que é certo é que um despacho conjunto de vários ministérios (publicado, em 21 de Janeiro do corrente ano, na 2.ª série do Diário da República) criou uma comissão de acompanhamento da fundamentação técnica da política de desenvolvimento regional após 1993, na qual estão representadas 20 entidades, incluindo as cinco comissões de coordenação regional, várias direcções-gerais e nove ministérios. Mas a verdade é que entre essas 20 entidades não houve espaço para representantes das autarquias locais nem da Associação Nacional dos Municípios, nem dos conselhos regionais das CCR, nos quais, como é sabido, as autarquias locais estão representadas!...\nA questão concreta que coloco é exactamente a de saber como tenciona o Governo garantir o envolvimento da opinião pública e, ern particular, das autarquias na elaboração da política de desenvolvimento regional, especialmente do Plano de Desenvolvimento Regional, que, como é sabido, assume uma importância muito grande para o País, quer como instrumento de definição de uma política de desenvolvimento quer como parte importantíssima e condicionante da definição do próximo quadro comunitário de apoio.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Luís Sá", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, como é do conhecimento de todos, a elaboração do Plano de Desenvolvimento Regional (PDR) reveste-se de uma importância particular. Tem-se dito - e com razão - que todo o desenvolvimento é regional. Num país com as assimetrias que o nosso tem, um país em que há regiões que continuam a desertificar-se e outras onde continua a imperar o caos, esse problema é particularmente importante.\nEntretanto, costuma dizer-se, com bastante razão lambem, que o desenvolvimento regional quer dizer, antes de mais, desenvolvimento das regiões. O Governo tem optado, de uma forma muito discutível, por um plano de desenvolvimento regional único para todo o País. Está, naturalmente, acompanhado por outros países da Europa comunitária, mas tal facto não constituirá propriamente um argumento a favor, porque por vezes não se é bem acompanhado.\nO problema fundamental que existe nesta matéria reside no facto de este Plano de Desenvolvimento Regional ser particularmente importante no momento em que está ern causa o mercado interno, com a perspectiva da união económica e monetária e da união política, e em que a coesão económica e social, com a sua importantíssima dimensão regional, é e tem de ser uma dimensão essencial e inseparável da união política e da união económica e monetária. Apesar disso, pensamos que a opinião pública continua de fora da perspectiva da elaboração de uma política de desenvolvimento regional pós-1993, o mesmo acontecendo com as autarquias. De resto, a participação autárquica arrisca-se a consistir, tal como aconteceu no passado, em pouco mais do que enviar colecções de projectos às comissões de coordenação regional (CCR).\nNeste aspecto, é particularmente grave o facto de as regiões administrativas continuarem por criar, pois deveriam ser, naturalmente, um instrumento fundamental de participação. Entretanto, e sem iludir o importantíssimo problema da falta de regionalização, no qual o PSD e o Governo tem responsabilidades decisivas, a verdade é que se continua a privilegiar a intervenção dos vários ministérios e restantes departamentos da administração central, bem como das comissões de coordenação regional, enquanto a participação autárquica é pura e simplesmente inexistente até ao momento.\nÉ evidente que o Governo negará estes factos, como, aliás, já fez nesta Câmara perante uma questão colocada pela minha bancada, mas o que é certo é que um despacho conjunto de vários ministérios (publicado, em 21 de Janeiro do corrente ano, na 2.ª série do Diário da República) criou uma comissão de acompanhamento da fundamentação técnica da política de desenvolvimento regional após 1993, na qual estão representadas 20 entidades, incluindo as cinco comissões de coordenação regional, várias direcções-gerais e nove ministérios. Mas a verdade é que entre essas 20 entidades não houve espaço para representantes das autarquias locais nem da Associação Nacional dos Municípios, nem dos conselhos regionais das CCR, nos quais, como é sabido, as autarquias locais estão representadas!...\nA questão concreta que coloco é exactamente a de saber como tenciona o Governo garantir o envolvimento da opinião pública e, ern particular, das autarquias na elaboração da política de desenvolvimento regional, especialmente do Plano de Desenvolvimento Regional, que, como é sabido, assume uma importância muito grande para o País, quer como instrumento de definição de uma política de desenvolvimento quer como parte importantíssima e condicionante da definição do próximo quadro comunitário de apoio.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Ministro do Planeamento e da Administração do Território.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Ministro do Planeamento e da Administração do Território.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Ministro do Planeamento e da Administração do Território (Valente de Oliveira): Sr. Presidente, Srs. Deputados: Em primeiro lugar, quero agradecer as perguntas colocadas pelo Sr. Deputado Luis Sá, que, aliás, são recorrentes, uma vez que, em relação à elaboração do último Plano de Desenvolvimento Regional, já aí houve queixas quanto a uma eventual falta de democraticidade.\nNa verdade, como muitas vezes referi, eu próprio tive várias reuniões, para além das que tiveram lugar com o Secretário de Estado, com as autarquias com vista a preparar e discutir assuntos parcelares de cada uma das componentes do Plano de Desenvolvimento Regional.\nAssim sendo, gostaria de relembrar o que aconteceu relativamente ao anterior Plano de Desenvolvimento Regional, dizendo que tive reuniões com representantes das 275 autarquias do continente, com os Governos Regionais da Madeira e dos Açores, com representantes das comunidades científica e empresarial, com as confederações patronais e sindicais às quais foram pedidas contribuições escritas, mas só uma delas respondeu -, auscultou-se o Conselho Nacional do Plano, houve a exposição e discussão na Comissão Parlamentar de Assuntos Europeus, reuni com o Conselho Permanente de Concertação Social e, ao abrigo do Estatuto da Oposição, teve lugar a audição de todos os partidos.\nBom, isto foi o que aconteceu no passado, numa ocasião em que estavam a dar-se os primeiros passos, pelo que foi dada grande atenção a ioda essa participação, que foi solicitada. Na verdade, tinha de relembrar tudo isto, porque esta questão volta sempre a ser colocada nos mesmos termos.\nQuanto a dois ou três pontos colocados hoje pelo Sr. Deputado, gostaria de tecer algumas considerações.\nEm primeiro lugar, o Sr. Deputado queixou-se de que só havia um plano de desenvolvimento regional. Bom, no meu entender, creio que só deve haver um plano de desenvolvimento regional, pois o seu objectivo é o de promover o equilíbrio entre todas as parcelas do território.", 
-   "type": "documento"
+   "text": "Sr. Presidente, Srs. Deputados: Em primeiro lugar, quero agradecer as perguntas colocadas pelo Sr. Deputado Luis Sá, que, aliás, são recorrentes, uma vez que, em relação à elaboração do último Plano de Desenvolvimento Regional, já aí houve queixas quanto a uma eventual falta de democraticidade.\nNa verdade, como muitas vezes referi, eu próprio tive várias reuniões, para além das que tiveram lugar com o Secretário de Estado, com as autarquias com vista a preparar e discutir assuntos parcelares de cada uma das componentes do Plano de Desenvolvimento Regional.\nAssim sendo, gostaria de relembrar o que aconteceu relativamente ao anterior Plano de Desenvolvimento Regional, dizendo que tive reuniões com representantes das 275 autarquias do continente, com os Governos Regionais da Madeira e dos Açores, com representantes das comunidades científica e empresarial, com as confederações patronais e sindicais às quais foram pedidas contribuições escritas, mas só uma delas respondeu -, auscultou-se o Conselho Nacional do Plano, houve a exposição e discussão na Comissão Parlamentar de Assuntos Europeus, reuni com o Conselho Permanente de Concertação Social e, ao abrigo do Estatuto da Oposição, teve lugar a audição de todos os partidos.\nBom, isto foi o que aconteceu no passado, numa ocasião em que estavam a dar-se os primeiros passos, pelo que foi dada grande atenção a ioda essa participação, que foi solicitada. Na verdade, tinha de relembrar tudo isto, porque esta questão volta sempre a ser colocada nos mesmos termos.\nQuanto a dois ou três pontos colocados hoje pelo Sr. Deputado, gostaria de tecer algumas considerações.\nEm primeiro lugar, o Sr. Deputado queixou-se de que só havia um plano de desenvolvimento regional. Bom, no meu entender, creio que só deve haver um plano de desenvolvimento regional, pois o seu objectivo é o de promover o equilíbrio entre todas as parcelas do território.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "14 DE MARÇO DE 1992 1215", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "Assim, se tivéssemos diversos planos de desenvolvimento regional para o continente e para as regiões autónomas, todos eles desligados entre si, sem uma visão de conjunto que assegurasse a coerência do total, o mais natural era que houvesse uma divergência e um maior afastamento, o que queremos evitar.\nUma coisa é haver para cada região, mesmo para cada município, planos de orientação do seu desenvolvimento - e queremos que os haja e outra é pensar que o total do País não é coberto por um único plano de desenvolvimento regional que assegure a integração de todas as componentes, o que, efectivamente, seria iludir o ponto mais importante de todos os objectivos que temos: o de assegurar a convergência, o equilíbrio e a redução das assimetrias entre o todo do território nacional.\nO segundo ponto que o Sr. Deputado Luís Sá abordou tem a ver com a criação das regiões administrativas. Como o senhor sabe, eu próprio, já no ano passado, aqui vim aquando da discussão da Lei Quadro da Criação das Regiões Administrativas e do debate do Programa do Governo, mas este ano o assunto voltou a ser abordado na discussão do Orçamento do Estado para 1992 e das Grandes Opções do Plano, estando nós, continuamente, a referir que o programa de regionalização, ou seja, a constituição de regiões administrativas no continente vai prosseguir dentro do princípio de que elas só se justificam como instrumento de desenvolvimento. Ora, é nessa perspectiva que elas irão avançar - e irão! -, apesar da descrença repetida da bancada do PCP,...", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): É uma lei de quatro em quatro anos!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "É uma lei de quatro em quatro anos!\nO Orador: -... que negamos, todas as vezes que cá vimos, e que mostramos, por actos, que está a avançar como deve ser.\nO terceiro ponto refere-se à questão de um despacho que respeita à elaboração de um novo quadro. Sr. Deputado, antes de passarmos à discussão política de uma proposta, temos de afiná-la em termos técnicos e fazer escolhas políticas dentro de cenários que nos são apresentados, com uma visão crítica de tudo quanto aconteceu e do que deve acontecer.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: -... que negamos, todas as vezes que cá vimos, e que mostramos, por actos, que está a avançar como deve ser.\nO terceiro ponto refere-se à questão de um despacho que respeita à elaboração de um novo quadro. Sr. Deputado, antes de passarmos à discussão política de uma proposta, temos de afiná-la em termos técnicos e fazer escolhas políticas dentro de cenários que nos são apresentados, com uma visão crítica de tudo quanto aconteceu e do que deve acontecer.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "O Ministro diz isso porque não está cá o Deputado Silva Marques!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): O Ministro diz isso porque não está cá o Deputado Silva Marques!", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "De facto, temos muitos estudos em marcha - apesar de o Sr.Deputado só ter referido um -, nomeadamente ao nível de contactos com um observatório do quadro comunitário de apoio, com pessoal contratado especialmente para ver e analisar as diversas vertentes do novo programa, isto é, aquilo que se passou e aquilo que vai passar-se com esse novo programa. Mas o que ó certo é que o Sr. Deputado não referiu isso, apesar de termos publicado todos os estudos que tem sido realizados a este respeito, garantindo assim a transparência de todo o processo.\nNa verdade, do que se trata é, efectivamente, de preparar as bases para um conjunto de cenários dos quais o Governo vai escolher o que lhe parecer mais avisado, mais conveniente, para atingir os objectivos em causa.\nPara a elaboração desse estudo que o Sr. Deputado referiu foi constituído um conselho consultivo composto unicamente por membros da Administração e consultores externos, porque não queremos insuflar a Administração com a contratação de muitos técnicos. Portanto, esta contratação foi objecto de um concurso, tendo em vista a análise do programa por um grupo de consultores, que tem de ter alguém que supervisione o seu trabalho. Assim, neste momento, o que está a fazer-se é a elaboração de cenários alternativos e uma reflexão global da aplicabilidade dos instrumentos de desenvolvimento regional com vista à escolha e definição de objectivos que, esses sim, tem de ser discutidos e elaborados.\nDe qualquer forma, ainda temos dois anos para o fazer, e a seu tempo cá virei, tal como sempre tem acontecido, para assegurar a participação que o Sr. Deputado pretende.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: De facto, temos muitos estudos em marcha - apesar de o Sr.Deputado só ter referido um -, nomeadamente ao nível de contactos com um observatório do quadro comunitário de apoio, com pessoal contratado especialmente para ver e analisar as diversas vertentes do novo programa, isto é, aquilo que se passou e aquilo que vai passar-se com esse novo programa. Mas o que ó certo é que o Sr. Deputado não referiu isso, apesar de termos publicado todos os estudos que tem sido realizados a este respeito, garantindo assim a transparência de todo o processo.\nNa verdade, do que se trata é, efectivamente, de preparar as bases para um conjunto de cenários dos quais o Governo vai escolher o que lhe parecer mais avisado, mais conveniente, para atingir os objectivos em causa.\nPara a elaboração desse estudo que o Sr. Deputado referiu foi constituído um conselho consultivo composto unicamente por membros da Administração e consultores externos, porque não queremos insuflar a Administração com a contratação de muitos técnicos. Portanto, esta contratação foi objecto de um concurso, tendo em vista a análise do programa por um grupo de consultores, que tem de ter alguém que supervisione o seu trabalho. Assim, neste momento, o que está a fazer-se é a elaboração de cenários alternativos e uma reflexão global da aplicabilidade dos instrumentos de desenvolvimento regional com vista à escolha e definição de objectivos que, esses sim, tem de ser discutidos e elaborados.\nDe qualquer forma, ainda temos dois anos para o fazer, e a seu tempo cá virei, tal como sempre tem acontecido, para assegurar a participação que o Sr. Deputado pretende.", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "O Orador", 
    "text": "0", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Sá* (PCP): Sr. Ministro, não vou entrar ern pormenores sobre a regionalização - aliás, creio que, na próxima terça-feira, o PSD irá ter oportunidade de aprovar o calendário da regionalização proposto pelos partidos da oposição.\nDe facto, o PSD vai ter oportunidade de, tendo ern conta a «profissão de fé» regionalizadora do Sr. Ministro, viabilizar a eleição das regiões administrativas ern 1993, como propomos.\nPortanto, não vou entrar em pormenores nesta matéria, mas, apesar disso, quero recordar que, em 1983 já lá vão nove anos! -, uma tese de doutoramento dava como exemplo de inconstitucionalidade por omissão a falta da criação das regiões administrativas. E já passaram nove anos, o que, francamente, é de mais! \nDe facto, a resposta do Sr. Ministro não resolve estas questões, mas esperemos que, entretanto, o Sr. Deputado Silva Marques não esteja presente, por forma a que o PSD possa aprovar, na próxima terça-feira, o nosso calendário para a regionalização.\nQuanto à questão de medir a democraticidade na elaboração dos PDR pelo número de reuniões entre o Sr. Ministro, as autarquias, os agentes económicos e outros, isso, francamente, é pouco! Não é suficiente! \nPor outro lado, também é defeituosa a ideia de que deve ser a administração central a elaborar as propostas, apresentando-as posteriormente, não dando às autarquias e à opinião pública a possibilidade de participarem na própria elaboração do plano.\nSe bem entendi, esta parece ser a grande justificação para o facto de as autarquias não estarem presentes nesta comissão, pelo que a nossa discordância quanto a este procedimento é total. O Sr. Ministro confirmará se é assim ou não, mas a ideia que está subjacente à exclusão da Associação Nacional de Municípios Portugueses e dos conselhos regionais desta comissão tem o nosso desacordo.\nDe resto, tomámos a devida nota de que esta comissão tem como um dos objectivos estabelecer contactos com o observatório do quadro comunitário de apoio, razão pela qual, no nosso entender, era importante que o poder local estivesse presente.\nQuanto à questão de haver apenas um plano de desenvolvimento regional, gostaria de dizer que acho um pouco estranho o Sr. Ministro considerar que só poderá haver plano integrado e coerente se houver apenas um plano. Francamente, não esperava que o Sr. Ministro aderisse às ideias de centralismo - aliás, não sei se será centralismo democrático, mas parece-me que de «democrático» tem pouco!...", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Luís Sá", 
+   "text": "Sr. Ministro, não vou entrar ern pormenores sobre a regionalização - aliás, creio que, na próxima terça-feira, o PSD irá ter oportunidade de aprovar o calendário da regionalização proposto pelos partidos da oposição.\nDe facto, o PSD vai ter oportunidade de, tendo ern conta a «profissão de fé» regionalizadora do Sr. Ministro, viabilizar a eleição das regiões administrativas ern 1993, como propomos.\nPortanto, não vou entrar em pormenores nesta matéria, mas, apesar disso, quero recordar que, em 1983 já lá vão nove anos! -, uma tese de doutoramento dava como exemplo de inconstitucionalidade por omissão a falta da criação das regiões administrativas. E já passaram nove anos, o que, francamente, é de mais! \nDe facto, a resposta do Sr. Ministro não resolve estas questões, mas esperemos que, entretanto, o Sr. Deputado Silva Marques não esteja presente, por forma a que o PSD possa aprovar, na próxima terça-feira, o nosso calendário para a regionalização.\nQuanto à questão de medir a democraticidade na elaboração dos PDR pelo número de reuniões entre o Sr. Ministro, as autarquias, os agentes económicos e outros, isso, francamente, é pouco! Não é suficiente! \nPor outro lado, também é defeituosa a ideia de que deve ser a administração central a elaborar as propostas, apresentando-as posteriormente, não dando às autarquias e à opinião pública a possibilidade de participarem na própria elaboração do plano.\nSe bem entendi, esta parece ser a grande justificação para o facto de as autarquias não estarem presentes nesta comissão, pelo que a nossa discordância quanto a este procedimento é total. O Sr. Ministro confirmará se é assim ou não, mas a ideia que está subjacente à exclusão da Associação Nacional de Municípios Portugueses e dos conselhos regionais desta comissão tem o nosso desacordo.\nDe resto, tomámos a devida nota de que esta comissão tem como um dos objectivos estabelecer contactos com o observatório do quadro comunitário de apoio, razão pela qual, no nosso entender, era importante que o poder local estivesse presente.\nQuanto à questão de haver apenas um plano de desenvolvimento regional, gostaria de dizer que acho um pouco estranho o Sr. Ministro considerar que só poderá haver plano integrado e coerente se houver apenas um plano. Francamente, não esperava que o Sr. Ministro aderisse às ideias de centralismo - aliás, não sei se será centralismo democrático, mas parece-me que de «democrático» tem pouco!...\n1216 I SÉRIE - NÚMERO 40", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "1216 I SÉRIE - NÚMERO 40", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Luís Sá", 
    "text": "Realmente, o que está subjacente a esta ideia é, acima de tudo, o facto de não haver regiões administrativas em Portugal. E não vale e pena iludir este facto! De resto, os países europeus que têm apenas um plano de desenvolvimento regional para todo o território suo aqueles que não têm regiões - e não vale a pena esconder este facto! \nOra, o Governo, que tem uma preocupação tão grande em harmonizar tão depressa, mesmo quando não é preciso, em matéria de impostos, pena é que não lenha tanta pressa em harmonizar em matéria de regiões administrativas. Aliás, este é um problema subjacente a toda esta matéria.\nFinalmente, queria recordar que o problema da participação das autarquias é particularmente importante neste quadro, pois, como o Sr.Ministro bem sabe, estuo concluídos, ou em vias de conclusão, muitos planos directores municipais e regionais de ordenamento do território.\nHá ate planos que foram encomendados por autarquias, que se associaram para o efeito, e estou a lembrar-me, por exemplo, dos planos dos distritos de Setúbal, Beja ou Évora.\nSão, precisamente, os esforços feitos pelas autarquias locais na luta pelo desenvolvimento que, neste momento, habilitam, muito em particular, a feitura de projectos de participação na elaboração de propostas. Não se trata apenas de dissolução de uma proposta elaborada, mas da elaboração das próprias propostas.\nPor isso mesmo, termino com um grande apelo: que o Governo reconsidere as concepções que parecem estar subjacentes ao despacho a que me referi na primeira intervenção, por um lado, e à resposta que o Sr. Ministro do Planeamento e da Administração do Território acaba de dar, por outro.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar, tem a palavra o Sr. Ministro do Planeamento e da Administração do Território.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar, tem a palavra o Sr. Ministro do Planeamento e da Administração do Território.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Ministro do Planeamento e da Administração do Território: Sr.Presidente, Sr. Deputado Luís Sá, tenho a certeza de que entendeu muito bem o que eu quis dizer com o «ter um único plano de desenvolvimento regional», além dos planos de desenvolvimento das regiões propriamente ditas. Portanto, só vou repelir por uma questão de clarificação.\nO que eu quis foi enaltecer o papel dos planos directores municipais.\nAliás, devo dizer que estes, ern muita extensão, são efectivamente pagos, até por verbas do quadro comunitário de apoio, para que possam ter essa capacidade de que o Sr. Deputado fala - e saúdo \nparticularmente o facto de ter sublinhado que todo o País está a elaborar planos directores municipais.", 
-   "type": "documento"
+   "speaker": "O Sr. Ministro do Planeamento e da Administração do Território", 
+   "text": "Sr.Presidente, Sr. Deputado Luís Sá, tenho a certeza de que entendeu muito bem o que eu quis dizer com o «ter um único plano de desenvolvimento regional», além dos planos de desenvolvimento das regiões propriamente ditas. Portanto, só vou repelir por uma questão de clarificação.\nO que eu quis foi enaltecer o papel dos planos directores municipais.\nAliás, devo dizer que estes, ern muita extensão, são efectivamente pagos, até por verbas do quadro comunitário de apoio, para que possam ter essa capacidade de que o Sr. Deputado fala - e saúdo \nparticularmente o facto de ter sublinhado que todo o País está a elaborar planos directores municipais.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Manuel Queiró* (CDS): Está, mas está arrasado!", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Manuel Queiró", 
+   "text": "Está, mas está arrasado!", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Portanto, há efectivamente uma grande participação a esse nível. Também há associações de municípios que, felizmente, fizeram planos operacionais onde se debateram os planos de desenvolvimento e que estuo a contribuir para a correcta aplicação dos fundos; há, naturalmente, conjuntos de planos operacionais por grandes parcelas do território, em que também se faz a optimização dos meios e, depois, o que eu disse e que de certeza absoluta o Sr. Deputado entendeu muito bem, mas quis desvirtuar o sentido da minha apresentação- foi que tem de haver um plano nacional regional, um plano nacional de interligação para se optimizarem as aplicações dos dinheiros gastos.\nAliás, se teve o cuidado de ler a imprensa de ontem e de anteontem, deve ler reparado que, apesar de lermos o tal plano único, cuja existência tanto o preocupa, mas que achamos ser indispensável para articular todas as contribuições, deve ler visto que Portugal foi o país que melhor aproveitou os fundos para o seu crescimento e desenvolvimento.\nPosto isto, vamos insistir, naturalmente, na mesma técnica de olhar para todo o território e procurar o seu equilíbrio, porque é esse que, de fado, nos preocupa, independentemente de haver, depois, uma cascata de instrumentos por aí abaixo, entre os quais estão os planos directores municipais.\nMas, Sr. Deputado -para voltar à questão da participação-, antes de se partir para a participação, elaboração e discussão com todos os participantes, mal de nós se não tivermos uma proposta sólida assinada com a Administração que nos elucide acerca do que devemos defender.\nNeste momento não está em causa elaborar o plano em todos os seus pormenores nem em todos os elementos construtivos gerais da sua arquitectura.\nVamos apresentar uma proposta - neste momento queremos estudá-la -, logo não me parece bem que comecemos a participar sem ler objecto de participação! O que está em causa, neste momento, é afinar um cenário que constitua uma proposta sensata sobre a qual se faça ioda a discussão que tanto deseja e que será feita de muitas maneiras e em muitos espaços e associações. Ora, tal como aconteceu anteriormente, vai ver que há-de haver uma participação entusiasta e eficaz nos seus resultados, tal como houve no plano de desenvolvimento regional anterior.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Portanto, há efectivamente uma grande participação a esse nível. Também há associações de municípios que, felizmente, fizeram planos operacionais onde se debateram os planos de desenvolvimento e que estuo a contribuir para a correcta aplicação dos fundos; há, naturalmente, conjuntos de planos operacionais por grandes parcelas do território, em que também se faz a optimização dos meios e, depois, o que eu disse e que de certeza absoluta o Sr. Deputado entendeu muito bem, mas quis desvirtuar o sentido da minha apresentação- foi que tem de haver um plano nacional regional, um plano nacional de interligação para se optimizarem as aplicações dos dinheiros gastos.\nAliás, se teve o cuidado de ler a imprensa de ontem e de anteontem, deve ler reparado que, apesar de lermos o tal plano único, cuja existência tanto o preocupa, mas que achamos ser indispensável para articular todas as contribuições, deve ler visto que Portugal foi o país que melhor aproveitou os fundos para o seu crescimento e desenvolvimento.\nPosto isto, vamos insistir, naturalmente, na mesma técnica de olhar para todo o território e procurar o seu equilíbrio, porque é esse que, de fado, nos preocupa, independentemente de haver, depois, uma cascata de instrumentos por aí abaixo, entre os quais estão os planos directores municipais.\nMas, Sr. Deputado -para voltar à questão da participação-, antes de se partir para a participação, elaboração e discussão com todos os participantes, mal de nós se não tivermos uma proposta sólida assinada com a Administração que nos elucide acerca do que devemos defender.\nNeste momento não está em causa elaborar o plano em todos os seus pormenores nem em todos os elementos construtivos gerais da sua arquitectura.\nVamos apresentar uma proposta - neste momento queremos estudá-la -, logo não me parece bem que comecemos a participar sem ler objecto de participação! O que está em causa, neste momento, é afinar um cenário que constitua uma proposta sensata sobre a qual se faça ioda a discussão que tanto deseja e que será feita de muitas maneiras e em muitos espaços e associações. Ora, tal como aconteceu anteriormente, vai ver que há-de haver uma participação entusiasta e eficaz nos seus resultados, tal como houve no plano de desenvolvimento regional anterior.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para, em nome da bancada do Partido Socialista, formular uma pergunta ao Governo sobre a travessia do Tejo, tem a palavra o Sr. Deputado António Costa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para, em nome da bancada do Partido Socialista, formular uma pergunta ao Governo sobre a travessia do Tejo, tem a palavra o Sr. Deputado António Costa.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *António Costa* (PS): Sr. Presidente, Srs. Deputados, Sr.Ministro das Obras Públicas, Transportes e Comunicações: Começo por congratular-me com a disponibilidade de V. Ex.ª para nos responder a esta questão, o que, de certeza, é sinal de que teremos hoje boas-novas! \nDiariamente atravessam o Tejo 200 000 cidadãos, cuja esmagadora maioria repete essa travessia todos os dias, duas vezes por dia.\nHá dois anos, o Sr. Ministro esteve nesta Assembleia por iniciativa do PS -estava há uma semana neste Ministério - e revelou o bom senso de se estrear acolhendo a proposta do PS de abrir de imediato uma quinta faixa na Ponte 25 de Abril. O Sr. Ministro deu-nos ouvidos e saiu-se bem! \nContudo, V. Ex.ª cultiva a precipitação no método e a indecisão na estratégia, pois o Sr. Ministro adiou, adiou, adiou e foi adiando qualquer decisão de fundo sobre a travessia do Tejo.\nDissemos-lhe que a obra prioritária e urgente era o lançamento de um comboio de passageiros de tipo suburbano, da Linha de Cintura ao Pinhal Novo, mas o Sr. Ministro não nos deu ouvidos e... saiu-se mal!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Costa", 
+   "text": "Sr. Presidente, Srs. Deputados, Sr.Ministro das Obras Públicas, Transportes e Comunicações: Começo por congratular-me com a disponibilidade de V. Ex.ª para nos responder a esta questão, o que, de certeza, é sinal de que teremos hoje boas-novas! \nDiariamente atravessam o Tejo 200 000 cidadãos, cuja esmagadora maioria repete essa travessia todos os dias, duas vezes por dia.\nHá dois anos, o Sr. Ministro esteve nesta Assembleia por iniciativa do PS -estava há uma semana neste Ministério - e revelou o bom senso de se estrear acolhendo a proposta do PS de abrir de imediato uma quinta faixa na Ponte 25 de Abril. O Sr. Ministro deu-nos ouvidos e saiu-se bem! \nContudo, V. Ex.ª cultiva a precipitação no método e a indecisão na estratégia, pois o Sr. Ministro adiou, adiou, adiou e foi adiando qualquer decisão de fundo sobre a travessia do Tejo.\nDissemos-lhe que a obra prioritária e urgente era o lançamento de um comboio de passageiros de tipo suburbano, da Linha de Cintura ao Pinhal Novo, mas o Sr. Ministro não nos deu ouvidos e... saiu-se mal!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Armando Vara* (PS): Muito bem!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Vara", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Perdeu tempo com estudos e projectos sobre uma sexta faixa rodoviária, sobre um comboio de", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Perdeu tempo com estudos e projectos sobre uma sexta faixa rodoviária, sobre um comboio de", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "14 DE MARÇO DE 1992 1217", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "mercadorias, embaraçado pelo projecto da Administração do Porto de Lisboa -que então tutelava da construção de uma zona \nportuária-industrial na Golada do Tejo. Um a um, acabou por dar-nos razão e desistir.\nContudo, incapaz de decidir sobre a ponte que tem, proeurou iludir a perda de tempo recuperando o projecto «centenário» de uma nova ponte para o próximo século.\nEmbrulhou-se, então, em novos estudos, na criação de novos órgãos de Administração, num debate que &, por certo, apaixonante, como V. Ex.ª já deve ter verificado no próprio Conselho de Ministros. Porém, o que é certo é que quanto à decisão sobre o comboio na Ponte 25 de Abril, zero! E essa era a opção prioritária e urgente.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Incapaz de decidir, repetiu, nesta Casa e na imprensa, a promessa de que iria decidir. Em Maio de 1990 disse que seria «nos princípios de 1991»; em Março de 1991, que seria «brevemente»; e em Novembro de 1991, que já só seria em Janeiro de 1992!...\nPerdeu-se tempo, muito tempo na vida de 200 OOO cidadãos que só tem como alternativa o miserabilismo de transportes públicos envelhecidos, incómodos e lentos e os desgastantes engarrafamentos que desaguam numa cidade congestionada.\nHoje, o Sr. Ministro não pode repetir o déjá vu de Maio de 1990, de Março de 1991 e de Novembro de 1991; hoje não nos pode responder com mais uma promessa de vir a decidir, hoje, dois anos passados, só nos pode responder anunciando qual é a decisão. Por isso perguntamos: \nprimeiro, já adjudicou à Steinman os estudos sobre o reforço da Ponte? \nEm caso afirmativo, qual o prazo fixado para a sua conclusão? \nSegundo, já abriu o concurso de pré-qualificação para a construção e exploração da travessia ferroviária? Em caso afirmativo, qual o prazo fixado para a apresentação do projecto e qual o calendário para a execução dos trabalhos? \nEstou certo de que hoje o Sr. Ministro nos responderá com clareza.\nMas V. Ex.ª perdeu dois anos e a situação agravou-se e está, de novo, em ponto de ruptura, que exige novas respostas e, por isso, lhe colocamos novas perguntas,...", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Incapaz de decidir, repetiu, nesta Casa e na imprensa, a promessa de que iria decidir. Em Maio de 1990 disse que seria «nos princípios de 1991»; em Março de 1991, que seria «brevemente»; e em Novembro de 1991, que já só seria em Janeiro de 1992!...\nPerdeu-se tempo, muito tempo na vida de 200 OOO cidadãos que só tem como alternativa o miserabilismo de transportes públicos envelhecidos, incómodos e lentos e os desgastantes engarrafamentos que desaguam numa cidade congestionada.\nHoje, o Sr. Ministro não pode repetir o déjá vu de Maio de 1990, de Março de 1991 e de Novembro de 1991; hoje não nos pode responder com mais uma promessa de vir a decidir, hoje, dois anos passados, só nos pode responder anunciando qual é a decisão. Por isso perguntamos: \nprimeiro, já adjudicou à Steinman os estudos sobre o reforço da Ponte? \nEm caso afirmativo, qual o prazo fixado para a sua conclusão? \nSegundo, já abriu o concurso de pré-qualificação para a construção e exploração da travessia ferroviária? Em caso afirmativo, qual o prazo fixado para a apresentação do projecto e qual o calendário para a execução dos trabalhos? \nEstou certo de que hoje o Sr. Ministro nos responderá com clareza.\nMas V. Ex.ª perdeu dois anos e a situação agravou-se e está, de novo, em ponto de ruptura, que exige novas respostas e, por isso, lhe colocamos novas perguntas,...", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Armando Vara* (PS): Muito bem!", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Orador: -... indo a primeira no sentido de saber quais são as medidas urgentes que já determinou para responder a uma situação de ruptura que não suporia esperar pela conclusão do tabuleiro ferroviário.\nA segunda é esta: o que espera para construir os corredores reservados a transportes públicos nos acessos à Ponte 25 de Abril? \nTerceira, o que espera para alargar de imediato as portagens de 10 para 15 cabinas, sem perder tempo com uma nova obra, totalmente inútil, de deslocação da praça das portagens? \nQuarta, o que espera para iniciar a renovação dos velhos cacilheiros, frota que não recebe novas unidades desde que o PSD chegou ao Governo, em 1980? \nQuinta, o que espera para melhorar os terminais fluviais e a suas ligações aos demais transportes públicos? \nSexta, e última, o que espera para criar novos terminais fluviais, por exemplo, junto a St.ª Apolónia, aproveitando o cais já aí existente? \nE, Sr. Ministro, peço-lhe que se lembre da quinta faixa! \nDesta vez, dê-nos ouvidos já! Não se perca em mais estudos nem faça os Portugueses perderem mais tempo. Não é possível perder mais tempo! E necessária uma resposta imediata para os problemas de hoje, para as travessias de hoje e não para as travessias do próximo século.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Vara", 
+   "text": "Muito bem!\nO Orador: -... indo a primeira no sentido de saber quais são as medidas urgentes que já determinou para responder a uma situação de ruptura que não suporia esperar pela conclusão do tabuleiro ferroviário.\nA segunda é esta: o que espera para construir os corredores reservados a transportes públicos nos acessos à Ponte 25 de Abril? \nTerceira, o que espera para alargar de imediato as portagens de 10 para 15 cabinas, sem perder tempo com uma nova obra, totalmente inútil, de deslocação da praça das portagens? \nQuarta, o que espera para iniciar a renovação dos velhos cacilheiros, frota que não recebe novas unidades desde que o PSD chegou ao Governo, em 1980? \nQuinta, o que espera para melhorar os terminais fluviais e a suas ligações aos demais transportes públicos? \nSexta, e última, o que espera para criar novos terminais fluviais, por exemplo, junto a St.ª Apolónia, aproveitando o cais já aí existente? \nE, Sr. Ministro, peço-lhe que se lembre da quinta faixa! \nDesta vez, dê-nos ouvidos já! Não se perca em mais estudos nem faça os Portugueses perderem mais tempo. Não é possível perder mais tempo! E necessária uma resposta imediata para os problemas de hoje, para as travessias de hoje e não para as travessias do próximo século.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Carlos Coelho* (PSD): Não foi uma pergunta ao Governo, foram seis!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Não foi uma pergunta ao Governo, foram seis!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.\nO Sr. Ministro das Obras Públicas, Transportes e Comunicações (Ferreira do Amaral): Sr. Presidente, Sr. Deputado António Costa, V. Ex.ª colocou muitas perguntas e, apesar de ter tomado nota das que pude, provavelmente deixei escapar alguma. No entanto, o Sr. Deputado, posteriormente, lembrar-me-á as perguntas às quais não respondi.\nEm primeiro lugar, só se me oferece fazer um comentário: o Governo tem de estar especialmente grato ao Partido Socialista pela sua acção tutelar no que respeita às soluções dos transportes e das obras públicas, já que, segundo aquilo que disse, parece, o Partido Socialista faz a concepção das soluções, segreda ao Governo quais são as melhores e o Governo depois executa-as.\nPortanto, nesta excelente harmonia, julgo que o Partido Socialista não terá quaisquer dúvidas, já que as suas brilhantes soluções no que respeita aos transportes serão adoptadas pelo Governo e com o sucesso que, aliás, o Partido Socialista bastante desfrutou, enquanto leve na sua mão a responsabilidade de resolver o problema dos transportes em Lisboa.\nSr. Deputado, não vou referir o problema da quinta faixa. V. Ex.ª poderá acusar-me de tudo, excepto de falta de obediência cega aos ditames do Partido Socialista, uma vez que uma semana depois de tomar posse cumpri exactamente o que o Partido Socialista pretendia. Mas também posso dizer-lhe que, parece-me, está subjacente uma estratégia estranha por parte do Partido Socialista, que é esta: assim que sabe que, a respeito de uma determinada matéria, as decisões estão tomadas, e dada a falta de alternativa que apresenta para essas soluções, procura antecipar-se e vir publicamente exigir que essas soluções sejam tomadas. Isto é, pouco antes do anúncio público das soluções, o Partido Socialista exige-as e fá-lo na convicção de que, depois, pode reivindicar essa qualidade estranha de ser, de facto, o orientador da política do Governo nos transportes! \nSr. Deputado, anunciei já várias vezes nesta Assembleia, e fui dando conta, várias vozes, do desenvolvimento desses projectos, que a solução da ligação dos transportes da margem sui para a margem norte do Tejo passava por dois projectos essenciais, o primeiro dos quais tem a ver com a travessia ferroviária da Ponte 25 de Abril.\nDevo dizer que esta decisão não foi incontroversa, já que, como sabe, havia quem defendesse outras alternativas. O Governo decidiu que devia ser um transporte ferroviário do tipo do comboio suburbano da linha de Cascais, e uma das variadíssimas razões é, evidentemente, a de aproveitar da melhor forma a infra-estrutura que já existe e, portanto, este aproveitamento integral traria, com certeza, melhores benefícios.\nO Governo decidiu isto e decidiu-o na altura oportuna. A partir daí tomou as acções que devia perante uma decisão destas.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.\nO Sr. Ministro das Obras Públicas, Transportes e Comunicações (Ferreira do Amaral): — Sr. Presidente, Sr. Deputado António Costa, V. Ex.ª colocou muitas perguntas e, apesar de ter tomado nota das que pude, provavelmente deixei escapar alguma. No entanto, o Sr. Deputado, posteriormente, lembrar-me-á as perguntas às quais não respondi.\nEm primeiro lugar, só se me oferece fazer um comentário: o Governo tem de estar especialmente grato ao Partido Socialista pela sua acção tutelar no que respeita às soluções dos transportes e das obras públicas, já que, segundo aquilo que disse, parece, o Partido Socialista faz a concepção das soluções, segreda ao Governo quais são as melhores e o Governo depois executa-as.\nPortanto, nesta excelente harmonia, julgo que o Partido Socialista não terá quaisquer dúvidas, já que as suas brilhantes soluções no que respeita aos transportes serão adoptadas pelo Governo e com o sucesso que, aliás, o Partido Socialista bastante desfrutou, enquanto leve na sua mão a responsabilidade de resolver o problema dos transportes em Lisboa.\nSr. Deputado, não vou referir o problema da quinta faixa. V. Ex.ª poderá acusar-me de tudo, excepto de falta de obediência cega aos ditames do Partido Socialista, uma vez que uma semana depois de tomar posse cumpri exactamente o que o Partido Socialista pretendia. Mas também posso dizer-lhe que, parece-me, está subjacente uma estratégia estranha por parte do Partido Socialista, que é esta: assim que sabe que, a respeito de uma determinada matéria, as decisões estão tomadas, e dada a falta de alternativa que apresenta para essas soluções, procura antecipar-se e vir publicamente exigir que essas soluções sejam tomadas. Isto é, pouco antes do anúncio público das soluções, o Partido Socialista exige-as e fá-lo na convicção de que, depois, pode reivindicar essa qualidade estranha de ser, de facto, o orientador da política do Governo nos transportes! \nSr. Deputado, anunciei já várias vezes nesta Assembleia, e fui dando conta, várias vozes, do desenvolvimento desses projectos, que a solução da ligação dos transportes da margem sui para a margem norte do Tejo passava por dois projectos essenciais, o primeiro dos quais tem a ver com a travessia ferroviária da Ponte 25 de Abril.\nDevo dizer que esta decisão não foi incontroversa, já que, como sabe, havia quem defendesse outras alternativas. O Governo decidiu que devia ser um transporte ferroviário do tipo do comboio suburbano da linha de Cascais, e uma das variadíssimas razões é, evidentemente, a de aproveitar da melhor forma a infra-estrutura que já existe e, portanto, este aproveitamento integral traria, com certeza, melhores benefícios.\nO Governo decidiu isto e decidiu-o na altura oportuna. A partir daí tomou as acções que devia perante uma decisão destas.\n1218 I SÉRIE - NÚMERO 40", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "1218 I SÉRIE - NÚMERO 40", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "O Sr. Deputado não espera - e não foi isso, com certeza, que pretendeu transmitir a esta Câmara - que uma decisão de fundo sobre esta matéria signifique que meses depois os comboios estejam a rodar na Ponte 25 de Abril! Não esperará isso com certeza, porque se assim for, \nprovavelmente estará a criticar-se a si próprio. E então poderia perguntar-se: «Quando o Partido Socialista teve a responsabilidade dos transportes, nomeadamente dos transportes suburbanos de Lisboa, porque é que não encontrou, de igual forma, a solução com essa rapidez?! \nA verdade é que, como se sabe, um projecto ferroviário numa ligação estrutural como a da Ponte 25 de Abril é especialmente delicado. A instalação de uma via ferroviária é uma obra técnica que, normalmente, demora cerca de seis anos a fazer - é bastante mais lento do que uma estrada, como o Sr. Deputado sabe-, mas, contrariamente àquilo que diz, não se perdeu tempo. Isto porque o anteprojecto e o projecto da travessia estuo feitos, trabalhou-se no caderno de encargos para lançar em concurso público, que está, neste momento, feito, e negociou-se com o projectista original da Ponte, que, como sabem, é a firma americana Steiner, o projecto para o reforço da Ponte. Neste momento o contrato está feito, não está adjudicado, mas penso que o será na próxima semana. O contrário prevê que o projecto esteja pronto dentro de um ano e três meses, se não estou em erro, mas já com as indicações suficientes para o seu custo nos próximos quatro meses.\nSr. Deputado, desde a decisão até agora não se perdeu, de facto, um dia. Procedeu-se exactamente como se devia! Portanto, em relação ao comboio estamos falados. É assim que vai ser! Esperemos que o concurso tenha o sucesso que todos esperamos, porque - concordo consigo, Sr.Deputado - é a obra mais urgente a nível dos transportes na região de Lisboa, para não dizer até, talvez, a obra mais urgente em todo o País.\nVamos continuar e, Sr. Deputado, terei gosto em responder às perguntas que me queira fazer para que possa ir acompanhando o desenvolvimento deste projecto tão importante.\nQuanto às outras obras necessárias para a travessia do Tejo, também foram anunciadas pelo Governo: a nova ponte rodoviária está posta em lei e não se perdeu um segundo. Compreender-se-á que a sua localização seja uma decisão difícil de tomar, já que há muitos factores em jogo e nenhum deles se pode dizer que é decisivo. A composição dos critérios é a questão mais importante para decidir a localização, mas, Sr.Deputado, lambem tenho o prazer de dizer-lhe que o Governo, muito em breve, anunciará -e pessoalmente a si o farei! - qual é a localização própria.\nGostaria que o Sr. Deputado, numa altura qualquer, pudesse transmitir também a opinião do Partido Socialista sobre esta matéria, pois aguardo com muito gosto que o faça. Vamos, com certeza, construir a ponte, porque, na minha opinião, também esta é imprescindível.\nErn relação ao alargamento da portagem, o Sr. Deputado sabe que está em curso essa obra. Vai, com certeza, facilitar muito a travessia do Tejo e o pagamento das portagens, uma vez que se introduzirá a Linha Verde, que tanto sucesso tem tido na Auto-Estrada do Estoril.\nQuanto ao problema dos cacilheiros, o Sr. Deputado sabe. muito bem que as primeiras novas embarcações para a travessia fluvial chegam em Junho. São realmente embarcações novas. Fiel à sua técnica de perguntar aquilo que já sabe e, sobretudo, aquilo que depois pode invocar como sendo uma orientação ao Governo, o Sr. Deputado fez uma pergunta respondendo também a ela, uma vez que já sabe que os cacilheiros vêm aí e vão, com certeza, melhorar muito a travessia do Tejo.\nSr. Deputado, penso que o plano geral de transportes da região suburbana de Lisboa está neste momento conseguido e, sobretudo, mais importante do que isso, está em execução. A situação das milhares de pessoas que diariamente se deslocam a Lisboa para trabalhar vai, com certeza, melhorar muito durante esta legislatura. Espero que seja assim, porque é para isso que estou a trabalhar.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Antes de dar a palavra ao Sr. Deputado António Costa, quero anunciar à Câmara que se encontram a assistir aos nossos trabalhos alunos do Externato O Nosso Jardim, de Lisboa, e das Escolas Secundárias de Júlio Dantas, de Lagos, de Júlio Martins, de Chaves, de Oliveira Martins, do Porto e do Seixal e de Eça de Queiroz, do Porto.\nEm nome da Câmara, os nossos cumprimentos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Antes de dar a palavra ao Sr. Deputado António Costa, quero anunciar à Câmara que se encontram a assistir aos nossos trabalhos alunos do Externato O Nosso Jardim, de Lisboa, e das Escolas Secundárias de Júlio Dantas, de Lagos, de Júlio Martins, de Chaves, de Oliveira Martins, do Porto e do Seixal e de Eça de Queiroz, do Porto.\nEm nome da Câmara, os nossos cumprimentos.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos gerais, de pé.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado António Costa.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *António Costa* (PS): Sr. Presidente, Sr. Ministro das Obras Públicas, Transportes e Comunicações, o PS não tem uma visão destrutiva da vida política e, por isso, gostamos que a vida lhe corra bem, quando isso significa que a vida corre melhor para os Portugueses.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Costa", 
+   "text": "Sr. Presidente, Sr. Ministro das Obras Públicas, Transportes e Comunicações, o PS não tem uma visão destrutiva da vida política e, por isso, gostamos que a vida lhe corra bem, quando isso significa que a vida corre melhor para os Portugueses.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Gostamos de dar-lhe boas ideias, porque esperamos que V.\nEx.ª as execute melhor. Dei-lhe, aliás, o exemplo claro da quinta faixa e dei-lhe hoje mais ideias, mas também temos mais. Sr. Ministro, não venha dizer-nos que não lemos alternativas, porque lambem lhe pergunto o que é que espera para executá-las.\nA quinta faixa foi uma boa solução, mas ou o Sr. Ministro «tira a rolha do funil» ou, então, a quinta faixa não lhe resolve os problemas! Não vale a pena perdermos tempo com uma obra absurda de mudar a praça de todas as portagens. Basta, simplesmente, alargar as portagens de 10 para 15 cabinas para que o «funil» fique mais alargado e o tráfego mais fluido. Não perca mais tempo e resolva o problema com a solução mais rápida! \nAliás, a posição quanto às portagens é a mesma da sexta faixa. Insistiu o seu colega anterior e insistiu o Sr. Ministro ainda no debate de 4 de Maio de 1990 e, finalmente, concluiu que não valia a pena. Não perca mais tempo e adopte uma solução rápida, porque é de medidas eficazes que os Portugueses estão à espera para melhorar a sua vida.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Gostamos de dar-lhe boas ideias, porque esperamos que V.\nEx.ª as execute melhor. Dei-lhe, aliás, o exemplo claro da quinta faixa e dei-lhe hoje mais ideias, mas também temos mais. Sr. Ministro, não venha dizer-nos que não lemos alternativas, porque lambem lhe pergunto o que é que espera para executá-las.\nA quinta faixa foi uma boa solução, mas ou o Sr. Ministro «tira a rolha do funil» ou, então, a quinta faixa não lhe resolve os problemas! Não vale a pena perdermos tempo com uma obra absurda de mudar a praça de todas as portagens. Basta, simplesmente, alargar as portagens de 10 para 15 cabinas para que o «funil» fique mais alargado e o tráfego mais fluido. Não perca mais tempo e resolva o problema com a solução mais rápida! \nAliás, a posição quanto às portagens é a mesma da sexta faixa. Insistiu o seu colega anterior e insistiu o Sr. Ministro ainda no debate de 4 de Maio de 1990 e, finalmente, concluiu que não valia a pena. Não perca mais tempo e adopte uma solução rápida, porque é de medidas eficazes que os Portugueses estão à espera para melhorar a sua vida.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Armando Vara* (PS): Muito bem!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Vara", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Ministro, o que é certo é que há aqui um problema que é seu e não meu. Há um velho ditado português que diz: «Pela boca morre o peixe.» O Sr. Ministro sofre de incontinência mediática. Portanto, cada vez que fala, anuncia uma bomba. O seu colega do Planeamento e da Administração do Território, que, infelizmente, já saiu, vai elaborando, calma e serenamente, o PROT da Área Metropolitana de Lisboa e, enquanto o vai elaborando, o Sr. Ministro vai anunciando, na primeira página do Expresso: um dia é um aeroporto, outro dia é uma ponte, outro", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Sr. Ministro, o que é certo é que há aqui um problema que é seu e não meu. Há um velho ditado português que diz: «Pela boca morre o peixe.» O Sr. Ministro sofre de incontinência mediática. Portanto, cada vez que fala, anuncia uma bomba. O seu colega do Planeamento e da Administração do Território, que, infelizmente, já saiu, vai elaborando, calma e serenamente, o PROT da Área Metropolitana de Lisboa e, enquanto o vai elaborando, o Sr. Ministro vai anunciando, na primeira página do Expresso: um dia é um aeroporto, outro dia é uma ponte, outro", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "14 DE MARÇO DE 1992 1219", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "dia é um porto, que já não está do lado de cá!... Mas depois vem o Ministro do Mar dizer que o porto está do lado de cá!... Isto é uma grande confusão! \nAgora o que é certo 6 que o Sr. Ministro -c tenho comigo números do Diário da Assembleia da República - veio aqui dizer, a 4 de Maio, que no princípio de 1991 tinha a decisão sobre a travessia ferroviária, depois voltou cá, em Março de 1991, e veio dizer que era para breve, mas, finalmente, no Expresso de 30 de Novembro de 1991 veio dizer que era em Janeiro de 1992. Chegámos a Março e já estávamos intrigados! \nFico feliz porque, de uma vez por todas, o Sr. Ministro vai adjudicar a obra.\nMas perdeu tempo. Sabe porquê? Por falta de visão estratégia sobre estas questões. Com efeito, quando lhe dissemos «esqueça a sexta faixa», o Sr. Ministro insistiu no estudo sobre ela; quando dissemos «esqueça o transporte de mercadorias», o Sr. Ministro foi fazer o estudo sobre o transporte de mercadorias. Agora corre o risco de errar outra vez, pois até o Sr. Ministro Valente de Oliveira é de opinião que deveria existir um eléctrico rápido ou um metropolitano na zona onde V.\nEx.ª quer pôr a circular um comboio do tipo do da Linha de Cascais.\nSr. Ministro, ou se despacha rapidamente ou o PROT ainda o consegue ultrapassar.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Risos do PS.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Isto é que começa a ser um caos completo, Sr. Ministro!", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Portanto, Sr. Ministro, não perca mais tempo! \nComo última sugestão - e faço isto com à vontade e no espírito de que os Deputados estão aqui, nesta Assembleia, para representar os Portugueses, devendo, por isso, na medida da sua competência e do seu poder, contribuir para ajudar a resolver os problemas do País -, digo-lhe, Sr. Ministro: pondere seriamente em tomar medidas urgentes capazes de resolver o problema das portagens da Ponte e o dos corredores reservados a transportes públicos de acesso à mesma, pois os números relativos ao período de 1981 a 1990 em matéria da utilização modal da travessia do Tejo são impressionantes. De 47 000 viaturas individuais passou-se para 97 000 e o Sr. Ministro sabe que, em matéria de infra-estruturas rodoviárias e de gestão de trânsito de cidade, não há medidas que resistam se não houver um transporte público \nconcorrente. E actualmente todos sabemos que não há! \nÉ evidente que todos estes problemas não se resolvem num só dia. Não espero que o comboio circule amanha, mas o Sr. Ministro é que costuma dizer, e gosta mesmo de dizer, que carrega no botão e decide. A verdade é que, nesta matéria, anda há dois anos a tactear com o dedinho de um lado para o outro e o botão ou está encravado ou não o encontra, pois não tomou as decisões a tempo e horas, perdeu muito tempo e, sobretudo, faz perder muito tempo aos 200 000 portugueses que, diariamente, tem de atravessar a Ponte 25 de Abril.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações: Sr.Presidente, Sr. Deputado António Costa, não vou perder tempo com questões que considero menores, mas anoto que V. Ex.ª, depois de dizer que eu, nove dias depois de ter tomado posse, tinha decidido sobre a quinta faixa, veio agora dizer que perdi muito tempo com os estudos sobre a sexta faixa, até que tomasse uma decisão. Reconheço que nove dias é talvez excessivo para estudar esta matéria, mas não me pesa a consciência de não ter decidido o mais depressa que me foi possível.\nO Sr. Deputado António Costa referiu também que, em 1991, eu dizia que ia decidir sobre o transporte ferroviário na Ponte 25 de Abril. De facto, como já tive oportunidade de referir, essa decisão foi tomada, mas mesmo assim o Sr. Deputado acha que ela já o deveria ter sido não sei quando, provavelmente durante o tempo em que o Partido Socialista teve a responsabilidade dos transportes.", 
-   "type": "documento"
+   "speaker": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações", 
+   "text": "Sr.Presidente, Sr. Deputado António Costa, não vou perder tempo com questões que considero menores, mas anoto que V. Ex.ª, depois de dizer que eu, nove dias depois de ter tomado posse, tinha decidido sobre a quinta faixa, veio agora dizer que perdi muito tempo com os estudos sobre a sexta faixa, até que tomasse uma decisão. Reconheço que nove dias é talvez excessivo para estudar esta matéria, mas não me pesa a consciência de não ter decidido o mais depressa que me foi possível.\nO Sr. Deputado António Costa referiu também que, em 1991, eu dizia que ia decidir sobre o transporte ferroviário na Ponte 25 de Abril. De facto, como já tive oportunidade de referir, essa decisão foi tomada, mas mesmo assim o Sr. Deputado acha que ela já o deveria ter sido não sei quando, provavelmente durante o tempo em que o Partido Socialista teve a responsabilidade dos transportes.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Carlos Coelho* (PSD): Ora aí está!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Ora aí está!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Na verdade, o Partido Socialista nunca deu resposta à seguinte questão: porque é que a decisão de pôr em funcionamento um comboio na Ponte 25 de Abril não foi tomada há muito mais tempo? A esta questão é que gostaria que me dessem uma resposta! \nNão se argumente agora com a falta de recursos ou com o tempo das «vacas magras». A isso já eu respondi que uma das primeiras tarefas dos governos é a de engordar as vacas, e isso nós fizemos.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Na verdade, o Partido Socialista nunca deu resposta à seguinte questão: porque é que a decisão de pôr em funcionamento um comboio na Ponte 25 de Abril não foi tomada há muito mais tempo? A esta questão é que gostaria que me dessem uma resposta! \nNão se argumente agora com a falta de recursos ou com o tempo das «vacas magras». A isso já eu respondi que uma das primeiras tarefas dos governos é a de engordar as vacas, e isso nós fizemos.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Risos do PSD.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Além do mais, pergunto: porque é que essa solução, que não custa dinheiro ao Estado, não foi concretizada para pôr em funcionamento um comboio na Ponte de 25 de Abril? Porquê? Porque é que o Partido Socialista só tem boas ideias quando está na oposição e quando está no Governo não tem ideias nenhumas?", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem! Protestos do PS.", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem! Protestos do PS.", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Quanto à referência que o Sr. Deputado fez relativamente ao carregar nos botões, gostaria de esclarecê-lo que, neste momento, o teclado tem os botões em baixo. As decisões estão tomadas e a única que falta tomar diz respeito à localização da ponte, que, aliás, ainda não decidimos por razões que o Sr. Deputado compreende muito bem e que poderão levar a que a decisão possa demorar um pouco mais, uma vez que se trata, de facto, de uma decisão difícil.\nSr. Deputado, julgo que as suas críticas, assim como as sugestões do Partido Socialista, são sempre bem vindas. Digo isto não como homenagem a uma democracia aparente da Câmara mas porque, de facto, é a verdade.\nCom efeito, não «me caem os parentes na lama» por dizer que acolherei algumas das sugestões do Partido Socialista, algumas até já acolhi, mas não posso deixar de salientar que, embora as suas críticas sejam inteiramente legítimas, há, pelo menos, uma que não é credível: a de que perdemos muito tempo até que fizéssemos as obras públicas que o País queria.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Quanto à referência que o Sr. Deputado fez relativamente ao carregar nos botões, gostaria de esclarecê-lo que, neste momento, o teclado tem os botões em baixo. As decisões estão tomadas e a única que falta tomar diz respeito à localização da ponte, que, aliás, ainda não decidimos por razões que o Sr. Deputado compreende muito bem e que poderão levar a que a decisão possa demorar um pouco mais, uma vez que se trata, de facto, de uma decisão difícil.\nSr. Deputado, julgo que as suas críticas, assim como as sugestões do Partido Socialista, são sempre bem vindas. Digo isto não como homenagem a uma democracia aparente da Câmara mas porque, de facto, é a verdade.\nCom efeito, não «me caem os parentes na lama» por dizer que acolherei algumas das sugestões do Partido Socialista, algumas até já acolhi, mas não posso deixar de salientar que, embora as suas críticas sejam inteiramente legítimas, há, pelo menos, uma que não é credível: a de que perdemos muito tempo até que fizéssemos as obras públicas que o País queria.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "1220 I SÉRIE-NÚMERO 40", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Manuel Maia* (PCP): Sr. Presidente, peço a palavra para exercer o direito de defesa da consideração.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Maia", 
+   "text": "Sr. Presidente, peço a palavra para exercer o direito de defesa da consideração.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra para esse efeito, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra para esse efeito, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Manuel Maia* (PCP): Sr. Presidente, Sr. Deputado António Costa, talvez levado pela dinâmica das Comemorações dos Descobrimentos, V. Ex.ª volta a trazer a esta Assembleia a posição do PS, que apresenta como sendo o descobridor da quinta faixa.\nNeste sentido, permitia-me dar conhecimento à Câmara de que o Partido Socialista, enquanto governo, defendia o alargamento da Ponte sobre o Tejo para mais duas faixas de rodagem. Era, efectivamente, essa a opção prioritária, em prejuízo da opção de instalar uma linha férrea. Mas esta questão já foi debatida em profundidade há cerca de dois anos, quando o PCP e o PS formularam uma pergunta ao Governo sobre a Ponte sobre o Tejo. Nessa altura já o Sr. Ministro Ferreira do Amaral tinha tomado posse do cargo. Lembro-me também que discutimos esta questão da quinta faixa, aquando da ratificação do decreto-lei sobre o GATTEL - Gabinete de Travessia do Tejo em Lisboa e, mais recentemente, durante o debate sobre o Orçamento do Estado.\nSaliento este aspecto, uma vez que é do conhecimento público que, muito antes de o Partido Socialista colocar a questão da quinta faixa na Assembleia, ela já linha sido tratada num debate, no Forum Picoas, promovido pela Câmara Municipal de Almada, através da sua presidente.\nOra, só alguns meses depois é que o Partido Socialista veio tratar esta questão na Câmara.\nNão estou contra o Partido Socialista querer ser o porta-voz da Câmara Municipal de Almada, antes pelo contrário, penso até que é de louvar essa atitude, mas é importante que o Partido Socialista, pelo menos uma vez, diga de onde é que provém essa ideia da quinta faixa.\nAssim, a minha defesa da consideração tem a ver com este \nesclarecimento, uma vez que eu próprio participei em debates sobre esta questão e não me parece correcto que o Sr. Deputado António Costa, na qualidade de porta-voz, do Partido Socialista, ao referir-se à ideia da quinta faixa, não revele que a ideia originária pertence, de facto, à Câmara Municipal de Almada. É bom que o Sr. Deputado faça essa rectificação, se for possível.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Maia", 
+   "text": "Sr. Presidente, Sr. Deputado António Costa, talvez levado pela dinâmica das Comemorações dos Descobrimentos, V. Ex.ª volta a trazer a esta Assembleia a posição do PS, que apresenta como sendo o descobridor da quinta faixa.\nNeste sentido, permitia-me dar conhecimento à Câmara de que o Partido Socialista, enquanto governo, defendia o alargamento da Ponte sobre o Tejo para mais duas faixas de rodagem. Era, efectivamente, essa a opção prioritária, em prejuízo da opção de instalar uma linha férrea. Mas esta questão já foi debatida em profundidade há cerca de dois anos, quando o PCP e o PS formularam uma pergunta ao Governo sobre a Ponte sobre o Tejo. Nessa altura já o Sr. Ministro Ferreira do Amaral tinha tomado posse do cargo. Lembro-me também que discutimos esta questão da quinta faixa, aquando da ratificação do decreto-lei sobre o GATTEL - Gabinete de Travessia do Tejo em Lisboa e, mais recentemente, durante o debate sobre o Orçamento do Estado.\nSaliento este aspecto, uma vez que é do conhecimento público que, muito antes de o Partido Socialista colocar a questão da quinta faixa na Assembleia, ela já linha sido tratada num debate, no Forum Picoas, promovido pela Câmara Municipal de Almada, através da sua presidente.\nOra, só alguns meses depois é que o Partido Socialista veio tratar esta questão na Câmara.\nNão estou contra o Partido Socialista querer ser o porta-voz da Câmara Municipal de Almada, antes pelo contrário, penso até que é de louvar essa atitude, mas é importante que o Partido Socialista, pelo menos uma vez, diga de onde é que provém essa ideia da quinta faixa.\nAssim, a minha defesa da consideração tem a ver com este \nesclarecimento, uma vez que eu próprio participei em debates sobre esta questão e não me parece correcto que o Sr. Deputado António Costa, na qualidade de porta-voz, do Partido Socialista, ao referir-se à ideia da quinta faixa, não revele que a ideia originária pertence, de facto, à Câmara Municipal de Almada. É bom que o Sr. Deputado faça essa rectificação, se for possível.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Carlos Coelho* (PSD): Bem me parecia que era criatividade a mais para o PS!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Bem me parecia que era criatividade a mais para o PS!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para dar explicações, se assim o entender, tem a palavra o Sr. Deputado António Costa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para dar explicações, se assim o entender, tem a palavra o Sr. Deputado António Costa.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *António Costa* (PS): Curiosa convergência de pontos de vista com o PCP! Registamos!... Afinal, o acordo secreto está descoberto!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Costa", 
+   "text": "Curiosa convergência de pontos de vista com o PCP! Registamos!... Afinal, o acordo secreto está descoberto!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Carlos Coelho* (PSD): Nós sabemos quem é que fez o acordo com a Câmara Municipal de Lisboa!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Nós sabemos quem é que fez o acordo com a Câmara Municipal de Lisboa!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Sr. Deputado José Manuel Maia, não vamos entrar em problemas de paternidade. Não discuti essa questão!", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Sr. Deputado José Manuel Maia, não vamos entrar em problemas de paternidade. Não discuti essa questão!", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Risos do PCP e do PSD.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Repito o que disse, porque, felizmente, está escrito.\nCom efeito, disse que o Sr. Ministro veio à Assembleia por iniciativa do PS e que acolheu a proposta do PS. No debate que ocorreu em 4 de Maio de 1990, eu ainda não era Deputado - V. Ex.ª já o era -, mas tive o cuidado de ler o Diário e verifiquei que, logo no sumário, se diz que se trata de um debate sobre a Ponte 25 de Abril, da iniciativa do PS, etc.\nNa verdade, esse debate foi iniciado com uma intervenção da Sr.ª Deputada Leonor Coutinho, que apresentou várias propostas concretas ao Governo, uma das quais dizia respeito à quinta faixa, e o Sr. Ministro das Obras Públicas, Transportes e Comunicações, na resposta, disse: «As palavras da Sr.ª Deputada Leonor Coutinho não cairão no vazio e nós acolhemos a proposta da quinta faixa.» \nNão pretendi dizer que a ideia foi da Sr.ª Deputada Leonor Coutinho, sua ou dos Srs. Deputados João Matos ou Ferro Rodrigues, admito até que tenha sido de todos, mas o que sei, e foi isso que disse \nobjectivamente, é que quem apresentou a proposta na Assembleia da República, e nessas circunstâncias em que o Sr. Ministro a aceitou, foi o Partido Socialista, através da Sr.ª Deputada Leonor Coutinho.\nPor último, e para terminar, quero dizer que não somos porta-voz da Câmara Municipal de Almada, assim como não somos porta-voz de qualquer outra câmara, mas somos e seremos sempre porta-voz dos interesses dos Portugueses e, neste caso concreto, dos 200 000 portugueses que atravessam diariamente a Ponte 25 de Abril. Desses, assumimo-nos como porta-voz. Certamente os senhores terão pena que assim seja, mas não detêm o monopólio.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para defesa da honra e consideração, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para defesa da honra e consideração, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações: Sr.Presidente, Srs. Deputados: A única razão por que solicito a palavra para defesa da honra e consideração e porque julgo que o Sr. Deputado António Costa fez uma citação errada do Diário da Assembleia da República.\nAssim, gostaria, para que a Câmara ouvisse, que lesse, na citação que fez desse debate, a parte relativa à aceitação da proposta da Sr.ª Deputada Leonor Coutinho, visto não me recordar de ter feito qualquer intervenção nos termos que o Sr. Deputado António Costa citou.", 
-   "type": "documento"
+   "speaker": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações", 
+   "text": "Sr.Presidente, Srs. Deputados: A única razão por que solicito a palavra para defesa da honra e consideração e porque julgo que o Sr. Deputado António Costa fez uma citação errada do Diário da Assembleia da República.\nAssim, gostaria, para que a Câmara ouvisse, que lesse, na citação que fez desse debate, a parte relativa à aceitação da proposta da Sr.ª Deputada Leonor Coutinho, visto não me recordar de ter feito qualquer intervenção nos termos que o Sr. Deputado António Costa citou.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para dar explicações, tem a palavra o Sr. Deputado António Costa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para dar explicações, tem a palavra o Sr. Deputado António Costa.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *António Costa* (PS): Sr. Ministro, para não perdermos tempo, dar-lhe-ei uma fotocópia no final, mas, de qualquer modo, sempre lhe digo que, a pp. 2358 do Diário da Assembleia da República, de 4 de Maio de 1990, V. Ex.ª começa por se referir à intervenção da Sr.ª Deputada Leonor Coutinho dizendo: «Sr.ª Deputada Leonor Coutinho, o seu discurso foi tomado em linha de conta [...] Assim, decidimos jogar em todos os tabuleiros, se é que podemos utilizar esta expressão quando falamos em ponte! Está já decidido o estudo da aplicação imediata das cinco faixas da Ponte sobre o Tejo, [...]».", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Costa", 
+   "text": "Sr. Ministro, para não perdermos tempo, dar-lhe-ei uma fotocópia no final, mas, de qualquer modo, sempre lhe digo que, a pp. 2358 do Diário da Assembleia da República, de 4 de Maio de 1990, V. Ex.ª começa por se referir à intervenção da Sr.ª Deputada Leonor Coutinho dizendo: «Sr.ª Deputada Leonor Coutinho, o seu discurso foi tomado em linha de conta [...] Assim, decidimos jogar em todos os tabuleiros, se é que podemos utilizar esta expressão quando falamos em ponte! Está já decidido o estudo da aplicação imediata das cinco faixas da Ponte sobre o Tejo, [...]».\nVozes do PSD: -Já estava decidido!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PSD: -Já estava decidido!", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "António Costa", 
    "text": "Risos do PSD.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "António Costa", 
    "text": "14 DE MARÇO DE 1992 1221", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Como o Sr. Ministro Ferreira do Amaral se recordará, porque é membro do Governo há vários anos, quando era Ministro das Obras Públicas o, hoje, Deputado João Oliveira Martins, a tese oficial do Ministério era a do alargamento do tabuleiro rodoviário da Ponte 25 de Abril para a criação de uma sexta faixa. No entanto, já nessa fase, em que se abriam e fechavam concursos e em que havia uma confusão brutal, existiam propostas no sentido de que se adoptasse uma solução rápida, e a esse respeito - sejamos claros! - já no próprio «livrinho» de alargamento da Ponte se admitia a possibilidade de retirar a protecção central para a criação da quinta faixa. Mas o Governo da altura insistia em que assim não fosse e foi o Sr. Ministro, aquando da sua chegada ao Ministério, e perante a pressão da interpelação do PS,...", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Como o Sr. Ministro Ferreira do Amaral se recordará, porque é membro do Governo há vários anos, quando era Ministro das Obras Públicas o, hoje, Deputado João Oliveira Martins, a tese oficial do Ministério era a do alargamento do tabuleiro rodoviário da Ponte 25 de Abril para a criação de uma sexta faixa. No entanto, já nessa fase, em que se abriam e fechavam concursos e em que havia uma confusão brutal, existiam propostas no sentido de que se adoptasse uma solução rápida, e a esse respeito - sejamos claros! - já no próprio «livrinho» de alargamento da Ponte se admitia a possibilidade de retirar a protecção central para a criação da quinta faixa. Mas o Governo da altura insistia em que assim não fosse e foi o Sr. Ministro, aquando da sua chegada ao Ministério, e perante a pressão da interpelação do PS,...", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Protestos do PSD.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "... quem resolveu «tirar aquele coelho da cartola» - para o que tem jeito - e com essa solução beneficiou os Portugueses, pois deu-nos ouvidos e saiu-se bem! Esperamos que o Sr. Ministro nos dê mais vezes ouvidos para que se saia melhor e para que os Portugueses possam viver melhor. É isto que desejamos!", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Carlos Coelho* (PSD): O Sr. Deputado patinou!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "O Sr. Deputado patinou!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para formular uma pergunta ao Governo sobre o Programa de Combate ao SIDA, tem a palavra o Sr. Deputado Jorge Paulo Cunha.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para formular uma pergunta ao Governo sobre o Programa de Combate ao SIDA, tem a palavra o Sr. Deputado Jorge Paulo Cunha.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Paulo Cunha* (PSD): Sr. Presidente, Sr. Secretário de Estado da Saúde, Srs. Deputados: Quero, antes de mais, publicamente prestar homenagem ao trabalho da Dr.ª Laura Ayres e da equipa que, na Comissão Nacional de Combate ao SIDA, contribuiu para que hoje, em Portugal, se saiba um pouco mais sobre os perigos desta doença.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Jorge Paulo Cunha", 
+   "text": "Sr. Presidente, Sr. Secretário de Estado da Saúde, Srs. Deputados: Quero, antes de mais, publicamente prestar homenagem ao trabalho da Dr.ª Laura Ayres e da equipa que, na Comissão Nacional de Combate ao SIDA, contribuiu para que hoje, em Portugal, se saiba um pouco mais sobre os perigos desta doença.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Carlos Coelho* (PSD): Muito bem!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Apesar de o síndroma de imunodeficiência adquirida não estar hoje no topo das causas de morte, o facto de ser uma doença contagiosa, sem cura ou vacina e de a sua prevenção passar por alterações no comportamento humano transforma-a num dos maiores problemas de saúde ao nível planetário. O sentimento de impotência transmite a esta questão um grande grau emocional e propicia ao sensacionalismo e a manifestações irracionais de medo.\nNão podemos cair no erro de salientar exclusivamente o SIDA e pormos em segundo plano a sua integração no papel decisivo que a «educação para a saúde» representa no global de uma política de saúde, especialmente quando temos a certeza de que é necessário que as pessoas sejam mais esclarecidas quanto ao que fazer em relação à sua saúde, \nparticularmente sobre o seu papel na prevenção de grande número de doenças.\nApesar do aumento do tempo da sobrevida dos doentes pela introdução de novas drogas e de não terem sido cumpridas as previsões de incidência da doença, avançadas nos primórdios da investigação, para o ano de 1991, não devemos subavaliar a real dimensão do problema. Seria grave não atendermos ao aumento dos heterossexuais, das mulheres e dos recém-nascidos afectados, referenciados como doentes ou simplesmente portadores, e não apostarmos nas acções de informação e prevenção promovidas por associações de e para jovens com incidência na população em geral. Assim, Sr. Secretário de Estado, gostaria que considerasse as questões que hoje lhe coloco como uma oportunidade de me esclarecer, bem como à Câmara e à opinião pública, sobre o que tem feito o Governo no combate ao SIDA. Quais as principais medidas para o combate ao SIDA em Portugal? Que passos tem dado o Governo no sentido de promover a humanização da abordagem dos afectados, que, se é exigência da generalidade das doenças, encontra nestes casos particular relevância? \nQue medidas têm sido adoptadas ou aconselhadas com vista à criação de regras para o revelar do diagnóstico, medidas essas que evitem a discriminação e a intolerância? Qual o papel reservado às organizações não governamentais? Como se pode controlar a qualidade dos laboratórios que procedam às análises, para evitar a multiplicação dos falsos positivos? Finalmente, Sr. Secretário de Estado, tem estes doentes de pagar taxas moderadoras e os medicamentos?", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Apesar de o síndroma de imunodeficiência adquirida não estar hoje no topo das causas de morte, o facto de ser uma doença contagiosa, sem cura ou vacina e de a sua prevenção passar por alterações no comportamento humano transforma-a num dos maiores problemas de saúde ao nível planetário. O sentimento de impotência transmite a esta questão um grande grau emocional e propicia ao sensacionalismo e a manifestações irracionais de medo.\nNão podemos cair no erro de salientar exclusivamente o SIDA e pormos em segundo plano a sua integração no papel decisivo que a «educação para a saúde» representa no global de uma política de saúde, especialmente quando temos a certeza de que é necessário que as pessoas sejam mais esclarecidas quanto ao que fazer em relação à sua saúde, \nparticularmente sobre o seu papel na prevenção de grande número de doenças.\nApesar do aumento do tempo da sobrevida dos doentes pela introdução de novas drogas e de não terem sido cumpridas as previsões de incidência da doença, avançadas nos primórdios da investigação, para o ano de 1991, não devemos subavaliar a real dimensão do problema. Seria grave não atendermos ao aumento dos heterossexuais, das mulheres e dos recém-nascidos afectados, referenciados como doentes ou simplesmente portadores, e não apostarmos nas acções de informação e prevenção promovidas por associações de e para jovens com incidência na população em geral. Assim, Sr. Secretário de Estado, gostaria que considerasse as questões que hoje lhe coloco como uma oportunidade de me esclarecer, bem como à Câmara e à opinião pública, sobre o que tem feito o Governo no combate ao SIDA. Quais as principais medidas para o combate ao SIDA em Portugal? Que passos tem dado o Governo no sentido de promover a humanização da abordagem dos afectados, que, se é exigência da generalidade das doenças, encontra nestes casos particular relevância? \nQue medidas têm sido adoptadas ou aconselhadas com vista à criação de regras para o revelar do diagnóstico, medidas essas que evitem a discriminação e a intolerância? Qual o papel reservado às organizações não governamentais? Como se pode controlar a qualidade dos laboratórios que procedam às análises, para evitar a multiplicação dos falsos positivos? Finalmente, Sr. Secretário de Estado, tem estes doentes de pagar taxas moderadoras e os medicamentos?", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Secretário de Estado da Saúde.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Secretário de Estado da Saúde.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Secretário* de Estado da Saúde (José Martins Nunes): Sr.Presidente, Srs. Deputados, Sr. Deputado Jorge Paulo Cunha, o SIDA, essa terrível doença do fim do século, estigmatiza a humanidade quando o Homem e o universo preparavam a sua conciliação. Debeladas todas as epidemias do início do século, como, por exemplo, a tuberculose, e quando se caminhava para grandes avanços no tratamento do cancro, eis que surge de um modo tão brutal e inesperado esta doença.\nEfectivamente, parecia que, pela primeira vez durante este século, o homem, conciliando as potencialidades financeiras e económicas dos seus países e os seus programas de saúde, poderia, ele próprio, fazer desviar recursos para apoiar programas de saúde a nível de outros países e programas de saúde específicos. Eis senão quando, \ninesperadamente, o homem assiste, atónito e impotente, ao deflagrar desta doença.\nO SIDA, que no início do século parecia ser uma doença que \ncaracterizava grandes grupos de risco, e exclusivamente esses grupos, é uma doença universal e sem essas características. A investigação mundial não foi ainda capaz de descobrir a cura, o tratamento ou a vacina e os países vêem, todos os dias, uma cada vez maior necessidade de apoiar grandes campanhas de informação à população, de modo a evitar as formas de contágio dos grupos de risco e dos outros grupos que já hoje não são de risco.\nPortugal tem acompanhado os esforços do mundo inteiro, integrado que está na Comunidade Europeia e nos programas internacionais de luta contra o SIDA. Contudo, o controlo desta terrível doença exige modificações nos comportamentos e nos hábitos dos Portugueses, naquilo que é mais importante, no âmago da sua vida diária e, sobretudo, no respeito de uns pelos outros, quando se trata da transmissão melhor conhecida, ou seja, a sexual. Todos temos que contribuir para que a humanidade não seja dizimada por esta doença do final do século.\nRelativamente às medidas para o combate ao SIDA em Portugal, digo-lhe que a Comissão Nacional de Combate ao SIDA começou o seu trabalho em 1987, dando seguimento", 
-   "type": "documento"
+   "party": "José Martins Nunes", 
+   "speaker": "Secretário", 
+   "text": "Sr.Presidente, Srs. Deputados, Sr. Deputado Jorge Paulo Cunha, o SIDA, essa terrível doença do fim do século, estigmatiza a humanidade quando o Homem e o universo preparavam a sua conciliação. Debeladas todas as epidemias do início do século, como, por exemplo, a tuberculose, e quando se caminhava para grandes avanços no tratamento do cancro, eis que surge de um modo tão brutal e inesperado esta doença.\nEfectivamente, parecia que, pela primeira vez durante este século, o homem, conciliando as potencialidades financeiras e económicas dos seus países e os seus programas de saúde, poderia, ele próprio, fazer desviar recursos para apoiar programas de saúde a nível de outros países e programas de saúde específicos. Eis senão quando, \ninesperadamente, o homem assiste, atónito e impotente, ao deflagrar desta doença.\nO SIDA, que no início do século parecia ser uma doença que \ncaracterizava grandes grupos de risco, e exclusivamente esses grupos, é uma doença universal e sem essas características. A investigação mundial não foi ainda capaz de descobrir a cura, o tratamento ou a vacina e os países vêem, todos os dias, uma cada vez maior necessidade de apoiar grandes campanhas de informação à população, de modo a evitar as formas de contágio dos grupos de risco e dos outros grupos que já hoje não são de risco.\nPortugal tem acompanhado os esforços do mundo inteiro, integrado que está na Comunidade Europeia e nos programas internacionais de luta contra o SIDA. Contudo, o controlo desta terrível doença exige modificações nos comportamentos e nos hábitos dos Portugueses, naquilo que é mais importante, no âmago da sua vida diária e, sobretudo, no respeito de uns pelos outros, quando se trata da transmissão melhor conhecida, ou seja, a sexual. Todos temos que contribuir para que a humanidade não seja dizimada por esta doença do final do século.\nRelativamente às medidas para o combate ao SIDA em Portugal, digo-lhe que a Comissão Nacional de Combate ao SIDA começou o seu trabalho em 1987, dando seguimento 1222 I SÉRIE - NÚMERO 40", 
+   "type": "secretario"
   }, 
   {
-   "text": "1222 I SÉRIE - NÚMERO 40", 
-   "type": "documento"
-  }, 
-  {
+   "party": "José Martins Nunes", 
+   "speaker": "Secretário", 
    "text": "ao trabalho do Grupo de Luta contra o SIDA e, desde aí, tem sido feita investigação comportamental, educação para a saúde, acompanhamento psicológico das zonas envolventes do doente com SIDA e também dos seus familiares. Em 1991, por exemplo, renovou-se a campanha de Primavera para a mulher em idade fértil e fez-se uma grande campanha em termos de elucidar a população daquilo que, ela própria e cada um de nós, poderia fazer para diminuir este desastre, que é a progressão do SIDA.\nAvaliaram-se e fizeram-se estudos - e recordo dois muito importantes: \num que envolveu um grupo de prostitutas de uma cidade e outro com pessoas que regressavam de África e residentes numa zona da Amadora - sobre a forma como reagem as populações e os familiares ao doente com o SIDA e como reage psicologicamente o médico, o enfermeiro, enfim o pessoal de saúde que trabalha com doentes que são portadores do SIDA.\nMas também se fez mais: criaram-se hospitais de dia para doentes com o SIDA. Lembro apenas dois: o serviço de infecto-contagiosos dos Hospitais da Universidade de Coimbra e de São João.\nTambém a partir de 1991 o AZT, que é a droga que melhor pode retardar os efeitos e a mortalidade do SIDA, passou a ser fornecido \ngratuitamente sempre que os doentes recorrem a estabelecimentos oficiais de saúde.\nPor outro lado, o Instituto Nacional de Saúde criou um laboratório de referência na qualidade das análises e neste momento já foi feito um estudo para responder a quatro grandes questões: a primeira e isto prende-se com a humanização e com a qualidade dos serviços em termos do SIDA - consiste em saber quem pede as análises; a segunda, como se garante a confidencialidade do resultado; a terceira, como se informa o doente de que ele é portador do SIDA e qual é o contexto psicológico e social em que essa informação deve assentar; a quarta, quem transmite este resultado, nestas condições.\nSomos contra a discriminação do doente com o SIDA - aliás, essa foi a posição que Portugal teve no ano passado, quando apoiou uma pretensão do Governo francês no sentido de não estar presente no Congresso de São Francisco sobre o SIDA, porque os Estados Unidos, nesse momento, faziam restrição à livre circulação de dadores portadores do SIDA. O doente com o SIDA é um homem integrado e deve ser integrado! \nTambém no ano de 1991 confirmámos o que vínhamos suspeitando há alguns anos atrás, isto é, que o crescimento do SIDA em Portugal não acompanha os outros países europeus, está mais abaixo. Tivemos 804 casos de doentes referenciados com o SIDA, 50% dos quais já morreram. Mas em 1991 surge-nos também um forte motivo de preocupação: é que apareceram 12 casos de crianças com menos de 12 anos portadores do SIDA.", 
-   "type": "documento"
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Queira terminar, Sr. Secretário de Estado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Secretário de Estado.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "text": "O Orador: Só mais duas questões, Sr. Presidente.\nImplementámos a Linha SIDA em Lisboa e estamos a implementá-la no resto do País, sobretudo em Coimbra.\nImplementou-se ainda o Projecto Solidariedade, conjuntamente com a Misericórdia e com a Cruz Vermelha Portuguesa, e reeditou-se toda uma campanha de vasta informação e sensibilização das populações.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Só mais duas questões, Sr. Presidente.\nImplementámos a Linha SIDA em Lisboa e estamos a implementá-la no resto do País, sobretudo em Coimbra.\nImplementou-se ainda o Projecto Solidariedade, conjuntamente com a Misericórdia e com a Cruz Vermelha Portuguesa, e reeditou-se toda uma campanha de vasta informação e sensibilização das populações.", 
+   "type": "secretario_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado Jorge Paulo Cunha.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado Jorge Paulo Cunha.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Paulo Cunha* (PSD): Sr. Secretário de Estado, quero, em meu nome pessoal e, estou certo, também em nome da Câmara, agradecer a sua resposta pelo maior esclarecimento que nos proporcionou. No entanto, gostaria de colocar três breves questões.\nPrimeira, gostaria que nos pudesse explicar um pouco melhor o que está a ser feito em relação à investigação, quer da epidemiologia da doença quer da própria doença nos nossos centros de saúde, já que, na minha opinião, faz todo o sentido apoiarmos a comunidade científica nacional, dado os seus parcos recursos, que necessitam desse nosso apoio.\nSegunda, gostaria de saber se, nos casos recentemente notificados, se encontra algum caso do SIDA de origem transfusional.\nTerceira, gostaria, se fosse possível, de saber qual a previsão do orçamento da Comissão Nacional de Combate ao SIDA para o ano de 1992.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Jorge Paulo Cunha", 
+   "text": "Sr. Secretário de Estado, quero, em meu nome pessoal e, estou certo, também em nome da Câmara, agradecer a sua resposta pelo maior esclarecimento que nos proporcionou. No entanto, gostaria de colocar três breves questões.\nPrimeira, gostaria que nos pudesse explicar um pouco melhor o que está a ser feito em relação à investigação, quer da epidemiologia da doença quer da própria doença nos nossos centros de saúde, já que, na minha opinião, faz todo o sentido apoiarmos a comunidade científica nacional, dado os seus parcos recursos, que necessitam desse nosso apoio.\nSegunda, gostaria de saber se, nos casos recentemente notificados, se encontra algum caso do SIDA de origem transfusional.\nTerceira, gostaria, se fosse possível, de saber qual a previsão do orçamento da Comissão Nacional de Combate ao SIDA para o ano de 1992.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar, tem a palavra o Sr. Secretário de Estado da Saúde.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar, tem a palavra o Sr. Secretário de Estado da Saúde.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Secretário* de Estado da Saúde: Sr. Presidente, Sr. Deputado Jorge Paulo Cunha, efectivamente Portugal faz e apoia a investigação científica no âmbito do SIDA. Apoia e fá-lo em termos de epidemiologia, em termos de estudo da seroprevalência em grupos de risco. Há linhas de investigação a nível dos toxicodependentes, dos doentes afectados por doenças de transmissão sexual..., dos doentes com tuberculose pulmonar.\nE porque também esse é um grupo de risco, porque há uma depressão imunitária concomitante com esta doença e, muitas vezes, relacionada com aspectos sociais da vivência destes doentes.\nHá estudos anatómicos não relacionáveis com infecções pelo vírus e há também outros estudos, que estão em curso em colaboração com instâncias internacionais, sobretudo com a comunidade científica europeia, que se traduzem em duas grandes linhas de investigação: uma que se prende com todo o estudo da virulogia e das alterações virulógicas - no caso do HIV1 e do HIV2 - e outro com os estudos imunitários que se prendem com a auto-imunidade provocada pelo HLA e pela patologia circulante que envolve estes doentes.\nRecentemente não há qualquer caso notificado que permita que se suspeite de que o contágio seja transfusional. Hoje em dia já garantimos o sangue e os produtos seus derivados. São feitos todos os exames conhecidos e não há, neste momento, a mínima possibilidade de transmissão desta doença por via de uma transfusão.", 
-   "type": "documento"
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente, Sr. Deputado Jorge Paulo Cunha, efectivamente Portugal faz e apoia a investigação científica no âmbito do SIDA. Apoia e fá-lo em termos de epidemiologia, em termos de estudo da seroprevalência em grupos de risco. Há linhas de investigação a nível dos toxicodependentes, dos doentes afectados por doenças de transmissão sexual..., dos doentes com tuberculose pulmonar.\nE porque também esse é um grupo de risco, porque há uma depressão imunitária concomitante com esta doença e, muitas vezes, relacionada com aspectos sociais da vivência destes doentes.\nHá estudos anatómicos não relacionáveis com infecções pelo vírus e há também outros estudos, que estão em curso em colaboração com instâncias internacionais, sobretudo com a comunidade científica europeia, que se traduzem em duas grandes linhas de investigação: uma que se prende com todo o estudo da virulogia e das alterações virulógicas - no caso do HIV1 e do HIV2 - e outro com os estudos imunitários que se prendem com a auto-imunidade provocada pelo HLA e pela patologia circulante que envolve estes doentes.\nRecentemente não há qualquer caso notificado que permita que se suspeite de que o contágio seja transfusional. Hoje em dia já garantimos o sangue e os produtos seus derivados. São feitos todos os exames conhecidos e não há, neste momento, a mínima possibilidade de transmissão desta doença por via de uma transfusão.", 
+   "type": "secretario"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Relativamente à taxa moderadora, que há pouco não respondi, quero dizer-lhe que o diploma garante a todos os doentes portadores do SIDA e seropositivos a isenção do pagamento desta taxa.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Relativamente à taxa moderadora, que há pouco não respondi, quero dizer-lhe que o diploma garante a todos os doentes portadores do SIDA e seropositivos a isenção do pagamento desta taxa.", 
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: A previsão do orçamento, este ano, para a Comissão Nacional de Combate ao SIDA é de 250 000", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "A previsão do orçamento, este ano, para a Comissão Nacional de Combate ao SIDA é de 250 000", 
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "14 DE MARÇO DE 1992 1223", 
-   "type": "documento"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "contos, sendo 80 000 contos para programas de informação e 80 000 contos para programas e apoio a programas de investigação.\nFundamentalmente, o que gostaria de dizer é que este problema do SIDA, este flagelo mundial, esta doença do fim do século, que não tem paralelo neste século nem no passado, é uma doença transmitida e está relacionada com o que de mais importante e sensível é a vida das pessoas, isto é, o relacionamento uns com os outros, o relacionamento dos jovens e a transmissão sexual por ela encarada.\nPortanto, é com o esforço de cada um de nós que podemos ajudar e fazer com que Portugal também ajude iodos os países para que esta doença não dizime a humanidade.", 
-   "type": "documento"
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Queira concluir, Sr. Secretário de Estado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Queira concluir, Sr. Secretário de Estado.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "text": "O Orador: Por exemplo, só o Zaire, para fazer o rastreio de toda a sua população, teria de gastar o orçamento geral do Ministério da Saúde, ou seja, o orçamento do Ministério era totalmente absorvido.\nDe facto, temos de, nas instâncias internacionais, ajudar os países mais pobres para que esta doença não dizime a humanidade.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Por exemplo, só o Zaire, para fazer o rastreio de toda a sua população, teria de gastar o orçamento geral do Ministério da Saúde, ou seja, o orçamento do Ministério era totalmente absorvido.\nDe facto, temos de, nas instâncias internacionais, ajudar os países mais pobres para que esta doença não dizime a humanidade.", 
+   "type": "secretario_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para formular uma pergunta sobre saúde mental, tem a palavra o Sr. Deputado Eurico Figueiredo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para formular uma pergunta sobre saúde mental, tem a palavra o Sr. Deputado Eurico Figueiredo.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Eurico Figueiredo* (PS): Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Vivem as sociedades humanas, na sua relação com a psiquiatria e a saúde mental, o exorcismo de dois temores: um, que resulta de uma identificação reducionista da psiquiatria e da saúde mental a uma nunca rigorosamente definida loucura e que nasce da sobreposição da ideia de loucura como descontrolo psíquico com a ideia da morte, de não ser mental e, outro, que resulta da ideia do psiquiatra e dos técnicos de saúde mental como herdeiros do feiticeiro do passado, do qual saíram as profissões de sacerdote e médico.\nA psiquiatria mantém-se, todavia, quase sempre, no imaginário colectivo, teimosamente ligada a esse passado sincrético e ameaçador, porque pretensamente adivinho e, como tal, potencialmente conhecedor e controlador do inconfessável. Daí persecutório.\nToda a psiquiatria contemporânea tende para esconjurar estes temores.\nEm primeiro lugar, deixando de confundir a vasta área de intervenção psiquiátrica, tendo como objectivo o universal sofrimento humano, com a loucura, agora reduzida à psicose que não mais será segregada, abolindo-se assim as barreiras entre o normal e o patológico.\nEm segundo lugar, armando o psiquiatra e demais técnicos de saúde mental com um sem número de competências científicas: biológicas, com o espectacular desenvolvimento da psicofarmacologia; psicoterapeuticas individuais, de grupo, de casal, de família e de intervenção sócio-cultural. Isso torná-los-á profissionais como os outros, apenas mais sensíveis às expectativas globais sobre o homem, como o terão de ser, por exemplo, o pedagogo e o político.\nEm terceiro lugar, criando um conjunto de dispositivos de intervenção psiquiátrica de estratégia preventiva: primária, evitando a doença; secundária, obrigando a um diagnóstico precoce e rápida e adequada intervenção terapêutica; e terciária, de reabilitação.\nAssim se criaram as visitas a domicílios, as consultas externas, as hospitalizações de dia e as hospitalizações breves. Excluindo os síndromas orgânicos cerebrais, cada vez mais objecto de intervenção especializada, mais vastos do que as psiquiátricas, a psiquiatria moderna descentrou-se do hospital, sendo a sua história recente a da liquidação do asilo e a da diversificação das instituições terapêuticas e de acolhimento.\nSr. Presidente, Srs. Deputados, Srs. Membros do Governo: as políticas de saúde mental são consensuais em praticamente lodo o mundo e procuram incrementar, como o prevê a legislação portuguesa, em vigor, de 1963, a criação de centros de saúde mental autónomos.\nEra essa a política da Sr.ª Dr.ª Leonor Beleza, quando era Ministra da Saúde, mas com a sua saída surgiram indicações de mudança, que preocuparam os técnicos de saúde mental.\nEm 17 de Setembro de 1990 o Sr. Ministro da Saúde recebeu uma carta em que lhe manifestávamos as preocupações quanto à mudança, assinada por nós próprios, pelo presidente do Secretariado dos Centros de Saúde Mental, representando todos os centros de saúde mental do País, pelo presidente honorário e pelo presidente, em exercício, da Associação Portuguesa de Psiquiatria, pelo presidente da Associação Portuguesa de Psiquiatria da Infância e da Adolescência, pelo Presidente da Sociedade Portuguesa de Psicanálise, pelo Presidente da Sociedade Portuguesa de Terapia Familiar, pelo presidente da Sociedade Portuguesa de Terapias Cognitivas e Comportamentais e pelo presidente da Sociedade Portuguesa de Epidemiologia Psiquiátrica.\nNessa carta alertávamos o Sr. Ministro para o facto de existirem consensos no âmbito da política de saúde mental implicando os mais diversos governos e associações profissionais, sendo recomendados formalmente pelo Conselho da Europa e assumidos por todos os Ministros da CEE, em 1985.\nOs três princípios aí aflorados, que rapidamente sintetizo, são: a continuidade dos serviços, a responsabilidade de uma equipa em relação a uma área e o desenvolvimento privilegiado dos sectores \nextra-hospitalares. O desrespeito por esses princípios provocará enormes custos económicos e sociais ao País, segundo alertámos, favorecendo a cronificação institucional dos doentes, mal tratados e desinseridos do seu meio familiar e social. A prazo provocará, ainda, a oposição e o confronto, como já se verifica, cnirc a maioria dos técnicos de saúde mental, os utentes e seus representantes.\nSr. Presidente, Srs. Deputados, Srs. Membros do Governo: o Sr. Ministro não achou por bem responder-nos, quando representávamos um largo naipe de associações profissionais da área e traduzíamos um mal-estar generalizado.\nPara finalizar, passado mais de um ano e meio e agravadas as preocupações, pergunto a V. Ex.ª qual a política de saúde mental do Ministério da Saúde, interrompida que foi a política anterior consensualmente aceite, criando um vazio de cerca de três anos extremamente lesivo dos interesses dos utentes?", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Eurico Figueiredo", 
+   "text": "Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Vivem as sociedades humanas, na sua relação com a psiquiatria e a saúde mental, o exorcismo de dois temores: um, que resulta de uma identificação reducionista da psiquiatria e da saúde mental a uma nunca rigorosamente definida loucura e que nasce da sobreposição da ideia de loucura como descontrolo psíquico com a ideia da morte, de não ser mental e, outro, que resulta da ideia do psiquiatra e dos técnicos de saúde mental como herdeiros do feiticeiro do passado, do qual saíram as profissões de sacerdote e médico.\nA psiquiatria mantém-se, todavia, quase sempre, no imaginário colectivo, teimosamente ligada a esse passado sincrético e ameaçador, porque pretensamente adivinho e, como tal, potencialmente conhecedor e controlador do inconfessável. Daí persecutório.\nToda a psiquiatria contemporânea tende para esconjurar estes temores.\nEm primeiro lugar, deixando de confundir a vasta área de intervenção psiquiátrica, tendo como objectivo o universal sofrimento humano, com a loucura, agora reduzida à psicose que não mais será segregada, abolindo-se assim as barreiras entre o normal e o patológico.\nEm segundo lugar, armando o psiquiatra e demais técnicos de saúde mental com um sem número de competências científicas: biológicas, com o espectacular desenvolvimento da psicofarmacologia; psicoterapeuticas individuais, de grupo, de casal, de família e de intervenção sócio-cultural. Isso torná-los-á profissionais como os outros, apenas mais sensíveis às expectativas globais sobre o homem, como o terão de ser, por exemplo, o pedagogo e o político.\nEm terceiro lugar, criando um conjunto de dispositivos de intervenção psiquiátrica de estratégia preventiva: primária, evitando a doença; secundária, obrigando a um diagnóstico precoce e rápida e adequada intervenção terapêutica; e terciária, de reabilitação.\nAssim se criaram as visitas a domicílios, as consultas externas, as hospitalizações de dia e as hospitalizações breves. Excluindo os síndromas orgânicos cerebrais, cada vez mais objecto de intervenção especializada, mais vastos do que as psiquiátricas, a psiquiatria moderna descentrou-se do hospital, sendo a sua história recente a da liquidação do asilo e a da diversificação das instituições terapêuticas e de acolhimento.\nSr. Presidente, Srs. Deputados, Srs. Membros do Governo: as políticas de saúde mental são consensuais em praticamente lodo o mundo e procuram incrementar, como o prevê a legislação portuguesa, em vigor, de 1963, a criação de centros de saúde mental autónomos.\nEra essa a política da Sr.ª Dr.ª Leonor Beleza, quando era Ministra da Saúde, mas com a sua saída surgiram indicações de mudança, que preocuparam os técnicos de saúde mental.\nEm 17 de Setembro de 1990 o Sr. Ministro da Saúde recebeu uma carta em que lhe manifestávamos as preocupações quanto à mudança, assinada por nós próprios, pelo presidente do Secretariado dos Centros de Saúde Mental, representando todos os centros de saúde mental do País, pelo presidente honorário e pelo presidente, em exercício, da Associação Portuguesa de Psiquiatria, pelo presidente da Associação Portuguesa de Psiquiatria da Infância e da Adolescência, pelo Presidente da Sociedade Portuguesa de Psicanálise, pelo Presidente da Sociedade Portuguesa de Terapia Familiar, pelo presidente da Sociedade Portuguesa de Terapias Cognitivas e Comportamentais e pelo presidente da Sociedade Portuguesa de Epidemiologia Psiquiátrica.\nNessa carta alertávamos o Sr. Ministro para o facto de existirem consensos no âmbito da política de saúde mental implicando os mais diversos governos e associações profissionais, sendo recomendados formalmente pelo Conselho da Europa e assumidos por todos os Ministros da CEE, em 1985.\nOs três princípios aí aflorados, que rapidamente sintetizo, são: a continuidade dos serviços, a responsabilidade de uma equipa em relação a uma área e o desenvolvimento privilegiado dos sectores \nextra-hospitalares. O desrespeito por esses princípios provocará enormes custos económicos e sociais ao País, segundo alertámos, favorecendo a cronificação institucional dos doentes, mal tratados e desinseridos do seu meio familiar e social. A prazo provocará, ainda, a oposição e o confronto, como já se verifica, cnirc a maioria dos técnicos de saúde mental, os utentes e seus representantes.\nSr. Presidente, Srs. Deputados, Srs. Membros do Governo: o Sr. Ministro não achou por bem responder-nos, quando representávamos um largo naipe de associações profissionais da área e traduzíamos um mal-estar generalizado.\nPara finalizar, passado mais de um ano e meio e agravadas as preocupações, pergunto a V. Ex.ª qual a política de saúde mental do Ministério da Saúde, interrompida que foi a política anterior consensualmente aceite, criando um vazio de cerca de três anos extremamente lesivo dos interesses dos utentes?", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Secretário de Estado da Saúde.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Secretário de Estado da Saúde.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Secretário* de Estado da Saúde: Sr. Deputado Eurico Figueiredo, efectivamente a lei de saúde mental hoje vigente é de 1963, lei importante para a época e considerada então como avançada.", 
-   "type": "documento"
+   "speaker": "Secretário", 
+   "text": "Sr. Deputado Eurico Figueiredo, efectivamente a lei de saúde mental hoje vigente é de 1963, lei importante para a época e considerada então como avançada.\n1224 I SÉRIE-NÚMERO 40", 
+   "type": "secretario"
   }, 
   {
-   "text": "1224 I SÉRIE-NÚMERO 40", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Secretário", 
    "text": "A referida lei era conhecida por Lei do Sector, era a lei do agrupamento de serviços integrados da medicina asilar, lei essa que permitia, na ausência de psiquiatras, com a carga negativa que eles tinham na altura, levar psiquiatras ao interior do País, por intermédio de uma estrutura que, na altura, era considerada equilibrada. Era a chamada psiquiatria das brigadas, uma vez que havia poucos psiquiatras.\nNa altura a psiquiatria conhecia apenas alguns métodos de tratamento e estava ligada a aspectos sociais e psicológicos. Era uma psiquiatria de comunidade e, a nível biológico, a nível de terapêutica, eram conhecidos os electro-choques, a insulina-choque e a hidroterapia.\nNestes últimos anos a psiquiatria foi evoluindo e hoje, quando se fala em psiquiatria, fala-se em homem global, no seu aspecto biológico, psicológico e social. Daí que a psiquiatria tivesse evoluído para uma situação de estabelecimento de contacto entre os seus doentes e o universo da ciência médica.\nForam criados serviços de psiquiatria nos Hospitais Universitários de Coimbra, Lisboa e Porto, que, segundo julgo, têm realizado um bom trabalho.\nPor outro lado, a organização vertical dos centros de saúde mental, a situação dos hospitais psiquiátricos especializados e dos serviços de psiquiatria nos hospitais universitários criaram também nos psiquiatras a vontade de reorganizarem a psiquiatria e a saúde mental em Portugal.\nAssim, o Ministério da Saúde pediu a um grupo de 19 personalidades altamente distintas, entre as quais alguns cientistas de reconhecido nome - que abrangiam todas as tendências da psiquiatria e, mais, todas as tendências políticas envolventes na área da psiquiatria -, que elaborasse um documento base que iria fornecer indicações para a reorganização dos serviços de saúde mental e da psiquiatria em Portugal. A título exemplificativo, cito apenas alguns nomes: Prof.\nFernandes da Fonseca, Prof. Vaz Serra, Prof. Coimbra de Matos, Prof.\nPalha, Dr. Teixeira Coelho, Dr. Mota Cardoso, Dr. Martins Areal, Prof.\nDoutor Barahona Fernandes, Prof. Dias Cordeiro, Prof. Pedro Polónio e tantos outros.\nNão se balizou o estudo realizado por este grupo - foi o mais diversificado possível - mas, no entanto, tendia para uma determinada linha. Neste âmbito, o Ministro da Saúde e eu próprio trabalhámos muitas vezes com algumas destas pessoas e houve uma reunião final onde o Ministério traçou o modelo de reorganização da psiquiatria. Todas as 19 individualidades, aliás 18, porque o Prof. Doutor Barahona Fernandes já se encontrava muito doente e, por isso, não esteve presente, apoiaram o modelo proposto pelo Ministério da Saúde e, mais, mostraram-se interessadas em que fosse constituída uma comissão restrita para a reorganização dos serviços de saúde mental.\nEsta reorganização implica quatro grandes campos.\nEm primeiro lugar, os hospitais psiquiátricos especializados que passam a estar ligados à ciência e à investigação, passando também a ser potencializados nas áreas da reabilitação...", 
-   "type": "documento"
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "O Sr. *Eurico Figueiredo* (PS): Qual é o tempo médio de demora desses hospitais psiquiátricos, Sr. Secretário de Estado?", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Eurico Figueiredo", 
+   "text": "Qual é o tempo médio de demora desses hospitais psiquiátricos, Sr. Secretário de Estado?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: ... e das oficinas protegidas.\nEm segundo lugar, outra vontade do Governo, que também vai ser cumprida, é a de que as urgências passem a ser feitas nos hospitais gerais. E isto porquê? Porque eu, como médico, nós, como médicos, não podemos conceber que, por exemplo, um doente em delírio alcoólico seja tratado num contexto em que não haja uma grande integração medica. A complicação de um delírio alcoólico é o problema metabólico. Portanto, é necessária toda a envolvente clínica à volta do doente.\nHoje, ele não é mais um doente mental e, nesse caso, as urgências vão passar a ser feitas nos hospitais gerais.\nTambém ficou decidido e vai ser implementada a programação de serviços de psiquiatria nos novos hospitais. Vai ser feita igualmente a integração dos centros de saúde mental nos hospitais gerais sob a forma de serviços ou de departamentos de psiquiatria e de saúde mental. E ninguém me diga que nesta integração se perde a ligação à comunidade.\nAliás, como disse o presidente desta Comissão nessa reunião, a política de saúde mental do futuro é a política hospitalo-comunitária, é a ligação do homem à comunidade, a da estrutura hospitalar à comunidade, mas num contexto hospitalar, aproveitando, portanto, todas as estruturas que existem nos hospitais.\nNão se concebe que, por exemplo, dentro da área de um hospital, o centro de saúde, para enviar uma carta ao correio, necessite de um motorista e, a dois passos, o hospital adopte o mesmo procedimento servindo-se de outro motorista. Não se consegue perceber por que razão não utilizam os mesmos serviços.\nHoje a psiquiatria e a saúde mental são disciplinas médicas, biológicas, que tem de estar integradas em lodo o conceito moderno da medicina e da saúde.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "... e das oficinas protegidas.\nEm segundo lugar, outra vontade do Governo, que também vai ser cumprida, é a de que as urgências passem a ser feitas nos hospitais gerais. E isto porquê? Porque eu, como médico, nós, como médicos, não podemos conceber que, por exemplo, um doente em delírio alcoólico seja tratado num contexto em que não haja uma grande integração medica. A complicação de um delírio alcoólico é o problema metabólico. Portanto, é necessária toda a envolvente clínica à volta do doente.\nHoje, ele não é mais um doente mental e, nesse caso, as urgências vão passar a ser feitas nos hospitais gerais.\nTambém ficou decidido e vai ser implementada a programação de serviços de psiquiatria nos novos hospitais. Vai ser feita igualmente a integração dos centros de saúde mental nos hospitais gerais sob a forma de serviços ou de departamentos de psiquiatria e de saúde mental. E ninguém me diga que nesta integração se perde a ligação à comunidade.\nAliás, como disse o presidente desta Comissão nessa reunião, a política de saúde mental do futuro é a política hospitalo-comunitária, é a ligação do homem à comunidade, a da estrutura hospitalar à comunidade, mas num contexto hospitalar, aproveitando, portanto, todas as estruturas que existem nos hospitais.\nNão se concebe que, por exemplo, dentro da área de um hospital, o centro de saúde, para enviar uma carta ao correio, necessite de um motorista e, a dois passos, o hospital adopte o mesmo procedimento servindo-se de outro motorista. Não se consegue perceber por que razão não utilizam os mesmos serviços.\nHoje a psiquiatria e a saúde mental são disciplinas médicas, biológicas, que tem de estar integradas em lodo o conceito moderno da medicina e da saúde.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Peço-lhe que conclua, Sr. Secretário de Estado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Peço-lhe que conclua, Sr. Secretário de Estado.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "text": "O Orador: Concluo já, Sr. Presidente.\nNada se perde com esta integração, porque há a possibilidade de os departamentos terem centros de custos e de responsabilidade e a partir daí podem desenvolver o seu trabalho na comunidade, como tem vindo a ser feito.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Concluo já, Sr. Presidente.\nNada se perde com esta integração, porque há a possibilidade de os departamentos terem centros de custos e de responsabilidade e a partir daí podem desenvolver o seu trabalho na comunidade, como tem vindo a ser feito.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, nos termos regimentais, tem a palavra o Sr. Deputado Eurico Figueiredo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, nos termos regimentais, tem a palavra o Sr. Deputado Eurico Figueiredo.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Eurico Figueiredo* (PS): Sr. Presidente, Sr. Secretário de Estado da Saúde, muito obrigado pela lição de saúde mental que me deu.\nUma pessoa está sempre a aprender! É pena, mas V. Ex.ª disse meia dúzia de banalidades consensuais no meio psiquiátrico e a realidade irá mostrar qual vai ser, de facto, a política de VV. Ex.ªs \nEm primeiro lugar, dizem que transformaram os tais hospitais psiquiátricos em hospitais diferenciados, quando nós sabemos que a demora media na maior parte desses hospitais psiquiátricos é de cinco, seis e dez anos. Quer isto dizer que, se algum dos nossos familiares ou nós próprios, porque a psiquiatria diz respeito a toda a gente, «caímos» nesses hospitais, corremos o risco de demora média de cinco a dez anos, quando há outros hospitais e serviços em que a demora média e inferior a 30 dias. É este escândalo...", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Eurico Figueiredo", 
+   "text": "Sr. Presidente, Sr. Secretário de Estado da Saúde, muito obrigado pela lição de saúde mental que me deu.\nUma pessoa está sempre a aprender! É pena, mas V. Ex.ª disse meia dúzia de banalidades consensuais no meio psiquiátrico e a realidade irá mostrar qual vai ser, de facto, a política de VV. Ex.ªs \nEm primeiro lugar, dizem que transformaram os tais hospitais psiquiátricos em hospitais diferenciados, quando nós sabemos que a demora media na maior parte desses hospitais psiquiátricos é de cinco, seis e dez anos. Quer isto dizer que, se algum dos nossos familiares ou nós próprios, porque a psiquiatria diz respeito a toda a gente, «caímos» nesses hospitais, corremos o risco de demora média de cinco a dez anos, quando há outros hospitais e serviços em que a demora média e inferior a 30 dias. É este escândalo...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: ... que VV. Ex.ªs transformaram em prémio, tornando estes hospitais na primeira referência da «revolução» psiquiátrica que este Ministério, neste momento, vai iniciar.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "... que VV. Ex.ªs transformaram em prémio, tornando estes hospitais na primeira referência da «revolução» psiquiátrica que este Ministério, neste momento, vai iniciar.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "14 DE MARÇO DE 1992 1225", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Outro aspecto 6 a prática que seguem. VV. Ex.ªs dizem que vão integrar as urgências nos hospitais psiquiátricos. Há 15 anos que nos andamos a bater por isso! \nDizem que vão integrar os serviços de psiquiatria nos hospitais gerais.\nÉ o mais difícil, e uma medida maximalista, mas qual é a prática que têm seguido? \nPasso a referir alguns exemplos.\nActividade prevista para 1990: \nCriação de novos serviços anteriormente programados e para os quais já existia uma verba atribuída pelo PIDDAC: construção do Edifício-C de saúde mental no terreno do Hospital Distrital de Beja, que não foi edificado; construção de uma unidade de internamento no Hospital Geral de Braga, que não foi feita; construção de uma unidade de internamento no Hospital de Évora, que não foi realizada; criação da área de dia de Sintra, que não foi feita; remodelação das instalações do Centro de Saúde Mental de Lisboa, que não foi feita.\nAbertura de serviços cujas instalações se encontravam concluídas em 1990: a unidade de internamento do Hospital de Aveiro, com instalações totalmente equipadas, não abriu; a unidade de internamento do Hospital de Guimarães tem instalações ocupadas por outros serviços; a unidade de internamento do Centro de Saúde Mental de Setúbal continua por abrir; a unidade de internamento do Hospital de Santarém, com instalações totalmente equipadas, não abriu; a unidade de dia do Hospital de Abrantes continua por abrir! \nVerificamos, pois, que na vossa «revolução», que e a de integrar a psiquiatria na medicina e nos hospitais gerais, de 1990 até hoje, tudo o que estava feito e equipado foi desviado ou não abriu ou as actividades programadas foram completamento sabotadas.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Aquilo que VV. Ex.ªs estuo a fazer é pura demagogia e não é por acaso que amanhã se vai realizar um debate sobre a crise na saúde mental. E já não e a Sociedade de Psicanálise que convoca esta reunião sobre a crise na saúde mental mas os centros de saúde mental de lodo o País: a Associação Portuguesa dos Enfermeiros, a Associação Portuguesa dos Terapeutas Ocupacionais, a Associação dos Profissionais de Serviço Social e a Associação dos Psicólogos Portugueses, porque de demagogia.\nSr. Secretário de Estado, estamos corripletamente fartos! \nHouve uma paragem na política seguida pelo Ministério da Sr.ª Dr.ª Leonor Beleza, que tinha o consenso de todos os psiquiatras. Andaram dois anos a brincar, a criar comissões, ditas, tecnicamente muito competentes e, neste momento, vão integrar os serviços de psiquiatria nos hospitais gerais, quando tudo o que têm feito é impedir essa integração.\nAtacaram o problema da forma mais difícil, porque é extremamente complicada a integração dos serviços de psiquiatria nos hospitais gerais.\nConhecemos as dificuldades de integração que existem e eu penso que, quando se propõe o mais difícil, e para continuar a não fazer nada ou a fazer pouco.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o entender, tem a palavra o Sr. Secretário de Estado da Saúde.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o entender, tem a palavra o Sr. Secretário de Estado da Saúde.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Secretário* de Estado da Saúde: Sr. Presidente, Sr. Deputado Eurico Figueiredo, efectivamente a saúde mental e qualquer organização de saúde mental não pode ter o consenso de todos. Também o não tinha na altura a que se referiu, tanto que o vosso partido interpelava constantemente o Governo sobre a saúde mental.", 
-   "type": "documento"
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente, Sr. Deputado Eurico Figueiredo, efectivamente a saúde mental e qualquer organização de saúde mental não pode ter o consenso de todos. Também o não tinha na altura a que se referiu, tanto que o vosso partido interpelava constantemente o Governo sobre a saúde mental.\nProtestos do PS.", 
+   "type": "secretario"
   }, 
   {
-   "text": "Protestos do PS.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Secretário", 
    "text": "Fundamentalmente, penso que esta reorganização não pode ter a carga política que o Sr. Deputado quer que tenha.\nO Prof. Fernandes da Fonseca, que foi Deputado do Partido Socialista, disse o seguinte, numa entrevista: «Parece-me que a proposta de fazer uma grande integração entre todas as estruturas de saúde dentro de uma concepção que, diante do Ministro e com agrado dele, eu classifiquei de hospitalo-comunitária e que visa estabelecer uma íntima relação entre o hospital e a comunidade e nos dois sentidos confirma um novo sentido.»", 
-   "type": "documento"
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "O Sr. *Eurico Figueiredo* (PS): Mas não o fizeram!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Eurico Figueiredo", 
+   "text": "Mas não o fizeram!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Efectivamente, é muito difícil, mas quero dizer-lhe o seguinte, Sr. Deputado: não duvide destas pessoas que fizeram parte deste relatório, não duvide do grupo restrito que vai acompanhar a implementação deste relatório.\nNão foram aqui ditas banalidades. A saúde mental é uma política muito importante e das mais difíceis de fazer por qualquer governo, das mais difíceis de obter a consensualidade.\nMas não podemos ter estruturas verticais juntamente com horizontais, porque queremos que os doentes beneficiem dessa estrutura, queremos garantir a independência técnica nestas unidades integradas sob a forma de departamentos. E tem-na, pois os departamentos podem aglomerar serviços de alcoologia, de toxicodependência, de pediatria.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Efectivamente, é muito difícil, mas quero dizer-lhe o seguinte, Sr. Deputado: não duvide destas pessoas que fizeram parte deste relatório, não duvide do grupo restrito que vai acompanhar a implementação deste relatório.\nNão foram aqui ditas banalidades. A saúde mental é uma política muito importante e das mais difíceis de fazer por qualquer governo, das mais difíceis de obter a consensualidade.\nMas não podemos ter estruturas verticais juntamente com horizontais, porque queremos que os doentes beneficiem dessa estrutura, queremos garantir a independência técnica nestas unidades integradas sob a forma de departamentos. E tem-na, pois os departamentos podem aglomerar serviços de alcoologia, de toxicodependência, de pediatria.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Eurico Figueiredo* (PS): Vamos ver daqui por um ano!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Eurico Figueiredo", 
+   "text": "Vamos ver daqui por um ano!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Daqui por um ano de certeza que a saúde mental em Portugal está melhor, porque esta questão não reside numa discussão entre o Partido Socialista e os outros partidos.\nNão discriminámos, não houve discriminação...", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Daqui por um ano de certeza que a saúde mental em Portugal está melhor, porque esta questão não reside numa discussão entre o Partido Socialista e os outros partidos.\nNão discriminámos, não houve discriminação...", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Eurico Figueiredo* (PS): Houve, houve...", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Eurico Figueiredo", 
+   "text": "Houve, houve...", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Não houve discriminação.\nSr. Deputado, se houve uma ou duas pessoas que não quiseram ou que não puderam integrar este grupo pelas suas concepções antiquadas ou diferentes, posso dizer-lhe que, apesar disso, esta reorganização da saúde mental vai trazer benefícios.\nE se há hoje algum receio por parte dos directores de saúde mental em utilizaram este modelo, é simplesmente porque não conhecem o que é hoje um departamento de um hospital moderno, pois tem todas as condições para um desenvolvimento técnico na comunidade e para que se continue a praticar uma psiquiatria de qualidade.\nEra inconcebível este desdobramento de urgências nos hospitais psiquiátricos especializados e nos hospitais gerais. É inconcebível que, por exemplo, um doente de Faro ou de Beja tenha de vir a Lisboa para ser tratado. É isto que queremos mudar com este modelo que teve o acolhimento e a aprovação dessas 19 personalidades.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Não houve discriminação.\nSr. Deputado, se houve uma ou duas pessoas que não quiseram ou que não puderam integrar este grupo pelas suas concepções antiquadas ou diferentes, posso dizer-lhe que, apesar disso, esta reorganização da saúde mental vai trazer benefícios.\nE se há hoje algum receio por parte dos directores de saúde mental em utilizaram este modelo, é simplesmente porque não conhecem o que é hoje um departamento de um hospital moderno, pois tem todas as condições para um desenvolvimento técnico na comunidade e para que se continue a praticar uma psiquiatria de qualidade.\nEra inconcebível este desdobramento de urgências nos hospitais psiquiátricos especializados e nos hospitais gerais. É inconcebível que, por exemplo, um doente de Faro ou de Beja tenha de vir a Lisboa para ser tratado. É isto que queremos mudar com este modelo que teve o acolhimento e a aprovação dessas 19 personalidades.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "1226 I SÉRIE -NÚMERO 40", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, terminámos, por hoje, os nossos trabalhos.\nA próxima reunião plenária realiza-se terça-feira, dia 17, pelas 15 horas, tendo um período de antes da ordem do dia, sem prolongamento, e como ordem do dia a apreciação dos seguintes diplomas: projecto de lei n.º 68/VI - Lei quadro de atribuições e competências das autarquias locais (PS); projecto de lei n.º 69/VI - Lei das Finanças Locais (PS); projecto de lei n.º 70/VI - Bases das empresas públicas municipais, intermunicipais e regionais (PS); projecto de lei n.º 92/VI - Lei quadro das empresas públicas municipais, intermunicipais e regionais (PCP); projecto de lei n.º 96/VI - Aprova o novo regime da tutela administrativa sobre as autarquias locais, revogando as disposições fundamentais da Lei n.º 87/89, de 9 de Setembro (PCP); projecto de deliberação n.8 18/VI - Calendário do processo de institucionalização das regiões administrativas (PS) e projecto de deliberação n.º 19/VI - Definição de um calendário para a regionalização (PCP).\nEstá encerrada a sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, terminámos, por hoje, os nossos trabalhos.\nA próxima reunião plenária realiza-se terça-feira, dia 17, pelas 15 horas, tendo um período de antes da ordem do dia, sem prolongamento, e como ordem do dia a apreciação dos seguintes diplomas: projecto de lei n.º 68/VI - Lei quadro de atribuições e competências das autarquias locais (PS); projecto de lei n.º 69/VI - Lei das Finanças Locais (PS); projecto de lei n.º 70/VI - Bases das empresas públicas municipais, intermunicipais e regionais (PS); projecto de lei n.º 92/VI - Lei quadro das empresas públicas municipais, intermunicipais e regionais (PCP); projecto de lei n.º 96/VI - Aprova o novo regime da tutela administrativa sobre as autarquias locais, revogando as disposições fundamentais da Lei n.º 87/89, de 9 de Setembro (PCP); projecto de deliberação n.8 18/VI - Calendário do processo de institucionalização das regiões administrativas (PS) e projecto de deliberação n.º 19/VI - Definição de um calendário para a regionalização (PCP).\nEstá encerrada a sessão.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 12 horas e 20 minutos.", 
@@ -795,17 +931,19 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Álvaro Bissaia Barreto.\nAntónio Barbosa de Melo.\nLuís Carlos David Nobre.\nManuel Castro de Almeida.\nMaria Leonor Beleza.\nOlinto da Cruz Ravara.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

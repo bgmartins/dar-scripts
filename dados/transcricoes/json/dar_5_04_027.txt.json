@@ -41,28 +41,33 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 19 horas e 5 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Estavam presentes os seguintes Srs. Deputados: \nPartido Social-Democrata (PPD/PSD):", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Abílio de Mesquita Araújo Guedes.\nAdérito Manuel Soares Campos.\nAlberto Cerqueira de Oliveira.\nAlberto Monteiro de Araújo.\nAlexandre Azevedo Monteiro.\nÁlvaro José Martins Viegas.\nAmândio dos Anjos Gomes.\nAmândio Santa Cruz Basto Oliveira.\nAntónio Abílio Costa.\nAntónio Augusto Lacerda de Queirós.\nAntónio Augusto Ramos.\nAntónio de Carvalho Martins.\nAntónio Costa de A. Sousa Lara.\nAntónio Fernandes Ribeiro.\nAntónio Joaquim Correia Vairinhos.\nAntónio Jorge Santos Pereira.\nAntónio José Caeiro da Mota Veiga.\nAntónio José de Carvalho.\nAntónio Manuel Lopes Tavares.\nAntónio Maria Oliveira de Matos.\nAntónio Maria Ourique Mendes.\nAntónio Maria Pereira.\nAntónio Paulo Martins Pereira Coelho.\nAntónio Sérgio Barbosa de Azevedo.\nAntónio da Silva Bacelar.\nAristides Alves do Nascimento Teixeira.\nArlindo da Silva André Moreira.\nArmando de Carvalho Guerreiro da Cunha.\nArmando Lopes Correia Costa.\nArménio dos Santos.\nArnaldo Angelo Brito Lhamas.\nBelarmino Henriques Correia.\nCarlos Lélis da Câmara Gonçalves.\nCarlos Manuel Oliveira da Silva.\nCarlos Manuel Pereira Baptista.\nCarlos Miguel M. de Almeida Coelho.\nCasimira Gomes Pereira.\nCecília Pita Catarino.\nCésar da Costa Santos.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nDinah Serrão Alhandra.\nDomingos Duarte Lima.\nDomingos da Silva e Sousa.\nDulcíneo António Campos Rebelo.\nEduardo Alfredo de Carvalho P. da Silva.\nErcília Domingues M. P. Ribeiro da Silva.\nEvaristo de Almeida Guerra de Oliveira.\nFernando Barata Rocha.\nFernando Dias de Carvalho Conceição.\nFernando José Antunes Gomes Pereira.\nFernando José R. Roque Correia Afonso.\nFernando Manuel Alves Cardoso Ferreira.\nFernando Monteiro do Amaral.\nFernando dos Reis Condesso.\nFilipe Manuel Silva Abreu.\nFlausino José Pereira da Silva.\nFrancisco Antunes da Silva.\nFrancisco João Bemardino da Silva.\nFrancisco Mendes Costa.\nGuido Orlando de Freitas Rodrigues.\nGuilherme Henrique V. Rodrigues da Silva.\nHilário Torres Azevedo Marques.\nJaime Carlos Marta Soares.\nJoão Álvaro Poças Santos.\nJoão Costa da Silva.\nJoão Domingos F. de Abreu Salgado.\nJoão José Pedreira de Matos.\nJoão José da Silva Maçãs.\nJoão Maria Ferreira Teixeira.\nJoão Maria Oliveira Martins.\nJoão Soares Pinto Montenegro.\nJoaquim Eduardo Gomes.\nJoaquim Fernandes Marques.\nJoaquim Vilela de Araújo.\nJorge Paulo Seabra Roque da Cunha.\nJosé de Almeida Cesário.\nJosé Álvaro Machado Pacheco Pereira.\nJosé Angelo Ferreira Correia.\nJosé Assunção Marques.\nJosé Augusto Ferreira de Campos.\nJosé Augusto Santos Silva Marques.\nJosé Guilherme Pereira Coelho dos Reis.\nJosé Júlio Vieira Mesquita.\nJosé Lapa Pessoa Paiva.\nJosé Leite Machado.\nJosé Luís Bonifácio Ramos.\nJosé Luís de Carvalho Lalanda Ribeiro.\nJosé Manuel Rodrigues Casqueiro.\nJosé Manuel da Silva Torres.\nJosé Mário Lemos Damião.\nJosé Pereira Lopes.\nJosé de Vargas Bulcão.\nLeonardo Eugênio Ribeiro de Almeida.\nLicínio Moreira da Silva.\nLuís António Martins.\nLuís Filipe Garrido Pais de Sousa.\nLuís Filipe Meneses Lopes.\nLuís Manuel Costa Geraldes.\nLuís Manuel Neves Rodrigues.\nLuís da Silva Carvalho.\nManuel António Sá Fernandes.\nManuel Coelho dos Santos.\nManuel Ferreira Martins.\nManuel João Vaz Freixo.\nManuel Joaquim Baptista Cardoso.\nManuel José Dias Soares Costa.\nManuel Maria Moreira.\nMargarida Borges de Carvalho.\nMaria da Conceição U. de Castro Pereira.\nMaria Luísa Lourenço Ferreira.\nMaria Leonor Beleza M. Tavares.\nMaria Manuela Aguiar Moreira.\nMary Patrícia Pinheiro e Lança.\nMário Jorge Belo Maciel.\nMário de Oliveira Mendes dos Santos.\nMateus Manuel Lopes de Brito.\nMiguel Fernando C. de Miranda Relvas.\nNuno Francisco F. Delerue Alvim de Matos.\nNuno Miguel S. Ferreira Silvestre.\nPedro Augusto Cunha Pinto.\nPedro Domingos de S. e Holstein Campilho.\nPedro Manuel Cruz Roseta.\nRosa Maria Tomé e Costa.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "14 DE DEZEMBRO DE 1990 947", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Rui Alberto Limpo Salvada.\nRui Carlos Alvarez Carp.\nRui Gomes da Silva.\nRui Manuel Almeida Mendes.\nRui Manuel Parente Chancerelle de Macheie.\nValdemar Cardoso Alves.\nVirgílio de Oliveira Carneiro.\nWalter Lopes Teixeira.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

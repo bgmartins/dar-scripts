@@ -37,265 +37,321 @@
    "type": null
   }, 
   {
-   "text": "4812 I SÉRIE - NÚMERO 121 \nO Sr. *Presidente*: Srs. Deputados, temos quorum, pelo que declaro aberta a reunião \n.\n_Eram 15 horas e 30 minutos_.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a reunião \n.\n_Eram 15 horas e 30 minutos_.", 
+   "type": "presidente_aberta"
   }, 
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Vítor Pereira Crespo (PSD).\nMaria Manuela Aguiar Dias Moreira (PSD).\nJoão Eduardo Coelho Ferraz de Abreu (PS).\nJosé Manuel Maia Nunes de Almeida (PCP).\nAntónio Alves Marques Júnior (PRD).\nCarlos Manuel de Sousa Encarnação (PSD).\nMiguel Fernando Cassola de Miranda Relvas (PSD).\nDomingos Duarte Lima (PSD).\nFernando Dias de Carvalho Conceição (PSD).\nDaniel Abílio Ferreira Bastos (PSD).\nFernando Manuel Alves Cardoso Ferreira (PSD).\nCuido Orlando Freitas Rodrigues (PSD).\nJoaquim Maria Fernandes Marques (PSD).\nJosé Júlio Vieira de Mesquita (PSD).\nJosé Mendes Bota (PSD).\nManuel José Dias Soares Costa (PSD).\nManuel Maria Moreira (PSD).\nJoão Domingos Fernandes de Abreu Salgado (PSD).\nMiguel Bento Martins C. M. e Silva (PSD).\nReinaldo Alberto Ramos Gomes (PSD).\nEduardo Pedro (PS).\nEduardo Ribeiro Pereira (PS).\nJorge Fernando Branco de Sampaio (PS).\nJorge Lacão Costa (PS).\nAlberto Arons de Carvalho (PS).\nJoão António Gonçalves do Amaral (PCP).\nNarana Sinai Coissoró (CDS).\nHermínio Paiva Fernandes Martinho (PRD).", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Secretário vai proceder à leitura de diplomas entrados na Mesa.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "O Sr. Secretário vai proceder à leitura de diplomas entrados na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Secretário* (Reinaldo Gomes): Srs. Deputados, deram entrada na Mesa os seguintes diplomas: proposta de lei n.º 70/V - Autoriza o Governo a legislar para a aprovação dos estatutos da Casa do Douro e respectivo regulamento eleitoral; proposta de resolução n.º 8/V - Aprova para ratificação uma emenda relativa aos estatutos do Banco Internacional para a reconstrução e desenvolvimento; projecto de lei n.º 296/V, da iniciativa dos Sr. Deputado João Cravinho e outros, do PS - Reforma da sisa e do imposto sobre as sucessões e doações.\nEstes diplomas foram admitidos e baixaram às comissões respectivas.", 
-   "type": "continuacao"
+   "party": "Reinaldo Gomes", 
+   "speaker": "Secretário", 
+   "text": "Srs. Deputados, deram entrada na Mesa os seguintes diplomas: proposta de lei n.º 70/V - Autoriza o Governo a legislar para a aprovação dos estatutos da Casa do Douro e respectivo regulamento eleitoral; proposta de resolução n.º 8/V - Aprova para ratificação uma emenda relativa aos estatutos do Banco Internacional para a reconstrução e desenvolvimento; projecto de lei n.º 296/V, da iniciativa dos Sr. Deputado João Cravinho e outros, do PS - Reforma da sisa e do imposto sobre as sucessões e doações.\nEstes diplomas foram admitidos e baixaram às comissões respectivas.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, peço a palavra.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para que efeito, Sr. Deputado?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Para que efeito, Sr. Deputado?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, é para colocar uma questão.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, é para colocar uma questão.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, no processo do decreto relativo à reforma agrária existe uma situação que importa ser clarificada. Segundo informação que existe nos registos da Assembleia, o decreto foi enviado por V. Ex.º para o Sr. Presidente da República antes de concluído o processo legislativo, isto é, antes de ter sido efectivada a redacção final através do modelo que a Comissão escolheu para o efeito.\nReportando-me aos factos, no dia 25 de Julho, a Assessoria Jurídica da Assembleia da República enviou à Comissão de Agricultura e Pescas a nota n.º 130/88, que procedia à sistematização do texto, com vista, naturalmente, a ser apreciado pela Comissão - que tinha encontrado um modelo de redacção final - ontem, dia 27. Efectivamente, procedeu à redacção final, e tendo constatado que existiam imprecisões, corrigiu-as - uma corresponde, até, a um número inteiro de um dos artigos -, e só ontem, portanto, ficou concluído o processo \nlegislativo. Entretanto, consta dos registos da Assembleia que a remessa deste decreto para a Presidência da República se efectuou no dia 25.\nComo é sabido, a data de remessa e a data de recepção têm efeitos constitucionais conhecidos. Deste modo, importa que seja sanada esta irregularidade e, nesse sentido, permito-me perguntar ao Sr. Presidente quais as medidas que pensa tomar para anular a remessa anterior e proceder à remessa, agora sim, do decreto relativo à reforma agrária, concluído que foi o processo legislativo.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, no processo do decreto relativo à reforma agrária existe uma situação que importa ser clarificada. Segundo informação que existe nos registos da Assembleia, o decreto foi enviado por V. Ex.º para o Sr. Presidente da República antes de concluído o processo legislativo, isto é, antes de ter sido efectivada a redacção final através do modelo que a Comissão escolheu para o efeito.\nReportando-me aos factos, no dia 25 de Julho, a Assessoria Jurídica da Assembleia da República enviou à Comissão de Agricultura e Pescas a nota n.º 130/88, que procedia à sistematização do texto, com vista, naturalmente, a ser apreciado pela Comissão - que tinha encontrado um modelo de redacção final - ontem, dia 27. Efectivamente, procedeu à redacção final, e tendo constatado que existiam imprecisões, corrigiu-as - uma corresponde, até, a um número inteiro de um dos artigos -, e só ontem, portanto, ficou concluído o processo \nlegislativo. Entretanto, consta dos registos da Assembleia que a remessa deste decreto para a Presidência da República se efectuou no dia 25.\nComo é sabido, a data de remessa e a data de recepção têm efeitos constitucionais conhecidos. Deste modo, importa que seja sanada esta irregularidade e, nesse sentido, permito-me perguntar ao Sr. Presidente quais as medidas que pensa tomar para anular a remessa anterior e proceder à remessa, agora sim, do decreto relativo à reforma agrária, concluído que foi o processo legislativo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, fui informado que o decreto relativo à Reforma Agrária estava em condições de ser enviado. Foi-me entregue uma cópia, que assinei e enviei à Presidência da República no dia que o Sr. Deputado João Amaral referiu.\nDevo dizer que nem sequer tinha conhecimento de que a Comissão de Agricultura e Pescas se propunha reunir para tomar em consideração algumas emendas ou um texto. A informação que tinha era, aliás, diversa: a de que o texto tinha sido preparado em conjugação com a Assessoria Jurídica. Portanto, quando me foi apresentado, não tive qualquer relutância em o assinar e enviar.\nTendo sido alertado de que havia algumas emendas a fazer, que correspondem, para além de uma vírgula, a matérias em três páginas com significado, e particularmente, um número de um artigo - não quero dizer que nas outras duas páginas o significado não tenha também alguma importância - enviei hoje à Presidência da República o texto revisto com o pedido de substituição das três páginas.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, fui informado que o decreto relativo à Reforma Agrária estava em condições de ser enviado. Foi-me entregue uma cópia, que assinei e enviei à Presidência da República no dia que o Sr. Deputado João Amaral referiu.\nDevo dizer que nem sequer tinha conhecimento de que a Comissão de Agricultura e Pescas se propunha reunir para tomar em consideração algumas emendas ou um texto. A informação que tinha era, aliás, diversa: a de que o texto tinha sido preparado em conjugação com a Assessoria Jurídica. Portanto, quando me foi apresentado, não tive qualquer relutância em o assinar e enviar.\nTendo sido alertado de que havia algumas emendas a fazer, que correspondem, para além de uma vírgula, a matérias em três páginas com significado, e particularmente, um número de um artigo - não quero dizer que nas outras duas páginas o significado não tenha também alguma importância - enviei hoje à Presidência da República o texto revisto com o pedido de substituição das três páginas.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, agradeço a informação que me deu.\nSimplesmente, penso que haveria que cuidar da rectificação da irregularidade, tal como ela se configura neste momento. Essa irregularidade vicia todo o texto que foi remetido e não somente três páginas. Neste caso, tratar-se-á de anular a remessa anterior e de remeter o decreto autenticado, agora com o processo legislativo concluído, nos termos e para os efeitos das disposições \nconstitucionais, nomeadamente para o início da contagem do prazo.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, agradeço a informação que me deu.\nSimplesmente, penso que haveria que cuidar da rectificação da irregularidade, tal como ela se configura neste momento. Essa irregularidade vicia todo o texto que foi remetido e não somente três páginas. Neste caso, tratar-se-á de anular a remessa anterior e de remeter o decreto autenticado, agora com o processo legislativo concluído, nos termos e para os efeitos das disposições \nconstitucionais, nomeadamente para o início da contagem do prazo.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, efectivamente, há três páginas a emendar e, portanto, a substituição dessas páginas tem incidência sobre todo o texto.\nQuanto ao problema - e é esse o problema essencial - da data de entrada do decreto na Presidência da República, se é no dia 25 ou se é hoje, já estou em contacto com a Presidência da República.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, efectivamente, há três páginas a emendar e, portanto, a substituição dessas páginas tem incidência sobre todo o texto.\nQuanto ao problema - e é esse o problema essencial - da data de entrada do decreto na Presidência da República, se é no dia 25 ou se é hoje, já estou em contacto com a Presidência da República.\n29 DE JULHO DE 1988 4813", 
+   "type": "presidente"
   }, 
   {
-   "text": "29 DE JULHO DE 1988 4813", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, suponho que o contacto só pode ter um significado: a informação, por parte do Sr. Presidente - aliás, a Comissão Permanente, nos intervalos do funcionamento da Assembleia, é a entidade competente para dirimir estas questões, e, portanto, seria ela a entidade competente para fazer essa redacção final se a Comissão não tivesse reunido ou se a Comissão não tivesse encontrado uma fórmula para fixar o texto final -, de que a data de remessa é a de hoje, e não a de 25 de Julho.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, suponho que o contacto só pode ter um significado: a informação, por parte do Sr. Presidente - aliás, a Comissão Permanente, nos intervalos do funcionamento da Assembleia, é a entidade competente para dirimir estas questões, e, portanto, seria ela a entidade competente para fazer essa redacção final se a Comissão não tivesse reunido ou se a Comissão não tivesse encontrado uma fórmula para fixar o texto final -, de que a data de remessa é a de hoje, e não a de 25 de Julho.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, eu enviei as três páginas por uma questão de celeridade e de lealdade para com a Presidência da República, não se desse o caso de estarem já a apreciar o decreto em condições anormais. Logo que tenha oportunidade, entrarei de novo em contacto com a Presidência da República para esclarecer a questão da data do envio.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, eu enviei as três páginas por uma questão de celeridade e de lealdade para com a Presidência da República, não se desse o caso de estarem já a apreciar o decreto em condições anormais. Logo que tenha oportunidade, entrarei de novo em contacto com a Presidência da República para esclarecer a questão da data do envio.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, desculpe insistir, mas há uma questão que temos de esclarecer. E a questão que se coloca neste momento é esta: ou o processo legislativo é regular e não há contactos que resolvam a questão, ou não é. Como o processo legislativo não correu regularmente com a remessa no dia 25, então essa remessa terá que ser anulada e feita agora outra, enviando o decreto com a data correspondente ao dia da remessa.\nO Sr. Presidente não pode dizer que vai telefonar simpaticamente e que depois se verá. A questão tem que ser analisada neste momento e no seu completo alcance.\nAliás, não entendo a questão que coloca da celeridade e do respeito para com a Presidência da República, porque a questão da celeridade e do respeito punha-se desde logo com a redacção final.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, desculpe insistir, mas há uma questão que temos de esclarecer. E a questão que se coloca neste momento é esta: ou o processo legislativo é regular e não há contactos que resolvam a questão, ou não é. Como o processo legislativo não correu regularmente com a remessa no dia 25, então essa remessa terá que ser anulada e feita agora outra, enviando o decreto com a data correspondente ao dia da remessa.\nO Sr. Presidente não pode dizer que vai telefonar simpaticamente e que depois se verá. A questão tem que ser analisada neste momento e no seu completo alcance.\nAliás, não entendo a questão que coloca da celeridade e do respeito para com a Presidência da República, porque a questão da celeridade e do respeito punha-se desde logo com a redacção final.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado João Amaral, supondo que a Presidência da República estava a analisar o decreto, por uma questão de lealdade eu tinha que indicar-lhe que estava a analisar qualquer coisa que não correspondia a toda a verdade. Ê essa a razão da celeridade e no respeito para com a Presidência da República.\nCom certeza que farei o que deve ser feito e tenho quase a certeza que a solução que o Sr. Deputado está a propor é a que vai ser seguida.\nSimplesmente, também por lealdade, tenho que ter uma palavra para com a Presidência da República e arranjar forma de, devidamente, corrigir o lapso. O Sr. Deputado não tenha receio, porque as coisas irão ser feitas de forma adequada.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado João Amaral, supondo que a Presidência da República estava a analisar o decreto, por uma questão de lealdade eu tinha que indicar-lhe que estava a analisar qualquer coisa que não correspondia a toda a verdade. Ê essa a razão da celeridade e no respeito para com a Presidência da República.\nCom certeza que farei o que deve ser feito e tenho quase a certeza que a solução que o Sr. Deputado está a propor é a que vai ser seguida.\nSimplesmente, também por lealdade, tenho que ter uma palavra para com a Presidência da República e arranjar forma de, devidamente, corrigir o lapso. O Sr. Deputado não tenha receio, porque as coisas irão ser feitas de forma adequada.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Mendes Bota", 
+   "text": "Isto é um diálogo?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Mendes Bota* (PSD): Isto é um diálogo?", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, acho que há uma grande confusão no tipo ...", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, acho que há uma grande confusão no tipo ...", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, não vale a pena estarmos a entrar ...", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, não vale a pena estarmos a entrar ...", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, valerá a pena neste sentido: não estou com problemas nem pessoais nem de outro tipo. A questão que se coloca é de regularidade, e não há quase a certeza ou deixa de a haver. Como o processo não correu regularmente, tem que ser anulada a anterior remessa e proceder em conformidade, Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, valerá a pena neste sentido: não estou com problemas nem pessoais nem de outro tipo. A questão que se coloca é de regularidade, e não há quase a certeza ou deixa de a haver. Como o processo não correu regularmente, tem que ser anulada a anterior remessa e proceder em conformidade, Sr. Presidente.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, não vale a pena estarmos em diálogo, porque eu já disse que faria as coisas com legalidade e com \nnormalidade.\nTem a palavra o Sr. Deputado Narana Coissoró.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, não vale a pena estarmos em diálogo, porque eu já disse que faria as coisas com legalidade e com \nnormalidade.\nTem a palavra o Sr. Deputado Narana Coissoró.", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, Srs. Deputados: Em primeiro lugar, desejo manifestar a nossa opinião sobre este incidente, que também reputamos muito importante. Ser enviado para promulgação um decreto que não está correcto, que está irregular, não abona a favor da Assembleia da República, podendo-se deduzir daí que a Assembleia ou não tem produtividade ou tem produtividade a mais, pois, apressadamente, manda as coisas de modo a mostrar que produz coisas demasiado cedo e demasiado depressa.\nDe qualquer modo, para nós, sob o ponto de vista processual, o processo de remessa tem que ser anulado e tem que ser feita uma nova remessa, pois a substituição das três folhas corrigidas apenas conta como substituição, e não conta como remessa inicial do processo.\nEm segundo lugar, ouvimos ontem na televisão que a Presidência da República tinha esgotado o prazo para envio ao Tribunal Constitucional da lei laborai, que foi votada na quarta-feira. Como nunca tivemos qualquer indicação de que ela tinha ido à Assessoria Jurídica e que tinha sido fixado o texto definitivo em comissão, gostava de saber se o presidente da Comissão de Trabalho, Segurança Social e Família ou o Sr.Presidente me podiam dar a indicação do dia e em que condições esse diploma foi remetido à Presidência da República, para que depois não houvesse mais problemas do género do anterior.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): Sr. Presidente, Srs. Deputados: Em primeiro lugar, desejo manifestar a nossa opinião sobre este incidente, que também reputamos muito importante. Ser enviado para promulgação um decreto que não está correcto, que está irregular, não abona a favor da Assembleia da República, podendo-se deduzir daí que a Assembleia ou não tem produtividade ou tem produtividade a mais, pois, apressadamente, manda as coisas de modo a mostrar que produz coisas demasiado cedo e demasiado depressa.\nDe qualquer modo, para nós, sob o ponto de vista processual, o processo de remessa tem que ser anulado e tem que ser feita uma nova remessa, pois a substituição das três folhas corrigidas apenas conta como substituição, e não conta como remessa inicial do processo.\nEm segundo lugar, ouvimos ontem na televisão que a Presidência da República tinha esgotado o prazo para envio ao Tribunal Constitucional da lei laborai, que foi votada na quarta-feira. Como nunca tivemos qualquer indicação de que ela tinha ido à Assessoria Jurídica e que tinha sido fixado o texto definitivo em comissão, gostava de saber se o presidente da Comissão de Trabalho, Segurança Social e Família ou o Sr.Presidente me podiam dar a indicação do dia e em que condições esse diploma foi remetido à Presidência da República, para que depois não houvesse mais problemas do género do anterior.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, antes de dar a palavra ao Sr.Deputado Joaquim Marques, desejo responder a um comentário do Sr.Deputado Narana Coissoró.\nSr. Deputado, não se trata de produtividade a mais nem de produtividade a menos, é a produtividade certa.\nDevo acrescentar que enviei a todas as comissões, em devido tempo, uma indicação de que trabalhassem com a Assessoria Jurídica. Aconteceu que vários diplomas que foram votados na Assembleia da República já vinham com a forma analisada pela Assessoria Jurídica.\nConsidero que é uma boa maneira de funcionar na Assembleia da República, ou seja, que a redacção final de um diploma seja feita ainda antes da sua votação final global.\nO texto em questão foi-me apresentado, tive ocasião de falar com pessoas responsáveis da comissão e o texto foi identificado como tendo sido preparado pela mesma e pela Assessoria Jurídica e que estaria em devida forma. Tem a palavra o Sr. Deputado Joaquim Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, antes de dar a palavra ao Sr.Deputado Joaquim Marques, desejo responder a um comentário do Sr.Deputado Narana Coissoró.\nSr. Deputado, não se trata de produtividade a mais nem de produtividade a menos, é a produtividade certa.\nDevo acrescentar que enviei a todas as comissões, em devido tempo, uma indicação de que trabalhassem com a Assessoria Jurídica. Aconteceu que vários diplomas que foram votados na Assembleia da República já vinham com a forma analisada pela Assessoria Jurídica.\nConsidero que é uma boa maneira de funcionar na Assembleia da República, ou seja, que a redacção final de um diploma seja feita ainda antes da sua votação final global.\nO texto em questão foi-me apresentado, tive ocasião de falar com pessoas responsáveis da comissão e o texto foi identificado como tendo sido preparado pela mesma e pela Assessoria Jurídica e que estaria em devida forma. Tem a palavra o Sr. Deputado Joaquim Marques.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Joaquim Marques", 
+   "text": "Sr. Presidente, é só para informar a Comissão Permanente, e sobretudo para sossegar o Sr. Deputado Narana Coissoró, que, de facto, o texto final do chamado «pacote laboral» foi analisado na reunião da Comissão de Trabalho, Segurança Social e Família do dia 20 deste mês e que 4814 I SÉRIE - NÚMERO 121", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Joaquim Marques* (PSD): Sr. Presidente, é só para informar a Comissão Permanente, e sobretudo para sossegar o Sr. Deputado Narana Coissoró, que, de facto, o texto final do chamado «pacote laboral» foi analisado na reunião da Comissão de Trabalho, Segurança Social e Família do dia 20 deste mês e que", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "4814 I SÉRIE - NÚMERO 121", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Joaquim Marques", 
    "text": "foram seguidos os trâmites normais, com a comunicação adequada à Assessoria Jurídica da Presidência da Assembleia da República.\nPortanto, tudo isto se processou de forma normal e talvez o CDS não tenha conhecimento directo disto, porque o seu representante nesta Comissão não participou na reunião.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Narana Coissoró.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Narana Coissoró.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): Sr. Presidente, dizer que se processou normalmente ... Também o processo relativo à reforma agrária se processou normalmente, como agora vimos pela explicação.\nGostava, pois, de saber em que dia se pronunciou a Assessoria e em que dia foi enviado para o Presidente da República. É só isso!", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, dizer que se processou normalmente ... Também o processo relativo à reforma agrária se processou normalmente, como agora vimos pela explicação.\nGostava, pois, de saber em que dia se pronunciou a Assessoria e em que dia foi enviado para o Presidente da República. É só isso!", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Vieira Mesquita* (PSD): Consulte os registos!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Vieira Mesquita", 
+   "text": "Consulte os registos!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Não, não tenho polícia e não tenho pessoal para andar pelos gabinetes e departamentos a ver os registos!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Não, não tenho polícia e não tenho pessoal para andar pelos gabinetes e departamentos a ver os registos!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, essas leis, como todas as leis - e ainda hoje enviei para Belém a Convenção EUMETSAT -, que chegam à minha mão pela Assessoria Jurídica com o ofício de remessa a indicar que estão em condições de obter o autógrafo (que é a terminologia que se utiliza para referir a assinatura do Presidente), assino-as normalmente dentro de duas ou três horas, ou seja, no prazo máximo de um dia.\nAssim aconteceu com a lei laboral, que me apareceu capeada com o ofício a dizer que estava em condições para ser produzido o autógrafo e ser remetida. Assim se fez, com toda a normalidade, como também assim se fará com a lei da reforma fiscal, porque a Comissão ainda vai reunir, para a poder analisar.\nTem a palavra o Sr. Deputado Jorge Lacão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, essas leis, como todas as leis - e ainda hoje enviei para Belém a Convenção EUMETSAT -, que chegam à minha mão pela Assessoria Jurídica com o ofício de remessa a indicar que estão em condições de obter o autógrafo (que é a terminologia que se utiliza para referir a assinatura do Presidente), assino-as normalmente dentro de duas ou três horas, ou seja, no prazo máximo de um dia.\nAssim aconteceu com a lei laboral, que me apareceu capeada com o ofício a dizer que estava em condições para ser produzido o autógrafo e ser remetida. Assim se fez, com toda a normalidade, como também assim se fará com a lei da reforma fiscal, porque a Comissão ainda vai reunir, para a poder analisar.\nTem a palavra o Sr. Deputado Jorge Lacão.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lacão* (PS): Sr. Presidente, dada a natureza da questão levantada pelo Sr. Deputado João Amaral, não podemos deixar de emitir a nossa opinião sobre o problema.\nO envio dos decretos aprovados na Assembleia da República para o Sr.Presidente da República faz-se, naturalmente, para que se cumpra um dos requisitos de validade dos actos legislativos, qual seja o da promulgação.\nImaginemos que no prazo que entretanto já transcorreu após a recepção pela Presidência da República do decreto relativo à lei da reforma agrária, o Presidente da República tinha exercido a sua competência e tinha promulgado o referido diploma. Se tal tivesse ocorrido, teríamos porventura um incidente extremamente difícil de transpor, porque o Presidente da República teria exercido a sua competência sobre um acto legislativo que lhe tinha sido comunicado pela Assembleia da República, não correspondendo, todavia, ao texto material definitivamente fixado pela Comissão.\nEste incidente, pela sua natureza, é naturalmente preocupante e, por isso, o Partido Socialista deseja manifestar ao Sr. Presidente da Assembleia da República \na sua preocupação quanto ao sucedido e, mais do que a sua preocupação, o seu apelo, no sentido de que incidentes desta natureza possam não voltar a ocorrer.\nNeste caso concreto, dado que foram preteridas formalidades essenciais quanto à fixação definitiva do texto, a primeira remessa deve ser declarada sem qualquer validade por parte da Assembleia e todo o processo para transcurso dos prazos constitucionalmente previstos deve iniciar-se só a partir do momento em que o texto foi dado como definitivamente fixado e, como tal, pode sair em devida forma da Assembleia da República.\nSó assim poderemos repor toda a legalidade do processo legislativo e evitar que se crie um precedente de consequências eventualmente graves não no caso sub judice, mas para casos futuros.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Jorge Lacão", 
+   "text": "Sr. Presidente, dada a natureza da questão levantada pelo Sr. Deputado João Amaral, não podemos deixar de emitir a nossa opinião sobre o problema.\nO envio dos decretos aprovados na Assembleia da República para o Sr.Presidente da República faz-se, naturalmente, para que se cumpra um dos requisitos de validade dos actos legislativos, qual seja o da promulgação.\nImaginemos que no prazo que entretanto já transcorreu após a recepção pela Presidência da República do decreto relativo à lei da reforma agrária, o Presidente da República tinha exercido a sua competência e tinha promulgado o referido diploma. Se tal tivesse ocorrido, teríamos porventura um incidente extremamente difícil de transpor, porque o Presidente da República teria exercido a sua competência sobre um acto legislativo que lhe tinha sido comunicado pela Assembleia da República, não correspondendo, todavia, ao texto material definitivamente fixado pela Comissão.\nEste incidente, pela sua natureza, é naturalmente preocupante e, por isso, o Partido Socialista deseja manifestar ao Sr. Presidente da Assembleia da República \na sua preocupação quanto ao sucedido e, mais do que a sua preocupação, o seu apelo, no sentido de que incidentes desta natureza possam não voltar a ocorrer.\nNeste caso concreto, dado que foram preteridas formalidades essenciais quanto à fixação definitiva do texto, a primeira remessa deve ser declarada sem qualquer validade por parte da Assembleia e todo o processo para transcurso dos prazos constitucionalmente previstos deve iniciar-se só a partir do momento em que o texto foi dado como definitivamente fixado e, como tal, pode sair em devida forma da Assembleia da República.\nSó assim poderemos repor toda a legalidade do processo legislativo e evitar que se crie um precedente de consequências eventualmente graves não no caso sub judice, mas para casos futuros.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, expliquei a razão por que coloquei o autógrafo na lei da reforma agrária. Devo também esclarecê-lo que não transcorreu o prazo de cinco dias e que a hipótese que o Sr. Deputado Jorge Lacão pôs felizmente não se verificou.\nNormalmente há o cuidado suficiente - e desta vez houve o cuidado suficiente no meu gabinete -, simplesmente sucedeu desta vez uma situação menos conveniente, que resultou, talvez, do excesso de trabalho de todo o sistema.\nTem a palavra o Sr. Deputado Duarte Lima.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, expliquei a razão por que coloquei o autógrafo na lei da reforma agrária. Devo também esclarecê-lo que não transcorreu o prazo de cinco dias e que a hipótese que o Sr. Deputado Jorge Lacão pôs felizmente não se verificou.\nNormalmente há o cuidado suficiente - e desta vez houve o cuidado suficiente no meu gabinete -, simplesmente sucedeu desta vez uma situação menos conveniente, que resultou, talvez, do excesso de trabalho de todo o sistema.\nTem a palavra o Sr. Deputado Duarte Lima.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Duarte Lima* (PSD): Sr. Presidente, parte da minha observação já é inoportuna, porque se inseria no momento em que havia um diálogo cruzado entre a Mesa com interpelações sucessivas, em prejuízo de outras interpelações que havia de outras bancadas, entre o Sr. Deputado João Amaral e o Sr. Presidente. Queria, pois, chamar a atenção da Mesa para esse facto e para que fosse dada a palavra aos intervenientes que também queriam interpelar a Mesa.\nSobre este processo penso que não vale a pena continuarmos a falar: a explicação que o Sr. Presidente deu é uma explicação cabal, o Sr.Presidente utilizou a diligência que deveria realmente utilizar, pela forma como foi conduzido o processo, mas é óbvio para todos nós que o processo legislativo só está concluído a partir do momento em que a redacção final está acertada e só a partir daí é que se devem contar os passos constitucionais.\nPara nós, não se trata de uma questão polémica. O Sr. Presidente irá, naturalmente, providenciar para que a correcção deste processo seja reposta nos seus devidos termos e, como actuou com a diligência devida, esperamos que isso vá ser feito de seguida.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Duarte Lima", 
+   "text": "Sr. Presidente, parte da minha observação já é inoportuna, porque se inseria no momento em que havia um diálogo cruzado entre a Mesa com interpelações sucessivas, em prejuízo de outras interpelações que havia de outras bancadas, entre o Sr. Deputado João Amaral e o Sr. Presidente. Queria, pois, chamar a atenção da Mesa para esse facto e para que fosse dada a palavra aos intervenientes que também queriam interpelar a Mesa.\nSobre este processo penso que não vale a pena continuarmos a falar: a explicação que o Sr. Presidente deu é uma explicação cabal, o Sr.Presidente utilizou a diligência que deveria realmente utilizar, pela forma como foi conduzido o processo, mas é óbvio para todos nós que o processo legislativo só está concluído a partir do momento em que a redacção final está acertada e só a partir daí é que se devem contar os passos constitucionais.\nPara nós, não se trata de uma questão polémica. O Sr. Presidente irá, naturalmente, providenciar para que a correcção deste processo seja reposta nos seus devidos termos e, como actuou com a diligência devida, esperamos que isso vá ser feito de seguida.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, há pouco não fui a todo o pormenor porque quero combinar com a Presidência da República, havendo um lapso, a forma mais correcta como vou elaborar o ofício a indicar que a data da remessa é de hoje, não mais do que isso, ainda simplesmente por uma questão de boa colaboração.\nTem a palavra o Sr. Deputado Carlos Brito.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, há pouco não fui a todo o pormenor porque quero combinar com a Presidência da República, havendo um lapso, a forma mais correcta como vou elaborar o ofício a indicar que a data da remessa é de hoje, não mais do que isso, ainda simplesmente por uma questão de boa colaboração.\nTem a palavra o Sr. Deputado Carlos Brito.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, é ainda para reforçar duas ideias: em primeiro lugar, para apoiar as considerações que aqui foram produzidas por outros colegas no sentido de que este incidente deve", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, é ainda para reforçar duas ideias: em primeiro lugar, para apoiar as considerações que aqui foram produzidas por outros colegas no sentido de que este incidente deve 29 DE JULHO DE 1988 4815", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "29 DE JULHO DE 1988 4815", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
    "text": "ficar sanado, sem margem para qualquer dúvida. Portanto, é a partir de hoje, e a partir da remessa de hoje, que os prazos constitucionais relevantes passam a contar.\nEm segundo lugar, creio ser muito importante o que acabou de dizer o Sr. Deputado Duarte Lima. É que o processo legislativo, em termos de intervenção da Assembleia da República, só está concluído com a redacção final, e creio que não há que adoptar processos expeditos em relação a esta questão da redacção final. Os termos em que a redacção final deve ser feita estão contidos nos artigos 156.º e 157.º, são muito claros e muito expeditos. A redacção final compete às comissões e creio que não pode ser delegada nos assessores de uma maneira um tanto expedita e um tanto para facilitar as coisas.\nSem que esta questão esteja perfeitamente compreendida e clara, creio que corremos o risco de nos vermos envolvidos em novos incidentes como aquele que agora estamos aqui a registar.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Antes de dar a palavra ao Sr. Deputado Duarte Lima, também queria esclarecer mais uma questão para que fique clara: é evidente que se trata de um processo normal; é evidente que o sistema funcionou de boa fé, embora sob sobrecarga, e também é evidente que não é a primeira vez que esta situação se regista.\nSobre isso, devo dizer que ao ler as actas de uma comissão permanente de há uns anos atrás, até para saber como funcionava, verifiquei que eu próprio tinha intervindo, assim como um colega da sua bancada, o Sr.Deputado Jorge Lemos, para rectificar a Lei de Bases do Sistema Educativo - assunto que, obviamente, conheço bem - porque ela tinha sido publicada com alguns defeitos na redacção final.\nÉ evidente que não desconheço que poderá haver uma gralha de uma vírgula a mais ou a menos que em qualquer momento se pode tirar ou corrigir. Efectivamente, naquele caso e noutros (basta ler os Diários) havia mais do que uma gralha, mas não é necessário que façamos disso uma questão muito dramática.\nTem a palavra o Sr. Deputado Duarte Lima.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Antes de dar a palavra ao Sr. Deputado Duarte Lima, também queria esclarecer mais uma questão para que fique clara: é evidente que se trata de um processo normal; é evidente que o sistema funcionou de boa fé, embora sob sobrecarga, e também é evidente que não é a primeira vez que esta situação se regista.\nSobre isso, devo dizer que ao ler as actas de uma comissão permanente de há uns anos atrás, até para saber como funcionava, verifiquei que eu próprio tinha intervindo, assim como um colega da sua bancada, o Sr.Deputado Jorge Lemos, para rectificar a Lei de Bases do Sistema Educativo - assunto que, obviamente, conheço bem - porque ela tinha sido publicada com alguns defeitos na redacção final.\nÉ evidente que não desconheço que poderá haver uma gralha de uma vírgula a mais ou a menos que em qualquer momento se pode tirar ou corrigir. Efectivamente, naquele caso e noutros (basta ler os Diários) havia mais do que uma gralha, mas não é necessário que façamos disso uma questão muito dramática.\nTem a palavra o Sr. Deputado Duarte Lima.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Duarte Lima* (PSD): Sr. Presidente, muito rapidamente, para que não haja má interpretação das minhas palavras e sobre o que disse o Sr.Deputado Carlos Brito. Não quis que se pudesse inferir das minhas palavras que o Sr. Presidente tinha tido uma atitude expedita relativamente à remessa do diploma para a Presidência da República.\nO Sr. Presidente, na presunção de que o diploma estava concluído, de que estava operada a redacção final global - e houve um lapso de informação, como ele reconheceu -, mandou-o para a Presidência da República. Em relação a isto, o Sr. Presidente não procurou nenhum expediente ou nenhuma atitude mais expedita para enviar o diploma.\nPosteriormente, foi-lhe dado conhecimento de que o processo não estava concluso e, como é normal, o Sr. Presidente da Assembleia da República comunicou para a Presidência da República que o processo não estava finalizado, para que não houvesse um estudo definitivo, da parte dos consultores jurídicos da Presidência da República, sobre o diploma.\nPortanto, é uma diligência do Sr. Presidente que nós compreendemos perfeitamente. Agora, não podemos é inferir disso que estamos a concluir que o Sr. Presidente da Assembleia da República quis utilizar um processo expedito de despachar diplomas daqui para a Presidência da República.\nHouve um lapso de informação, que foi reconhecido, e, como tal, sem qualquer dramatismo, sem qualquer problema de maior, o processo reiniciar-se-á normalmente. É apenas isto que queria deixar bem claro, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Duarte Lima", 
+   "text": "Sr. Presidente, muito rapidamente, para que não haja má interpretação das minhas palavras e sobre o que disse o Sr.Deputado Carlos Brito. Não quis que se pudesse inferir das minhas palavras que o Sr. Presidente tinha tido uma atitude expedita relativamente à remessa do diploma para a Presidência da República.\nO Sr. Presidente, na presunção de que o diploma estava concluído, de que estava operada a redacção final global - e houve um lapso de informação, como ele reconheceu -, mandou-o para a Presidência da República. Em relação a isto, o Sr. Presidente não procurou nenhum expediente ou nenhuma atitude mais expedita para enviar o diploma.\nPosteriormente, foi-lhe dado conhecimento de que o processo não estava concluso e, como é normal, o Sr. Presidente da Assembleia da República comunicou para a Presidência da República que o processo não estava finalizado, para que não houvesse um estudo definitivo, da parte dos consultores jurídicos da Presidência da República, sobre o diploma.\nPortanto, é uma diligência do Sr. Presidente que nós compreendemos perfeitamente. Agora, não podemos é inferir disso que estamos a concluir que o Sr. Presidente da Assembleia da República quis utilizar um processo expedito de despachar diplomas daqui para a Presidência da República.\nHouve um lapso de informação, que foi reconhecido, e, como tal, sem qualquer dramatismo, sem qualquer problema de maior, o processo reiniciar-se-á normalmente. É apenas isto que queria deixar bem claro, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Carlos Brito.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Carlos Brito.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, lastimo ter que voltar a intervir, mas creio que esta questão deve ficar clara para que não restem dúvidas ...", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, lastimo ter que voltar a intervir, mas creio que esta questão deve ficar clara para que não restem dúvidas ...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PSD: Já está clara!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Já está clara!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, está clara, e, se me permite, repito: \nsabendo que o decreto estava a ser apreciado, comuniquei imediatamente esse facto à Presidência da República para que não se fizessem apreciações em vão e enviei as três novas páginas significativas preparando-me para retomar o processo a sua normalidade.\nSr. Deputado, tendo havido um lapso, apressei-me a enviar cópia das páginas emendadas. O processo será feito com toda a normalidade quando estiver preparado para que assim aconteça.\nTem a palavra o Sr. Deputado Carlos Brito.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, está clara, e, se me permite, repito: \nsabendo que o decreto estava a ser apreciado, comuniquei imediatamente esse facto à Presidência da República para que não se fizessem apreciações em vão e enviei as três novas páginas significativas preparando-me para retomar o processo a sua normalidade.\nSr. Deputado, tendo havido um lapso, apressei-me a enviar cópia das páginas emendadas. O processo será feito com toda a normalidade quando estiver preparado para que assim aconteça.\nTem a palavra o Sr. Deputado Carlos Brito.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, creio que seria bom chamarmos a atenção para o ofício que os próprios serviços, o assessor jurídico, Sr. Dr.\nRaul de Mota Campos, subscrevem e que diz no ponto 1 o seguinte: «Para consideração da Comissão, para efeitos do n.º 156.º do Regimento, junto remeto o texto do diploma em epígrafe [...]», etc.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, creio que seria bom chamarmos a atenção para o ofício que os próprios serviços, o assessor jurídico, Sr. Dr.\nRaul de Mota Campos, subscrevem e que diz no ponto 1 o seguinte: «Para consideração da Comissão, para efeitos do n.º 156.º do Regimento, junto remeto o texto do diploma em epígrafe [...]», etc.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, esse foi o ofício que foi dirigido à Comissão e não o que me foi enviado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, esse foi o ofício que foi dirigido à Comissão e não o que me foi enviado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, então é relevante a minha afirmação de que há processos expeditos e são esses processos que não podem passar, que aqui estamos a reprovar. Creio que isto é que é essencial.\nSr. Presidente, para que nos entendamos em relação a esta matéria e para que, de futuro, não tenhamos - volto a sublinhar - casos semelhantes a este, seria bom que esta chamada de atenção tivesse efeitos para o futuro. Fundamentalmente, é isso que pretendemos, além de se sanar, agora, no presente, o caso em curso, que é o da lei da reforma agrária.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, então é relevante a minha afirmação de que há processos expeditos e são esses processos que não podem passar, que aqui estamos a reprovar. Creio que isto é que é essencial.\nSr. Presidente, para que nos entendamos em relação a esta matéria e para que, de futuro, não tenhamos - volto a sublinhar - casos semelhantes a este, seria bom que esta chamada de atenção tivesse efeitos para o futuro. Fundamentalmente, é isso que pretendemos, além de se sanar, agora, no presente, o caso em curso, que é o da lei da reforma agrária.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, não tem efeitos para futuro, embora me não possa responsabilizar por lapsos daqui até ao fim da humanidade.\nApenas gostaria de dizer que não houve um processo chamado expedito, no mau sentido do termo. Houve um lapso, que reconheço e que procurei sanar dentro de um estado de relacionamento normal, tomando as iniciativas prévias para evitar situações menos agradáveis.\nTem a palavra o Sr. Deputado Narana Coissoró.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, não tem efeitos para futuro, embora me não possa responsabilizar por lapsos daqui até ao fim da humanidade.\nApenas gostaria de dizer que não houve um processo chamado expedito, no mau sentido do termo. Houve um lapso, que reconheço e que procurei sanar dentro de um estado de relacionamento normal, tomando as iniciativas prévias para evitar situações menos agradáveis.\nTem a palavra o Sr. Deputado Narana Coissoró.\n4816 I SÉRIE - NÚMERO 121", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "4816 I SÉRIE - NÚMERO 121", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, gostaria de referir que há uma norma de cortesia que V. Ex.ª seguiu - e muito bem -, no sentido de dizer à Presidência da República que a remessa que tinha feito ia gatada, de modo que se enviavam os textos verdadeiros. Até aqui está muito bem, mas isso é no plano de cortesia.\nPorém, temos de ver como é que é no plano legislativo e, tal como disse o Sr. Deputado Duarte Lima, tem de se reiniciar o processo, isto é, tem de se anular aquele ofício com que seguiu a remessa do texto e fazer um novo ofício.\nQuanto à cortesia, o Sr. Presidente procedeu muito bem, mas a cortesia não sana a ilegalidade.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): Sr. Presidente, gostaria de referir que há uma norma de cortesia que V. Ex.ª seguiu - e muito bem -, no sentido de dizer à Presidência da República que a remessa que tinha feito ia gatada, de modo que se enviavam os textos verdadeiros. Até aqui está muito bem, mas isso é no plano de cortesia.\nPorém, temos de ver como é que é no plano legislativo e, tal como disse o Sr. Deputado Duarte Lima, tem de se reiniciar o processo, isto é, tem de se anular aquele ofício com que seguiu a remessa do texto e fazer um novo ofício.\nQuanto à cortesia, o Sr. Presidente procedeu muito bem, mas a cortesia não sana a ilegalidade.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, já anunciei que ia fazer isso, e só não o fiz para ter em conta os termos exactos em que devo enviar o diploma.\nSrs. Deputados, p Sr. Secretário vai proceder à leitura de um relatório e parecer da Comissão de Regimento e Mandatos.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, já anunciei que ia fazer isso, e só não o fiz para ter em conta os termos exactos em que devo enviar o diploma.\nSrs. Deputados, p Sr. Secretário vai proceder à leitura de um relatório e parecer da Comissão de Regimento e Mandatos.", 
-   "type": "continuacao"
-  }, 
-  {
-   "party": "Daniel Bastos): O relatório e parecer é do seguinte teor", 
-   "speaker": "O Sr. *Secretário*", 
-   "text": "", 
-   "type": "continuacao"
+   "party": "Daniel Bastos", 
+   "speaker": "Secretário", 
+   "text": "O relatório e parecer é do seguinte teor:", 
+   "type": "secretario"
   }, 
   {
    "speaker": "Em reunião da Comissão Permanente de 28 de Julho de 1988, pelas 15 horas e 30 minutos, foram observadas as seguintes substituições de deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "Em reunião da Comissão Permanente de 28 de Julho de 1988, pelas 15 horas e 30 minutos, foram observadas as seguintes substituições de deputados", 
    "text": "1) Solicitada pelo Partido Socialista: \n2) \nCarlos Manuel Martins do Vale César (círculo eleitoral dos Açores), por Maria Ana Eiró da Silva Medeiros. Esta substituição é pedida nos termos da alínea b) do n.º 2 do artigo 5.º da Lei n.º 3/85, de 13 de Março (Estatuto dos Deputados), a partir do dia 1 de Agosto até ao dia 15 de Novembro, inclusive.", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
    "speaker": "3) Solicitadas pelo Partido Comunista", 
    "text": "", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "3) Solicitadas pelo Partido Comunista", 
    "text": "Álvaro Barreirinhas Cunhal (círculo eleitoral de Lisboa), por Octávio Augusto Teixeira. Esta substituição é pedida nos termos da alínea b) do n.º 2 do artigo 5.º da Lei n.º 3/85, de 13 de Março (Estatuto dos Deputados), por um período de seis meses, a partir de 13 de Agosto, inclusive.\nCarlos Manuel Ferreira da Paz Ramildes (círculo eleitoral de Setúbal), por Apolónia Maria Alberto Pereira Teixeira. Esta substituição é pedida nos termos da alínea 6) do n.º 2 do artigo 5.º da Lei n.º 3/85, de 13 de Março (Estatuto dos Deputados) por um período de seis meses, a partir de 14 de Agosto, inclusive.\nJosé Rodrigues Vitoriano (círculo eleitoral de Setúbal), por Álvaro Manuel Balseiro Amaro. Esta substituição é pedida nos termos da alínea b) do n.º 2 do artigo 5.º da Lei n.º 3/85, de 13 de Março (Estatuto dos Deputados), a partir de 14 de Agosto, inclusive, por um período não inferior a quinze dias.", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "3) Solicitadas pelo Partido Comunista", 
    "text": "Analisados os documentos pertinentes de que a Comissão dispunha, verificou-se que os substitutos indicados são realmente os candidatos não eleitos que devem ser chamados ao exercício de funções, \nconsiderando a ordem de precedência das respectivas listas eleitorais apresentadas a sufrágio pelos aludidos Partidos nos concernentes círculos eleitorais.\nForam observados os preceitos regimentais e legais aplicáveis.\nFinalmente, a Comissão entende proferir o seguinte parecer:", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "3) Solicitadas pelo Partido Comunista", 
    "text": "As substituições em causa são de admitir, uma vez que se encontram verificados os requisitos legais.", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
+   "speaker": "3) Solicitadas pelo Partido Comunista", 
    "text": "Os Deputados: Miguel Macedo (PSD) - Jorge Sampaio (PS) - Maia Nunes de Almeida (PCP) - Narana Coissoró (CDS) - Marques Júnior (PRD).", 
-   "type": "continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos votar.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Vamos votar.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação» foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vai ser lida uma proposta de resolução da Assembleia da República solicitando o assentimento da Comissão Permanente para uma deslocação ao Equador, entre os dias 8 e 13 do próximo mês de Agosto, do Sr. Presidente da República.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -340,100 +396,127 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Jorge Lacão* (PS): Sr. Presidente, apenas gostaria de dizer que estamos totalmente de acordo com a sugestão feita.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Jorge Lacão", 
+   "text": "Sr. Presidente, apenas gostaria de dizer que estamos totalmente de acordo com a sugestão feita.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, em resumo, a sugestão é esta: \nconvocar uma reunião do Plenário para o dia 8 de Setembro, às IS horas.\nA eleição terá lugar entre as 15 e as 18 horas. Na véspera, ou seja, no dia 7 de Setembro, terá lugar uma conferência de líderes e as listas poderão ser entregues até ao fim desse dia.\nHá alguma oposição?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, em resumo, a sugestão é esta: \nconvocar uma reunião do Plenário para o dia 8 de Setembro, às IS horas.\nA eleição terá lugar entre as 15 e as 18 horas. Na véspera, ou seja, no dia 7 de Setembro, terá lugar uma conferência de líderes e as listas poderão ser entregues até ao fim desse dia.\nHá alguma oposição?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Tem a palavra o Sr. Deputado Carlos Brito.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, em nome do meu grupo parlamentar, gostaria de manifestar o nosso acordo ao plano proposto por V. Ex.ª.\nAquando da conferência dos grupos parlamentares apresentaremos uma sugestão no sentido de na agenda de trabalhos dessa reunião plenária haver período de antes da ordem do dia, pois parece-nos que tal terá cabimento depois de um período de suspensão dos trabalhos.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, em nome do meu grupo parlamentar, gostaria de manifestar o nosso acordo ao plano proposto por V. Ex.ª.\nAquando da conferência dos grupos parlamentares apresentaremos uma sugestão no sentido de na agenda de trabalhos dessa reunião plenária haver período de antes da ordem do dia, pois parece-nos que tal terá cabimento depois de um período de suspensão dos trabalhos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Narana Coissoró.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Narana Coissoró.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): Sr. Presidente, também damos o nosso assentimento à reunião do Plenário e à eleição dos membros para o conselho consultivo da Lei da Radiodifusão no dia 8 de Setembro.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, também damos o nosso assentimento à reunião do Plenário e à eleição dos membros para o conselho consultivo da Lei da Radiodifusão no dia 8 de Setembro.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Vieira Mesquita.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vieira Mesquita.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Vieira Mesquita* (PSD): Sr. Presidente, também damos \nassentimento à proposta de V. Ex.ª no sentido de haver uma reunião plenária no dia 8 de Setembro.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Vieira Mesquita", 
+   "text": "Sr. Presidente, também damos assentimento à proposta de V. Ex.ª no sentido de haver uma reunião plenária no dia 8 de Setembro.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Marques Júnior.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Marques Júnior.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Marques Júnior* (PRD): Sr. Presidente, damos igualmente o nosso assentimento relativamente a essa proposta.", 
-   "type": "documento"
+   "party": "PRD", 
+   "speaker": "Marques Júnior", 
+   "text": "Sr. Presidente, damos igualmente o nosso assentimento relativamente a essa proposta.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Então, estamos de acordo.\nSrs. Deputados, visto termos esgotado a ordem do dia estabelecida para esta reunião da Comissão Permanente, resta-me desejar boas férias.\nEstá encerrada a reunião.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Então, estamos de acordo.\nSrs. Deputados, visto termos esgotado a ordem do dia estabelecida para esta reunião da Comissão Permanente, resta-me desejar boas férias.\nEstá encerrada a reunião.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 16 horas e 5 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "A REDACTORA PRINCIPAL: Ana Maria Marques da Cruz.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "DIÁRIO da Assembleia da República", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Depósito legal n.º 8818/85", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "IMPRENSA NACIONAL-CASA DA MOEDA, E. P.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "AVISO", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Por ordem superior e para constar, comunica-se que não serão aceites quaisquer originais destinados ao Diário da República desde que não tragam aposta a competente ordem de publicação, assinada e autenticada com selo branco.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "1 - Preço de página para venda avulso, 4$50; preço por linha de anúncio, 93$.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "2 - Para os novos assinantes do Diário da Assembleia da República, o período da assinatura será compreendido de Janeiro a Dezembro de cada ano. Os números publicados em Novembro e Dezembro do ano anterior que completam a legislatura serio adquiridos ao preço de capa.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "3 - Os prazos de reclamação de faltas do Diário da Republica para o continente e regiões autónomas e estrangeiro são, respectivamente, de 30 e 90 dias à data da sua publicação.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "PREÇO DESTE NÚMERO 36$00", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Toda a correspondência, quer relativa a anúncios e a assinaturas, do «Diário da República» e do «Diário da Assembleia da República» deve ser dirigida à administração da Imprensa Nacional-Casa da Moeda, E., P., Rua de D. Francisco Manuel de Melo, 5-1099 Lisboa Codex.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

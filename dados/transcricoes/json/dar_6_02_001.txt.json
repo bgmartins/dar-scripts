@@ -41,8 +41,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 15 horas e 30 minutos.", 
@@ -51,33 +52,43 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Abílio Sousa e Silva.\nAdérito Manuel Soares Campos.\nAdriano da Silva Pinto.\nAlberto Monteiro de Araújo.\nÁlvaro Roque de Pinho Bissaia Barreto.\nÁlvaro José Martins Viegas.\nAna Paula Matos Barros.\nAnabela Honório Matias.\nJosé Ângelo Ferreira Correia.\nAntónio Manuel Fernandes Alves.\nAntónio José Barradas Leitão.\nAntónio de Carvalho Martins.\nAntónio Maria Pereira.\nAntónio Esteves Morgado.\nAntónio Germano Fernandes de Sá e Abreu.\nAntónio Joaquim Correia Vairinhos.\nFrancisco Antunes da Silva.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "ristides Alves do Nascimento Teixeira.\nArlindo da Silva André Moreira.\nArmando de Carvalho Guerreiro da Cunha.\nArménio dos Santos.\nAntónio Moreira Barbosa de Melo.\nBelarmino Henriques Correia.\nBernardino Gata Silva.\nAntónio do Carmo Branco Malveiro.\nFernando Manuel Alves Cardoso Ferreira.\nJoaquim Cardoso Martins.\nCarlos de Almeida Figueiredo.\nCarlos Miguel Maximiano de Almeida Coelho.\nCarlos Manuel Duarte de Oliveira.\nCarlos Lélis da Câmara Gonçalves.\nCarlos Manuel Marta Gonçalves.\nCarlos Manuel de Oliveira da Silva.\nCarlos Alberto Lopes Pereira.\nCarlos Miguel de Vallere Pinheiro de Oliveira.\nManuel Albino Casimiro de Almeida.\nManuel Castro de Almeida.\nAlberto Cerqueira de Oliveira.\nCipriano Rodrigues Martins.\nMaria da Conceição Ulrich de Castro Pereira.\nFernando José Russo Roque Correia Afonso.\nDelmar Ramiro Palas.\nDomingos José Soares d'Almeida Lima.\nDomingos Duarte Lima.\nDuarte Rogério Matos Ventura Pacheco.\nJoaquim Eduardo Gomes.\nEduardo Alfredo de Carvalho Pereira da Silva.\nElói Franklin Fernandes Ribeiro.\nEma Maria Pereira Leite Lóia Paulista.\nJosé Bernardo Veloso Falcão e Cunha.\nJoaquim Maria Fernandes Marques.\nFernando Monteiro do Amaral.\nFernando Carlos Branco Marques de Andrade.\nFernando dos Reis Condesso.\nFernando José Antunes Gomes Pereira.\nFernando Santos Pereira.\nFilipe Manuel da Silva Abreu.\nFrancisco João Bernardino da Silva.\nFrancisco José Fernandes Martins.\nGuido Orlando de Freitas Rodrigues.\nGuilherme Henrique Valente Rodrigues da Silva.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "aria Helena Falcão Ramos Ferreira Mourão.\nHilário Torres Azevedo Marques.\nIsilda Maria Renda Periquito Pires Martins.\nJaime Gomes Mil-Homens.\nJoão Alberto Granja dos Santos Silva.\nJoão Granja Rodrigues da Fonseca.\nJoão Manuel dos Santos Henriques.\nJoão José Pedreira de Matos.\nJoão José da Silva Maçãs.\nJoão do Lago de Vasconcelos Mota.\nJoão Maria Leitão de Oliveira Martins.\nJoão Álvaro Poças Santos.\nJoão Domingos Fernandes de Abreu Salgado.\nJoaquim Vilela de Araújo.\nJorge Paulo de Seabra Roque da Cunha.\nJosé de Almeida Cesário.\nJosé Fortunato Freitas Costa Leite.\nJosé Júlio Carvalho Ribeiro.\nJosé Manuel Borregana Meireles.\nJosé Alberto Puig dos Santos Costa.\nJosé Guilherme Reis Leite.\nJosé Manuel da Silva Costa.\nJosé Leite Machado.\nJosé Mário de Lemos Damião.\nLeonardo Eugénio Ramos Ribeiro de Almeida.\nMaria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\nManuel de Lima Amorim.\nLuís António Carrilho da Cunha.\nLuís Manuel Costa Geraldes.\nLuís António Martins.\nLuís Carlos David Nobre.\nLuís Filipe Garrido Pais de Sousa.\nMaria de Lurdes Borges Póvoa Costa.\nManuel Joaquim Baptista Cardoso.\nManuel Maria Moreira.\nManuel da Silva Azevedo.\nMaria Manuela Aguiar Dias Moreira.\nMaria Margarida da Costa e Silva Pereira Taveira de Sousa.\nMaria da Conceição Figueira Rodrigues.\nMaria José Paulo Caixeiro Barbosa Correia.\nMaria Luísa Lourenço Ferreira.\nMarília Dulce Coelho Pires Morgado Raimundo.\nMário Jorge Belo Maciel.\nMelchior Ribeiro Pereira Moreira.\nMiguel Bento Martins da Costa de Macedo e Silva.\nMiguel Fernando Cassola de Miranda Relvas.\nAntónio José Caeiro da Mota Veiga.\nNuno Francisco Fernandes Delerue Alvim de Matos.\nOlinto Henrique da Cruz Ravara.\nJosé Álvaro Machado Pacheco Pereira.\nAntónio Paulo Martins Pereira Coelho.\nJosé Pereira Lopes.\nManuel Simões Rodrigues Marques.\nRui Carlos Alvarez Carp.\nRui Manuel Lobo Gomes da Silva.\nRui Manuel Parente Chancerelle de Machete.\nRui Fernando da Silva Rio.\nRui Alberto Limpo Salvada.\nJosé Augusto Santos da Silva Marques.\nSimão José Ricon Peres.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "16 DE OUTUBRO DE 1992 3", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Vasco Francisco Aguiar Miguel.\nVirgílio de Oliveira Carneiro.\nVítor Pereira Crespo.\nVítor Manuel da Igreja Raposo.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -138,77 +149,76 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Antes de dar a palavra aos representantes dos grupos parlamentares, cabe-me satisfazer um compromisso que assumi perante S. Ex.ª o Sr. Presidente da República, que é o de explicar a sua ausência nesta cerimónia, assim como exprimir os sentimentos de muita consideração que manifesta por esta Câmara, que fez questão que fossem lembrados nesta oportunidade.\nEm 9 de Outubro passado, uma delegação, por mim presidida, deslocou-se ao Palácio de Belém, a fim de comunicar ao Sr. Presidente da República a muita honra que a Assembleia da República teria em ver S. Ex.ª ocupar o seu lugar nesta Mesa durante a cerimónia inaugural da 2.ª sessão legislativa.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Antes de dar a palavra aos representantes dos grupos parlamentares, cabe-me satisfazer um compromisso que assumi perante S. Ex.ª o Sr. Presidente da República, que é o de explicar a sua ausência nesta cerimónia, assim como exprimir os sentimentos de muita consideração que manifesta por esta Câmara, que fez questão que fossem lembrados nesta oportunidade.\nEm 9 de Outubro passado, uma delegação, por mim presidida, deslocou-se ao Palácio de Belém, a fim de comunicar ao Sr. Presidente da República a muita honra que a Assembleia da República teria em ver S. Ex.ª ocupar o seu lugar nesta Mesa durante a cerimónia inaugural da 2.ª sessão legislativa.\n4 I SÉRIE - NÚMERO 1", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "4 I SÉRIE - NÚMERO 1", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Infelizmente, o Sr. Presidente da República tinha compromissos no estrangeiro, a partir do dia 14 de Outubro, que não podia, de todo em todo, adiar. Por isso, pediu-me para deixar bem clara a razão da sua ausência e para, ao mesmo tempo, lembrar a sua firme e profunda convicção quanto à essencialidade da instituição parlamentar na democracia e a importância decisiva que S. Ex.ª atribui ao Parlamento, na prática constitucional e política do nosso país.\nEis uma incumbência que, gostosamente, cumpro perante VV. Ex.ªs.\nEntretanto, vou dar a palavra a cada um dos grupos parlamentares, por cinco minutos e pela ordem crescente do seu número de Deputados.\nTem a palavra o representante de Os Verdes, Sr. Deputado André Martins.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. André Martins (Os Verdes): Sr. Presidente, Srs Membros do Governo, Sr.ªs e Srs. Deputados, minhas Senhoras e meus Senhores: A Assembleia da República, como segundo órgão de soberania na hierarquia do Estado democrático, deverá constituir o centro do exercício do poder democrático, por excelência, tanto pela diversidade das correntes de opinião nela representadas, como pela riqueza do confronto de ideias e propostas que tal situação propícia.\nNeste entendimento do papel e da função da instituição parlamentar pelas competências que lhe estão atribuídas, designadamente no incremento do sistema democrático e no aprofundamento das virtualidades da democracia participativa, condições inerentes a um desenvolvimento harmonioso da sociedade portuguesa, importaria que a Assembleia da República fosse mais prestigiada e dignificada aos olhos dos Portugueses.\nPorque consideramos que, por diversas formas, a imagem do Parlamento português, ao longo dos últimos anos, não só não tem sido devidamente dignificada como em muitos casos tem sido mesmo denegrida, não sendo pouco comum ouvir acusar a Assembleia da República de não dar resposta célere e adequada a problemas da sociedade portuguesa, assim como ouvir acusar os Deputados de falta de transparência na sua actividade política e vida particular, e tudo isto, não com o sentido de contribuir para o esclarecimento necessário mas quase sempre para fazer notícia ou fabricar factos políticos, entendemos que compete à própria Assembleia da República pugnar pela transparência da sua actividade, pela dignificação dos seus actos e pelo prestígio dos seus \nrepresentantes.\nÉ em conformidade com estas preocupações e porque consideramos que mais vale tarde que nunca que queremos salientar a iniciativa do Sr.Presidente da Assembleia da República em promover esta sessão solene na abertura da 2.ª sessão legislativa da VI Legislatura, durante a qual esperamos que a imagem de prestígio e de dignidade deste órgão de soberania possa ser recuperada junto dos Portugueses.\nNo entender do Partido Ecologista Os Verdes algumas situações requerem maior transparência e esclarecimento, tendo em conta a forma como a actual maioria parlamentar tem condicionado a acção do Parlamento na fiscalização da actividade governativa e o exercício pleno da intervenção dos partidos da oposição, tanto no plano das iniciativas legislativas como na realização de debates de confronto com o Governo sobre os mais diversos assuntos de interesse para o País.\nSe até agora são conhecidos vários exemplos que têm condicionado a actividade da Assembleia da República, pelo que está em debate em sede de reforma do Parlamento e tem sido defendido à intransigência pelo PSD, são de esperar, em nosso entender, novos e mais condicionamentos à plena actividade parlamentar.\nA diminuição do número de sessões plenárias, a recusa de maior transparência nos inquéritos parlamentares e a limitação das condições da vinda dos membros do Governo à Assembleia da República são exemplos dos mais significativos constrangimentos ao exercício das competências da Assembleia da República e da oposição parlamentar.\nPor esta forma não é dignificado o Parlamento nem prestigiada a acção dos parlamentares.\nSão estas as questões que o Grupo Parlamentar do Partido Ecologista Os Verdes deixa à consideração da Assembleia e dos Srs. Deputados, no início desta 2.ª sessão legislativa da presente Legislatura.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, Srs Membros do Governo, Sr.ªs e Srs. Deputados, minhas Senhoras e meus Senhores: A Assembleia da República, como segundo órgão de soberania na hierarquia do Estado democrático, deverá constituir o centro do exercício do poder democrático, por excelência, tanto pela diversidade das correntes de opinião nela representadas, como pela riqueza do confronto de ideias e propostas que tal situação propícia.\nNeste entendimento do papel e da função da instituição parlamentar pelas competências que lhe estão atribuídas, designadamente no incremento do sistema democrático e no aprofundamento das virtualidades da democracia participativa, condições inerentes a um desenvolvimento harmonioso da sociedade portuguesa, importaria que a Assembleia da República fosse mais prestigiada e dignificada aos olhos dos Portugueses.\nPorque consideramos que, por diversas formas, a imagem do Parlamento português, ao longo dos últimos anos, não só não tem sido devidamente dignificada como em muitos casos tem sido mesmo denegrida, não sendo pouco comum ouvir acusar a Assembleia da República de não dar resposta célere e adequada a problemas da sociedade portuguesa, assim como ouvir acusar os Deputados de falta de transparência na sua actividade política e vida particular, e tudo isto, não com o sentido de contribuir para o esclarecimento necessário mas quase sempre para fazer notícia ou fabricar factos políticos, entendemos que compete à própria Assembleia da República pugnar pela transparência da sua actividade, pela dignificação dos seus actos e pelo prestígio dos seus \nrepresentantes.\nÉ em conformidade com estas preocupações e porque consideramos que mais vale tarde que nunca que queremos salientar a iniciativa do Sr.Presidente da Assembleia da República em promover esta sessão solene na abertura da 2.ª sessão legislativa da VI Legislatura, durante a qual esperamos que a imagem de prestígio e de dignidade deste órgão de soberania possa ser recuperada junto dos Portugueses.\nNo entender do Partido Ecologista Os Verdes algumas situações requerem maior transparência e esclarecimento, tendo em conta a forma como a actual maioria parlamentar tem condicionado a acção do Parlamento na fiscalização da actividade governativa e o exercício pleno da intervenção dos partidos da oposição, tanto no plano das iniciativas legislativas como na realização de debates de confronto com o Governo sobre os mais diversos assuntos de interesse para o País.\nSe até agora são conhecidos vários exemplos que têm condicionado a actividade da Assembleia da República, pelo que está em debate em sede de reforma do Parlamento e tem sido defendido à intransigência pelo PSD, são de esperar, em nosso entender, novos e mais condicionamentos à plena actividade parlamentar.\nA diminuição do número de sessões plenárias, a recusa de maior transparência nos inquéritos parlamentares e a limitação das condições da vinda dos membros do Governo à Assembleia da República são exemplos dos mais significativos constrangimentos ao exercício das competências da Assembleia da República e da oposição parlamentar.\nPor esta forma não é dignificado o Parlamento nem prestigiada a acção dos parlamentares.\nSão estas as questões que o Grupo Parlamentar do Partido Ecologista Os Verdes deixa à consideração da Assembleia e dos Srs. Deputados, no início desta 2.ª sessão legislativa da presente Legislatura.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o representante do CDS, Sr. Deputado Narana Coissoró.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante do CDS, Sr. Deputado Narana Coissoró.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Narana Coissoró* (CDS): Sr. Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo, Srs. Altos Dignatários do Estado, Sr.ªs e Srs.Deputados: A sessão legislativa que hoje começa vai ser historicamente marcada pela responsabilidade que cabe à Assembleia da República de se pronunciar sobre o Tratado de Maastricht, que desencadeou na Europa o debate a respeito da reforma que deve assumir a unidade política da Europa, com a qual se procura substituir um passado de conflitos por um futuro de cooperação e solidariedade entre os diversos povos europeus.\nAs circunstâncias do debate em curso, além de demonstrarem que os povos estão a ser conduzidos para uma nova estrutura a respeito da qual não recebem suficiente informação, também demonstram que os signatários daquele Tratado não coincidem na visão da arquitectura que propõem.\nHá quem procure a união política dos Estados e nações que a história identificou na Europa; há quem entenda dever abandonar esses pilares da cultura europeia para transformar o grande espaço aberto numa Europa das regiões.\nHá fortes indícios de que ainda não está afastada, pelo menos por parte de alguns responsáveis políticos europeus, a ideia de um directório restrito que assuma o poder hegemónico, tantas vezes procurado no passado por outros meios.\nInsistimos, por isso, na evidente necessidade de um amplo debate nacional que conduza a uma decisão participada pelo povo português, porque de uma população esclarecida pelo debate não há que recear que transformem o País em imprevisível. Bem ao contrário, é a falta do controlo pela opinião pública que consente o europeísmo confidencial e que permite a imprevisão das decisões do Governo.\nÉ nesta linha que não queremos deixar de saudar a intervenção do Presidente da República, que, no exercício daquilo a que chama a sua \"magistratura de influência\", vem aconselhando um grande debate nacional e que, se, dando provas de prudência, não aconselha publicamente o referendo, todavia não se lhe opõe, como é do conhecimento público.\nTemos muitas vezes, nesta Câmara, chamado a atenção, ao longo dos anos, para a evolução do País no sentido de", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo, Srs. Altos Dignatários do Estado, Sr.ªs e Srs.Deputados: A sessão legislativa que hoje começa vai ser historicamente marcada pela responsabilidade que cabe à Assembleia da República de se pronunciar sobre o Tratado de Maastricht, que desencadeou na Europa o debate a respeito da reforma que deve assumir a unidade política da Europa, com a qual se procura substituir um passado de conflitos por um futuro de cooperação e solidariedade entre os diversos povos europeus.\nAs circunstâncias do debate em curso, além de demonstrarem que os povos estão a ser conduzidos para uma nova estrutura a respeito da qual não recebem suficiente informação, também demonstram que os signatários daquele Tratado não coincidem na visão da arquitectura que propõem.\nHá quem procure a união política dos Estados e nações que a história identificou na Europa; há quem entenda dever abandonar esses pilares da cultura europeia para transformar o grande espaço aberto numa Europa das regiões.\nHá fortes indícios de que ainda não está afastada, pelo menos por parte de alguns responsáveis políticos europeus, a ideia de um directório restrito que assuma o poder hegemónico, tantas vezes procurado no passado por outros meios.\nInsistimos, por isso, na evidente necessidade de um amplo debate nacional que conduza a uma decisão participada pelo povo português, porque de uma população esclarecida pelo debate não há que recear que transformem o País em imprevisível. Bem ao contrário, é a falta do controlo pela opinião pública que consente o europeísmo confidencial e que permite a imprevisão das decisões do Governo.\nÉ nesta linha que não queremos deixar de saudar a intervenção do Presidente da República, que, no exercício daquilo a que chama a sua \"magistratura de influência\", vem aconselhando um grande debate nacional e que, se, dando provas de prudência, não aconselha publicamente o referendo, todavia não se lhe opõe, como é do conhecimento público.\nTemos muitas vezes, nesta Câmara, chamado a atenção, ao longo dos anos, para a evolução do País no sentido de", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
    "text": "16 DE OUTUBRO DE 1992 5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
    "text": "Estado exíguo, e, por isso, não temos hesitado em fazer doutrina sobre inevitáveis transferências de soberania (eufemisticamente chamadas partilhas de soberania) na ordem internacional. Mas, para nós, é bem claro que não queremos um federalismo que estabeleça uma hierarquia das potências; não queremos um federalismo que se afaste da concepção paradigmática que inspirou as Nações Unidas; não queremos que as pátrias europeias se transformem em arquiducados do novo poder imperial.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
    "text": "processo europeu pode levar a insistir na não revisão do Tratado de Maastricht para salvar a face dos signatários. Mas o caminho está aberto e tem de ser seguido no sentido de realmente o fazer modificar, seja por via dos anexos, dos apêndices, dos protocolos, das adendas, etc., no sentido de corresponder aos valores de identidade, igual dignidade, liberdade e independência dos Estados, em tudo o que não corresponda à interdependência neste fim de século.\nPor tudo isto, é fundamental que o Regimento desta Assembleia, em vésperas de revisão, e que está formalmente na dependência exclusiva da maioria, não acrescente - com a diminuição do Estatuto dos Deputados - a diminuição política da instituição parlamentar, como temos sido conduzidos durante todo o processo da definição da união política europeia.\nA história não vai compreender que neste momento o problema do Parlamento seja o de adquirir competências na gestão do processo europeu, quando, tratando-se de soberania, apenas deverá estar a cuidar das competências que estaria disposto a ceder em favor dos organismos comunitários.\nNão é apenas a dignidade do Parlamento que está em causa, é a dignidade do Estado; não é apenas o poder de um executivo cioso que está em causa, estão em causa a cooperação e a interdependência de vários poderes do Estado; não é o poder da maioria que está em causa, é a vontade da comunidade nacional que não votou nenhum programa abrangente desta matéria que cumpre respeitar; não é apenas o caudal das ajudas financeiras que nos deve interessar, é a integridade dos valores da comunidade portuguesa que nos deve inspirar; não é a salvaguarda do carisma de qualquer dirigente que nos deve preocupar, é a salvaguarda da dignidade das gerações futuras que nos deve animar.\nÉ fazendo este apelo à humildade, que foi, é e deve ser a virtude dos autênticos servidores do Estado, que devemos tirar a lição dos erros cometidos neste processo europeu, registar a gravidade do divórcio que se desenvolveu entre as populações e os órgãos responsáveis \ncomunitários, sublinhar a ignorância em que os eleitorados são mantidos com evidente reflexo na insuficiência da representação parlamentar e nas inesperadas manifestações de memórias agressivas entre membros de mesmas nações, tudo com grave dano para a realização dos valores que identificam a grande família europeia dos projectistas da paz, que contra tudo isto tinham prevenido e que em relação a tudo isto foram esquecidos.\nEspero que, nesta histórica sessão legislativa que hoje se inicia, a experiência vivida nos congregue a todos e aos vários poderes do Estado aqui representados, no sentido de entendermos que o único valor que sobreleva todos os demais é o interesse de Portugal.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante do PCP, Sr. Deputado Octávio Teixeira.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Octávio Teixeira", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.ªs e Srs. Convidados, Srs. Deputados: Na abertura desta sessão legislativa, o Grupo Parlamentar do PCP entende explicitar o que, para nós, serão algumas das principais questões que \nnecessariamente exigirão a atenção dos Deputados comunistas. Isto é, problemas reais que afectam a sociedade portuguesa e cuja procura de solução orientará a nossa intervenção parlamentar.\nNão temos dúvidas de que esta sessão legislativa será enquadrada pela deterioração progressiva da actividade produtiva nacional e pela acção do Governo no sentido de transferir para os trabalhadores e outras camadas sociais os custos da sua política de recessão. Interviremos no sentido de inverter essa situação e combater aquela acção do Governo.\nA proposta de Orçamento do Estado para 1993 é paradigmática.\nApresenta-se com uma orientação restritiva, desajustada da situação que a economia portuguesa atravessa, escolhe como principais \"bodes expiatórios\" das inadequadas orientações governamentais os \ntrabalhadores da função pública, agrava a injustiça fiscal contra os que vivem dos rendimentos do trabalho e retrai os encargos com as funções sociais que ao Estado competem.\nO Grupo Parlamentar do PCP intervirá no debate orçamental, nomeadamente no sentido da defesa dos legítimos direitos dos trabalhadores da administração do Estado e da redução da injustiças fiscais.\nParalelamente, e em íntima relação com a política orçamental restritiva, o País vê-se confrontado com o crescente abandono pelo Estado das funções sociais que constitucionalmente lhe incumbem e a sua transferência para a órbita das actividades empresariais com fins lucrativos.\nParadigmático é o que se passa com a saúde e a educação.\nNeste âmbito, o Grupo Parlamentar do PCP combaterá, de forma enérgica, a recente decisão do Governo de proceder à privatização da saúde, continuando a preverter o constitucionalmente consagrado, e \ndefenderemos que a todos os portugueses seja garantido o acesso à prestação dos cuidados de saúde, independentemente da sua condição económica.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Igualmente estarão na ordem do dia da nossa intervenção parlamentar as expressões concretas de degradação e de crise no sistema educativo nacional, desde o ensino superior público ao ensino especial, desde o modelo de gestão ao sistema de propinas.\nSendo apenas uma dessas expressões, impõe-se o realismo por parte da Assembleia da República no sentido de reanálise de todo o processo relativo ao sistema de propinas.\nQuestão de importância fundamental para o futuro de Portugal, a problemática do Tratado da União Europeia estará igualmente no centro da nossa intervenção neste reinício dos trabalhos parlamentares.\nÉ politicamente insustentável que a Assembleia da República, nomeadamente através da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, que está neste momento a proceder aos trabalhos de revisão constitucional, continue a actuar sem ter em atenção o que se passa no mundo real.\nÉ inaceitável que a convergência entre os Grupos Parlamentares do PSD e do PS insista em inviabilizar o", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o representante do PCP, Sr. Deputado Octávio Teixeira.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Octávio Teixeira* (PCP): Sr. Presidente, Srs. Membros do Governo, Sr.ªs e Srs. Convidados, Srs. Deputados: Na abertura desta sessão legislativa, o Grupo Parlamentar do PCP entende explicitar o que, para nós, serão algumas das principais questões que \nnecessariamente exigirão a atenção dos Deputados comunistas. Isto é, problemas reais que afectam a sociedade portuguesa e cuja procura de solução orientará a nossa intervenção parlamentar.\nNão temos dúvidas de que esta sessão legislativa será enquadrada pela deterioração progressiva da actividade produtiva nacional e pela acção do Governo no sentido de transferir para os trabalhadores e outras camadas sociais os custos da sua política de recessão. Interviremos no sentido de inverter essa situação e combater aquela acção do Governo.\nA proposta de Orçamento do Estado para 1993 é paradigmática.\nApresenta-se com uma orientação restritiva, desajustada da situação que a economia portuguesa atravessa, escolhe como principais \"bodes expiatórios\" das inadequadas orientações governamentais os \ntrabalhadores da função pública, agrava a injustiça fiscal contra os que vivem dos rendimentos do trabalho e retrai os encargos com as funções sociais que ao Estado competem.\nO Grupo Parlamentar do PCP intervirá no debate orçamental, nomeadamente no sentido da defesa dos legítimos direitos dos trabalhadores da administração do Estado e da redução da injustiças fiscais.\nParalelamente, e em íntima relação com a política orçamental restritiva, o País vê-se confrontado com o crescente abandono pelo Estado das funções sociais que constitucionalmente lhe incumbem e a sua transferência para a órbita das actividades empresariais com fins lucrativos.\nParadigmático é o que se passa com a saúde e a educação.\nNeste âmbito, o Grupo Parlamentar do PCP combaterá, de forma enérgica, a recente decisão do Governo de proceder à privatização da saúde, continuando a preverter o constitucionalmente consagrado, e \ndefenderemos que a todos os portugueses seja garantido o acesso à prestação dos cuidados de saúde, independentemente da sua condição económica.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Igualmente estarão na ordem do dia da nossa intervenção parlamentar as expressões concretas de degradação e de crise no sistema educativo nacional, desde o ensino superior público ao ensino especial, desde o modelo de gestão ao sistema de propinas.\nSendo apenas uma dessas expressões, impõe-se o realismo por parte da Assembleia da República no sentido de reanálise de todo o processo relativo ao sistema de propinas.\nQuestão de importância fundamental para o futuro de Portugal, a problemática do Tratado da União Europeia estará igualmente no centro da nossa intervenção neste reinício dos trabalhos parlamentares.\nÉ politicamente insustentável que a Assembleia da República, nomeadamente através da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, que está neste momento a proceder aos trabalhos de revisão constitucional, continue a actuar sem ter em atenção o que se passa no mundo real.\nÉ inaceitável que a convergência entre os Grupos Parlamentares do PSD e do PS insista em inviabilizar o", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "6 I SÉRIE - NÚMERO 1", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "debate nacional e o esclarecimento popular sobre o Tratado de Maastricht e queiram impedir que sobre ele o povo português se possa pronunciar.\nPor nós, continuaremos a pugnar pela realização de um referendo sobre a problemática do Tratado da União Europeia.", 
    "type": "deputado_continuacao"
   }, 
@@ -217,7 +227,7 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do PCP entende que a Assembleia da República deve debater todas estas questões com profundidade.\nPor isso nos opomos a todas as tentativas da maioria para diminuir e sujeitar à governamentalização o debate político parlamentar, para restringir a intervenção e a voz da oposição no Plenário da Assembleia da República.\nPrivilegiaremos, na nossa intervenção, os problemas concretos e reais que se colocam ao País e aos Portugueses e apresentaremos novas iniciativas, como as que acabámos de aprovar nas nossas Jornadas Parlamentares realizadas há dois dias.\nEntendemos que é contribuindo para a resolução desses problemas que a Assembleia da República se prestigia e dignifica.", 
    "type": "deputado_continuacao"
   }, 
@@ -226,22 +236,19 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o representante do PS, Sr. Deputado Almeida Santos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o representante do PS, Sr. Deputado Almeida Santos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Almeida Santos* (PS): Ilustre Representante do Presidente da República, Sr. Presidente da Assembleia da República, Sr.Primeiro-Ministro e demais Membros do Governo, Sr.ªs e Srs. Convidados, caros Colegas: Convencionou-se - bem ou mal - que a importância das coisas e dos actos se mede também pela solenidade de que se revestem.\nPor isso, saúdo a solenidade desta cerimónia de abertura do novo ano parlamentar. E interpreto-a como sinal de que os responsáveis políticos, sem excepção e sem defeito, vão empenhar-se na dignificação da matriz do poder representativo que este Parlamento é.\nNem sempre foi assim. O nosso Parlamento, espelho da democracia que somos, foi não raro desprestigiado por responsáveis políticos que se têm por democratas.\nQue a opinião pública da generalidade das democracias em regra desame os seus legisladores é uma fatalidade com registo causal. Estão, aliás, identificadas as razões que dificultam a popularidade dos Parlamentos.\nTemos de aceitar com naturalidade que assim seja.\nO que não pode aceitar-se é o frequente aproveitamento desse facto para capitalizar popularidade. Ele é porque trabalha pouco, ele é porque gasta muito, ele é porque se atribui regalias discriminatórias.\nA verdade é que a produção legislativa desta Assembleia não receia confronto com a das suas homólogas. Num juízo de relatividade, é seguramente uma das que menos custa. E nem todas as discriminações são más! As que contribuem para qualificar e dignificar a função parlamentar são seguramente boas. Não pode é, sem incoerência, combater discriminações positivas quem pelo seu ideário e pela sua prática política acolhe e estimula as que o não são.\nTambém não tem contribuído para a dignificação desta Casa o \ndespojamento de competências de que tem sido objecto. Por razões que são conhecidas, esta Assembleia viu-se, de facto, despojada de poderes de intervenção sem os quais carecem de sentido a separação e o equilíbrio dos poderes.\nAcabam, aliás, de chegar ao nosso espanto propósitos que, se concretizados, poriam em causa a essência do próprio Estado de direito, ou seja, a auto-sujeição de todos os órgãos do Estado ao direito e aos tribunais. Confio em que não haja de ser assim! \nEstas observações têm plena oportunidade. Quer em sede de revisão da Constituição quer em sede de revisão do Regimento, estão em causa medidas com significado no papel do Parlamento, a que nenhum Deputado pode ser indiferente. Estou certo de que nos encontraremos no exacto ponto em que o reforço da dignidade desta Assembleia abraça o significado democrático dela.\nA conjuntura interna e internacional dos últimos anos pode ter alimentado a falsa ideia de que governar é fácil. Digo governar sem esquecer que a lei é e permanecerá sempre como acto primeiro de governo. Receio é que tenhamos de vir a enfrentar com determinação os constrangimentos do reverso dessa medalha.\nSempre considerei que, em política, são mais determinantes as marés do que os marinheiros. Infelizmente, a subida das marés não faz levantar todos os barcos. Tivemos maré alta - de algum modo ainda a temos - e muitos barcos foram já ao fundo. Outros irão. Não tenho, no entanto, uma visão catastrófica do futuro. Mas seria grave que não nos déssemos conta de que somos, a muitos títulos, um barco à deriva.\nSabem os agricultores o que devem cultivar? Sabem os industriais o que podem produzir? Sabem os aforradores em que devem investir? \nInterrogamo-nos e é incerto o futuro dos campos, das fábricas, das cidades, dos meios de transporte, da segurança social, do papel do Estado e da sociedade civil. E como cada vez menos os lírios florescem, incerto é, inclusivamente, o futuro do próprio planeta.\nAparentemente, ninguém ilumina e orienta ninguém. O velho nitzsheano, que de lanterna em punho procurava Deus, talvez passe em breve a ter de procurar o Homem.\nTemos, é certo, um projecto definido num mundo em definição. Está aí o projecto europeu. Tomámos esse barco e, pelo que nos diz respeito, não padecemos de angústias metafísicas para prosseguirmos nele. Demais sabemos, da leitura do poeta, que se não vai além dos Bojadores da história sem ir além da dor.\nPor isso, respeitamos a tentação de marcha atrás que se apossou de alguns dos nossos melhores espíritos. Mas se cinco séculos depois teve de reconhecer-se alguma razão ao Velho do Restelo, não voltemos agora a recusar-lha. O alargamento do espaço político coincidente com o Estado-Nação é um imperativo da história. Assim continuará a ser enquanto a vertigem das comunicações não atingir o non plus ultra inerente a todas as coisas.\nContra este imperativo não contam os nacionalismos recorrentes impelidos pelo destacar de velhos espartilhos. E raciocinar a Europa por descobrir, a partir da pretensa imutabilidade de conceitos que nunca pararam de mudar, é tentar deter o tempo ou proibir o futuro.\nA Europa das Comunidades, ponto de partida para novos estádios de unificação, é também a Europa inteligente. Por isso, nos oporemos sempre a soluções que o não sejam. Somos por avanços medidos, reflectidos, dialogados a todos os níveis da informação e do debate.\nOnde estiver o erro, aí tem de estar o reparo; onde a precipitação, aí o recuo.\nFiz questão em não ser polémico. Em dias de festa não se encostam coletes. São dias de bom augúrio, em que se faz o que usa fazer-se quando se come o primeiro bago de uva: formulam-se três desejos.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Almeida Santos", 
+   "text": "Ilustre Representante do Presidente da República, Sr. Presidente da Assembleia da República, Sr.Primeiro-Ministro e demais Membros do Governo, Sr.ªs e Srs. Convidados, caros Colegas: Convencionou-se - bem ou mal - que a importância das coisas e dos actos se mede também pela solenidade de que se revestem.\nPor isso, saúdo a solenidade desta cerimónia de abertura do novo ano parlamentar. E interpreto-a como sinal de que os responsáveis políticos, sem excepção e sem defeito, vão empenhar-se na dignificação da matriz do poder representativo que este Parlamento é.\nNem sempre foi assim. O nosso Parlamento, espelho da democracia que somos, foi não raro desprestigiado por responsáveis políticos que se têm por democratas.\nQue a opinião pública da generalidade das democracias em regra desame os seus legisladores é uma fatalidade com registo causal. Estão, aliás, identificadas as razões que dificultam a popularidade dos Parlamentos.\nTemos de aceitar com naturalidade que assim seja.\nO que não pode aceitar-se é o frequente aproveitamento desse facto para capitalizar popularidade. Ele é porque trabalha pouco, ele é porque gasta muito, ele é porque se atribui regalias discriminatórias.\nA verdade é que a produção legislativa desta Assembleia não receia confronto com a das suas homólogas. Num juízo de relatividade, é seguramente uma das que menos custa. E nem todas as discriminações são más! As que contribuem para qualificar e dignificar a função parlamentar são seguramente boas. Não pode é, sem incoerência, combater discriminações positivas quem pelo seu ideário e pela sua prática política acolhe e estimula as que o não são.\nTambém não tem contribuído para a dignificação desta Casa o \ndespojamento de competências de que tem sido objecto. Por razões que são conhecidas, esta Assembleia viu-se, de facto, despojada de poderes de intervenção sem os quais carecem de sentido a separação e o equilíbrio dos poderes.\nAcabam, aliás, de chegar ao nosso espanto propósitos que, se concretizados, poriam em causa a essência do próprio Estado de direito, ou seja, a auto-sujeição de todos os órgãos do Estado ao direito e aos tribunais. Confio em que não haja de ser assim! \nEstas observações têm plena oportunidade. Quer em sede de revisão da Constituição quer em sede de revisão do Regimento, estão em causa medidas com significado no papel do Parlamento, a que nenhum Deputado pode ser indiferente. Estou certo de que nos encontraremos no exacto ponto em que o reforço da dignidade desta Assembleia abraça o significado democrático dela.\nA conjuntura interna e internacional dos últimos anos pode ter alimentado a falsa ideia de que governar é fácil. Digo governar sem esquecer que a lei é e permanecerá sempre como acto primeiro de governo. Receio é que tenhamos de vir a enfrentar com determinação os constrangimentos do reverso dessa medalha.\nSempre considerei que, em política, são mais determinantes as marés do que os marinheiros. Infelizmente, a subida das marés não faz levantar todos os barcos. Tivemos maré alta - de algum modo ainda a temos - e muitos barcos foram já ao fundo. Outros irão. Não tenho, no entanto, uma visão catastrófica do futuro. Mas seria grave que não nos déssemos conta de que somos, a muitos títulos, um barco à deriva.\nSabem os agricultores o que devem cultivar? Sabem os industriais o que podem produzir? Sabem os aforradores em que devem investir? \nInterrogamo-nos e é incerto o futuro dos campos, das fábricas, das cidades, dos meios de transporte, da segurança social, do papel do Estado e da sociedade civil. E como cada vez menos os lírios florescem, incerto é, inclusivamente, o futuro do próprio planeta.\nAparentemente, ninguém ilumina e orienta ninguém. O velho nitzsheano, que de lanterna em punho procurava Deus, talvez passe em breve a ter de procurar o Homem.\nTemos, é certo, um projecto definido num mundo em definição. Está aí o projecto europeu. Tomámos esse barco e, pelo que nos diz respeito, não padecemos de angústias metafísicas para prosseguirmos nele. Demais sabemos, da leitura do poeta, que se não vai além dos Bojadores da história sem ir além da dor.\nPor isso, respeitamos a tentação de marcha atrás que se apossou de alguns dos nossos melhores espíritos. Mas se cinco séculos depois teve de reconhecer-se alguma razão ao Velho do Restelo, não voltemos agora a recusar-lha. O alargamento do espaço político coincidente com o Estado-Nação é um imperativo da história. Assim continuará a ser enquanto a vertigem das comunicações não atingir o non plus ultra inerente a todas as coisas.\nContra este imperativo não contam os nacionalismos recorrentes impelidos pelo destacar de velhos espartilhos. E raciocinar a Europa por descobrir, a partir da pretensa imutabilidade de conceitos que nunca pararam de mudar, é tentar deter o tempo ou proibir o futuro.\nA Europa das Comunidades, ponto de partida para novos estádios de unificação, é também a Europa inteligente. Por isso, nos oporemos sempre a soluções que o não sejam. Somos por avanços medidos, reflectidos, dialogados a todos os níveis da informação e do debate.\nOnde estiver o erro, aí tem de estar o reparo; onde a precipitação, aí o recuo.\nFiz questão em não ser polémico. Em dias de festa não se encostam coletes. São dias de bom augúrio, em que se faz o que usa fazer-se quando se come o primeiro bago de uva: formulam-se três desejos.\n16 DE OUTUBRO DE 1992 7", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "16 DE OUTUBRO DE 1992 7", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PS", 
+   "speaker": "Almeida Santos", 
    "text": "Eis os que formulo a pensar na República: democracia, mais democracia, melhor democracia.", 
    "type": "deputado_continuacao"
   }, 
@@ -250,42 +257,39 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Duarte Lima.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Duarte Lima.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Duarte Lima* (PSD): Sr. Representante do Presidente da República e Presidente da Assembleia da República, Sr. Primeiro-Ministro e restantes Membros do Governo, ilustres Convidados, Sr.ªs e Srs.Deputados: Ao iniciar uma nova sessão legislativa, queremos, antes de mais, felicitar S. Ex.ª o Sr. Presidente da Assembleia da República pela ideia de abrir os trabalhos parlamentares com uma sessão solene, com a presença dos mais altos representantes do Estado. É um gesto carregado de simbolismo, que vale por realçar a importância da instituição parlamentar no processo da decisão e do debate políticos.\nA importância da instituição parlamentar está, de novo, de resto, no centro do debate político, a títulos vários. É certo que ela é, para nós, parlamentares, qualquer que seja o partido em que nos situemos, uma evidência, mas não vale a pena fingirmos que ignoramos que há em Portugal uma cultura antiparlamentar velha de décadas. Essa cultura não se contraria com a mera retórica ou com o simples enunciado de princípios genéricos quanto à natural bondade do parlamentarismo.\nA bondade do parlamentarismo deve decorrer, igualmente, da evidência e das vantagens para o cidadão do funcionamento da actividade \nparlamentar. Os Parlamentos devem ter a capacidade de se renovar e adaptar constantemente às exigências das sociedades dos tempos modernos.\nFoi esta a razão que levou o meu grupo parlamentar a lançar \npublicamente, no princípio de 1992, o tema da reforma do Parlamento.\nCom as diversas iniciativas do PSD neste domínio, procuramos garantir as seguintes finalidades: \n1.ª finalidade: manter - e nalguns casos até reforçar - todos os direitos que o actual Regimento garante aos partidos da oposição.\n2.ª finalidade: reforçar o papel do Plenário como centro primordial do debate político. Assim, ao lado dos direitos de agendamento e de interpelação política já consagrados, são introduzidas no nosso projecto as seguintes inovações:", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Duarte Lima", 
+   "text": "Sr. Representante do Presidente da República e Presidente da Assembleia da República, Sr. Primeiro-Ministro e restantes Membros do Governo, ilustres Convidados, Sr.ªs e Srs.Deputados: Ao iniciar uma nova sessão legislativa, queremos, antes de mais, felicitar S. Ex.ª o Sr. Presidente da Assembleia da República pela ideia de abrir os trabalhos parlamentares com uma sessão solene, com a presença dos mais altos representantes do Estado. É um gesto carregado de simbolismo, que vale por realçar a importância da instituição parlamentar no processo da decisão e do debate políticos.\nA importância da instituição parlamentar está, de novo, de resto, no centro do debate político, a títulos vários. É certo que ela é, para nós, parlamentares, qualquer que seja o partido em que nos situemos, uma evidência, mas não vale a pena fingirmos que ignoramos que há em Portugal uma cultura antiparlamentar velha de décadas. Essa cultura não se contraria com a mera retórica ou com o simples enunciado de princípios genéricos quanto à natural bondade do parlamentarismo.\nA bondade do parlamentarismo deve decorrer, igualmente, da evidência e das vantagens para o cidadão do funcionamento da actividade \nparlamentar. Os Parlamentos devem ter a capacidade de se renovar e adaptar constantemente às exigências das sociedades dos tempos modernos.\nFoi esta a razão que levou o meu grupo parlamentar a lançar \npublicamente, no princípio de 1992, o tema da reforma do Parlamento.\nCom as diversas iniciativas do PSD neste domínio, procuramos garantir as seguintes finalidades: \n1.ª finalidade: manter - e nalguns casos até reforçar - todos os direitos que o actual Regimento garante aos partidos da oposição.\n2.ª finalidade: reforçar o papel do Plenário como centro primordial do debate político. Assim, ao lado dos direitos de agendamento e de interpelação política já consagrados, são introduzidas no nosso projecto as seguintes inovações:\na) Inscrição de um debate mensal sobre tema de grande actualidade política; \nb) Introdução do debate anual sobre o estado da Nação; \nc) Maior vivacidade nas sessões de perguntas ao Governo, que passa pela possibilidade de vários Deputados poderem questionar, de improviso, na mesma sessão, o membro do Governo chamado ao Parlamento por outro qualquer Deputado para responder sobre determinada matéria; \nd) A inscrição de um debate sobre a Conta Geral do Estado, com uma dignidade política moldada na discussão do Orçamento do Estado; e) A possibilidade de o Governo poder proferir, regularmente, declarações políticas em Plenário no PAOD, o que o sujeita igualmente, com mais frequência, ao contraditório com as forças da oposição.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "a) Inscrição de um debate mensal sobre tema de grande actualidade política; \nb) Introdução do debate anual sobre o estado da Nação; \nc) Maior vivacidade nas sessões de perguntas ao Governo, que passa pela possibilidade de vários Deputados poderem questionar, de improviso, na mesma sessão, o membro do Governo chamado ao Parlamento por outro qualquer Deputado para responder sobre determinada matéria; \nd) A inscrição de um debate sobre a Conta Geral do Estado, com uma dignidade política moldada na discussão do Orçamento do Estado; e) A possibilidade de o Governo poder proferir, regularmente, declarações políticas em Plenário no PAOD, o que o sujeita igualmente, com mais frequência, ao contraditório com as forças da oposição.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Duarte Lima", 
    "text": "3.ª finalidade: racionalizar o funcionamento das comissões, diminuindo o seu número - hoje, um dos mais elevados em toda a Europa Ocidental - e aumentando significativamente as suas reuniões.\nA este respeito, vale a pena reafirmar que a solução proposta pelo meu partido assentou sempre na disponibilidade para garantir que ao aumento das reuniões das comissões nunca correspondesse a diminuição das reuniões do Plenário.\nSão, assim, absolutamente fantasiosas e têm seguramente pretextos ínvios quaisquer acusações de que o PSD pretenderia reunir o Plenário de 15 em 15 dias. A simples consulta do nosso projecto demonstrará que não é assim.\nSr. Presidente, Srs. Deputados: Por diversas vezes, quer publicamente, quer em Conferência de Líderes - e agora respondo aos líderes da oposição -, afirmei solenemente, em nome do meu grupo parlamentar, estar disposto a fazer tudo o que fosse possível para que a reforma do Parlamento fosse concluída de forma consensual.\nFoi essa a razão que levou o meu partido a indicar, como presidente dessa Comissão, o Dr. Fernando Amaral, uma figura política cuja isenção e apego à defesa do parlamentarismo não pode ser questionada por ninguém.\nEstamos no domínio da definição das regras do jogo e esta matéria deveria, salutarmente, estar afastada da conflitualidade \npolítico-partidária. Tal atitude pressupõe boa fé de todas as partes. O diálogo é um caminho que se constrói em dois sentidos e não apenas num.\nAssim, não podem ser exigidas cedências à maioria, se a minoria se enclausurar, vitrificada e rígida, nas suas posições.\nPrivilegiaremos o diálogo e também a tolerância, mas ninguém nos peça que, em nome desses valores, aceitemos resignados a ideia peregrina de que a excelência da democracia só se alcança quando as minorias mandam e as maiorias obedecem.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Continuaremos, assim, a fazer, até ao fim, todos os esforços para que o objectivo da reforma do Parlamento possa ser alcançado de forma consensual, discutindo razões e argumentos, próprios ou alheios, e não processos de intenção que não resultam dos nossos projectos.\nTal tem sido a minha disponibilidade para com os líderes parlamentares da oposição que me têm feito - alguns deles - propostas concretas de valorização dessa reforma que, de resto, tenho aceite sempre que razoáveis e que já conduziu a que na Comissão haja um acordo de princípios em mais de 80% das matérias para uma votação por \nunanimidade. Reafirmo aqui essa disponibilidade, em nome do meu grupo parlamentar.\nNeste princípio de sessão legislativa, o Parlamento português tem também como principal tarefa a aprovação da revisão constitucional extraordinária e a ratificação do Tratado da União Europeia.\nO PSD encara este processo com grande sentido de responsabilidade, que decorre da ponderação que faz do interesse nacional.\nDe tal ponderação resulta para nós evidente que a Europa é para Portugal uma comunidade de destino e que o País não pode deixar de participar activamente no processo de aprofundamento da integração europeia.\nFazemo-lo, contudo, na observância de princípios que nos têm sido caros desde que o PSD tem responsabilidades governativas.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Continuaremos, assim, a fazer, até ao fim, todos os esforços para que o objectivo da reforma do Parlamento possa ser alcançado de forma consensual, discutindo razões e argumentos, próprios ou alheios, e não processos de intenção que não resultam dos nossos projectos.\nTal tem sido a minha disponibilidade para com os líderes parlamentares da oposição que me têm feito - alguns deles - propostas concretas de valorização dessa reforma que, de resto, tenho aceite sempre que razoáveis e que já conduziu a que na Comissão haja um acordo de princípios em mais de 80% das matérias para uma votação por \nunanimidade. Reafirmo aqui essa disponibilidade, em nome do meu grupo parlamentar.\nNeste princípio de sessão legislativa, o Parlamento português tem também como principal tarefa a aprovação da revisão constitucional extraordinária e a ratificação do Tratado da União Europeia.\nO PSD encara este processo com grande sentido de responsabilidade, que decorre da ponderação que faz do interesse nacional.\nDe tal ponderação resulta para nós evidente que a Europa é para Portugal uma comunidade de destino e que o País não pode deixar de participar activamente no processo de aprofundamento da integração europeia.\nFazemo-lo, contudo, na observância de princípios que nos têm sido caros desde que o PSD tem responsabilidades governativas.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "8 I SÉRIE - NÚMERO l", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Desde logo, através do nosso empenhamento na construção de uma Europa mais próxima dos cidadãos, que salvaguarde a transparência do funcionamento de todas as suas instâncias de decisão.\nEste entendimento pressuporá um progressivo e acentuado envolvimento dos parlamentos nacionais em toda a problemática comunitária, bem como um contacto mais estreito entre eles e o Parlamento Europeu. Estamos seguros de que uma mais acentuada participação dos parlamentos nacionais nas questões comunitárias será um factor decisivo que favorecerá o envolvimento dos cidadãos na construção europeia.\nSerá, igualmente, uma garantia adicional de aplicação mais correcta do princípio da subsidiariedade.\nNão partilhamos concepções isolacionistas e arcaicas que continuam a conceber o problema da soberania dos Estados e do seu relacionamento recíproco na base do conceito clássico do Estado moderno - conceito hoje largamente ultrapassado.\nJá não é verdade, hoje, tal como postulava esse conceito, que o Estado-Nação, isolado, seja o centro primacial e exclusivo das relações internacionais.\nOs movimentos em favor da cooperação internacional em todos os domínios, a importância acrescida dos grandes blocos económicos, das organizações internacionais e das comunidades supranacionais, bem como o fenómeno novo da formação de uma opinião pública à escala continental - quando não mesmo mundial - que resulta da influência dos modernos meios de comunicação social, fizeram com que esse conceito se tornasse obsoleto.\nContudo, o reconhecimento dessa realidade não significa que abdiquemos do princípio da defesa da nossa identidade nacional na Europa que queremos ajudar a construir. Pelo contrário, achamos que essa Europa só terá futuro na medida em que acolha, respeitando-as, as diversidades nacionais.\nFoi sempre assim que vimos o espírito do Tratado de Maastricht e será este entendimento que, de uma forma responsável, nos empenhará na ratificação que dele faremos.", 
    "type": "deputado_continuacao"
   }, 
@@ -294,61 +298,52 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Cumpre-me agora usar da palavra, de acordo com o que está estabelecido no Regimento desta sessão.\nSr. Primeiro-Ministro, Srs. Presidentes do Supremo Tribunal de Justiça, do Tribunal Constitucional, do Supremo Tribunal Administrativo e do Supremo Tribunal Militar, Srs. Membros do Governo e Altas Autoridades Civis e Militares, Excelências, Srs. Deputados: A Conferência dos Representantes dos Grupos Parlamentares aprovou, por unanimidade, a sugestão de se iniciar a 2.ª sessão legislativa por um acto solene para o qual fossem convidados titulares dos órgãos de soberania e altas autoridades civis e militares do Estado, das Regiões Autónomas e do poder local.\nA Assembleia da República - na linha de um já antigo precedente - pretendeu, assim, que o início do seu período normal de funcionamento fosse rodeado de um certo simbolismo. Através de um rito parlamentar intencionalmente severo e contido, como este a que estamos a assistir, o de esperar que fique bem clara, perante a comunidade dos cidadãos, a vontade dos Srs. Deputados de cumprir com lealdade, zelo e empenho, sem ceder a constrangimentos nem cair em embaraços, com pleno sentido da sua responsabilidade perante os homens e perante a história, a incumbência sumamente honrosa que do povo português directamente receberam para dar e retirar confiança política aos governos, para legislar, para vigiar pelo cumprimento da Constituição e das leis, para apreciar os actos do Governo e da Administração, para aprovar tratados internacionais, para debater assuntos de importância relevante para o Estado, regiões e autarquias locais, etc., etc.\nA verdade é que a abertura do ano parlamentar constitui, por regra nas democracias consolidadas, um facto político da maior relevância. Como espelho fiel das ideias, princípios e valores que, em cada tempo, perpassam os diferentes grupos sociais e, deste modo, consubstanciam a cultura viva da sociedade global, os parlamentos - atrevo-me a dizê-lo - desempenham (por assim dizer) o papel de pulmão das comunidades políticas que integram o nosso mundo de referência.\nNesta Europa sempre em movimento, de norte a sul e de leste a oeste, os factos e os acontecimentos em fluxo contínuo - numa palavra, a facticidade - tendem hoje a assumir a primazia, senão a exclusividade, na condução da vida privada e da vida pública; as ideias, os valores e os princípios - numa palavra, a normatividade-, esses, vêm perdendo progressivamente peso ou influência social, ao ponto de, em círculos cada vez mais largos, se olharem como velharias inúteis ou inertes ou como simples tropos destinados a dar elegância e a garantir \ncredibilidade a um discurso racional de que, se calhar a contragosto já da maior parte, ainda não é possível prescindir.\nNeste contexto é que os parlamentos, enquanto forem - como devem ser - espaços abertos ao debate e confronto de ideias e princípios, à análise prospectiva e à crítica de regras de conduta e de programas de acção, ao livre exame dos comportamentos das pessoas e dos grupos investidos de responsabilidades públicas, à discussão racional dos paradigmas políticos dominantes, os parlamentos, dizia, enquanto estiverem assim em correspondência com a cultura institucional neles sedimentada ao longo do tempo, cumprirão uma importantíssima função social e histórica: mantêm viva a possibilidade de outras alternativas para os factos vigentes, corporizam ideias e projectos para as mudanças julgadas úteis ou necessárias, garantem o acesso ao sentido, isto é, ajudam à formação na consciência social da ideia de que o mundo existente não é, necessariamente, o melhor mundo possível...\nEm suma, os parlamentos configuram e dão força institucional à própria ideia e princípio da liberdade política.\nSendo assim, por que razão é que a Assembleia da República deveria iniciar o ano parlamentar como se sofresse de algum complexo de culpa, como se estivesse tolhida por qualquer medo ancestral perante a opinião pública ou como se não sentisse um legítimo orgulho pela sua função própria no concerto dinâmico dos órgãos de soberania, tais como a Constituição da República os criou e regulou? Se a arrogância não nos ficaria bem, também uma atitude de apagamento envergonhado estaria em desarmonia com uma pedagogia democrática atenta às exigências mais profundas da consciência social do País.\nE eis, ao fim e ao cabo, o sentido deste acto solene que a mim cabe agora encerrar.\nDito isto, talvez se esperasse o meu balanço das actividades mais relevantes da Assembleia da República", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Cumpre-me agora usar da palavra, de acordo com o que está estabelecido no Regimento desta sessão.\nSr. Primeiro-Ministro, Srs. Presidentes do Supremo Tribunal de Justiça, do Tribunal Constitucional, do Supremo Tribunal Administrativo e do Supremo Tribunal Militar, Srs. Membros do Governo e Altas Autoridades Civis e Militares, Excelências, Srs. Deputados: A Conferência dos Representantes dos Grupos Parlamentares aprovou, por unanimidade, a sugestão de se iniciar a 2.ª sessão legislativa por um acto solene para o qual fossem convidados titulares dos órgãos de soberania e altas autoridades civis e militares do Estado, das Regiões Autónomas e do poder local.\nA Assembleia da República - na linha de um já antigo precedente - pretendeu, assim, que o início do seu período normal de funcionamento fosse rodeado de um certo simbolismo. Através de um rito parlamentar intencionalmente severo e contido, como este a que estamos a assistir, o de esperar que fique bem clara, perante a comunidade dos cidadãos, a vontade dos Srs. Deputados de cumprir com lealdade, zelo e empenho, sem ceder a constrangimentos nem cair em embaraços, com pleno sentido da sua responsabilidade perante os homens e perante a história, a incumbência sumamente honrosa que do povo português directamente receberam para dar e retirar confiança política aos governos, para legislar, para vigiar pelo cumprimento da Constituição e das leis, para apreciar os actos do Governo e da Administração, para aprovar tratados internacionais, para debater assuntos de importância relevante para o Estado, regiões e autarquias locais, etc., etc.\nA verdade é que a abertura do ano parlamentar constitui, por regra nas democracias consolidadas, um facto político da maior relevância. Como espelho fiel das ideias, princípios e valores que, em cada tempo, perpassam os diferentes grupos sociais e, deste modo, consubstanciam a cultura viva da sociedade global, os parlamentos - atrevo-me a dizê-lo - desempenham (por assim dizer) o papel de pulmão das comunidades políticas que integram o nosso mundo de referência.\nNesta Europa sempre em movimento, de norte a sul e de leste a oeste, os factos e os acontecimentos em fluxo contínuo - numa palavra, a facticidade - tendem hoje a assumir a primazia, senão a exclusividade, na condução da vida privada e da vida pública; as ideias, os valores e os princípios - numa palavra, a normatividade-, esses, vêm perdendo progressivamente peso ou influência social, ao ponto de, em círculos cada vez mais largos, se olharem como velharias inúteis ou inertes ou como simples tropos destinados a dar elegância e a garantir \ncredibilidade a um discurso racional de que, se calhar a contragosto já da maior parte, ainda não é possível prescindir.\nNeste contexto é que os parlamentos, enquanto forem - como devem ser - espaços abertos ao debate e confronto de ideias e princípios, à análise prospectiva e à crítica de regras de conduta e de programas de acção, ao livre exame dos comportamentos das pessoas e dos grupos investidos de responsabilidades públicas, à discussão racional dos paradigmas políticos dominantes, os parlamentos, dizia, enquanto estiverem assim em correspondência com a cultura institucional neles sedimentada ao longo do tempo, cumprirão uma importantíssima função social e histórica: mantêm viva a possibilidade de outras alternativas para os factos vigentes, corporizam ideias e projectos para as mudanças julgadas úteis ou necessárias, garantem o acesso ao sentido, isto é, ajudam à formação na consciência social da ideia de que o mundo existente não é, necessariamente, o melhor mundo possível...\nEm suma, os parlamentos configuram e dão força institucional à própria ideia e princípio da liberdade política.\nSendo assim, por que razão é que a Assembleia da República deveria iniciar o ano parlamentar como se sofresse de algum complexo de culpa, como se estivesse tolhida por qualquer medo ancestral perante a opinião pública ou como se não sentisse um legítimo orgulho pela sua função própria no concerto dinâmico dos órgãos de soberania, tais como a Constituição da República os criou e regulou? Se a arrogância não nos ficaria bem, também uma atitude de apagamento envergonhado estaria em desarmonia com uma pedagogia democrática atenta às exigências mais profundas da consciência social do País.\nE eis, ao fim e ao cabo, o sentido deste acto solene que a mim cabe agora encerrar.\nDito isto, talvez se esperasse o meu balanço das actividades mais relevantes da Assembleia da República 16 DE OUTUBRO DE 1992 9", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "16 DE OUTUBRO DE 1992 9", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "durante a sessão legislativa finda. Tal é, pelo menos, a praxe das aberturas solenes.\nEm todo o caso, não vou fazer esse balanço. Em direitas contas, o Presidente da Assembleia da República deve remeter-se à linguagem objectiva dos números, quando entenda falar da actividade política desenvolvida pelo Parlamento como um todo. Limitar-se-á, neste domínio, a informações do género: quantos debates políticos da iniciativa do Governo, dos grupos parlamentares ou do Presidente da Assembleia da República foram realizados, quantas leis, resoluções ou deliberações foram aprovadas, quantas reuniões das comissões especializadas houve, etc., etc., o que é pouco atraente para servir ao orador de tema e bem fastidioso para ser executado pelo auditório. Aliás, tudo isso consta de um relatório já organizado que, em breve, será distribuído.\nSrs. Titulares dos Órgãos de Soberania e do Poder Local, Autoridades Civis e Militares: A presença de VV. Ex.ªs veio dar lustre a este singelo acto simbólico de abertura do período normal dos trabalhos parlamentares.\nEm meu nome pessoal e em nome da Assembleia da República, apresento a todas VV. Ex.ªs penhorados agradecimentos pelo gesto, que é sinal de que também entre nós o princípio da divisão de poderes é entendido não só como causa de diferenciações na função e procedimento dos poderes públicos, mas também, ao mesmo tempo, como veículo da harmonia, respeito e cooperação entre eles.\nPermitam-me que, com a devida vénia, exprima ao Sr. Primeiro-Ministro uma gratidão especial, por isso que S. Ex.ª, para honrar o nosso convite, teve de atrasar a partida para Birmingham, onde participará, amanhã, no Conselho convocado pela Presidência britânica das Comunidades Europeias.\nBem haja, Sr. Primeiro-Ministro, pelo incómodo a que assentiu para homenagear a Assembleia da República e que a Cimeira lhe traga o consolo de ser favorável aos interesses de Portugal.\nSrs. Deputados, espero que o período de suspensão dos trabalhos parlamentares tenha sido favorável tanto ao retemperamento das forças e das vontades, como à descoberta e invenção de ideias e projectos novos.\nQue o ano de trabalho seja propício a todos, com vista ao muito que nos importa fazer em prol da democracia e de Portugal!", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PSD, do PSN e de alguns Deputados do PS e do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos fazer um intervalo de 35 minutos, após o qual retomaremos os trabalhos.\nEstá suspensa a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 15 horas e 55 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, declaro reaberta a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 16 horas e 40 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, o Sr. Secretário vai anunciar os diplomas que deram entrada na Mesa.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* (João Salgado): Sr. Presidente e Srs. Deputados: \nDeram entrada na Mesa, e foram admitidos, os seguintes diplomas: \npropostas de lei n.ºs 36/VI - Grandes Opções do Plano para 1993 e 37/VI - Orçamento do Estado para 1993, que baixaram à 7.ª Comissão; proposta de resolução n.º 15/VI - Aprova, para adesão, o Convénio Constitutivo da Associação Internacional de Desenvolvimento; projectos de deliberação n.ºs 46/VI - Debate sobre a segurança interna (PSD) e 47/VI - Debate sobre a política económica e social (PSD); projecto de resolução n.º 37/VI - Manutenção do sistema inter-rail (PS); e interpelação ao Governo n.º 7/VI - Sobre a situação da economia portuguesa e o sentido da política económica do Governo (PS).", 
-   "type": "deputado_continuacao"
+   "party": "João Salgado", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados: \nDeram entrada na Mesa, e foram admitidos, os seguintes diplomas: \npropostas de lei n.ºs 36/VI - Grandes Opções do Plano para 1993 e 37/VI - Orçamento do Estado para 1993, que baixaram à 7.ª Comissão; proposta de resolução n.º 15/VI - Aprova, para adesão, o Convénio Constitutivo da Associação Internacional de Desenvolvimento; projectos de deliberação n.ºs 46/VI - Debate sobre a segurança interna (PSD) e 47/VI - Debate sobre a política económica e social (PSD); projecto de resolução n.º 37/VI - Manutenção do sistema inter-rail (PS); e interpelação ao Governo n.º 7/VI - Sobre a situação da economia portuguesa e o sentido da política económica do Governo (PS).", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "O Sr. *Presidente*: Srs. Deputados, recebi do Sr. Presidente da República duas cartas, cujo conteúdo essencial passo a ler", 
-   "text": "", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Sr. *Presidente*: Srs. Deputados, recebi do Sr. Presidente da República duas cartas, cujo conteúdo essencial passo a ler", 
-   "text": "Em aditamento à minha carta de 30 de Setembro de 1992, comunico a V.\nEx.ª que, no âmbito da minha deslocação a França e a Áustria, entre os próximos dias 14 e 21 de Outubro, me deslocarei também a Berlim, entre os dias 16 e 18, para estar presente, no dia 17, nas cerimónias fúnebres do ex-Chanceler da República Federal da Alemanha, Willy Brandt, que terão lugar no edifício do Reichstag, naquela cidade alemã.\nEstando prevista a minha deslocação a Madrid, entre os dias 1 e 3 do próximo mês de Novembro, para proferir uma conferência no Clube Século XXI, dela venho dar prévio conhecimento à Assembleia da República, nos termos do artigo 132.º, n.º 2, da Constituição.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, recebi do Sr. Presidente da República duas cartas, cujo conteúdo essencial passo a ler:\nEm aditamento à minha carta de 30 de Setembro de 1992, comunico a V.\nEx.ª que, no âmbito da minha deslocação a França e a Áustria, entre os próximos dias 14 e 21 de Outubro, me deslocarei também a Berlim, entre os dias 16 e 18, para estar presente, no dia 17, nas cerimónias fúnebres do ex-Chanceler da República Federal da Alemanha, Willy Brandt, que terão lugar no edifício do Reichstag, naquela cidade alemã.\nEstando prevista a minha deslocação a Madrid, entre os dias 1 e 3 do próximo mês de Novembro, para proferir uma conferência no Clube Século XXI, dela venho dar prévio conhecimento à Assembleia da República, nos termos do artigo 132.º, n.º 2, da Constituição.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Entretanto, queria informar a Câmara de que enviei, ontem, ao Sr.Presidente da Câmara dos Deputados do Brasil uma carta do seguinte teor", 
@@ -368,74 +363,78 @@
    "type": "documento"
   }, 
   {
-   "party": "João Salgado): Sr. Presidente e Srs. Deputados: O voto é do seguinte teor", 
-   "speaker": "O Sr. *Secretário*", 
-   "text": "", 
-   "type": "documento"
+   "party": "João Salgado", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados: O voto é do seguinte teor:\nA Assembleia da República manifesta o seu profundo pesar pela morte do Dr. João Seiça Neves, ontem ocorrida num desastre de viação.\nO Dr. João Seiça Neves destacava-se pela sua personalidade generosa, que aliava a um grande", 
+   "type": "secretario"
   }, 
   {
-   "text": "A Assembleia da República manifesta o seu profundo pesar pela morte do Dr. João Seiça Neves, ontem ocorrida num desastre de viação.\nO Dr. João Seiça Neves destacava-se pela sua personalidade generosa, que aliava a um grande", 
-   "type": "documento"
-  }, 
-  {
+   "party": "João Salgado", 
+   "speaker": "Secretário", 
    "text": "10 I SÉRIE - NÚMERO l", 
-   "type": "documento"
+   "type": "secretario_continuacao"
   }, 
   {
+   "party": "João Salgado", 
+   "speaker": "Secretário", 
    "text": "inconformismo e a uma forte determinação, que o levaram a participar activamente em movimentos de resistência, como os Congressos Democráticos de Aveiro, na defesa das liberdades cívicas, contribuindo para a implantação e consolidação, no nosso país, dos ideais da democracia.\nDemocracia que soube servir desinteressadamente como Deputado à Assembleia da República, onde, com a sua actividade, se soube impor e granjear o respeito de todos os quadrantes políticos.", 
-   "type": "documento"
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em apreciação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em apreciação.\nNão havendo pedidos de palavra, vamos votar.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Não havendo pedidos de palavra, vamos votar.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado por unanimidade, registando-se a ausência do Deputado independente João Corregedor da Fonseca.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "A Mesa fará chegar o texto deste voto de pesar a família do Dr. João Seiça Neves.\nSrs. Deputados, o Sr. Secretário vai dar conta de um relatório e parecer da Comissão de Regimento e Mandatos sobre substituição de Deputados.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Secretário* (Lemos Damião): Sr. Presidente e Srs. Deputados: O relatório e parecer refere-se à substituição dos Srs. Deputados Fernanda Cardoso, do PSD, por um período não inferior a 15 dias, a partir do dia 15 de Outubro, Lourdes Hespanhol, do PCP, por um período não inferior a 15 dias, a partir do dia 15 de Outubro, e Domingos Abrantes, do PCP, por um período não inferior a 15 dias, a partir do dia 21 de Outubro, respectivamente pelos Srs. Deputados João Carlos Teixeira Baltazar Gomes, António Manuel dos Santos Murteira e António Filipe; e à prorrogação do prazo de substituição dos Srs. Deputados Carlos Carvalhas, do PCP, até ao dia 20 de Outubro corrente, inclusive, e Mário Videira Lopes, do PS, até ao dia 30 de Outubro corrente, inclusive, respectivamente pelos Srs. Deputados António Filipe e José Eduardo Reis.", 
-   "type": "documento"
+   "party": "Lemos Damião", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados: O relatório e parecer refere-se à substituição dos Srs. Deputados Fernanda Cardoso, do PSD, por um período não inferior a 15 dias, a partir do dia 15 de Outubro, Lourdes Hespanhol, do PCP, por um período não inferior a 15 dias, a partir do dia 15 de Outubro, e Domingos Abrantes, do PCP, por um período não inferior a 15 dias, a partir do dia 21 de Outubro, respectivamente pelos Srs. Deputados João Carlos Teixeira Baltazar Gomes, António Manuel dos Santos Murteira e António Filipe; e à prorrogação do prazo de substituição dos Srs. Deputados Carlos Carvalhas, do PCP, até ao dia 20 de Outubro corrente, inclusive, e Mário Videira Lopes, do PS, até ao dia 30 de Outubro corrente, inclusive, respectivamente pelos Srs. Deputados António Filipe e José Eduardo Reis.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em apreciação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em apreciação.\nNão havendo inscrições, vamos votar o parecer.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Não havendo inscrições, vamos votar o parecer.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado, com votos a favor do PSD, do PS, do PCP, do CDS, de Os Verdes e do PSN e votos contra do Deputado do PSD João Salgado.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, passamos, de seguida, à votação dos projectos de deliberação n.ºs 46/VI - Debate sobre a segurança interna (PSD) e 47/VI - Debate sobre a política económica e social (PSD).\nVamos, em primeiro lugar, proceder à votação do projecto de deliberação n.º 46/VI.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado por unanimidade, registando-se a ausência do Deputado independente João Corregedor da Fonseca.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Vamos, em segundo lugar, proceder a votação do projecto de deliberação n.º 47/VI.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado por unanimidade, registando-se a ausência do Deputado independente João Corregedor da Fonseca.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, a próxima reunião plenária realiza-se amanhã, com início às 10 horas, e terá como ordem de trabalhos um debate sobre assuntos de interesse regional.\nEstá encerrada a sessão.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 16 horas e 55 minutos.", 
@@ -444,61 +443,85 @@
   {
    "speaker": "Faltaram à sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Manuel Acácio Martins Roque.\nManuel Antero da Cunha Pinto.\nAntónio da Silva Bacelar.\nCecília Pita Catarino.\nManuel da Costa Andrade.\nJosé Macário Custódio Correia.\nPedro Domingos Sousa e Holstein Campilho.\nPedro Manuel Mamede Passos Coelho.\nPedro Manuel Cruz Roseta.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "DIÁRIO da Assembleia da República", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Depósito legal n.º 8818/85", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "IMPRENSA NACIONAL-CASA DA MOEDA, E. P.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "AVISO", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Por ordem superior e para constar, comunica-se que não serão aceites quaisquer originais destinados ao Diário da República desde que não tragam aposta a competente ordem de publicação, assinada e autenticada com selo branco.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "PORTE PAGO", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "1 - Preço de página para venda avulso, 6$ + IVA; preço por linha de anúncio, 178$ + IVA.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "2 - Para os novos assinantes do Diário da Assembleia da República, o período da assinatura será compreendido de Janeiro a Dezembro de cada ano. Os números publicados em Novembro e Dezembro do ano anterior que completam a legislatura serão adquiridos ao preço de capa.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "3 - Os prazos de reclamação de faltas do Diário da República para o continente e regiões autónomas e estrangeiro são, respectivamente, de 30 e 90 dias à data da sua publicação.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "PREÇO DESTE NÚMERO 76$00 (IVA INCLUÍDO 5 %)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Toda a correspondência, quer oficial, quer relativa a anúncios e a assinaturas do «Diário da República» e do «Diário da Assembleia da República», deve ser dirigiria á administração da Imprensa \nNacional-Casa da Moeda, E. P., Rua de D. Francisco Manuel de Melo, 5 - 1992 Lisboa Codex", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

@@ -37,8 +37,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 45 minutos.", 
@@ -48,19 +49,25 @@
    "party": "PPD/PSD", 
    "speaker": "Estavam presentes os seguintes Srs. Deputados: Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Estavam presentes os seguintes Srs. Deputados: Partido Social-Democrata", 
    "text": "Abílio Gaspar Rodrigues.\nAdérito Manuel Soares Campos.\nAlberto Monteiro Araújo.\nÁlvaro Barros Marques de Figueiredo.\nÁlvaro José Rodrigues Carvalho.\nAmândio Anes de Azevedo.\nAmândio dos Anjos Gomes.\nAmândio Santa Cruz Basto Oliveira.\nAmélia Cavaleiro Andrade Azevedo.\nAntónio d'Orey Capucho.\nAntónio Joaquim Bastos Marques Mendes.\nAntónio Jorge de Figueiredo Lopes.\nAntónio Roleira Marinho.\nArlindo da Silva André Moreira.\nArménio dos Santos.\nArnaldo Ângelo de Brito Lhamas.\nAurora Margarida Borges de Carvalho.\nBelarmino Henriques Correia.\nCândido Alberto Alencastre Pereira.\nCarlos Alberto Pinto.\nCecília Pita Catarino.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nDomingos Duarte Lima.\nDomingos Silva e Sousa.\nFernando Barata Rocha.\nFernando Dias de Carvalho Conceição.\nFernando José Próspero Luís.\nFrancisco Rodrigues Porto.\nGuido Orlando de Freitas Rodrigues.\nHenrique Luís Esteves Bairrão.\nHenrique Rodrigues Mata.\nJoão Domingos Abreu Salgado.\nJoão José Pedreira de Matos.\nJoão José Pimenta de Sousa.\nJoão Maria Ferreira Teixeira.\nJoaquim Carneiro de Barros Domingues.\nJoaquim da Silva Martins.\nJosé Augusto Santos Silva Marques.\nJosé Filipe de Athayde Carvalhosa.\nJosé Francisco Amaral.\nJosé Guilherme Coelho dos Reis.\nJosé Júlio Vieira Mesquita.\nJosé Luís Bonifácio Ramos.\nJosé Mendes Bota.\nJosé Mendes Melo Alves.\nLuís Jorge Cabral Tavares Lima.\nManuel da Costa Andrade.\nManuel Ferreira Martins.\nManuel Joaquim Dias Loureiro.\nManuel Maria Moreira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Estavam presentes os seguintes Srs. Deputados: Partido Social-Democrata", 
    "text": "3060 I SÉRIE-NÚMERO 81", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Estavam presentes os seguintes Srs. Deputados: Partido Social-Democrata", 
    "text": "Maria Antonieta Cardoso Moniz.\nMário de Oliveira Mendes dos Santos.\nMiguel Fernando Miranda Relvas.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Limpo Salvada.\nValdemar Cardoso Alves.\nVirgílio de Oliveira Carneiro.\nVítor Pereira Crespo.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -138,123 +145,141 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, o Sr. Secretário vai proceder à leitura do expediente.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai proceder à leitura do expediente.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* (Reinaldo Gomes): Foram apresentadas na Mesa as seguintes ratificações: n. º 77/IV, da iniciativa do Sr. Deputado Jorge Lemos e outros do Partido Comunista Português, relativamente ao Decreto-Lei n.º 118/86, de 27 de Maio, que foi admitida; n.º 78/IV, da iniciativa do Sr. Deputado Jorge Lemos e outros do Partido Comunista Português, relativa ao Decreto-Lei n.º 121/86, de 28 de Maio, que foi admitida.\nForam igualmente apresentados na Mesa na última Reunião Plenária os seguintes requerimentos: a diversos Ministérios (4), formulados pelos Srs. Deputados Jorge Patrício e Rogério Moreira; à Secretaría de Estado das Comunidades, formulado pelos Srs. Deputados Mota Torres e Caio Roque; ao Ministério da Justiça (12), formulados pelos Srs. Deputados José Magalhães e José Manuel Mendes; ao Ministério da Saúde, formulado pelo Sr. Deputado Horácio Marçal; às Secretarias de Estado da Indústria e Energia e do Tesouro (2), formulados pelo Sr. Deputado Octávio Teixeira; à Secretaria de Estado do Turismo e ao Ministério do Plano e da Administração do Território (2), formulados pelo Sr. Deputado Raul Junqueiro; ao Governo Civil do Porto, formulado pelo Sr. Deputado Barbosa da Costa; ao Ministério da Defesa Nacional, formulado pelo Sr.Deputado Luís Roque; ao Ministério dos Negócios Estrangeiros, formulado pelo Sr. Deputado Adriano Moreira; ao Ministério da Educação e Cultura, formulado pelo Sr. Deputado Agostinho Domingues.\nO Governo respondeu a requerimentos apresentados pelos seguintes Srs.Deputados: Maria Odete Santos, na sessão de 16 de Janeiro; Armando Lopes, na sessão de 6 de Março; Ribeiro Teles, na sessão de 6 de Março; Fernando Dias de Carvalho e Guerreiro Norte, na sessão de 13 de Março; Carlos Martins, na sessão de 18 de Março; Eduardo Pereira e outros, na sessão de 19 de Março; Corujo Lopes, na sessão de 8 de Abril; António Barreto, nas sessões de 10 de Abril e 15 de Maio; Raul Junqueiro, na sessão de 10 de Abril; Francisco Armando Fernandes, nas sessões de 16 de Abril e 9 de Maio; António Sousa Pereira, na sessão de 8 de Maio; José Mendes Bota, na sessão de 8 de Maio; Jorge Lemos, na sessão de 15 de Maio.", 
-   "type": "deputado_continuacao"
+   "party": "Reinaldo Gomes", 
+   "speaker": "Secretário", 
+   "text": "Foram apresentadas na Mesa as seguintes ratificações: n. º 77/IV, da iniciativa do Sr. Deputado Jorge Lemos e outros do Partido Comunista Português, relativamente ao Decreto-Lei n.º 118/86, de 27 de Maio, que foi admitida; n.º 78/IV, da iniciativa do Sr. Deputado Jorge Lemos e outros do Partido Comunista Português, relativa ao Decreto-Lei n.º 121/86, de 28 de Maio, que foi admitida.\nForam igualmente apresentados na Mesa na última Reunião Plenária os seguintes requerimentos: a diversos Ministérios (4), formulados pelos Srs. Deputados Jorge Patrício e Rogério Moreira; à Secretaría de Estado das Comunidades, formulado pelos Srs. Deputados Mota Torres e Caio Roque; ao Ministério da Justiça (12), formulados pelos Srs. Deputados José Magalhães e José Manuel Mendes; ao Ministério da Saúde, formulado pelo Sr. Deputado Horácio Marçal; às Secretarias de Estado da Indústria e Energia e do Tesouro (2), formulados pelo Sr. Deputado Octávio Teixeira; à Secretaria de Estado do Turismo e ao Ministério do Plano e da Administração do Território (2), formulados pelo Sr. Deputado Raul Junqueiro; ao Governo Civil do Porto, formulado pelo Sr. Deputado Barbosa da Costa; ao Ministério da Defesa Nacional, formulado pelo Sr.Deputado Luís Roque; ao Ministério dos Negócios Estrangeiros, formulado pelo Sr. Deputado Adriano Moreira; ao Ministério da Educação e Cultura, formulado pelo Sr. Deputado Agostinho Domingues.\nO Governo respondeu a requerimentos apresentados pelos seguintes Srs.Deputados: Maria Odete Santos, na sessão de 16 de Janeiro; Armando Lopes, na sessão de 6 de Março; Ribeiro Teles, na sessão de 6 de Março; Fernando Dias de Carvalho e Guerreiro Norte, na sessão de 13 de Março; Carlos Martins, na sessão de 18 de Março; Eduardo Pereira e outros, na sessão de 19 de Março; Corujo Lopes, na sessão de 8 de Abril; António Barreto, nas sessões de 10 de Abril e 15 de Maio; Raul Junqueiro, na sessão de 10 de Abril; Francisco Armando Fernandes, nas sessões de 16 de Abril e 9 de Maio; António Sousa Pereira, na sessão de 8 de Maio; José Mendes Bota, na sessão de 8 de Maio; Jorge Lemos, na sessão de 15 de Maio.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "O Sr. *Presidente*: Srs. Deputados, foi entregue na Mesa um voto de pesar do seguinte teor", 
-   "text": "", 
-   "type": "inicio_documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, foi entregue na Mesa um voto de pesar do seguinte teor:\nA Assembleia da República manifesta o seu profundo pesar pelo falecimento do Sr. Deputado António Gonçalves Janeiro que a esta Câmara prestou o melhor da sua capacidade e actividade até ao esgotamento.\nFoi dirigente sindical, respeitado pelos trabalhadores que representava e por todos que com ele contactavam e foi, sobretudo, um homem de bem na mais nobre acepção da palavra.\nA Assembleia da República apresenta as suas condolências à família do Sr. Deputado António Gonçalves Janeiro a quem, neste momento, sinceramente acompanha.\nEstá em apreciação o voto de pesar agora lido. Pausa.\nTem a palavra o Sr. Deputado José Luís Nunes.", 
+   "type": "presidente"
   }, 
   {
-   "text": "A Assembleia da República manifesta o seu profundo pesar pelo falecimento do Sr. Deputado António Gonçalves Janeiro que a esta Câmara prestou o melhor da sua capacidade e actividade até ao esgotamento.\nFoi dirigente sindical, respeitado pelos trabalhadores que representava e por todos que com ele contactavam e foi, sobretudo, um homem de bem na mais nobre acepção da palavra.\nA Assembleia da República apresenta as suas condolências à família do Sr. Deputado António Gonçalves Janeiro a quem, neste momento, sinceramente acompanha.\nEstá em apreciação o voto de pesar agora lido. Pausa.\nTem a palavra o Sr. Deputado José Luís Nunes.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "José Luis Nunes", 
+   "text": "Sr. Presidente, Srs. Deputados: Foi num estado próximo do estado de choque que o Grupo Parlamentar do Partido Socialista foi confrontado com a morte do nosso camarada e colega António Gonçalves Janeiro.\nAntónio Janeiro tinha 39 anos de idade, era dirigente sindical, presidente do Sindicato dos Trabalhadores de Escritório e Serviços, SITESE.\nComo dirigente sindical teve sempre uma actuação que se pautou pela defesa intransigente dos direitos dos seus representados. Deixou no SITESE uma obra excepcional, em benefício da classe que representava, no campo da prestação de serviços, em negociações colectivas, em melhoria de condições de vida, enfim, em tudo que pudesse ser apanágio de um dirigente sindical para quem os seus representados constituem também uma parte da sua própria vida.\nAntónio Janeiro era, assim, um homem que não podia dedicar-se a qualquer assunto que fosse da sua vida sem um sentimento de adesão tão forte que roçava a própria paixão.\nComo dirigente político, nomeadamente dirigente do Partido Socialista, António Gonçalves Janeiro desempenhou as mais altas responsabilidades no Partido Socialista. Fez parte de variadíssimas comissões técnicas eleitorais, onde o seu dinamismo, a sua capacidade de acção, a sua inteligência e a sua dedicação de trabalho permitiram ao Partido e, sobretudo, a muitos de nós deputados que nos sentássemos nas cadeiras desta Casa.\nFoi um activo dinamizador da campanha que conduziu o Dr. Mário Soares à Presidência da República. E foi um dinamizador constante, presente, sobretudo nos momentos mais difíceis e de desânimo, nos quais estava sempre pronto a animar-se a si próprio e a incutir-nos o ânimo que muitas vezes, em situações difíceis, nos podia faltar.\nFoi, ainda, dirigente do Partido Socialista como membro da Comissão Permanente, órgão mais alto deste partido, como membro da Comissão Nacional, como membro da Comissão Política, com uma actividade interventora constante, eficaz e ponderada.\nPode dizer-se que era um homem de conciliação, mas também um homem de convicções firmes. Para ele a conciliação consistia em ouvir com o maior respeito e com a maior tolerância as razões que lhe eram opôs- 3062 I SÉRIE - NÚMERO 81", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Luis Nunes* (PS): Sr. Presidente, Srs. Deputados: Foi num estado próximo do estado de choque que o Grupo Parlamentar do Partido Socialista foi confrontado com a morte do nosso camarada e colega António Gonçalves Janeiro.\nAntónio Janeiro tinha 39 anos de idade, era dirigente sindical, presidente do Sindicato dos Trabalhadores de Escritório e Serviços, SITESE.\nComo dirigente sindical teve sempre uma actuação que se pautou pela defesa intransigente dos direitos dos seus representados. Deixou no SITESE uma obra excepcional, em benefício da classe que representava, no campo da prestação de serviços, em negociações colectivas, em melhoria de condições de vida, enfim, em tudo que pudesse ser apanágio de um dirigente sindical para quem os seus representados constituem também uma parte da sua própria vida.\nAntónio Janeiro era, assim, um homem que não podia dedicar-se a qualquer assunto que fosse da sua vida sem um sentimento de adesão tão forte que roçava a própria paixão.\nComo dirigente político, nomeadamente dirigente do Partido Socialista, António Gonçalves Janeiro desempenhou as mais altas responsabilidades no Partido Socialista. Fez parte de variadíssimas comissões técnicas eleitorais, onde o seu dinamismo, a sua capacidade de acção, a sua inteligência e a sua dedicação de trabalho permitiram ao Partido e, sobretudo, a muitos de nós deputados que nos sentássemos nas cadeiras desta Casa.\nFoi um activo dinamizador da campanha que conduziu o Dr. Mário Soares à Presidência da República. E foi um dinamizador constante, presente, sobretudo nos momentos mais difíceis e de desânimo, nos quais estava sempre pronto a animar-se a si próprio e a incutir-nos o ânimo que muitas vezes, em situações difíceis, nos podia faltar.\nFoi, ainda, dirigente do Partido Socialista como membro da Comissão Permanente, órgão mais alto deste partido, como membro da Comissão Nacional, como membro da Comissão Política, com uma actividade interventora constante, eficaz e ponderada.\nPode dizer-se que era um homem de conciliação, mas também um homem de convicções firmes. Para ele a conciliação consistia em ouvir com o maior respeito e com a maior tolerância as razões que lhe eram opôs-", 
-   "type": "documento"
-  }, 
-  {
-   "text": "3062 I SÉRIE - NÚMERO 81", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "José Luis Nunes", 
    "text": "tas, em confrontá-las com as suas e ver em quê medida é que o interesse geral, o interesse do partido, o interesse nacional deveria permanecer.\nForam estes os métodos de actuação de António Gonçalves Janeiro, em toda a sua vida, nos mais diversos níveis em que teve de actuar.\nNo Grupo Parlamentar Socialista teve uma presença activa, não só em alguns debates, que conduziu com brilho e com dedicação neste Plenário, mas também e sobretudo no próprio grupo parlamentar onde as suas intervenções eram ouvidas, escutadas e respeitadas. A sua morte faz-nos meditar um pouco sobre a precaridade da vida.\nA sua morte faz-nos lamentar profundamente e meditar sobre o sentido da justiça, pois é uma morte tão injusta e tão inadequada a uma vida tão exemplar que nos coloca, a nós socialistas, e a todos aqueles que foram seus amigos -e foram muitos -, próximo do estado de choque.\nDesde que a democracia se instaurou em Portugal que vive da dedicação de homens como este, de homens que os políticos costumam chamar de referências morais, consciências morais.\nAntónio Gonçalves Janeiro, apesar da sua idade - era um homem jovem, tinha 39 anos -, era já uma referência moral e uma consciência moral do Partido Socialista e de todo o movimento sindical no qual se integrava.\nAo dizer estas palavras, Srs. Deputados, gostaria de dominar alguma emoção e de lhes dizer que António Janeiro abre nas fileiras do Partido Socialista um lugar absolutamente insubstituível. Não há homens insubstituíveis, mas há momentos em que as pessoas o são. António Janeiro deixa um lugar absolutamente vago! \nOs socialistas vão sentir a sua falta, a falta de um camarada atento, crítico, com uma excepcional capacidade de trabalho e dedicação sem limites.\nOs trabalhadores vão sentir a sua falta, como sindicalista capaz, atento, dedicado.\nPermitam-me que lhes diga, Srs. Deputados, que todos nós, de todas as bancadas, também vamos sentir profundamente a sua falta.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra ò Sr. Deputado Seiça Neves.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra ò Sr. Deputado Seiça Neves.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Seiça Neves (MDP/CDE): Sr, Presidente, Srs. Deputados: \nAssociamo-nos sentidamente ao voto de pesar pela morte do deputado António Janeiro. Apresentamos sentidas condolências à família daquele nosso colega, à Direcção do Partido Socialista e ao Grupo Parlamentar Socialista.\nPorque entendemos que os mortos não devem ser perturbados no seu silêncio, deixamos aqui apenas duas palavras de recolhimento e saudade.\nPorque morreu um homem novo ficou o futuro mais sombrio.\nPorque morreu um democrata perdeu o 25 de Abril um soldado.\nPorque a morte nos nega, nos assalta agora a ideia de perante a sua brutalidade saudar todos aqueles que organizadamente animam o exemplo deste e de todos os sindicalistas caídos em nome da vida, do futuro e do socialismo.\nAntónio Janeiro merece o nosso respeito, o respeito de toda a Câmara. E não podemos esquecer que devotado à causa da liberdade, da democracia e do sindicalismo, que decidiu abraçar, António Janeiro caiu exactamente quando defendia aqueles princípios por que sempre soube lutar.", 
-   "type": "documento"
+   "text": "Sr, Presidente, Srs. Deputados: \nAssociamo-nos sentidamente ao voto de pesar pela morte do deputado António Janeiro. Apresentamos sentidas condolências à família daquele nosso colega, à Direcção do Partido Socialista e ao Grupo Parlamentar Socialista.\nPorque entendemos que os mortos não devem ser perturbados no seu silêncio, deixamos aqui apenas duas palavras de recolhimento e saudade.\nPorque morreu um homem novo ficou o futuro mais sombrio.\nPorque morreu um democrata perdeu o 25 de Abril um soldado.\nPorque a morte nos nega, nos assalta agora a ideia de perante a sua brutalidade saudar todos aqueles que organizadamente animam o exemplo deste e de todos os sindicalistas caídos em nome da vida, do futuro e do socialismo.\nAntónio Janeiro merece o nosso respeito, o respeito de toda a Câmara. E não podemos esquecer que devotado à causa da liberdade, da democracia e do sindicalismo, que decidiu abraçar, António Janeiro caiu exactamente quando defendia aqueles princípios por que sempre soube lutar.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, Srs. Deputados: O falecimento súbito e inesperado de António Janeiro, na força da vida e no momento em que se dedicava empenhadamente na sua actividade, não pode deixar de nos causar profunda impressão e por isso nos associamos à emoção com que o Sr. Deputado José Luís Nunes, em nome da bancada do Partido Socialista, se expressou há momentos.\nAntónio Janeiro foi um colega na Assembleia da República com quem, apesar de divergências conhecidas, sempre foi possível manter, e sempre mantivemos, um cordial relacionamento.\nPodemos conhecer e reconhecer a generosidade com que se entregou à luta pelas suas ideias. Por isso mesmo, em nome da bancada do Partido Comunista Português, associamo-nos ao pesar aqui expresso, manifestando ao Grupo Parlamentar do Partido Socialista e à família de António Janeiro as nossas profundas condolências.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, Srs. Deputados: O falecimento súbito e inesperado de António Janeiro, na força da vida e no momento em que se dedicava empenhadamente na sua actividade, não pode deixar de nos causar profunda impressão e por isso nos associamos à emoção com que o Sr. Deputado José Luís Nunes, em nome da bancada do Partido Socialista, se expressou há momentos.\nAntónio Janeiro foi um colega na Assembleia da República com quem, apesar de divergências conhecidas, sempre foi possível manter, e sempre mantivemos, um cordial relacionamento.\nPodemos conhecer e reconhecer a generosidade com que se entregou à luta pelas suas ideias. Por isso mesmo, em nome da bancada do Partido Comunista Português, associamo-nos ao pesar aqui expresso, manifestando ao Grupo Parlamentar do Partido Socialista e à família de António Janeiro as nossas profundas condolências.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra a Sr.ª Deputada Ana Gonçalves.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Deputada Ana Gonçalves.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Ana Gonçalves (PRD): Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do PRD associa-se sinceramente ao luto e à dor dos deputados do PS, dos sindicalistas da UGT, bem como dos familiares de António Janeiro.\nLamentamos profundamente que uma morte tão súbita tenha levado um homem ainda tão novo e que dedicou tantos anos da sua vida pela luta dos ideais que considerava justos.", 
-   "type": "documento"
+   "text": "Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do PRD associa-se sinceramente ao luto e à dor dos deputados do PS, dos sindicalistas da UGT, bem como dos familiares de António Janeiro.\nLamentamos profundamente que uma morte tão súbita tenha levado um homem ainda tão novo e que dedicou tantos anos da sua vida pela luta dos ideais que considerava justos.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Cavaleiro Brandão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Cavaleiro Brandão.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Cavaleiro Brandão* (CDS): Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do CDS - todos nós e eu próprio - sente muito pesarosamente o passamento do deputado António Janeiro.\nApresentamos à família, à direcção do Partido Socialista e ao Grupo Parlamentar do Partido Socialista as nossas sentidas condolências.\nO grande mistério da morte torna-se ainda mais denso e mais espesso quando ela desce para nos arrebatar alguém cuja vitalidade todos os dias testemunhamos, alguém que sentimos vivo, activo e presente em cada hora, em cada momento.\nComo é difícil entender, acreditar, aceitar, assumir essa nossa fragilidade - a de podermos ser suspensos, definitivamente suspensos, nessa nossa vitalidade, nesse nosso entusiasmo, nessa nossa entrega, nessa nossa energia. Ainda é, por isso, bem difícil entender o que sucedeu com o nosso bom companheiro e colega António Janeiro.\nMais que o político, recordo nele o que sempre nele descobri em primeiro lugar - o homem e o sindicalista.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Cavaleiro Brandão", 
+   "text": "Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do CDS - todos nós e eu próprio - sente muito pesarosamente o passamento do deputado António Janeiro.\nApresentamos à família, à direcção do Partido Socialista e ao Grupo Parlamentar do Partido Socialista as nossas sentidas condolências.\nO grande mistério da morte torna-se ainda mais denso e mais espesso quando ela desce para nos arrebatar alguém cuja vitalidade todos os dias testemunhamos, alguém que sentimos vivo, activo e presente em cada hora, em cada momento.\nComo é difícil entender, acreditar, aceitar, assumir essa nossa fragilidade - a de podermos ser suspensos, definitivamente suspensos, nessa nossa vitalidade, nesse nosso entusiasmo, nessa nossa entrega, nessa nossa energia. Ainda é, por isso, bem difícil entender o que sucedeu com o nosso bom companheiro e colega António Janeiro.\nMais que o político, recordo nele o que sempre nele descobri em primeiro lugar - o homem e o sindicalista.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Cavaleiro Brandão", 
    "text": "20 DE JUNHO DE 1986 3063", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Cavaleiro Brandão", 
    "text": "O António Janeiro, que de há muito conhecia e que encontrei em plúrimas circunstâncias, foi sempre o homem forte de convicções, perseverante na prossecução dos objectivos que elegia como melhores, duro e hábil na negociação, mas sempre leal e aberto ao diálogo, com um apurado sentido das realidades. Tinha a coragem das decisões e dos grandes combates.\nEstava sempre na primeira linha de cada luta, pronto a assumir todas as suas muitas responsabilidades, para persistir, persistir ou para, quando entendesse que era a hora, conciliar e acordar.\nTodas essas qualidades fizeram dele um homem que verdadeiramente existiu, que mereceu a admiração e o respeito de quantos com ele trataram e conviveram.\nFoi um grande sindicalista, foi um grande líder sindical, foi um grande patrão sindical, que muitas vezes lhe ouvi chamar a colegas e colaboradores.\nDeixa um lugar vazio, certamente difícil de preencher.\nSou dos que, desde sempre, tem defendido que não haverá verdadeira democracia em Portugal enquanto não houver também um sindicalismo democrático, forte, sério e responsável. Contudo, os agentes desse sindicalismo não se produzem nem se reproduzem num qualquer aviário político. Forjam-se no estudo sério, no trabalho diário, no combate de anos, na prova real da vida e da representação dos interesses protagonizados.\nNão será fácil suprir a enorme lacuna aberta por um dirigente com a craveira e a envergadura do António Janeiro.\nCreio, sinceramente, que Deus saberá guardar-lhe o lugar que há-de estar reservado junto d'Ele, para os homens bons que transitam por este frágil mundo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Arménio Santos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Arménio Santos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Arménio Santos* (PSD): Sr. Presidente, Srs. Deputados: O imprevisto e a brutalidade do acontecimento que vitimou o Sr. Deputado António Janeiro deixou-nos profundamente chocados.\nTemos do António Janeiro um conhecimento pessoal que nos permite colocá-lo ao lado daqueles que desde muito cedo e com enormes riscos lutaram pelos princípios que são fundamentais à democracia e ao sindicalismo livre.\nAntónio Janeiro encontrou-se na primeira linha da defesa e construção da UGT, projecto sindical que hoje se assume como um marco determinante do nosso regime democrático. Como líder do Sindicato dos Trabalhadores de Escritório, Comércio e Serviços - SITESE, um dos mais poderosos e prestigiados sindicatos portugueses, desenvolveu uma actividade extremamente intensa em benefício daqueles que representava e em obediência a imperativos de liberdade e de justiça social.\nNas organizações internacionais em que participou sempre o norteou uma preocupação de dignificar o nosso pais e o movimento sindical democrático português.\nEm todas as suas acções vimos o António Janeiro entregar-se, com vivo entusiasmo e grande convicção, às causas nobres que abraçava e defendia. Era um homem coerente, esforçado e lutador. Era um sindicalista com um estilo próprio e que, à sua maneira e de forma corajosa, se batia por aquilo em que sinceramente acreditava.\nSoube merecer sempre o nosso respeito, mesmo quando dele discordávamos, como é normal entre pessoas que defendem os mais sãos princípios do sindicalismo democrático. Era um sindicalista leal e de corpo inteiro.\nO seu desaparecimento do nosso convívio é, pois, um revés muito sério para o sindicalismo português. Mas a morte prematura de António Janeiro representa, acima de tudo, a perda de um grande dirigente sindical, que sempre pautou a sua militância pela defesa dos interesses essenciais dos trabalhadores e pelos valores do sindicalismo democrático.\nPor isso, nos associámos ao voto de pesar e prestamos sincera e sentida homenagem à sua memória.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Arménio Santos", 
+   "text": "Sr. Presidente, Srs. Deputados: O imprevisto e a brutalidade do acontecimento que vitimou o Sr. Deputado António Janeiro deixou-nos profundamente chocados.\nTemos do António Janeiro um conhecimento pessoal que nos permite colocá-lo ao lado daqueles que desde muito cedo e com enormes riscos lutaram pelos princípios que são fundamentais à democracia e ao sindicalismo livre.\nAntónio Janeiro encontrou-se na primeira linha da defesa e construção da UGT, projecto sindical que hoje se assume como um marco determinante do nosso regime democrático. Como líder do Sindicato dos Trabalhadores de Escritório, Comércio e Serviços - SITESE, um dos mais poderosos e prestigiados sindicatos portugueses, desenvolveu uma actividade extremamente intensa em benefício daqueles que representava e em obediência a imperativos de liberdade e de justiça social.\nNas organizações internacionais em que participou sempre o norteou uma preocupação de dignificar o nosso pais e o movimento sindical democrático português.\nEm todas as suas acções vimos o António Janeiro entregar-se, com vivo entusiasmo e grande convicção, às causas nobres que abraçava e defendia. Era um homem coerente, esforçado e lutador. Era um sindicalista com um estilo próprio e que, à sua maneira e de forma corajosa, se batia por aquilo em que sinceramente acreditava.\nSoube merecer sempre o nosso respeito, mesmo quando dele discordávamos, como é normal entre pessoas que defendem os mais sãos princípios do sindicalismo democrático. Era um sindicalista leal e de corpo inteiro.\nO seu desaparecimento do nosso convívio é, pois, um revés muito sério para o sindicalismo português. Mas a morte prematura de António Janeiro representa, acima de tudo, a perda de um grande dirigente sindical, que sempre pautou a sua militância pela defesa dos interesses essenciais dos trabalhadores e pelos valores do sindicalismo democrático.\nPor isso, nos associámos ao voto de pesar e prestamos sincera e sentida homenagem à sua memória.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Não havendo mais inscrições, vamos votar o voto de pesar.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Não havendo mais inscrições, vamos votar o voto de pesar.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Presidente*: Quero declarar que os membros da Mesa se associam ao voto de pesar apresentado pelo Partido Socialista, solidarizando-se com os que sofrem a dor da perda deste nosso companheiro António Janeiro, designadamente aos seus familiares e ao Partido Socialista.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Quero declarar que os membros da Mesa se associam ao voto de pesar apresentado pelo Partido Socialista, solidarizando-se com os que sofrem a dor da perda deste nosso companheiro António Janeiro, designadamente aos seus familiares e ao Partido Socialista.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *José Luís Nunes* (PS): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Luís Nunes* (PS): Sr. Presidente, antes de encerrar a sessão, proponho que se guarde um minuto de silêncio em memória de António Gonçalves Janeiro.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
+   "text": "Sr. Presidente, antes de encerrar a sessão, proponho que se guarde um minuto de silêncio em memória de António Gonçalves Janeiro.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Dado este infausto acontecimento, a conferência de líderes deliberou interromper os trabalhos.\nContudo, antes de o fazermos, e aceitando a sugestão proposta pelo Sr.Deputado José Luís Nunes, em homenagem à memória do Sr. Deputado António Janeiro vamos guardar um minuto de silêncio.\nA Câmara guardou, de pé, um minuto de silêncio.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Dado este infausto acontecimento, a conferência de líderes deliberou interromper os trabalhos.\nContudo, antes de o fazermos, e aceitando a sugestão proposta pelo Sr.Deputado José Luís Nunes, em homenagem à memória do Sr. Deputado António Janeiro vamos guardar um minuto de silêncio.\nA Câmara guardou, de pé, um minuto de silêncio.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Quero ainda pedir aos Srs. Vice-Presidentes e demais membros da Mesa o favor de, logo que eu interrompa os trabalhos, comparecerem no meu gabinete a fim de fazermos uma reunião, que será muito breve.\nInformo os Srs. Deputados que as votações que estavam previstas para hoje às 12 horas terão lugar amanhã às 12 horas.\nDa sessão de amanhã, que terá início às 10 horas, constará do período da ordem do dia a discussão da proposta de lei n.º 6/IV, que concede ao Governo autorização legislativa para rever o regime jurídico da cessação do contrato de trabalho e dos contratos de trabalho a prazo e para estabelecer a disciplina jurídica do trabalho temporário.\nAgradeço aos Srs. Deputados o favor de, se possível, serem pontuais, para que possamos cumprir a agenda.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Quero ainda pedir aos Srs. Vice-Presidentes e demais membros da Mesa o favor de, logo que eu interrompa os trabalhos, comparecerem no meu gabinete a fim de fazermos uma reunião, que será muito breve.\nInformo os Srs. Deputados que as votações que estavam previstas para hoje às 12 horas terão lugar amanhã às 12 horas.\nDa sessão de amanhã, que terá início às 10 horas, constará do período da ordem do dia a discussão da proposta de lei n.º 6/IV, que concede ao Governo autorização legislativa para rever o regime jurídico da cessação do contrato de trabalho e dos contratos de trabalho a prazo e para estabelecer a disciplina jurídica do trabalho temporário.\nAgradeço aos Srs. Deputados o favor de, se possível, serem pontuais, para que possamos cumprir a agenda.\n3064 I SÉRIE-NÚMERO 81", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "3064 I SÉRIE-NÚMERO 81", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Está encerrada a sessão.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 11 horas e 10 minutos.", 
@@ -263,17 +288,19 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "António Paulo Pereira Coelho.\nFrancisco Jardim Ramos.\nJoão Luís Malato Correia.\nJosé de Almeida Cesário.\nLicínio Moreira da Silva.\nLuís António Damásio Capoulas.\nMário Jorge Belo Maciel.\nVasco Francisco Aguiar Miguel.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

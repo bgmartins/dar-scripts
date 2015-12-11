@@ -49,8 +49,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 16 horas e 10 minutos.", 
@@ -60,11 +61,13 @@
    "party": "PPD/PSD", 
    "speaker": "Estavam presentes os seguintes Srs. Deputados: Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Estavam presentes os seguintes Srs. Deputados: Partido Social-Democrata", 
    "text": "Abílio de Mesquita Araújo Guedes.\nAdérito Manuel Soares Campos.\nAlberto Cerqueira de Oliveira.\nAlberto Monteiro de Araújo.\nAlexandre Azevedo Monteiro.\nÁlvaro Cordeiro Dâmaso.\nAmândio dos Anjos Gomes.\nAmândio Santa Cruz Basto Oliveira.\nAntónio Abílio Costa.\nAntónio Augusto Lacerda de Queirós.\nAntónio Augusto Ramos.\nAntónio de Carvalho Martins.\nAntónio Costa de A. Sousa Lara.\nAntónio Joaquim Correia Vairinhos.\nAntónio Jorge Santos Pereira.\nAntónio José Caeiro da Mota Veiga.\nAntónio José de Carvalho.\nAntónio Manuel Lopes Tavares.\nAntónio Maria Oliveira de Matos.\nAntónio Maria Ourique Mendes.\nAntónio Maria Pereira.\nAntónio Paulo Martins Pereira Coelho.\nAntónio Sérgio Barbosa de Azevedo.\nAntónio da Silva Bacelar.\nAristides Alves do Nascimento Teixeira.\nArlindo da Silva André Moreira.\nArmando de Carvalho Guerreiro da Cunha.\nArmando Lopes Correia Costa.\nArménio dos Santos.\nArnaldo Ângelo Brito Lhamas.\nBelarmino Henriques Correia.\nCarlos Lélis da Câmara Gonçalves.\nCarlos Manuel Duarte Oliveira.\nCarlos Manuel Oliveira da Silva.\nCarlos Manuel Pereira Baptista.\nCarlos Miguel M. de Almeida Coelho.\nCasimira Gomes Pereira.\nCecília Pita Catarino.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nDomingos Duarte Lima.\nDomingos da Silva e Sousa.\nDulcíneo António Campos Rebelo.\nEduardo Alfredo de Carvalho P. da Silva.\nErcília Domingues M. P. Ribeiro da Silva.\nEvaristo de Almeida Guerra de Oliveira.\nFernando Barata Rocha.\nFernando Dias de Carvalho Conceição.\nFernando José Antunes Gomes Pereira.\nFernando José R. Roque Correia Afonso.\nFernando Manuel Alves Cardoso Ferreira.\nFernando Monteiro do Amaral.\nFernando dos Reis Condessa \nFilipe Manuel Silva Abreu.\nFrancisco João Bernardino da Silva.\nFrancisco Mendes Costa.\nGuido Orlando de Freitas Rodrigues.\nHilário Torres Azevedo Marques.\nJaime Carlos Marta Soares.\nJaime Gomes Mil-Homens.\nJoão Álvaro Poças Santos.\nJoão Costa da Silva.\nJoão Domingos F. de Abreu Salgado.\nJoão José Pedreira de Matos.\nJoão José da Silva Maçãs.\nJoão Maria Ferreira Teixeira.\nJoão Maria Oliveira Martins.\nJoão Soares Pinto Montenegro.\nJoaquim Eduardo Gomes.\nJoaquim Vilela de Araújo.\nJorge Paulo Scabra Roque da Cunha.\nJosé Alberto Puig dos Santos Costa.\nJosé de Almeida Cesário.\nJosé Álvaro Machado Pacheco Pereira.\nJosé Ângelo Ferreira Correia.\nJosé Assunção Marques.\nJosé Augusto Ferreira de Campos.\nJosé Augusto Santos Silva Marques.\nJosé Guilherme Pereira Coelho dos Reis.\nJosé Júlio Vieira Mesquita.\nJosé Lapa Pessoa Paiva.\nJosé Leite Machado.\nJosé Luís Bonifácio Ramos.\nJosé Luís de Carvalho Lalanda Ribeiro.\nJosé Mário Lemos Damião.\nJosé Pereira Lopes.\nLicínio Moreira da Silva.\nLuís António Martins.\nLuís Filipe Garrido Pais de Sousa.\nLuís Filipe Meneses Lopes.\nLuís Manuel Costa Geraldes.\nLuís Manuel Neves Rodrigues.\nLuís da Silva Carvalho.\nManuel António Sá Fernandes.\nManuel Augusto Pinto Barros.\nManuel Coelho dos Santos.\nManuel da Costa Andrade.\nManuel João Vaz Freixo.\nManuel Joaquim Baptista Cardoso.\nManuel Maria Moreira.\nMaria Antónia Pinho e Melo.\nMaria da Conceição U. de Castro Pereira.\nMaria Luísa Lourenço Ferreira.\nMaria Leonor Beleza M. Tavares.\nMaria Manuela Aguiar Moreira.\nMary Patrícia Pinheiro e Lança.\nMário Júlio Montalvão Machado.\nMário de Oliveira Mendes dos Santos.\nMateus Manuel Lopes de Brito.\nMiguel Fernando C. de Miranda Relvas.\nNuno Miguel S. Ferreira Silvestre.\nPedro Domingos de S. e Holstein Campilho.\nPedro Manuel Cruz Roseta.\nRosa Maria Tomé e Costa.\nRui Gomes da Silva.\nRui Manuel Parente Chancerelle de Macheie.\nValdemar Cardoso Alves.\nVirgílio de Oliveira Carneiro.\nWalter Lopes Teixeira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -172,7 +175,7 @@
   }, 
   {
    "speaker": "Deputados independentes", 
-   "text": "O Sr. Presidente da República Federativa do Brasil \n(Collor de Mello): Exmo. Sr. Dr. Vítor Pereira Crespo, Presidente da Assembleia da República, Ex.º Sr. Dr. Mário Soares, Presidente da República Portuguesa, Srs. Embaixadores acreditados junto do Estado Português, Srs. Deputados, minhas Senhoras e meus Senhores: Quero agradecer sensibilizado, Sr. Presidente, as palavras generosas que me dirige V. Ex.ª, ilustrando as tradições de cortesia desta Casa e a amizade profunda que une Brasil é Portugal.\nAo escrever suas memórias, há cerca de um século, afirmava Joaquim Nabuco que nós, Brasileiros, não vamos, mas voltamos à Europa.\nEvidentemente, referia-se o grande diplomata e estadista às raízes históricas e culturais da Nação Brasileira, firmemente plantados no solo fértil do Velho Continente. Sem a pretensão de corrigir Nabuco, diria que é sobretudo a Portugal que nós, Brasileiros, voltamos. Não sei se há na história dos povos exemplo que se assemelhe ao carinho mútuo que caracteriza as relações entre Brasil e Portugal. Nosso passado comum não é fonte de contendas ou ressentimentos, mas constitui, antes, testemunho indelével de amizade entre dois povos.\nSr. Presidente, Srs. Deputados: A história da democracia confunde-se com a crónica da vida parlamentar. Neto e filho de políticos, e tendo tido eu mesmo a honra e o privilégio de exercer mandato no Congresso brasileiro, sinto-me autorizado a reafirmar minha convicção de que um parlamento forte e actuante é condição imprescindível para a vitalidade da instituição democrática.\nO poder legislativo, porta-voz privilegiado da vontade popular e de seus anseios de mudança, representa, simultaneamente, factor de estabilidade e de transformação. As complexas relações sociais e as funções múltiplas do poder público cada vez mais exigem a vigilância actuante e permanente do parlamento, de modo a garantir a fluidez do processo democrático e sua continuidade.\nMais do que um poder da República, o legislativo constitui um dos pólos imprescindíveis do funcionamento e do aperfeiçoamento da sociedade. No Brasil, o Congresso desempenhou papel capital na recuperação do processo democrático e na reconquista das liberdades essenciais. O movimento das \"Directas Já\", que traduzia o limite da nacionalidade ao arbítrio e ao paternalismo, encontrou nas lideranças parlamentares apoio de primeira hora. Sob esse impulso, a renovação da Carta Magna da República pela Assembleia Nacional Constituinte configurou um dos exercícios mais solidários entre segmentos amplamente expressivos da opinião pública brasileira e seus representantes políticos.\nVivemos hoje, no Brasil, uma democracia plena por mandato da voz do povo, com cujo apoio maciço assumi a chefia do Estado nas eleições mais exemplarmente livres da história republicana, e em cujo nome lancei um programa de reconstrução nacional.\nO acerto das drásticas medidas adoptadas para o saneamento da economia, a redinamização dos sectores produtivos, o arejamento ético da conduta governamental e o resgate da confiança e da esperança nacionais confirmou-se agora, aos sete meses de vigência do projecto Brasil Novo.\nA larga maioria dos políticos eleitos em 3 do corrente mês, tanto para os governos estaduais quanto para os legislativos da União e dos Estados, pautou sua campanha no compromisso com a modernidade que propusemos aos Brasileiros em 15 de Março último.\nEstou convencido, Sr. Presidente e Srs. Deputados, de que, a partir de agora, a nação actuará ainda mais irmanada na tarefa de levar o Brasil à prosperidade económica, assentada na justiça e na equidade sociais. O povo brasileiro e, no seu alto intermédio, as lideranças políticas nacionais, sabem que o projecto Brasil Novo continuará a exigir grandes sacrifícios da cidadania. Mas, graças à transparência da acção do governo, é reconhecimento unânime que, mais que nunca na história do país, foram esses sacrifícios reclamados de todas as parcelas da população, sobretudo dos que mais podem em benefício dos que mais precisam. A legitimidade do processo está precisamente na lisura de seus mecanismos, na grandeza de seus propósitos e na convicção generalizada de que hoje os poderes da República funcionam em estreita harmonia com as aspirações do povo brasileiro.", 
+   "text": "O Sr. Presidente da República Federativa do Brasil \n(Collor de Mello) (Collor de Mello):\nExmo. Sr. Dr. Vítor Pereira Crespo, Presidente da Assembleia da República, Ex.º Sr. Dr. Mário Soares, Presidente da República Portuguesa, Srs. Embaixadores acreditados junto do Estado Português, Srs. Deputados, minhas Senhoras e meus Senhores: Quero agradecer sensibilizado, Sr. Presidente, as palavras generosas que me dirige V. Ex.ª, ilustrando as tradições de cortesia desta Casa e a amizade profunda que une Brasil é Portugal.\nAo escrever suas memórias, há cerca de um século, afirmava Joaquim Nabuco que nós, Brasileiros, não vamos, mas voltamos à Europa.\nEvidentemente, referia-se o grande diplomata e estadista às raízes históricas e culturais da Nação Brasileira, firmemente plantados no solo fértil do Velho Continente. Sem a pretensão de corrigir Nabuco, diria que é sobretudo a Portugal que nós, Brasileiros, voltamos. Não sei se há na história dos povos exemplo que se assemelhe ao carinho mútuo que caracteriza as relações entre Brasil e Portugal. Nosso passado comum não é fonte de contendas ou ressentimentos, mas constitui, antes, testemunho indelével de amizade entre dois povos.\nSr. Presidente, Srs. Deputados: A história da democracia confunde-se com a crónica da vida parlamentar. Neto e filho de políticos, e tendo tido eu mesmo a honra e o privilégio de exercer mandato no Congresso brasileiro, sinto-me autorizado a reafirmar minha convicção de que um parlamento forte e actuante é condição imprescindível para a vitalidade da instituição democrática.\nO poder legislativo, porta-voz privilegiado da vontade popular e de seus anseios de mudança, representa, simultaneamente, factor de estabilidade e de transformação. As complexas relações sociais e as funções múltiplas do poder público cada vez mais exigem a vigilância actuante e permanente do parlamento, de modo a garantir a fluidez do processo democrático e sua continuidade.\nMais do que um poder da República, o legislativo constitui um dos pólos imprescindíveis do funcionamento e do aperfeiçoamento da sociedade. No Brasil, o Congresso desempenhou papel capital na recuperação do processo democrático e na reconquista das liberdades essenciais. O movimento das \"Directas Já\", que traduzia o limite da nacionalidade ao arbítrio e ao paternalismo, encontrou nas lideranças parlamentares apoio de primeira hora. Sob esse impulso, a renovação da Carta Magna da República pela Assembleia Nacional Constituinte configurou um dos exercícios mais solidários entre segmentos amplamente expressivos da opinião pública brasileira e seus representantes políticos.\nVivemos hoje, no Brasil, uma democracia plena por mandato da voz do povo, com cujo apoio maciço assumi a chefia do Estado nas eleições mais exemplarmente livres da história republicana, e em cujo nome lancei um programa de reconstrução nacional.\nO acerto das drásticas medidas adoptadas para o saneamento da economia, a redinamização dos sectores produtivos, o arejamento ético da conduta governamental e o resgate da confiança e da esperança nacionais confirmou-se agora, aos sete meses de vigência do projecto Brasil Novo.\nA larga maioria dos políticos eleitos em 3 do corrente mês, tanto para os governos estaduais quanto para os legislativos da União e dos Estados, pautou sua campanha no compromisso com a modernidade que propusemos aos Brasileiros em 15 de Março último.\nEstou convencido, Sr. Presidente e Srs. Deputados, de que, a partir de agora, a nação actuará ainda mais irmanada na tarefa de levar o Brasil à prosperidade económica, assentada na justiça e na equidade sociais. O povo brasileiro e, no seu alto intermédio, as lideranças políticas nacionais, sabem que o projecto Brasil Novo continuará a exigir grandes sacrifícios da cidadania. Mas, graças à transparência da acção do governo, é reconhecimento unânime que, mais que nunca na história do país, foram esses sacrifícios reclamados de todas as parcelas da população, sobretudo dos que mais podem em benefício dos que mais precisam. A legitimidade do processo está precisamente na lisura de seus mecanismos, na grandeza de seus propósitos e na convicção generalizada de que hoje os poderes da República funcionam em estreita harmonia com as aspirações do povo brasileiro.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -235,45 +238,40 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, declaro encerrada a sessão.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "24 DE OUTUBRO DE 1990 99", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, declaro encerrada a sessão.\n24 DE OUTUBRO DE 1990 99", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 16 horas e 50 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "A Banda da Guarda Nacional Republicana executou de novo os dois hinos nacionais.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Realizou-se então o cortejo de saída, composto pelas mesmas \nindividualidades do de entrada, tendo o Sr. Presidente da República Federativa do Brasil, o Sr. Presidente da República e o Sr. Presidente da Assembleia da República saudado o corpo diplomático com uma vénia ao passarem diante da tribuna.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "Dinah Serrão Alhandra.\nLeonardo Eugénio Ribeiro de Almeida.\nMaria Teresa Pinto Basto Gouveia.\nNuno Francisco F. Delerue Alvim de Matos.\nReinaldo Alberto Ramos Gomes.\nVasco Francisco Aguiar Miguel.\nVítor Pereira Crespo.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

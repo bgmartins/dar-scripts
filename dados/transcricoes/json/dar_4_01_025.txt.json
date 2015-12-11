@@ -33,8 +33,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 15 horas e 20 minutos.", 
@@ -43,29 +44,37 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Adérito Manuel Soares Campos.\nAlberto Monteiro Araújo.\nÁlvaro Barros Marques de Figueiredo.\nAmândio Anes de Azevedo.\nAmândio Basto Oliveira.\nAntónio Manuel Barata Portugal.\nAmélia Cavaleiro M. de Andrade Azevedo.\nAntónio d'Orey Capucho.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "830 \nI SÉRIE — NÚMERO 25 \nAntónio Joaquim Bastos Marques .Mendes.\nAntónio Manuel Lopes Tavares.\nAntónio Paulo Pereira Coelho.\nAntónio Roleira Marinho.\nAntónio Sérgio Barbosa de Azevedo.\nArlindo da Silva André Moreira \nArménio Jerónimo Martins Matias.\nArnaldo Ângelo de Brito Lhamas.\nAurora Margarida Borges de Carvalho.\nBelarmino Henriques Correia.\nCândido Alberto Alencastre Pereira.\nCarlos Alberto Pinto.\nCarlos Miguel M. de Almeida Coelho.\nCecília Pita Catarino.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nDinah Serrão Alhandra.\nDomingos Duarte Lima.\nDomingos Silva e Sousa.\nFernando Dias de Carvalho Conceição.\nFernando José Alves Figueiredo.\nFernando José Próspero Luís.\nFernando José Russo R.. Correia Afonso.\nFernando Manuel A. Cardoso Ferreira.\nFernando Monteiro do Amaral.\nFlausino Pereira da Silva.\nFrancisco Jardim Ramos.\nFrancisco Mendes Costa.\nFrancisco Rodrigues Porto.\nGuido Orlando de Freitas Rodrigues.\nHenrique Rodrigues Mata.\nHenrique Luís Esteves Bairrão.\nJoão Álvaro Poças Santos.\nJoão Domingos Abreu Salgado.\nJoão Luís Malato Correia.\nJoão José Pedreira de Matos.\nJoão José Pimenta de Sousa.\nJoão Maria Ferreira Teixeira.\nJoaquim Carneiro de Barros Domingues.\nJoaquim da Silva Martins.\nJosé de Almeida Cesário.\nJosé Ângelo Ferreira Correia.\nJosé Assunção Marques.\nJosé Augusto Santos da Silva Marques.\nJosé Filipe de Atayde Carvalhosa.\nJosé Francisco Amaral.\nJosé Guilherme Coelho dos Reis.\nJosé Júlio Vieira Mesquita.\nJosé Luís Bonifácio Ramos.\nJosé Maria Peixoto Coutinho.\nJosé Mendes Bota. -.\nJosé Mendes Melo Alves.\nJosé Pereira Lopes.\nJosé de Vargas Bulcão.\nLicinio Moreira da Silva.\nLuís António Damásio Capoulas.\nLuís António Martins.\nLuís Jorge Cabral Tavares Lima.\nLuís Manuel da Costa Geraldes.\nLuís Manuel Neves Rodrigues.\nManuel da Costa Andrade.\nManuel Ferreira Martins.\nManuel João Vaz Freixo.\nManuel Maria Moreira.\nMário Jorge Belo Maciel.\nMário de Oliveira Mendes dos Santos.\nMário Silva Coutinho Albuquerque.\nMiguel C. Miranda Relvas.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Barradas do Amaral.\nRui Alberto Limpo Salvada.\nRui Manuel de Oliveira Costa.\nRui Manuel Parente Chancerelle Machete.\nValdemar Cardoso Alves.\nVasco Francisco Aguiar Miguel.\nVirgílio de Oliveira Carneiro.\nVítor Pereira Crespo.\nPartido Socialista (PS).\nAgostinho de Jesus Domingues.\nAlberto Manuel Avelino.\nAlfredo José Somera Simões Barroso.\nAntónio de Almeida Santos.\nAntónio Cândido Miranda Macedo.\nAntónio Carlos Ribeiro Campos.\nAntónio Frederico Vieira de Moura.\nAntónio Gonçalves Janeiro.\nAntónio Manuel Ferreira Vitorino.\nAntónio Miguel de Morais Barreto.\nAntónio Manuel Maldonado Gonelha.\nAntónio Manuel de Oliveira Guterres.\nArmando dos Santos Lopes.\n^Carlos Alberto Raposo Santana Maia.\nCarlos Cardoso Lage.\nCarlos Manuel Luís.\nCarlos Manuel N. Costa Candal.\nCarlos Montez Melancia.\" - \nHelena Torres Marques.\nEduardo Ribeiro Pereira. - \nJaime José Matos da Gama.\nJoão Cardona Gomes Cravinho.\nJoão Eduardo Coelho Ferraz de Abreu.\nJorge. Alberto dos> Santos Correia.\nJorge Lacão Costa.\nJosé Apolinário Nunes Portada.\nJosé Augusto, Fillol Guimarães.\nJosé Barbosa Mota.\nJosé Carlos Pinto B. da Mota Torres.\nJosé 'Luis do Amaral Nunes.\nJosé Manuel Lello Ribeiro de Almeida.\nJosé dos Santos 'Gonçalves Frazão.\nJúlio Francisco Miranda Calha.\nLuis Silvério Gonçalves Saias.\nManuel Alfredo Tito .de Morais.\nManuel Luis Gomes Vaz.\nMário'Augusto Sottomayor Leal Cardia.\nMário Manuel .Cal Brandão.\nMário Nunes da Silva.\nRaúl d'Assunção Pimenta Rêgo.\nRaul Fernando Sousela da Costa Brito.\nRaul Manuel Gouveia B. Junqueiro.\nRicardo Manuel Rodrigues de Barros.\nRui do Nascimento Rabaça Vieira.\nVictor Hugo de Jesus Sequeira.\nVictor Manuel Caio Roque.\nPartido Renovador Democrático (PRD): \nAgostinho Correia de Sousa.\nAlexandre Manuel da Fonseca Leite.\nAna da Graça C. Gonçalves Antunes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "22 DE JANEIRO DE 1986 831", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "António Alves Marques Júnior.\nAntónio Eduardo A. de Sousa Pereira.\nAntónio Lopes Marques.\nAntónio Magalhães de Barros Feu.\nAntónio Maria Paulouro.\nArménio Ramos de Carvalho.\nCarlos Alberto da S. Narciso Martins.\nCarlos Alberto Rodrigues Matias.\nCarlos Artur Sá Furtado.\nCarlos Joaquim de Carvalho Ganopa.\nBártolo de Paiva Campos.\nFrancisco Barbosa da Costa.\nHermínio Paiva Fernandes Martinho.\nIvo Jorge de Almeida dos Santos Pinho.\nJoão Barros Madeira.\nJoaquim Carmelo Lobo.\nJoaquim Jorge de Magalhães Mota.\nJosé Alberto Paiva Seabra Rosa.\nJosé Caeiro Passinhas.\nJosé Carlos Torres Matos Vasconcelos.\nJosé Carlos Pereira Lilaia.\nJaime Manuel Coutinho de Silva Ramos.\nJosé Luís Correia de Azevedo.\nJosé da Silva Lopes.\nJosé Rodrigo da Costa Carvalho.\nJosé Torcato Dias Ferreira.\nOrlando Tito José Barbosa.\nPaulo Manuel Quintão Guedes de Campos.\nRui José dos Santos Silva.\nRui de Sá e Cunha.\nVasco da Gama Lopes Fernandes.\nVitorino da Silva Costa.\nVictor Manuel Lopes Vieira.\nVictor Manuel Ávila da Silva.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PCP", 
@@ -113,225 +122,217 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, vai proceder--se à leitura do expediente.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vai proceder--se à leitura do expediente.\nDeu-se conta do seguinte \nExpediente", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Deu-se conta do seguinte \nExpediente", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Cartas", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "De Joaquim Fernandes, residente no lugar da Murteira, concelho de Proença-a-Nova, expondo a situação de injustiça em que foi colocado com a não atribuição de uma reforma que solicitou e foi concedida a outros com idênticas condições; da mesa da assembleia da Comissão \nPró-Federação de Associações de Clubes de Caçadores dos Distritos de Aveiro e Coimbra, contendo algumas propostas sobre a problemática da caça.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Ofícios", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Da Câmara Municipal de Mora, enviando cópia da moção aprovada em reunião extraordinária, realizada no dia 5 do passado mês, acerca da situação das UCP/Cooperativas daquele concelho; da Assembleia de Freguesia de Caves, no concelho de Cabeceiras de Basto, remetendo fotocópias de uma proposta aprovada por unanimidade, em reunião realizada no dia 28 do passado mês de Dezembro, acerca do funcionamento dos postos da telescola; do Sindicato dos Trabalhadores Têxteis, Lanifícios e Vestuário do Sul, enviando exemplar de uma resolução tomada em reunião geral de delegados com várias considerações sobre o sector têxtil.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "832 I SÉRIE - NÚMERO 25", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Telegramas", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Sobre os projectos de lei da caça, solicitando, entre outros, a participação das populações locais na gestão a ser efectuada futuramente; das direcções de. vários sindicatos, no total de 16, exigindo a não, promulgação do decreto sobre ás carreiras médicas, pôr considerarem um atentado dos direitos dos trabalhadores médicos e dos utentes dos serviços de saúde.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* (Reinaldo Gomes): Sr. Presidente, Srs. Deputados: \nDeram entrada na Mesa os seguintes requerimentos:- na sessão do dia 16 de Janeiro de 1986, ao Ministério da Agricultura; Pescas e Alimentação, formulado pelo Sr. Deputado António Marques Júnior; ao Ministério da Saúde formulado pelo Sr. Deputado Vitorino da Silva Costa; ao Governo, formulados pelos Srs. Deputados 'Arménio Ramos Carvalho e outros; ao Ministério do Trabalho e Segurança Social, formulado pelos Srs.Deputados Jerónimo de Sousa e António Mota; à Secretaria, de Estado do Ensino Superior, formulado pelo Sr. Deputado Rogério Moreira; ao Governo (no total de, 2), formulados pelo Sr. Deputado Horácio Marçal; a diversos ministérios, formulado pelo Sr. Deputado Poças dos Santos; ao Ministério da Educação, formulado pelos Srs. Deputados Bártolo Campos e outros; aos Ministérios da Indústria e Comércio e da Saúde e à RTP (no total de 2), formulados pelo Sr. Deputado Magalhães Mota.\nNa sessão do dia 17 de Janeiro de 1986, a diversos ministérios, formulado pelo Sr. Deputado Manuel Moreira; ao Ministério do Trabalho e Segurança Social, formulado pelo Sr. Deputado António, Mota; a diversos ministérios (no total de 2),1 formulados pela Sr.ª Deputada Ilda Figueiredo;, a diversos ministérios (no total de 3), formulados pelos Srs. Deputados Maria Odete Santos e Maia Nunes de Almeida; ao Ministério da Agricultura, Pescas e Alimentação (rio total de 2), formulados pelos Srs. Deputados Margarida Tengarrinha e Torres Couto; aos Ministérios da Educação e do Trabalho e Segurança Social (no total de 2), formulados pelos Srs. Deputados Arménio de Carvalho e outros; ao Governo, formulado pelo Sr. Deputado Miranda Calha.\nO Governo respondeu aos requerimentos apresentados pelos seguintes Srs.Deputados: António Sousa Pereira, nas sessões de 14 e 20 de Novembro; António Barreto, nas sessões de 3 e 10 de Dezembro; Fernando Dias de Carvalho, na sessão de 5 de Dezembro; José Frazão e Jorge Lacão, na sessão de 5 de Dezembro; José Costa Carvalho, João Salgado e Jorge Lemos, na sessão de 10 de Dezembro; Magalhães Mota, na sessão de 11 de Dezembro; António Rodrigues Costa e outros, na sessão de 11 de Dezembro; António Marques Mendes e Virgílio Carneiro, na sessão de 19 de Dezembro; Belchior Pereira, na sessão, de 20 de Dezembro.", 
-   "type": "deputado_continuacao"
+   "party": "Reinaldo Gomes", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente, Srs. Deputados: \nDeram entrada na Mesa os seguintes requerimentos:- na sessão do dia 16 de Janeiro de 1986, ao Ministério da Agricultura; Pescas e Alimentação, formulado pelo Sr. Deputado António Marques Júnior; ao Ministério da Saúde formulado pelo Sr. Deputado Vitorino da Silva Costa; ao Governo, formulados pelos Srs. Deputados 'Arménio Ramos Carvalho e outros; ao Ministério do Trabalho e Segurança Social, formulado pelos Srs.Deputados Jerónimo de Sousa e António Mota; à Secretaria, de Estado do Ensino Superior, formulado pelo Sr. Deputado Rogério Moreira; ao Governo (no total de, 2), formulados pelo Sr. Deputado Horácio Marçal; a diversos ministérios, formulado pelo Sr. Deputado Poças dos Santos; ao Ministério da Educação, formulado pelos Srs. Deputados Bártolo Campos e outros; aos Ministérios da Indústria e Comércio e da Saúde e à RTP (no total de 2), formulados pelo Sr. Deputado Magalhães Mota.\nNa sessão do dia 17 de Janeiro de 1986, a diversos ministérios, formulado pelo Sr. Deputado Manuel Moreira; ao Ministério do Trabalho e Segurança Social, formulado pelo Sr. Deputado António, Mota; a diversos ministérios (no total de 2),1 formulados pela Sr.ª Deputada Ilda Figueiredo;, a diversos ministérios (no total de 3), formulados pelos Srs. Deputados Maria Odete Santos e Maia Nunes de Almeida; ao Ministério da Agricultura, Pescas e Alimentação (rio total de 2), formulados pelos Srs. Deputados Margarida Tengarrinha e Torres Couto; aos Ministérios da Educação e do Trabalho e Segurança Social (no total de 2), formulados pelos Srs. Deputados Arménio de Carvalho e outros; ao Governo, formulado pelo Sr. Deputado Miranda Calha.\nO Governo respondeu aos requerimentos apresentados pelos seguintes Srs.Deputados: António Sousa Pereira, nas sessões de 14 e 20 de Novembro; António Barreto, nas sessões de 3 e 10 de Dezembro; Fernando Dias de Carvalho, na sessão de 5 de Dezembro; José Frazão e Jorge Lacão, na sessão de 5 de Dezembro; José Costa Carvalho, João Salgado e Jorge Lemos, na sessão de 10 de Dezembro; Magalhães Mota, na sessão de 11 de Dezembro; António Rodrigues Costa e outros, na sessão de 11 de Dezembro; António Marques Mendes e Virgílio Carneiro, na sessão de 19 de Dezembro; Belchior Pereira, na sessão, de 20 de Dezembro.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, o Sr. Secretário vai anunciar os diplomas que. Deram entrada na Mesa.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai anunciar os diplomas que. Deram entrada na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* (Reinaldo Gomes): Deram entrada na Mesa os seguintes diplomas: projecto de lei n. º l/IV, apresentado pelos Srs. Deputados António Barreto e outros, do Partido Socialista, relativo à região demarcada de vinhos de Portalegre - foi admitido, baixa à 6.ª Comissão; projecto de lei n.º 102/IV, dos Srs. Deputados Helena Torres Marques e outros, do Partido Socialista, relativo à demarcação da região vitivinícola da Vidigueira, Cuba e Alvito - foi admitido e baixa à 6.ª Comissão.", 
-   "type": "deputado_continuacao"
+   "party": "Reinaldo Gomes", 
+   "speaker": "Secretário", 
+   "text": "Deram entrada na Mesa os seguintes diplomas: projecto de lei n. º l/IV, apresentado pelos Srs. Deputados António Barreto e outros, do Partido Socialista, relativo à região demarcada de vinhos de Portalegre - foi admitido, baixa à 6.ª Comissão; projecto de lei n.º 102/IV, dos Srs. Deputados Helena Torres Marques e outros, do Partido Socialista, relativo à demarcação da região vitivinícola da Vidigueira, Cuba e Alvito - foi admitido e baixa à 6.ª Comissão.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Luís Nunes* (PS): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: O Sr. Deputado José Luís Nunes pede a palavra para que efeito?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado José Luís Nunes pede a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Luís Nunes* (PS): Sr. Presidente, penso que V. Ex.ª foi informado de que todos os grupos parlamentares estariam de acordo em discutir e aprovar um voto de pesar pela morte do presidente da vila e corte de Madrid, Prof. Tierno Galvan.\nSe me é permitido esta nota, creio ser este o momento de se proceder à aprovação desse voto, uma vez que foi grande a impressão que o facto a todos causou.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "José Luís Nunes", 
+   "text": "Sr. Presidente, penso que V. Ex.ª foi informado de que todos os grupos parlamentares estariam de acordo em discutir e aprovar um voto de pesar pela morte do presidente da vila e corte de Madrid, Prof. Tierno Galvan.\nSe me é permitido esta nota, creio ser este o momento de se proceder à aprovação desse voto, uma vez que foi grande a impressão que o facto a todos causou.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Deputado, a Mesa tem já conhecimento do facto Contudo, nos termos regimentais, os votos são aprovados no final do período de antes da ordem do dia.\nPara uma declaração política, tem a palavra o Sr. Deputado Gomes de Pinho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, a Mesa tem já conhecimento do facto Contudo, nos termos regimentais, os votos são aprovados no final do período de antes da ordem do dia.\nPara uma declaração política, tem a palavra o Sr. Deputado Gomes de Pinho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, Srs. Deputados: O passado dia 13 de Janeiro marcou o início da presença dos deputados portugueses no Parlamento Europeu.\nEmbora se trate de uma decorrência natural da adesão de Portugal às Comunidades Europeias, a importância do acontecimento justifica que aqui se lhe faça referência expressa.\nDesde logo para saudar todos os nossos companheiros que, deixando a Assembleia da República, iniciam uma nova etapa das suas carreiras políticas, assumindo a representação do eleitorado português no Parlamento Europeu e, por isso, uma posição de particular relevo na vida política do País e da Europa, a todos desejamos as maiores felicidades, e de todos esperamos que, na diversidade das suas formações ideológicas e das soluções programáticas que os partidos que integram defendem, sejam intérpretes fiéis dos interesses do povo português.\nPela voz dos deputados portugueses será a voz de Portugal e a língua portuguesa que se farão ouvir na instituição nuclear do sistema comunitário e na qual, mais do que em qualquer outra sede, se vai tecendo, no confronto livre dos interesses nacionais e das diversas ideologias, a unidade da Europa da democracia.\nO Parlamento Europeu tem vindo a assumir, para além dos poderes formais que detém, o papel de grande fórum das discussões que concernem ao futuro das Comunidades, da Europa e de um número crescente de outros países, que com ela cooperam e nela encontram uma via para o acesso ao seu desenvolvimento e à justiça social.\nPor isso, a voz portuguesa não será apenas mensurável pelo número dos nossos deputados, mas, e sobretudo, pela sua capacidade para exprimir o essencial da nossa cultura e da nossa singular maneira de estar a olhar o mundo, tornando mais solidário e uno.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, Srs. Deputados: O passado dia 13 de Janeiro marcou o início da presença dos deputados portugueses no Parlamento Europeu.\nEmbora se trate de uma decorrência natural da adesão de Portugal às Comunidades Europeias, a importância do acontecimento justifica que aqui se lhe faça referência expressa.\nDesde logo para saudar todos os nossos companheiros que, deixando a Assembleia da República, iniciam uma nova etapa das suas carreiras políticas, assumindo a representação do eleitorado português no Parlamento Europeu e, por isso, uma posição de particular relevo na vida política do País e da Europa, a todos desejamos as maiores felicidades, e de todos esperamos que, na diversidade das suas formações ideológicas e das soluções programáticas que os partidos que integram defendem, sejam intérpretes fiéis dos interesses do povo português.\nPela voz dos deputados portugueses será a voz de Portugal e a língua portuguesa que se farão ouvir na instituição nuclear do sistema comunitário e na qual, mais do que em qualquer outra sede, se vai tecendo, no confronto livre dos interesses nacionais e das diversas ideologias, a unidade da Europa da democracia.\nO Parlamento Europeu tem vindo a assumir, para além dos poderes formais que detém, o papel de grande fórum das discussões que concernem ao futuro das Comunidades, da Europa e de um número crescente de outros países, que com ela cooperam e nela encontram uma via para o acesso ao seu desenvolvimento e à justiça social.\nPor isso, a voz portuguesa não será apenas mensurável pelo número dos nossos deputados, mas, e sobretudo, pela sua capacidade para exprimir o essencial da nossa cultura e da nossa singular maneira de estar a olhar o mundo, tornando mais solidário e uno.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
    "text": "22 DE JANEIRO DE 1986 833", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
    "text": "A participação activa dos deputados portugueses desde a primeira sessão em que tiveram assento, quer no debate das questões agendadas, quer na ocupação de relevantes posições nos grupos parlamentares em que se integram, quer ainda na indigitação por um largo consenso partidário, nacional e internacional, do meu companheiro Francisco Lucas Pires para a candidatura ao lugar de Vice-Presidente do Parlamento Europeu, é a prova de que a integração de Portugal na CEE não será uma atitude passiva de recepção de um modelo preexistente, mas representará também para a Europa um contributo renovado de confiança na construção do seu futuro.\nSr. Presidente, Srs. Deputados: Para o CDS, que pela sua matriz fundamental participa do pensamento democrata-cristão que tem sido e continua a ser determinante para o avanço do projecto europeu, e que sempre esteve no centro desse processo, este é o momento adequado da reafirmação da nossa convicção europeia! \nÉ também o momento de exprimirmos a nossa vontade de que esse projecto se não esgote nas instituições económicas que visam a construção de um mercado comum, mas se alargue aos domínios sociais, culturais e políticos que condicionam cada vez mais o aperfeiçoamento dos próprios mecanismos económicos.\nÀs razões políticas que determinaram a opção inicial - a defesa e consolidação do modelo democrático, reforço da posição internacional do País, consolidação da nossa posição geoestratégica - outras se foram somando e avultam agora: a protecção dos interesses sociais de milhões de portugueses emigrados nos países europeus; a aposta na valorização dos nossos recursos humanos e materiais, na modernização da nossa economia, no fortalecimento da competitividade da iniciativa empresarial, no acesso e divulgação das novas tecnologias e do progresso científico.\nTrata-se, pois, de um desafio global que exige respostas prontas e eficazes que, sob pretextos vários, infelizmente se tem vindo a adiar.\nO atraso na tomada de medidas estruturais, cuja adopção há muito se impunha nos domínios educativo, laboral, económico e financeiro, informativo e administrativo, não pode agora ter desculpa.\nPor isso a responsabilidade de todos os que fizeram da integração na CEE um projecto nacional, não se pode considerar esgotada com a entrada em vigor do respectivo Tratado e deve alargar-se na procura das plataformas necessárias para que todas as medidas indispensáveis possam ser tomadas em tempo útil.\nPor isso é decisivo que o País se reencontre, num período de estabilidade política e de paz institucional, que potencie um diálogo directo e frutuoso entre os parceiros sociais e seja susceptível de contribuir para a mobilização das nossas energias em torno de objectivos que se tornam cada vez mais concretos e comuns.\nSó assim se ultrapassará a Europa dos slogans, e se entrará na participação de pleno direito de Portugal e dos Portugueses nos riscos e nos benefícios que a existência deste grande património histórico, cultural e económico representa.\nSó assim tomaremos consciência de que a integração na CEE é algo mais do que a criação do IVA, e de que com ele se não resolveram todos os nossos problemas de relação com esse grande espaço.\nNão se pode omitir que os próximos anos, em que vigorarão alguns regimes transitórios, não podem ser gastos a usufruir dos últimos privilégios das medidas proteccionistas ou a beneficiar usurariamente dos fundos comunitários.\nSe assim fosse estaríamos então, no fim desse período, mais longe dos nossos parceiros do que estamos agora, e porventura irremediavelmente atrasados.\nPelo contrário é indispensável encerrar a década da crise, das desilusões e do pessimismo e abrir em Portugal um novo período de confiança, trabalho e optimismo.\nNão podemos perder tempo a adiar para depois o que pode começar a ser feito já.\nA Assembleia da República, que através de uma delegação brilhantemente chefiada por V. Ex.ª acompanhou a entrada em funções dos deputados portugueses no Parlamento Europeu, deve dar o exemplo adaptando as suas estruturas e o seu regimento de modo a poder acompanhar e intervir eficazmente nos debates que agora se nos abrem e reforçando, por outro lado, o seu diálogo com os restantes órgãos de soberania com intervenção em matéria de política externa.\nNada do que interessa aos Portugueses neste processo de integração no espaço económico das Comunidades e na participação de Portugal nas suas instituições, pode ser alheio à Assembleia da República! \nTodos, mesmo os que criticam este processo, estarão de acordo em valorizar a intervenção do nosso Parlamento. É que essa é a garantia segura de que o interesse de Portugal será sempre defendido.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção tem a palavra o Sr. Deputado Ivo Pinho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção tem a palavra o Sr. Deputado Ivo Pinho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Ivo Pinho* (PRD): Sr. Presidente, Srs. Deputados: Usando as prerrogativas que lhes são conferidas pela lei o Governo decidiu, recentemente, exonerar das suas funções dois dos directores-gerais do Ministério da Indústria e Comércio.\nNa ocasião, o Governo não deu - nem tinha legalmente de dar - qualquer explicação sobre as causas que determinaram tal decisão, muito embora a fundamentação de decisões de exoneração deva constituir obrigação ética de um Governo cuja actuação é, alegadamente, transparente.\nComo quer que seja, no plano estritamente legal, a conduta do Governo foi inatacável. Porém, noutros planos, a sua actuação não se isenta de reparos.\nAssim, o Governo não travou certos aproveitamentos e interpretações que procuraram alicerçar a ideia de que a exoneração dos directores-gerais da Energia e da Qualidade se deve atribuir à sua incapacidade para se integrarem no novo espírito e na nova dinâmica impostas pela adesão à CEE. Ora, tal asserção é manifestamente espúria já que qualquer dos exonerados colaborou activamente, nos respectivos domínios, no processo de integração gozando, ambos, de elevado prestígio técnico e científico ao nível dos serviços comunitários.\nPor outro lado, não se compreende bem que os principais responsáveis pela gestão de duas importantes áreas da política industrial - a energia e a qualidade industrial - sejam exonerados precisamente no momento em que, por via da própria adesão e das solicitações a ela associadas, deles seria de exigir o saber e a experiência amplamente consolidados ao longo dos anos em que exerceram as suas funções.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Ivo Pinho", 
+   "text": "Sr. Presidente, Srs. Deputados: Usando as prerrogativas que lhes são conferidas pela lei o Governo decidiu, recentemente, exonerar das suas funções dois dos directores-gerais do Ministério da Indústria e Comércio.\nNa ocasião, o Governo não deu - nem tinha legalmente de dar - qualquer explicação sobre as causas que determinaram tal decisão, muito embora a fundamentação de decisões de exoneração deva constituir obrigação ética de um Governo cuja actuação é, alegadamente, transparente.\nComo quer que seja, no plano estritamente legal, a conduta do Governo foi inatacável. Porém, noutros planos, a sua actuação não se isenta de reparos.\nAssim, o Governo não travou certos aproveitamentos e interpretações que procuraram alicerçar a ideia de que a exoneração dos directores-gerais da Energia e da Qualidade se deve atribuir à sua incapacidade para se integrarem no novo espírito e na nova dinâmica impostas pela adesão à CEE. Ora, tal asserção é manifestamente espúria já que qualquer dos exonerados colaborou activamente, nos respectivos domínios, no processo de integração gozando, ambos, de elevado prestígio técnico e científico ao nível dos serviços comunitários.\nPor outro lado, não se compreende bem que os principais responsáveis pela gestão de duas importantes áreas da política industrial - a energia e a qualidade industrial - sejam exonerados precisamente no momento em que, por via da própria adesão e das solicitações a ela associadas, deles seria de exigir o saber e a experiência amplamente consolidados ao longo dos anos em que exerceram as suas funções.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PRD", 
+   "speaker": "Ivo Pinho", 
    "text": "834 l SÉRIE - NÚMERO 25 \n835 \nA vida julgará a justeza, à oportunidade e a eficácia da actuação do Governo, nó caso em apreço.\nO engenheiro Sidónio Pais é um técnico altamente cotado em Portugal e no estrangeiro, sendo um dos principais responsáveis pelo Plano Energético Nacional.\nO engenheiro Santos Gonçalves, por seu turno, construiu, a partir de uma herança difícil - um serviço ancilosado, burocrático e sem qualquer aderência à realidade económica do País -,- uma direcção-geral que funcionou com dinamismo e qualidade. Há, porém no Ministério da Indústria e Comércio, órgãos que, notoriamente, não funcionam - ou que funcionam muito aquém das necessidades -, sendo que os respectivos responsáveis não foram objecto de exoneração.\nO PRD apoia o princípio do primado da competência técnica sobre os interesses político-partidários e, por isso, não pode deixar de manifestar a sua preocupação quando, como no caso vertente, a aplicação do citado princípio suscite dúvidas.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PRD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Reputado Luís Geraldes.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Reputado Luís Geraldes.\nO Sr. Luis Geraldes (PSD):- Sr. Presidente, Srs. Deputados: No próximo dia 26 de Janeiro os eleitores portugueses recenseados no território nacional vão eleger o Presidente da República.\nContrariamente ao quê todos os candidatos à presidência têm afirmado, o mais alto magistrado da Nação a sair do sufrágio de 26 de Janeiro não será, infelizmente, o Presidente de todos os portugueses, repito todos os portugueses, mas tão-somente de aproximadamente 75% do nosso povo.\nIsto, porque aos cerca de 4 milhões de portugueses residentes no estrangeiro, lhes é negado exercer o direito cívico de participar na eleição do Presidente da República.\nSr. Presidente, Srs. Deputados: Segundo a nossa Constituição, Portugal é um Estado de direito; democrático, baseado na soberania popular; ,no respeito e na garantia dos direitos e liberdades fundamentais. Ainda segundo a Constituição, artigo 13.º, todos os cidadãos têm a mesma dignidade social e são iguais perante a lei... Pergunto, Sr. Presidente e Srs. Deputados: onde está a garantia dos direitos e liberdades fundamentais? Onde é que os cidadãos são iguais perante a lei, quando uma parte tão substancial do nosso povo, ou seja, cerca de 4 milhões de pessoas são sujeitas a tão humilhante injustiça, ao não poderem participar na eleição do Presidente da República?", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Luis Geraldes (PSD):- Sr. Presidente, Srs. Deputados: No próximo dia 26 de Janeiro os eleitores portugueses recenseados no território nacional vão eleger o Presidente da República.\nContrariamente ao quê todos os candidatos à presidência têm afirmado, o mais alto magistrado da Nação a sair do sufrágio de 26 de Janeiro não será, infelizmente, o Presidente de todos os portugueses, repito todos os portugueses, mas tão-somente de aproximadamente 75% do nosso povo.\nIsto, porque aos cerca de 4 milhões de portugueses residentes no estrangeiro, lhes é negado exercer o direito cívico de participar na eleição do Presidente da República.\nSr. Presidente, Srs. Deputados: Segundo a nossa Constituição, Portugal é um Estado de direito; democrático, baseado na soberania popular; ,no respeito e na garantia dos direitos e liberdades fundamentais. Ainda segundo a Constituição, artigo 13.º, todos os cidadãos têm a mesma dignidade social e são iguais perante a lei... Pergunto, Sr. Presidente e Srs. Deputados: onde está a garantia dos direitos e liberdades fundamentais? Onde é que os cidadãos são iguais perante a lei, quando uma parte tão substancial do nosso povo, ou seja, cerca de 4 milhões de pessoas são sujeitas a tão humilhante injustiça, ao não poderem participar na eleição do Presidente da República?", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "O Orador: -- Mas, Sr. Presidente e Srs. Deputados a discriminação a que são sujeitos os nossos compatriotas residentes no estrangeiro, e que eu chamaria de «tragédia moral», não termina aqui.\nPenso, que pela primeira vez na história do Portugal democrático, um deputado da Nação não pode exercer o seu direito de voto na eleição do Presidente da República. Quem será esse deputado? Esse deputado sou eu! \nCom muita mágoa vos comunico, Sr. Presidente é Srs. Deputados, que não posso votar para o Presidente da República porque me encontro ainda recenseado no estrangeiro e só no próximo mês de Maio posso actualizar o meu recenseamento...\nSr. Presidente, Srs. Deputados. É naturalmente uma situação inaceitável que um deputado da Nação, eleito democraticamente, se veja agora impossibilitado de votar para o mais alto magistrado da Nação. Estou convicto de que todos os Srs. Deputados estão solidários com a minha posição. Mas há que pôr termo a tão chocante situação e que passa pelo consenso dos Srs. Deputados aquando da próxima revisão da Constituição.\nSr. Presidente, Srs. Deputados: Que fique bem claro que o Partido Social-Democrata sempre condenou e condena a humilhante discriminação a que os nossos compatriotas que residem no estrangeiro são sujeitos. Vou mesmo mais longe ao dizer, que o Partido Social-Democrata foi o único partido que a esta matéria se referiu, aquando da declaração de voto do Grupo Parlamentar do PSD, em 12 de Agosto de 1982, sobre a revisão da Constituição.\nDurante a declaração de voto, o meu companheiro Manuel Pereira disse:", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Votámos e aplaudimos as transformações que o texto da Constituição consagrou relativamente ao reforço dos direitos e prerrogativas sociais dos trabalhadores, sem esquecer os emigrantes. Só foi pena que o consenso manifestado quanto a estes não tenha abrangido igualmente a plenitude da sua capacidade política, nomeadamente no que respeita à sua intervenção ha eleição do Presidente da República.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Sr. Presidente, Srs. Deputados: A posição do Partido Social-Democrata sobre esta matéria é muito clara. E agora mais do que nunca pensámos que é possível rectificar esta injustiça. Não só por o Sr.Primeiro-Ministro - Prof. Cavaco Silva - Ter uma grande admiração e respeito por todos os portugueses que residem no estrangeiro mas também porque teve a coragem de no seu Programa de Governo alterar \"a terminologia habitual de; «emigrante» por «residente no estrangeiro».\nTal atitude representa o reconhecimento do valor atribuído e a capacidade reconhecida aos nossos compatriotas que trabalham e residem além fronteiras por parte do Prof. Cavaco Silva.\nPor outro lado, um dos candidatos à Presidência da República, em declarações prestadas a um semanário e publicadas em 17 de Janeiro, afirmou:,", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "A nova Constituição terá de devolver o direito \nde voto aos emigrantes. É uma enorme injustiça \nos portugueses residentes no estrangeiro não pode- \nrem votar na eleição do Presidente da República.\nSão palavras de esperança e mudança há muito desejadas e por isso temos de ir para a frente.\nSr. Presidente, Srs. Deputados: O Partido Social-Democrata só descansará quando se verificar a tão desejada revisão do artigo 124.º da Constituição, que permita a participação dos portugueses residentes no estrangeiro na eleição do Presidente da República.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Então sim, o Presidente da República será, dê facto, de todos os portugueses.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Então sim, o Presidente da República será, dê facto, de todos os portugueses.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "P Sr. *Presidente*: Tem a palavra o Sr. Deputado Raúl Junqueiro, para uma intervenção.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Raúl Junqueiro, para uma intervenção.\n22 DE JANEIRO DE 1986 835", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "22 DE JANEIRO DE 1986 835", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Raul Junqueiro", 
+   "text": "Sr. Presidente, Srs. Deputados: Antes de iniciar a minha intervenção, desejo saudar em especial os alunos da Escola Superior de Educação de Viseu, que se encontram nas galerias, e que vieram expor aos diversos grupos parlamentares problemas da sua escola, que são realmente bastante graves e aos quais esperamos voltar numa das próximas sessões.\nSr. Presidente, Srs. Deputados: O dia l de Janeiro de 1986 ficará na História a assinalar a entrada de Portugal na Comunidade Económica Europeia (CEE).\nNumerosas declarações políticas, oriundas de diversificados sectores, assinalaram o acontecimento que, sem margem para dúvidas, provocará impactes poderosos e significativos na sociedade portuguesa.\nVolvidas praticamente 3 semanas sobre o dia em que o nosso país se tornou membro de pleno direito do Mercado Comum, culminando um longo e difícil processo de negociações, gostaria de chamar a atenção desta Assembleia para três pontos que me parecem importantes.\nÒ primeiro diz respeito às tarefas imediatas que se colocam ao País, tendo em vista concretizar os acordos previamente negociados.\nPodemos afirmar que foi possível estabelecer um amplo consenso nacional sobre a adesão à CEE e que foi unanimemente reconhecida a necessidade de o País efectuar um grande esforço de transformação e mudança, em ordem a poder usufruir com êxito das vantagens da adesão.\nAo poder político, em geral, e ao Executivo, em particular, cabe agora um papel importante no sentido de informar e formar, sensibilizando a população para a revolução de mentalidades que urge provocar, motivando os agentes económicos para a nova dinâmica que importa criar, constituindo-se, ao fim e ao cabo, como motor de todo o processo.\nPor outras palavras, a adesão de Portugal à CEE constitui um facto de extraordinária relevância para o futuro do País, a «reforma das reformas», como lhe chamou Mário Soares; no entanto, a assinatura de um tratado, só por si, não basta para resolver os problemas dos Portugueses ou para despertar a sociedade do estado de letargia e de relativo subdesenvolvimento em que tem vivido. É absolutamente indispensável que, com a maior urgência, se proceda a uma mobilização das energias nacionais, a fim de que o choque europeu transforme as esperanças em realidades, as expectativas em certezas, as promessas em factos concretos.\nEsta reflexão pretende constituir um alerta sério a todos os que detêm responsabilidades neste campo, em face de alguma secundarização das questões relacionadas com a adesão, em face da situação política nacional.\nNão podemos esquecer que a decisão de fazer cair o Governo no dia seguinte à assinatura do Tratado de Adesão, tomada pela liderança política do PSD, e também a decisão do actual Presidente da República em dissolver o Parlamento, poucas semanas depois, atirando-nos para uma sucessão infindável de actos eleitorais, prejudicaram gravemente os interesses do País.\nEnquanto os nossos vizinhos espanhóis aceleravam as campanhas de esclarecimento e sensibilização junto das populações, incentivavam os agentes económicos ao estudo e tomada de posições importantes no contexto europeu, enviavam centenas de funcionários para os diversos órgãos de decisão e consulta comunitários, em \nPortugal a classe política era (e ainda é) mobilizada para as campanhas eleitorais, os agentes económicos e a Administração Pública cruzavam (e cruzam) os braços, aguardando melhores dias e a população assistia (e assiste) estupefacta a contendas políticas sem fim.\nEntretanto, quantos agricultores portugueses têm já consciência do que necessitam fazer para melhorar e modernizar as suas produções? Quantos empresários conhecem com exactidão o impacte europeu relativamente aos produtos saídos das suas fábricas? Quais os critérios de avaliação de projectos de infra-estruturas que permitirão uma correcta aplicação dos fundos postos à disposição pela Comunidade? Quais as prioridades definidas em matéria de formação profissional? E no campo da ciência e da tecnologia? E no da criação de empregos para jovens? \nAs respostas a estas perguntas (e a muitas outras que não cabe de momento formular) demonstrariam com toda a certeza o pouco que ainda se fez e, sobretudo, a urgência de se implementar o muito que há para fazer.\nO segundo ponto que gostaria de abordar relaciona-se com a postura do poder político em face da adesão.\nAinda há poucos dias tive o privilégio de integrar uma missão desta Assembleia que, por iniciativa em boa hora tomada pelo Sr. Presidente, se deslocou a Estrasburgo, a fim de assistir à entrada dos primeiros deputados portugueses no Parlamento Europeu.\nFoi com particular satisfação e orgulho que todos pudemos constatar a importância da presença dos representantes do povo português e também do acolhimento que aos mesmos foi prestado pelos seus pares europeus.\nMas enquanto a recém-chegada Espanha esteve presente em força, naquele momento histórico, e logo aproveitou para demonstrar o seu empenhamento e contribuição na causa europeia, valeu a Portugal a iniciativa da Assembleia da República e do seu Presidente.\nOs deputados espanhóis entraram no hemiciclo devidamente apoiados por todo um esforçado e contínuo trabalho de preparação anterior, que lhes vai possibilitar uma mais fácil integração, uma participação plena e a liderança efectiva de sectores fundamentais de vida comunitária.\nOs deputados portugueses tiveram a apoiá-los a presença da missão desta Assembleia e, também, justo é reconhecê-lo, a dos diplomatas nacionais que, com reduzidos meios e disponibilidades, tudo fizeram para dignificar o nome do País.\nNo fundo, e independentemente dos factos pontuais, trata-se de duas posturas diametralmente opostas. Num caso, acredita-se e aposta-se.\nNoutro caso, não parece acreditar-se e muito menos valer a pena apostar.\nÉ esta última atitude que importa combater e mesmo banir completamente da nossa maneira de estar perante os outros e, neste caso, perante a Europa.\nEstamos perante um grande desafio nacional. Para o vencer, temos de tomar a iniciativa, gerar dinamismo, agir com eficácia e, acima de tudo, investir para depois colher os benefícios.\nO terceiro e último ponto a abordar diz respeito à coerência dos macromodelos nacional e europeu.\nA adesão à CEE implicará uma adaptação progressiva da estrutura económica e social do País àquela que vigora na Europa. Aliás, gostaria de solicitar ao Governo o exacto ponto da situação sobre os trabalhos de adaptação da legislação nacional, nos diversos sectores, à legislação europeia.\n836 I SÉRIE - NÚMERO 25", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Raul Junqueiro* (PS): Sr. Presidente, Srs. Deputados: Antes de iniciar a minha intervenção, desejo saudar em especial os alunos da Escola Superior de Educação de Viseu, que se encontram nas galerias, e que vieram expor aos diversos grupos parlamentares problemas da sua escola, que são realmente bastante graves e aos quais esperamos voltar numa das próximas sessões.\nSr. Presidente, Srs. Deputados: O dia l de Janeiro de 1986 ficará na História a assinalar a entrada de Portugal na Comunidade Económica Europeia (CEE).\nNumerosas declarações políticas, oriundas de diversificados sectores, assinalaram o acontecimento que, sem margem para dúvidas, provocará impactes poderosos e significativos na sociedade portuguesa.\nVolvidas praticamente 3 semanas sobre o dia em que o nosso país se tornou membro de pleno direito do Mercado Comum, culminando um longo e difícil processo de negociações, gostaria de chamar a atenção desta Assembleia para três pontos que me parecem importantes.\nÒ primeiro diz respeito às tarefas imediatas que se colocam ao País, tendo em vista concretizar os acordos previamente negociados.\nPodemos afirmar que foi possível estabelecer um amplo consenso nacional sobre a adesão à CEE e que foi unanimemente reconhecida a necessidade de o País efectuar um grande esforço de transformação e mudança, em ordem a poder usufruir com êxito das vantagens da adesão.\nAo poder político, em geral, e ao Executivo, em particular, cabe agora um papel importante no sentido de informar e formar, sensibilizando a população para a revolução de mentalidades que urge provocar, motivando os agentes económicos para a nova dinâmica que importa criar, constituindo-se, ao fim e ao cabo, como motor de todo o processo.\nPor outras palavras, a adesão de Portugal à CEE constitui um facto de extraordinária relevância para o futuro do País, a «reforma das reformas», como lhe chamou Mário Soares; no entanto, a assinatura de um tratado, só por si, não basta para resolver os problemas dos Portugueses ou para despertar a sociedade do estado de letargia e de relativo subdesenvolvimento em que tem vivido. É absolutamente indispensável que, com a maior urgência, se proceda a uma mobilização das energias nacionais, a fim de que o choque europeu transforme as esperanças em realidades, as expectativas em certezas, as promessas em factos concretos.\nEsta reflexão pretende constituir um alerta sério a todos os que detêm responsabilidades neste campo, em face de alguma secundarização das questões relacionadas com a adesão, em face da situação política nacional.\nNão podemos esquecer que a decisão de fazer cair o Governo no dia seguinte à assinatura do Tratado de Adesão, tomada pela liderança política do PSD, e também a decisão do actual Presidente da República em dissolver o Parlamento, poucas semanas depois, atirando-nos para uma sucessão infindável de actos eleitorais, prejudicaram gravemente os interesses do País.\nEnquanto os nossos vizinhos espanhóis aceleravam as campanhas de esclarecimento e sensibilização junto das populações, incentivavam os agentes económicos ao estudo e tomada de posições importantes no contexto europeu, enviavam centenas de funcionários para os diversos órgãos de decisão e consulta comunitários, em \nPortugal a classe política era (e ainda é) mobilizada para as campanhas eleitorais, os agentes económicos e a Administração Pública cruzavam (e cruzam) os braços, aguardando melhores dias e a população assistia (e assiste) estupefacta a contendas políticas sem fim.\nEntretanto, quantos agricultores portugueses têm já consciência do que necessitam fazer para melhorar e modernizar as suas produções? Quantos empresários conhecem com exactidão o impacte europeu relativamente aos produtos saídos das suas fábricas? Quais os critérios de avaliação de projectos de infra-estruturas que permitirão uma correcta aplicação dos fundos postos à disposição pela Comunidade? Quais as prioridades definidas em matéria de formação profissional? E no campo da ciência e da tecnologia? E no da criação de empregos para jovens? \nAs respostas a estas perguntas (e a muitas outras que não cabe de momento formular) demonstrariam com toda a certeza o pouco que ainda se fez e, sobretudo, a urgência de se implementar o muito que há para fazer.\nO segundo ponto que gostaria de abordar relaciona-se com a postura do poder político em face da adesão.\nAinda há poucos dias tive o privilégio de integrar uma missão desta Assembleia que, por iniciativa em boa hora tomada pelo Sr. Presidente, se deslocou a Estrasburgo, a fim de assistir à entrada dos primeiros deputados portugueses no Parlamento Europeu.\nFoi com particular satisfação e orgulho que todos pudemos constatar a importância da presença dos representantes do povo português e também do acolhimento que aos mesmos foi prestado pelos seus pares europeus.\nMas enquanto a recém-chegada Espanha esteve presente em força, naquele momento histórico, e logo aproveitou para demonstrar o seu empenhamento e contribuição na causa europeia, valeu a Portugal a iniciativa da Assembleia da República e do seu Presidente.\nOs deputados espanhóis entraram no hemiciclo devidamente apoiados por todo um esforçado e contínuo trabalho de preparação anterior, que lhes vai possibilitar uma mais fácil integração, uma participação plena e a liderança efectiva de sectores fundamentais de vida comunitária.\nOs deputados portugueses tiveram a apoiá-los a presença da missão desta Assembleia e, também, justo é reconhecê-lo, a dos diplomatas nacionais que, com reduzidos meios e disponibilidades, tudo fizeram para dignificar o nome do País.\nNo fundo, e independentemente dos factos pontuais, trata-se de duas posturas diametralmente opostas. Num caso, acredita-se e aposta-se.\nNoutro caso, não parece acreditar-se e muito menos valer a pena apostar.\nÉ esta última atitude que importa combater e mesmo banir completamente da nossa maneira de estar perante os outros e, neste caso, perante a Europa.\nEstamos perante um grande desafio nacional. Para o vencer, temos de tomar a iniciativa, gerar dinamismo, agir com eficácia e, acima de tudo, investir para depois colher os benefícios.\nO terceiro e último ponto a abordar diz respeito à coerência dos macromodelos nacional e europeu.\nA adesão à CEE implicará uma adaptação progressiva da estrutura económica e social do País àquela que vigora na Europa. Aliás, gostaria de solicitar ao Governo o exacto ponto da situação sobre os trabalhos de adaptação da legislação nacional, nos diversos sectores, à legislação europeia.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "836 I SÉRIE - NÚMERO 25", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PS", 
+   "speaker": "Raul Junqueiro", 
    "text": "As regras da Comunidade a isso obrigam, sendo de resto tal \nindispensável para assegurar a competitividade internacional e assim se defender com êxito os interesses de Portugal. Penso ser um assunto relativamente pacífico, em tese geral, embora venha a suscitar naturais diferenças de opinião quando analisados os diversos casos e situações.\nNão posso deixar de referir, no entanto; a necessidade de se assegurar a defesa da especificidade própria do País, mormente da sua tradição; economia e cultura. Mas por vezes custa um pouco a entender a forma como se pretendem fazer certas adaptações. O caso da adesão dos partidos portugueses aos grupos parlamentares europeus é típico. É natural que o PCP ingresse no grupo comunista europeu (neste caso diria até que é salutar); como é natural que o PS ingresse no grupo socialista ou o CDS no grupo democrata-cristão ou mesmo o PSD (agora com a social-democracia na gaveta) no grupo liberal. Mas é um pouco mais difícil de entender que o PRD, um partido novo, imbuído de socialismo, para além obviamente de renovação e de ética, ingresse num grupo parlamentar europeu, como o gaullista, situado claramente à direita...º da direita; ainda por cima um grupo parlamentar conhecido pelas suas posições contra a entrada de Portugal e da Espanha no Mercado Comum e também contra os interesses dos emigrantes.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lacão* (PS): Muito bem!", 
+   "party": "PS", 
+   "speaker": "Jorge Lacão", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Trata-se dê uma adaptação europeia curiosa, onde não se vislumbrará a coerência, a firmeza dos princípios ou mesmo a ética, mas tão-só uma sugestiva originalidade. Penso que o modelo europeu obrigará muito em breve a rearrumar os grupos parlamentares à nossa direita, passando o CDS para o Centro e o PRD e o PSD, respectivamente, para a direita e a extrema-direita do hemiciclo.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Trata-se dê uma adaptação europeia curiosa, onde não se vislumbrará a coerência, a firmeza dos princípios ou mesmo a ética, mas tão-só uma sugestiva originalidade. Penso que o modelo europeu obrigará muito em breve a rearrumar os grupos parlamentares à nossa direita, passando o CDS para o Centro e o PRD e o PSD, respectivamente, para a direita e a extrema-direita do hemiciclo.", 
+   "speaker": "Uma voz do PRD", 
+   "text": "Muito mal!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Da mesma forma, não podemos deixar de criticar os critérios de natureza exclusivamente partidária, neo-consensuais, que têm presidido às nomeações para lugares importantes do aparelho \ncomunitário.\nSr. Presidente, Srs. Deputados: A adesão à CEE constitui uma oportunidade histórica para a transformação do País. Pela primeira vez nas últimas décadas se deparam a Portugal novos horizontes de esperança.\nImporta ter a consciência de que, tendo dado o primeiro passo na direcção do futuro, se nos depara agora uma imensa tarefa de mudança, que exige trabalho e determinação.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Uma voz do PRD: Muito mal!", 
-   "type": "deputado_continuacao"
+   "speaker": "Uma voz do PSD", 
+   "text": "Só agora?", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Da mesma forma, não podemos deixar de criticar os critérios de natureza exclusivamente partidária, neo-consensuais, que têm presidido às nomeações para lugares importantes do aparelho \ncomunitário.\nSr. Presidente, Srs. Deputados: A adesão à CEE constitui uma oportunidade histórica para a transformação do País. Pela primeira vez nas últimas décadas se deparam a Portugal novos horizontes de esperança.\nImporta ter a consciência de que, tendo dado o primeiro passo na direcção do futuro, se nos depara agora uma imensa tarefa de mudança, que exige trabalho e determinação.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Uma voz do PSD: Só agora?", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Temos de estar à altura deste desafio colectivo e saber construir à sua volta o consenso indispensável à melhoria da qualidade de vida dos Portugueses, o mesmo é dizer, ao progresso, desenvolvimento e modernização de Portugal.", 
+   "speaker": "O Orador", 
+   "text": "Temos de estar à altura deste desafio colectivo e saber construir à sua volta o consenso indispensável à melhoria da qualidade de vida dos Portugueses, o mesmo é dizer, ao progresso, desenvolvimento e modernização de Portugal.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -339,82 +340,88 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para um protesto, tem a palavra o Sr. Deputado António Capucho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para um protesto, tem a palavra o Sr. Deputado António Capucho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Capucho* (PSD): Sr. Deputado Raúl Junqueiro, permita-me um curto e breve protesto sobre uma questão pontual que levantou, certamente pôr distracção, na sua intervenção.\nDevo dizer-lhe, e para que fique exarado, que o Partido \nSocial-Democrata ingressa num grupo parlamentar depois de este ter expressamente reconhecido, no seu nome e nos seus estatutos, a sua vertente reformista.\nNão tivemos, portanto, de meter algo na gaveta: Quanto a colocar ideologias na gaveta, Sr. Deputado, seria bom que V. Ex.ª fizesse uma introspecção.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "António Capucho", 
+   "text": "Sr. Deputado Raúl Junqueiro, permita-me um curto e breve protesto sobre uma questão pontual que levantou, certamente pôr distracção, na sua intervenção.\nDevo dizer-lhe, e para que fique exarado, que o Partido \nSocial-Democrata ingressa num grupo parlamentar depois de este ter expressamente reconhecido, no seu nome e nos seus estatutos, a sua vertente reformista.\nNão tivemos, portanto, de meter algo na gaveta: Quanto a colocar ideologias na gaveta, Sr. Deputado, seria bom que V. Ex.ª fizesse uma introspecção.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Aplausos do PSD e dos deputados do PRD José Carlos Vasconcelos e Magalhães Mota.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para contraprotestar, tem a palavra o Sr. Deputado Raul Junqueiro.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para contraprotestar, tem a palavra o Sr. Deputado Raul Junqueiro.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Raul Junqueiro* (PS): Sr. Deputado António Capucho, quanto à questão do liberalismo e do grupo liberal, fico muito satisfeito em observar que, de facto, o PSD pretende fazer reformas e que esta expressão «reformismo» tem significado para esse partido. Na realidade, ainda não tínhamos dado conta disso!", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Raul Junqueiro", 
+   "text": "Sr. Deputado António Capucho, quanto à questão do liberalismo e do grupo liberal, fico muito satisfeito em observar que, de facto, o PSD pretende fazer reformas e que esta expressão «reformismo» tem significado para esse partido. Na realidade, ainda não tínhamos dado conta disso!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para formular pedidos de esclarecimento, tem a palavra o Sr. Deputado José Carlos Vasconcelos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para formular pedidos de esclarecimento, tem a palavra o Sr. Deputado José Carlos Vasconcelos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Carlos Vasconcelos* (PRD): Sr. Deputado Raul Junqueiro, vou usar a palavra sob a forma de pedidos de esclarecimento e não de' protesto porque creio que as pessoas têm direito a expressar livremente as suas opiniões, mesmo quando estejamos em total discordância com elas.\nO Sr. Deputado atribuiu ao PRD uma posição no Parlamento Europeu e, nesse sentido, gostaria de colocar algumas questões. Em primeiro lugar, queria saber se o Sr. Deputado sabe ou não que o grupo para que o PRD entrou no Parlamento Europeu passou a ter uma nova designação, chamando-se agora Grupo Renovador Democrata Europeu. Ora, o Sr.Deputado considera ou não positivo para o País que a entrada de um novo partido político português no Parlamento Europeu leve a que um grupo altere a sua designação? \nEm segundo lugar, o Sr. Deputado sabe ou não que esse grupo tem uma raiz não ideológica, sendo integrado por partidos que não pertencem a nenhuma internacional? \nEm terceiro lugar, o Sr. Deputado sabe ou não que uma das condições que o PRD pôs para integrar esse grupo foi a de fazer um subgrupo que funcionasse com inteira autonomia e independência, marcando \nperfeitamente as diferenças que existem em relação a outros grupos que o integrem, dos quais o gaullista é um deles.\nEm quarto lugar, gostaria de ser informado sobre qual seria a posição do Partido Socialista se, porventura, o PRD quisesse integrar o grupo socialista e social-democrata do Parlamento Europeu, dado que me consta - e com isto não estou a dizer que fizemos alguma démarche nesse sentido - que, para o integrar, é necessário ter o acordo dos partidos de cada país que já o integram. Portanto, gostaria de saber qual a posição, do PS se o PRD o quisesse integrar.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "José Carlos Vasconcelos", 
+   "text": "Sr. Deputado Raul Junqueiro, vou usar a palavra sob a forma de pedidos de esclarecimento e não de' protesto porque creio que as pessoas têm direito a expressar livremente as suas opiniões, mesmo quando estejamos em total discordância com elas.\nO Sr. Deputado atribuiu ao PRD uma posição no Parlamento Europeu e, nesse sentido, gostaria de colocar algumas questões. Em primeiro lugar, queria saber se o Sr. Deputado sabe ou não que o grupo para que o PRD entrou no Parlamento Europeu passou a ter uma nova designação, chamando-se agora Grupo Renovador Democrata Europeu. Ora, o Sr.Deputado considera ou não positivo para o País que a entrada de um novo partido político português no Parlamento Europeu leve a que um grupo altere a sua designação? \nEm segundo lugar, o Sr. Deputado sabe ou não que esse grupo tem uma raiz não ideológica, sendo integrado por partidos que não pertencem a nenhuma internacional? \nEm terceiro lugar, o Sr. Deputado sabe ou não que uma das condições que o PRD pôs para integrar esse grupo foi a de fazer um subgrupo que funcionasse com inteira autonomia e independência, marcando \nperfeitamente as diferenças que existem em relação a outros grupos que o integrem, dos quais o gaullista é um deles.\nEm quarto lugar, gostaria de ser informado sobre qual seria a posição do Partido Socialista se, porventura, o PRD quisesse integrar o grupo socialista e social-democrata do Parlamento Europeu, dado que me consta - e com isto não estou a dizer que fizemos alguma démarche nesse sentido - que, para o integrar, é necessário ter o acordo dos partidos de cada país que já o integram. Portanto, gostaria de saber qual a posição, do PS se o PRD o quisesse integrar.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PRD", 
+   "speaker": "José Carlos Vasconcelos", 
    "text": "22 DE JANEIRO DE 1986 837", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Não quero fazer o Sr. Deputado responder a algumas questões que a posição do PS a nível nacional coloca. Porém, poderia inverter a questão e perguntar: por que é que o Partido Socialista pertence, no Parlamento Europeu, ao grupo socialista e social-democrata e ao nível interno tantas vezes se esquece disso?", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Não quero fazer o Sr. Deputado responder a algumas questões que a posição do PS a nível nacional coloca. Porém, poderia inverter a questão e perguntar: por que é que o Partido Socialista pertence, no Parlamento Europeu, ao grupo socialista e social-democrata e ao nível interno tantas vezes se esquece disso?", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PRD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Raul Junqueiro.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Raul Junqueiro.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Raul Junqueiro* (PS): Sr. Deputado José Carlos Vasconcelos, a questão da alteração da designação do grupo parlamentar europeu gaullista parece-me que ainda não está totalmente decidida. De qualquer forma, não estamos aqui a discutir uma questão de semântica. O que interessa é saber quem pertence a esse grupo parlamentar europeu e quais são as forças políticas que estão dentro desse mesmo grupo.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Raul Junqueiro", 
+   "text": "Sr. Deputado José Carlos Vasconcelos, a questão da alteração da designação do grupo parlamentar europeu gaullista parece-me que ainda não está totalmente decidida. De qualquer forma, não estamos aqui a discutir uma questão de semântica. O que interessa é saber quem pertence a esse grupo parlamentar europeu e quais são as forças políticas que estão dentro desse mesmo grupo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Aliás, o Sr. Deputado conhece tão bem como eu essas forças políticas e sabe perfeitamente que elas estão alinhadas pela direita europeia; são forças políticas que se manifestaram aberta e claramente contra a adesão de Portugal e da Espanha ao Mercado Comum; são forças políticas que sempre se têm batido contra os interesses dos emigrantes, sobretudo dos emigrantes portugueses.", 
+   "speaker": "O Orador", 
+   "text": "Aliás, o Sr. Deputado conhece tão bem como eu essas forças políticas e sabe perfeitamente que elas estão alinhadas pela direita europeia; são forças políticas que se manifestaram aberta e claramente contra a adesão de Portugal e da Espanha ao Mercado Comum; são forças políticas que sempre se têm batido contra os interesses dos emigrantes, sobretudo dos emigrantes portugueses.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -422,22 +429,23 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Carlos Vasconcelos* (PRD): Mais uma razão para estar lá o PRD!", 
+   "party": "PRD", 
+   "speaker": "José Carlos Vasconcelos", 
+   "text": "Mais uma razão para estar lá o PRD!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Por outro lado, essa questão de o grupo parlamentar europeu gaullista não ter raiz ideológica, deixa-me estupefacto. Será que foi por essa razão que o PRD decidiu aderir a ele?", 
+   "speaker": "O Orador", 
+   "text": "Por outro lado, essa questão de o grupo parlamentar europeu gaullista não ter raiz ideológica, deixa-me estupefacto. Será que foi por essa razão que o PRD decidiu aderir a ele?", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Risos do PS.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Sr. Deputado José Carlos Vasconcelos, o Grupo Socialista Europeu nunca foi confrontado com uma proposta de adesão por parte do PRD. Porém, penso que o Grupo Socialista Europeu teria muitas dificuldades em aceitar um partido que, como o Sr. Deputado reconhece, não tem raiz ideológica e se situa à direita.", 
    "type": "deputado_continuacao"
   }, 
@@ -446,37 +454,36 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Carlos Vasconcelos* (PRD): Sr. Presidente, peço a palavra.", 
+   "party": "PRD", 
+   "speaker": "José Carlos Vasconcelos", 
+   "text": "Sr. Presidente, peço a palavra.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para que efeito, Sr. Deputado?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para que efeito, Sr. Deputado?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Carlos Vasconcelos* (PRD): Sr. Presidente, pretendia exercer o direito de defesa. Porém, não vou invocar essa figura regimental porque acho que às vezes ela é utilizada abusivamente.\nContudo, como não há direito a rectificação, gostaria de dizer que me foram atribuídas afirmações que não fiz, designadamente a de dizer que o PRD não tem raiz ideológica, o que é falso.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "José Carlos Vasconcelos", 
+   "text": "Sr. Presidente, pretendia exercer o direito de defesa. Porém, não vou invocar essa figura regimental porque acho que às vezes ela é utilizada abusivamente.\nContudo, como não há direito a rectificação, gostaria de dizer que me foram atribuídas afirmações que não fiz, designadamente a de dizer que o PRD não tem raiz ideológica, o que é falso.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Muito obrigado, Sr. Deputado, mas a Câmara está atenta.\nPara uma intervenção, tem a palavra o Sr. Deputado Belchior Pereira.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Muito obrigado, Sr. Deputado, mas a Câmara está atenta.\nPara uma intervenção, tem a palavra o Sr. Deputado Belchior Pereira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Belchior Pereira* (PCP): Sr. Presidente, Srs. Deputados: Ninguém desconhece que o Alentejo é uma vasta região que dispõe de grandes potencialidades económicas, vastas riquezas mineiras e energéticas. E, todavia, o Alentejo é uma região atrasada, subdesenvolvida, com uma população pobre e envelhecida, com 35 97o de analfabetos e cerca de 30 000 desempregados. O Alentejo foi uma das regiões mais martirizadas e empobrecidas pelo fascismo português.\nNo Alentejo não é apenas a terra que se encontra subutilizada, mas também o homem. Região deprimida, que ocupa cerca de 30% da área do continente, tem actualmente apenas 6% da população residente e um rendimento que é de cerca de um terço do rendimento per capita da região de Lisboa. Região deprimida, perseguida e violentada que só a partir da década de 60 passou de 9% para 797o da população do continente, tendo perdido cerca de 200 000 habitantes, isto é, cerca de um quarto da população alentejana de 1960. O latifúndio é o grande responsável pelo atraso e subdesenvolvimento do Alentejo. Região com vastas zonas a caminho da desertificação, que só com a consolidação da Reforma Agrária e a ajuda técnica e financeira à pequena e média produção é possível recuperar e desenvolver para bem do povo alentejano e do povo português.\nSr. Presidente, Srs. Deputados: Nesta intervenção vou tratar de algumas indústrias transformadoras agro-alimentares e, particularmente, da indústria do tomate. Que se passa com a CONSOL, com a Divor, com a Caia? \nEstas unidades industriais surgiram como consequência lógica da necessidade de rendibilizar o regime de regadio implantado em vastas sub-regiões do Alto e Baixo Alentejo, designadamente com a construção das barragens do Roxo e Odivelas, entre outras.\nA CONSOL está dotada de equipamento e de linhas de produção com capacidade para absorver 50 t de tomate/hora e produzir cerca de 20 000 t de concentrado de 28/30 por campanha.\nA Cooperativa do Divor resultou do empenhamento do Estado em dotar a zona do Divor com um complexo fabril indispensável à rendibilização do regime de regadio aí implantado. O Estado promoveu e apoiou a constituição da Cooperativa e a instalação do seu complexo \nagro-industrial com aptidão para fabricar concentrado de tomate, tomate pelado, ketchup, legumes cozidos, polpa de tomate, de maçã, pêra e pêssego em calda. Dispõe ainda de secador e descasque de arroz.\nA Caia/PROGAL/HORTIL também está dotada de equipamento e de linhas de produção com capacidade para absorver e transformar a produção de tomate e produtos hortícolas da região onde está implantada.\nSucede que por razões várias estas empresas se encontram numa situação crítica que deve ser correctamente diagnosticada e consequentemente encontrados e aplicados os indispensáveis remédios para as salvar da falência.\nSr. Presidente, Srs. Deputados: Estas empresas estão paralisadas e os seus trabalhadores não recebem salários há já vários meses.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Belchior Pereira", 
+   "text": "Sr. Presidente, Srs. Deputados: Ninguém desconhece que o Alentejo é uma vasta região que dispõe de grandes potencialidades económicas, vastas riquezas mineiras e energéticas. E, todavia, o Alentejo é uma região atrasada, subdesenvolvida, com uma população pobre e envelhecida, com 35 97o de analfabetos e cerca de 30 000 desempregados. O Alentejo foi uma das regiões mais martirizadas e empobrecidas pelo fascismo português.\nNo Alentejo não é apenas a terra que se encontra subutilizada, mas também o homem. Região deprimida, que ocupa cerca de 30% da área do continente, tem actualmente apenas 6% da população residente e um rendimento que é de cerca de um terço do rendimento per capita da região de Lisboa. Região deprimida, perseguida e violentada que só a partir da década de 60 passou de 9% para 797o da população do continente, tendo perdido cerca de 200 000 habitantes, isto é, cerca de um quarto da população alentejana de 1960. O latifúndio é o grande responsável pelo atraso e subdesenvolvimento do Alentejo. Região com vastas zonas a caminho da desertificação, que só com a consolidação da Reforma Agrária e a ajuda técnica e financeira à pequena e média produção é possível recuperar e desenvolver para bem do povo alentejano e do povo português.\nSr. Presidente, Srs. Deputados: Nesta intervenção vou tratar de algumas indústrias transformadoras agro-alimentares e, particularmente, da indústria do tomate. Que se passa com a CONSOL, com a Divor, com a Caia? \nEstas unidades industriais surgiram como consequência lógica da necessidade de rendibilizar o regime de regadio implantado em vastas sub-regiões do Alto e Baixo Alentejo, designadamente com a construção das barragens do Roxo e Odivelas, entre outras.\nA CONSOL está dotada de equipamento e de linhas de produção com capacidade para absorver 50 t de tomate/hora e produzir cerca de 20 000 t de concentrado de 28/30 por campanha.\nA Cooperativa do Divor resultou do empenhamento do Estado em dotar a zona do Divor com um complexo fabril indispensável à rendibilização do regime de regadio aí implantado. O Estado promoveu e apoiou a constituição da Cooperativa e a instalação do seu complexo \nagro-industrial com aptidão para fabricar concentrado de tomate, tomate pelado, ketchup, legumes cozidos, polpa de tomate, de maçã, pêra e pêssego em calda. Dispõe ainda de secador e descasque de arroz.\nA Caia/PROGAL/HORTIL também está dotada de equipamento e de linhas de produção com capacidade para absorver e transformar a produção de tomate e produtos hortícolas da região onde está implantada.\nSucede que por razões várias estas empresas se encontram numa situação crítica que deve ser correctamente diagnosticada e consequentemente encontrados e aplicados os indispensáveis remédios para as salvar da falência.\nSr. Presidente, Srs. Deputados: Estas empresas estão paralisadas e os seus trabalhadores não recebem salários há já vários meses.\n838 I SÉRIE - NÚMERO 25", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "838 I SÉRIE - NÚMERO 25", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "Belchior Pereira", 
    "text": "A título de exemplo, vou citar o caso da CONSOL. No início da campanha do ano de 1985, foi criada uma expectativa de crédito, ao abrigo do Código 108, superior a 300 000 contos. Sucede que só no passado mês de Agosto, já no início da laboração, o Sr. Secretário de Estado autorizou a Junta Nacional das Frutas a conceder o aval para o financiamento de 165 000 contos. Por razões pouco claras que importa certamente esclarecer, o consórcio bancário rompeu o acordo que havia assumido para a concessão do crédito de 165 000 contos avalisados, \nverificando-se que só o Banco Fonsecas & Bumay honrou, embora tardiamente, a sua parte do compromisso assumido, concedendo o crédito de 52 000 contos.\nÉ óbvio que o corte súbito e inesperado do crédito conduziu a empresa à paralisia; à ruptura económica e financeira. No dia 20 de Outubro de 1985, a Electricidade de Portugal (EDP), E. P., suspendeu o \nfornecimento de corrente eléctrica à CONSOL, o que teve logicamente consequências dramáticas para a empresa, seus trabalhadores e produtores de tomate, cuja imensa maioria são pequenos e médios agricultores. As consequências imediatas podem resumir-se em que os- 120 trabalhadores da empresa não recebem salários desde Setembro passado, cerca de 150 t de tomate que ficaram a apodrecer nos tanques, no valor de 1200 contos, nas searas ficaram por colher cerca de 15 000 t de tomate, no valor de 120 000 contos, e nas linhas de produção ficaram cerca de 40 t, no valor de 2400 contos, com elevado poder de corrosão ácida e que lá continuam, danificando equipamentos cujo valor monta a centenas de milhares de contos. A EDP, por uma dívida de 2000 contos, não hesitou em causar o prejuízo citado à economia daquela zona e, consequentemente, à economia nacional.\nSr. Presidente, Srs. Deputados: Poderá alguém aceitar que se recupere a economia portuguesa deixando morrer empresas necessárias, \nindispensáveis à rendibilização dos regadios implantados naquelas sub-regiões alentejanas e que custaram ao Estado Português muitas centenas de milhares de contos? Não, não é possível aceitar uma tal política. Ou então como compreender que o Governo Português tenha aceitado nas negociações com a CEE que Portugal só terá garantia para a produção de 120 0001 de concentrado de tomate, quando sabemos que a capacidade instalada é de 160 000 t? Será verdade que aquele compromisso implica a destruição de um terço da nossa capacidade instalada» o que acarreta consequências dramáticas para milhares de trabalhadores e pequenos e médios agricultores? Ou haverá também outros interesses económicos a manobrar para facilitar a ruína daquelas empresas? \nSão questões pertinentes que exigem uma resposta urgente.\nÉ inegável que a defesa dos interesses da economia nacional e particularmente a defesa dos interesses económico-sociais das zonas do Roxo, Odivelas, Divor e Caia exigem que sejam criadas soluções para salvar, viabilizar e certamente rendibilizar aqueles complexos agro-industriais.", 
    "type": "deputado_continuacao"
   }, 
@@ -485,530 +492,538 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Também para uma intervenção, tem a palavra o Sr.Deputado Bártolo Campos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Também para uma intervenção, tem a palavra o Sr.Deputado Bártolo Campos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Bártolo Campos* (PRD): Sr. Presidente, Srs. Deputados: Um grupo de alunos da Escola Superior de Educação de Viseu: está a acabar um curso de bacharelato em ensino básico que os habilitaria a exercer a docência no ensino preparatório. Recentemente, estes alunos souberam que se desejassem ensinar ao preparatório deveriam complementar a sua formação com mais l ano de estudos a realizar, ao que lhes disseram, na Universidade.\nEsta medida visa harmonizar o que se passa na Escola Superior de Educação de Viseu com o que o Governo decidiu recentemente que virá a ocorrer no futuro nas outras escolas superiores de educação! \nNão vamos agora discutir tal política, pois isso merece mais tempo.\nDesde já podemos dizer, no entanto, que existem dados suficientes para afirmar que estamos perante á ausência de uma política clara e coerente relativamente à formação de professores e às escolas superiores de educação.\nDe qualquer modo, independentemente do que existir no futuro, é inadmissível que venha, á 15 dias do final de um curso, mudar-se as regras, contrariando expectativas e talvez direitos adquiridos.\nO problema de formação de professores exige uma solução global e coerente. Não se pode agravar a situação actual com medidas deste género e daquelas .que modificaram o esquema da profissionalização em serviços.\nEste é mais um dos problemas que torna urgente que a Assembleia da República defina uma lei de bases do sistema educativo. Até lá, o Ministério da Educação não deveria avançar com medidas que dificultam a implementação de uma política coerente e consensual.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Bártolo Campos", 
+   "text": "Sr. Presidente, Srs. Deputados: Um grupo de alunos da Escola Superior de Educação de Viseu: está a acabar um curso de bacharelato em ensino básico que os habilitaria a exercer a docência no ensino preparatório. Recentemente, estes alunos souberam que se desejassem ensinar ao preparatório deveriam complementar a sua formação com mais l ano de estudos a realizar, ao que lhes disseram, na Universidade.\nEsta medida visa harmonizar o que se passa na Escola Superior de Educação de Viseu com o que o Governo decidiu recentemente que virá a ocorrer no futuro nas outras escolas superiores de educação! \nNão vamos agora discutir tal política, pois isso merece mais tempo.\nDesde já podemos dizer, no entanto, que existem dados suficientes para afirmar que estamos perante á ausência de uma política clara e coerente relativamente à formação de professores e às escolas superiores de educação.\nDe qualquer modo, independentemente do que existir no futuro, é inadmissível que venha, á 15 dias do final de um curso, mudar-se as regras, contrariando expectativas e talvez direitos adquiridos.\nO problema de formação de professores exige uma solução global e coerente. Não se pode agravar a situação actual com medidas deste género e daquelas .que modificaram o esquema da profissionalização em serviços.\nEste é mais um dos problemas que torna urgente que a Assembleia da República defina uma lei de bases do sistema educativo. Até lá, o Ministério da Educação não deveria avançar com medidas que dificultam a implementação de uma política coerente e consensual.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PRD, do PCP e da deputada independente Maria Santos.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem à palavra o Sr. Deputado Virgílio Carneiro.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem à palavra o Sr. Deputado Virgílio Carneiro.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Virgílio Carneiro* (PSD): Sr. Presidente, Srs. Deputados: Os brevíssimos minutos que vou ocupar-vos não justificariam a subida a esta tribuna se não fosse ter sido tão grande a personalidade cuja memória hoje gostaria ficasse aqui assinalada.\nDesapareceu do nosso convívio faz hoje 25 anos, mas, apesar de passado, um quarto de século, a sua figura afável e polida, o seu porte airoso e vivo nas cenas que representa vá, a sua voz melodiosa, ora serena e melancólica, ora vibrante e impetuosa nas declamações que fazia, a forma típica e rigorosa como interpretava eloquentemente a cultura portuguesa que tanto amava, permanece bem viva e indelevelmente gravada nos olhos e nos ouvidos de muitos portugueses.\nRefiro-me, como é óbvio, ao grande actor e declamador João Henrique Villaret, falecido em 21 dê Janeiro de 1961.\nSe a minha geração teve o privilégio de se deleitar com a sua arte, uns ao vivo, outros através dos programas de televisão em que regularmente participava enquanto á saúde lho permitiu, ainda hoje é possível, através das gravações que rios deixou, motivar a juventude para o bom gosto de tantos textos da literatura portuguesa quê com tanto carinho ele soube tratar.\nPode, no entanto, parecer estranho ser um desconhecido deputado provinciano, vindo das paragens nortenhas do Minho, que aqui vem recordar esta ímpar", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Virgílio Carneiro", 
+   "text": "Sr. Presidente, Srs. Deputados: Os brevíssimos minutos que vou ocupar-vos não justificariam a subida a esta tribuna se não fosse ter sido tão grande a personalidade cuja memória hoje gostaria ficasse aqui assinalada.\nDesapareceu do nosso convívio faz hoje 25 anos, mas, apesar de passado, um quarto de século, a sua figura afável e polida, o seu porte airoso e vivo nas cenas que representa vá, a sua voz melodiosa, ora serena e melancólica, ora vibrante e impetuosa nas declamações que fazia, a forma típica e rigorosa como interpretava eloquentemente a cultura portuguesa que tanto amava, permanece bem viva e indelevelmente gravada nos olhos e nos ouvidos de muitos portugueses.\nRefiro-me, como é óbvio, ao grande actor e declamador João Henrique Villaret, falecido em 21 dê Janeiro de 1961.\nSe a minha geração teve o privilégio de se deleitar com a sua arte, uns ao vivo, outros através dos programas de televisão em que regularmente participava enquanto á saúde lho permitiu, ainda hoje é possível, através das gravações que rios deixou, motivar a juventude para o bom gosto de tantos textos da literatura portuguesa quê com tanto carinho ele soube tratar.\nPode, no entanto, parecer estranho ser um desconhecido deputado provinciano, vindo das paragens nortenhas do Minho, que aqui vem recordar esta ímpar 22 DE JANEIRO DE 1986 839", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "22 DE JANEIRO DE 1986 839", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Virgílio Carneiro", 
    "text": "figura de actor, declamador e homem da cultura e da arte. Contudo, uma efeméride deste tipo não deve limitar-se a comemorar e exaltar o nome de quem foi, efectivamente, uma grande personalidade, mas deve também integrar um sério sentido pedagógico.\nQuero com isto dizer que neste declinar do século XX, em que os Portugueses parecem um pouco arredados das diversas manifestações culturais, como há dias a imprensa fez eco, baseada em estudos internacionais, é preciso e urgente vincar profundamente pelo menos três aspectos:", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Virgílio Carneiro", 
    "text": "Necessidade de levar cada vez mais a todo o território, e não só aos grandes centros, as mais importantes manifestações culturais e artísticas; necessidade de dar oportunidade e incentivo aos jovens valores, cujo engenho se aperfeiçoa a partir dos nobres exemplos do passado; necessidade de salientar o interesse formativo dos principais valores da cultura para construção da sociedade nova e mais humanista que todos reclamam.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Virgílio Carneiro", 
    "text": "É, pois, este carácter pedagógico que, quanto a mim, mais enaltece o sentido da efeméride e justifica ter sido um homem da província vir aqui recordá-la.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Virgílio Carneiro", 
    "text": "Aplausos do PSD, do PS, do PRD, do PCP, do CDS e dos deputados independentes Lopes Cardoso e Maria Santos.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, Srs. Deputados: Muita tinta tem corrido sobre o problema das escolas superiores de educação no nosso país.\nTivemos oportunidade de ouvir hoje o Sr. Deputado Bártolo Campos, do PRD, referir-se a este problema e também gostaria de, em nome da minha bancada, tecer algumas considerações sobre a matéria.\nCom projecto que data de 1976 e prevista a sua implementação a partir de 1980, verifica-se hoje que o Ministério da Educação, em relação à questão das escolas superiores de educação, não foi capaz de organizar e dinamizar, até ao momento, um amplo debate público em torno de um problema com tão importantes implicações em toda a estrutura do sistema educativo, designadamente a formação de professores e a estruturação da carreira docente.\nTratado desde o início como «questão confidencial», os sucessivos responsáveis pelo Ministério da Educação sempre se recusaram a colocar a questão à consideração não só desta Assembleia da República como também dos sectores por ela directamente atingidos, designadamente as associações sindicais de professores. E nem os relatórios elaborados por comissões de nomeação ministerial vieram dar resposta às questões que diariamente alunos e professores se colocam quanto ao futuro de tais estabelecimentos de ensino, antes vindo agravar as suas preocupações. E as interrogações permanecem! \nSr. Presidente, Srs. Deputados: Poder-me-ão dizer que o período de antes da ordem do dia não será o momento propício para o tratamento de tão importante questão, nem o Plenário da Assembleia, sem qualquer preparação prévia, o local ideal para debater todo o problema das escolas superiores de educação. Estarei de acordo convosco. Mas certamente me acompanharão se disser que é este o momento e o local apropriado para colocar a Assembleia da República perante as suas responsabilidades de fiscalização da acção governativa, particularmente quando estão em causa direitos e expectativa de cidadãos agora postos em questão em virtude da constante indefinição que tem marcado a política educativa no nosso país ao longo destes últimos 9 anos.\nÉ o que se passa hoje com a Escola Superior de Educação de Viseu, - e aproveito para, em nome da minha bancada, saudar os alunos que dessa escola aqui estão presentes -, em que os seus alunos, dadas as medidas não ponderadas, avulsas e contraditórias que o Ministério da Educação tem vindo a publicar, vêem o futuro profissional fortemente \ncomprometido. Ao que se sabe, estão em preparação, no Ministério da Educação, diplomas legais, cuja filosofia geral já foi explicitada por diversos responsáveis daquele departamento governamental, que iriam contrariar completamente as expectativas que foram criadas a tais estudantes aquando do acto de inscrição naquela escola.\nNão se trata, aliás, de uma questão nova, uma vez que vários deputados de diversas bancadas já questionaram o Governo sobre aquele problema em concreto, sem, contudo, obterem qualquer resposta.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "E seria de questionar aqueles que enchem a boca com referências ao «Estado como pessoa de bem» e ao «respeito pelos compromissos assumidos» se é esta a melhor forma que escolheram para demonstrar o que entendem por tais conceitos. As palavras valem o que valem, as acções ficam com quem as pratica, mas o mais grave é que tais acções, neste caso como em muitos outros, não atingem os que por elas são responsáveis, mas sim várias dezenas de alunos que não têm qualquer culpa das indefinições e contradições da política educativa, se assim se lhe pode chamar, com que os responsáveis pela pasta da Educação, e particularmente o PSD que está à frente do Ministério há mais de 6 anos, têm vindo a brindar os Portugueses.\nSr. Presidente, Srs. Deputados: Ainda que surgindo como um episódio no mundo de problemas com que se debate a educação no nosso país, o que se está a passar com a Escola Superior de Educação de Viseu é bem um exemplo do que não devem ser os métodos a seguir neste importante sector que é o da política educativa.\nE deixa-nos também um alerta para a premência de que a Assembleia da República não deixe por mãos alheias o que a si e só a si compete fazer - a lei de bases do sistema educativo.\nE deve fazê-lo a curto prazo! Este o nosso propósito e a garantia do empenhamento dos deputados comunistas para que brevemente tal objectivo seja alcançado.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, Srs. Deputados: Muita tinta tem corrido sobre o problema das escolas superiores de educação no nosso país.\nTivemos oportunidade de ouvir hoje o Sr. Deputado Bártolo Campos, do PRD, referir-se a este problema e também gostaria de, em nome da minha bancada, tecer algumas considerações sobre a matéria.\nCom projecto que data de 1976 e prevista a sua implementação a partir de 1980, verifica-se hoje que o Ministério da Educação, em relação à questão das escolas superiores de educação, não foi capaz de organizar e dinamizar, até ao momento, um amplo debate público em torno de um problema com tão importantes implicações em toda a estrutura do sistema educativo, designadamente a formação de professores e a estruturação da carreira docente.\nTratado desde o início como «questão confidencial», os sucessivos responsáveis pelo Ministério da Educação sempre se recusaram a colocar a questão à consideração não só desta Assembleia da República como também dos sectores por ela directamente atingidos, designadamente as associações sindicais de professores. E nem os relatórios elaborados por comissões de nomeação ministerial vieram dar resposta às questões que diariamente alunos e professores se colocam quanto ao futuro de tais estabelecimentos de ensino, antes vindo agravar as suas preocupações. E as interrogações permanecem! \nSr. Presidente, Srs. Deputados: Poder-me-ão dizer que o período de antes da ordem do dia não será o momento propício para o tratamento de tão importante questão, nem o Plenário da Assembleia, sem qualquer preparação prévia, o local ideal para debater todo o problema das escolas superiores de educação. Estarei de acordo convosco. Mas certamente me acompanharão se disser que é este o momento e o local apropriado para colocar a Assembleia da República perante as suas responsabilidades de fiscalização da acção governativa, particularmente quando estão em causa direitos e expectativa de cidadãos agora postos em questão em virtude da constante indefinição que tem marcado a política educativa no nosso país ao longo destes últimos 9 anos.\nÉ o que se passa hoje com a Escola Superior de Educação de Viseu, - e aproveito para, em nome da minha bancada, saudar os alunos que dessa escola aqui estão presentes -, em que os seus alunos, dadas as medidas não ponderadas, avulsas e contraditórias que o Ministério da Educação tem vindo a publicar, vêem o futuro profissional fortemente \ncomprometido. Ao que se sabe, estão em preparação, no Ministério da Educação, diplomas legais, cuja filosofia geral já foi explicitada por diversos responsáveis daquele departamento governamental, que iriam contrariar completamente as expectativas que foram criadas a tais estudantes aquando do acto de inscrição naquela escola.\nNão se trata, aliás, de uma questão nova, uma vez que vários deputados de diversas bancadas já questionaram o Governo sobre aquele problema em concreto, sem, contudo, obterem qualquer resposta.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Manuel Mendes* (PCP): Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: E seria de questionar aqueles que enchem a boca com referências ao «Estado como pessoa de bem» e ao «respeito pelos compromissos assumidos» se é esta a melhor forma que escolheram para demonstrar o que entendem por tais conceitos. As palavras valem o que valem, as acções ficam com quem as pratica, mas o mais grave é que tais acções, neste caso como em muitos outros, não atingem os que por elas são responsáveis, mas sim várias dezenas de alunos que não têm qualquer culpa das indefinições e contradições da política educativa, se assim se lhe pode chamar, com que os responsáveis pela pasta da Educação, e particularmente o PSD que está à frente do Ministério há mais de 6 anos, têm vindo a brindar os Portugueses.\nSr. Presidente, Srs. Deputados: Ainda que surgindo como um episódio no mundo de problemas com que se debate a educação no nosso país, o que se está a passar com a Escola Superior de Educação de Viseu é bem um exemplo do que não devem ser os métodos a seguir neste importante sector que é o da política educativa.\nE deixa-nos também um alerta para a premência de que a Assembleia da República não deixe por mãos alheias o que a si e só a si compete fazer - a lei de bases do sistema educativo.\nE deve fazê-lo a curto prazo! Este o nosso propósito e a garantia do empenhamento dos deputados comunistas para que brevemente tal objectivo seja alcançado.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Aplausos do PCP, do MDP/CDE, da deputada independente Maria Santos e de alguns deputados do PRD.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado António Marques.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Marques* (PRD): Sr. Presidente, Srs. Deputados: «A organização democrática do Estado Português compreende a existência de autarquias locais», artigo 237.º da Constituição Portuguesa.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "António Marques", 
+   "text": "Sr. Presidente, Srs. Deputados: «A organização democrática do Estado Português compreende a existência de autarquias locais», artigo 237.º da Constituição Portuguesa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PRD", 
+   "speaker": "António Marques", 
    "text": "840 I SÉRIE - NÚMERO 25", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PRD", 
+   "speaker": "António Marques", 
    "text": "«As autarquias locais possuem quadros de pessoal próprio, nos termos da lei», artigo 244.º, n.º 1, da Constituição da República Portuguesa: \nO trabalho desenvolvido pelas autarquias locais ao longo destes últimos 10 anos, desde que Abril abriu a porta da liberdade neste país, tem merecido da parte de todos os partidos políticos o maior respeito e a maior admiração. Trabalho insano quantas vezes fruto do sacrifício e do carinho, resultado de uma luta árdua e de inteligência, misto de aventura e de certeza. Trabalho extenuante e agreste quando é preciso para o concretizar vencer as montanhas íngremes do poder central, esbracejar contra a corrente de uma lei de finanças insuficiente, insistir e furar, o filtro das incompreensões e levar às populações locais os bens necessários a uma vida cujos padrões tardam a aproximar-se dos povos aos quais nos irmanámos nesta Europa agora dos doze.\nSão as estradas que rasgam os campos verdes, país fora, levando mais conforto, e o médico, levando: mais ânimo, e o desenvolvimento, levando mais alegria, e o autocarro da escola, lá onde só o velho jumento do Sr. Cura se atrevia a desafiar o carreiro íngreme, ronde apenas a azémola do barbeiro aventurava o tinir das suas ferraduras em dia de sangria, já que boticário ou mestre-escola só na vila ou em sonhos.\nE a água, a electricidade, os saneamentos e recolha de lixos e o abrir da porta à vida que escorria das páginas dos velhos jornais, que por vezes alguém trazia, e tudo isto e muito mais, quem o fez depois do 25 de Abril senão as autarquias locais e o poder local através dos seus trabalhadores.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Magalhães Mota* (PRD): Muito, bem!", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
+   "text": "Muito, bem!", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Milhares de homens e de mulheres servem com verdadeiro sentido do dever o poder local de Abril. Homens e mulheres simples e corajosos que do Minho lá, nos contrafortes de Monção, até aos Açores na pequena ilha, mas singularmente lutadora; ilha do Corvo, enfrentam a adversidade; quantas vezes a injustiça e a arbitrariedade, mas dizem, apesar de tudo, um sim resoluto e ufano ao povo que lhes paga e a quem servem, ao povo a quem muito querem e que reconhecem como o seu único, verdadeiro e legítimo patrão.\nSão estes homens, são estas mulheres que nos devem merecer alguns segundo de atenção. É este corpo de trabalhadores que do povo português merece, pelo menos, não um agradecimento; porque, quando se serve com honestidade e espírito de missão, isso não se espera, mas outrossim, o reconhecimento e a consciência da sua situação de esquecidos, do seu estado de discriminados, da sua posição de subalternizados.\nDesde 1975 o seu poder de compra tem vindo a diminuir acentuadamente ano após ano.\nApesar de a expressão balofa, dos seus salários nominais ter hoje a ilusória cara redonda e anafada, ela nada traduz, tendo em conta a negra realidade da face sumida e triste da expressão dos seus salários reais; e a multiplicidade dos seus vínculos, alguns deles tão mal definidos, e as condições de trabalho em tantas autarquias onde a chuva, as estrelas e o sol entram de parceria e sem-cerimónia nos locais de trabalho vetustos e sem higiene. E tantas outras coisas que nos deveriam merecer um sinal de maior solidariedade como portugueses que, pelo simples facto de servirem os outros, têm o direito de possuir um estatuto de cidadãos de corpo inteiro, nos direitos e nos deveres.\nPossuem um sistema de carreiras caduco e devorado por décadas de sentido estático e incompreensões fósseis.\nTodavia, é de extrema bondade admitir que a administração local desenvolve tarefas próprias que a diferencia da administração central.\nÉ justo referir, como exemplo, que um terceiro-oficial de uma câmara municipal tem de interpretar a lei, quantas vezes dirigir uma sessão, ou mesmo, o que não é invulgar, estar à frente dos serviços de um município. Eu poderia apontar inúmeros casos concretos.\nPois bem, os trabalhadores da administração local, apresentaram, ao longo dos últimos anos, um projecto de carreiras sucessivamente esquecido nas gavetas do poder central.\nDe novo, junto do actual Governo, fizeram entrega dos seus anseios, das suas esperanças, dos seus direitos, através da sua organização de classe, do Sindicato Nacional dos Trabalhadores da Administração e do Sindicato dos Trabalhadores da Câmara Municipal de Lisboa.\nDesesperados, os trabalhadores nada pedem de impossível, nada reivindicam de inabordável, nada esperam de milagroso. Desde há meses que anseiam apenas a resposta do Governo.\nAmanhã vão entrar em greve. Porque o fazem? Apenas com uma intenção: \nobter do poder instituído um calendário de negociações.\nAmanhã, milhares de trabalhadores da administração local vão lutar para fazer valer os seus elementares direitos de justiça.\nSingular forma de respeitar os trabalhadores, que até para se fazerem ouvir têm de lutar até às últimas consequências: a greve.\nMas a tradição, de gente respeitadora e consciente aliada à força e ao poder organizativo do STAL e do STCLM conseguirão fazer com que a razão e a justiça não sejam palavras mortas no Portugal de Abril.\nAmanhã, milhares de trabalhadores vão lutar pelo direito a um calendário de negociações onde estará em jogo a sua carreira e o seu futuro.\nAmanhã, a minha solidariedade - e espero que comigo à de muitos outros -, estará com estes trabalhadores.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Milhares de homens e de mulheres servem com verdadeiro sentido do dever o poder local de Abril. Homens e mulheres simples e corajosos que do Minho lá, nos contrafortes de Monção, até aos Açores na pequena ilha, mas singularmente lutadora; ilha do Corvo, enfrentam a adversidade; quantas vezes a injustiça e a arbitrariedade, mas dizem, apesar de tudo, um sim resoluto e ufano ao povo que lhes paga e a quem servem, ao povo a quem muito querem e que reconhecem como o seu único, verdadeiro e legítimo patrão.\nSão estes homens, são estas mulheres que nos devem merecer alguns segundo de atenção. É este corpo de trabalhadores que do povo português merece, pelo menos, não um agradecimento; porque, quando se serve com honestidade e espírito de missão, isso não se espera, mas outrossim, o reconhecimento e a consciência da sua situação de esquecidos, do seu estado de discriminados, da sua posição de subalternizados.\nDesde 1975 o seu poder de compra tem vindo a diminuir acentuadamente ano após ano.\nApesar de a expressão balofa, dos seus salários nominais ter hoje a ilusória cara redonda e anafada, ela nada traduz, tendo em conta a negra realidade da face sumida e triste da expressão dos seus salários reais; e a multiplicidade dos seus vínculos, alguns deles tão mal definidos, e as condições de trabalho em tantas autarquias onde a chuva, as estrelas e o sol entram de parceria e sem-cerimónia nos locais de trabalho vetustos e sem higiene. E tantas outras coisas que nos deveriam merecer um sinal de maior solidariedade como portugueses que, pelo simples facto de servirem os outros, têm o direito de possuir um estatuto de cidadãos de corpo inteiro, nos direitos e nos deveres.\nPossuem um sistema de carreiras caduco e devorado por décadas de sentido estático e incompreensões fósseis.\nTodavia, é de extrema bondade admitir que a administração local desenvolve tarefas próprias que a diferencia da administração central.\nÉ justo referir, como exemplo, que um terceiro-oficial de uma câmara municipal tem de interpretar a lei, quantas vezes dirigir uma sessão, ou mesmo, o que não é invulgar, estar à frente dos serviços de um município. Eu poderia apontar inúmeros casos concretos.\nPois bem, os trabalhadores da administração local, apresentaram, ao longo dos últimos anos, um projecto de carreiras sucessivamente esquecido nas gavetas do poder central.\nDe novo, junto do actual Governo, fizeram entrega dos seus anseios, das suas esperanças, dos seus direitos, através da sua organização de classe, do Sindicato Nacional dos Trabalhadores da Administração e do Sindicato dos Trabalhadores da Câmara Municipal de Lisboa.\nDesesperados, os trabalhadores nada pedem de impossível, nada reivindicam de inabordável, nada esperam de milagroso. Desde há meses que anseiam apenas a resposta do Governo.\nAmanhã vão entrar em greve. Porque o fazem? Apenas com uma intenção: \nobter do poder instituído um calendário de negociações.\nAmanhã, milhares de trabalhadores da administração local vão lutar para fazer valer os seus elementares direitos de justiça.\nSingular forma de respeitar os trabalhadores, que até para se fazerem ouvir têm de lutar até às últimas consequências: a greve.\nMas a tradição, de gente respeitadora e consciente aliada à força e ao poder organizativo do STAL e do STCLM conseguirão fazer com que a razão e a justiça não sejam palavras mortas no Portugal de Abril.\nAmanhã, milhares de trabalhadores vão lutar pelo direito a um calendário de negociações onde estará em jogo a sua carreira e o seu futuro.\nAmanhã, a minha solidariedade - e espero que comigo à de muitos outros -, estará com estes trabalhadores.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PRD, do PCP e do MDP/CDE.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado António Paulouro.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Paulouro.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Paulouro* (PRD): Sr. Presidente, Srs. Deputados: Traz-me a esta Casa, onde as responsabilidades dignamente assumidas constituem um dos mais sólidos pilares da democracia, o dever de reivindicar a inserção, na globalidade dos problemas nacionais, de uma região desde há séculos convocada ao cumprimento de todas as obrigações sem a contrapartida dos justos e merecidos benefícios.\nO distrito de Castelo Branco tem de lembrar, ainda, com um misto de reconhecimento e indignação, o Sr. Fontes Pereira de Melo que lhe deu, com o caminho-de-ferro, o primeiro e único impulso sério.\nA indignação vem de, l século depois, andarmos sobre os mesmos carris e com iguais horários, sem alternativas rodoviárias em face das estradas de mau traçado e pior piso e das carreiras aéreas, precário arremedo de serviço público.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "António Paulouro", 
+   "text": "Sr. Presidente, Srs. Deputados: Traz-me a esta Casa, onde as responsabilidades dignamente assumidas constituem um dos mais sólidos pilares da democracia, o dever de reivindicar a inserção, na globalidade dos problemas nacionais, de uma região desde há séculos convocada ao cumprimento de todas as obrigações sem a contrapartida dos justos e merecidos benefícios.\nO distrito de Castelo Branco tem de lembrar, ainda, com um misto de reconhecimento e indignação, o Sr. Fontes Pereira de Melo que lhe deu, com o caminho-de-ferro, o primeiro e único impulso sério.\nA indignação vem de, l século depois, andarmos sobre os mesmos carris e com iguais horários, sem alternativas rodoviárias em face das estradas de mau traçado e pior piso e das carreiras aéreas, precário arremedo de serviço público.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PRD", 
+   "speaker": "António Paulouro", 
    "text": "22 DE JANEIRO DE 1986 841", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PRD", 
+   "speaker": "António Paulouro", 
    "text": "Essa é, sem dúvida, a causa principal das profundas assimetrias que, embora denunciadas, permanecem ao correr dos anos.\nDas consequências, veja-se que o distrito de Castelo Branco perdeu em 20 anos 26% da população. Muitos tiveram de ir para o estrangeiro, muitos outros vegetam nos bairros de lata da capital. Sabemos o que isso é, temos de saber que continuam ali para fugirem a uma vida ainda de maior miséria.\nOutros índices falam claro sem que ninguém nos ouça: o analfabetismo atinge a cifra alarmante de 35%, a que se juntam 18% de indivíduos que sabem ler, mas que nem sequer possuem o ensino primário elementar.\nIsto, e muito mais, porque 12 anos depois do 25 de Abril subsiste o folclore ministerial das visitas paternais ao rebanho manso e resignado que espera a côdea e a água para o chafariz.\nSó que já lá vai o tempo das benemerências oficiais e das lamúrias aviltantes.\nQueremos, com a colaboração dos departamentos responsáveis, estudar a sério os nossos problemas e trazê-los aqui, para os integrar no plano de prioridades, urgente e inadiável.\nTodavia, se os horizontes se fecham a todo o tipo de comunicação com os centros importantes do País, pior é ainda no que respeita aos vizinhos espanhóis. Emperrada a abertura da fronteira de Monfortinho, apesar do excelente apetrechamento hoteleiro, esquecida a esperança dessa prometida e sempre adiada estrada da fronteira ao mar - continuam a desperdiçar-se os valores do intercâmbio cultural, relaxa-se em contrabando o que deveriam ser relações económicas normais, esquece-se o turismo -, todo um desperdício de bens culturais, materiais e humanos.\nMas terei de retomar o que é principal agora: o regadio da Cova da Beira e suas incidências na economia regional.\nIniciados os estudos há 34 anos, já em resposta a velhos anseios, começaram as obras pouco depois do 25 de Abril, com a afirmação, várias vezes repetida, de que em 1985 começaríamos a regar. São 17 000 ha, que, mesmo sem a introdução de novas culturas, poderão dar, anualmente, 3 milhões de contos de valor acrescentado.\nE a lentidão das obras de adiamento em adiamento: aponta-se agora para 1990.\nSeja. Todavia, fechadas as fronteiras por onde se ia em busca do pão, expostos os que se aventuram a todos os riscos da miséria e das prisões, têm de abrir-se outros caminhos. O de uma agricultura moderna e compensadora é um deles.\nSimplesmente, acontece que, mesmo sem a concorrência estrangeira, a cultura da batata, principal nesta região, está condenada. As 40 000 t de produção média vão ficar, como este ano em grande parte ficaram, a apodrecer nas pequenas herdades. Por intercessão misericordiosa e eleitoral o Estado retirará 25 % das 8000 que ainda há só na Cova da Beira.\nFoi assim este ano. Amanhã será pior.\nÉ preciso romper esta cadeia de frustrações. Até aqui boas terras sem água para as regar. Em 1990, possivelmente, terra regada e portas fechadas às culturas rendíveis.\nSr. Presidente, Srs. Deputados: Neste painel de desmazelos silenciados acontece o que se esperaria de um governo autocrático, nunca em democracia: sem que a Beira interior - distritos da Guarda e de Castelo Branco - tenha sido ouvida nessa achada, estão a gastar-se importantes verbas no Ribatejo para estudo da produção de beterraba sacariana. Isto é, em região onde o recurso a outras culturas é averiguadamente possível e decerto aconselhável.\nPorque a prevista ou solicitada implantação da beterrabeira ou beterrabeiras sofre de grave omissão, requeiro ao Governo que, urgentemente mande reexaminar o plano de cultivo de beterraba e sua transformação e se as 60 000 t de açucar que os acordos com a CEE nos atribuem podem, como julgamos, comtemplar as regiões onde a beterraba se dá bem e as geadas prejudicam outras culturas.\nQueremos, com abundância de razoes evidentes, que a Beira interior seja incluída em todos os estudos de desenvolvimento. Não o tem sido.\nTrata-se apenas de reclamar um direito legítimo e a defesa de uma região incompeensivelmente posta à margem para o que fundamentalmente importa ao seu futuro.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PRD, do PCP, do MDP/CDE e de alguns deputados do PS.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Deputado João Corregedor da Fonseca, pede a palavra para que efeito?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado João Corregedor da Fonseca, pede a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. João Corregedor da Fonseca (MDP/CDE): ' Para pedir \nesclarecimentos, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "text": "' Para pedir \nesclarecimentos, Sr. Presidente.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Faça o favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça o favor, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. João Corregedor da Fonseca (MDP/CDE): Sr. Deputado António Paulouro, ouvi-o com muito agrado e saúdo-o desde já em nome da nossa velha amizade e da luta antifascista, de que o Sr. Deputado é um dos expoentes nesta Câmara.\nA propósito da sua intervenção, Sr. Deputado, estava à espera de o ouvir referir um facto extremamente preocupante no distrito de Castelo Branco - a eucaliptização. Gostava de saber, Sr. Deputado, se quer dar aqui alguma ideia do que se está à passar no distrito de Castelo Branco com a eucaliptização desenfreada dessa zona, que traz preocupadas as populações e que tanto mal tem feito a essa região.\nComo é evidente, não somos contra a eucaliptização, desde que obedeça a normas claras e bem definidas, mas gostaríamos que o Sr. Deputado - e se V. Ex.a não tiver tempo, o meu grupo parlamentar cede-lho - referisse alguns aspectos do que se está a passar em relação a essa selvática ocupação de terreno que, na minha opinião e com certeza na opinião de muitos, tem prejudicado fortemente a região e o País.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Deputado António Paulouro, ouvi-o com muito agrado e saúdo-o desde já em nome da nossa velha amizade e da luta antifascista, de que o Sr. Deputado é um dos expoentes nesta Câmara.\nA propósito da sua intervenção, Sr. Deputado, estava à espera de o ouvir referir um facto extremamente preocupante no distrito de Castelo Branco - a eucaliptização. Gostava de saber, Sr. Deputado, se quer dar aqui alguma ideia do que se está à passar no distrito de Castelo Branco com a eucaliptização desenfreada dessa zona, que traz preocupadas as populações e que tanto mal tem feito a essa região.\nComo é evidente, não somos contra a eucaliptização, desde que obedeça a normas claras e bem definidas, mas gostaríamos que o Sr. Deputado - e se V. Ex.a não tiver tempo, o meu grupo parlamentar cede-lho - referisse alguns aspectos do que se está a passar em relação a essa selvática ocupação de terreno que, na minha opinião e com certeza na opinião de muitos, tem prejudicado fortemente a região e o País.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Deputado António Paulouro, há ainda outro deputado inscrito para lhe pedir esclarecimentos. V. Ex.a responde agora ou no fim do outro pedido de esclarecimento?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado António Paulouro, há ainda outro deputado inscrito para lhe pedir esclarecimentos. V. Ex.a responde agora ou no fim do outro pedido de esclarecimento?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Paulouro* (PRD): No fim, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "António Paulouro", 
+   "text": "No fim, Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Assim sendo, para pedir esclarecimentos, tem a palavra o Sr. Deputado Neiva Correia.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Assim sendo, para pedir esclarecimentos, tem a palavra o Sr. Deputado Neiva Correia.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Neiva Correia* (CDS): Sr. Deputado António Paulouro, desejava perguntar-lhe se na Cova da Beira existem 40 000 ha regáveis num raio de acção de", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Neiva Correia", 
+   "text": "Sr. Deputado António Paulouro, desejava perguntar-lhe se na Cova da Beira existem 40 000 ha regáveis num raio de acção de", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Neiva Correia", 
    "text": "I SÉRIE - NÚMERO 25 842", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Neiva Correia", 
    "text": "cerca de 50 km. É que se existem, a resposta à sua pergunta sobre a possibilidade de fazer lá uma beterra-beira para 60 000 t de açúcar/ano será positiva; se não existem, a resposta será negativa.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado António Paulouro.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado António Paulouro.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Pauloro* (PRD): Em relação à pergunta do Sr. Deputado João Corregedor da Fonseca, tenho de dizer que efectivamente o problema da eucaliptização na Beira é grave, mas hoje não tinha tempo para tratar dele em virtude de só ter disponíveis 5 minutos. Em todo o caso, proximamente procurarei tratar aqui esse problema com números exactos que estou a recolher.\nEm relação ao Sr. Deputado Neiva Correia, gostaria de dizer-lhe que está provado que não são necessários 60 000 ha, mas no fim de 1988 teremos aproximadamente 90 000. Num raio de acção de 50 km, os campos de Castelo Branco, Idanha-a-Nova, de uma parte da Guarda e da Cova da Beira terão mais de 90 000 ha.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "António Pauloro", 
+   "text": "Em relação à pergunta do Sr. Deputado João Corregedor da Fonseca, tenho de dizer que efectivamente o problema da eucaliptização na Beira é grave, mas hoje não tinha tempo para tratar dele em virtude de só ter disponíveis 5 minutos. Em todo o caso, proximamente procurarei tratar aqui esse problema com números exactos que estou a recolher.\nEm relação ao Sr. Deputado Neiva Correia, gostaria de dizer-lhe que está provado que não são necessários 60 000 ha, mas no fim de 1988 teremos aproximadamente 90 000. Num raio de acção de 50 km, os campos de Castelo Branco, Idanha-a-Nova, de uma parte da Guarda e da Cova da Beira terão mais de 90 000 ha.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, encontram-se entre nós, na tribuna do corpo diplomático, alguns parlamentares irlandeses. Agradeço que os saudemos com amizade.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, encontram-se entre nós, na tribuna do corpo diplomático, alguns parlamentares irlandeses. Agradeço que os saudemos com amizade.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, como é do conhecimento de VV. Ex.as, liderei uma delegação que se deslocou a Estrasburgo aquando da 1.ª sessão do Parlamento Europeu a que estiveram presentes parlamentares portugueses.\nO Sr, Deputado Magalhães Mota foi, a pedido dos restantes membros da delegação, encarregado de fazer o correspondente relatório, que foi subscrito por todos nós. Agradeço ao Sr. Deputado Magalhães Mota o favor de fazer a leitura desse relatório.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Magalhães Mota* (PRD): Sr. Presidente, Srs. Deputados: A acção da Assembleia da República na definição e acompanhamento da política externa portuguesa é, sem dúvida, extremamente reduzida.\nA intervenção parlamentar na ratificação de tratados tem sido confinada à dimensão de um ritual, com mais ou menos formalidades.\nEm muitas das negociações que antecedem a sua celebração, os deputados são mantidos em completo desconhecimento.\nE isto, mesmo no que se refere aos tratados que lhes compete, constitucionalmente, aprovar, por tratarem da sua competência legislativa reservada ou por tratarem da participação de Portugal em organizações internacionais, ou os tratados de amizade, de paz, de defesa, de rectificação de fronteiras ou os respeitantes a assuntos militares - Constituição, artigo 164.°, alínea i).\nO mesmo halo de mistério envolve, para o Parlamento, a acção da nossa diplomacia.\nE como se tudo isto não bastasse, o Parlamento ignora muitas vezes a própria acção pelos seus deputados exercida, no exterior, em sua representação. É toda esta situação que se pretende modificar no âmbito da presente legislatura.\nEstas considerações não parece pudessem silenciar-se ao apresentar o relatório de uma deslocação da Assembleia da República. Com efeito, a delegação da Assembleia da República que, liderada pelo seu Presidente, se deslocou a Estrasburgo para testemunhar e acompanhar o ingresso de deputados portugueses e espanhóis no Parlamento Europeu, vem, por esta forma trazer ao conhecimento dos restantes deputados e dos Portugueses por eles representados, não só o modo como procurou desempenhar-se da missão de representação nacional que cumpriu, como das observações que lhe merecem a forma como ela se processou.\nSucintamente, poderá dizer-se que a delegação parlamentar cumpriu o programa que lhe foi estabelecido, fundamentalmente de natureza representativa e social. Assim, a delegação que foi recebida na sua escala no aeroporto de Paris pelo embaixador de Portugal cm Franca, embaixador Gaspar da Silva, e pelo conselheiro de Embaixada Dr. Moreira de Andrade. Foi igualmente acolhida no aeroporto de Estrasburgo, à sua chegada, pelo embaixador de Portugal junto do Conselho da Europa, Dr.\nPereira Bastos, pelo cônsul de Portugal em Estrasburgo, Dr. Domingos Serra e pela assessora da Embaixada de Portugal junto do Conselho da Europa, Dr.a Maria Carla Pereira da Silva.\nA delegação era ainda aguardada pelo chefe de protocolo do Parlamento Europeu St. Mestat. Nesse mesmo dia, o embaixador de Portugal junto do Conselho da Europa recebeu a delegação a quem ofereceu um jantar.\nNa segunda-feira, dia 13, a delegação portuguesa deslocou-se ao aeroporto de Estrasburgo para receber os deputados portugueses e espanhóis que, utilizando o voo inaugural da carreira directa Lisboa-Madrid-Estrasburgo, iam iniciar a sua actividade de \nparlamentares europeus. No salão do aeroporto realizaou-se um primeiro encontro entre o presidente do Parlamento Europeu, Pierre Pflimlin e o Presidente da Assembleia da República.\nNo aeroporto compareceram também o embaixador de Portugal junto da CEE, Dr. Silva Marques, e o conselheiro da mesma Embaixada, Dr. Cruz de Almeida.\nA delegação portuguesa deslocou-se de imediato ao Palácio da Europa, assintindo à sessão do Parlamento onde pela primeira vez tomaram assento os deputados portugueses e espanhóis.\nA delegação tomou lugar na tribuna de honra, foi referida expressamente na intervenção do presidente do Parlamento Europeu com relevo especial para o Presidente da Assembleia da República. Por tal motivo aplaudida, pode testemunhar, com natural emoção, a reunião da Bandeira Portuguesa à dos outros países da CEE e à chamada dos novos comissários da Comissão Económica Europeia, estando aliás ausente o comissário português.\nAinda no mesmo dia 13 a deleação compareceu a um espectáculo musical em que actuava a Orquestra Sinfónica do Pais Basco e a uma recepção oferecida pela Mairie de Estrasburgo e pelo presidente do Conselho Geral do Baixo Reno a todas as delegações.\nNa terça-feira, dia 14, a delegação portuguesa compareceu ao serviço religioso ecuménico que celebrou a abertura dos trabalhos parlamentares e a adesão dos novos Estados membros.\nA delegação esteve ainda na recepção oferecida pelo embaixador de Espanha junto do Conselho da Europa e pelas Cortes Espanholas, em comemoração da entrada dos novos deputados, e que foi antecedida por um concerto de guitarra espanhola.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
+   "text": "Sr. Presidente, Srs. Deputados: A acção da Assembleia da República na definição e acompanhamento da política externa portuguesa é, sem dúvida, extremamente reduzida.\nA intervenção parlamentar na ratificação de tratados tem sido confinada à dimensão de um ritual, com mais ou menos formalidades.\nEm muitas das negociações que antecedem a sua celebração, os deputados são mantidos em completo desconhecimento.\nE isto, mesmo no que se refere aos tratados que lhes compete, constitucionalmente, aprovar, por tratarem da sua competência legislativa reservada ou por tratarem da participação de Portugal em organizações internacionais, ou os tratados de amizade, de paz, de defesa, de rectificação de fronteiras ou os respeitantes a assuntos militares - Constituição, artigo 164.°, alínea i).\nO mesmo halo de mistério envolve, para o Parlamento, a acção da nossa diplomacia.\nE como se tudo isto não bastasse, o Parlamento ignora muitas vezes a própria acção pelos seus deputados exercida, no exterior, em sua representação. É toda esta situação que se pretende modificar no âmbito da presente legislatura.\nEstas considerações não parece pudessem silenciar-se ao apresentar o relatório de uma deslocação da Assembleia da República. Com efeito, a delegação da Assembleia da República que, liderada pelo seu Presidente, se deslocou a Estrasburgo para testemunhar e acompanhar o ingresso de deputados portugueses e espanhóis no Parlamento Europeu, vem, por esta forma trazer ao conhecimento dos restantes deputados e dos Portugueses por eles representados, não só o modo como procurou desempenhar-se da missão de representação nacional que cumpriu, como das observações que lhe merecem a forma como ela se processou.\nSucintamente, poderá dizer-se que a delegação parlamentar cumpriu o programa que lhe foi estabelecido, fundamentalmente de natureza representativa e social. Assim, a delegação que foi recebida na sua escala no aeroporto de Paris pelo embaixador de Portugal cm Franca, embaixador Gaspar da Silva, e pelo conselheiro de Embaixada Dr. Moreira de Andrade. Foi igualmente acolhida no aeroporto de Estrasburgo, à sua chegada, pelo embaixador de Portugal junto do Conselho da Europa, Dr.\nPereira Bastos, pelo cônsul de Portugal em Estrasburgo, Dr. Domingos Serra e pela assessora da Embaixada de Portugal junto do Conselho da Europa, Dr.a Maria Carla Pereira da Silva.\nA delegação era ainda aguardada pelo chefe de protocolo do Parlamento Europeu St. Mestat. Nesse mesmo dia, o embaixador de Portugal junto do Conselho da Europa recebeu a delegação a quem ofereceu um jantar.\nNa segunda-feira, dia 13, a delegação portuguesa deslocou-se ao aeroporto de Estrasburgo para receber os deputados portugueses e espanhóis que, utilizando o voo inaugural da carreira directa Lisboa-Madrid-Estrasburgo, iam iniciar a sua actividade de \nparlamentares europeus. No salão do aeroporto realizaou-se um primeiro encontro entre o presidente do Parlamento Europeu, Pierre Pflimlin e o Presidente da Assembleia da República.\nNo aeroporto compareceram também o embaixador de Portugal junto da CEE, Dr. Silva Marques, e o conselheiro da mesma Embaixada, Dr. Cruz de Almeida.\nA delegação portuguesa deslocou-se de imediato ao Palácio da Europa, assintindo à sessão do Parlamento onde pela primeira vez tomaram assento os deputados portugueses e espanhóis.\nA delegação tomou lugar na tribuna de honra, foi referida expressamente na intervenção do presidente do Parlamento Europeu com relevo especial para o Presidente da Assembleia da República. Por tal motivo aplaudida, pode testemunhar, com natural emoção, a reunião da Bandeira Portuguesa à dos outros países da CEE e à chamada dos novos comissários da Comissão Económica Europeia, estando aliás ausente o comissário português.\nAinda no mesmo dia 13 a deleação compareceu a um espectáculo musical em que actuava a Orquestra Sinfónica do Pais Basco e a uma recepção oferecida pela Mairie de Estrasburgo e pelo presidente do Conselho Geral do Baixo Reno a todas as delegações.\nNa terça-feira, dia 14, a delegação portuguesa compareceu ao serviço religioso ecuménico que celebrou a abertura dos trabalhos parlamentares e a adesão dos novos Estados membros.\nA delegação esteve ainda na recepção oferecida pelo embaixador de Espanha junto do Conselho da Europa e pelas Cortes Espanholas, em comemoração da entrada dos novos deputados, e que foi antecedida por um concerto de guitarra espanhola.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
    "text": "12 DE JANEIRO DE 1986 843", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
    "text": "No dia 15, a delegação esteve numa recepção oferecida pelo embaixador Pereira Bastos, em comemoração da entrada dos novos deputados onde encontrou o comissário português junto da CEE, entretanto chegado a Estrasburgo, e deu uma conferência de imprensa sobre o significado da sua presença no Parlamento Europeu.\nFinalmente, no dia 16, a delegação esteve presente num almoço oferecido pelo presidente do Parlamento Europeu, Pierre Pflimlin, em honra dos presidentes do Senado e das Cortes Espanholas e da Assembleia da República de Portugal.\nNeste almoço, coube ao Presidente da Assembleia da República agradecer, em nome dos deputados portugueses e espanhóis, das Cortes e do Senado de Espanha e da Assembleia da República, a recepção e saudar o Parlamento Europeu na pessoa do seu presidente.\nNo regresso, e em escala por Londres, a delegação foi recebida no aeroporto, pelo embaixador de Portugal em Londres, Dr. Hall Themido que embora convalescente quis ter a gentileza de receber a delegação da Assembleia da República.\nDurante a estada em Estrasburgo, e para além do contacto com os deputados europeus, os deputados Raul Junqueiro e Magalhães Mota estiveram com os portugueses funcionários do Parlamento Europeu.\nFoi o primeiro contacto que os tradutores, dactilógrafos, e outros funcionários portugueses do Parlamento Europeu tiveram com \nrepresentantes portugueses, já que, logo no início dos trabalhos, o comissário espanhol junto da CEE conviveu com todos os seus \ncompatriotas em serviço no Parlamento Europeu.\nAliás, vários dos deputados portugueses puderam contactar com os grupos políticos em que se integram no Parlamento Europeu e participar nas suas actividades.\nDo relatório cronológico da estada e das principais actividades, parece afigurar-se evidente ter a delegação da Assembleia da República cumprido o melhor que pode e soube uma missão de Estado, já que foi a única representação dos órgãos de soberania de Portugal presente em todas as manifestações que assinalaram o ingresso dos deputados portugueses e espanhóis no Parlamento Europeu.\nSe o auto-elogio não é bonito, seria negar a realidade ocultar que a delegação teve sempre presente o sentido de Estado e por ele se norteou, ultrapassando naturais divergências para se colocar no plano consensual de representação institucional. Foi ainda possível um muito bom clima de relações entre todos os membros da delegação que contribuiu para tornar, naturalmente, mais saliente a presença dos deputados da Assembleia da República.\nDe igual modo se terá tornado evidente como a semana de abertura dos trabalhos parlamentares de Estrasburgo foi dominada pela presença espanhola.\nEm termos culturais, pela dimensão e número das recepções oferecidas, pela cobertura televisiva, radiofónica e jornalística assegurada com grande largueza de meios - e que, inclusivamente, proporcionou também a cobertura informativa, em especial na televisão, de parte da actividade desenvolvida pela delegação portuguesa -, a Espanha tornou, \nnaturalmente, mais sublinhada a sua adesão, facto a que Portugal, sem preocupações de um confronto descabido, não pôde deixar de ser sensível e de anotar a diferença, inclusivamente porque ela parece testemunhar uma política externa mais actuante e, por isso, mais presente.\nAliás, os membros da delegação portuguesa puderam ouvir do maire de Estrasburgo que antes das férias de Verão de 1985 comunicou ao representante diplomático português as facilidades de espaço que a municipalidade oferecia para a realização de actividades culturais e a sua insistência, em Novembro, para, ao menos, a realização de um espectáculo com artistas portugueses.\nA Assembleia da República, como órgão de soberania, não pode ser indiferente ao modo como o Estado Português afirma a sua presença.\nA anotação feita, obviamente crítica, tem acima de tudo o sentido profundo de uma chamada de atenção: um país, com cerca de um milénio de história vivida e que pode orgulhar-se da sua cultura, pode \ncomportar--se como pobre, nunca como miserável.\nO sentido de universalidade que liga os principais momentos da nossa história como liga os membros da nossa realidade como povo terá perdido, nesta sessão do Parlamento Europeu em que pela primeira vez tiveram assento deputados portugueses, uma ocasião de se afirmar.\nA delegação da Assembleia da República teve, aliás, ocasião de sugerir, através do deputado Carlos Brito, mas com unânime apoio, uma hipótese que merece estudo: a de ser proposta ao Conselho da Europa a comemoração do 50.º Aniversário da Morte de Pessoa, aproveitada como redescoberta, em modernidade, do sentido dos Descobrimentos.\nA delegação portuguesa acompanhou com natural interesse e empenhamento a possibilidade de eleição de um deputado português para \nvice-presidente do Parlamento Europeu.\nIndependentemente dos méritos pessoais do candidato, a delegação pautou-se, no seu relacionamento com outras delegações e parlamentares, pelo que se afigura ser do interesse nacional: uma presença portuguesa na vice-presidência do Parlamento Europeu.\nA Europa poderá ser o continente da universalidade pela sua ciência, a sua técnica, a sua cultura.\nQue uma presença portuguesa se afirme, e ao mais alto nível, na instância representativa que é o Parlamento Europeu, é, pensamos, importante para todos nós.\nNão caberão no âmbito desta informação mas não deixam de anotar-se algumas observações e esta experiência concreta sugeriu ou ajudou a sedimentar.\nTal é o caso de uma reformulação de Lei Orgânica da Assembleia da República não deixar de contemplar, como serviços indispensáveis a criar, os de um protocolo parlamentar e a existência de assessores diplomáticos que assegurem a articulação entre a Assembleia e o Ministério dos Negócios Estrangeiros.\nFinalmente, seja permitido à delegação exprimir o seu agradecimento pela forma como foi recebida.\nPelo presidente do Parlamento Europeu, Pierre Pflimlin e também pela vice-presidente Nicole Pery e pelo maire de Estrasburgo.\nAgradecimento especial é devido ao embaixador de Portugal junto do Conselho da Europa, Dr. Pereira Bastos, que acompanhou muito de perto a delegação e a quem se deve a iniciativa da recepção oferecida por Portugal.\nDe igual modo, a delegação deve o seu agradecimento ao cônsul de Portugal em Estrasburgo, Dr. Domingos Serra, ao conselheiro da Embaixada, Dr. Ramos Machado, e à assessora da Embaixada de Portugal, Dr.ª Maria Carla Pereira da Silva, que sempre acompanharam a delegação.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
    "text": "844 I SÉRIE - NÚMERO 25", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
    "text": "É quanto se nos oferece, de imediato, trazer ao conhecimento da Assembleia da República.\nA delegação foi constituída pelos deputados Fernando do Amaral, Presidente dá Assembleia da República, Cardoso Ferreira, Raul Junqueiro, Carlos Brito, Gomes de Pinho, Corregedor da Fonseca e Magalhães Mota, a quem coube ser relator da deslocação por incumbência dos restantes, mas sendo o relatório ora apresentado a Plenário previamente aprovado pela delegação parlamentar.\nNa delegação integraram-se igualmente a Secretária-Geral da Assembleia da República, Dr.ª Maria do Carmo Romão, que se deslocou a convite do secretário-geral do Parlamento Europeu, o chefe de Gabinete do Presidente da Assembleia da República e o jornalista parlamentar Oliveira Figueiredo:", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados entrou atempadamente na Mesa um voto de pesar, que mereceu a aquiescência de todos os Srs. Presidentes dos Grupos Parlamentares, para que fosse lido, apreciado e votado.\nTal voto de pesar é do seguinte teor: \nTendo falecido o grande jurista e democrata Prof. Enrique Tierno Galvan, alcaide da cidade de Madrid e vulto eminente do socialismo e da Espanha democrática, a quem o povo espanhol devotava grande estima pelo seu humanismo è espírito de tolerância, a Assembleia da República exprime o seu mais profundo pesar ao povo espanhol e à cidade de Madrid pelo desaparecimento de tão eminente figura de cidadão, intelectual e político.\nEste voto de pesar vem subscrito pelos Srs; Deputados Raúl Rêgo e Carlos Lage. Está em apreciação.\nTem a palavra o Sr. Deputado Raúl Rêgo.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados entrou atempadamente na Mesa um voto de pesar, que mereceu a aquiescência de todos os Srs. Presidentes dos Grupos Parlamentares, para que fosse lido, apreciado e votado.\nTal voto de pesar é do seguinte teor: \nTendo falecido o grande jurista e democrata Prof. Enrique Tierno Galvan, alcaide da cidade de Madrid e vulto eminente do socialismo e da Espanha democrática, a quem o povo espanhol devotava grande estima pelo seu humanismo è espírito de tolerância, a Assembleia da República exprime o seu mais profundo pesar ao povo espanhol e à cidade de Madrid pelo desaparecimento de tão eminente figura de cidadão, intelectual e político.\nEste voto de pesar vem subscrito pelos Srs; Deputados Raúl Rêgo e Carlos Lage. Está em apreciação.\nTem a palavra o Sr. Deputado Raúl Rêgo.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Raúl Rêgo* (PS): Sr. Presidente, Srs. Deputados: Não é sem emoção que apresento à Assembleia da República este voto de pesar pela morte de uma das personalidades mais eminentes que me foram dadas conhecer.\nTierno Galvan não era apenas o catedrático' de Direito Internacional de consideração universal. Não foi apenas o eminente professor de Salamanca que, à semelhança do que aconteceu em Portugal, foi mondado da sua cátedra e atirado para a inactividade. Tierno Galvan era, acima de tudo, um homem superior, intelectualmente sério, concorde consigo mesmo e sentindo profundamente, no que parecia um alheamento, o povo, os seus interesses e as suas necessidades.\nTierno Galvan era também o homem que, forçado pela falta de liberdades, descia à conspiração, à clandestinidade e que não recusava a frontalidade desse clandestino diante do regime que não achava serem todos os cidadãos iguais.\nPorém, o homem superior, o catedrático eminente, recuperada a liberdade em Espanha, transformou-se no alcaide de Madrid, popular como nenhum outro, sentindo e interpretando realmente as tristezas e às alegrias do povo e procurando valer às suas necessidades.\nTierno Galvan, o grande intelectual, o professor de Direito, transformou-se no mais popular alcaide de Madrid desde há muitos anos, pois era profundamente democrata.\nPor isso, nós, que fomos, juntamente com a delegação do Parlamento, por si acolhidos e saudados na Câmara Municipal de Madrid e que recebemos na Câmara Municipal de Lisboa esse homem que interpretava realmente o sentir da fraternidade hispânica, sentimos a sua perda como uma perda também portuguesa, como uma perda peninsular.\nAssim, apresentamos à Assembleia da República este voto de condolências pela morte de Tierno Galvan, pois a sua morte é também uma perda nossa, uma perda da democracia peninsular.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "text": "Aplausos gerais.", 
-   "type": "aplauso"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Manuel Mendes.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Manuel Mendes* (PCP): Sr. Presidente, Srs. Deputados: \nOutros falarão do jurista, do professor universitário de Direito com vasta obra de reflexão e criatividade. Outros recordarão o intelectual de fina estirpe, a personalidade fraterna e humanizadora. Nós lembraremos preferencialmente, nesta Câmara e no parco tempo de que dispomos, a figura do político, do antifascista, do honrado cidadão do futuro, que sempre foi.\nBateu-se contra o regime de Franco, não se emparedando numa visão estreita e hipernacionalista da pugna pela democracia. Assumiu, consequentemente, as responsabilidades da solidariedade para com os povos do mundo sujeitos à opressão, ao racismo, ao colonialismo e à exploração.\nRememoramos o homem de esquerda, um daqueles cujo percurso existencial merece ser evocado, porque nunca o traiu, porque confirmou, até ao final dos seus dias, uma mesma posição militante, anticonservadora e socialista interferente, pelo lado dos desfavorecidos, no contexto das lutas do seu tempo.\nAlcaide de Madrid, pautou a sua conduta pelo diálogo, sem abdicar dos princípios progressistas que lhe modelaram o pensamento. Não temeu ser controverso, sobretudo quando toda a cedência constituísse um intolerável favor aos poderosos. Deu à cidade um novo rosto, relevando necessidades elementares das populações, mesmo que, no saldo da sua acção, se possam contabilizar pesos negativos. Marcou, com os traços de uma permanente preocupação cultural, a actividade da gestão local a que presidiu.\nFigura moral respeitada, aberta à renovação das ideias, Galvan afirmou-se como um inconformado perante as claudicações com os arautos do regressivismo.\n' Ao associarmo-nos à sua memória, acentuamos as linhas determinantes de um perfil que à sua medida honra a esperança, a dignidade e a grandeza da luta do povo espanhol por um devir desconstrangido, justo e próspero. Fazemo-lo com respeito e seguros de que a obra de Tierno Galvan não deixará de se repercutir positivamente, como urge, na sociedade a que pertenceu. Tal será, ademais, a melhor homenagem que os democratas lhe deverão prestar.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Aplausos do PCP, do PS, do PRD, do MDP/CDE e da deputada independente Maria Santos.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Vasco da Gama Fernandes.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "22 DE JANEIRO DE 1986 845", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Vasco da Gama Fernandes* (PS): Sr. Presidente, Srs. Deputados: \nSuponho ser, desta Câmara, a pessoa que com mais intimidade conviveu com Tierno Galvan nos anos das ditaduras peninsulares.\nAs minhas idas constantes a Madrid, os nossos encontros em \nsemiclandestinidade, os nossos reencontros em Lisboa e mais tarde em Paris obrigam-me a dizer palavras muito simples e muito comovidas: não encontrei, até hoje, ninguém em Espanha que conhecesse melhor Portugal, que vivesse com mais intensidade as dores e as amarguras do nosso povo e que estivesse sempre disposto a prestar todo o auxílio e toda a solidariedade.\nQuando ainda há poucas horas a rádio me ouviu sobre aquilo que pensava deste homem, eu disse que, efectivamente, pensava que Tierno Galvan foi um grande homem e nada mais.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Raúl Rêgo", 
+   "text": "Sr. Presidente, Srs. Deputados: Não é sem emoção que apresento à Assembleia da República este voto de pesar pela morte de uma das personalidades mais eminentes que me foram dadas conhecer.\nTierno Galvan não era apenas o catedrático' de Direito Internacional de consideração universal. Não foi apenas o eminente professor de Salamanca que, à semelhança do que aconteceu em Portugal, foi mondado da sua cátedra e atirado para a inactividade. Tierno Galvan era, acima de tudo, um homem superior, intelectualmente sério, concorde consigo mesmo e sentindo profundamente, no que parecia um alheamento, o povo, os seus interesses e as suas necessidades.\nTierno Galvan era também o homem que, forçado pela falta de liberdades, descia à conspiração, à clandestinidade e que não recusava a frontalidade desse clandestino diante do regime que não achava serem todos os cidadãos iguais.\nPorém, o homem superior, o catedrático eminente, recuperada a liberdade em Espanha, transformou-se no alcaide de Madrid, popular como nenhum outro, sentindo e interpretando realmente as tristezas e às alegrias do povo e procurando valer às suas necessidades.\nTierno Galvan, o grande intelectual, o professor de Direito, transformou-se no mais popular alcaide de Madrid desde há muitos anos, pois era profundamente democrata.\nPor isso, nós, que fomos, juntamente com a delegação do Parlamento, por si acolhidos e saudados na Câmara Municipal de Madrid e que recebemos na Câmara Municipal de Lisboa esse homem que interpretava realmente o sentir da fraternidade hispânica, sentimos a sua perda como uma perda também portuguesa, como uma perda peninsular.\nAssim, apresentamos à Assembleia da República este voto de condolências pela morte de Tierno Galvan, pois a sua morte é também uma perda nossa, uma perda da democracia peninsular.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Mendes Bota.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Manuel Mendes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Mendes Bota* (PSD): Sr. Presidente, Srs. Deputados: Não conheci pessoalmente nem me relacionei com Tierno Galvan, mas, nesta hora, em representação do PSD, da força política que detém a maioria de posições dentro das autarquias de Portugal, não poderia deixar de reverenciar e curvar-me respeitosamente perante a memória daquele que foi o alcaide de Madrid. Efectivamente, o homem, o político, o autarca, merecem o nosso respeito.\nO autarca é um político especial, é um político que ultrapassa muitas vezes o mero horizonte das «clubites partidárias», das cores das bandeiras e que traduz um relacionamento directo com a população, na procura da resolução para os seus problemas mais instantes. Diria mesmo que ser autarca é uma opção de vida; é uma opção que se faz com amor. E aqueles que com amor se dedicaram às suas populações, também com amor serão por elas recordados para sempre.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "Sr. Presidente, Srs. Deputados: \nOutros falarão do jurista, do professor universitário de Direito com vasta obra de reflexão e criatividade. Outros recordarão o intelectual de fina estirpe, a personalidade fraterna e humanizadora. Nós lembraremos preferencialmente, nesta Câmara e no parco tempo de que dispomos, a figura do político, do antifascista, do honrado cidadão do futuro, que sempre foi.\nBateu-se contra o regime de Franco, não se emparedando numa visão estreita e hipernacionalista da pugna pela democracia. Assumiu, consequentemente, as responsabilidades da solidariedade para com os povos do mundo sujeitos à opressão, ao racismo, ao colonialismo e à exploração.\nRememoramos o homem de esquerda, um daqueles cujo percurso existencial merece ser evocado, porque nunca o traiu, porque confirmou, até ao final dos seus dias, uma mesma posição militante, anticonservadora e socialista interferente, pelo lado dos desfavorecidos, no contexto das lutas do seu tempo.\nAlcaide de Madrid, pautou a sua conduta pelo diálogo, sem abdicar dos princípios progressistas que lhe modelaram o pensamento. Não temeu ser controverso, sobretudo quando toda a cedência constituísse um intolerável favor aos poderosos. Deu à cidade um novo rosto, relevando necessidades elementares das populações, mesmo que, no saldo da sua acção, se possam contabilizar pesos negativos. Marcou, com os traços de uma permanente preocupação cultural, a actividade da gestão local a que presidiu.\nFigura moral respeitada, aberta à renovação das ideias, Galvan afirmou-se como um inconformado perante as claudicações com os arautos do regressivismo.\n' Ao associarmo-nos à sua memória, acentuamos as linhas determinantes de um perfil que à sua medida honra a esperança, a dignidade e a grandeza da luta do povo espanhol por um devir desconstrangido, justo e próspero. Fazemo-lo com respeito e seguros de que a obra de Tierno Galvan não deixará de se repercutir positivamente, como urge, na sociedade a que pertenceu. Tal será, ademais, a melhor homenagem que os democratas lhe deverão prestar.\nAplausos do PCP, do PS, do PRD, do MDP/CDE e da deputada independente Maria Santos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vasco da Gama Fernandes.\n22 DE JANEIRO DE 1986 845", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Vasco da Gama Fernandes", 
+   "text": "Sr. Presidente, Srs. Deputados: \nSuponho ser, desta Câmara, a pessoa que com mais intimidade conviveu com Tierno Galvan nos anos das ditaduras peninsulares.\nAs minhas idas constantes a Madrid, os nossos encontros em \nsemiclandestinidade, os nossos reencontros em Lisboa e mais tarde em Paris obrigam-me a dizer palavras muito simples e muito comovidas: não encontrei, até hoje, ninguém em Espanha que conhecesse melhor Portugal, que vivesse com mais intensidade as dores e as amarguras do nosso povo e que estivesse sempre disposto a prestar todo o auxílio e toda a solidariedade.\nQuando ainda há poucas horas a rádio me ouviu sobre aquilo que pensava deste homem, eu disse que, efectivamente, pensava que Tierno Galvan foi um grande homem e nada mais.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Aplausos gerais.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Mendes Bota.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Mendes Bota", 
+   "text": "Sr. Presidente, Srs. Deputados: Não conheci pessoalmente nem me relacionei com Tierno Galvan, mas, nesta hora, em representação do PSD, da força política que detém a maioria de posições dentro das autarquias de Portugal, não poderia deixar de reverenciar e curvar-me respeitosamente perante a memória daquele que foi o alcaide de Madrid. Efectivamente, o homem, o político, o autarca, merecem o nosso respeito.\nO autarca é um político especial, é um político que ultrapassa muitas vezes o mero horizonte das «clubites partidárias», das cores das bandeiras e que traduz um relacionamento directo com a população, na procura da resolução para os seus problemas mais instantes. Diria mesmo que ser autarca é uma opção de vida; é uma opção que se faz com amor. E aqueles que com amor se dedicaram às suas populações, também com amor serão por elas recordados para sempre.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PSD, do PS, do PRD e do CDS.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Gomes de Almeida.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Gomes de Almeida.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Almeida* (CDS): Sr. Presidente, Srs. Deputados: O meu partido associa-se a este voto de pesar, prestando assim homenagem ao vulto universitário que foi o Prof. Enrique Tierno Galvan, ao combatente sempre fiel aos ideais do socialismo democrático, que, não sendo os nossos, nos merecem todo o respeito.\nFoi alcaide de Madrid, soube promover a aproximação entre Lisboa e aquela cidade, ultrapassando, porventura, eventuais distâncias ideológicas que pudessem existir entre os dois municípios.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Almeida", 
+   "text": "Sr. Presidente, Srs. Deputados: O meu partido associa-se a este voto de pesar, prestando assim homenagem ao vulto universitário que foi o Prof. Enrique Tierno Galvan, ao combatente sempre fiel aos ideais do socialismo democrático, que, não sendo os nossos, nos merecem todo o respeito.\nFoi alcaide de Madrid, soube promover a aproximação entre Lisboa e aquela cidade, ultrapassando, porventura, eventuais distâncias ideológicas que pudessem existir entre os dois municípios.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS, do PSD, do PS e do PRD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos proceder então à votação deste voto de pesar.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos proceder então à votação deste voto de pesar.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "ORDEM DO DIA", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, entramos agora no período da ordem do dia. Porém, antes de iniciarmos as votações que fazem parte da nossa agenda de hoje vai ser lido um parecer e um relatório e parecer da Comissão de Regimento e Mandatos a fim de serem apreciados e votados.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, entramos agora no período da ordem do dia. Porém, antes de iniciarmos as votações que fazem parte da nossa agenda de hoje vai ser lido um parecer e um relatório e parecer da Comissão de Regimento e Mandatos a fim de serem apreciados e votados.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Maia Nunes de Almeida", 
    "speaker": "O Sr. Secretário", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Maia Nunes de Almeida", 
    "speaker": "O Sr. Secretário", 
    "text": "Parecer da Comissão de Regimento e Mandatos", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Maia Nunes de Almeida", 
    "speaker": "O Sr. Secretário", 
    "text": "O Sr. Deputado António Manuel de Carvalho Ferreira Vitorino, do Grupo Parlamentar do Partido Socialista, vem requerer autorização da Assembleia, ao abrigo do disposto no n.º 2 do artigo 19.º da Lei n.º 3/85, de 13 de Março, para exercer, a título gratuito, funções docentes na Faculdade de Direito de Lisboa.\nComo resulta da disposição legal invocada, o exercício gratuito das funções docentes no ensino superior - de que a Faculdade de Direito de Lisboa faz parte - não é considerado exercício de função pública, para efeito do disposto no n.º l do citado artigo 19.º, no qual se fixa o regime das incompatibilidades dos deputados que sejam funcionários do Estado.\nAssim, a Comissão de Regimento e Mandatos entende que deve ser dada autorização para que o Sr. Deputado António Manuel de Carvalho Ferreira Vitorino exerça, em regime de gratuidade, as funções docentes na Faculdade de Direito de Lisboa.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "Maia Nunes de Almeida", 
-   "speaker": "O Sr. Secretário", 
-   "text": "O Sr. *Presidente*: Está em discussão, Srs. Deputados.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Está em discussão, Srs. Deputados.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "party": "Maia Nunes de Almeida", 
-   "speaker": "O Sr. Secretário", 
+   "speaker": "Presidente", 
    "text": "Em virtude de não haver inscrições, vamos votar este parecer.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "party": "Maia Nunes de Almeida", 
-   "speaker": "O Sr. Secretário", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, o Sr. Secretário vai ler o relatório e parecer da Comissão de Regimento e Mandatos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai ler o relatório e parecer da Comissão de Regimento e Mandatos.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Maia Nunes de Almeida) - O relatório e parecer da Comissão de Regimento e Mandatos é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Maia Nunes de Almeida) - O relatório e parecer da Comissão de Regimento e Mandatos é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "Relatório e parecer da Comissão de Regimento e Mandatos", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Em reunião realizada no dia 21 de Janeiro de 1986, pelas 15 horas, foram observadas as seguintes substituições de deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Solicitadas pelo Partido Social-Democrata", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Solicitadas pelo Partido Social-Democrata", 
    "text": "Fernando Manuel Torres Matos de Vasconcelos (círculo eleitoral do Porto) por José Júlio Vieira Mesquita. Esta substituição é determinada nos termos da alínea e) do n.º l do artigo 4.º da Lei n.º 3/85, a partir do dia 21 de Janeiro corrente, inclusive.\nO Sr. Deputado Fernando de Vasconcelos solicitou, em devido tempo, o levantamento", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Solicitadas pelo Partido Social-Democrata", 
    "text": "846 I SÉRIE - NÚMERO 25 \n847 \nda suspensão do seu mandato, ao abrigo do n.º 2 do artigo 4.º da Lei n.º 3/85, de 6 a 20 de Janeiro corrente, inclusive.\nJaime Carlos Marta Soares (círculo eleitoral de Coimbra) por Henrique Luís Esteves Bairrão. Esta substituição é determinada nos termos da alínea e) do n.º l do artigo 4.º da Lei n.º 3/85, a partir do dia 21 de Janeiro corrente, inclusive.\nO Sr. Deputado Jaime Carlos Soares solicitou, em devido tempo, o levantamento da suspensão do seu mandato, ao abrigo do n.º 2 do artigo 4.º da Lei n.º 3/85, de 6 a 20 de Janeiro corrente, inclusive.\nAmândio dos Anjos Gomes (círculo eleitoral de Bragança) por José Maria Peixoto. Esta substituição é determinada nos termos da alínea e) do n.º l do artigo 4.º da Lei n.º 3/85, a partir do dia 18 de Janeiro corrente, inclusive.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Solicitadas pelo Partido Social-Democrata", 
    "text": "Analisados os documentos pertinentes de que a Comissão dispunha, verificou-se que os substitutos indicados são realmente os candidatos não eleitos que devem ser chamados ao exercício de funções, \nconsiderando a ordem de precedência das respectivas listas eleitorais apresentadas a sufrágio pelos aludidos partidos nos concernentes círculos eleitorais.\nForam observados os preceitos regimentais e legias aplicáveis.\nFinalmente a Comissão entende proferir o seguinte parecer:", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Solicitadas pelo Partido Social-Democrata", 
    "text": "As substituições em causa são de admitir, uma vez que se encontram verificados os requisitos legais.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, o relatório e parecer da Comissão de Regimento e Mandatos está em discussão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o relatório e parecer da Comissão de Regimento e Mandatos está em discussão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, não havendo inscrições, vamos proceder à votação.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, de seguida, vamos proceder à eleição do Conselho Nacional de Alfabetização e Educação de Base de Adultos, do Conselho Nacional do Plano, do Centro de Estudos Judiciários, do Conselho de Fiscalização dos Serviços de Informação, do Conselho para a Liberdade de Ensino, do Instituto Nacional de Defesa do Consumidor, do Conselho Superior de Defesa Nacional, do Conselho de Imprensa e ainda da União Interparlamentar (UIP). Esta última eleição terá lugar na Sala do Senado.\nOs serviços promoverão, desde já, a distribuição pelas bancadas dos referidos boletins de voto.\nSrs. Deputados, chamo a vossa atenção para o facto de as eleições do Conselho Nacional do Plano, do Conselho de Fiscalização dos Serviços de Informação e do Conselho Superior de Defesa Nacional estarem dependentes de uma maioria de dois terços. Esta maioria de dois terços é exigida no primeiro caso pela Constituição e nos dois últimos casos pela lei.\nSrs. Deputados, convido os Srs. Vice-Secretários Daniel Bastos, Sousa Pereira e Carlos Manafaia para servirem de escrutinadores, a quem peço que se dirijam para a respectiva bancada.\nConvido ainda o Sr. Deputado Costa Andrade para presidir à eleição dos representantes na União Interparlamentar, que terá lugar na Sala do Senado. O Sr. Deputado Costa Andrade será assessorado pelos Srs.Deputados Custódio Gingão, José Torcato e José Apolinário. Agradeço que estes Srs. Deputados, que servirão de escrutinadores, acompanhem o Sr.Deputado Costa Andrade, logo que terminem as votações a que aqui se vai proceder.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, de seguida, vamos proceder à eleição do Conselho Nacional de Alfabetização e Educação de Base de Adultos, do Conselho Nacional do Plano, do Centro de Estudos Judiciários, do Conselho de Fiscalização dos Serviços de Informação, do Conselho para a Liberdade de Ensino, do Instituto Nacional de Defesa do Consumidor, do Conselho Superior de Defesa Nacional, do Conselho de Imprensa e ainda da União Interparlamentar (UIP). Esta última eleição terá lugar na Sala do Senado.\nOs serviços promoverão, desde já, a distribuição pelas bancadas dos referidos boletins de voto.\nSrs. Deputados, chamo a vossa atenção para o facto de as eleições do Conselho Nacional do Plano, do Conselho de Fiscalização dos Serviços de Informação e do Conselho Superior de Defesa Nacional estarem dependentes de uma maioria de dois terços. Esta maioria de dois terços é exigida no primeiro caso pela Constituição e nos dois últimos casos pela lei.\nSrs. Deputados, convido os Srs. Vice-Secretários Daniel Bastos, Sousa Pereira e Carlos Manafaia para servirem de escrutinadores, a quem peço que se dirijam para a respectiva bancada.\nConvido ainda o Sr. Deputado Costa Andrade para presidir à eleição dos representantes na União Interparlamentar, que terá lugar na Sala do Senado. O Sr. Deputado Costa Andrade será assessorado pelos Srs.Deputados Custódio Gingão, José Torcato e José Apolinário. Agradeço que estes Srs. Deputados, que servirão de escrutinadores, acompanhem o Sr.Deputado Costa Andrade, logo que terminem as votações a que aqui se vai proceder.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Tem V. Ex.ª a palavra.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem V. Ex.ª a palavra.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Penso que não estamos em condições de iniciar já a eleição, uma vez que o boletim que foi distribuído para a eleição do Conselho Nacional de Alfabetização de Base de Adultos não contém o nome do candidato apresentado pelo PCP. Contém os nomes dos candidatos do PSD, do PS, do PRD, do CDS e do MDP/CDE, mas não contém o nome do candidato do PCP.\nPortanto, penso que se terá de mandar anular este boletim e deixar esta eleição para mais tarde.\n_Pausa_.\nEntretanto, fui informado por um colega de bancada que há dois tipos de boletins e um deles contém o nome do candidato do PCP. No entanto, o boletim que me foi distribuído não o contém.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Penso que não estamos em condições de iniciar já a eleição, uma vez que o boletim que foi distribuído para a eleição do Conselho Nacional de Alfabetização de Base de Adultos não contém o nome do candidato apresentado pelo PCP. Contém os nomes dos candidatos do PSD, do PS, do PRD, do CDS e do MDP/CDE, mas não contém o nome do candidato do PCP.\nPortanto, penso que se terá de mandar anular este boletim e deixar esta eleição para mais tarde.\n_Pausa_.\nEntretanto, fui informado por um colega de bancada que há dois tipos de boletins e um deles contém o nome do candidato do PCP. No entanto, o boletim que me foi distribuído não o contém.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, peço a vossa atenção para o boletim de voto relativo à eleição do Conselho Nacional de Alfabetização e Educação de Base de Adultos e agradeço aos serviços que promovam, de imediato, a rectificação do boletim de voto respeitante a essa eleição.\nSrs. Deputados, chamo a vossa atenção para o facto de no boletim ter de constar necessariamente o nome do Sr. Deputado do PCP Rogério António Fernandes.\nO boletim que não contiver este nome não está completo. Portanto, queiram ter a bondade de o substituir.\nPara interpelar a Mesa, tem a palavra o Sr. Deputado João Corregedor da Fonseca.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, peço a vossa atenção para o boletim de voto relativo à eleição do Conselho Nacional de Alfabetização e Educação de Base de Adultos e agradeço aos serviços que promovam, de imediato, a rectificação do boletim de voto respeitante a essa eleição.\nSrs. Deputados, chamo a vossa atenção para o facto de no boletim ter de constar necessariamente o nome do Sr. Deputado do PCP Rogério António Fernandes.\nO boletim que não contiver este nome não está completo. Portanto, queiram ter a bondade de o substituir.\nPara interpelar a Mesa, tem a palavra o Sr. Deputado João Corregedor da Fonseca.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. João Corregedor da Fonseca (MDP/CDE): Sr. Presidente, solicito que a eleição do Conselho para a Liberdade de Ensino não seja feita imediatamente, pois no respectivo boletim de voto também não consta o nome do candidato do MDP/CDE, Salvado Sampaio.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, solicito que a eleição do Conselho para a Liberdade de Ensino não seja feita imediatamente, pois no respectivo boletim de voto também não consta o nome do candidato do MDP/CDE, Salvado Sampaio.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Sr. Deputado, será feita a correcção.\nSrs. Deputados, penso que estas anomalias que estamos a detectar resultam essencialmente do facto de alguns grupos parlamentares não terem apresentado os nomes dos candidatos a tempo e horas, com a antecedência que foi pedida. Os boletins foram feitos à última hora porque alguns grupos parlamentares só hoje apresentaram os nomes dos seus candidatos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, será feita a correcção.\nSrs. Deputados, penso que estas anomalias que estamos a detectar resultam essencialmente do facto de alguns grupos parlamentares não terem apresentado os nomes dos candidatos a tempo e horas, com a antecedência que foi pedida. Os boletins foram feitos à última hora porque alguns grupos parlamentares só hoje apresentaram os nomes dos seus candidatos.\n22 DE JANEIRO DE 1986 847", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "22 DE JANEIRO DE 1986 847", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Carlos Brito* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Carlos Brito.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Carlos Brito.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, como uma das omissões é precisamente relativa a um candidato apresentado pelo nosso grupo parlamentar, cumpre dizer que os nomes dos candidatos propostos pelo nosso grupo parlamentar foram entregues dentro dos prazos fixados pelo Presidente da Assembleia da República.\nPortanto, apesar de sermos as vítimas da omissão, não foi pelo nosso atraso que isto aconteceu.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, como uma das omissões é precisamente relativa a um candidato apresentado pelo nosso grupo parlamentar, cumpre dizer que os nomes dos candidatos propostos pelo nosso grupo parlamentar foram entregues dentro dos prazos fixados pelo Presidente da Assembleia da República.\nPortanto, apesar de sermos as vítimas da omissão, não foi pelo nosso atraso que isto aconteceu.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Sr. Deputado, agradeço o esclarecimento.\nSrs. Deputados, para que os serviços tenham a possibilidade de corrigir as anomalias que foram verificadas, vou suspender os trabalhos por 30 minutos e peço desde já aos representantes dos grupos parlamentares que se dirijam ao meu gabinete, onde será realizada a conferência de líderes parlamentares que estava marcada.\nEntretanto, os Srs. Deputados poderão exercer, na Sala do Senado, o seu direito de voto para a eleição dos representantes na União \nInterparlamentar.\nSrs. Deputados, está suspensa a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, agradeço o esclarecimento.\nSrs. Deputados, para que os serviços tenham a possibilidade de corrigir as anomalias que foram verificadas, vou suspender os trabalhos por 30 minutos e peço desde já aos representantes dos grupos parlamentares que se dirijam ao meu gabinete, onde será realizada a conferência de líderes parlamentares que estava marcada.\nEntretanto, os Srs. Deputados poderão exercer, na Sala do Senado, o seu direito de voto para a eleição dos representantes na União \nInterparlamentar.\nSrs. Deputados, está suspensa a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 17 horas e 15 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, está reaberta a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 18 horas e 10 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
+   "speaker": "Presidente", 
    "text": "Entretanto, assumiu a presidência o Sr. Vice-Presidente Marques Mendes.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, uma vez que os boletins já estão em ordem, vamos iniciar os nossos trabalhos e peço ao Sr. Escrutinador e aos Srs. Vice-Secretários, Srs. Deputados Daniel Bastos, José Apolinário, Sousa Pereira e Carlos Malafaia, que procedam ao escrutínio.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, uma vez que os boletins já estão em ordem, vamos iniciar os nossos trabalhos e peço ao Sr. Escrutinador e aos Srs. Vice-Secretários, Srs. Deputados Daniel Bastos, José Apolinário, Sousa Pereira e Carlos Malafaia, que procedam ao escrutínio.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Solicitadas pelo Partido Social-Democrata", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos então proceder às eleições já anunciadas.\nNo entanto, antes de proceder à chamada, vai ser lido um relatório e parecer da Comissão de Regimento e Mandatos relativo à substituição de alguns Srs. Deputados.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -1051,72 +1066,78 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em discussão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em discussão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como não há inscrições, vamos votar.\n_Submetido à votação, foi aprovado por unanimidade_.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos agora proceder às eleições e, tal como prevê o Regimento, votará a Mesa em primeiro lugar.\nSrs. Deputados, vai proceder-se à chamada.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos agora proceder às eleições e, tal como prevê o Regimento, votará a Mesa em primeiro lugar.\nSrs. Deputados, vai proceder-se à chamada.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Procedeu-se à votação.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, como parece haver comissões que estão a funcionar, solicitava aos serviços que fossem avisar os Srs.Deputados que ainda não votaram para que o viessem fazer.\nDesse modo, as umas ficarão abertas até às 19 horas.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, como parece haver comissões que estão a funcionar, solicitava aos serviços que fossem avisar os Srs.Deputados que ainda não votaram para que o viessem fazer.\nDesse modo, as umas ficarão abertas até às 19 horas.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Entretanto, reassumiu a Presidência o Sr. Presidente Fernando do Amaral.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos, pois, encerrar as umas.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos, pois, encerrar as umas.\n848 I SÉRIE - NÚMERO 25", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "848 I SÉRIE - NÚMERO 25", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Se houver ainda algum Sr. Deputado que não tenha votado, agradeço o favor de se levantar.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como ninguém se manifesta, penso que todos os Srs. Deputados já procederam à votação, pelo que agradecia o favor de se proceder à contagem dos votos.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, a Mesa está na disposição de acompanhar os Srs.Escrutinadores no seu trabalho de apuramento dos votos. No entanto, pensa que não será necessária a presença dos Srs. Deputados, pelo que amanhã faremos a proclamação dos resultados.\nSe não houver objecções por parte dos representantes dos grupos parlamentares a tal proposta, daria por terminados os trabalhos de hoje, ficando apenas presentes a Mesa e os Srs. Escrutinadores.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Visto não haver oposição, comunico aos Srs. Deputados que os trabalhos de amanhã começarão às 10 horas, com a ordem do dia que já é conhecida.\nSendo assim, declaro encerrada a sessão.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 19 horas e 10 minutos.", 
@@ -1125,42 +1146,48 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Joaquim Eduardo Gomes.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "CDS", 
    "speaker": "Centro Democrático Social", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Centro Democrático Social", 
    "text": "José Augusto Gama.\nManuel Tomás Rodrigues Queiró.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Faltaram à sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Arménio dos Santos.\nJosé Luís Bonifácio Ramos.\nLuís Jorge Cabral Tavares de Lima.\nMário Júlio Montalvão Machado.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

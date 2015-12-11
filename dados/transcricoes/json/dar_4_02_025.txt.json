@@ -25,8 +25,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 30 minutos.", 
@@ -35,29 +36,37 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Adérito Manuel Soares Campos.\nAlberto Monteiro Araújo.\nAmândio Anes de Azevedo.\nAmândio Santa Cruz Basto Oliveira.\nAntónio d'Orey Capucho.\nAntónio Jorge de Figueiredo Lopes.\nAntónio Manuel Lopes Tavares.\nAntónio Roleira Marinho.\nAntónio Sérgio Barbosa de Azevedo.\nArlindo da Silva André Moreira.\nBelarmino Henriques Correia.\nCândido Alberto Alencastre Pereira.\nCarlos Miguel Maximiano Almeida Coelho.\nDaniel Abílio Ferreira Bastos.\nDomingos Duarte Lima.\nDomingos Silva e Sousa.\nFernando Dias de Carvalho Conceição.\nFernando José Próspero Luís.\nFernando Manuel Cardoso Ferreira.\nFernando Monteiro do Amaral.\nFrancisco Antunes da Silva.\nFrancisco Jardim Ramos.\nFrancisco Rodrigues Porto.\nGuido Orlando de Freitas Rodrigues.\nHenrique Luís Esteves Bairrão.\nJoão Domingos Abreu Salgado.\nJoão José Pedreira de Matos.\nJoão Maria Ferreira Teixeira.\nJoaquim Carneiro de Barros Domingues.\nJoaquim da Silva Martins.\nJosé de Almeida Cesário.\nJosé Assunção Marques.\nJosé Filipe Athayde de Carvalhosa.\nJosé Francisco Amaral.\nJosé Guilherme Coelho dos Reis.\nJosé Maria Peixoto Coutinho.\nJosé Mendes Melo Alves.\nJosé Olavo Rodrigues da Silva.\nJosé Pereira Lopes.\nJosé de Vargas Bulcão.\nLicinio Moreira da Silva.\nLuís António Damásio Capoulas.\nLuís António Martins.\nLuís Jorge Cabral Tavares de Lima.\nLuís Manuel Neves Rodrigues.\nManuel Ferreira Martins.\nManuel Joaquim Dias Loureiro.\nManuel Maria Moreira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "aria Antonieta Cardoso Moniz.\nNão houve \nMário de Oliveira Mendes dos Santos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "1062 I SÉRIE - NÚMERO 25", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Miguel Fernando Miranda Relvas.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Limpo Salvada.\nRui Manuel Parente Chancerelle Machete.\nValdemar Cardoso Alves.\nVirgílio de Oliveira Carneiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -124,245 +133,244 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas entrados na Mesa.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas entrados na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* (Reinaldo Gomes): Deram entrada na Mesa os seguintes diplomas: projecto de lei n.º 323/IV, da iniciativa do Sr. Deputado Miranda Calha e outros, do PS, sobre a atribuição do subsídio social de desemprego a jovens à procura do primeiro emprego, que foi admitido e baixou à 13.ª Comissão; projecto de lei n.º 324/IV, da iniciativa do Sr. Deputado Fernando Dias de Carvalho e outros, do PRD, sobre as bases de gestão das administrações regionais de saúde (ARS), que foi admitido e baixou à 2.ª Comissão; projecto de lei n.º 325/IV, da iniciativa do Sr. Deputado Hermínio Martinho e outros, do PRD, sobre requisitos da demarcação e atribuição de reservas na Zona da Reforma Agrária, e projecto de lei n.º 326/IV, da iniciativa do Sr. Deputado Carlos Brito e outros, do PCP, relativo a medidas de emergência sobre o ensino e aprendizagem de português, que foi admitido e baixou à 4.ª Comissão.", 
-   "type": "deputado_continuacao"
+   "party": "Reinaldo Gomes", 
+   "speaker": "Secretário", 
+   "text": "Deram entrada na Mesa os seguintes diplomas: projecto de lei n.º 323/IV, da iniciativa do Sr. Deputado Miranda Calha e outros, do PS, sobre a atribuição do subsídio social de desemprego a jovens à procura do primeiro emprego, que foi admitido e baixou à 13.ª Comissão; projecto de lei n.º 324/IV, da iniciativa do Sr. Deputado Fernando Dias de Carvalho e outros, do PRD, sobre as bases de gestão das administrações regionais de saúde (ARS), que foi admitido e baixou à 2.ª Comissão; projecto de lei n.º 325/IV, da iniciativa do Sr. Deputado Hermínio Martinho e outros, do PRD, sobre requisitos da demarcação e atribuição de reservas na Zona da Reforma Agrária, e projecto de lei n.º 326/IV, da iniciativa do Sr. Deputado Carlos Brito e outros, do PCP, relativo a medidas de emergência sobre o ensino e aprendizagem de português, que foi admitido e baixou à 4.ª Comissão.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, também entrou ontem na Mesa um requerimento, apresentado pelo PRD, para uma interpelação centrada sobre matéria de defesa, que foi distribuído ainda ontem.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Srs. Deputados, vamos iniciar os nossos trabalhos com a discussão da proposta de lei n.º 47/IV, que autoriza o Governo, através do Ministro das Finanças, a celebrar um acordo com a República Popular de Moçambique destinado a estabelecer os termos em que se procederá a consolidação da dívida daquele país a Portugal.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, também entrou ontem na Mesa um requerimento, apresentado pelo PRD, para uma interpelação centrada sobre matéria de defesa, que foi distribuído ainda ontem.\nSrs. Deputados, vamos iniciar os nossos trabalhos com a discussão da proposta de lei n.º 47/IV, que autoriza o Governo, através do Ministro das Finanças, a celebrar um acordo com a República Popular de Moçambique destinado a estabelecer os termos em que se procederá a consolidação da dívida daquele país a Portugal.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Sr. Secretário de Estado do Tesouro, V. Ex.ª deseja usar da palavra para apresentar a proposta?", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* de Estado do Tesouro (Carvalho Fernandes): Com certeza, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "Carvalho Fernandes", 
+   "speaker": "Secretário", 
+   "text": "Com certeza, Sr. Presidente.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Nesse caso, tem V. Ex.ª a palavra para esse efeito.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Nesse caso, tem V. Ex.ª a palavra para esse efeito.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* de Estado do Tesouro: Sr. Presidente, Srs.Deputados: A proposta de lei, agora posta em discussão, não diz respeito à consolidação da dívida comercial de Moçambique: é uma condição necessária - como foi referido - para o desbloqueamento de todo o contencioso financeiro com aquele país.\nO facto é que Moçambique entrou em dificuldade de pagamento e, portanto, houve necessidade de reestruturar a dívida em atraso. Estão envolvidos nesta operação cerca de 170 a 180 milhões de dólares, uma vez que, na altura, havia algum diferendo quanto ao apuramento dos chamados juros de mora. O problema está \nultrapassado e neste momento os respectivos contratos de empréstimo com o sistema bancário português estão em condições de ser celebrados. É tudo por agora, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente, Srs.Deputados: A proposta de lei, agora posta em discussão, não diz respeito à consolidação da dívida comercial de Moçambique: é uma condição necessária - como foi referido - para o desbloqueamento de todo o contencioso financeiro com aquele país.\nO facto é que Moçambique entrou em dificuldade de pagamento e, portanto, houve necessidade de reestruturar a dívida em atraso. Estão envolvidos nesta operação cerca de 170 a 180 milhões de dólares, uma vez que, na altura, havia algum diferendo quanto ao apuramento dos chamados juros de mora. O problema está \nultrapassado e neste momento os respectivos contratos de empréstimo com o sistema bancário português estão em condições de ser celebrados. É tudo por agora, Sr. Presidente.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Inscreveram-se, para pedir esclarecimentos ao Sr.Secretário de Estado do Tesouro, os Srs. Deputados Gomes de Pinho, Jaime Gama, Jorge Lemos e Anacoreta Correia.\nTem, pois, a palavra o Sr. Deputado Gomes de Pinho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Inscreveram-se, para pedir esclarecimentos ao Sr.Secretário de Estado do Tesouro, os Srs. Deputados Gomes de Pinho, Jaime Gama, Jorge Lemos e Anacoreta Correia.\nTem, pois, a palavra o Sr. Deputado Gomes de Pinho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Secretário de Estado, em primeiro lugar desejo manifestar a minha estranheza pela ausência do Sr.Secretário de Estado da cooperação neste Plenário, porque, embora aparentemente não haja uma conexão directa entre a matéria que estamos a abordar e o pelouro desse membro do Governo, parece óbvio que uma operação deste tipo se devia inserir num plano mais vasto ou, pelo menos, enquadrar-se num processo mais amplo de cooperação de Portugal com a República Popular de Moçambique.\nEm todo o caso, permito-me perguntar a V. Ex.ª o que é que esta acção concreta de consolidação da dívida de Moçambique a Portugal representa no projecto mais amplo de cooperação do Governo com aquele país.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Secretário de Estado, em primeiro lugar desejo manifestar a minha estranheza pela ausência do Sr.Secretário de Estado da cooperação neste Plenário, porque, embora aparentemente não haja uma conexão directa entre a matéria que estamos a abordar e o pelouro desse membro do Governo, parece óbvio que uma operação deste tipo se devia inserir num plano mais vasto ou, pelo menos, enquadrar-se num processo mais amplo de cooperação de Portugal com a República Popular de Moçambique.\nEm todo o caso, permito-me perguntar a V. Ex.ª o que é que esta acção concreta de consolidação da dívida de Moçambique a Portugal representa no projecto mais amplo de cooperação do Governo com aquele país.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Jaime Gama: Tem a palavra o Sr. Deputado", 
-   "type": "deputado_continuacao"
+   "speaker": "O Sr. Jaime Gama", 
+   "text": "Tem a palavra o Sr. Deputado", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jaime Gama* (PS): Sr. Secretário de Estado, queria perguntar-lhe se, na negociação deste problema com a República Popular de Moçambique, foram atendidos e em que medida os seguintes aspectos: o problema dos pagamentos as empresas TAP e MARCONI, por parte da República Popular de Moçambique; a situação das contas de nacionais portugueses na República Popular de Moçambique e o problema da libertação de disponibilidades para a respectiva regularização a esses mesmos nacionais e também a situação de várias empresas portuguesas naquele país, quer no que respeita às condições do seu funcionamento económico quer no que se reporta às transferências de lucros.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Jaime Gama", 
+   "text": "Sr. Secretário de Estado, queria perguntar-lhe se, na negociação deste problema com a República Popular de Moçambique, foram atendidos e em que medida os seguintes aspectos: o problema dos pagamentos as empresas TAP e MARCONI, por parte da República Popular de Moçambique; a situação das contas de nacionais portugueses na República Popular de Moçambique e o problema da libertação de disponibilidades para a respectiva regularização a esses mesmos nacionais e também a situação de várias empresas portuguesas naquele país, quer no que respeita às condições do seu funcionamento económico quer no que se reporta às transferências de lucros.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Secretário de Estado, independentemente de uma intervenção que o meu grupo parlamentar vai fazer sobre a matéria em discussão, gostaria que V. Ex.ª pudesse clarificar o conteúdo do artigo 7.º da proposta de lei n.º 47/IV, que refere uma comissão de l %, que será contabilizada como despesa de cooperação.\nDo nosso ponto de vista, esta redacção não é a mais clara. Por isso, gostaríamos de obter uma informação sobre o sentido exacto do artigo 7.º \nPara já, era esta a questão que lhe queria colocar, Sr. Secretário de Estado.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Secretário de Estado, independentemente de uma intervenção que o meu grupo parlamentar vai fazer sobre a matéria em discussão, gostaria que V. Ex.ª pudesse clarificar o conteúdo do artigo 7.º da proposta de lei n.º 47/IV, que refere uma comissão de l %, que será contabilizada como despesa de cooperação.\nDo nosso ponto de vista, esta redacção não é a mais clara. Por isso, gostaríamos de obter uma informação sobre o sentido exacto do artigo 7.º \nPara já, era esta a questão que lhe queria colocar, Sr. Secretário de Estado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Anacoreta Correia.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Anacoreta Correia.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Anacoreta Correia(CDS): Sr. Secretário de Estado, vou \ncolocar-lhe algumas questões relativas a este pedido que agora nos é apresentado.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Secretário de Estado, vou colocar-lhe algumas questões relativas a este pedido que agora nos é apresentado.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "1064 I SÉRIE - NÚMERO 25", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "Em primeiro lugar, gostaria de saber qual é o montante da dívida de Moçambique abrangida por este acordo.\nEm segundo lugar, gostaria de saber se esta proposta de consolidação visa a totalidade da dívida de Moçambique para com Portugal ou se é apenas uma parte dessa dívida.\nEm terceiro lugar, gostaria de saber quais têm sido os pagamentos que Moçambique tem feito a Portugal nos últimos cinco anos.\nEm quarto lugar, gostaria de saber qual é a posição de Portugal no conjunto dos credores de Moçambique e se se confirma que Portugal é o primeiro credor de Moçambique.\nFinalmente, gostaria de saber - e a pergunta já foi feita pelo Sr.Deputado Jaime Gama - se, aproveitando as pré-negociações com Moçambique, terá ou não sido abordado por Portugal o problema da libertação das contas dos cidadãos portugueses em Moçambique, designadamente os depósitos feitos através dos nossos consulados em Moçambique, e se foram ou não aproveitadas estas pré-negociações - chamemos-lhe assim - para se focarem alguns aspectos da propriedade dos portugueses, nomeadamente das pequenas propriedades, pois em relação às grandes empresas já aqui foi levantado o problema.\nConcretamente, pretendo saber se as pequenas propriedades dos cidadãos portugueses em Moçambique foram nacionalizadas sem qualquer tipo de reparação e se o assunto foi ou não abordado nestas negociações entre Portugal e Moçambique.\nSr. Secretário de Estado, estas questões que acabei de lhe colocar são independentes de uma intervenção enquadradora que o meu grupo parlamentar fará daqui a pouco.", 
+   "type": null
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder aos pedidos de esclarecimento que lhe foram formulados, tem a palavra o Sr. Secretário de Estado do Tesouro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "speaker": "Secretário", 
+   "text": "Começo por responder ao Sr.Deputado Gomes de Pinho, dizendo-lhe que, como foi referido na altura, o deslocamento e escalonamento da dívida moçambicana constituiu aquilo que considerámos um passo, uma condição necessária, mas não suficiente, para a abordagem de todos os contenciosos com Moçambique. Isto quer dizer que, como é evidente, a delegação moçambicana tinha outras pretensões, nomeadamente quanto ao financiamento de alguns projectos, ao alargamento das linhas de crédito e a outros tipos de financiamento e ajudas que Portugal pudesse conceder.\nO que entendeu - e isto é um problema de regularização do passado - foi que não era conveniente manter a dívida comercial de Moçambique numa situação não regularizada perante o sistema bancário português.\nPortanto, entendeu-se que esta operação era uma condição necessária, mas não suficiente, para a abordagem e análise de outras pretensões moçambicanas.\nA delegação portuguesa pensava incluir nesse pacote todos os aspectos, porque devem ser analisados em conjunto - e passo já a responder ao Sr.Deputado Jaime Gama - e continua em aberto essa inclusão, uma vez que nem todas as pretensões foram atendidas, nomeadamente não foi ainda concedido o alargamento das linhas de crédito da COSEC.\nPortanto, pensava incluir-se nessa negociação global os problemas da TAP, da MARCONI, de transferência de alguns lucros de algumas empresas portuguesas também instaladas em Moçambique - refiro-me, por exemplo, à TEXTÁFRICA e a outras.\nIsto é o «pontapé de saída», ou seja, condicionou-se a esta análise global todo o avanço na cooperação com Moçambique.\nPerguntarão: porquê este «pontapé de saída?» Precisamente porque interessaria regularizar esta posição perante o sistema bancário português.\nPasso agora a responder ao Sr. Deputado Jorge Lemos, que me questionou sobre o artigo 7.º O artigo 7.º pretende traduzir o facto de Moçambique ter, em termos objectivos, dificuldades de pagamentos, ou melhor, não paga mesmo ...\nPortanto, o risco do país Moçambique é elevado. Isto quer dizer que, em condições normais, Moçambique devia pagar uma taxa de juros que traduzisse esse risco. Mas, dentro da política de cooperação, entendeu-se que poderia conceder-se, em termos de taxas de juros, algum tratamento favorável.\nQuanto ao diferencial, há que assumi-lo como custo da cooperação, e é isso que está contido no artigo 1.º \nPortanto, o Estado Português, ao garantir o Estado Moçambicano, baixa o risco da operação. Isto quer dizer que é permitida uma taxa de juro mais baixa.\ndiferença, que devia ser...", 
+   "type": "secretario"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Sr. Secretário de Estado, V. Ex.ª disse que baixa o risco da operação?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Exacto.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder aos pedidos de esclarecimento que lhe foram formulados, tem a palavra o Sr. Secretário de Estado do Tesouro.", 
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Garante que não haverá risco porque o Estado Português cumprirá as obrigações decorrentes da negociação?", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Sim, em termos teóricos haverá sempre uma quantidade mínima de risco.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* de Estado do Tesouro: Começo por responder ao Sr.Deputado Gomes de Pinho, dizendo-lhe que, como foi referido na altura, o deslocamento e escalonamento da dívida moçambicana constituiu aquilo que considerámos um passo, uma condição necessária, mas não suficiente, para a abordagem de todos os contenciosos com Moçambique. Isto quer dizer que, como é evidente, a delegação moçambicana tinha outras pretensões, nomeadamente quanto ao financiamento de alguns projectos, ao alargamento das linhas de crédito e a outros tipos de financiamento e ajudas que Portugal pudesse conceder.\nO que entendeu - e isto é um problema de regularização do passado - foi que não era conveniente manter a dívida comercial de Moçambique numa situação não regularizada perante o sistema bancário português.\nPortanto, entendeu-se que esta operação era uma condição necessária, mas não suficiente, para a abordagem e análise de outras pretensões moçambicanas.\nA delegação portuguesa pensava incluir nesse pacote todos os aspectos, porque devem ser analisados em conjunto - e passo já a responder ao Sr.Deputado Jaime Gama - e continua em aberto essa inclusão, uma vez que nem todas as pretensões foram atendidas, nomeadamente não foi ainda concedido o alargamento das linhas de crédito da COSEC.\nPortanto, pensava incluir-se nessa negociação global os problemas da TAP, da MARCONI, de transferência de alguns lucros de algumas empresas portuguesas também instaladas em Moçambique - refiro-me, por exemplo, à TEXTÁFRICA e a outras.\nIsto é o «pontapé de saída», ou seja, condicionou-se a esta análise global todo o avanço na cooperação com Moçambique.\nPerguntarão: porquê este «pontapé de saída?» Precisamente porque interessaria regularizar esta posição perante o sistema bancário português.\nPasso agora a responder ao Sr. Deputado Jorge Lemos, que me questionou sobre o artigo 7.º O artigo 7.º pretende traduzir o facto de Moçambique ter, em termos objectivos, dificuldades de pagamentos, ou melhor, não paga mesmo ...\nPortanto, o risco do país Moçambique é elevado. Isto quer dizer que, em condições normais, Moçambique devia pagar uma taxa de juros que traduzisse esse risco. Mas, dentro da política de cooperação, entendeu-se que poderia conceder-se, em termos de taxas de juros, algum tratamento favorável.\nQuanto ao diferencial, há que assumi-lo como custo da cooperação, e é isso que está contido no artigo 1.º \nPortanto, o Estado Português, ao garantir o Estado Moçambicano, baixa o risco da operação. Isto quer dizer que é permitida uma taxa de juro mais baixa.", 
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "A não ser que V. Ex.ª entenda que uma operação avalizada pelo Estado Português também envolve risco!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Também envolve, Sr. Deputado.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "diferença, que devia ser...", 
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Eu registo!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Portanto, a intervenção do Estado Português, como garante baixa o risco da operação. Isto quer dizer que, no fundo, esse diferencial da taxa de juro devia ser cobrado pelo Estado Português, que intervém como garante, repito. Ora, como ele não é cobrado, é contabilizado como custo da operação, o que me parece perfeitamente controlável.\nRespondendo ao Sr. Deputado Anacoreta Correia, direi que o montante envolvido nesta consolidação da dívida comercial -repito que se trata apenas da dívida comercial- estava compreendido, na altura, entre 170 e 180 milhões de dólares. Porquê este intervalo? Porque, na altura em que foi celebrado este acordo, ainda existia alguma indeterminação quanto aos chamados «juros de mora».\nNo entanto, o acordo foi celebrado já com a concordância das delegações quanto ao método de cálculo dos juros. Daí que eu indique este intervalo.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): Sr. Secretário de Estado, V. Ex.ª disse que baixa o risco da operação?", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Exacto.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): Garante que não haverá risco porque o Estado Português cumprirá as obrigações decorrentes da negociação?", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Sim, em termos teóricos haverá sempre uma quantidade mínima de risco.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): A não ser que V. Ex.ª entenda que uma operação avalizada pelo Estado Português também envolve risco!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Também envolve, Sr. Deputado.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): Eu registo!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Portanto, a intervenção do Estado Português, como garante baixa o risco da operação. Isto quer dizer que, no fundo, esse diferencial da taxa de juro devia ser cobrado pelo Estado Português, que intervém como garante, repito. Ora, como ele não é cobrado, é contabilizado como custo da operação, o que me parece perfeitamente controlável.\nRespondendo ao Sr. Deputado Anacoreta Correia, direi que o montante envolvido nesta consolidação da dívida comercial -repito que se trata apenas da dívida comercial- estava compreendido, na altura, entre 170 e 180 milhões de dólares. Porquê este intervalo? Porque, na altura em que foi celebrado este acordo, ainda existia alguma indeterminação quanto aos chamados «juros de mora».\nNo entanto, o acordo foi celebrado já com a concordância das delegações quanto ao método de cálculo dos juros. Daí que eu indique este intervalo.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "20 DE DEZEMBRO DE 1986 1065", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Quanto aos pagamentos de Moçambique nos últimos cinco anos, não tenho o número de cor, mas é sabido que eles têm sido bastante diminutos.\nPassando agora à posição ocupada por Portugal na lista dos credores de Moçambique, a informação que possuo - e que é baseada em informações moçambicanas - é a de que, efectivamente, Portugal não é o primeiro credor deste país.\nQuanto à questão dos depósitos consulares, trata-se de problemas idênticos aos da TAP, da MARCONI, etc., a englobar em futura negociação, como, aliás, já referi.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Ivo Pinho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Ivo Pinho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Ivo Pinho* (PRD): Sr. Presidente, Srs. Membros do Governo, Srs.Deputados: É sabido que o elevadíssimo endividamento externo da República Popular de Moçambique constitui uma forte condicionante à superação da precaríssima situação sócio-económica que o país atravessa.\nDo sucesso da estratégia de renegociação da dívida externa empreendida dependerá, em escala não negligenciável, o futuro da República Popular de Moçambique.\nPor razões conhecidas - de entre as quais avultam as de índole histórica e cultural -, a República Portuguesa não poderia divorciar-se do dever de apoiar activamente os esforços das autoridades moçambicanas tendentes à consolidação da dívida externa do país.\nNeste contexto, o PRD não pode deixar de aplaudir a proposta de lei em apreço, bem como a prioridade que lhe foi conferida.\nPena é que o Governo não tenha enviado à Assembleia da República elementos informativos que habilitassem a apreciar, no plano técnico, a proposta de lei em análise. Com efeito, não se sabe de que empréstimos se trata, desconhecem-se os mutuantes e os momentos em que os empréstimos foram contraídos, ignoram-se as moedas em que se encontram denominados, bem como as respectivas condições contratuais, etc.\nAs informações há pouco prestadas pelo Governo continuam, a nosso ver, a ser insuficientes.\nApesar disso, nada deverá impedir que seja dado bom acolhimento ao pedido de autorização solicitado pelo Governo através da proposta de lei n.º 47/1 V.\nTrata-se de afirmar uma vontade política de cooperação com um Estado de língua oficial portuguesa. Trata-se, a esta luz, de uma questão de Estado.\nPor isso, votaremos favoravelmente esta proposta, mesmo que o Governo não preste esclarecimentos adicionais.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Ivo Pinho", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs.Deputados: É sabido que o elevadíssimo endividamento externo da República Popular de Moçambique constitui uma forte condicionante à superação da precaríssima situação sócio-económica que o país atravessa.\nDo sucesso da estratégia de renegociação da dívida externa empreendida dependerá, em escala não negligenciável, o futuro da República Popular de Moçambique.\nPor razões conhecidas - de entre as quais avultam as de índole histórica e cultural -, a República Portuguesa não poderia divorciar-se do dever de apoiar activamente os esforços das autoridades moçambicanas tendentes à consolidação da dívida externa do país.\nNeste contexto, o PRD não pode deixar de aplaudir a proposta de lei em apreço, bem como a prioridade que lhe foi conferida.\nPena é que o Governo não tenha enviado à Assembleia da República elementos informativos que habilitassem a apreciar, no plano técnico, a proposta de lei em análise. Com efeito, não se sabe de que empréstimos se trata, desconhecem-se os mutuantes e os momentos em que os empréstimos foram contraídos, ignoram-se as moedas em que se encontram denominados, bem como as respectivas condições contratuais, etc.\nAs informações há pouco prestadas pelo Governo continuam, a nosso ver, a ser insuficientes.\nApesar disso, nada deverá impedir que seja dado bom acolhimento ao pedido de autorização solicitado pelo Governo através da proposta de lei n.º 47/1 V.\nTrata-se de afirmar uma vontade política de cooperação com um Estado de língua oficial portuguesa. Trata-se, a esta luz, de uma questão de Estado.\nPor isso, votaremos favoravelmente esta proposta, mesmo que o Governo não preste esclarecimentos adicionais.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PRD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Anacoreta Correia.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Anacoreta Correia.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Anacoreta Correia* (CDS): Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: A recente visita do Sr. Presidente da República a São Tomé e Príncipe e a Cabo Verde, para além de ter constituído um assinalável êxito pessoal, foi, na história das relações de Portugal com África, um marco no sentido do estreitamento de laços entre os nossos países.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Anacoreta Correia", 
+   "text": "Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: A recente visita do Sr. Presidente da República a São Tomé e Príncipe e a Cabo Verde, para além de ter constituído um assinalável êxito pessoal, foi, na história das relações de Portugal com África, um marco no sentido do estreitamento de laços entre os nossos países.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Anacoreta Correia", 
    "text": "A necessidade e o desejo evidenciados pelos países africanos em reforçar a sua cooperação com Portugal deve ser para os políticos portugueses motivo de meditação sobre aquilo que, no entender do meu partido, deve ser uma dimensão forte e natural da política externa portuguesa: a cooperação.\nNa generalidade, os nossos órgãos de comunicação social deram-se conta, face aos contactos havidos com as autoridades e populações dos países visitados, mas também com a delegação portuguesa, da ausência de uma política de cooperação que enquadre, nas suas linhas gerais, esta área de relacionamento de Portugal com a África que fala português.\nNesta Assembleia, há menos de um mês, a propósito do debate do Orçamento do Estado para 1987, tive ocasião de afirmar que, «[...] se no campo dos princípios estamos todos de acordo, não diria o mesmo relativamente a termos, no domínio da cooperação, uma política firmemente estabelecida [...]».\nTive ocasião de pôr perguntas ao Governo, que não obtiveram resposta, em especial em três campos: defesa da língua portuguesa, segurança alimentar desses países e estratégia de entrosamento das nossas economias.\nSobre este último ponto a opinião manifestada foi a de que não devemos persistir apenas no campo do financiamento, numa política de subsídio ao consumo e às necessidades imediatas, mas sim apostar na alteração das estruturas produtivas, o que implica uma política diferenciada de apoios a esses países, consoante as probabilidades de êxito forem maiores, pelo que as condições sociais e políticas por eles oferecidas seriam factores determinantes. Esta cooperação dirigida ao \ndesenvolvimento implicaria igualmente a celebração de acordos comerciais alargados e a definição de apoios e garantias concedidos aos empresários portugueses.\nTiveram talvez reduzido eco estas palavras. A discussão do Orçamento cristalizou as preocupações noutras áreas, mas os factos dão-nos razão.\nAqui estamos, em atitude de verdadeiro ritual, a conceder autorização ao Governo para uma vultosa operação financeira, a que falta um horizonte estratégico.\nO CDS, tendo em vista os interesses superiores do Estado e as relações entre os povos português e moçambicano, cimentadas pela história, que desejamos ver alargados e aprofundados, não negará a esta operação o seu voto positivo.\nMas, mais uma vez, queremos reclamar o estabelecimento de uma verdadeira política de cooperação, que, por ser uma área de consenso nos princípios, não vemos por que não possa ser estabelecida na prática, com a colaboração responsável de todos os partidos políticos, o que nos parece seria um princípio saudável na vida política portuguesa.\nPolítica de cooperação que, para ser autêntica, deve estimular os interesses de ambas as partes e ultrapassar a visão tradicional, que se confunde com a assistência e ajuda.\nUma política de cooperação que, em resumo, considere a defesa e a expansão da língua portuguesa como a maior das prioridades e que desenvolva acções ligadas ao ensino e à formação profissional. Nestes domínios, o CDS apresentou já propostas concretas. Política de cooperação que, no domínio da cooperação económica - e estamos a falar de uma acção desse tipo -, aposte em acções a prazo, de efeito multiplicador, e não em acções cosméticas ditadas pela conjuntura e incapazes de alterar o rumo dos acontecimentos.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Anacoreta Correia", 
    "text": "1066 I SÉRIE - NÚMERO 25", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Anacoreta Correia", 
    "text": "Temos consciência de que o futuro português se identifica, em larga medida, com África. Por isso, não recusaremos este apoio a Moçambique, mas temos o direito de dizer claramente que é preciso encontrar os caminhos para que aquele país tenha paz, tenha progresso e para que seja, de forma irreversível, para todos, uma terra de esperança em que se sinta haver lugar para o futuro.\nSr. Presidente, Srs. Deputados, Srs. Membros do Governo: Do modo como nos é apresentado este pedido, somos levados a concluir que se trata de uma operação de cooperação financeira com muito fraco conteúdo político.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra, também para uma intervenção, o Sr.Deputado Jaime Gama.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, também para uma intervenção, o Sr.Deputado Jaime Gama.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jaime Gama* (PS): Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Esta proposta de lei representa a consolidação da dívida comercial de Moçambique com o aval do Estado e, na prática, terá duas consequências: em primeiro lugar, ela virá agravar, a prazo, os encargos externos do Estado Português e, em segundo lugar, virá libertar o passivo de alguns sectores da banca comercial portuguesa.\nPenso, aliás, que o Governo encara esta proposta mais na direcção de sanear a situação financeira de algumas instituições bancárias do que na de a perspectivar na óptica do desenvolvimento da cooperação económica com a República Popular de Moçambique.\nEsta operação é necessária e por isso lhe daremos o nosso apoio, apesar da falta de informação com que este dossier foi submetido pelo Executivo à apreciação da Assembleia da República. Ela é necessária, desde logo, por razões que têm a ver com a situação financeira da República Popular de Moçambique e também por razões nacionais do nosso país que têm a ver com o carácter prioritário de desenvolvimento das nossas relações com os países africanos de expressão oficial portuguesa.\nNo caso especial da República Popular de Moçambique, esta operação assume um evidente significado político: em primeiro lugar, porque ela é realizada apesar das dificuldades económicas que a República Popular de Moçambique atravessa e, em segundo lugar, porque é realizada apesar de uma situação fruto, entre outras razões, de profundas perturbações na África Austral de que a República Popular de Moçambique tem sido também expoente e vítima como país da linha da frente.\nPortugal, que ao assumir este novo encargo o faz aditar ao já pesado encargo resultante da dívida contraída por virtude do empreendimento da hidroeléctrica de Canora Bassa, deve deixar bem claro neste gesto o alto significado que confere ao desenvolvimento das suas relações com a República Popular dê Moçambique e o contributo que está disposto a dar, de uma forma coerente e consistente, para o seu desenvolvimento.\nMoçambique é já hoje o maior beneficiário financeiro da cooperação de Portugal com qualquer outro país. Espera-se, por isso, da parte da República Popular de Moçambique, o estabelecimento de condições, entre outras, monetárias, financeiras e institucionais para o exercício da actividade económica por investigadores portugueses naquele país, um compromisso de princípio calendarizado quanto à regularização de pagamentos e de transferências para cidadãos ou empreendimentos portugueses e uma disponibilidade para a cooperação com Portugal que seja, também ela, directamente proporcional ao nosso esforço financeiro desenvolvido em relação àquele país.\nO Partido Socialista votará a favor da proposta de lei por considerar que, no actual contexto internacional e da África Austral, a independência, a integridade territorial, a estabilidade, a paz e o desenvolvimento da República Popular de Moçambique se aliam aos interesses de Portugal em África e justificam profundamente esta decisão.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Jaime Gama", 
+   "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Esta proposta de lei representa a consolidação da dívida comercial de Moçambique com o aval do Estado e, na prática, terá duas consequências: em primeiro lugar, ela virá agravar, a prazo, os encargos externos do Estado Português e, em segundo lugar, virá libertar o passivo de alguns sectores da banca comercial portuguesa.\nPenso, aliás, que o Governo encara esta proposta mais na direcção de sanear a situação financeira de algumas instituições bancárias do que na de a perspectivar na óptica do desenvolvimento da cooperação económica com a República Popular de Moçambique.\nEsta operação é necessária e por isso lhe daremos o nosso apoio, apesar da falta de informação com que este dossier foi submetido pelo Executivo à apreciação da Assembleia da República. Ela é necessária, desde logo, por razões que têm a ver com a situação financeira da República Popular de Moçambique e também por razões nacionais do nosso país que têm a ver com o carácter prioritário de desenvolvimento das nossas relações com os países africanos de expressão oficial portuguesa.\nNo caso especial da República Popular de Moçambique, esta operação assume um evidente significado político: em primeiro lugar, porque ela é realizada apesar das dificuldades económicas que a República Popular de Moçambique atravessa e, em segundo lugar, porque é realizada apesar de uma situação fruto, entre outras razões, de profundas perturbações na África Austral de que a República Popular de Moçambique tem sido também expoente e vítima como país da linha da frente.\nPortugal, que ao assumir este novo encargo o faz aditar ao já pesado encargo resultante da dívida contraída por virtude do empreendimento da hidroeléctrica de Canora Bassa, deve deixar bem claro neste gesto o alto significado que confere ao desenvolvimento das suas relações com a República Popular dê Moçambique e o contributo que está disposto a dar, de uma forma coerente e consistente, para o seu desenvolvimento.\nMoçambique é já hoje o maior beneficiário financeiro da cooperação de Portugal com qualquer outro país. Espera-se, por isso, da parte da República Popular de Moçambique, o estabelecimento de condições, entre outras, monetárias, financeiras e institucionais para o exercício da actividade económica por investigadores portugueses naquele país, um compromisso de princípio calendarizado quanto à regularização de pagamentos e de transferências para cidadãos ou empreendimentos portugueses e uma disponibilidade para a cooperação com Portugal que seja, também ela, directamente proporcional ao nosso esforço financeiro desenvolvido em relação àquele país.\nO Partido Socialista votará a favor da proposta de lei por considerar que, no actual contexto internacional e da África Austral, a independência, a integridade territorial, a estabilidade, a paz e o desenvolvimento da República Popular de Moçambique se aliam aos interesses de Portugal em África e justificam profundamente esta decisão.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Ainda para uma intervenção, tem a palavra o Sr.Deputado Jorge Lemos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Ainda para uma intervenção, tem a palavra o Sr.Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Analisamos hoje a proposta de lei n.º 47/IV, que autoriza o Governo a celebrar um acordo com a República Popular de Moçambique, destinado a estabelecer os termos em que se processará a consolidação da dívida daquele país a Portugal.\nPese, embora, a inexistência de exposição de motivos que permitisse ajudar a clarificar o sentido da proposta governamental e as explicações evasivas dadas pelo Sr. Secretário de Estado no decorrer desta reunião, ela revela-se, no essencial, como uma medida que tem em conta as dificuldades económicas de Moçambique e visa contribuir para que elas possam ser ultrapassadas.\nPor isso mesmo, não deixaremos de considerar positivamente a proposta agora em análise.\nMas cooperação não é, não pode ser apenas isto! É necessário que possamos ir muito mais além. Não tem sido, contudo, esse o entendimento do Governo. Uma boa demonstração do que fica dito encontra-se na proposta de lei do Orçamento do Estado que o Governo trouxe a esta Assembleia, em que para a cooperação com os novos países de expressão portuguesa se inscreviam verbas ridículas, como na altura foi salientado pela própria Comissão de Negócios Estrangeiros no parecer que emitiu sobre a matéria.\nConviria ainda dizer que continua por esclarecer, pelo menos pela nossa parte, Sr. Secretário de Estado, o exacto sentido do artigo 7.º da proposta de lei, uma vez que, em nossa opinião, se confundiu o que são juros da dívida com a comissão que o Estado Português cobrará por ser avalista da presente dívida. Pensamos que esta matéria tem de ser esclarecida, pois, se este l % vai ser debitado nas despesas com a cooperação com Moçambique, gostaríamos de conhecer o quadro exacto do que significa, em termos orçamentais, o facto de este l % ser debitado nessas despesas e o que vai ficar livre, em termos de verbas, para a cooperação. Isto tem de ser explicado, temos de ter números rigorosos para não estarmos aqui a votar uma proposta sem termos claramente definido o que estamos a votar em termos de ajuda a Moçambique.\nDizia eu que, aquando da discussão do Orçamento do Estado para 1987, interviemos positivamente. É um facto! Por acção conjunta dos partidos da oposição democrática, conseguimos minorar alguns dos efeitos perniciosos da proposta do Governo, ao inscrever um reforço de verba de 200 000 contos com tal objectivo. Mas ficámos longe do que a realidade reclama. Precisamos de fazer muito mais!", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Analisamos hoje a proposta de lei n.º 47/IV, que autoriza o Governo a celebrar um acordo com a República Popular de Moçambique, destinado a estabelecer os termos em que se processará a consolidação da dívida daquele país a Portugal.\nPese, embora, a inexistência de exposição de motivos que permitisse ajudar a clarificar o sentido da proposta governamental e as explicações evasivas dadas pelo Sr. Secretário de Estado no decorrer desta reunião, ela revela-se, no essencial, como uma medida que tem em conta as dificuldades económicas de Moçambique e visa contribuir para que elas possam ser ultrapassadas.\nPor isso mesmo, não deixaremos de considerar positivamente a proposta agora em análise.\nMas cooperação não é, não pode ser apenas isto! É necessário que possamos ir muito mais além. Não tem sido, contudo, esse o entendimento do Governo. Uma boa demonstração do que fica dito encontra-se na proposta de lei do Orçamento do Estado que o Governo trouxe a esta Assembleia, em que para a cooperação com os novos países de expressão portuguesa se inscreviam verbas ridículas, como na altura foi salientado pela própria Comissão de Negócios Estrangeiros no parecer que emitiu sobre a matéria.\nConviria ainda dizer que continua por esclarecer, pelo menos pela nossa parte, Sr. Secretário de Estado, o exacto sentido do artigo 7.º da proposta de lei, uma vez que, em nossa opinião, se confundiu o que são juros da dívida com a comissão que o Estado Português cobrará por ser avalista da presente dívida. Pensamos que esta matéria tem de ser esclarecida, pois, se este l % vai ser debitado nas despesas com a cooperação com Moçambique, gostaríamos de conhecer o quadro exacto do que significa, em termos orçamentais, o facto de este l % ser debitado nessas despesas e o que vai ficar livre, em termos de verbas, para a cooperação. Isto tem de ser explicado, temos de ter números rigorosos para não estarmos aqui a votar uma proposta sem termos claramente definido o que estamos a votar em termos de ajuda a Moçambique.\nDizia eu que, aquando da discussão do Orçamento do Estado para 1987, interviemos positivamente. É um facto! Por acção conjunta dos partidos da oposição democrática, conseguimos minorar alguns dos efeitos perniciosos da proposta do Governo, ao inscrever um reforço de verba de 200 000 contos com tal objectivo. Mas ficámos longe do que a realidade reclama. Precisamos de fazer muito mais!\n20 DE DEZEMBRO DE 1986 1067", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "20 DE DEZEMBRO DE 1986 1067", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
    "text": "É a própria Constituição da República que nos aponta esse caminho quando prevê expressamente, no seu artigo 7.º, que Portugal manterá laços particulares de amizade e cooperação com os países de língua portuguesa. É um preceito constitucional que responde a curto, médio e longo prazo à necessidade histórica de diversificação das relações externas portuguesas.\nPor outro lado, é conhecida a receptividade dos novos países africanos às iniciativas de cooperação que surgem de Portugal. Há todo um passado comum que nos une e permite ultrapassar barreiras, nomeadamente de carácter linguístico, com que se confrontam outros países.\nMas só o conseguiremos se não formos ultrapassados na corrida, já que não estamos sozinhos no terreno e todos conhecemos as iniciativas de outros países que têm demonstrado um muito maior arrojo do que Portugal.\nA situação tem de ser invertida; temos muito a dar e muito a receber dos povos e dos países africanos que falam o português, seja no domínio da técnica, da investigação científica, do ensino, do comércio e tantos e tantos outros campos em que poderíamos e deveríamos cooperar.\nPoderá dizer-se que não temos condições financeiras para o fazer, não é um argumento credível, há condições económicas para avançar e sobretudo o investimento repercute também a favor de Portugal.\nTem faltado, isso sim, a vontade política e é essa vontade política que urge concretizar, desde logo ultrapassado o sistema actual de «medidas avulsas de cooperação» para se definir uma verdadeira política de cooperação, assente em planos devidamente estudados e preparados no quadro de um verdadeiro diálogo fraterno com os legítimos \nrepresentantes dos países africanos de expressão portuguesa.\nDizemos mais: uma política de verdadeira cooperação pressupõe a adopção de medidas que ponham fim à utilização do Portugal democrático e anticolonialista como base preferencial de actuação dos cabecilhas dos bandos terroristas que, em Angola e Moçambique, destroem aldeias, sabotam a economia, atacam cidadãos indefesos, crianças e velhos, indo ao ponto de raptar e mesmo matar os nossos compatriotas aí radicados como forma de propaganda política e de chantagem. É uma situação inaceitável! O Estado Português, esta Assembleia da República, devem usar todos os meios constitucionais, designadamente aprovando as necessárias medidas legais, para impedir que no nosso país continuem impunes os promotores de tais atrocidades.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Sr. Presidente, Srs. Deputados: A questão da cooperação com os novos países africanos está na ordem do dia. É tempo de passarmos das palavras aos actos, é tempo de dar conteúdo integral a esse conceito.\nAs condições objectivas estão criadas. Trata-se agora de as \nmaterializar em termos concretos, de modo que, também neste campo, seja possível levar às últimas consequências a vontade política maioritária desta Assembleia para bem dos Portugueses e de Portugal.", 
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Srs. Deputados: A questão da cooperação com os novos países africanos está na ordem do dia. É tempo de passarmos das palavras aos actos, é tempo de dar conteúdo integral a esse conceito.\nAs condições objectivas estão criadas. Trata-se agora de as \nmaterializar em termos concretos, de modo que, também neste campo, seja possível levar às últimas consequências a vontade política maioritária desta Assembleia para bem dos Portugueses e de Portugal.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -370,283 +378,293 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra, ainda para produzir uma intervenção, o Sr. Secretário de Estado do Tesouro.", 
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, ainda para produzir uma intervenção, o Sr. Secretário de Estado do Tesouro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente, Srs.Deputados: Gostaria de dar alguns esclarecimentos em relação a algumas declarações que foram prestadas, que suponho só por desconhecimento dos factos podem tê-lo sido.\nComo se sabe, esta operação serve, pura e simplesmente, para regularizar uma situação objectiva que é a de Moçambique ter deixado de pagar, isto é, ter pagamentos em atraso. A operação é tão-só isto.\nQuanto ao problema de isso vir acrescer os encargos do Estado, é preciso não esquecer que, sendo uma reestruturação da dívida comercial, estas operações, pelo mecanismo do seguro de crédito, já estavam largamente garantidas pelo Estado.", 
+   "type": "secretario"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Mas para quê um processo?!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "O avalista, como sabem, corre um risco e o pagamento desse risco é a chamada comissão de aval.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* de Estado do Tesouro: Sr. Presidente, Srs.Deputados: Gostaria de dar alguns esclarecimentos em relação a algumas declarações que foram prestadas, que suponho só por desconhecimento dos factos podem tê-lo sido.\nComo se sabe, esta operação serve, pura e simplesmente, para regularizar uma situação objectiva que é a de Moçambique ter deixado de pagar, isto é, ter pagamentos em atraso. A operação é tão-só isto.\nQuanto ao problema de isso vir acrescer os encargos do Estado, é preciso não esquecer que, sendo uma reestruturação da dívida comercial, estas operações, pelo mecanismo do seguro de crédito, já estavam largamente garantidas pelo Estado.", 
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Todos nós sabemos isso!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "O Estado Português abdica de receber essa comissão e, portanto, é um encargo de cooperação. É só isso.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Mas para quê um processo?!", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "É descontado aonde?", 
+   "type": "deputado_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: O avalista, como sabem, corre um risco e o pagamento desse risco é a chamada comissão de aval.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Todos nós sabemos isso!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: O Estado Português abdica de receber essa comissão e, portanto, é um encargo de cooperação. É só isso.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): É descontado aonde?", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, somos chegados ao final do debate sobre esta proposta de lei, a qual, juntamente com outros diplomas cuja discussão eventualmente venha a ser concluída hoje, será objecto de votação às 12 horas e 30 minutos. Pergunto se os Srs. Deputados estão de acordo com esta hora.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, somos chegados ao final do debate sobre esta proposta de lei, a qual, juntamente com outros diplomas cuja discussão eventualmente venha a ser concluída hoje, será objecto de votação às 12 horas e 30 minutos. Pergunto se os Srs. Deputados estão de acordo com esta hora.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Visto não haver qualquer objecção ao que sugeri, passamos agora à discussão das ratificações n.08 106/IV (PCP), 112/IV (PRD) e 115/IV (PS) - Decreto-Lei n.º 351/86, de 20 de Outubro, que transforma em sociedade anónima de responsabilidade limitada de capitais \nexclusivamente públicos a União de Bancos Portugueses, E. P., passando a denominar-se União de Bancos Portugueses, S. A. R. L.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, ao que sabemos, a Comissão de Economia, Finanças e Plano está reunida neste momento.\nComo certamente muitos dos intervenientes deste debate estarão na reunião da Comissão, solicitamos que seja chamada a atenção da Comissão para que eles possam estar presentes.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, ao que sabemos, a Comissão de Economia, Finanças e Plano está reunida neste momento.\nComo certamente muitos dos intervenientes deste debate estarão na reunião da Comissão, solicitamos que seja chamada a atenção da Comissão para que eles possam estar presentes.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Certo, Sr. Deputado, vamos solicitar imediatamente a presença dos Srs. Deputados.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Certo, Sr. Deputado, vamos solicitar imediatamente a presença dos Srs. Deputados.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, informo que a Comissão de Economia, Finanças e Plano está reunida para concluir a ela-", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "1068 I SÉRIE - NÚMERO 25", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "boração de um relatório; precisam de mais dez minutos para esse efeito e só depois é que poderão regressar à Sala.\nNessas circunstâncias, penso ser melhor suspendermos a sessão por alguns minutos, aguardando que a Comissão de Economia, Finanças e Plano conclua o seu trabalho.\nEm seguida, iremos discutir e votar as referidas ratificações e ficar-nos-íamos por este assunto, uma vez que há acordo para que os trabalhos de hoje terminem com a votação das ratificações. Assim, os dois últimos pontos da ordem do dia passaram para a ordem de trabalhos da próxima sessão, a realizar no dia 22.\nTodos os grupos parlamentares estão de acordo?", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Tem a palavra o Sr. Deputado Guido Rodrigues.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Guido Rodrigues* (PSD): Estamos de acordo, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guido Rodrigues", 
+   "text": "Estamos de acordo, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: O PCP está de acordo?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "O PCP está de acordo?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, nós estaremos de acordo com o que foi sugerido se à hora que foi fixada para as votações estiver concluído o processo de discussão das ratificações. Se não estiver concluído, logicamente que, como o Sr. Presidente compreenderá, e dado que hoje é sexta-feira e há compromissos assumidos, é difícil estar a pedir que se faça uma votação, ainda para mais com a interrupção que se vai fazer nesta altura.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, nós estaremos de acordo com o que foi sugerido se à hora que foi fixada para as votações estiver concluído o processo de discussão das ratificações. Se não estiver concluído, logicamente que, como o Sr. Presidente compreenderá, e dado que hoje é sexta-feira e há compromissos assumidos, é difícil estar a pedir que se faça uma votação, ainda para mais com a interrupção que se vai fazer nesta altura.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Certamente, Sr. Deputado. Só se fará essa votação se até às 12 horas e 30 minutos, hora fixada para as votações, estiver concluída a discussão das ratificações.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Certamente, Sr. Deputado. Só se fará essa votação se até às 12 horas e 30 minutos, hora fixada para as votações, estiver concluída a discussão das ratificações.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Exactamente, Sr. Presidente. Se a discussão estiver concluída até essa hora, proceder-se-á à votação; senão, só a faremos na próxima segunda-feira.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Exactamente, Sr. Presidente. Se a discussão estiver concluída até essa hora, proceder-se-á à votação; senão, só a faremos na próxima segunda-feira.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Guido Rodrigues.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Guido Rodrigues.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Guido Rodrigues* (PSD): Sr. Presidente, foi efectivamente nesse pressuposto que dei o nosso acordo.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guido Rodrigues", 
+   "text": "Sr. Presidente, foi efectivamente nesse pressuposto que dei o nosso acordo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Certo, Sr. Deputado. Está suspensa a sessão. Eram U horas e 15 minutos.\nSrs. Deputados, está reaberta a sessão. Eram 11 horas e 55 minutos.\nSrs. Deputados, teremos de aguardar um momento pela chegada dos deputados do PRD, para podermos retomar os nossos trabalhos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Certo, Sr. Deputado. Está suspensa a sessão. Eram U horas e 15 minutos.\nSrs. Deputados, está reaberta a sessão. Eram 11 horas e 55 minutos.\nSrs. Deputados, teremos de aguardar um momento pela chegada dos deputados do PRD, para podermos retomar os nossos trabalhos.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, o Grupo Parlamentar do PRD acaba de requerer à Mesa a interrupção da sessão por 30 minutos, o que significa que retomaremos os nossos trabalhos às 12 horas e 30 minutos, para efeitos de votação.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, não sei se o pedido de interrupção do PRD se relaciona com a votação a que vamos proceder a seguir e, portanto, nem sequer sei se me é lícito colocar esta questão.\nTodavia, se assim não for, penso que seria razoável que procedêssemos agora à votação, dando depois a sessão por encerrada. Pediria, pois, que se diligenciasse no sentido de obter essa informação.\nÉ evidente que, a não ser este o caso, o PRD tem toda a legitimidade para requerer a interrupção, que, de qualquer modo, é regimental.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, não sei se o pedido de interrupção do PRD se relaciona com a votação a que vamos proceder a seguir e, portanto, nem sequer sei se me é lícito colocar esta questão.\nTodavia, se assim não for, penso que seria razoável que procedêssemos agora à votação, dando depois a sessão por encerrada. Pediria, pois, que se diligenciasse no sentido de obter essa informação.\nÉ evidente que, a não ser este o caso, o PRD tem toda a legitimidade para requerer a interrupção, que, de qualquer modo, é regimental.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Certo, Sr. Deputado. Peço ao Sr. Deputado Rui Cunha, que é o único deputado do PRD presente na Sala neste momento, o favor de nos esclarecer. É que o Sr. Deputado Gomes de Pinho acaba de colocar uma questão a que só o PRD poderá responder.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Certo, Sr. Deputado. Peço ao Sr. Deputado Rui Cunha, que é o único deputado do PRD presente na Sala neste momento, o favor de nos esclarecer. É que o Sr. Deputado Gomes de Pinho acaba de colocar uma questão a que só o PRD poderá responder.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Rui Cunha* (PRD): Sr. Presidente, peço desculpa, mas, como sabe, fui integrado numa delegação que visitou o Sr. Presidente da República, pelo que não assisti ao debate que se estava a travar nem tenho conhecimento da matéria em discussão. Sei apenas que nos encontramos reunidos em consequência da análise dos problemas que estão a ser hoje debatidos no Plenário.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Rui Cunha", 
+   "text": "Sr. Presidente, peço desculpa, mas, como sabe, fui integrado numa delegação que visitou o Sr. Presidente da República, pelo que não assisti ao debate que se estava a travar nem tenho conhecimento da matéria em discussão. Sei apenas que nos encontramos reunidos em consequência da análise dos problemas que estão a ser hoje debatidos no Plenário.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Certo, Sr. Deputado, muito obrigado.\nSendo assim, vou interromper a sessão, nos termos requeridos.\nRetomaremos os nossos trabalhos para proceder à votação da proposta de lei n. º 47/IV e depois penso que já não haverá condições para prosseguirmos a sessão; mas este assunto discutir-se-á oportunamente.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Certo, Sr. Deputado, muito obrigado.\nSendo assim, vou interromper a sessão, nos termos requeridos.\nRetomaremos os nossos trabalhos para proceder à votação da proposta de lei n. º 47/IV e depois penso que já não haverá condições para prosseguirmos a sessão; mas este assunto discutir-se-á oportunamente.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Guido Rodrigues* (PSD): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guido Rodrigues", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Guido Rodrigues* (PSD): Sr. Presidente, a única votação que se verificará é aquela que o Sr. Presidente acaba de referir, não é assim?", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guido Rodrigues", 
+   "text": "Sr. Presidente, a única votação que se verificará é aquela que o Sr. Presidente acaba de referir, não é assim?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Exactamente, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Exactamente, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Guido Rodrigues* (PSD): Hoje não há mais nenhuma votação a realizar, não é verdade?", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guido Rodrigues", 
+   "text": "Hoje não há mais nenhuma votação a realizar, não é verdade?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Exacto, Sr. Deputado, não há mais nenhuma votação para fazer e, com estas sucessivas interrupções, não chegamos sequer a entrar no segundo ponto da ordem de trabalhos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Exacto, Sr. Deputado, não há mais nenhuma votação para fazer e, com estas sucessivas interrupções, não chegamos sequer a entrar no segundo ponto da ordem de trabalhos.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Guido Rodrigues* (PSD): Muito obrigado, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guido Rodrigues", 
+   "text": "Muito obrigado, Sr. Presidente.\n20 DE DEZEMBRO DE 1986 1069", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "20 DE DEZEMBRO DE 1986 1069", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "De nada, Sr. Deputado. Srs. Deputados, está suspensa a sessão.\n_Eram 12 horas_.\nSrs. Deputados, está reaberta a sessão.\n_Eram 12 horas e 40 minutos_.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: De nada, Sr. Deputado. Srs. Deputados, está suspensa a sessão.\n_Eram 12 horas_.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, peço a palavra para fazer uma interpelação à Mesa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Srs. Deputados, está reaberta a sessão.\n_Eram 12 horas e 40 minutos_.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, visto termos marcado uma votação para as 12 horas e 30 minutos creio que, em primeiro lugar, seria melhor procedermos à votação e depois então V. Ex.ª faria a interpelação à Mesa. Ou será que esta tem a ver com a votação?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, peço a palavra para fazer uma interpelação à Mesa.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinto", 
+   "text": "Sr. Presidente, embora a interpelação que pretendo fazer nada tenha a ver com a votação que estava agendada, em meu entender deveria usar da palavra em primeiro lugar.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Deputado, visto termos marcado uma votação para as 12 horas e 30 minutos creio que, em primeiro lugar, seria melhor procedermos à votação e depois então V. Ex.ª faria a interpelação à Mesa. Ou será que esta tem a ver com a votação?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Se assim o entender, Sr. Deputado, faça favor de usar da palavra para uma interpelação à Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinto* (CDS): Sr. Presidente, embora a interpelação que pretendo fazer nada tenha a ver com a votação que estava agendada, em meu entender deveria usar da palavra em primeiro lugar.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, há poucos momentos o meu grupo parlamentar, através de um comunicado da Cruz Vermelha Internacional, tomou conhecimento que um grupo de cidadãos portugueses que havia sido libertado pela RENAMO e que se encontrava no Malawi há dois dias, a solicitação das autoridades de Moçambique, acabou de ser reembarcado para esse país e estaria a chegar a Maputo.\nOra, entendemos que esta é uma situação extremamente grave, que pode pôr em causa não apenas interesses fundamentais de cidadãos portugueses como a própria dignidade do País. As informações de que dispúnhamos apontavam no sentido de que esses cidadãos tinham sido entregues ao cuidado das autoridades consulares e diplomáticas portuguesas no Malawi. Portanto, pensamos que esta Câmara tem todo o direito de saber imediatamente o que é que se está a passar e de exigir do Governo uma informação imediata sobre o que aconteceu a esse numeroso grupo de cidadãos portugueses.\nPensamos ainda que seria razoável que essa informação nos fosse prestada no decorrer desta sessão e que também seria adequado à defesa da dignidade dos interesses do País que aqui representamos que essa informação nos fosse prestada antes da votação que estava agendada para as 12 horas e 30 minutos.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Se assim o entender, Sr. Deputado, faça favor de usar da palavra para uma interpelação à Mesa.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Gomes de Pinho, não se encontrando presente nenhum representante do Governo, a única coisa que lhe posso garantir é um contacto imediato com o Sr. Ministro encarregado das relações com o Parlamento e com o Sr. Secretário de Estado para comunicar o desejo manifestado pelo Grupo Parlamentar do CDS no sentido de ser informado acerca do delicado problema que foi colocado à Câmara.\nEsse contacto será feito imediatamente, mas não posso garantir que obtenhamos alguma resposta antes da sessão terminar.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, há poucos momentos o meu grupo parlamentar, através de um comunicado da Cruz Vermelha Internacional, tomou conhecimento que um grupo de cidadãos portugueses que havia sido libertado pela RENAMO e que se encontrava no Malawi há dois dias, a solicitação das autoridades de Moçambique, acabou de ser reembarcado para esse país e estaria a chegar a Maputo.\nOra, entendemos que esta é uma situação extremamente grave, que pode pôr em causa não apenas interesses fundamentais de cidadãos portugueses como a própria dignidade do País. As informações de que dispúnhamos apontavam no sentido de que esses cidadãos tinham sido entregues ao cuidado das autoridades consulares e diplomáticas portuguesas no Malawi. Portanto, pensamos que esta Câmara tem todo o direito de saber imediatamente o que é que se está a passar e de exigir do Governo uma informação imediata sobre o que aconteceu a esse numeroso grupo de cidadãos portugueses.\nPensamos ainda que seria razoável que essa informação nos fosse prestada no decorrer desta sessão e que também seria adequado à defesa da dignidade dos interesses do País que aqui representamos que essa informação nos fosse prestada antes da votação que estava agendada para as 12 horas e 30 minutos.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, peço a palavra para fazer uma interpelação à Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Deputado Gomes de Pinho, não se encontrando presente nenhum representante do Governo, a única coisa que lhe posso garantir é um contacto imediato com o Sr. Ministro encarregado das relações com o Parlamento e com o Sr. Secretário de Estado para comunicar o desejo manifestado pelo Grupo Parlamentar do CDS no sentido de ser informado acerca do delicado problema que foi colocado à Câmara.\nEsse contacto será feito imediatamente, mas não posso garantir que obtenhamos alguma resposta antes da sessão terminar.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, peço a palavra para fazer uma interpelação à Mesa.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, associamo-nos a este pedido de informação que foi colocado pelo Sr. Deputado Gomes de Pinho acerca da sorte de um grande grupo de compatriotas nossos e de cidadãos de outros países que os acompanhavam. Porém, não podemos deixar de manifestar a nossa surpresa por ter sido esta a primeira vez que na Assembleia da República o CDS levantou a questão dos raptados pela RENAMO. Nós têmo-lo feito múltiplas vezes, ainda há pouco o fizémos, e é com surpresa que registamos que, pela primeira vez, o CDS revela preocupação em relação a esta questão.\nPela nossa parte, também queremos manifestar a nossa preocupação pelo ocorrido e exigir esclarecimentos do Governo relativamente a um segundo grupo de cidadãos raptados pela RENAMO. Na realidade, a própria RENAMO anunciou que esse grupo seria hoje libertado, mas, segundo informações canalizadas pela Cruz Vermelha Internacional, tal não acontecerá.\nAliás, é também estranho que o CDS, em relação a estes cidadãos que continuam na posse da RENAMO - não se sabe em que circunstâncias -, não manifeste aqui a sua preocupação.\nTambém nós queremos que o Governo nos esclareça e não só sobre tudo isto mas também sobre as actividades da RENAMO em território nacional.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, associamo-nos a este pedido de informação que foi colocado pelo Sr. Deputado Gomes de Pinho acerca da sorte de um grande grupo de compatriotas nossos e de cidadãos de outros países que os acompanhavam. Porém, não podemos deixar de manifestar a nossa surpresa por ter sido esta a primeira vez que na Assembleia da República o CDS levantou a questão dos raptados pela RENAMO. Nós têmo-lo feito múltiplas vezes, ainda há pouco o fizémos, e é com surpresa que registamos que, pela primeira vez, o CDS revela preocupação em relação a esta questão.\nPela nossa parte, também queremos manifestar a nossa preocupação pelo ocorrido e exigir esclarecimentos do Governo relativamente a um segundo grupo de cidadãos raptados pela RENAMO. Na realidade, a própria RENAMO anunciou que esse grupo seria hoje libertado, mas, segundo informações canalizadas pela Cruz Vermelha Internacional, tal não acontecerá.\nAliás, é também estranho que o CDS, em relação a estes cidadãos que continuam na posse da RENAMO - não se sabe em que circunstâncias -, não manifeste aqui a sua preocupação.\nTambém nós queremos que o Governo nos esclareça e não só sobre tudo isto mas também sobre as actividades da RENAMO em território nacional.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Como é que é possível que uma organização terrorista, que rapta portugueses, que os trata da forma como os trata, continue a ter delegações em Lisboa e que actue e tenha voz activa nos órgãos de comunicação social estatizada?! \nEssa é que é a grave questão!", 
+   "speaker": "O Orador", 
+   "text": "Como é que é possível que uma organização terrorista, que rapta portugueses, que os trata da forma como os trata, continue a ter delegações em Lisboa e que actue e tenha voz activa nos órgãos de comunicação social estatizada?! \nEssa é que é a grave questão!", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -654,172 +672,184 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Peço a palavra, Sr. Presidente.", 
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Peço a palavra, Sr. Presidente.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, peço-lhes para não entrarem em debate, uma vez que se trata de interpelações à Mesa. Há uma margem de flexibilidade, dada a natureza da questão, mas peço-lhes para não entrarem em debate. Se assim for, terei que cortar a palavra, porque esta não é altura para fazermos um debate sobre esta matéria.\nO Sr. Deputado Gomes de Pinho pediu a palavra para que efeito?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, peço-lhes para não entrarem em debate, uma vez que se trata de interpelações à Mesa. Há uma margem de flexibilidade, dada a natureza da questão, mas peço-lhes para não entrarem em debate. Se assim for, terei que cortar a palavra, porque esta não é altura para fazermos um debate sobre esta matéria.\nO Sr. Deputado Gomes de Pinho pediu a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, não é obviamente para entrar em debate, mas para defender a honra do meu grupo parlamentar, que foi gravemente afectado pela intervenção, parcialmente inoportuna, do Sr. Deputado Carlos Brito.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, não é obviamente para entrar em debate, mas para defender a honra do meu grupo parlamentar, que foi gravemente afectado pela intervenção, parcialmente inoportuna, do Sr. Deputado Carlos Brito.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Nessas circunstâncias, como se trata de defender a honra e a consideração do Sr. Deputado Gomes de Pinho, tenho que lhe conceder a palavra.\nFaça favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Nessas circunstâncias, como se trata de defender a honra e a consideração do Sr. Deputado Gomes de Pinho, tenho que lhe conceder a palavra.\nFaça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, defender a honra do meu partido, aqui, é apenas repor a verdade. E a verdade é que o CDS tem aqui repeti-", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, defender a honra do meu partido, aqui, é apenas repor a verdade. E a verdade é que o CDS tem aqui repeti-", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
    "text": "1070 I SÉRIE - NÚMERO 25", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
    "text": "damente, através de vários Srs. Deputados e particularmente do Sr.Deputado José Gama, defendido e abordado a situação dos portugueses que se encontram em situação de privação de liberdade em vários países, não particularmente destes portugueses mas de todos os que se encontram nessa situação em qualquer parte do mundo.\nPor outro lado, é bem claro para todas as pessoas que se encontram nesta Câmara que o CDS rejeita, de uma forma evidente e sem qualquer subterfúgio, a actividade de quaisquer grupos que usam da violência, onde quer que se instalem, e por maioria de razão em Portugal. Qualquer português bem informado não tem nem pode ter qualquer dúvida sobre as nossas posições: \nFinalmente, nós não gostaríamos que uma questão que aqui levantamos com seriedade fosse pretexto para um debate que ultrapassa claramente .º objectivo da nossa intervenção...", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: ..., que é tão-só o de defender a situação e os interesses de um grupo de portugueses que podem, neste momento, estar a ser violados, assim como a dignidade de Portugal e desta Câmara.\nÉ por isso que, Sr. Presidente, insistimos para que essa informação seja obtida. Pensamos que o Governo terá todo o interesse em, inclusive, fornecê-la a esta Câmara e julgamos que seria inadequado que levantássemos uma discussão política que ocultasse a verdadeira razão de ser da nossa interpelação que, suponho, pode e deve ser partilhada por todos os deputados desta Câmara.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "..., que é tão-só o de defender a situação e os interesses de um grupo de portugueses que podem, neste momento, estar a ser violados, assim como a dignidade de Portugal e desta Câmara.\nÉ por isso que, Sr. Presidente, insistimos para que essa informação seja obtida. Pensamos que o Governo terá todo o interesse em, inclusive, fornecê-la a esta Câmara e julgamos que seria inadequado que levantássemos uma discussão política que ocultasse a verdadeira razão de ser da nossa interpelação que, suponho, pode e deve ser partilhada por todos os deputados desta Câmara.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Deputado Gomes de Pinho, informo-o que estamos já a estabelecer- contacto com o Governo para que este nos possa dar esclarecimentos. Evidentemente que se a sessão terminar às 13 horas, os esclarecimentos poderão ser dados na sessão da próxima segunda-feira ou por outras vias.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Gomes de Pinho, informo-o que estamos já a estabelecer- contacto com o Governo para que este nos possa dar esclarecimentos. Evidentemente que se a sessão terminar às 13 horas, os esclarecimentos poderão ser dados na sessão da próxima segunda-feira ou por outras vias.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para que efeito?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, como o Sr. Deputado Gomes de Pinho usou da palavra invocando o direito regimental da defesa da honra, eu gostaria de dar explicações, também em nome do meu grupo parlamentar.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, como o Sr. Deputado Gomes de Pinho usou da palavra invocando o direito regimental da defesa da honra, eu gostaria de dar explicações, também em nome do meu grupo parlamentar.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Lembraria que, há pouco, comecei a minha interpelação exactamente por me associar às preocupações manifestadas pelo CDS. Isto demonstra que tratamos esta questão com a máxima seriedade. Aliás, inúmeras vezes temos levantado aqui, na Assembleia da República, a nossa preocupação em relação à sorte dos nossos compatriotas que estão nas mãos da RENAMO.\nNão queremos, por isso mesmo, fazer mais polémica, mas não podemos deixar de considerar significativo que o CDS se preocupe em saber qual é o destino do grupo de portugueses que está neste momento a viajar para Maputo mas não releve aqui a menor preocupação em relação ao segundo grupo de portugueses que a RENAMO anunciou que libertaria hoje mesmo, não o tendo feito. É isto que nos leva a dizer que o CDS só vê um lado das coisas.\nOra, nós queremos manifestar a nossa preocupação em relação à sorte e ao destino de todos os portugueses que têm sido raptados pela RENAMO. E isso que queremos manifestar.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Lembraria que, há pouco, comecei a minha interpelação exactamente por me associar às preocupações manifestadas pelo CDS. Isto demonstra que tratamos esta questão com a máxima seriedade. Aliás, inúmeras vezes temos levantado aqui, na Assembleia da República, a nossa preocupação em relação à sorte dos nossos compatriotas que estão nas mãos da RENAMO.\nNão queremos, por isso mesmo, fazer mais polémica, mas não podemos deixar de considerar significativo que o CDS se preocupe em saber qual é o destino do grupo de portugueses que está neste momento a viajar para Maputo mas não releve aqui a menor preocupação em relação ao segundo grupo de portugueses que a RENAMO anunciou que libertaria hoje mesmo, não o tendo feito. É isto que nos leva a dizer que o CDS só vê um lado das coisas.\nOra, nós queremos manifestar a nossa preocupação em relação à sorte e ao destino de todos os portugueses que têm sido raptados pela RENAMO. E isso que queremos manifestar.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos passar à votação que estava prevista...", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos passar à votação que estava prevista...", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para que efeito pediu a palavra, Sr. Deputado Gomes de Pinho? Pretende interpelar novamente a Mesa?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para que efeito pediu a palavra, Sr. Deputado Gomes de Pinho? Pretende interpelar novamente a Mesa?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Pretendia sim, Sr. Presidente, pois na minha interpelação inicial estava contido um requerimento oral para que não se fizesse a votação da proposta de lei n.º 47/IV enquanto não nos fossem prestadas informações...", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Pretendia sim, Sr. Presidente, pois na minha interpelação inicial estava contido um requerimento oral para que não se fizesse a votação da proposta de lei n.º 47/IV enquanto não nos fossem prestadas informações...", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PCP: Não, não! Isto é sério!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Não, não! Isto é sério!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Não posso aceitar a sua solicitação e, por conseguinte, vamos passar à votação, tal como estava previsto.\nNaturalmente que o Governo, que estamos neste momento a tentar contactar, poderá evidentemente vir a esta Câmara prestar esses esclarecimentos na segunda--feira, ou então poderá dá-los por outra via.\nNão vejo, Sr. Deputado Gomes de Pinho, qual o interesse em adiarmos a votação, mas, caso esta fosse adiada, para que horas sugeriria o seu adiamento?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Não posso aceitar a sua solicitação e, por conseguinte, vamos passar à votação, tal como estava previsto.\nNaturalmente que o Governo, que estamos neste momento a tentar contactar, poderá evidentemente vir a esta Câmara prestar esses esclarecimentos na segunda--feira, ou então poderá dá-los por outra via.\nNão vejo, Sr. Deputado Gomes de Pinho, qual o interesse em adiarmos a votação, mas, caso esta fosse adiada, para que horas sugeriria o seu adiamento?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, a minha convicção é de que o Governo está em condições de, imediatamente, fornecer essas informações. Aliás, não posso admitir que o Governo Português não esteja a seguir atentamente estes graves acontecimentos e creio que estão, ou pelo menos estavam até há muito pouco tempo, presentes na Assembleia vários membros do Governo.\nAssim, penso que seria razoável - e faço um apelo aos outros grupos parlamentares para que ponderem connosco esta razoabilidade - que, antes de votarmos uma matéria que diz directamente respeito a um país envolvido nesta questão, fizéssemos uma pequena pausa de modo a permitir que o Governo nos desse um esclarecimento cabal sobre o que se está a passar.\nNão queremos, de maneira nenhuma, inviabilizar a votação desta matéria; porém, entendemos que é suficientemente grave o que se está a passar para que esta Assembleia, caso seja necessário, prolongue os seus trabalhos - têmo-lo feito por muito menos - até que essa informação nos seja prestada. Como tal, e uma vez que nós já esgotámos o nosso direito regimental de pedir uma interrupção dos trabalhos - aliás, não queríamos que isso acontecesse -, apelaríamos para os restantes grupos parlamentares a fim de fazermos uma", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, a minha convicção é de que o Governo está em condições de, imediatamente, fornecer essas informações. Aliás, não posso admitir que o Governo Português não esteja a seguir atentamente estes graves acontecimentos e creio que estão, ou pelo menos estavam até há muito pouco tempo, presentes na Assembleia vários membros do Governo.\nAssim, penso que seria razoável - e faço um apelo aos outros grupos parlamentares para que ponderem connosco esta razoabilidade - que, antes de votarmos uma matéria que diz directamente respeito a um país envolvido nesta questão, fizéssemos uma pequena pausa de modo a permitir que o Governo nos desse um esclarecimento cabal sobre o que se está a passar.\nNão queremos, de maneira nenhuma, inviabilizar a votação desta matéria; porém, entendemos que é suficientemente grave o que se está a passar para que esta Assembleia, caso seja necessário, prolongue os seus trabalhos - têmo-lo feito por muito menos - até que essa informação nos seja prestada. Como tal, e uma vez que nós já esgotámos o nosso direito regimental de pedir uma interrupção dos trabalhos - aliás, não queríamos que isso acontecesse -, apelaríamos para os restantes grupos parlamentares a fim de fazermos uma", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
    "text": "20 DE DEZEMBRO DE 1986 1071", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
    "text": "pequena pausa para que o Governo nos preste esses esclarecimentos.\nPenso tratar-se de uma atitude razoável que não visa, de modo algum, inviabilizar a votação da proposta de lei n. º 47/IV, mas sim fazê-la com perfeita tranquilidade de espírito, o que, da nossa parte, é fundamental.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Inscreveram-se vários Srs. Deputados, mas penso que conceder-lhes a palavra irá arrastar muito os nossos trabalhos.\nA minha decisão é, pois, a de passarmos imediatamente à votação.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Inscreveram-se vários Srs. Deputados, mas penso que conceder-lhes a palavra irá arrastar muito os nossos trabalhos.\nA minha decisão é, pois, a de passarmos imediatamente à votação.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Capucho* (PSD): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "António Capucho", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para que efeito, Sr. Deputado?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para que efeito, Sr. Deputado?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Capucho* (PSD): Sr. Presidente, é para interpelar a Mesa.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "António Capucho", 
+   "text": "Sr. Presidente, é para interpelar a Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Faça favor.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Capucho* (PSD): Sr. Presidente, do ponto de vista do PSD, às 12 horas e 30 minutos entrámos em processo de votação e nada justifica o incidente processual com que estamos confrontados, o qual foi levantado sob a forma de interpelação à Mesa. Porém, nos termos do artigo 85.º, o Regimento é claro, dizendo que «os deputados podem interpelar a Mesa quanto tenham dúvidas sobre as decisões desta ou a orientação dos trabalhos», o que não foi o caso da suposta interpelação do CDS.\nNão se trata de a minha bancada não compartilhar, exactamente na mesma dimensão, as preocupações transmitidas pelo Sr. Deputado Gomes de Pinho. Simplesmente, parece-nos que é um precedente mau. Isto é, se cada vez que estivermos em processo de votação - como estávamos a partir do meio-dia e meia hora - levantarmos um incidente deste tipo, abrimos um precedente gravíssimo, designadamente se o pretexto for o de chamar o Governo para prestar esclarecimentos ao Plenário.\nNão conheço nenhuma forma regimental que o permita, sob que pretexto for. Há um processo de relacionamento com o Governo que não passa por este tipo de informação, por muito urgente e por muito grave que seja o problema. Existem outros métodos, fora do Plenário, pelo que a posição do PSD é a de que devemos votar, pois desde as 12 horas e 30 minutos que estamos em processo de votação e é isso que deve acontecer.\nO Sr. *Presidente*: Justamente na altura em que o Sr. Deputado Gomes de Pinho pediu a palavra para interpelar a Mesa, sublinhei que iríamos proceder à votação. Dado o Sr. Deputado Gomes de Pinho ter insistido em interpelar a Mesa, eu não podia, antes do Sr. Deputado usar da palavra, avaliar o conteúdo da sua interpelação.\nVamos, pois, passar à votação, na generalidade, da proposta de lei n.º 47/1 V, que autoriza o Governo, através do Ministro das Finanças, a celebrar um acordo com a República Popular de Moçambique, destinado a estabelecer os termos em que se processará a consolidação da dívida daquele pais a Portugal.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "António Capucho", 
+   "text": "Sr. Presidente, do ponto de vista do PSD, às 12 horas e 30 minutos entrámos em processo de votação e nada justifica o incidente processual com que estamos confrontados, o qual foi levantado sob a forma de interpelação à Mesa. Porém, nos termos do artigo 85.º, o Regimento é claro, dizendo que «os deputados podem interpelar a Mesa quanto tenham dúvidas sobre as decisões desta ou a orientação dos trabalhos», o que não foi o caso da suposta interpelação do CDS.\nNão se trata de a minha bancada não compartilhar, exactamente na mesma dimensão, as preocupações transmitidas pelo Sr. Deputado Gomes de Pinho. Simplesmente, parece-nos que é um precedente mau. Isto é, se cada vez que estivermos em processo de votação - como estávamos a partir do meio-dia e meia hora - levantarmos um incidente deste tipo, abrimos um precedente gravíssimo, designadamente se o pretexto for o de chamar o Governo para prestar esclarecimentos ao Plenário.\nNão conheço nenhuma forma regimental que o permita, sob que pretexto for. Há um processo de relacionamento com o Governo que não passa por este tipo de informação, por muito urgente e por muito grave que seja o problema. Existem outros métodos, fora do Plenário, pelo que a posição do PSD é a de que devemos votar, pois desde as 12 horas e 30 minutos que estamos em processo de votação e é isso que deve acontecer.\nO Sr. *Presidente*: — Justamente na altura em que o Sr. Deputado Gomes de Pinho pediu a palavra para interpelar a Mesa, sublinhei que iríamos proceder à votação. Dado o Sr. Deputado Gomes de Pinho ter insistido em interpelar a Mesa, eu não podia, antes do Sr. Deputado usar da palavra, avaliar o conteúdo da sua interpelação.\nVamos, pois, passar à votação, na generalidade, da proposta de lei n.º 47/1 V, que autoriza o Governo, através do Ministro das Finanças, a celebrar um acordo com a República Popular de Moçambique, destinado a estabelecer os termos em que se processará a consolidação da dívida daquele pais a Portugal.\nSubmetida à votação, foi aprovada com votos a favor do PSD, do PS, do PRD, do PCP e do MDP/CDE e a abstenção do CDS.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Submetida à votação, foi aprovada com votos a favor do PSD, do PS, do PRD, do PCP e do MDP/CDE e a abstenção do CDS.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Vamos agora passar à votação na especialidade.\nUma vez que não há propostas de alteração, os Srs. Deputados estão de acordo em que se proceda à votação conjunta dos oito artigos que compõem a proposta de lei n. º 47/IV?", 
    "type": "deputado_continuacao"
   }, 
@@ -828,576 +858,605 @@
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Visto não haver objecções, vamos votar em conjunto os artigos da proposta de lei.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Submetidos à votação, foram aprovados com votos a favor do PSD, do PS, do PRD, do PCP e do MDP/CDE e a abstenção do CDS.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "São os seguintes: \nA Assembleia da República decreta, nos termos da alínea h) do artigo 164.º da Constituição, o seguinte:", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Artigo 1.º", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Fica o Governo autorizado, através do Ministro das Finanças, com a faculdade de delegar, a celebrar um acordo com a República Popular de Moçambique, destinado a estabelecer os termos em que se processará a consolidação da dívida daquele país a Portugal.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Artigo 2.º", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "A dívida vencida e vincenda, de capital, juros contratuais e juros de mora, até 30 de Junho de 1986, resultante de operações efectuadas por intermédio de instituições de crédito portuguesas e de créditos directamente concedidos ao Banco de Moçambique, ou por este garantidos, decorrentes de contratos firmados até l de Fevereiro de 1984 e concretizados até à presente data, é consolidada nas condições estabelecidas nos artigos seguintes.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Artigo 3.º", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "O valor correspondente a 95% da dívida a consolidar referida no artigo anterior será reembolsado em doze semestralidades iguais e \nconsecutivas, vencendo-se a primeira em 31 de Dezembro de 1990 e a última em 30 de Junho de 1996.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Artigo 4.º", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "O montante correspondente a 5% da dívida referida no artigo 1.º será pago em cinco prestações anuais, iguais e consecutivas, vencendo-se a primeira em 31 de Dezembro de 1986 e a última em 31 de Dezembro de 1990.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Artigo 5.º", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Sobre o montante consolidado previsto no artigo 1.º incidirão juros, contados a partir de 30 de Junho de 1986 até 30 de Junho de 1996 ou até à data do seu completo reembolso, calculados na base de seis meses, renovável, aplicando-se a taxa LIBOR a seis meses em vigor às 11 horas de Londres no segundo dia útil imediatamente anterior ao início de cada novo período semestral, acrescida de uma margem que será fixada no contrato de empréstimo referido no artigo seguinte. Os juros calculados serão pagos em dólares dos Estados Unidos da América, a partir de 31 de Dezembro de 1986.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "1072 I SÉRIE - NÚMERO 25", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Artigo 6.º", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Entre o Banco de Moçambique, como mutuário, e um consórcio de instituições de crédito portuguesas, como mutuante, será celebrado o necessário contrato de empréstimo para formalização da referida consolidação.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Artigo 7.º", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "O financiamento a que se reporta a presente consolidação será objecto do aval do Estado Português, sendo a respectiva comissão de 1% contabilizada como despesa de cooperação com a República Popular de Moçambique, sem prejuízo do esforço que, neste campo, tem vindo a ser desenvolvido com aquele país.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Artigo 8.º", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "O Governo fica ainda autorizado ao abrigo do n.º 2 do artigo 168.º da Constituição a isentar todos os pagamentos decorrentes do contrato de empréstimo a que alude o artigo 6.º de impostos e taxas de qualquer natureza, presentes ou futuros.\nVamos agora proceder à votação final global da proposta de lei.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "António Capucho", 
    "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do PS, do PRD, do PCP e do MDP/CDE e a abstenção do CDS.\nTem a palavra o Sr. Deputado Guido Rodrigues, para uma declaração de voto.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Guido Rodrigues* (PSD): Sr. Presidente, Srs. Deputados: Votámos favoravelmente a proposta de lei n. º 47/IV, pois consideramos que era absolutamente necessário proceder à regularização ... Sr. Presidente, não tenho condições para me fazer ouvir...", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guido Rodrigues", 
+   "text": "Sr. Presidente, Srs. Deputados: Votámos favoravelmente a proposta de lei n. º 47/IV, pois consideramos que era absolutamente necessário proceder à regularização ... Sr. Presidente, não tenho condições para me fazer ouvir...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Previno os Srs. Deputados que já estão a abandonar a sala de que há sessão na segunda-feira, às 15 horas.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Previno os Srs. Deputados que já estão a abandonar a sala de que há sessão na segunda-feira, às 15 horas.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Peço a palavra, Sr. Presidente, para interpelar a Mesa, pois o que se está a passar é...", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Peço a palavra, Sr. Presidente, para interpelar a Mesa, pois o que se está a passar é...", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Deputado Gomes de Pinho, não lhe posso conceder agora a palavra, uma vez que o Sr. Deputado Guido Rodrigues estava no início da sua declaração de voto.\nFaça favor de continuar, Sr. Deputado Guido Rodrigues.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Gomes de Pinho, não lhe posso conceder agora a palavra, uma vez que o Sr. Deputado Guido Rodrigues estava no início da sua declaração de voto.\nFaça favor de continuar, Sr. Deputado Guido Rodrigues.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Sr. Presidente, não tenho qualquer objecção a que o Sr.Deputado Gomes de Pinho me faça uma interrupção, se o Sr. Presidente assim o entender.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, não tenho qualquer objecção a que o Sr.Deputado Gomes de Pinho me faça uma interrupção, se o Sr. Presidente assim o entender.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Se o Sr. Deputado Guido Rodrigues a concede, tem a palavra o Sr. Deputado Gomes de Pinho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Se o Sr. Deputado Guido Rodrigues a concede, tem a palavra o Sr. Deputado Gomes de Pinho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, achei estranho que V.\nEx.ª anunciasse a ordem de trabalhos...", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, achei estranho que V.\nEx.ª anunciasse a ordem de trabalhos...", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Mas eu não anunciei a ordem de trabalhos...", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Mas eu não anunciei a ordem de trabalhos...", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): É que a sessão ainda não acabou.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "É que a sessão ainda não acabou.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Não acabou, mas alguns dos Srs. Deputados estava a sair e têm de saber que na segunda-feira há sessão plenária, logo fiz essa prevenção.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Não acabou, mas alguns dos Srs. Deputados estava a sair e têm de saber que na segunda-feira há sessão plenária, logo fiz essa prevenção.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, é que nós apresentámos um requerimento para prolongamento da sessão, que julgo já ter dado entrada na", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, é que nós apresentámos um requerimento para prolongamento da sessão, que julgo já ter dado entrada na", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
    "text": "Mesa.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Como o Sr. Deputado Guido Rodrigues estava a produzir uma declaração de voto, tem V. Ex.ª a palavra para esse efeito.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Como o Sr. Deputado Guido Rodrigues estava a produzir uma declaração de voto, tem V. Ex.ª a palavra para esse efeito.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Sr. Presidente, Srs. Deputados: Voltando ao princípio da minha declaração de voto, estava eu a dizer que votámos favoravelmente a proposta de lei n.º 47/IV em causa, pois consideramos que era absolutamente necessário proceder à regularização dos créditos comerciais portugueses sobre Moçambique, não só por razões políticas óbvias de apoio e cooperação com aquele país africano de expressão portuguesa, mas também por razões estritamente técnicas de carácter financeiro e comercial de uso internacionalmente aceite.\nComo se voltou aqui a falar em falta de informações prestadas pelo Governo, impõe-se-me referir, de novo, que os Srs. Deputados não solicitaram sobre a matéria, no momento oportuno, na Comissão de Economia, Finanças e Plano, informações concretas objectivas, as tais listagens que seriam obviamente fornecidas pelo Governo e postas à disposição de todos os Srs. Deputados.\nNa realidade, Sr. Presidente e Srs. Deputados, a aprovação desta proposta de lei tem um significado político importante e é esse facto que desejo salientar, a finalizar esta declaração de voto. É um novo esforço de cooperação e apoio importante de Portugal a Moçambique e este esforço terá de ter a contrapartida respectiva.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Srs. Deputados: Voltando ao princípio da minha declaração de voto, estava eu a dizer que votámos favoravelmente a proposta de lei n.º 47/IV em causa, pois consideramos que era absolutamente necessário proceder à regularização dos créditos comerciais portugueses sobre Moçambique, não só por razões políticas óbvias de apoio e cooperação com aquele país africano de expressão portuguesa, mas também por razões estritamente técnicas de carácter financeiro e comercial de uso internacionalmente aceite.\nComo se voltou aqui a falar em falta de informações prestadas pelo Governo, impõe-se-me referir, de novo, que os Srs. Deputados não solicitaram sobre a matéria, no momento oportuno, na Comissão de Economia, Finanças e Plano, informações concretas objectivas, as tais listagens que seriam obviamente fornecidas pelo Governo e postas à disposição de todos os Srs. Deputados.\nNa realidade, Sr. Presidente e Srs. Deputados, a aprovação desta proposta de lei tem um significado político importante e é esse facto que desejo salientar, a finalizar esta declaração de voto. É um novo esforço de cooperação e apoio importante de Portugal a Moçambique e este esforço terá de ter a contrapartida respectiva.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, deu entrada na Mesa um requerimento para o prolongamento da sessão, subscrito pelo Sr. Deputado Gomes de Pinho, que vai ser lido.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, deu entrada na Mesa um requerimento para o prolongamento da sessão, subscrito pelo Sr. Deputado Gomes de Pinho, que vai ser lido.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lacão* (PS): Os requerimentos não têm de ter dez assinaturas? \nFoi lido. É o seguinte:", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Jorge Lacão", 
+   "text": "Os requerimentos não têm de ter dez assinaturas? \nFoi lido. É o seguinte:\nOs deputados do CDS requerem, nos termos regimentais, o prolongamento da sessão até que sejam prestadas as informações solicitadas ao Governo sobre a situação dos portugueses que haviam sido, ou vão ser, libertados de Moçambique.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Os deputados do CDS requerem, nos termos regimentais, o prolongamento da sessão até que sejam prestadas as informações solicitadas ao Governo sobre a situação dos portugueses que haviam sido, ou vão ser, libertados de Moçambique.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o requerimento do CDS destina-se a prolongar a sessão até que o Governo preste esclarecimentos sobre a situação dos 20 DE DEZEMBRO DE 1986 1073", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, o requerimento do CDS destina-se a prolongar a sessão até que o Governo preste esclarecimentos sobre a situação dos", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "20 DE DEZEMBRO DE 1986 1073", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "portugueses que haviam sido, ou vão ser, postos em liberdade. No entanto, o requerimento tem de ter dez assinaturas, como verificamos agora pelo Regimento, e nele consta apenas uma.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Risos.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Deste modo, se não é preenchido o número de assinaturas regimentais, não posso admitir o requerimento, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Magalhães Mota* (PRD): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Magalhães Mota* (PRD): Sr. Presidente, a minha interpelação vai no sentido de saber se esse requerimento vai ou não ser admitido pela Mesa.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
+   "text": "Sr. Presidente, a minha interpelação vai no sentido de saber se esse requerimento vai ou não ser admitido pela Mesa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Deputado, não posso admiti-lo, porque não tem as dez assinaturas regimentalmente exigidas. Porém, naturalmente que deixo ao Sr. Deputado Gomes de Pinho a possibilidade de completar as referidas assinaturas.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, não posso admiti-lo, porque não tem as dez assinaturas regimentalmente exigidas. Porém, naturalmente que deixo ao Sr. Deputado Gomes de Pinho a possibilidade de completar as referidas assinaturas.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Magalhães Mota* (PRD): Então, anuncio desde já que, pela nossa parte e caso V. Ex.ª admita este requerimento, recorreremos da decisão da Mesa.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
+   "text": "Então, anuncio desde já que, pela nossa parte e caso V. Ex.ª admita este requerimento, recorreremos da decisão da Mesa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Borges de Carvalho (Indep): Agora é que se lembrou do \nRegimento! Ontem não havia Regimento para ninguém!", 
-   "type": "deputado_continuacao"
+   "text": "Agora é que se lembrou do Regimento! Ontem não havia Regimento para ninguém!", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Peço a palavra para interpelar a Mesa, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Peço a palavra para interpelar a Mesa, Sr. Deputado.", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, gostaria de interpelar a Mesa no sentido de saber qual o fundamento regimental da afirmação feita por V. Ex.\" de que seriam necessárias dez assinaturas para que este requerimento pudesse ser admitido.\nNo entanto, penso que o importante não é saber se o requerimento tem ou não dez assinaturas, pois é evidente que há mais do que dez deputados nesta Câmara que estão interessados em que o Governo preste essas informações.\nPermitia-me apenas referir, dado que, porventura, o requerimento não foi correctamente lido, que ele se destina a prolongar a sessão até que o Governo nos informe se pode ou não prestar informações sobre a situação dos portugueses que foram ou estavam para ser libertados.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, gostaria de interpelar a Mesa no sentido de saber qual o fundamento regimental da afirmação feita por V. Ex.\" de que seriam necessárias dez assinaturas para que este requerimento pudesse ser admitido.\nNo entanto, penso que o importante não é saber se o requerimento tem ou não dez assinaturas, pois é evidente que há mais do que dez deputados nesta Câmara que estão interessados em que o Governo preste essas informações.\nPermitia-me apenas referir, dado que, porventura, o requerimento não foi correctamente lido, que ele se destina a prolongar a sessão até que o Governo nos informe se pode ou não prestar informações sobre a situação dos portugueses que foram ou estavam para ser libertados.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Aguardo que o requerimento chegue à Mesa já com as devidas assinaturas, tendo o Sr. Deputado Magalhães Mota anunciado já que vai dele interpor recurso.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Aguardo que o requerimento chegue à Mesa já com as devidas assinaturas, tendo o Sr. Deputado Magalhães Mota anunciado já que vai dele interpor recurso.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, o requerimento está admitido, e, como o Sr. Deputado Magalhães Mota interpõe recurso, dou-lhe a palavra, a fim de que deduza as razões desse mesmo recurso.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Magalhães Mota* (PRD): Sr. Presidente, Srs. Deputados: Creio ser evidente para a Câmara que o requerimento não tem objecto e que não pode, portanto, ser votado.\nCom efeito, se o Governo tivesse a obrigação jurídica de, em determinado tempo, vir à Câmara prestar esclarecimentos, o requerimento tinha objecto. Porém, como essa obrigação não existe, o requerimento pode ter como significado que a Assembleia fique reunida, em sessão permanente, durante todo o tempo que o Governo entenda demorar a prestação desses esclarecimentos. Obviamente que seria uma \nresponsabilidade política do Governo, mas o requerimento não tem objecto e, como tal, não pode ser votado.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Magalhães Mota", 
+   "text": "Sr. Presidente, Srs. Deputados: Creio ser evidente para a Câmara que o requerimento não tem objecto e que não pode, portanto, ser votado.\nCom efeito, se o Governo tivesse a obrigação jurídica de, em determinado tempo, vir à Câmara prestar esclarecimentos, o requerimento tinha objecto. Porém, como essa obrigação não existe, o requerimento pode ter como significado que a Assembleia fique reunida, em sessão permanente, durante todo o tempo que o Governo entenda demorar a prestação desses esclarecimentos. Obviamente que seria uma \nresponsabilidade política do Governo, mas o requerimento não tem objecto e, como tal, não pode ser votado.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PRD e do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PRD e do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Deputado Gomes de Pinho, não lhe posso dar a palavra, pois houve um recurso interposto pelo Sr. Deputado Magalhães Mota, tendo este Sr. Deputado exposto as razões pelas quais interpôs recurso. Assim sendo, iremos, de imediato, passar à respectiva votação.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Gomes de Pinho, não lhe posso dar a palavra, pois houve um recurso interposto pelo Sr. Deputado Magalhães Mota, tendo este Sr. Deputado exposto as razões pelas quais interpôs recurso. Assim sendo, iremos, de imediato, passar à respectiva votação.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, peço a palavra.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: O Sr. Deputado pretende usar da palavra para que efeito?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado pretende usar da palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, eu não queria protelar a discussão deste requerimento, mas penso que é razoável que nós votemos com plena consciência do que estamos a fazer.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, eu não queria protelar a discussão deste requerimento, mas penso que é razoável que nós votemos com plena consciência do que estamos a fazer.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Penso que todos os deputados têm plena consciência do que estão a fazer, Sr. Deputado Gomes de Pinho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Penso que todos os deputados têm plena consciência do que estão a fazer, Sr. Deputado Gomes de Pinho.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Pela nossa parte, gostaríamos de não ter dúvidas quanto a isso. De facto, o objecto do requerimento é muito claro: é permitir que o Sr. Presidente conclua uma diligência que fez junto do Governo, que materialmente demora algum tempo - talvez cinco ou dez minutos... Nós podemos admitir até que se fixe um certo espaço de tempo para resolver a questão, pois compreendemos que o problema levantado pelo Sr.Deputado Magalhães Mota seria um problema grave. Assim, propomos um período de quinze minutos, por exemplo.\nPensamos que é razoável que se dê ao Sr. Presidente e ao Governo tempo para concluírem uma diligência que permita que esta Câmara seja informada. Estamos apenas no plano da razoabilidade e da defesa da dignidade desta instituição.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Pela nossa parte, gostaríamos de não ter dúvidas quanto a isso. De facto, o objecto do requerimento é muito claro: é permitir que o Sr. Presidente conclua uma diligência que fez junto do Governo, que materialmente demora algum tempo - talvez cinco ou dez minutos... Nós podemos admitir até que se fixe um certo espaço de tempo para resolver a questão, pois compreendemos que o problema levantado pelo Sr.Deputado Magalhães Mota seria um problema grave. Assim, propomos um período de quinze minutos, por exemplo.\nPensamos que é razoável que se dê ao Sr. Presidente e ao Governo tempo para concluírem uma diligência que permita que esta Câmara seja informada. Estamos apenas no plano da razoabilidade e da defesa da dignidade desta instituição.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos votar o recurso interposto pelo Sr. Deputado Magalhães Mota da admissão do requerimento.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos votar o recurso interposto pelo Sr. Deputado Magalhães Mota da admissão do requerimento.\nSubmetido à votação, foi aprovado, com votos favoráveis do PSD, do PRD, do PCP e do MDP/CDE, votos contra do PS e do CDS e abstenção do Sr.Deputado Marques Júnior, do PRD.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Submetido à votação, foi aprovado, com votos favoráveis do PSD, do PRD, do PCP e do MDP/CDE, votos contra do PS e do CDS e abstenção do Sr.Deputado Marques Júnior, do PRD.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "1074 I SÉRIE - NÚMERO 25", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, foi rejeitada a admissão do requerimento, pelo que não temos mais de nos pronunciar sobre o prolongamento da sessão.\nO Sr. Deputado José Gama pede a palavra para que efeito?", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Gama* (CDS): Para uma declaração de voto.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "José Gama", 
+   "text": "Para uma declaração de voto.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: O Sr. Deputado Carlos Brito também pediu a palavra para uma declaração de voto?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Carlos Brito também pediu a palavra para uma declaração de voto?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sim, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sim, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, não há declaração de voto nesta matéria.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, não há declaração de voto nesta matéria.\nChegamos, assim, ao final da nossa sessão. Visto que não há \nprolongamento da sessão, a sessão terminou....", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Chegamos, assim, ao final da nossa sessão. Visto que não há \nprolongamento da sessão, a sessão terminou....", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, reconheço que, na verdade, o Regimento não fixa o direito de os grupos parlamentares fazerem declarações de voto relativamente à votação de requerimentos. Porém, a praxe parlamentar tem admitido que, em certas circunstâncias, seja permitido aos partidos fazerem uma declaração de voto.\nPenso que a presente circunstância mais do que justifica que cada partido deixe clara a razão por que votou a favor ou contra o requerimento apresentado.\nAssim, propúnhamos que fosse concedido a cada grupo parlamentar um período muito curto,-de três minutos- para que houvesse a possibilidade de fazer essa declaração de voto.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, reconheço que, na verdade, o Regimento não fixa o direito de os grupos parlamentares fazerem declarações de voto relativamente à votação de requerimentos. Porém, a praxe parlamentar tem admitido que, em certas circunstâncias, seja permitido aos partidos fazerem uma declaração de voto.\nPenso que a presente circunstância mais do que justifica que cada partido deixe clara a razão por que votou a favor ou contra o requerimento apresentado.\nAssim, propúnhamos que fosse concedido a cada grupo parlamentar um período muito curto,-de três minutos- para que houvesse a possibilidade de fazer essa declaração de voto.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "António Capucho", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Capucho* (PSD): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Capucho* (PSD): O Grupo Parlamentar do PSD não poderá tolerar que se invoque a praxe que tem sido adoptada nesta Câmara - aliás, duvido que de facto, neste caso se possa invocar a praxe - para abandalhar os trabalhos - é a expressão, Sr. Presidente... Na verdade, podem-se fazer declarações de voto, mas escritas, e não daremos o nosso consenso para que seja ultrapassado o Regimento.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "António Capucho", 
+   "text": "O Grupo Parlamentar do PSD não poderá tolerar que se invoque a praxe que tem sido adoptada nesta Câmara - aliás, duvido que de facto, neste caso se possa invocar a praxe - para abandalhar os trabalhos - é a expressão, Sr. Presidente... Na verdade, podem-se fazer declarações de voto, mas escritas, e não daremos o nosso consenso para que seja ultrapassado o Regimento.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Peço a palavra, Sr. Presidente.", 
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Carlos Brito, naturalmente que, se houver consenso, essas declarações de voto se podem fazer. Porém, a partir do momento em que há um Sr. Deputado que invoca o Regimento e não dá o seu acordo, não lhe posso dar a palavra para uma declaração de voto.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, como se tornou claro da posição que o meu grupo parlamentar assumiu logo que o Sr. Deputado Gomes de Pinho fez a sua primeira interpelação à Mesa, estamos verdadeiramente preocupados com a situação do grupo de portugueses...\nProtestos do PSD.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Tenham calma!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Não estou a fazer uma declaração de voto, mas apenas a fundamentar a proposta que vou fazer.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Deputado Carlos Brito, naturalmente que, se houver consenso, essas declarações de voto se podem fazer. Porém, a partir do momento em que há um Sr. Deputado que invoca o Regimento e não dá o seu acordo, não lhe posso dar a palavra para uma declaração de voto.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, como se tornou claro da posição que o meu grupo parlamentar assumiu logo que o Sr. Deputado Gomes de Pinho fez a sua primeira interpelação à Mesa, estamos verdadeiramente preocupados com a situação do grupo de portugueses...", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Protestos do PSD.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Tenham calma!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Não estou a fazer uma declaração de voto, mas apenas a fundamentar a proposta que vou fazer.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Protestos do PSD.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Estamos realmente preocupados com a situação que estamos aqui a discutir. Por isso mesmo, entendemos que a Assembleia da República não deve suspender os seus trabalhos sem tomar qualquer medida.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Protestos do PSD.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Pareceu-nos absurdo que a Assembleia ficasse reunida em permanência...", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Isto não é uma declaração de voto!", 
+   "speaker": "Vozes do PSD", 
+   "text": "Isto não é uma declaração de voto!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "... mas propomos que a conferência dos presidentes dos grupos parlamentares -essa sim- seja convocada para logo a seguir à hora do almoço e fique reunida durante a tarde para receber um esclarecimento do Governo.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: ... mas propomos que a conferência dos presidentes dos grupos parlamentares -essa sim- seja convocada para logo a seguir à hora do almoço e fique reunida durante a tarde para receber um esclarecimento do Governo.", 
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Por outro lado, gostaria de saber -esse é o sentido da minha interpelação- se o Sr. Presidente concorda em que a conferência dos presidentes dos grupos parlamentares fique reunida em permanência, juntamente com o Sr. Presidente, até obtermos uma resposta da parte do Governo.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Por outro lado, gostaria de saber -esse é o sentido da minha interpelação- se o Sr. Presidente concorda em que a conferência dos presidentes dos grupos parlamentares fique reunida em permanência, juntamente com o Sr. Presidente, até obtermos uma resposta da parte do Governo.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Protestos do PSD.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, creio que a sessão está encerrada e que este é um prolongamento artificial, já que a sessão terminava às 13 horas.\nPor isso, a sessão já está encerrada.\nFoi, no entanto, proposto pelo Sr. Deputado Carlos Brito que se reunisse a conferência de líderes parlamentares. Não vejo como é que neste momento se torna exequível essa reunião, a não ser que fale com o Sr. Presidente Fernando Amaral nesse sentido.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, creio que a sessão está encerrada e que este é um prolongamento artificial, já que a sessão terminava às 13 horas.\nPor isso, a sessão já está encerrada.\nFoi, no entanto, proposto pelo Sr. Deputado Carlos Brito que se reunisse a conferência de líderes parlamentares. Não vejo como é que neste momento se torna exequível essa reunião, a não ser que fale com o Sr. Presidente Fernando Amaral nesse sentido.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PCP: Convoque! Estamos aqui todos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Convoque! Estamos aqui todos.", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Gomes de Pinho* (CDS): Sr. Presidente, é óbvio que neste momento, como em muitas outras circunstâncias que vivemos nesta Câmara, a sessão ainda não terminou, tanto mais que continuamos a discutir esta questão.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
+   "text": "Sr. Presidente, é óbvio que neste momento, como em muitas outras circunstâncias que vivemos nesta Câmara, a sessão ainda não terminou, tanto mais que continuamos a discutir esta questão.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
    "text": "20 DE DEZEMBRO DE 1986 1075", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "CDS", 
+   "speaker": "Gomes de Pinho", 
    "text": "Quero aproveitar esta ocasião para dizer que estamos plenamente de acordo com a proposta feita pelo Partido Comunista sobre esta matéria, embora não a consideremos a melhor solução para o problema que tínhamos colocado. Estamos, no entanto, de acordo com ela.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, é um direito do Sr. Presidente da Assembleia da República o de convocar a conferência de líderes para o momento que achar oportuno.\nVou entrar em contacto com o Sr. Presidente Fernando Amaral a fim de convocar a conferência, se ele assim o entender. Isto porque não é aqui, neste momento, que estou em condições de proceder a essa convocação.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, é um direito do Sr. Presidente da Assembleia da República o de convocar a conferência de líderes para o momento que achar oportuno.\nVou entrar em contacto com o Sr. Presidente Fernando Amaral a fim de convocar a conferência, se ele assim o entender. Isto porque não é aqui, neste momento, que estou em condições de proceder a essa convocação.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Bruto* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Bruto", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, quero, como interpelação à Mesa, propor também que essa reunião da conferência de líderes se realize às 15 horas e pedir ao Sr. Presidente em exercício que transmita esta proposta ao Sr. Presidente da Assembleia da República.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, quero, como interpelação à Mesa, propor também que essa reunião da conferência de líderes se realize às 15 horas e pedir ao Sr. Presidente em exercício que transmita esta proposta ao Sr. Presidente da Assembleia da República.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Certo, Sr. Deputado, terei em consideração essa proposta do Sr. Deputado Carlos Brito.\nSrs. Deputados, a ordem de trabalhos da próxima sessão é a seguinte: \nratificações n.ºs 106/IV (PCP), 112/IV (PRD) e 115/IV (PS); propostas de lei n.ºs 48/IV e 49/IV; votação final global da lei quadro do licenciamento das estações emissoras de radiodifusão (a realizar às 18 horas); votação na especialidade e votação final global do orçamento suplementar da Assembleia da República para 1986 e do orçamento da Assembleia da República para 1987.\nA próxima sessão, que não terá período de antes da ordem do dia, terá lugar no próximo dia 22, às 15 horas.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Certo, Sr. Deputado, terei em consideração essa proposta do Sr. Deputado Carlos Brito.\nSrs. Deputados, a ordem de trabalhos da próxima sessão é a seguinte: \nratificações n.ºs 106/IV (PCP), 112/IV (PRD) e 115/IV (PS); propostas de lei n.ºs 48/IV e 49/IV; votação final global da lei quadro do licenciamento das estações emissoras de radiodifusão (a realizar às 18 horas); votação na especialidade e votação final global do orçamento suplementar da Assembleia da República para 1986 e do orçamento da Assembleia da República para 1987.\nA próxima sessão, que não terá período de antes da ordem do dia, terá lugar no próximo dia 22, às 15 horas.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para que efeito, Sr. Deputado?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para que efeito, Sr. Deputado?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): É para interpelar a Mesa, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "É para interpelar a Mesa, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, certamente por uma certa confusão que se gerou no fim da reunião, V. Ex.ª, antes de ter anunciado a ordem do dia da próxima sessão, anunciou que já tinha encerrado a reunião. Com certeza que se tratou de um lapso por parte da Mesa e que esta irá, logicamente, corrigir. Portanto, a interpelação que formulo vai nesse sentido, para que não restem quaisquer dúvidas quanto à convocação da próxima reunião.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, certamente por uma certa confusão que se gerou no fim da reunião, V. Ex.ª, antes de ter anunciado a ordem do dia da próxima sessão, anunciou que já tinha encerrado a reunião. Com certeza que se tratou de um lapso por parte da Mesa e que esta irá, logicamente, corrigir. Portanto, a interpelação que formulo vai nesse sentido, para que não restem quaisquer dúvidas quanto à convocação da próxima reunião.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Certamente, Sr. Deputado. Aliás, creio que não haverá problemas quanto a esse respeito nem dúvidas quanto à ordem de trabalhos.\nEstá encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Certamente, Sr. Deputado. Aliás, creio que não haverá problemas quanto a esse respeito nem dúvidas quanto à ordem de trabalhos.\nEstá encerrada a sessão.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 13 horas e 15 minutos.", 
@@ -1406,19 +1465,19 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "Abílio Gaspar Rodrigues.\nÁlvaro Barros Marques de Figueiredo.\nAntónio Paulo Pereira Coelho.\nAurora Margarida Borges de Carvalho.\nCecília Pita Catarino.\nCristóvão Guerreiro Norte.\nDinah Serrão Alhandra.\nFernando José Alves Figueiredo.\nFernando José Russo Roque Correia Afonso.\nFrancisco Mendes Costa.\nJoão Álvaro Poças Santos.\nJoaquim Eduardo Gomes.\nJosé Ângelo Ferreira Correia.\nJosé Augusto Santos Silva Marques.\nJosé Júlio Vieira Mesquita.\nJosé Luís Bonifácio Ramos.\nJosé Manuel Rodrigues Casqueiro.\nLuís Manuel Costa Geraldes.\nMário Jorge Belo Maciel.\nVasco Francisco Aguiar Miguel.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

@@ -515,50 +515,47 @@
   {
    "party": "António Filipe", 
    "speaker": "Presidente", 
-   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Luís Pita Ameixa.\nO Sr. *Luís Pita Ameixa* (PS): Sr. Presidente, Sr. Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, quero, em meu nome pessoal e em nome do Grupo Parlamentar do Partido Socialista, colocar algumas questões a V. Ex.ª a respeito da sua intervenção e do PNPOT, mas não sem antes cumprir o que julgo ser o dever político do Parlamento, que é saudar o Governo por ter trazido aqui o PNPOT, porque é um facto inédito. Ainda que muitos anteriormente tenham «patinado» ou «surfado» em cima de vários papéis, há uma coisa que conta, que é a concretização.", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr. Deputado Luís Pita Ameixa.", 
    "type": "presidente_temapalavra"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "Risos do CDS-PP.", 
-   "type": "presidente_continuacao"
+   "party": "PS", 
+   "speaker": "Luís Pita Ameixa", 
+   "text": "Sr. Presidente, Sr. Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, quero, em meu nome pessoal e em nome do Grupo Parlamentar do Partido Socialista, colocar algumas questões a V. Ex.ª a respeito da sua intervenção e do PNPOT, mas não sem antes cumprir o que julgo ser o dever político do Parlamento, que é saudar o Governo por ter trazido aqui o PNPOT, porque é um facto inédito. Ainda que muitos anteriormente tenham «patinado» ou «surfado» em cima de vários papéis, há uma coisa que conta, que é a concretização.\nRisos do CDS-PP.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
+   "party": "PS", 
+   "speaker": "Luís Pita Ameixa", 
    "text": "E, pela primeira vez, na nossa história política, alguém ou algum governo submete ao Parlamento um Programa Nacional da Política do Ordenamento do Território, para que este o discuta, o aprove e o entregue ao País para ser aplicado.", 
-   "type": "presidente_continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "presidente_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *António Carlos Monteiro* (CDS-PP): Agora, convinha explicar aqueles que escondeu e não trouxe cá!", 
-   "type": "presidente_continuacao"
+   "party": "CDS-PP", 
+   "speaker": "António Carlos Monteiro", 
+   "text": "Agora, convinha explicar aqueles que escondeu e não trouxe cá!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: O primeiro ponto que quero colocar, Sr. Ministro, diz justamente respeito às relações que existem entre os órgãos do poder político para a gestão do PNPOT e de toda a política e instrumentos do ordenamento do território.\nO poder central e a administração local, ambos, têm um papel a desempenhar nesta matéria, designadamente na sua gestão e na sua aplicação. A construção e a completude de todo o edifício do ordenamento do território dará, designadamente às autarquias locais, uma maior autonomia nas suas competências em matéria de poder local, libertando-as de diversas aprovações governamentais.\nPortanto, a primeira questão que lhe coloco é sobre esta, como agora se diz, governança do ordenamento do território no que respeita aos vários níveis do poder político.\nEm segundo lugar, é de notar também que o crescimento económico mundial e nacional é sobretudo um crescimento económico baseado no terciário.\nOra, esta circunstância faz com que ele se torne um crescimento com uma incidência sobretudo urbana e, portanto, isto coloca-nos dificuldades e questões no que diz respeito ao equilíbrio territorial no plano social e no plano demográfico. Qual é o papel do Estado? Para o Governo e para o PNPOT, qual deve ser o papel do Estado para promover os equilíbrios da ocupação do nosso território?", 
-   "type": "presidente_continuacao"
+   "speaker": "O Orador", 
+   "text": "O primeiro ponto que quero colocar, Sr. Ministro, diz justamente respeito às relações que existem entre os órgãos do poder político para a gestão do PNPOT e de toda a política e instrumentos do ordenamento do território.\nO poder central e a administração local, ambos, têm um papel a desempenhar nesta matéria, designadamente na sua gestão e na sua aplicação. A construção e a completude de todo o edifício do ordenamento do território dará, designadamente às autarquias locais, uma maior autonomia nas suas competências em matéria de poder local, libertando-as de diversas aprovações governamentais.\nPortanto, a primeira questão que lhe coloco é sobre esta, como agora se diz, governança do ordenamento do território no que respeita aos vários níveis do poder político.\nEm segundo lugar, é de notar também que o crescimento económico mundial e nacional é sobretudo um crescimento económico baseado no terciário.\nOra, esta circunstância faz com que ele se torne um crescimento com uma incidência sobretudo urbana e, portanto, isto coloca-nos dificuldades e questões no que diz respeito ao equilíbrio territorial no plano social e no plano demográfico. Qual é o papel do Estado? Para o Governo e para o PNPOT, qual deve ser o papel do Estado para promover os equilíbrios da ocupação do nosso território?", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *Nuno Magalhães* (CDS-PP): Essa é uma pergunta difícil!", 
-   "type": "presidente_continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Nuno Magalhães", 
+   "text": "Essa é uma pergunta difícil!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: Finalmente, quero também sublinhar a ligação que há entre o PNPOT e o QREN. O PNPOT vigorará até 2025 mas tem medidas até 2013, que estão coadunadas com o período de vigência do QREN.\nTemos um problema de coesão do território e um problema de \ncompetitividade e a questão que quero colocar ao Sr. Ministro, porque essa competitividade pode pôr problemas de concentracionismo que sejam deficientes para a ocupação do território, é quais são, na visão do Governo, as nossas linhas de promoção da competitividade regionalmente diferenciada para «casar» a política de ordenamento do território com a aplicação do QREN para o período até 2013.", 
-   "type": "presidente_continuacao"
+   "speaker": "O Orador", 
+   "text": "Finalmente, quero também sublinhar a ligação que há entre o PNPOT e o QREN. O PNPOT vigorará até 2025 mas tem medidas até 2013, que estão coadunadas com o período de vigência do QREN.\nTemos um problema de coesão do território e um problema de \ncompetitividade e a questão que quero colocar ao Sr. Ministro, porque essa competitividade pode pôr problemas de concentracionismo que sejam deficientes para a ocupação do território, é quais são, na visão do Governo, as nossas linhas de promoção da competitividade regionalmente diferenciada para «casar» a política de ordenamento do território com a aplicação do QREN para o período até 2013.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
@@ -567,220 +564,194 @@
   {
    "party": "António Filipe", 
    "speaker": "Presidente", 
-   "text": "O Sr. *Presidente* (António Filipe): Para responder, tem a palavra o Sr. Ministro do Ambiente, do Ordenamento do Território e do \nDesenvolvimento Regional.", 
+   "text": "Para responder, tem a palavra o Sr. Ministro do Ambiente, do Ordenamento do Território e do \nDesenvolvimento Regional.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "speaker": "O Sr. Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional", 
+   "text": "Sr.Presidente, Srs. Deputados, se me permitem, começarei por responder por ordem inversa dos pedidos de esclarecimento.", 
    "type": "presidente_continuacao"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional: Sr.Presidente, Srs. Deputados, se me permitem, começarei por responder por ordem inversa dos pedidos de esclarecimento.", 
-   "type": "presidente_continuacao"
+   "party": "CDS-PP", 
+   "speaker": "António Carlos Monteiro", 
+   "text": "É mais fácil!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *António Carlos Monteiro* (CDS-PP): É mais fácil!", 
-   "type": "presidente_continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado Luís Pita Ameixa, concordo inteiramente com as considerações que fez. É mais fácil falar do que fazer, é mais fácil pôr recados nos jornais do que concretizar documentos com a envergadura que estes têm, e é por isso que algumas bancadas, numa interpretação que aos meus olhos me parece insólita do mandato que lhes foi dado, em vez de virem aqui fazer críticas profundas e construtivas, \nmanifestando, naturalmente, as suas opções e os seus pontos de vista, perdem os seus minutos a dizer que disse, que criticou, que já fez e que já tinha feito. Alheemo-nos, pois, desse espírito, que não nos leva a coisa nenhuma, nem julgamos que seja isso o que o povo português espera de nós.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: Sr. Deputado Luís Pita Ameixa, concordo inteiramente com as considerações que fez. É mais fácil falar do que fazer, é mais fácil pôr recados nos jornais do que concretizar documentos com a envergadura que estes têm, e é por isso que algumas bancadas, numa interpretação que aos meus olhos me parece insólita do mandato que lhes foi dado, em vez de virem aqui fazer críticas profundas e construtivas, \nmanifestando, naturalmente, as suas opções e os seus pontos de vista, perdem os seus minutos a dizer que disse, que criticou, que já fez e que já tinha feito. Alheemo-nos, pois, desse espírito, que não nos leva a coisa nenhuma, nem julgamos que seja isso o que o povo português espera de nós.", 
-   "type": "presidente_continuacao"
+   "party": "PS", 
+   "speaker": "Afonso Candal", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *Afonso Candal* (PS): Muito bem!", 
-   "type": "presidente_continuacao"
+   "speaker": "O Orador", 
+   "text": "As suas questões, Sr. Deputado, são de uma grande pertinência. As cidades, hoje, desempenham um papel absolutamente crucial como motores do desenvolvimento regional, elas são as verdadeiras âncoras do desenvolvimento regional. Aliás, na política de cidades que tem vindo a ser formulada, a relação entre a cidade e a sua região envolvente é uma das facetas que queremos sublinhar, que queremos potenciar e que, justamente, no quadro do QREN e precisamente no quadro do PNPOT, como não poderia deixar de ser, é bastante acentuada. Sabemos que existem regiões onde a desertificação humana e a rarefacção das actividades económicas criam desafios muito particulares ao nosso país.\nComo sabem, as questões da competitividade podem ser vistas a várias escalas. Há uma escala nacional que, em primeiro lugar, nos tem de preocupar, porque ela se reflecte a todos os outros níveis, mas também há uma escala local de que não nos podemos dissociar. Por isso, o conceito de competitividade, enquanto estrangulamento para as políticas de coesão, enquanto estrangulamento para as políticas de \ndesenvolvimento regional, é um conceito fundamental. Mas temos de olhar para a competitividade como algo de regionalmente diferenciado, como disse, e muito bem.\nQual o papel do Estado? A pergunta é muito pertinente e estas são as questões que julgo que vale a pena discutir numa Assembleia como esta.\nO Estado tem um papel essencial, desde logo naquilo a que se chama as falhas de mercado, criando um conjunto de incentivos e de estímulos que permitam, nas zonas que mais dificuldade têm em afirmar a sua especificidade e a sua capacidade competitiva, promovê-la.\nEm primeiro lugar, no quadro do PNPOT, como no quadro do QREN, isso está bem saliente, desde logo na política de cidades, que mesmo agora referi, que é uma alavanca dos processos de desenvolvimento regional.\nEm segundo lugar, uma boa parte do QREN é dedicada ao estímulo à economia, às empresas, mas há uma modelação regional desses incentivos, e isso é também um elemento de diferenciação que queremos reter.\nEm terceiro lugar, através de um programa em que o nosso ministério tem posto grande empenho, que é o Programa de Valorização Económica de Recursos Endógenos, especialmente desenhado para regiões de baixa densidade e de baixa actividade económica.\nPortanto, Sr. Deputado, no escasso tempo que temos, estas são as respostas que me parecem pertinentes.\nApesar de tudo, respondamos às outras questões que nos foram colocadas.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: As suas questões, Sr. Deputado, são de uma grande \npertinência. As cidades, hoje, desempenham um papel absolutamente crucial como motores do desenvolvimento regional, elas são as verdadeiras âncoras do desenvolvimento regional. Aliás, na política de cidades que tem vindo a ser formulada, a relação entre a cidade e a sua região envolvente é uma das facetas que queremos sublinhar, que queremos potenciar e que, justamente, no quadro do QREN e precisamente no quadro do PNPOT, como não poderia deixar de ser, é bastante acentuada. Sabemos que existem regiões onde a desertificação humana e a rarefacção das actividades económicas criam desafios muito particulares ao nosso país.\nComo sabem, as questões da competitividade podem ser vistas a várias escalas. Há uma escala nacional que, em primeiro lugar, nos tem de preocupar, porque ela se reflecte a todos os outros níveis, mas também há uma escala local de que não nos podemos dissociar. Por isso, o conceito de competitividade, enquanto estrangulamento para as políticas de coesão, enquanto estrangulamento para as políticas de \ndesenvolvimento regional, é um conceito fundamental. Mas temos de olhar para a competitividade como algo de regionalmente diferenciado, como disse, e muito bem.\nQual o papel do Estado? A pergunta é muito pertinente e estas são as questões que julgo que vale a pena discutir numa Assembleia como esta.\nO Estado tem um papel essencial, desde logo naquilo a que se chama as falhas de mercado, criando um conjunto de incentivos e de estímulos que permitam, nas zonas que mais dificuldade têm em afirmar a sua especificidade e a sua capacidade competitiva, promovê-la.\nEm primeiro lugar, no quadro do PNPOT, como no quadro do QREN, isso está bem saliente, desde logo na política de cidades, que mesmo agora referi, que é uma alavanca dos processos de desenvolvimento regional.\nEm segundo lugar, uma boa parte do QREN é dedicada ao estímulo à economia, às empresas, mas há uma modelação regional desses incentivos, e isso é também um elemento de diferenciação que queremos reter.\nEm terceiro lugar, através de um programa em que o nosso ministério tem posto grande empenho, que é o Programa de Valorização Económica de Recursos Endógenos, especialmente desenhado para regiões de baixa densidade e de baixa actividade económica.\nPortanto, Sr. Deputado, no escasso tempo que temos, estas são as respostas que me parecem pertinentes.\nApesar de tudo, respondamos às outras questões que nos foram colocadas.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
+   "speaker": "O Orador", 
    "text": "Risos do PSD e do CDS-PP.", 
-   "type": "presidente_continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
+   "speaker": "O Orador", 
    "text": "O Sr. Deputado António Carlos Monteiro, com todo o respeito, mas talvez por ser um recém-chegado a estes temas, a estas áreas, não conhece alguns aspectos do ordenamento jurídico que as regem.\nO Sr. Deputado diz que aprovámos o PERSU por mera portaria.", 
-   "type": "presidente_continuacao"
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "António Carlos Monteiro", 
+   "text": "Devia ter cá vindo discuti-lo! O Orador: — Pois, Sr. Deputado, a lei que diz que o PERSU é aprovado por portaria. Não há outra maneira de o aprovar!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "António Carlos Monteiro", 
+   "text": "O Sr. Ministro fugiu à Assembleia!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "E essa lei é o regime geral dos resíduos, que é um decreto-lei enquadrador da questão dos resíduos, de importância fundamental, que nos coube a nós fazer.\nO Sr. Deputado diz que o PEAASAR não foi trazido a esta Assembleia para discussão. A sua memória é fraca, Sr. Deputado, porque tenho a certeza de que participei num debate apenas dedicado ao PEAASAR nesta Assembleia da República.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Faltou!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Julgo até que o Sr. Deputado estava lá e até me lembro que trocámos algumas impressões, aí sim, muito interessantes sobre a relação entre públicos e privados. O Sr. Deputado estava lá! Se trocámos essas impressões foi porque houve um debate na Assembleia da República!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "António Carlos Monteiro", 
+   "text": "O documento final não veio cá!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Depois, e isto é de bradar aos céus, o Sr. Deputado diz que, por uma questão de peso político – desculpe mas essa questão de peso político está estafada –,…", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "António Carlos Monteiro", 
+   "text": "Não está estafada, não, é real!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "… tem de vir à Assembleia, para ter a força de lei. Sr.Deputado, este programa vem a Assembleia porque, justamente, a Lei de Bases do Ordenamento do Território diz que o PNPOT, enquanto pedra de fecho do edifício dos instrumentos de gestão do território, é uma lei da Assembleia da República.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "CDS-PP", 
+   "speaker": "António Carlos Monteiro", 
+   "text": "Senão seria também por portaria!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "E aqui estamos nós a apresentá-la. Para nós, um ano e meio chegou, mas para os senhores três anos não chegaram! E isto leva-me rapidamente às questões colocadas pelo Sr. Deputado José Eduardo Martins.\nO Sr. Deputado tem razão. A resolução do Conselho de Ministros que dá início a este processo e que lhe define as traves-mestras foi aprovada antes mas acabou por ser publicada no Diário da República já em Abril de 2002. Mas essas linhas-mestras foram adoptadas pelos seus governos, sinal que as entenderam como boas. E devo dizer-lhe que fizeram uma coisa correcta, que foi designar o Professor Jorge Gaspar, pessoa extraordinariamente competente, para coordenar o grupo de trabalho.\nEu próprio disse que, em 2005, a parte técnica estava, nos seus aspectos essenciais, feita.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "party": "António Filipe", 
    "speaker": "Presidente", 
-   "text": "O Sr. *António Carlos Monteiro* (CDS-PP): Devia ter cá vindo discuti-lo! O Orador: Pois, Sr. Deputado, a lei que diz que o PERSU é aprovado por portaria. Não há outra maneira de o aprovar!", 
-   "type": "presidente_continuacao"
+   "text": "Sr. Ministro, peço-lhe que conclua.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Mas este documento não é técnico, é político, e aí o falhanço foi crasso. Se o grupo de trabalho do Professor Jorge Gaspar e a DGOTDU fizeram um bom trabalho, a condução política do processo foi desastrosa e nós fomos juntar as peças para dar o relevo político a um documento técnico que estava simplesmente malbaratado e em risco de se perder.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "party": "António Filipe", 
    "speaker": "Presidente", 
-   "text": "O Sr. *António Carlos Monteiro* (CDS-PP): O Sr. Ministro fugiu à Assembleia!", 
-   "type": "presidente_continuacao"
+   "text": "Sr. Ministro, concluiu o seu tempo, queira concluir.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: E essa lei é o regime geral dos resíduos, que é um decreto-lei enquadrador da questão dos resíduos, de importância fundamental, que nos coube a nós fazer.\nO Sr. Deputado diz que o PEAASAR não foi trazido a esta Assembleia para discussão. A sua memória é fraca, Sr. Deputado, porque tenho a certeza de que participei num debate apenas dedicado ao PEAASAR nesta Assembleia da República.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "Vozes do PS: Faltou!", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: Julgo até que o Sr. Deputado estava lá e até me lembro que trocámos algumas impressões, aí sim, muito interessantes sobre a relação entre públicos e privados. O Sr. Deputado estava lá! Se trocámos essas impressões foi porque houve um debate na Assembleia da República!", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *António Carlos Monteiro* (CDS-PP): O documento final não veio cá!", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: Depois, e isto é de bradar aos céus, o Sr. Deputado diz que, por uma questão de peso político – desculpe mas essa questão de peso político está estafada –,…", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *António Carlos Monteiro* (CDS-PP): Não está estafada, não, é real!", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: … tem de vir à Assembleia, para ter a força de lei. Sr.Deputado, este programa vem a Assembleia porque, justamente, a Lei de Bases do Ordenamento do Território diz que o PNPOT, enquanto pedra de fecho do edifício dos instrumentos de gestão do território, é uma lei da Assembleia da República.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *António Carlos Monteiro* (CDS-PP): Senão seria também por portaria!", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: E aqui estamos nós a apresentá-la. Para nós, um ano e meio chegou, mas para os senhores três anos não chegaram! E isto leva-me rapidamente às questões colocadas pelo Sr. Deputado José Eduardo Martins.\nO Sr. Deputado tem razão. A resolução do Conselho de Ministros que dá início a este processo e que lhe define as traves-mestras foi aprovada antes mas acabou por ser publicada no Diário da República já em Abril de 2002. Mas essas linhas-mestras foram adoptadas pelos seus governos, sinal que as entenderam como boas. E devo dizer-lhe que fizeram uma coisa correcta, que foi designar o Professor Jorge Gaspar, pessoa extraordinariamente competente, para coordenar o grupo de trabalho.\nEu próprio disse que, em 2005, a parte técnica estava, nos seus aspectos essenciais, feita.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *Presidente* (António Filipe): Sr. Ministro, peço-lhe que conclua.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: Mas este documento não é técnico, é político, e aí o falhanço foi crasso. Se o grupo de trabalho do Professor Jorge Gaspar e a DGOTDU fizeram um bom trabalho, a condução política do processo foi desastrosa e nós fomos juntar as peças para dar o relevo político a um documento técnico que estava simplesmente malbaratado e em risco de se perder.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *Presidente* (António Filipe): Sr. Ministro, concluiu o seu tempo, queira concluir.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Orador: Sr. Presidente, muito rapidamente, vou falar apenas das relações com o QREN.\nQuero dizer-lhe, Sr. Deputado, que as opções estratégicas a nível regional do PNPOT são exactamente as que estão plasmadas nos programas operacionais regionais do QREN. O horizonte temporal de execução do PNPOT é 2007-2013, justamente para coincidir com o QREN, que, aliás, assimila o PNPOT e diz que ele é um documento enquadrador.\nFinalmente, os indicadores que estão a ser preparados para os programas operacionais são os mesmos que estão presentes no PNPOT.", 
-   "type": "presidente_continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, muito rapidamente, vou falar apenas das relações com o QREN.\nQuero dizer-lhe, Sr. Deputado, que as opções estratégicas a nível regional do PNPOT são exactamente as que estão plasmadas nos programas operacionais regionais do QREN. O horizonte temporal de execução do PNPOT é 2007-2013, justamente para coincidir com o QREN, que, aliás, assimila o PNPOT e diz que ele é um documento enquadrador.\nFinalmente, os indicadores que estão a ser preparados para os programas operacionais são os mesmos que estão presentes no PNPOT.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
+   "speaker": "O Orador", 
    "text": "O Sr. José Eduardo Martins (PSD):- Sr. Presidente, peço a palavra.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Para que efeito, Sr. Deputado? \nEspero que não seja para uma réplica, que não está prevista no Regimento.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "José Eduardo Martins", 
+   "text": "É para uma brevíssima interpelação à Mesa, Sr. Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "José Eduardo Martins", 
+   "text": "Sr. Presidente, é só para constatar que o Sr. Ministro, que decidiu teorizar sobre como é que essa maçada da oposição deve utilizar os seus minutos, não considerou importante responder a perguntas sobre a relação do PNPOT com o PNAC, com a Estratégia Nacional de Conservação da Natureza e da Biodiversidade, com a Estratégia do Desenvolvimento Rural ou, sequer, com o Programa Operacional da Valorização do Território, do seu ministério. É só isso que registo para que fique em Acta, Sr.Presidente.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "text": "Sr.Presidente, peço também a palavra.", 
+   "type": "speaker_error"
+  }, 
+  {
+   "party": "António Filipe", 
+   "speaker": "Presidente", 
+   "text": "Sr. Ministro dos Assuntos Parlamentares, presumo que pede a palavra para o mesmo efeito.", 
+   "type": "presidente"
+  }, 
+  {
+   "speaker": "O Sr. Ministro dos Assuntos Parlamentares", 
+   "text": "Exactamente, Sr.Presidente. O Sr. Presidente acertou em cheio!", 
    "type": "presidente_continuacao"
   }, 
   {
    "party": "António Filipe", 
    "speaker": "Presidente", 
-   "text": "O Sr. *Presidente* (António Filipe): Para que efeito, Sr. Deputado? \nEspero que não seja para uma réplica, que não está prevista no Regimento.", 
+   "text": "Era previsível, Sr. Ministro.\nRisos.", 
+   "type": "presidente"
+  }, 
+  {
+   "speaker": "O Sr. Ministro dos Assuntos Parlamentares", 
+   "text": "Mas isso não quer dizer que o Sr. Presidente também não acerte em cheio mesmo quando as coisas são imprevisíveis.", 
    "type": "presidente_continuacao"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *José Eduardo Martins* (PSD): É para uma brevíssima interpelação à Mesa, Sr. Presidente.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *Presidente* (António Filipe): Tem a palavra, Sr. Deputado.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *José Eduardo Martins* (PSD): Sr. Presidente, é só para constatar que o Sr. Ministro, que decidiu teorizar sobre como é que essa maçada da oposição deve utilizar os seus minutos, não considerou importante responder a perguntas sobre a relação do PNPOT com o PNAC, com a Estratégia Nacional de Conservação da Natureza e da Biodiversidade, com a Estratégia do Desenvolvimento Rural ou, sequer, com o Programa Operacional da Valorização do Território, do seu ministério. É só isso que registo para que fique em Acta, Sr.Presidente.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. Ministro dos Assuntos Parlamentares (Augusto Santos Silva): Sr.Presidente, peço também a palavra.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *Presidente* (António Filipe): Sr. Ministro dos Assuntos Parlamentares, presumo que pede a palavra para o mesmo efeito.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. Ministro dos Assuntos Parlamentares: Exactamente, Sr.Presidente. O Sr. Presidente acertou em cheio!", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *Presidente* (António Filipe): Era previsível, Sr. Ministro.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
+   "speaker": "O Sr. Ministro dos Assuntos Parlamentares", 
    "text": "Risos.", 
    "type": "presidente_continuacao"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. Ministro dos Assuntos Parlamentares: Mas isso não quer dizer que o Sr. Presidente também não acerte em cheio mesmo quando as coisas são imprevisíveis.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "Risos.", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
+   "speaker": "O Sr. Ministro dos Assuntos Parlamentares", 
    "text": "Sr. Presidente, pedi a palavra exactamente para o mesmo registo.\nTodos nós que aqui estamos somos mulheres e homens livres e respondemos pelas afirmações que aqui fazemos. As Sr.as e os Srs. Deputados são inteiramente livres nas afirmações, nas perguntas e nas intervenções que fazem e no modo como as organizam, assim como os membros do Governo são inteiramente livres e responsáveis pelas suas afirmações e pela forma como organizam as respostas. Nem o Governo pode determinar o conteúdo das perguntas feitas pelos Srs. Deputados, nem os Srs.Deputados podem determinar o conteúdo das respostas dadas pelo Governo.", 
    "type": "presidente_continuacao"
   }, 
@@ -789,28 +760,28 @@
    "type": "aplauso"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *José Eduardo Martins* (PSD): Dá-me licença, Sr. Presidente?", 
-   "type": "presidente_continuacao"
+   "party": "PSD", 
+   "speaker": "José Eduardo Martins", 
+   "text": "Dá-me licença, Sr. Presidente?", 
+   "type": "deputado_intervencao"
   }, 
   {
    "party": "António Filipe", 
    "speaker": "Presidente", 
-   "text": "O Sr. *Presidente* (António Filipe): Sr. Deputado José Eduardo Martins, peço imensa desculpa mas não vamos eternizar este incidente. Há mais Deputados inscritos para pedir esclarecimentos e os direitos dos demais Deputados têm de ser respeitados. Portanto, Sr. Deputado, já lhe dei a palavra para uma interpelação à Mesa e não posso dar-lha segunda vez.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado José Soeiro.", 
-   "type": "presidente_continuacao"
+   "text": "Sr. Deputado José Eduardo Martins, peço imensa desculpa mas não vamos eternizar este incidente. Há mais Deputados inscritos para pedir esclarecimentos e os direitos dos demais Deputados têm de ser respeitados. Portanto, Sr. Deputado, já lhe dei a palavra para uma interpelação à Mesa e não posso dar-lha segunda vez.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado José Soeiro.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "António Filipe", 
-   "speaker": "Presidente", 
-   "text": "O Sr. *José Soeiro* (PCP): Sr. Presidente, Sr. Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, o Grupo Parlamentar do PCP congratula-se por ter, finalmente, um instrumento para apreciar e poder pronunciar-se sobre o mesmo. Aguardámo-lo no passado e aguardámo-lo com este Governo durante dois anos, na medida em que em 2005, como o Sr. Ministro deve estar recordado, numa Comissão de Economia, foi aberta esta perspectiva.\nJá tínhamos tido conhecimento do núcleo duro do PNPOT através de uma sessão em que tivemos oportunidade de participar com o Sr. Professor Jorge Gaspar. Naturalmente, ao longo deste processo, fomos questionando o Sr. Ministro, e voltamos agora a fazê-lo, sobre três questões que consideramos da maior pertinência para qualquer política de ordenamento do território e que nos preocupam.\nPrimeira questão: desenvolvimento rural. Está em discussão e em fase de conclusão um PDR. As apreciações feitas pelas organizações de agricultores sobre este PDR são que ele vai no sentido de contribuir para agravar as difíceis condições em que já se encontra hoje o interior do País e o mundo rural. Daí que a pergunta, Sr. Ministro, seja a seguinte: como é que este PDR se compagina com aquilo que se diz ser a estratégia de coesão territorial da competitividade que se pretende atribuir aos diferentes territórios? E como é que se pretende que as pessoas possam subsistir no interior do País sem terem a mínima garantia das condições mínimas para lá continuarem?", 
-   "type": "presidente_continuacao"
+   "party": "PCP", 
+   "speaker": "José Soeiro", 
+   "text": "Sr. Presidente, Sr. Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, o Grupo Parlamentar do PCP congratula-se por ter, finalmente, um instrumento para apreciar e poder pronunciar-se sobre o mesmo. Aguardámo-lo no passado e aguardámo-lo com este Governo durante dois anos, na medida em que em 2005, como o Sr. Ministro deve estar recordado, numa Comissão de Economia, foi aberta esta perspectiva.\nJá tínhamos tido conhecimento do núcleo duro do PNPOT através de uma sessão em que tivemos oportunidade de participar com o Sr. Professor Jorge Gaspar. Naturalmente, ao longo deste processo, fomos questionando o Sr. Ministro, e voltamos agora a fazê-lo, sobre três questões que consideramos da maior pertinência para qualquer política de ordenamento do território e que nos preocupam.\nPrimeira questão: desenvolvimento rural. Está em discussão e em fase de conclusão um PDR. As apreciações feitas pelas organizações de agricultores sobre este PDR são que ele vai no sentido de contribuir para agravar as difíceis condições em que já se encontra hoje o interior do País e o mundo rural. Daí que a pergunta, Sr. Ministro, seja a seguinte: como é que este PDR se compagina com aquilo que se diz ser a estratégia de coesão territorial da competitividade que se pretende atribuir aos diferentes territórios? E como é que se pretende que as pessoas possam subsistir no interior do País sem terem a mínima garantia das condições mínimas para lá continuarem?", 
+   "type": "deputado_intervencao"
   }, 
   {
    "party": "PCP", 
    "speaker": "Bernardino Soares", 
    "text": "Muito bem!", 
-   "type": "deputado_intervencao"
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
@@ -995,8 +966,13 @@
   }, 
   {
    "speaker": "Presidente", 
-   "text": "Sr. Ministro, pode concluir.\nO Orador: Sr.ª Deputada, este não é um programa de aplicação, pelo que não faz sentido, aqui, uma programação financeira.", 
+   "text": "Sr. Ministro, pode concluir.", 
    "type": "presidente"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Sr.ª Deputada, este não é um programa de aplicação, pelo que não faz sentido, aqui, uma programação financeira.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Mas a lei é que determina que tem de haver!", 

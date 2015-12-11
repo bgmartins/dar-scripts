@@ -25,81 +25,90 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, declaro aberta a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 17 horas e 35 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "A Banda da Guarda Nacional Republicana, colocada junto aos Passos Perdidos, executou os hinos nacionais dos dois países.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Srs. Deputados presentes à sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Partido Social Democrata (PSD): \nAbílio Jorge Leite Almeida Costa \nAdriana Maria Bento de Aguiar Branco \nAna Maria Sequeira Mendes Pires Manso \nAna Paula Rodrigues Malojo \nAntónio Alfredo Delgado da Silva Preto \nAntónio da Silva Pinto de Nazaré Pereira \nAntónio Edmundo Barbosa Montalvão Machado \nAntónio Fernando de Pina Marques \nAntónio Henriques de Pinho Cardão \nAntónio Jorge Fidalgo Martins \nAntónio Manuel da Cruz Silva \nAntónio Maria Almeida Braga Pinheiro Torres \nAntónio Paulo Martins Pereira Coelho \nAntónio Pedro Roque da Visitação Oliveira \nArménio dos Santos \nBernardino da Costa Pereira \nBruno Jorge Viegas Vitorino \nCarlos Alberto da Silva Gonçalves \nCarlos Alberto Rodrigues \nCarlos Parente Antunes \nDaniel Miguel Rebelo \nDiogo de Sousa Almeida da Luz \nDuarte Rogério Matos Ventura Pacheco \nEduardo Artur Neves Moreira \nEugénio Fernando de Sá Cerqueira Marinho \nFernando António Esteves Charrua \nFernando Jorge Pinto Lopes \nFernando Manuel Lopes Penha Pereira \nFernando Pedro Peniche de Sousa Moutinho \nFernando Santos Pereira \nFrancisco José Fernandes Martins \nGonçalo Dinis Quaresma Sousa Capitão \nGonçalo Miguel Lopes Breda Marques \nGuilherme Henrique Valente Rodrigues da Silva \nHenrique José Monteiro Chaves \nHugo José Teixeira Velosa \nIsménia Aurora Salgado dos Anjos Vieira Franco \nJoão Bosco Soares Mota Amaral \nJoão Carlos Barreiras Duarte \nJoão Eduardo Guimarães Moura de Sá \nJoão José Gago Horta \nJoão Manuel Moura Rodrigues \nJoaquim Carlos Vasconcelos da Ponte \nJoaquim Miguel Parelho Pimenta Raimundo \nJorge Manuel Ferraz de Freitas Neto \nJorge Nuno Fernandes Traila Monteiro de Sá \nJorge Tadeu Correia Franco Morgado \nJosé Alberto Vasconcelos Tavares Moreira \nJosé António Bessa Guerra \nJosé António de Sousa e Silva \nJosé Luís Campos Vieira de Castro \nJosé Manuel Álvares da Costa e Oliveira \nJosé Manuel Carvalho Cordeiro \nJosé Manuel de Matos Correia \nJosé Manuel Ferreira Nunes Ribeiro \nJosé Miguel Gonçalves Miranda \nJudite Maria Jorge da Silva \nLuís Cirilo Amorim de Campos Carvalho \nLuís Filipe Alexandre Rodrigues \nLuís Filipe Soromenho Gomes \nLuís Maria de Barros Serra Marques Guedes \nManuel Alves de Oliveira \nManuel Filipe Correia de Jesus \nManuel Joaquim Dias Loureiro \nManuel Ricardo Dias dos Santos Fonseca de Almeida \nMarco António Ribeiro dos Santos Costa \nMaria Assunção Andrade Esteves \nMaria Aurora Moura Vieira \nMaria Clara de Sá Morais Rodrigues Carneiro Veríssimo \nMaria da Graça Ferreira Proença de Carvalho \nMaria Elisa Rogado Contente Domingues \nMaria Eulália Silva Teixeira \nMaria Goreti Sá Maia da Costa Machado \nMaria Isilda Viscaia Lourenço de Oliveira Pegado \nMaria Leonor Couceiro Pizarro Beleza de Mendonça Tavares \nMaria Manuela Aguiar Dias Moreira \nMaria Natália Guterres V. Carrascalão da Conceição Antunes \nMaria Ofélia Fernandes dos Santos Moleiro \nMaria Paula Barral Carloto de Castro \nMaria Teresa da Silva Morais \nMaria Teresa Pinto Basto Gouveia \nMelchior Ribeiro Pereira Moreira \nMiguel Fernando Alves Ramos Coleta \nMiguel Jorge Reis Antunes Frasquilho \nPaulo Jorge Frazão Batista dos Santos \nPedro Filipe dos Santos Alves \nPedro Miguel de Azeredo Duarte \nRodrigo Alexandre Cristóvão Ribeiro \nRui Manuel Lobo Gomes da Silva \nRui Miguel Lopes Martins de Mendes Ribeiro \nSalvador Manuel Correia Massano Cardoso \nSérgio André da Costa Vieira \nVasco Manuel Henriques Cunha \nVítor Manuel Roque Martins dos Reis", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Partido Socialista (PS): \nAcácio Manuel de Frias Barreiros \nAlberto Arons Braga de Carvalho \nAlberto de Sousa Martins \nAlberto Marques Antunes \nAna Catarina Veiga Santos Mendonça Mendes \nAna Maria Benavente da Silva Nuno \nAntero Gaspar de Paiva Vieira \nAntónio Alves Marques Júnior \nAntónio Bento da Silva Galamba \nAntónio de Almeida Santos \nAntónio Fernandes da Silva Braga \nAntónio José Martins Seguro \nAntónio Luís Santos da Costa \nAntónio Ramos Preto \nArtur Miguel Claro da Fonseca Mora Coelho \nArtur Rodrigues Pereira dos Penedos \nAscenso Luís Seixas Simões \nAugusto Ernesto Santos Silva \nCarlos Manuel Luís \nEdite Fátima Santos Marreiros Estrela", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Eduardo Arménio do Nascimento Cabrita \nEduardo Luís Barreto Ferro Rodrigues \nElisa Maria da Costa Guimarães Ferreira \nFausto de Sousa Correia \nFernando dos Santos Cabral \nFernando Manuel dos Santos Gomes \nFernando Pereira Serrasqueiro \nFernando Ribeiro Moniz \nJaime José Matos da Gama \nJamila Bárbara Madeira e Madeira \nJoão Rui Gaspar de Almeida \nJoaquim Augusto Nunes Pina Moura \nJoel Eduardo Neves Hasse Ferreira \nJorge Lacão Costa \nJorge Manuel Gouveia Strecht Ribeiro \nJosé António Fonseca Vieira da Silva \nJosé Apolinário Nunes Portada \nJosé Augusto Clemente de Carvalho \nJosé Carlos Correia Mota de Andrade \nJosé Eduardo Vera Cruz Jardim \nJosé Manuel de Medeiros Ferreira \nJosé Manuel Lello Ribeiro de Almeida \nJosé Manuel Pires Epifânio \nJosé Manuel Santos de Magalhães \nJosé Miguel Abreu de Figueiredo Medeiros \nJosé Sócrates Carvalho Pinto de Sousa \nJúlio Francisco Miranda Calha \nLaurentino José Monteiro Castro Dias \nLeonor Coutinho Pereira dos Santos \nLuís Afonso Cerqueira Natividade Candal \nLuís Alberto da Silva Miranda \nLuís Manuel Capoulas Santos \nLuís Manuel Carvalho Carito \nLuísa Pinheiro Portugal \nLuiz Manuel Fagundes Duarte \nManuel Alegre de Melo Duarte \nManuel Maria Ferreira Carrilho \nManuel Pedro Cunha da Silva Pereira \nMaria Amélia do Carmo Mota Santos \nMaria Celeste Lopes da Silva Correia \nMaria Cristina Vicente Pires Granada \nMaria Custódia Barbosa Fernandes Costa \nMaria de Belém Roseira Martins Coelho Henriques de Pina \nMaria do Carmo Romão Sacadura dos Santos \nMaria do Rosário Lopes Amaro da Costa da Luz Carneiro \nMaria Helena do Rêgo da Costa Salema Roseta \nMaria Isabel da Silva Pires de Lima \nMaria Manuela de Macedo Pinho e Melo \nMiguel Bernardo Ginestal Machado Monteiro Albuquerque \nNelson da Cunha Correia \nOsvaldo Alberto Rosário Sarmento e Castro \nPaula Cristina Ferreira Guimarães Duarte \nRenato Luís de Araújo Forte Sampaio \nRicardo Manuel Ferreira Gonçalves \nRosa Maria da Silva Bastos da Horta Albernaz \nRosalina Maria Barbosa Martins \nRui António Ferreira da Cunha \nRui do Nascimento Rabaça Vieira \nSónia Ermelinda Matos da Silva Fertuzinhos \nTeresa Maria Neto Venda \nVicente Jorge Lopes Gomes da Silva \nVictor Manuel Bento Baptista \nVitalino José Ferreira Prova Canas \nVítor Manuel Sampaio Caetano Ramalho \nZelinda Margarida Carmo Marouço Oliveira Semedo", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Partido Popular (CDS-PP): \nÁlvaro António Magalhães Ferrão de Castello-Branco \nDiogo Nuno de Gouveia Torres Feio \nHenrique Jorge Campos Cunha \nIsabel Maria de Sousa Gonçalves dos Santos \nJoão Guilherme Nobre Prata Fragoso Rebelo \nJoão Nuno Lacerda Teixeira de Melo \nJoão Rodrigo Pinho de Almeida \nJosé Miguel Nunes Anacoreta Correia \nLuís José Vieira Duque \nManuel de Almeida Cambra \nManuel Miguel Pinheiro Paiva \nNarana Sinai Coissoró \nPaulo Daniel Fugas Veiga \nTelmo Augusto Gomes de Noronha Correia", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Partido Comunista Português (PCP): \nAntónio Filipe Gaião Rodrigues \nAntónio João Rodeia Machado \nBernardino José Torrão Soares \nBruno Ramos Dias \nCarlos Alberto do Vale Gomes Carvalhas \nJerónimo Carvalho de Sousa \nJosé Honório Faria Gonçalves Novo \nLino António Marques de Carvalho \nMaria Luísa Raimundo Mesquita", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Bloco de Esquerda (BE): \nJoana Beatriz Nunes Vicente Amaral Dias \nLuís Emídio Lopes Mateus Fazenda", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à sessão", 
    "text": "Partido Ecologista \"Os Verdes\" (PEV): \nHeloísa Augusta Baião de Brito Apolónia \nIsabel Maria de Almeida e Castro", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Agradeço a todas as Altas Entidades que aceitaram o convite que lhes dirigi para estarem presentes nesta sessão solene de acolhimento ao Sr. Presidente da República Federativa do Brasil. O Parlamento, hoje, veste as suas melhores galas para saudar o Sr.Presidente Lula da Silva.\nTomo, para mim, a principal responsabilidade por este atraso, porque, devido a circunstâncias relacionadas com o meu regresso de uma visita oficial aos Estados Unidos, esta noite e durante o dia de hoje, tive de percorrer 4000 km a mais e sobrevoar mais seis países do que o previsto para ter a honra de vir aqui, em nome do Parlamento, saudar e cumprimentar o Sr. Presidente do Brasil. Peço desculpa e a compreensão de todos.\nSr. Presidente, Sr. Ministro dos Assuntos Parlamentares, em \nrepresentação do Primeiro-Ministro, Sr. Presidente do Supremo Tribunal de Justiça, Sr. Presidente do Tribunal Constitucional, Sr.as e Srs.Ministros do Brasil e de Portugal, Sr.as Deputadas e Srs. Deputados, Altas Entidades presentes, Ilustres Convidados, Minhas Senhoras e Meus Senhores: A Assembleia da República reúne hoje, em sessão solene, com a presença dos mais altos responsáveis do Estado e de tão distintos convidados, para saudar e homenagear o Presidente Luiz Inácio Lula da Silva.\nVemos em Vossa Excelência, Sr. Presidente, um infatigável lutador pela liberdade, pela justiça, pela solidariedade.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Agradeço a todas as Altas Entidades que aceitaram o convite que lhes dirigi para estarem presentes nesta sessão solene de acolhimento ao Sr. Presidente da República Federativa do Brasil. O Parlamento, hoje, veste as suas melhores galas para saudar o Sr.Presidente Lula da Silva.\nTomo, para mim, a principal responsabilidade por este atraso, porque, devido a circunstâncias relacionadas com o meu regresso de uma visita oficial aos Estados Unidos, esta noite e durante o dia de hoje, tive de percorrer 4000 km a mais e sobrevoar mais seis países do que o previsto para ter a honra de vir aqui, em nome do Parlamento, saudar e cumprimentar o Sr. Presidente do Brasil. Peço desculpa e a compreensão de todos.\nSr. Presidente, Sr. Ministro dos Assuntos Parlamentares, em \nrepresentação do Primeiro-Ministro, Sr. Presidente do Supremo Tribunal de Justiça, Sr. Presidente do Tribunal Constitucional, Sr.as e Srs.Ministros do Brasil e de Portugal, Sr.as Deputadas e Srs. Deputados, Altas Entidades presentes, Ilustres Convidados, Minhas Senhoras e Meus Senhores: A Assembleia da República reúne hoje, em sessão solene, com a presença dos mais altos responsáveis do Estado e de tão distintos convidados, para saudar e homenagear o Presidente Luiz Inácio Lula da Silva.\nVemos em Vossa Excelência, Sr. Presidente, um infatigável lutador pela liberdade, pela justiça, pela solidariedade.\nEstes nobres ideais impõem-se como natural decorrência da eminente dignidade da pessoa humana. Por isso, não têm fronteiras e inspiram um combate universal de cidadania. Cada um de nós tem, porém, especial obrigação de o prosseguir no seu enquadramento próprio.\nDevotou Vossa Excelência, Sr. Presidente, a vida inteira à promoção das reformas sociais, que entende serem aspiração profunda do povo brasileiro.\nMesmo discordando das premissas ideológicas e das propostas \nprogramáticas que norteiam a acção política de Vossa Excelência, forçoso é reconhecer a firmeza das suas convicções e a sua recta intenção patriótica.\nEleito agora à Suprema Magistratura, toca a Vossa Excelência o pesado encargo de provar a viabilidade prática das soluções alternativas que sempre preconizou.\nEsta é a hora da verdade! \nJá elogiam alguns o pragmatismo demonstrado nas primeiras tarefas da nova presidência, na secreta esperança de que tudo fique na mesma.\nOutros pressionam para a adopção imediata de medidas radicais, que arriscam quebrar a confiança e tornar as coisas ainda mais difíceis.\nEm meu nome pessoal e como Presidente da Assembleia da República, exprimo a Vossa Excelência admiração e estima. E julgo poder dizer também, em nome de todos os parlamentares portugueses e dos cidadãos e cidadãs, legitimamente por nós representados, que desejo a Vossa Excelência, sincera e cordialmente, felicidades no serviço árduo assumido em favor do Brasil.\nQueremos todos, com veemência, do fundo do coração, o melhor para o Brasil! \nEste nosso voto solidário - de paz, de prosperidade, de bem-estar - percorre a face do planeta azul e cobre toda a grande família humana.\nMas o Brasil é para nós um caso à parte, especial, de simpatia e de carinho.\nOs laços que nos unem são antigos, de história, de cultura, de sangue, de amor.\nOlhamos o Brasil com orgulho, afirmando nele uma paternidade, que só parcialmente é verdadeira. E, de algum modo, nisso projectamos uma certa frustração histórica, porque bem desejaríamos que o Brasil fosse, enfim, Portugal em ponto grande.\nOra, para além de ter as suas próprias populações autóctones, pré-cabralinas, o Brasil moderno é uma sociedade de dimensão continental, multiétnica, e incorporando aportações culturais provenientes do mundo inteiro.\nPorém, no mais fundo da marca genética que faz de todos os que chegam ao Brasil, ao fim de pouco tempo e mais ainda dos filhos que lá geram, brasileiros cem por cento, com facilidade se descobrem alguns resquícios, ao menos, de uma identidade comum.\nSerá a língua apenas, que, aliás, no Brasil se tornou mais solta, mais sonora, mais bela? \nMas na fala exprime-se e também de algum modo se formata a alma de cada pessoa e de todo o povo.\nMais do que isso, que já é muito, há com certeza! Cabe aos cientistas aprofundar o que seja - e aos poetas traduzi-lo em expressões adequadas, ricas de sentimento.\nA nós, políticos e homens de Estado, incumbe-nos passar à prática, potenciando-as, em benefício dos nossos povos e da Humanidade inteira, as energias derivadas da empatia mútua, dos interesses e objectivos comuns.\nTemo, Sr. Presidente, que as relações luso-brasileiras estejam sempre em risco de se afogarem em excessos de retórica.\nMal nos encontramos, tendemos logo para cair nos braços uns dos outros, desfiando História e Literatura, o que é importante mas não basta. Ou ao menos não tem bastado, até aqui, para manter propósitos grandiosos, lindamente formulados, logo caídos no esquecimento e no vazio.\nJulgo que é tempo, Sr. Presidente, de definirmos, com clareza, tarefas concretas e viáveis. Mesmo que se afigurem modestas, a sua realização será um contributo para a efectiva aproximação dos nossos países e dos nossos povos.\nNão compete ao Parlamento definir os contornos da política externa.\nEsta é uma responsabilidade constitucional do Governo.\nQuanto à desejável intensificação das nossas relações económicas, cabe aos empresários portugueses e brasileiros avançarem ainda mais nos caminhos ultimamente trilhados, com sucesso, diga-se.\nSabemos, porém, que há problemas melindrosos a resolver, fruto da nova configuração dos fluxos demográficos entre os dois países.\nEstamos acolhendo agora imigrantes brasileiros e temos o dever de retribuir o muito que os emigrantes portugueses, ao longo de gerações, encontraram na outra banda do mar.\nPor outro lado, quanto à igualdade de direitos, em regime de reciprocidade, não poderão fazer-se alguns avanços? Portugal e o Brasil têm hoje compromissos para com terceiros, que parecem obstaculizar a plena realização do sonho ancestral da dupla nacionalidade… Mas algum progresso será, certamente, possível.\nDestas questões o Parlamento não pode alhear-se, já que envolvem matérias da sua competência reservada. Impõe-se uma reflexão conjunta e generosa sobre tais temas, na perspectiva mais ampla do espaço geopolítico da lusofonia.\nÉ este um dos principais desafios do Fórum dos Parlamentos dos Países de Língua Portuguesa, refundado, em moldes mais arrojados, na cidade da Praia, em Cabo Verde, no final do ano passado.\nEste projecto da lusofonia, para alcançar toda a sua dimensão, tocando oito Estados diferentes e quase 200 milhões de pessoas, em quatro continentes, necessita do envolvimento, fortemente comprometido, do Brasil.\nO Presidente Lula da Silva bem faria em dar o seu impulso, como primeiro protagonista da actual maioria política, tendo em vista a urgente aprovação, pelo Congresso brasileiro, dos novos estatutos do Fórum, aliás já aprovados pelos Parlamentos de Angola, Cabo Verde, Moçambique e Portugal.\nSr. Presidente, estive já por duas vezes no Brasil, no desempenho de outras funções oficiais, em 1986 e em 1991, e confesso que não pude resistir àquele telúrico deslumbramento, cuja primeira testemunha foi Pero Vaz de Caminha.\nDo Rio de Janeiro e São Paulo, até Santa Catarina e Porto Alegre, que tanto diz a Vossa Excelência - cidade fundada com o nome de Porto dos Casais, em memória dos casais açorianos mandados pelo nosso Rei D. João V para fixar, contra investidas cobiçosas, a fronteira do Rio Grande do Sul -, e depois em São Salvador da Baía e em Brasília, no lugar entrevisto no sonho profético do meu patrono onomástico, pude recolher uma ideia aproximada da grandeza portentosa do Brasil.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Estes nobres ideais impõem-se como natural decorrência da eminente dignidade da pessoa humana. Por isso, não têm fronteiras e inspiram um combate universal de cidadania. Cada um de nós tem, porém, especial obrigação de o prosseguir no seu enquadramento próprio.\nDevotou Vossa Excelência, Sr. Presidente, a vida inteira à promoção das reformas sociais, que entende serem aspiração profunda do povo brasileiro.\nMesmo discordando das premissas ideológicas e das propostas \nprogramáticas que norteiam a acção política de Vossa Excelência, forçoso é reconhecer a firmeza das suas convicções e a sua recta intenção patriótica.\nEleito agora à Suprema Magistratura, toca a Vossa Excelência o pesado encargo de provar a viabilidade prática das soluções alternativas que sempre preconizou.\nEsta é a hora da verdade! \nJá elogiam alguns o pragmatismo demonstrado nas primeiras tarefas da nova presidência, na secreta esperança de que tudo fique na mesma.\nOutros pressionam para a adopção imediata de medidas radicais, que arriscam quebrar a confiança e tornar as coisas ainda mais difíceis.\nEm meu nome pessoal e como Presidente da Assembleia da República, exprimo a Vossa Excelência admiração e estima. E julgo poder dizer também, em nome de todos os parlamentares portugueses e dos cidadãos e cidadãs, legitimamente por nós representados, que desejo a Vossa Excelência, sincera e cordialmente, felicidades no serviço árduo assumido em favor do Brasil.\nQueremos todos, com veemência, do fundo do coração, o melhor para o Brasil! \nEste nosso voto solidário - de paz, de prosperidade, de bem-estar - percorre a face do planeta azul e cobre toda a grande família humana.\nMas o Brasil é para nós um caso à parte, especial, de simpatia e de carinho.\nOs laços que nos unem são antigos, de história, de cultura, de sangue, de amor.\nOlhamos o Brasil com orgulho, afirmando nele uma paternidade, que só parcialmente é verdadeira. E, de algum modo, nisso projectamos uma certa frustração histórica, porque bem desejaríamos que o Brasil fosse, enfim, Portugal em ponto grande.\nOra, para além de ter as suas próprias populações autóctones, pré-cabralinas, o Brasil moderno é uma sociedade de dimensão continental, multiétnica, e incorporando aportações culturais provenientes do mundo inteiro.\nPorém, no mais fundo da marca genética que faz de todos os que chegam ao Brasil, ao fim de pouco tempo e mais ainda dos filhos que lá geram, brasileiros cem por cento, com facilidade se descobrem alguns resquícios, ao menos, de uma identidade comum.\nSerá a língua apenas, que, aliás, no Brasil se tornou mais solta, mais sonora, mais bela? \nMas na fala exprime-se e também de algum modo se formata a alma de cada pessoa e de todo o povo.\nMais do que isso, que já é muito, há com certeza! Cabe aos cientistas aprofundar o que seja - e aos poetas traduzi-lo em expressões adequadas, ricas de sentimento.\nA nós, políticos e homens de Estado, incumbe-nos passar à prática, potenciando-as, em benefício dos nossos povos e da Humanidade inteira, as energias derivadas da empatia mútua, dos interesses e objectivos comuns.\nTemo, Sr. Presidente, que as relações luso-brasileiras estejam sempre em risco de se afogarem em excessos de retórica.\nMal nos encontramos, tendemos logo para cair nos braços uns dos outros, desfiando História e Literatura, o que é importante mas não basta. Ou ao menos não tem bastado, até aqui, para manter propósitos grandiosos, lindamente formulados, logo caídos no esquecimento e no vazio.\nJulgo que é tempo, Sr. Presidente, de definirmos, com clareza, tarefas concretas e viáveis. Mesmo que se afigurem modestas, a sua realização será um contributo para a efectiva aproximação dos nossos países e dos nossos povos.\nNão compete ao Parlamento definir os contornos da política externa.\nEsta é uma responsabilidade constitucional do Governo.\nQuanto à desejável intensificação das nossas relações económicas, cabe aos empresários portugueses e brasileiros avançarem ainda mais nos caminhos ultimamente trilhados, com sucesso, diga-se.\nSabemos, porém, que há problemas melindrosos a resolver, fruto da nova configuração dos fluxos demográficos entre os dois países.\nEstamos acolhendo agora imigrantes brasileiros e temos o dever de retribuir o muito que os emigrantes portugueses, ao longo de gerações, encontraram na outra banda do mar.\nPor outro lado, quanto à igualdade de direitos, em regime de reciprocidade, não poderão fazer-se alguns avanços? Portugal e o Brasil têm hoje compromissos para com terceiros, que parecem obstaculizar a plena realização do sonho ancestral da dupla nacionalidade… Mas algum progresso será, certamente, possível.\nDestas questões o Parlamento não pode alhear-se, já que envolvem matérias da sua competência reservada. Impõe-se uma reflexão conjunta e generosa sobre tais temas, na perspectiva mais ampla do espaço geopolítico da lusofonia.\nÉ este um dos principais desafios do Fórum dos Parlamentos dos Países de Língua Portuguesa, refundado, em moldes mais arrojados, na cidade da Praia, em Cabo Verde, no final do ano passado.\nEste projecto da lusofonia, para alcançar toda a sua dimensão, tocando oito Estados diferentes e quase 200 milhões de pessoas, em quatro continentes, necessita do envolvimento, fortemente comprometido, do Brasil.\nO Presidente Lula da Silva bem faria em dar o seu impulso, como primeiro protagonista da actual maioria política, tendo em vista a urgente aprovação, pelo Congresso brasileiro, dos novos estatutos do Fórum, aliás já aprovados pelos Parlamentos de Angola, Cabo Verde, Moçambique e Portugal.\nSr. Presidente, estive já por duas vezes no Brasil, no desempenho de outras funções oficiais, em 1986 e em 1991, e confesso que não pude resistir àquele telúrico deslumbramento, cuja primeira testemunha foi Pero Vaz de Caminha.\nDo Rio de Janeiro e São Paulo, até Santa Catarina e Porto Alegre, que tanto diz a Vossa Excelência - cidade fundada com o nome de Porto dos Casais, em memória dos casais açorianos mandados pelo nosso Rei D. João V para fixar, contra investidas cobiçosas, a fronteira do Rio Grande do Sul -, e depois em São Salvador da Baía e em Brasília, no lugar entrevisto no sonho profético do meu patrono onomástico, pude recolher uma ideia aproximada da grandeza portentosa do Brasil.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "O seu País, Sr. Presidente - o nosso Brasil, se me é permitido dizê-lo, com afectuosa expressão -, é já hoje, na cena internacional, um país liderante. E está fadado para ser, já ao longo do século ainda há pouco iniciado, uma grande potência.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PSD e do CDS-PP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Que responsabilidades tremendas recaem sobre os governantes \nbrasileiros, desejosos de realizar quanto antes o desenvolvimento, sem desastrosa destruição dos recursos naturais! \nAlguns destes assumem, de resto, dimensão planetária e relevam do interesse de toda a espécie humana, nomeadamente a floresta amazónica, verdadeiro pulmão da Terra e a maior reserva hidrológica mundial, que é a bacia do rio Amazonas.\nPor outro lado, urge levar a efeito a justiça social, quebrando o círculo vicioso da pobreza, que lança multidões incontáveis na fome, na doença, na iliteracia, na marginalidade, na exclusão.\nÉ que o melhor do Brasil é a gente brasileira, com as suas qualidades humanas, com a sua graça, com o seu desejo de vencer.\nPara o povo da terra de Vera Cruz, que a majestosa constelação do Cruzeiro do Sul assinala e cobre, queremos todos ver expandir-se \"Ordem e Progresso\" - expressiva divisa da bandeira do Brasil.\nSr. Presidente, no mais longínquo antepassado da Assembleia da República, no primeiro Parlamento eleito de Portugal, as Cortes Gerais Constituintes de 1820, tiveram assento Deputados brasileiros. Por sinal, as suas justas reivindicações foram mal recebidas, o que os levou a baterem com a porta e a regressarem ao Brasil, que pouco depois, num rasgo histórico, sob a liderança de um príncipe português, proclamava a sua independência nacional.\nCoube-me assinalar a racionalidade de tal evolução, nesta mesma Sala, poucas semanas antes do 25 de Abril, apontando-a como natural destino dos outros territórios descobertos e povoados pelos portugueses ao longo da gesta das grandes navegações marítimas, primeiro degrau da globalização.\nOs protestos indignados, que então ouvi, dos últimos abencerrages do colonialismo que aqui dominavam só vieram reforçar as razões do argumento.\nHoje, cumprida a descolonização, consolidada a democracia, no cenário do vetusto Hemiciclo do Palácio de São Bento, a Assembleia da República de Portugal dá ao Brasil, na pessoa do Presidente Luiz Inácio Lula da Silva, um cordial e fraterno abraço, desejando ao País-Irmão boa sorte!", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Tenho, agora, a honra de dar a palavra ao Sr. Presidente da República Federativa do Brasil.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. Presidente da República Federativa do Brasil (Luiz Inácio Lula da Silva): Excelentíssimo…", 
-   "type": "continuacao"
+   "text": "Excelentíssimo…", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Aplausos gerais, de pé.", 
@@ -107,11 +116,11 @@
   }, 
   {
    "text": "Ex.mo Sr. João Bosco Mota Amaral, Presidente da Assembleia da República Portuguesa, Sr.as e Srs. Parlamentares desta Casa, Minha Querida Esposa, que está comigo, Meus Amigos e Minhas Amigas Companheiros da Comitiva que me acompanha, Senador Crivella, Presidente da Comissão de Relações Exteriores da Câmara de Deputados, Zulaiê Cobra Ribeiro, Meus Ministros Gilberto Gil, Celso Amorim e Luiz Fernando Furlan e Governadores dos Estados de Alagoas e da Paraíba, , que me acompanham, Meus Amigos e Minhas Amigas: É uma honra muito especial poder dirigir-me aos representantes do povo português, amigos fraternos do Brasil. Desta Casa emanaram decisões que marcaram profundamente o destino do Brasil e selaram a história comum dos nossos povos.\nHoje, exerço a primeira magistratura do meu país, mas, como \nex-Deputado, tenho muito presente o papel determinante que as instituições políticas e parlamentares exercem na construção de uma nação. É no parlamento que as forças vivas de um povo se encontram, se entrechocam e, finalmente, confluem em direcção a uma visão comum.\nÉ no parlamento que ideias se moldam e as perspectivas se amoldam. Nele se exercitam a tolerância e o respeito mútuo.\nOs acontecimentos de 25 de Abril fazem parte de um processo político complexo que a Nação portuguesa teve a sabedoria de consolidar dentro da dinâmica democrática do País.\nPara nós, brasileiros, a Revolução dos Cravos foi um sopro de alento, no momento em que vivíamos os momentos mais difíceis do regime militar.\nQuantos de nós, naqueles tempos sombrios, quando era meia-noite no Brasil, não queríamos, como cantou Chico Buarque, numa letra cheia de intencionais ambiguidades, que o Brasil se transformasse \"num imenso Portugal\".\nNós também temos de conquistar a democracia plena, pois ela é um processo que nunca se acaba.\nOs nossos dois países viram-se, e vêem-se até hoje, confrontados com a necessidade de construir a democracia económica e social, em especial a preservação da própria democracia no plano político.\nSr. Presidente, Sr.as e Srs. Deputados: São esses os desafios que o Brasil enfrenta na caminhada pela construção de uma democracia moderna e vibrante.\nFui eleito por 53 milhões de brasileiros com um mandato para mudar o país. Mudanças que assegurem ao Brasil e ao seu povo as condições para readquirir a sua dignidade, para definir o seu destino de forma soberana e para concretizar metas de crescimento sustentável que assegurem condições mínimas de vida para todos, que permitam a cada brasileiro realizar o seu sonho da plena cidadania, o qual não existe sem o direito a emprego, saúde e educação.\nDisse, no meu discurso de posse, que o Brasil vivia um momento de energia cívica sem igual, uma mobilização e soerguimento nacional.\nTemos plena consciência das nossas responsabilidades e estamos determinados a assumi-las.\nAo Parlamento cabe um papel decisivo nessa caminhada, na canalização dessa energia, na concretização dessas aspirações e sonhos.\nSubmeti ao Congresso brasileiro propostas de reforma em duas áreas importantes: a tributária e a previdenciária. O Congresso brasileiro está agora a estudar esses projectos com vista à sua adopção. São propostas complexas, ambiciosas, em alguns aspectos até controvertidas.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "Cabe ao Congresso a árdua tarefa de dar-lhes forma final, interpretando soberanamente a vontade popular. Submeterei outras propostas de reforma ao Parlamento, na certeza de contar com esse apoio para, juntos, fazermos todas as transformações que o Brasil requer e o povo exige.\nTenho levado essa mensagem à comunidade internacional. Não só porque o Brasil deseja contar com esse apoio, mas também porque achamos que a solidariedade e a generosidade têm de ser recíprocas. Temos o que oferecer. Junto com café, futebol, aviões e tecnologia avançada, o Brasil também oferece ao mundo ideias e experiências de sucesso.\nProgramas inovadores, entre os quais o Bolsa Escola, o Fome Zero e a política de combate à SIDA, têm servido de modelo noutros países.\nFoi com essa convicção que lancei, em Davos, a proposta para a criação de um fundo internacional para o combate à fome. Tem sido alentador verificar o grau de apoio e entusiasmo que essa proposta vem gerando e saber que têm surgido sugestões dentro do mesmo espírito.\nMais que um programa, a minha proposta é um desafio ético, um chamamento à mobilização da comunidade internacional em torno de uma causa nobre, humana e inadiável.\nEstou convencido de que para atingirmos esse objectivo não são suficientes gestos isolados de generosidade. Num mundo cada vez mais globalizado, necessitaremos repensar a nossa visão das relações internacionais em todas as suas vertentes: a económica, a comercial e a de segurança.\nPrecisamos reconhecer que as instituições multilaterais que vimos construindo cuidadosamente ao longo de décadas devem ser os pilares da nossa comunidade internacional democrática. São elas os garantes da primazia do direito e do respeito à soberania das nações. São elas a nossa melhor esperança de que a justiça e a cooperação prevaleçam no concerto das nações.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "Aplausos gerais.", 
@@ -119,7 +128,7 @@
   }, 
   {
    "text": "A confiança nessas instituições está hoje abalada. É necessário reconstruí-las para forjar um mundo realmente multilateral.\nSr. Presidente, Srs. Deputados: Queremos que Portugal seja nosso parceiro nessa empreitada. Já dispomos de foros privilegiados onde desenvolver esse diálogo, para onde levar essa cooperação. Na Cúpula Ibero-Americana temos a oportunidade de explorar canais privilegiados de promoção dos nossos valores culturais e herança comum.\nPor meio da Comunidade dos Países de Língua Portuguesa, que a cada dia ganha mais dinamismo, já estamos a desenvolver acções conjuntas em campos directamente voltados para a melhoria das condições de vida dos nossos povos. É fundamental dar pleno cumprimento à promessa de ajudar os nossos irmãos africanos e de Timor Leste a retomarem o caminho do crescimento e da prosperidade.\nSob a presidência brasileira, a CPLP será cada vez mais um instrumento multilateral de mobilização de esforços e de consciências em favor dessa causa.\nNada é mais eloquente e inspirador do quanto podemos realizar juntos do que o exemplo de Timor Leste.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "Aplausos gerais.", 
@@ -127,7 +136,7 @@
   }, 
   {
    "text": "Muito me orgulho do trabalho conjunto de Portugal e do Brasil para dotar o novo país com os professores, operários e instituições políticas que foram cruciais para o êxito do processo de consolidação da independência.\nSe Portugal deve ser cada vez mais um parceiro, creio que pode ser igualmente um canal de acesso, uma porta privilegiada de entrada. Estou convencido de que a reunião América Latina-Caribe/União Europeia oferece uma oportunidade para Portugal desempenhar um papel-chave nos planos da região para alcançar o desenvolvimento.\nCremos que Portugal possa cada vez mais apresentar-se como porta-voz dos nossos anseios e aspirações nas negociações em curso entre o MERCOSUL e a União Europeia.\nMais que um parceiro, a União Europeia é para nós uma inspiração.\nAdmiramos a determinação de forjar um novo pólo de civilização e de desenvolvimento, uma sociedade livre de velhas rivalidades e conflitos e herdeira de uma tradição humanista centrada na cooperação \nenriquecedora e no convívio harmónico.\nMotiva-nos, sobretudo, a criação do Parlamento Europeu, que reflecte uma visão nova de como fazer política e de como integrar um continente inteiro.\nDesejamos contar com a valiosa experiência do Parlamento português ao avançarmos nessa direcção no âmbito do MERCOSUL e da América do Sul.\nSr. Presidente, Srs. Deputados: Tenho dito que desejo um salto de qualidade no relacionamento do Brasil com os países aos quais está unido por laços tradicionais de história, cultura e geografia. Tenho-me empenhado para que esses vínculos não se resumam a gestos retóricos de apreço sentimental e de boa vizinhança.\nCom os nossos vizinhos sul-americanos lancei um ambicioso projecto de integração física. Vamos criar as bases para a intensificação das comunicações e das trocas bilaterais regionais. Só assim será possível efectivamente intensificar os contactos e o intercâmbio.\nQuero convocar Portugal a integrar-se também nessa nova aventura de encurtar distâncias e de ligar povos.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "Aplausos gerais.", 
@@ -135,23 +144,20 @@
   }, 
   {
    "text": "Com Portugal temos o privilégio de já contar com uma sólida ponte sobre o Atlântico. Uma ponte de amizade e trabalho, construída por sucessivas gerações de patrícios e, mais recentemente, por uma onda vultosa de investimentos portugueses no Brasil.\nNo seminário empresarial que abrirei amanhã, pretendo convidar os homens de negócios dos dois países a engajarem-se com entusiasmo nessa empreitada conjunta.\nA minha vinda a Portugal é uma celebração do orgulho e da confiança no muito que já realizámos juntos.\nA minha presença aqui, neste nobre recinto, é a oportunidade para renovar o convite para continuarmos a alargar e a fortalecer essa ponte transatlântica.\nSr. Presidente e Srs. Parlamentares, quero concluir dizendo que cada vez que entro numa casa legisladora, cada vez que me defronto num ambiente parlamentar, fico imaginando que muitas vezes, na sociedade, as pessoas criticam o Parlamento, muitas vezes na sociedade há até quem diga que o Parlamento não seria necessário, há até quem diga que o Parlamento prejudica a acção do Executivo.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "Fui parlamentar constituinte no meu Brasil e, na frente do Presidente dos Parlamentares, quero dizer que não existe símbolo maior da democracia num país do que a existência de um parlamento livre e soberano.\nMuito obrigado.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "Aplausos gerais, de pé.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Agradeço ao Sr. Presidente da República Federativa do Brasil o belo discurso com que honrou a Assembleia da República nesta sua visita de Estado a Portugal.\nAgradeço também a todos os participantes a sua presença no Palácio de S. Bento.\nDeclaro encerrada a sessão.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Neste momento, a Banda da Guarda Nacional Republicana, colocada junto aos Passos Perdidos, executou, de novo, os hinos nacionais dos dois países.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Agradeço ao Sr. Presidente da República Federativa do Brasil o belo discurso com que honrou a Assembleia da República nesta sua visita de Estado a Portugal.\nAgradeço também a todos os participantes a sua presença no Palácio de S. Bento.\nDeclaro encerrada a sessão.\nNeste momento, a Banda da Guarda Nacional Republicana, colocada junto aos Passos Perdidos, executou, de novo, os hinos nacionais dos dois países.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Aplausos gerais, de pé.", 
@@ -164,36 +170,42 @@
   {
    "speaker": "Srs. Deputados não presentes à sessão por se encontrarem em missões internacionais", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados não presentes à sessão por se encontrarem em missões internacionais", 
    "text": "Partido Social Democrata (PSD): \nMaria Eduarda de Almeida Azevedo", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados não presentes à sessão por se encontrarem em missões internacionais", 
    "text": "Partido Socialista (PS): \nJoão Barroso Soares \nJosé da Conceição Saraiva", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Srs. Deputados que faltaram à sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à sessão", 
    "text": "Partido Social Democrata (PSD): \nÁlvaro Roque de Pinho Bissaia Barreto \nAntónio Joaquim Almeida Henriques \nCarlos Jorge Martins Pereira \nCarlos Manuel de Andrade Miranda \nJoaquim Virgílio Leite Almeida da Costa \nJosé Manuel Pereira da Costa \nLuís Álvaro Barbosa de Campos Ferreira \nLuís Filipe Montenegro Cardoso de Morais Esteves \nMaria João Vaz Osório Rodrigues da Fonseca \nMário Patinha Antão", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à sessão", 
    "text": "Partido Socialista (PS): \nAlberto Bernardes Costa \nFernando Pereira Cabodeira \nFrancisco José Pereira de Assis Miranda \nGuilherme Valdemar Pereira d'Oliveira Martins \nJoão Cardona Gomes Cravinho \nJorge Paulo Sacadura Almeida Coelho \nJosé Adelmo Gouveia Bordalo Junqueiro \nMaximiano Alberto Rodrigues Martins \nNelson Madeira Baltazar", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à sessão", 
    "text": "Partido Comunista Português (PCP): \nMaria Odete dos Santos", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à sessão", 
    "text": "Bloco de Esquerda (BE): \nJoão Miguel Trancoso Vaz Teixeira Lopes", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

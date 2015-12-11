@@ -37,8 +37,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 20 minutos.", 
@@ -47,21 +48,25 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Abílio de Mesquita Araújo Guedes.\nAdão José Fonseca Silva.\nAdérito Manuel Soares Campos.\nAfonso de Sousa Freire de Moura Guedes.\nAlberto Cerqueira de Oliveira.\nAlberto Monteiro de Araújo.\nÁlvaro Cordeiro Dâmaso.\nAmândio Santa Cruz D. Basto Oliveira.\nAntónio Abílio Costa.\nAntónio Augusto Lacerda de Queirós.\nAntónio de Carvalho Martins.\nAntónio Costa de A. de Sousa Lara.\nAntónio Fernandes Ribeiro.\nAntónio Joaquim Correia Vairinhos.\nAntónio José Caeiro da Mota Veiga.\nAntónio José de Carvalho.\nAntónio Maria Oliveira de Matos.\nAntónio Paulo Martins Pereira Coelho.\nAntónio Roleira Marinho.\nAntónio Sérgio Barbosa de Azevedo.\nAntónio da Silva Bacelar.\nArístides Alves do Nascimento Teixeira.\nArlindo da Silva André Moreira.\nArmando de Carvalho Guerreiro da Cunha.\nArnaldo Angelo Brito Lhamas.\nBelarmino Henriques Correia.\nCarlos Alberto Pinto.\nCarlos Lelis da Câmara Gonçalves.\nCarlos Manuel Oliveira da Silva.\nCarlos Manuel Sousa Encarnação.\nCarlos Matos Chaves de Macedo.\nCarlos Miguel M. de Almeida Coelho.\nCarlos Sacramento Esmeraldo.\nCasimira Gomes Pereira.\nCecília Pita Catarino.\nCésar da Costa Santos.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nDomingos Duarte Lima.\nDomingos da Silva e Sousa.\nEduardo Alberto de Carvalho P. da Silva.\nErcília Domingos M. P. Ribeiro da Silva.\nEvaristo de Almeida Guerra de Oliveira.\nFernando Barata Rocha.\nFernando Dias de Carvalho Conceição.\nFernando José Alves Figueiredo.\nFernando José Antunes Gomes Pereira.\nFernando José R. Roque Correia Afonso.\nFernando Manuel Alves Cardoso Ferreira.\nFernando Monteiro do Amaral.\nFernando Sequeira Roriz.\nFilipe Manuel Silva Abreu.\nFrancisco João Benardino da Silva.\nFrancisco Mendes Costa.\nGilberto Parca Madail.\nGuido Orlando de Freitas Rodrigues.\nGuilherme Henrique V. Rodrigues da Silva.\nHilário Torres Azevedo Marques.\nJaime Carlos Marta Soares.\nJaime Gomes Milhomens.\nJoão Costa da Silva.\nJoão Domingos F. de Abreu Salgado.\nJoão Pedreira de Matos.\nJoão José da Silva Maçãs.\nJoão Manuel Ascensão Belém.\nJoão Maria Ferreira Teixeira.\nJoão Soares Pinto Montenegro.\nJoaquim Eduardo Gomes.\nJoaquim Fernandes Marques.\nJoaquim Vilela de Araújo.\nJorge Paulo Seabra Roque da Cunha.\nJosé Alberto Puig dos Santos Costa.\nJosé de Almeida Cesário.\nJosé Álvaro Machado Pacheco Pereira.\nJosé Angelo Ferreira Correia.\nJosé Assunção Marques.\nJosé Augusto Ferreira de Campos.\nJosé Augusto Santos Silva Marques.\nJosé Francisco Amaral.\nJosé Júlio Vieira Mesquita.\nJosé Lapa Pessoa Paiva.\nJosé Leite Machado.\nJosé Luís Bonifácio Ramos.\nJosé Luís Campos Vieira de Castro.\nJosé Luís de Carvalho Lalanda Ribeiro.\nJosé Manuel da Silva Torres.\nJosé Mário Lemos Damião.\nJosé Mendes Bota.\nJosé Mendes Melo Alves.\nJosé Pereira Lopes.\nLeonardo Eugênio Ribeiro de Almeida.\nLuís Amadeu Barradas Amaral.\nLuís António Damásio Capoulas.\nLuís António Martins.\nLuís Filipe Garrido Pais de Sousa.\nLuís Manuel Neves Rodrigues.\nManuel Albino Casimira de Almeida.\nManuel Coelho dos Santos.\nManuel Ferreira Martins.\nManuel João Vaz Freixo.\nManuel Joaquim Batista Cardoso.\nManuel Joaquim Dias Loureiro.\nManuel Maria Moreira.\nMaria da Conceição U. de Castro Pereira.\nMaria Luísa Lourenço Ferreira.\nMaria Manuela Aguiar Moreira.\nMaria Natalina Pessoa Milhano Pintão.\nMary Patrícia Pinheiro Correia e Lança.\nMarília Dulce Coelho Raimundo.\nMário Ferreira Bastos Raposo.\nMário Jorge Belo Maciel.\nMário Júlio Montalvão Machado.\nMário de Oliveira Mendes dos Santos.\nMateus Manuel Lopes de Brito.\nMiguel Bento M. da C. de Macedo e Silva.\nMiguel Fernando C. de Miranda Relvas.\nNuno Francisco F. Deleure Alvim de Matos.\nNuno Miguel S. Ferreira Silvestre.\nPedro Domingos de S. e Holstein Campilho.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Limpo Salvado.\nRui Gomes da Silva.\nValdemar Cardoso Alves.\nVasco Francisco Aguiar Miguel.\nVictor Pereira Crespo.\nVirgílio de Oliveira Carneiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "12 DE DEZEMBRO DE 1987 683", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -124,958 +129,938 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, como é do vosso conhecimento, vão processar-se na Sala D. Maria as votações para o Conselho da Europa, para a União da Europa Ocidental, para a União Interparlamentar e para a Comissão Nacional de Eleições, tendo sido já designados os Srs.Deputados escrutinadores.\nAs votações decorrerão a partir de agora, sendo encerradas as umas às 12 horas, de modo a podermos proceder às respectivas contagens ainda durante o período da manhã.\nTodas as listas estão prontas, com excepção da lista respeitante à Comissão Nacional de Eleições, que estará pronta dentro de alguns momentos.\nSolicito, pois, aos Srs. Deputados o favor de se deslocarem, até às 12 horas, à Sala D. Maria, a fim de votarem.\nSrs. Deputados, o Sr. Secretário vai dar conta dos diplomas entrados na Mesa.\nO Sr. *Secretário* (Reinaldo Gomes): Deram entrada na Mesa os seguintes diplomas: projecto de lei n.º 122/V, de iniciativa do Sr. Deputado José Leio, do Partido Socialista, propondo a elevação de Gondomar a cidade; projecto de lei n.º 123/V, apresentado pelo mesmo Sr. Deputado, propondo a elevação de Valongo a cidade; projecto de lei n.º 124/V, apresentado pelo Sr. Deputado Manuel Filipe e outros, do Partido Comunista Português, que garante às cooperativas o acesso a diversos sectores de actividade económica; projecto de lei n.º 125/V, da iniciativa do Sr. Deputado José Manuel Mendes e outros, do PCP, e de deputados do PS, do PRD, da ID e de Os Verdes, relativo à utilização dos jogadores estrangeiros no futebol português, e proposta de lei n.º 19/V - Institui, no âmbito da Segurança Social, para os jovens à procura do primeiro emprego, uma prestação pecuniária designada «subsídio de inserção dos jovens na vida activa».\nTodos estes diplomas foram admitidos e baixaram às comissões competentes.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, como é do vosso conhecimento, vão processar-se na Sala D. Maria as votações para o Conselho da Europa, para a União da Europa Ocidental, para a União Interparlamentar e para a Comissão Nacional de Eleições, tendo sido já designados os Srs.Deputados escrutinadores.\nAs votações decorrerão a partir de agora, sendo encerradas as umas às 12 horas, de modo a podermos proceder às respectivas contagens ainda durante o período da manhã.\nTodas as listas estão prontas, com excepção da lista respeitante à Comissão Nacional de Eleições, que estará pronta dentro de alguns momentos.\nSolicito, pois, aos Srs. Deputados o favor de se deslocarem, até às 12 horas, à Sala D. Maria, a fim de votarem.\nSrs. Deputados, o Sr. Secretário vai dar conta dos diplomas entrados na Mesa.\nO Sr. *Secretário* (Reinaldo Gomes): — Deram entrada na Mesa os seguintes diplomas: projecto de lei n.º 122/V, de iniciativa do Sr. Deputado José Leio, do Partido Socialista, propondo a elevação de Gondomar a cidade; projecto de lei n.º 123/V, apresentado pelo mesmo Sr. Deputado, propondo a elevação de Valongo a cidade; projecto de lei n.º 124/V, apresentado pelo Sr. Deputado Manuel Filipe e outros, do Partido Comunista Português, que garante às cooperativas o acesso a diversos sectores de actividade económica; projecto de lei n.º 125/V, da iniciativa do Sr. Deputado José Manuel Mendes e outros, do PCP, e de deputados do PS, do PRD, da ID e de Os Verdes, relativo à utilização dos jogadores estrangeiros no futebol português, e proposta de lei n.º 19/V - Institui, no âmbito da Segurança Social, para os jovens à procura do primeiro emprego, uma prestação pecuniária designada «subsídio de inserção dos jovens na vida activa».\nTodos estes diplomas foram admitidos e baixaram às comissões competentes.", 
+   "type": "presidente"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, vai ser lido um parecer e proposta de resolução da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, autorizando o Sr. Presidente da República a deslocar-se a Espanha.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vai ser lido um parecer e proposta de resolução da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, autorizando o Sr. Presidente da República a deslocar-se a Espanha.\n734 I SÉRIE — NÚMERO 31", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
-   "text": "734 I SÉRIE — NÚMERO 31", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "QUADRO N.º 2 \nClassificação económica das despesas \n(Sem contas de ordem)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Orçamentos Municipais", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Variação \n- \nPercentagem", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "1987", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "1988 \nDespesas correntes", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Pessoal", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Bens e serviços", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Subsídios", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Juros", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Transferências", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Outras despesas", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Despesas de capital", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Investimentos", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Transferências", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Activos financeiros", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Passivos financeiro", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Outras despesas", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ID", 
-   "speaker": "Agrupamento Intervenção Democrática", 
+   "speaker": "Presidente", 
    "text": "Soma", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas correntes", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas correntes", 
    "text": "Compensação da tributação de cargos públicos", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Dotação concorrencial", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Total \n1 407,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "418,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "92,5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "91,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "423,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "363,2", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "19,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "415,7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "68,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "125,2", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "22,5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "182,7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "20,2", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "1,826,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "-", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "-", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "1 826,1 \n1 566,8", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "475,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "108,6", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "85,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "476,7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "406,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "14,7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "527,8", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "65,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "134,6", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "24,5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "280,9", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "22,8", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "2 094,6", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "45,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 33,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "2 106,6 \n11,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "13,6", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "17,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 6,9", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "12,7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "11,9", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 22,6", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "26,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 4,6", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "7,5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "8,9", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "53,7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "12,9", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "14,7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "-", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "-", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "15,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "QUADRO N.º 3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Classificação funcional das despesas \n(Com contas de ordem)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Orçamento inicial", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Variação \n- \nPercentagem", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "1987", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "1988 \nServiços gerais da Administração Pública", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Administração geral (1)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Negócios estrangeiros", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Segurança e ordem públicas", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Investigação de carácter geral", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Defesa nacional", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Educação", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Saúde (2)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Segurança e assistência sociais", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Habitação e equipamentos urbanos", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Outros serviços colectivos e sociais", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Serviços económicos", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Administração geral, regulamentação e investigação", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Agricultura e pesca", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Indústrias extractivas, transformadoras e de construção civil", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Electricidade, gás e  água", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Estradas", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Vias navegáveis e portos", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Outros transportes e comunicações", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Turismo", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Comércio", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Outros serviços económicos", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Outras funções (operações da dívida pública)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Total \n375,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "286,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "16,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "67,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "5,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "133,8", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "214,9", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "205,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "104,2", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "9,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "14,5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "245,5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "24,7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "53,2", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "13,5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "4,6", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "31,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "23,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "64,9", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "12,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "8,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "10,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "605,5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "1 966,2 \n399,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "304,8", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "17,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "74,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "3,2", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "147,6", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "264,6", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "224,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "107,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "7,9", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "16,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "233,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "48,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "52,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "18,2", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "2,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "37,2", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "5,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "56,9", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "10,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "2,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "0,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "759,6", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "2 159,8 \n65", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "6,5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "6,2", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "10,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 40,7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "10,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "23,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "9,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "2,8", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 15,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "12,4", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 5,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "94,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 2,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "34,8", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 47,8", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "18 ,8", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 78,1", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 12,3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 14,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 70,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "- 96,0", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "25,5", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "13,2", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "(1) Para que as verbas sejam recuperáveis procedeu-se aos seguintes ajustamentos: \na) À dotação para 1987 foram deduzidos os encargos do Ministério das Finanças com a ADSE (15,2 milhões de contos), que agora aparecem classificados no sector da saúde, bem como a verba de 8,5 milhões de contos para actualização das remunerações de pessoal do SNS; b) À dotação de 1988 foi deduzida a verba para compensação de impostos (45 milhões de contos) e foi somada a verba de dotação concorrencial (33 milhões de contos).\n(2) A dotação para 1987 foi adicionada das verbas deduzidas na rubrica «Administração geral», conforme referido na nota anterior.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "12 DE DEZEMBRO DE 1987 685", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Despesas de capital", 
    "text": "Macau, concluída e rubricada em Beijing em 26 de Março de 1987 e assinada em Beijing a 13 de Abril de 1987.\nO Sr. Deputado Raul Rego vai ler o respectivo relatório da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, de que foi relator.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Raul Rego* (PS): O relatório sobre o Acordo de Macau da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação é do seguinte teor", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Raul Rego", 
+   "text": "O relatório sobre o Acordo de Macau da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação é do seguinte teor RELATÓRIO", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "RELATÓRIO", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "A Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação da Assembleia da República é chamada a pronunciar-se sobre o Acordo de Macau, ou seja, a Declaração Conjunta e seus Anexos, partes integrantes, aliás, dessa mesma Declaração, do Governo da República Portuguesa e do Governo da República Popular da China sobre a Questão de Macau. Essa Declaração foi concluída em Beijing em 26 de Março de 1987 e assinada também em Beijing em 13 de Abril do mesmo ano.\nAo serem restabelecidas as relações diplomáticas entre Portugal e a República Popular da China em 8 de Fevereiro de 1979, na acta das conversações então elaborada, o embaixador da China manifestara a posição do seu governo quanto ao caso de Macau como fazendo parte da China e que à China deveria ser restituído. E o embaixador português dera, em princípio, o seu acordo a essa posição do Governo Chinês.\nAliás, a Constituição Portuguesa de 1976 não incluíra Macau no território português, mas apenas o considerava sob a Administração Portuguesa. Na Assembleia Constituinte participara um deputado eleito pelos portugueses de Macau. Era também do Governo Português a responsabilidade do respeito dos direitos dos cidadãos chineses residentes em Macau.\nEm 1985, na altura em que o Presidente da República Portuguesa visitou oficialmente a República Popular da China, foi assinado em Pequim um comunicado conjunto pelo qual os dois países concordavam «em iniciar negociações, num futuro próximo, por via diplomática, para a resolução da questão de Macau». E ficou assente que tais negociações se iniciassem em 1986. Com efeito, iniciaram-se em 30 de Junho de 1986 e terminaram em 26 de Março de 1987.\nPor essas negociações se prevê a transferência da administração do território de Macau, salvaguardando os legítimos interesses e expectativas dos habitantes, buscando um contributo para eliminar incertezas quanto ao futuro do mesmo território e para, dessa forma, reforçar a confiança.\nÉ uma nova fase que se abre nas relações entre a República Portuguesa e a República Popular da China: \nAinda se procura «assegurar o progresso e a estabilidade de Macau até meados do próximo século e criar condições para o reforço da presença portuguesa, não só naquele território, como em toda a zona do Pacífico, relançando a projecção histórica, cultural, económica e política de Portugal no Oriente».\nA Comissão de Negócios Estrangeiros da Assembleia da República tem presentes as diversas bases das negociações entre os representantes da República Portuguesa e da República Popular da China, nota que elas se desenvolveram sempre na melhor harmonia e compreensão, chefiada a delegação portuguesa pelo embaixador Rui Medina, presidente da Comissão Inter-ministerial sobre Macau, e chefiada a delegação chinesa pelo Sr.Zhu Nan, Vice-Ministro dos Negócios Estrangeiros. Este, aliás, visitou Portugal, tendo sido recebido pelo Presidente da República e pelo Primeiro-Ministro. Avistou-se também com o Governador de Macau.\nSobre a questão de Macau, realizou-se uma reunião do Conselho de Estado, em 6 de Janeiro de 1987, seguindo-se uma visita a Pequim do Secretário de Estado dos Negócios Estrangeiros, tendo nessa altura comunicado, na entrevista com o Conselheiro de Estado Ji Peng Fei, na presença do Vice-Ministro Zhu Nan, oficialmente ao Governo da China a aceitação por parte de Portugal da data de 31 de Dezembro de 1999 para a transferência da soberania e foi igualmente anotada a proposta chinesa da data de 20 de Dezembro do mesmo ano para o mesmo efeito.\nEsta data visava evitar as dificuldades naturais da transferência de administração numa quadra festiva como o são o Natal e o Ano Novo.\nPoder-se-ia, todavia, manter o Grupo de Ligação Conjunto para além da data da transferência, como se prevê no caso de Hong-Kong, mas nunca ultrapassando o dia l de Janeiro do ano 2000. Efecutaram-se depois novas reuniões do grupo de trabalho, fixando-se o dia 20 de Dezembro de 1999 para a transferência da soberania, mas mantendo-se o Grupo de Ligação Conjunto até ao dia l de Janeiro do ano 2000. Mantém-se ainda a distinção entre nacionais chineses, portugueses e estrangeiros; a inclusão, também, na Declaração Conjunta, do elenco fundamental dos direitos e garantias, para além da sua citação no anexo l; a inclusão das estipulações sobre protecção da língua e património cultural portugueses, o regime jurídico das organizações e instituições religiosas, particularmente no que respeita à actuação e comunicação com o exterior; as questões relacionadas com os contratos existentes com as instituições bancárias, em matéria fiduciária; a rotatividade das reuniões do Grupo de Ligação Conjunto, excluindo a possibilidade de ele ter a sua base principal em Macau antes de l de Julho de 1988, data prevista para o grupo sino-britânico se instalar em Hong-Kong; a inclusão da qualificação «territorial» para definir os «vínculos» irrelevantes para a aquisição, em Macau, da nacionalidade portuguesa após 1999; a inclusão da expressão «todos os direitos e liberdades», visando assegurar as actuais garantias dadas aos habitantes e outros indivíduos em Macau.\nA Comissão de Negócios Estrangeiros da Assembleia da Repúbblica salienta na nota justificativa da Declaração Conjunta do Governo da República Portuguesa e do Governo da República Popular da China sobre a Questão de Macau que no processo negociai houve, do lado português, a preocupação fundamental da defesa de três objectivos: defesa dos interesses dos habitantes de Macau, acautelar as posições \nespecificamente portuguesas e incrementar as relações luso-chinesas.\nDa mesma nota se verificam as formas como se buscaram defender tais objectivos.\nA defesa dos interesses dos habitantes firma-se sobretudo na consagração da autonomia do território, acautelando as posições especificamente portuguesas, garantindo os direitos e liberdades individuais e a manutenção e continuidade das instituições, e incrementando as relações luso-chinesas, em particular com o desen-", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "686 I SÉRIE-NÚMERO 29", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "volvimento da cooperação entre Portugal e a China. Para tal se deverão criar os mecanismos convenientes nessa Região Administrativa Especial de Macau. É um ponto de contacto, de intercâmbio entre Portugal e a China. Era-o já sob a Administração Portuguesa; continuará a sê-lo como Região Administrativa Especial de Macau, na República Popular da China.\nA Comissão de Negócios Estrangeiros da Assembleia da República tomou conhecimento e analisou tanto a Declaração Conjunta dos Governos como a nota justificativa do Gabinete do Ministério dos Negócios Estrangeiros.\nReconhece que estamos num ponto de viragem da nossa história, iniciado em 25 de Abril de 1974 e consagrado pela Constituição de 1976. A nossa era é a das independências e autonomizações dos povos. Chegados à maioridade, cada um toma sobre si os seus destinos; e mal foi que se não tenha previsto o fenómeno a tempo e horas, evitando-se guerra entre irmãos. A tradição portuguesa, bem patente há mais de século e meio no facto de o Brasil ter sido o único país americano que se tomou independente com um príncipe português, sem guerra, nem sempre foi compreendida em nosso tempo. A guerra do colonialismo passou e muitas guerras se teriam evitado e sólidos laços de amizade se teriam firmado entre povos irmãos se a mentalidade dos dirigentes tivesse sido verdadeiramente democrática.\nMacau nunca foi uma colónia, mas território sob a Administração Portuguesa. Foi no ano longínquo de 1517 que uma armada de Malaca parte para a China e que o boticário Tomé Pires entra nas portas de Cantão para ir à corte imperial de Pequim em missão de cortesia e boa vontade.\nDepois são numerosos portugueses, missionários, aventureiros, mercadores, entre os quais Jorge Álvares, de Freixo de Espada à Cinta, e o jesuíta Francisco Xavier, que morre em San-Xuan, na mesma cabana de Jorge Álvares.\nEm 1552, os portugueses de Malaca auxiliaram as autoridades de Cantão contra os que infestavam aquelas costas. E a península de Macau é cedida pela autoridade de Cantão, pagando-se um pequeno tributo.\nMacau não era uma colónia. Era um laço entre os portugueses ali fixados e as autoridades da China. Útil para Portugueses e Chineses. É nessa mesma mentalidade de cooperação, comércio e entendimento que, volvidos mais de quatro séculos, se estabelece o presente Acordo, negociado no melhor espírito de harmonia e compreensão por um passado útil a ambas as partes e na certeza de que beneficiará a República Portuguesa e a República Popular da China. A Região Administrativa Especial de Macau será um ponto de contacto entre os dois povos sob a administração da China, como o foi sob a Administração Portuguesa.\nA República Popular da China voltará a assumir o exercício da soberania sobre Macau a partir de 20 de Dezembro de 1999. Portugal continuará presente em Macau, como a China nunca deixou de estar até agora. É um elo de amizade, de entendimento, ponto de contacto e intercâmbio de comércio e de culturas à sombra da bandeira da República Popular da China, como o foi à sombra da bandeira da República Portuguesa.\nElo de amizade e intercâmbio será não apenas durante o período de transição conjunto até 9 de Dezembro de 1999, mas, posteriormente, sob a Administração Chinesa. O presente acordo é um modelo de compreensão mútua; e tal compreensão não deixará de continuar no Grupo de ligação Conjunto Luso-Chinês, a formar logo que a Declaração Conjunta entre em vigor.\nConsequentemente, a Comissão de Negócios Estrangeiros da Assembleia da República não pode deixar de recomendar a aprovação da Declaração Conjunta do Governo da República Portuguesa e do Governo da República Popular da China sobre a Questão de Macau.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "Palácio de São Bento, 9 de Dezembro de 1987. - Pela Comissão, o Relator, Raul Rego.\nEntretanto, assumiu a presidência a Sr.º Vice - Presidente Manuela Aguiar.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "A Sr.ª Presidente:-Para uma intervenção, tem a palavra o Sr. Ministro dos Negócios Estrangeiros.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "O Sr. Ministro dos Negócios Estrangeiros (João de Deus Pinheiro): - Sr.º Presidente, Srs. Deputados: No cumprimento dos preceitos constitucionais cumpre-me apresentar, em nome do Governo, à Assembleia da República a proposta de resolução que aprova, para ratificação, o Acordo Luso-Chinês sobre Macau.\nAo fazê-lo, não posso deixar de desde logo salientar o significativo consenso que o mesmo concitou entre as diferentes forças políticas de Portugal e Macau, consenso esse que se vê agora reforçado e ampliado no relatório da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação desta Assembleia.\nGostaria também de aproveitar este ensejo para registar publicamente e por elementar dever de justiça o empenho e a capacidade demonstrados pelos nossos negociadores, que permitiram alcançar todos os objectivos a que nos propúnhamos à partida.\nSr.ª Presidente, Srs. Deputados: O estabelecimento de ralações diplomáticas entre Portugal e a República Popular da China, em 1979, veio criar as condições para que fosse abordada, quando ambos os países julgassem oportuno, a questão de Macau.\nNas conversações então havidas, Portugal reconheceu que Macau era território chinês sob Administração Portuguesa, em conformidade com o disposto na Constituição e com o que fora aprovado em Conselho de Ministros de Junho de 1978. Ficou também estabelecido entre os dois Governos que o termo da Administração Portuguesa em Macau seria objecto de oportunas negociações entre a China e Portugal. A questão ficou assim entendida, e durante alguns anos não voltou a surgir no âmbito do normal relacionamento entre os dois países.\nEm Maio de 1985, na sequência da visita do então Presidente da República à China, ficou acordado iniciar conversações formais entre os dois países para a resolução da Questão de Macau.\nDurante a visita a Portugal, em Março de 1986, do Ministro da Saúde e Vice-Ministro dos Estrangeiros da República Popular da China, as conversações então havidas permitiram um entendimento quanto ao período apropriado para o início das negociações e, ulteriormente, a designação das respectivas delegações; a portuguesa foi chefiada pelo embaixador Rui Medina e a chinesa pelo Vice-Ministro dos Negócios Estrangeiros Zhu Nan. Ás negociações desenrolaram-se de Junho de 1986 a Abril de 1987, em Pequim, ao longo de quatro plenários de delegações e quatro sessões do grupo de trabalho constituído no âmbito das delegações. No processo negociai inseriu-se ainda uma visita a", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "12 DE DEZEMBRO DE 1987 687", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "Portugal, de 17 a 21 de Novembro de 1986, do chefe da delegação chinesa, que manteve contactos ao mais alto nível com as autoridades portuguesas.\nConcluído o processo negocial, os Primeiros-Ministros de Portugal e da República Popular da China assinaram o Acordo sobre Macau a 13 de Abril, em cerimónia solene, que teve lugar no Palácio do Povo, em Pequim.\nOs objectivos que Portugal se propusera foram atingidos através deste Acordo, ficando assegurada a transferência ordenada da administração do território, salvaguardados a médio e a longo prazos os legítimos interesses e expectativas dos habitantes de Macau, garantida, portanto, a continuidade. Ficaram assim criadas as condições, além do mais, para o reforço da presença portuguesa em toda aquela importante e dinâmica zona do mundo. E criavam-se sólidos alicerces, sobre os quais pode assentar o desenvolvimento das nossas relações com a grande potência que é hoje a República Popular da China, condição importante para conseguirmos a projecção histórica, cultural, económica e política no Oriente asiático.\nO Acordo Luso-Chinês sobre a Questão de Macau consta de uma declaração conjunta e de dois anexos, instrumentos diplomáticos com o mesmo estatuto jurídico e igualmente vinculatórios para os Estados signatários. A Declaração Conjunta consiste de sete artigos precedidos de um preâmbulo, neles ficando enunciados dois objectivos fundamentais, o desenvolvimento ecqnómico e a estabilidade social de Macau e o fortalecimento das relações de amizade e cooperação luso-chinesas. No articulado afirma-se o propósito comum da reassumpção pela China, em 20 de Dezembro de 1999, do exercício da soberania sobre Macau, que passará então a constituir uma região administrativa especial da República Popular da China, gozando de um alto grau de autonomia, com excepção da defesa e dos aspectos fundamentais da política externa, mantendo-se basicamente inalterados os actuais sistemas social e económico, bem como a respectiva maneira de viver; indicam-se os princípios que informarão a futura lei básica da região administrativa especial de Macau, a promulgar pela Assembleia Nacional Popular da República Popular da China, que se manterá durante 50 anos; estabelece-se o regime dos poderes executivo, legislativo e judicial; dos direitos, liberdades e garantias, da manutenção das instituições e da legislação vigente e que no fundo asseguram a manutenção de um sistema político, económico e social significativamente próximo do que conhecemos em Portugal; define-se ainda a protecção do património cultural de Macau e a utilização da língua portuguesa; institui-se o Grupo de Ligação Conjunto, que será activado a partir da entrada em vigor do Acordo e que se destina a criar as condições apropriadas à transferencia de poderes e a promover o desenvolvimento da cooperação que a China se compromete a prestar à Administração Portuguesa; define-se ainda, em termos genéricos, o regime dos contratos de concessão de terras em Macau e enunciam-se as cláusulas de estilo respeitantes à execução e entrada em vigor do Acordo.\nNo anexo I, intitulado «Esclarecimentos da República Popular da China sobre as políticas fundamentais respeitantes a Macau», faz-se o elenco e o desenvolvimento dos princípios fundamentais já enunciados no artigo 2.Q da Declaração Conjunta, no quadro de continuidade e autonomia, sobre os quais a República Popular da China se empenha em fazer assentar a lei básica da futura Região Administrativa Especial de Macau. Acrescenta-se que nela não serão aplicados os sistemas e políticas socialistas; reforça-se, entre outros, a protecção ao património cultural, à utilização da língua portuguesa e à liberdade de religião, na sua dupla forma de liberdade de crença e liberdade de culto no foro público, institucional e administrativo, nomeadamente no que respeita à prática religiosa, catequese e profissões.\nO anexo II disciplina o funcionamento do Grupo de Ligação Conjunto e do Grupo de Terras, mecanismos destinados a estabelecer as condições apropriadas à necessária cooperação luso-chinesa durante o período de transição a partir da entrada em vigor do Acordo. O Grupo de Ligação Conjunto é um órgão diplomático que terá como funções efectuar consultas e trocas de informações sobre os assuntos relacionados com a aplicação do Acordo, com a transferência da administração e a manutenção e desenvolvimento das relações económicas, culturais e outras da futura Região Administrativa Especial de Macau com o exterior. Chefiado a nível de embaixador e destinado a funcionar até 1 de Janeiro do ano 2000, iniciará os seus trabalhos até três meses após a sua criação no momento da entrada em vigor do Acordo; terá em Macau a sua base principal no termo do primeiro ano de actividade, durante o qual reunirá alternadamente em Pequim, Lisboa e Macau.\nO Grupo de Terras destina-se a regular, mediante consultas, as futuras concessões de terras bem como a partilha dos rendimentos provenientes dos contratos de concessão de terras até 19 de Dezembro de 1999, data em que terminará as suas funções.\nEm dois memorandos separados, trocados no acto de assinatura do Acordo, harmonizou-se com as respectivas legislações internas de Portugal e da China, em matéria de nacionalidade e passaportes, a atribuição e uso destes documentos emitidos durante o período da Administração Portuguesa, quando deles forem titulares habitantes de Macau em quem venham a concorrer as cidadanias portuguesa e chinesa. Por parte portuguesa afirma-se a faculdade de os habitantes de Macau que tenham a cidadania portuguesa usarem o passaporte nacional mesmo depois da transferência do exercício da soberania, no entendimento de que, conforme o disposto na Lei n.º 37/81, de 3 de Outubro, a cidadania portuguesa não pode ser adquirida em razão do mero vínculo territorial com Macau. Por parte chinesa, o Governo da República Popular da China empenha-se em permitir que os habitantes de Macau em quem concorra a cidadania chinesa continuem a usar os passaportes portugueses de que sejam detentores à data da transferência do exercício da soberania, no entendimento de que, conforme prática internacional consistente, não será concedida a tais indivíduos protecção consular portuguesa na Região Administrativa Especial de Macau e nas outras regiões da República Popular da China.\nAssim, todos os habitantes de Macau que em 20 de Dezembro de 1999 tiverem a nacionalidade portuguesa, segundo a nova lei, poderão continuar a utilizar o seu passaporte português para entrar e sair livremente de Macau e em todas as suas deslocações ao exterior, beneficiando aí da protecção dos nossos consulados.\nSr.ª Presidente, Srs. Deputados: Resumidos assim nas suas linhas essenciais o Acordo negociado com a China sobre o futuro de Macau, refira-se que se tratou de uma negociação digna, longa e por vezes difícil, feita com grande sentido de Estado, na qual foram defendidos os nossos interesses e alcançados os nossos objectivos, sempre em consonância com o Sr. Presidente da República, a quem a nossa Constituição atribui especiais poderes em relação a Macau.\nCom este Acordo escreve-se uma página importante na história de Portugal, e se pretendêssemos reduzir a esquemas comuns a diversidade de iniciativas sugeridas ou", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "688 I SÉRIE - NÚMERO 29", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "levadas a efeito, verifica-se que podem ser enquadradas num de dois aspectos: por um lado, as que visam manter ou constituir em Macau o núcleo activo susceptível de assegurar, no futuro, uma presença portuguesa efectiva na China e naquela área do Pacífico; por outro, as que têm como objectivo aproveitar as actividades de cooperação necessariamente inerentes ao processo de transferência, para nesse quadro criar um substracto adequado aos desenvolvimentos futuros das relações luso-chinesas.\nCom o Acordo celebrado entre Portugal e a China ficam criadas as condições para valorizar a nossa presença em Macau e relançar a projecção de Portugal no Oriente. Nas palavras do Sr. Primeiro-Ministro pronunciadas em Abril passado, dias antes da sua assinatura, «uma projecção que a soberania chinesa acolhe com empenho, consciente de que os Portugueses foram e são um povo de forte espírito universalista, aberto a outras culturas e a outras civilizações e é por isso factor de paz, entendimento e progresso no mundo moderno.", 
    "type": "deputado_continuacao"
   }, 
@@ -1084,56 +1069,58 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "Entretanto, reassumiu a presidência o Sr. Presidente Vítor Crespo.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, quero informar VV. Ex.ª que se encontra entre nós, na galeria do corpo diplomático, S. Ex.ª o Embaixador da República Popular da China.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, quero informar VV. Ex.ª que se encontra entre nós, na galeria do corpo diplomático, S. Ex.ª o Embaixador da República Popular da China.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos gerais, de pé.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "speaker": "Presidente", 
    "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Vitorino.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *António Vitorino* (PS): Sr. Presidente, Srs. Ministros, Sr.ªs. e Srs. Deputados: É inegável o profundo significado histórico do debate que hoje ocorre nesta Assembleia: o Parlamento, livremente eleito pelos Portugueses, é chamado a pronunciar-se sobre um acordo bilateral celebrado entre Portugal e a República Popular da China sobre a Questão de Macau.\nDesde a aprovação da Constituição de 1976 e pela vontade unânime do legislador constituinte que Macau passou a ser considerado por Portugal como território sob a administração Portuguesa, pressupondo tal definição a finitude da presença administrativa portuguesa. Tal convicção sairia reforçada no decurso das conversações tendentes a estabelecimento das relações diplomáticas entre Portugal e a República Popular da China em 1978-1979 e culminou com o acordo sobre a abertura de conversações em 1985, durante a visita oficial à China do então Presidente da República.\nAs balizas dessas negociações eram à partida referenciáveis a Declaração Conjunta Sino-Britânica de 1984 sobre o território de Hong-Kong, embora desde sempre tenha sido claro que, se em relação à colónia britânica se tratava essencialmente de uma questão de transferência de soberania em toda a sua plenitude, em relação a Macau o Estado Português considerava-se como entidade administrante, sem por esse facto questionar a sua integração na República Popular da China.\nAs conversações desenrolaram-se num curto espaço de tempo e foram concluídas pela assinatura da Declaração Conjunta e respectivos anexos pelos Primeiros-Ministros dos dois países em Abril último.\nPara o Partido Socialista, o resultado final das negociações afigura-se como positivo a três níveis fundamentais: positivo, porque corresponde ao essencial das expectativas e das pretensões das populações locais e garante para o futuro os direitos fundamentais dos habitantes de Macau; positivo, porque prefigura, após a transferência da administração em 1999, a criação de uma região administrativa especial da República Popular da China, dotada de ampla autonomia e subordinada ao princípio de que Macau será governado pela população de Macau, sendo mantido durante 50 anos o seu específico modo de ser; positivo, finalmente, porque resulta inequivocamente robustecida a tradicional relação de amizade entre Portugal e a China e abrem-se novas perspectivas de cooperação entre os dois países e os dois povos.\nPara o Partido Socialista, no anexo 1 à Declaração Conjunta, de entre os compromissos assumidos pela República Popular da China quanto às políticas fundamentais a aplicar em Macau após 1999, merecem especial destaque os seguintes aspectos fundamentais:", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "António Vitorino", 
+   "text": "Sr. Presidente, Srs. Ministros, Sr.ªs. e Srs. Deputados: É inegável o profundo significado histórico do debate que hoje ocorre nesta Assembleia: o Parlamento, livremente eleito pelos Portugueses, é chamado a pronunciar-se sobre um acordo bilateral celebrado entre Portugal e a República Popular da China sobre a Questão de Macau.\nDesde a aprovação da Constituição de 1976 e pela vontade unânime do legislador constituinte que Macau passou a ser considerado por Portugal como território sob a administração Portuguesa, pressupondo tal definição a finitude da presença administrativa portuguesa. Tal convicção sairia reforçada no decurso das conversações tendentes a estabelecimento das relações diplomáticas entre Portugal e a República Popular da China em 1978-1979 e culminou com o acordo sobre a abertura de conversações em 1985, durante a visita oficial à China do então Presidente da República.\nAs balizas dessas negociações eram à partida referenciáveis a Declaração Conjunta Sino-Britânica de 1984 sobre o território de Hong-Kong, embora desde sempre tenha sido claro que, se em relação à colónia britânica se tratava essencialmente de uma questão de transferência de soberania em toda a sua plenitude, em relação a Macau o Estado Português considerava-se como entidade administrante, sem por esse facto questionar a sua integração na República Popular da China.\nAs conversações desenrolaram-se num curto espaço de tempo e foram concluídas pela assinatura da Declaração Conjunta e respectivos anexos pelos Primeiros-Ministros dos dois países em Abril último.\nPara o Partido Socialista, o resultado final das negociações afigura-se como positivo a três níveis fundamentais: positivo, porque corresponde ao essencial das expectativas e das pretensões das populações locais e garante para o futuro os direitos fundamentais dos habitantes de Macau; positivo, porque prefigura, após a transferência da administração em 1999, a criação de uma região administrativa especial da República Popular da China, dotada de ampla autonomia e subordinada ao princípio de que Macau será governado pela população de Macau, sendo mantido durante 50 anos o seu específico modo de ser; positivo, finalmente, porque resulta inequivocamente robustecida a tradicional relação de amizade entre Portugal e a China e abrem-se novas perspectivas de cooperação entre os dois países e os dois povos.\nPara o Partido Socialista, no anexo 1 à Declaração Conjunta, de entre os compromissos assumidos pela República Popular da China quanto às políticas fundamentais a aplicar em Macau após 1999, merecem especial destaque os seguintes aspectos fundamentais:\n1.º O amplo e elaborado elenco de direitos, liberdades e garantias reconhecido aos habitantes de Macau, garantindo-se a sua observância nos precisos termos e condições em vigor à data da transferência da Administração; \n2.º A consagração do princípio da igualdade e do seu corolário lógico da proibição de qualquer discriminação em razão da nacionalidade, ascendência, sexo, raça, língua, religião, convicções políticas ou ideológicas, instrução, situação económica ou condição social de que resulta uma cláusula especial de protecção dos habitantes de ascendência portuguesa em Macau, sendo assegurado o respeito pelos seus costumes e tradições culturais; \n3.º A afirmação da continuidade da organização do poder político assente no principio da separação e interdependência dos órgãos políticos, reconhecendo-se à futura região administrativa uma ampla autonomia. Neste contexto assume especial relevância a afirmação de que a maioria dos elementos do órgão legislativo será eleita, bem como a afirmação da responsabilidade do órgão executivo perante o legislativo, ao qual se subordina e a quem prestará contas; \n4.º A afirmação da subsistência basicamente inalterada do sistema jurídico de matriz portuguesa vigente à data da transferência, no respeito pelo que dispuser a futura lei básica; \n5.º A garantia da existência de um sistema judiciário autocentrado, dotado do poder de julgamento em última instância, onde os juizes continuarão a disfrutar de especiais garantias de independência, inamovibilidade e isenção, características do modelo português de administração judiciária; \n6.º As garantias conferidas aos funcionários públicos da Administração Portuguesa, independentemente da sua nacionalidade, de poderem manter os respectivos lugares após 1999, sendo-lhes completamente assegurada a progressão na carreira com base em critérios de mérito, níveis de vencimento e pensões de aposentação e reforma, bem como demais regalias sociais em condições não menos favoráveis do que as praticadas à data da transferência da Administração; \n7.º A consagração da automia da Região Administrativa Especial na definição de políticas próprias no âmbito da cultura, educação, ciência e tecnologia e no plano económico, comercial, financeiro e monetário, mantendo-se os elementos básicos do", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "1.º O amplo e elaborado elenco de direitos, liberdades e garantias reconhecido aos habitantes de Macau, garantindo-se a sua observância nos precisos termos e condições em vigor à data da transferência da Administração; \n2.º A consagração do princípio da igualdade e do seu corolário lógico da proibição de qualquer discriminação em razão da nacionalidade, ascendência, sexo, raça, língua, religião, convicções políticas ou ideológicas, instrução, situação económica ou condição social de que resulta uma cláusula especial de protecção dos habitantes de ascendência portuguesa em Macau, sendo assegurado o respeito pelos seus costumes e tradições culturais; \n3.º A afirmação da continuidade da organização do poder político assente no principio da separação e interdependência dos órgãos políticos, reconhecendo-se à futura região administrativa uma ampla autonomia. Neste contexto assume especial relevância a afirmação de que a maioria dos elementos do órgão legislativo será eleita, bem como a afirmação da responsabilidade do órgão executivo perante o legislativo, ao qual se subordina e a quem prestará contas; \n4.º A afirmação da subsistência basicamente inalterada do sistema jurídico de matriz portuguesa vigente à data da transferência, no respeito pelo que dispuser a futura lei básica; \n5.º A garantia da existência de um sistema judiciário autocentrado, dotado do poder de julgamento em última instância, onde os juizes continuarão a disfrutar de especiais garantias de independência, inamovibilidade e isenção, características do modelo português de administração judiciária; \n6.º As garantias conferidas aos funcionários públicos da Administração Portuguesa, independentemente da sua nacionalidade, de poderem manter os respectivos lugares após 1999, sendo-lhes completamente assegurada a progressão na carreira com base em critérios de mérito, níveis de vencimento e pensões de aposentação e reforma, bem como demais regalias sociais em condições não menos favoráveis do que as praticadas à data da transferência da Administração; \n7.º A consagração da automia da Região Administrativa Especial na definição de políticas próprias no âmbito da cultura, educação, ciência e tecnologia e no plano económico, comercial, financeiro e monetário, mantendo-se os elementos básicos do", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "António Vitorino", 
    "text": "12 DE DEZEMBRO DE 1987 689", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "António Vitorino", 
    "text": "regime liberal que vigora em Macau, a existência de moeda própria e a especificidade da representação do território em organismos \ninternacionais de que faz parte; \n8.º Finalmente, o destaque conferido à especial protecção dispensada ao património cultural português existente em Macau.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "António Vitorino", 
    "text": "Ainda no anexo I estabelecem-se os princípios fundamentais que presidirão à regulamentação do direito à fixação de residência na futura Região Administrativa, beneficiando desse direito todos os cidadãos portugueses nascidos em Macau ou que aí tenham residido pelo menos sete anos consecutivos, antes ou após o estabelecimento da região administrativa.\nDestes princípios resulta o reconhecimento de um estatuto especial para os cidadãos portugueses de Macau que, sem renunciarem à sua \nnacionalidade portuguesa, desfrutarão após 1999 do direito de fixação de residência e de serem titulares de um bilhete de identidade permanente da região administrativa especial, bem como de todos os direitos inerentes aos habitantes de Macau, designadamente direitos políticos no âmbito da região e o direito de acederem ao exercício de funções públicas.\nA especial protecção conferida aos habitantes de Macau com \nnacionalidade portuguesa deve, pois, ser entendida à luz dos memorandos trocados entre Portugal e a República Popular da China sobre a questão da nacionalidade que é um aspecto particularmente relevante para esses habitantes locais e que bem podemos considerar como o especial traço distintivo do Acordo de Macau por contraponto ao Acordo de Hong-Kong.\nComo é do conhecimento generalizado, as leis da nacionalidade de Portugal e da República Popular da China assentam em pressupostos distintos: enquanto a lei portuguesa reconhece o princípio da dupla nacionalidade, a lei chinesa de 1980 não o admite. Esta discrepância explica a forma de tratamento da questão, através de troca de memorandos, de que emerge um resultado final que merece o acordo do Partido Socialista.\nCom efeito, e recordando as palavras do Primeiro-Ministro português em Macau na conferência de imprensa que deu em 18 de Abril deste ano, o essencial do memorando português consiste em que «quem é português hoje, quem é português no fim do período de transição, de acordo com a lei portuguesa continuará a ser português depois de 20 de Dezembro de 1999. Significa isso que, se nessa data alguém tem um passaporte português, é porque, de acordo com a lei portuguesa, é considerado cidadão português. Logo, pode continuar a obter os passaportes que entenda no futuro e um seu filho continuará a ser português, porque, nos termos da lei ponuguesa, filho de português é português, e esse filho poderá ter também um passaporte português». E mais adiante afirmou o Primeiro-Ministro: «A qualidade de cidadão português nunca pode ser posta em causa. Quem é português nunca perderá essa qualidade: \nsão estes os termos da nossa lei e será assim no futuro.» \nA declaração portuguesa em matéria de nacionalidade traduz-se, pois, em termos práticos, na admissão da aplicação do princípio da dupla nacionalidade aos habitantes de Macau com nacionalidade portuguesa, tenha esta sido adquirida pela lei de 1959 que acolhia o critério do jus soli, tenha ela sido adquirida pela lei de 1981, com base no critério de jus sanguini. O que significa que, de acordo com o disposto na nossa Constituição, o direito à cidadania não depende de \nconsiderações étnicas, mas tão somente da conformidade à lei do respectivo título de aquisição: até Novembro de 1981, o facto de ter nascido em Macau, quer quando Macau era considerado como parte integrante no império colonial quer quando já usufruía, entre 1976 e 1981, do estatuto de mero território sob a Administração Portuguesa; após Novembro de 1981, o facto de um dos progenitores ter nacionalidade portuguesa, independentemente da sua etnia ou local de nascimento.\nAos cidadãos que a lei da nacionalidade da República Popular da China considere como nacionais chineses e que, por terem nacionalidade portuguesa, nos termos da lei da nacionalidade de Portugal, disponham, em 1999, de passaporte português, a República Popular da China permitirá que continuem a usar esse passaporte como documento de viagem para outros países e regiões, não usufruindo, contudo, os seus detentores de protecção consular portuguesa na região administrativa especial de Macau nem nas outras regiões da República Popular da China como é, aliás, corolário lógico do princípio da dupla nacionalidade.\nA solução sobre a questão da nacionalidade, que pressupõe, como resulta da própria Constituição Portuguesa e é timbre dos pactos internacionais de direitos civis e políticos, a garantia, por parte do Estado Português, da sua manutenção e inalterabilidade, apresenta-se como bastante feliz, porque cristaliza direitos adquiridos, resulta de um esforço sério e honesto de aproximação e de bom senso entre as duas partes, esconjura o espectro da apatridia, reforça a confiança das populações do território e a estabilidade do mesmo e constitui a clara assumpção pelo Estado Português das suas responsabilidades presentes e futuras perante as diferentes comunidades de Macau.\nSr. Presidente, Sr.ªs. e Srs. Deputados: O Acordo aqui está, concluído pelo Governo e agora submetido à nossa apreciação e decisão final. Ao votá-lo favoravelmente a Assembleia da República não pode ignorar que assume o compromisso de, na sua específica esfera de competência, reforçar as condições de intervenção dos órgãos de governo do território - o Governador e a Assembleia Legislativa -, conferindo-lhes os instrumentos legislativos de que carecem, quer na ingente tarefa de adaptação dos diplomas legislativos portugueses às realidades do território, quer na definição de um sistema de tribunais auto-centrado, quer no apoio à política de generalização do bilinguismo -, corolário lógico do facto de a Declaração Conjunta prever que o português continuará a ser usado como língua oficial na Administração e nos tribunais para além de 1999 e ainda no apoio à política de localização dos quadros da Administração, sem cuja formação e promoção na carreira os princípios da autonomia e do governo próprio consignados na Declaração Conjunta serão letra morta. A Assembleia da República não poderá continuar a dormir sobre as questões de Macau como tem feito até aqui! \nAo Governo, enquanto responsável da condução da política externa, competirá, quer no âmbito do Grupo de Ligação Conjunto Luso-Chinês, quer no quadro do normal relacionamento diplomático, cooperar com a República Popular da China durante o período de transição, por forma a criar as condições apropriadas para a transferência de poderes em Macau a 20 de Dezembro de 1999, apoiando, na sua específica esfera de acção, a actuação do Governador de Macau e da Assembleia Legislativa.\nNos termos do anexo II da Declaração Conjunta, o Grupo de Ligação que dentro em breve será constituído é um órgão de ligação, consulta e troca de informações entre os Governos dos dois Estados, mas sem competências de interferência ou sequer de supervisão sobre a Administração de Macau. Pelo que a Administração do território continuará", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "António Vitorino", 
    "text": "690 I SÉRIE - NÚMERO 29", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "António Vitorino", 
    "text": "a competir em exclusivo até Dezembro de 1999 aos seus órgãos de governo, ao Governador, directa e exclusivamente dependente do Presidente da República, e à Assembleia Legislativa, no uso dos poderes conferidos pela Constituição Portuguesa e pelo Estatuto Orgânico de Macau que mantêm toda a sua eficácia e valor jurídico e a cujas regras se conforma e subordina, como não podia deixar de ser, a presente Declaração Conjunta e os seus anexos.\nAos Portugueses, no seu conjunto, importa conhecer melhor as realidades de Macau, o seu significado histórico e cultural, a sua dimensão humana verdadeiramente única, a resultante inimitável do encontro entre uma cultura e um modo de estar no mundo de um povo europeu centenar e a cultura e ideossincrasia ímpar de um povo asiático milenar.\nÁs populações do território de Macau cabe acima de tudo a tarefa de protagonizarem a construção do seu próprio futuro no quadro generoso oferecido pela Declaração Conjunta, assumindo nas suas próprias mãos os destinos do território, e através de uma participação consciente e organizada fazerem ouvir sem tibiezas nem receios a sua voz. Ninguém ignora que todos os processos de transformação político-administrativa envolvem para os seus destinatários aspectos de insegurança, incerteza e até alguma angústia. A Portugal e à República Popular da China cabe pois através do diálogo e da auscultação da vontade das populações locais potenciar as condições positivas da Declaração Conjunta e suscitar o apoio decidido das comunidades locais, permitindo em cada momento que elas se afirmem como os principais beneficiários dos novos horizontes que se abrem para Macau.\nSr. Presidente, Sr.ªs e Srs. Deputados: A aprovação do Acordo sobre Macau é, para o PS, o momento adequado para recordar a urgência da formulação de uma verdadeira e própria vertente asiática da nossa política externa.\nQuem não estiver hoje presente nesse vulcão imenso que e a região Ásia/Pacífico, quem se alhear da dimensão económica e cultural do Sudueste Asiático, sentirá daqui a dez anos que o «eixo da Terra», o verdadeiro centro dos grandes movimentos económicos, sociais e culturais do mundo moderno lhe fica cada vez mais distante e se lhe toma cada vez mais incompreensível e de difícil acesso.\nÉ desde logo a vertente bilateral das relações luso-chinesas que clama por novos passos de diálogo, intercâmbio e conhecimento mútuo, no plano económico e no plano cultural, num momento em que a República Popular da China prossegue firmemente uma política de rasgada e corajosa abertura ao mundo.\nE a polaridade da vertente japonesa, na sua pujança e dimensão verdadeiramente regional, cada vez mais virada para novas zonas geográficas e novos terrenos de afirmação, designadamente para as Comunidades Europeias de que Portugal faz parte.\nÉ também toda a multiplicidade de países mais próximos de Portugal em dimensão económica, desde Singapura à Coreia do Sul, da Tailândia a Taiwan, em fase de expansão acelerada e em busca de referenciais europeus numa base de igualdade e de vantagens mútuas.\nÉ finalmente a imensidade de uma Austrália e a dinâmica imparável das nações do Pacífico, cada vez mais articuladas com o Sudueste Asiático no seu conjunto, que encontram no Canadá e nos Estados Unidos interlocutores privilegiados, mas que tentam não descurar uma vertente europeia esconjurada dos fantasmas do passado colonial ou do paternalismo das grandes potências.\nPerante esta imensidade de desafios, um português que, como eu próprio, tenha tido o privilégio de viver inserido nesse turbilhão de criação do novo que é o Sudoeste Asiático não pode deixar de encarar o território de Macau como a placa giratória de um projecto mais vasto que nele não se esgota e que se pretende represente a afirmação credível da presença portuguesa naquela área. Sobretudo não pode deixar de se sentir incentivado pelos inúmeros pontos de contacto no plano cultural que temos com os povos daquela região e que os faz encarar Portugal e os Portugueses com um carinho e uma curiosidade muito especial.\nDesde a festa no Japão que todos os anos comemora a chegada dos portugueses e com eles da primeira espingarda à dinâmica sempre renovada da comunidade de raiz e fala portuguesa em Malaca, passando pela presença de portugueses na fundação de Singapura até à respeitosa recordação que perdura dos contactos que estabelecemos com o antigo Reino do Sião ou até ao simples facto de os neozelandeses reconhecerem que um navegador português alcançou a sua terra natal antes do consagrado Cook; eis o caminho que a história nos aponta e perante o qual não podemos deixar de sentir vergonha pelo tão pouco que temos feito, malgrado os esforços individuais de alguns especialmente atentos a estas realidades.\nÉ pois este o momento de colectivamente encararmos a formulação coerente e sistemática de uma componente asiática da nossa política externa, quer na vertente económica, quer na vertente cultural, por forma a que a presença portuguesa em Macau no século XXI, após a transferência da administração que a Declaração Conjunta propicia, não seja apenas uma presença isolada e saudosista, mas antes se integre numa expressão mais vasta, ambiciosa e dignificante de Portugal e dos Portugueses.", 
    "type": "deputado_continuacao"
   }, 
@@ -1142,22 +1129,19 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Nuno Deleure.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nuno Deleure.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Nuno Deleure* (PSD): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Sobe hoje a esta Câmara para efeitos de aprovação parlamentar o Acordo Luso-Chinês sobre a Questão de Macau. Dificilmente se encontraria melhor sede e oportunidade para, se bem que de forma resumida, contribuir no sentido de uma maior consciencialização dos Portugueses sobre a importância política da matéria em questão.\nAdmito que Portugal tenha uma dívida para com Macau: à pequenez do território, à sua localização geográfica e a .uma enorme dificuldade de compreender a maneira de ser e de estar de uma comunidade que tem vida e ritmos próprios, os Portugueses sempre reagiram pelo ostracismo. A transferência da administração do território, que a evidência aconselhava, corria assim o sério risco de ser uma alienação - mais ou menos feliz - de responsabilidade e não a sua assunção.\nFelizmente que Macau assumiu a dignidade de questão de Estado e que Portugal teve engenho e arte suficientes para dialogar sobre as condições que presidiriam ao término da sua condição de potência administrante e não se limitou a negociar o abandono. Tratou-se, entre os Governos Português e da República Popular da China, de um processo de diálogo construtivo, cujo único objectivo era encontrar a melhor solução para a singularidade do que estava em causa.\nÉ sabido que no domínio dos interesses não constituímos hoje uma grande potência mundial, mas é reconhecido que, no domínio dos valores, que desde sempre nos identificam como povo, temos interesses. Estes últimos interesses estão clara e inequivocamente salvaguardados.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Nuno Deleure", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Sobe hoje a esta Câmara para efeitos de aprovação parlamentar o Acordo Luso-Chinês sobre a Questão de Macau. Dificilmente se encontraria melhor sede e oportunidade para, se bem que de forma resumida, contribuir no sentido de uma maior consciencialização dos Portugueses sobre a importância política da matéria em questão.\nAdmito que Portugal tenha uma dívida para com Macau: à pequenez do território, à sua localização geográfica e a .uma enorme dificuldade de compreender a maneira de ser e de estar de uma comunidade que tem vida e ritmos próprios, os Portugueses sempre reagiram pelo ostracismo. A transferência da administração do território, que a evidência aconselhava, corria assim o sério risco de ser uma alienação - mais ou menos feliz - de responsabilidade e não a sua assunção.\nFelizmente que Macau assumiu a dignidade de questão de Estado e que Portugal teve engenho e arte suficientes para dialogar sobre as condições que presidiriam ao término da sua condição de potência administrante e não se limitou a negociar o abandono. Tratou-se, entre os Governos Português e da República Popular da China, de um processo de diálogo construtivo, cujo único objectivo era encontrar a melhor solução para a singularidade do que estava em causa.\nÉ sabido que no domínio dos interesses não constituímos hoje uma grande potência mundial, mas é reconhecido que, no domínio dos valores, que desde sempre nos identificam como povo, temos interesses. Estes últimos interesses estão clara e inequivocamente salvaguardados.\n12 DE DEZEMBRO DE 1987 691", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "12 DE DEZEMBRO DE 1987 691", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Despesas de capital", 
+   "party": "PSD", 
+   "speaker": "Nuno Deleure", 
    "text": "O Governo Português sempre conduziu a questão de Macau com os olhos postos no essencial e os ouvidos no acessório.\nO resultado está à vista: a estabilidade e progresso do território, as liberdades - todas as liberdades - e garantias dos seus habitantes, a defesa intransigente da língua e cultura portuguesas e o fortalecimento da nossa presença naquela região do mundo onde o século XXI acontecerá, inevitavelmente, mais cedo são aspectos cuja concretização só depende de nós próprios. Que todas as partes com responsabilidades durante o período de transição que se avizinha venham a estar à altura da letra e do espírito do Acordo negociado e que hoje esta Assembleia aprecia é um voto que se pretende deixar aqui expresso.\nSr. Presidente, Srs. Deputados: O Acordo Luso-Chinês sobre a Questão de Macau constituiu um lição que os Portugueses e Chineses deram ao mundo.\nNão se tratou de negociações (no sentido estrito do termo), porque nenhuma das partes assumiu Macau como um negócio, mas sim de, num esforço mútuo, apreender o que era passível de ser reciprocamente aceite. A data da transferência da administração e a questão da nacionalidade são, para ambos os lados, dois bons exemplos do que acabo de referir. É justo reconhecer que os consensos estavam facilitados pela pressão provocada pelo relacionamento pacífico entre portugueses e chineses em Macau. Sempre foi assim e o grande mérito do acordo é possibilitar - diria mesmo instigar - que assim continue a ser.\nO Vice-Ministro Chinês dos Negócios Estrangeiros, Zhu Nan, classificou o texto assinado como a vitória da inteligência. Para a parte portuguesa, diria ainda que se tratou da vitória do bom senso.\nNegociámos a tempo, com a força da legitimidade do que demos ao longo de mais de quatro séculos e com a humildade consequente a tudo o que recebemos.\nNo fundo, que mais dizer de um acordo que, seis meses depois de assinado, nunca provocou no dia-a-dia da população a que directamente respeita sinais evidentes de inquietação ou insegurança? \nMas o Acordo que apreciamos constitui também um facto quase único nos últimos treze anos de vivência democrática em Portugal. É que por cá a unanimidade foi também a nota dominante. Não me competindo apreciar as razões que justificam tal atitude, saúdo o facto de numa questão de política externa da maior importância as forças políticas portuguesas terem funcionado em uníssono.\nBom seria que exemplos tristes de um passado recente fossem a excepção e esta a regra! \nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: A história não pára. Todos os dias se terminam capítulos e se começam outros novos. Ao poder político cabe acertar o passo com a história para que a história não acabe por acertar o passo com os poderes instituídos.\nO Acordo Luso-Chinês sobre a Questão de Macau é história e sobretudo faz história. Não é pois de estranhar que na bancada parlamentar a que pertenço tenhamos motivos de plena satisfação pela sua aprovação por esta Assembleia e que queiramos deixar aqui expresso a todos, sem excepção os que sentem Macau como a sua terra, a nossa profunda convicção de que o território continuará em harmonia e desenvolvimento a ser um santuário de convivência pacífica de culturas.", 
    "type": "deputado_continuacao"
   }, 
@@ -1166,48 +1150,42 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, gostaria de lhes relembrar que estão a decorrer eleições na Sala D. Maria e que as umas fecham às 12 horas.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, gostaria de lhes relembrar que estão a decorrer eleições na Sala D. Maria e que as umas fecham às 12 horas.\nPara uma intervenção, tem a palavra o Sr. Deputado Carlos Brito.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos Brito.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: O Acordo Luso-Chinês sobre a restituição de Macau à soberania da República Popular da China chega finalmente à Assembleia da República, a quem compete aprovar para ratificação os instrumentos diplomáticos negociados pelo Governo.\nChega assim a altura de os partidos que compõem a Assembleia, por vontade do povo português, se poderem pronunciar sobre as soluções acordadas e o processo que levou a elas.\nO PCP tem de há muito uma posição clara, sem qualquer ambiguidade e com grande sentido nacional, sobre o fundo da questão de Macau.\nNo programa do PCP aprovado no seu VI Congresso, realizado \nclandestinamente em 1965, definiu-se como uma medida fundamental a realização de «negociações e acordos com o Governo da República Popular da China para a integração nesta de Macau».\nNo VII Congresso (extraordinário), realizado em 1974, logo a seguir ao 25 de Abril, o PCP confirmou a definição de 1965 sobre Macau, a que associou a ideia de um «acordo relativo à salvaguarda da presença histórica e cultural portuguesa» no território.\nFoi com esta orientação que contribuímos para o tratamento dado pela Constituição da República à questão de Macau, considerando-o não como território português, mas apenas território sob a Administração Portuguesa.\nÉ à luz destas posições e princípios, de que a vida demonstrou a justeza política e histórica, que avaliamos agora o Acordo Luso-Chinês sobre a Questão de Macau.\nTorna-se assim evidente que a posição do PCP é a de aprovação da solução global a que se chegou e de franco regozijo pelas perspectivas que ela abre ao desenvolvimento das relações de amizade e cooperação com a grande nação chinesa.\nAo anunciarmos esta atitude, no fundamental positiva, não podemos deixar sem reparo alguns aspectos que marcam a condução das negociações por parte do Governo Português, como o secretismo de que as rodeou, não informando o País, nem sequer a Assembleia da República e as forças políticas nela representadas, em relação a opções que, pelo seu melindre exigiam uma posição nacional.\nÉ importante dizer a este respeito que a Assembleia da República desconhecia totalmente, até à apresentação pelo Governo da proposta de resolução que visa a aprovação do Acordo, em 6 de Novembro, o empenho manifestado pela República Popular da China de ver assegurada a sua entrada em vigor antes do XIII Congresso do Partido Comunista Chinês, em Setembro.\nVem ainda a propósito dizer que, se há atraso na aprovação para ratificação do Acordo, não cabe à Assembleia da República qualquer espécie de responsabilidade e a data escolhida, o dia de hoje, teve a plena concordância do Governo.\nRefira-se, finalmente, nesta linha de considerações, que no ponto IV da nota justificativa se diz que «o Acordo Luso-Chinês sobre a Questão de Macau consta de uma declaração e dois anexos, instrumentos diplomáticos com o mesmo estatuto jurídico e igualmente vinculatórios para os Estados signatários». Mas acrescenta imediatamente a seguir: «Por ocasião da assinatura foram formalmente trocados dois memorandos destinados a definir, à luz do direito vigente em cada Estado parte, o regime de actualização de passaportes portugueses pelos habitantes de Macau em que concorram as nacionalidades portuguesa e chinesa.» 692 I SÉRIE - NÚMERO 29", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: O Acordo Luso-Chinês sobre a restituição de Macau à soberania da República Popular da China chega finalmente à Assembleia da República, a quem compete aprovar para ratificação os instrumentos diplomáticos negociados pelo Governo.\nChega assim a altura de os partidos que compõem a Assembleia, por vontade do povo português, se poderem pronunciar sobre as soluções acordadas e o processo que levou a elas.\nO PCP tem de há muito uma posição clara, sem qualquer ambiguidade e com grande sentido nacional, sobre o fundo da questão de Macau.\nNo programa do PCP aprovado no seu VI Congresso, realizado \nclandestinamente em 1965, definiu-se como uma medida fundamental a realização de «negociações e acordos com o Governo da República Popular da China para a integração nesta de Macau».\nNo VII Congresso (extraordinário), realizado em 1974, logo a seguir ao 25 de Abril, o PCP confirmou a definição de 1965 sobre Macau, a que associou a ideia de um «acordo relativo à salvaguarda da presença histórica e cultural portuguesa» no território.\nFoi com esta orientação que contribuímos para o tratamento dado pela Constituição da República à questão de Macau, considerando-o não como território português, mas apenas território sob a Administração Portuguesa.\nÉ à luz destas posições e princípios, de que a vida demonstrou a justeza política e histórica, que avaliamos agora o Acordo Luso-Chinês sobre a Questão de Macau.\nTorna-se assim evidente que a posição do PCP é a de aprovação da solução global a que se chegou e de franco regozijo pelas perspectivas que ela abre ao desenvolvimento das relações de amizade e cooperação com a grande nação chinesa.\nAo anunciarmos esta atitude, no fundamental positiva, não podemos deixar sem reparo alguns aspectos que marcam a condução das negociações por parte do Governo Português, como o secretismo de que as rodeou, não informando o País, nem sequer a Assembleia da República e as forças políticas nela representadas, em relação a opções que, pelo seu melindre exigiam uma posição nacional.\nÉ importante dizer a este respeito que a Assembleia da República desconhecia totalmente, até à apresentação pelo Governo da proposta de resolução que visa a aprovação do Acordo, em 6 de Novembro, o empenho manifestado pela República Popular da China de ver assegurada a sua entrada em vigor antes do XIII Congresso do Partido Comunista Chinês, em Setembro.\nVem ainda a propósito dizer que, se há atraso na aprovação para ratificação do Acordo, não cabe à Assembleia da República qualquer espécie de responsabilidade e a data escolhida, o dia de hoje, teve a plena concordância do Governo.\nRefira-se, finalmente, nesta linha de considerações, que no ponto IV da nota justificativa se diz que «o Acordo Luso-Chinês sobre a Questão de Macau consta de uma declaração e dois anexos, instrumentos diplomáticos com o mesmo estatuto jurídico e igualmente vinculatórios para os Estados signatários». Mas acrescenta imediatamente a seguir: «Por ocasião da assinatura foram formalmente trocados dois memorandos destinados a definir, à luz do direito vigente em cada Estado parte, o regime de actualização de passaportes portugueses pelos habitantes de Macau em que concorram as nacionalidades portuguesa e chinesa.»", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Despesas de capital", 
-   "text": "692 I SÉRIE - NÚMERO 29", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Despesas de capital", 
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
    "text": "Ora, importa salientar que o conteúdo dos memorandos só foi dado a conhecer à Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, da Assembleia da República, ontem, menos de 24 horas antes do início do debate.\nImporta aqui referir que quem quer que tenha acompanhado com alguma atenção a questão de Macau sabe perfeitamente o grande melindre que reveste a questão dos passaportes portugueses e a sua implicação com a questão da aquisição da nacionalidade portuguesa. Este melindre é tão grande que justificava plenamente que o Governo atempadamente prestasse esclarecimentos à Assembleia da República e com ela tivesse debatido a questão, na forma que considerasse mais adequada, para que ficasse claro o conteúdo e as consequências dos dois memorandos. Devo dizer ao Sr. Deputado António Vitorino que a Assembleia da República não tem estado a dormir em relação a Macau e nem quer dormir, mas precisa de ser informada.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Muito bem!", 
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Fazemos questão de lembrar que, quando ainda decorriam as negociações, o PCP preconizou, em declarações públicas da sua direcção e de seus dirigentes, que era necessário encontrar uma solução justa, que tivesse em conta o que sentem e pensam os próprios, para as dezenas de milhares de habitantes de Macau que não fazem parte nem da população chinesa nem dos poucos milhares de portugueses ligados à Administração.\nInsistindo em que era necessário um estatuto próprio que assegurasse os direitos destes cidadãos, o PCP manifestava ao mesmo tempo completa oposição a que as forças da direita pudessem manipular a questão da aquisição da nacionalidade através dos passaportes concedidos a cidadãos chineses para criarem artificialmente em Macau uma força estranha à nação portuguesa, podendo entretanto vir a pesar na vida política interna do nosso país.\nMantemos a mesma posição.\nMacau tem uma situação singular na história e na cultura portuguesas.\nConstitui um património inumerável de referências e valores, onde, apesar de tudo, se destaca a ligação ao território da vida e da obra de Camões, em especial de Os Lusíadas, epopeia dos Portugueses, obra-prima da literatura portuguesa e mundial.\nAcompanhamos, por isso, com particular atenção, e consideramos importantes as disposições do Acordo que visam salvaguardar estes valores e as estipulações relativas à protecção da língua portuguesa.\nRelacionamos, também, com estas preocupações a grande importância que atribuímos ao período transitório que vai seguir-se à entrada em vigor do Acordo até à transferência da soberania para a República Popular da China, em 20 de Dezembro de 1999.\nÉ necessário que a Administração Portuguesa dê as melhores provas de isenção, rigor, transparência, justeza nas decisões e grande firmeza para comportamentos oportunistas e favoritistas.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Orador: Fazemos questão de lembrar que, quando ainda decorriam as negociações, o PCP preconizou, em declarações públicas da sua direcção e de seus dirigentes, que era necessário encontrar uma solução justa, que tivesse em conta o que sentem e pensam os próprios, para as dezenas de milhares de habitantes de Macau que não fazem parte nem da população chinesa nem dos poucos milhares de portugueses ligados à Administração.\nInsistindo em que era necessário um estatuto próprio que assegurasse os direitos destes cidadãos, o PCP manifestava ao mesmo tempo completa oposição a que as forças da direita pudessem manipular a questão da aquisição da nacionalidade através dos passaportes concedidos a cidadãos chineses para criarem artificialmente em Macau uma força estranha à nação portuguesa, podendo entretanto vir a pesar na vida política interna do nosso país.\nMantemos a mesma posição.\nMacau tem uma situação singular na história e na cultura portuguesas.\nConstitui um património inumerável de referências e valores, onde, apesar de tudo, se destaca a ligação ao território da vida e da obra de Camões, em especial de Os Lusíadas, epopeia dos Portugueses, obra-prima da literatura portuguesa e mundial.\nAcompanhamos, por isso, com particular atenção, e consideramos importantes as disposições do Acordo que visam salvaguardar estes valores e as estipulações relativas à protecção da língua portuguesa.\nRelacionamos, também, com estas preocupações a grande importância que atribuímos ao período transitório que vai seguir-se à entrada em vigor do Acordo até à transferência da soberania para a República Popular da China, em 20 de Dezembro de 1999.\nÉ necessário que a Administração Portuguesa dê as melhores provas de isenção, rigor, transparência, justeza nas decisões e grande firmeza para comportamentos oportunistas e favoritistas.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Despesas de capital", 
-   "text": "O Orador: Com o acto que hoje efectuamos na Assembleia da República o processo de formalização do Acordo Luso-Chinês sobre Macau aproxima-se da sua plena concretização. Falta agora a ratificação pelo Sr.Presidente da República. Segue-se depois a necessidade de introduzir na Constituição da República as alterações correspondentes, como é, aliás, proposto no projecto de revisão constitucional do PCP.\nÉ altura apropriada para desejar às populações de Macau, na nova fase da vida que se lhes vai abrir, maior desenvolvimento económico, mais progresso e justiça social.\nPela nossa parte, tudo faremos para contribuir para que se reforcem os laços de cooperação entre a República Portuguesa e a República Popular da China e para que se fortaleçam as relações de amizade entre o povo português e o povo chinês.", 
+   "speaker": "O Orador", 
+   "text": "Com o acto que hoje efectuamos na Assembleia da República o processo de formalização do Acordo Luso-Chinês sobre Macau aproxima-se da sua plena concretização. Falta agora a ratificação pelo Sr.Presidente da República. Segue-se depois a necessidade de introduzir na Constituição da República as alterações correspondentes, como é, aliás, proposto no projecto de revisão constitucional do PCP.\nÉ altura apropriada para desejar às populações de Macau, na nova fase da vida que se lhes vai abrir, maior desenvolvimento económico, mais progresso e justiça social.\nPela nossa parte, tudo faremos para contribuir para que se reforcem os laços de cooperação entre a República Portuguesa e a República Popular da China e para que se fortaleçam as relações de amizade entre o povo português e o povo chinês.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -1215,84 +1193,86 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Hermínio Maninho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Hermínio Maninho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Hermínio Martinho* (PRD): Sr. Presidente, Srs. Deputados: O momento da ratificação do Acordo de Macau assume, para o nosso país, um significado muito especial.\nTrata-se, com efeito, do início da contagem decrescente da presença da soberania portuguesa no Extremo Oriente - uma presença de quase cinco séculos! \nAproxima-se, pois, o momento do fecho final de um capítulo da história portuguesa, abrindo-se, concomitantemente, um outro capítulo, que, à partida, se apresenta favorável ao incremento e aprofundamento das relações económicas, financeiras e culturais com a República Popular da China.\nMas, para além da importância de que o relacionamento externo com a China assume para Portugal - e devemos congratular-nos por se encontrarem reunidas condições políticas para enfrentar os diferentes tipos de problemas que se torna necessário ultrapassar -, a questão angular respeita à situação da população do território, nomeadamente a da Comunidade Portuguesa que, durante centenas de anos, manteve viva a presença da cultura portuguesa em Macau. É este particular mas decisivo aspecto que, neste momento, suscita a nossa especial atenção.\nReferimo-nos naturalmente à comunidade macaense que, durante sucessivas gerações, permaneceu naquele território, sempre com o pensamento na mãe-pátria, da qual muitas vezes, de resto, permaneceu isolada.\nO Acordo em apreço oferece um conjunto de garantias dirigidas à manutenção de condições mínimas de estabilidade e segurança num contexto que preserva o sistema económico que se tem vindo a implantar no território.\nAdmite-se que elas constituam as garantias politicamente possíveis e que venham a permitir às populações, que vivem e trabalham em Macau, continuar a prosperar e a contribuir para o desenvolvimento da região em que o território se insere.\nJulga-se, no entanto, que se torna indispensável sublinhar duas questões que tenderão a assumir, ao longo do período de transição que se vai iniciar, uma importância decisiva.\nA primeira diz respeito a todos quantos no território mantêm a cidadania portuguesa e nele nasceram. Não se vislumbram razões de natureza jurídico-política que possam justificar soluções que impeçam aqueles de participar, plenamente, na vida política do território depois de a Administração Portuguesa se retirar de Macau. Dado que o Acordo remete para trabalhos posteriores a preparação dos textos legais que passarão a enquadrar o sistema político a implantar no território, afigura-se indispensável encontrar soluções que permitam àqueles cidadãos permanecer em Macau, preservando todos os seus direitos cívicos e políticos.", 
-   "type": "deputado_continuacao"
+   "party": "PRD", 
+   "speaker": "Hermínio Martinho", 
+   "text": "Sr. Presidente, Srs. Deputados: O momento da ratificação do Acordo de Macau assume, para o nosso país, um significado muito especial.\nTrata-se, com efeito, do início da contagem decrescente da presença da soberania portuguesa no Extremo Oriente - uma presença de quase cinco séculos! \nAproxima-se, pois, o momento do fecho final de um capítulo da história portuguesa, abrindo-se, concomitantemente, um outro capítulo, que, à partida, se apresenta favorável ao incremento e aprofundamento das relações económicas, financeiras e culturais com a República Popular da China.\nMas, para além da importância de que o relacionamento externo com a China assume para Portugal - e devemos congratular-nos por se encontrarem reunidas condições políticas para enfrentar os diferentes tipos de problemas que se torna necessário ultrapassar -, a questão angular respeita à situação da população do território, nomeadamente a da Comunidade Portuguesa que, durante centenas de anos, manteve viva a presença da cultura portuguesa em Macau. É este particular mas decisivo aspecto que, neste momento, suscita a nossa especial atenção.\nReferimo-nos naturalmente à comunidade macaense que, durante sucessivas gerações, permaneceu naquele território, sempre com o pensamento na mãe-pátria, da qual muitas vezes, de resto, permaneceu isolada.\nO Acordo em apreço oferece um conjunto de garantias dirigidas à manutenção de condições mínimas de estabilidade e segurança num contexto que preserva o sistema económico que se tem vindo a implantar no território.\nAdmite-se que elas constituam as garantias politicamente possíveis e que venham a permitir às populações, que vivem e trabalham em Macau, continuar a prosperar e a contribuir para o desenvolvimento da região em que o território se insere.\nJulga-se, no entanto, que se torna indispensável sublinhar duas questões que tenderão a assumir, ao longo do período de transição que se vai iniciar, uma importância decisiva.\nA primeira diz respeito a todos quantos no território mantêm a cidadania portuguesa e nele nasceram. Não se vislumbram razões de natureza jurídico-política que possam justificar soluções que impeçam aqueles de participar, plenamente, na vida política do território depois de a Administração Portuguesa se retirar de Macau. Dado que o Acordo remete para trabalhos posteriores a preparação dos textos legais que passarão a enquadrar o sistema político a implantar no território, afigura-se indispensável encontrar soluções que permitam àqueles cidadãos permanecer em Macau, preservando todos os seus direitos cívicos e políticos.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PRD", 
+   "speaker": "Hermínio Martinho", 
    "text": "12 DE DEZEMBRO DE 1987 693", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "PRD", 
+   "speaker": "Hermínio Martinho", 
    "text": "A este propósito não pode deixar de referir-se que não foi dada aos partidos com assento parlamentar a possibilidade de, em tempo útil, contribuírem com propostas concretas de superação de certas questões críticas. Pena é que tal tenha sucedido, visto que, de outro modo, teria sido, porventura, possível ver consagradas no texto do Acordo algumas questões cruciais ainda em aberto, que não enunciamos nem explicitamos por considerarmos não ser este o momento adequado para tal. Neste quadro, é difícil exagerar a importância do trabalho a desenvolver pelo Grupo de Ligação, ao qual caberá a responsabilidade, durante o período de transição, de propor soluções adequadas para problemas de cuja resolução dependerá a estabilidade política e económica do território.\nA segunda questão que se afigura pertinente salientar respeita à criação de condições susceptíveis de preservar os laços entre Portugal e aquele território do Extremo Oriente.\nO período de transição que se vai iniciar será decisivo. Haverá que intensificar esforços nos planos cultural, económico e financeiro com Macau, potenciando, por essa via, a optimização das relações com a região onde este se insere.\nDa capacidade que demonstramos para fortalecer os laços que hoje existem e que são histórica e culturalmente fortes - de mais de quatro séculos -, mas comercial e financeiramente fracos - como reflexo das nossas próprias dificuldades económicas -, dependerá, de forma decisiva, a permanência da nossa presença.\nSendo certo que dos empresários portugueses dependerá, em boa medida, o êxito de tal processo, a verdade é que competirá igualmente aos Governos do território e de Portugal uma decisiva quota-parte de responsabilidade na criação de condições que apoiem a penetração da nossa economia.\nEconomia que, apresentando ainda sintomas de desequilíbrios estruturais que decerto enfraquecem a sua capacidade de expansão internacional, se encontra todavia inserida, de pleno direito, no espaço económico europeu.\nAs ligações históricas, culturais e políticas que mantemos com Macau e com a República Popular da China poderão, caso as saibamos potenciar e aproveitar adequadamente, representar um importante activo no contexto europeu.\nAssim o Governo Português em articulação com o Governo do território o compreendam, concitando energias e fazendo convergir os esforços dos agentes económicos em ordem à consecução daquele desiderato. O PRD está disponível para, dentro do espírito de unidade que deve caracterizar a intervenção do Estado Português, colaborar, empenhada e \nsistematicamente, na criação de uma envolvente ética, política e económica garantidora do sucesso do processo referido.\nOs mais elevados interesses nacionais exigem que a administração do território seja estável e competente de modo a que a fase terminal da nossa Administração patenteie a máxima dignidade e que a imagem que Portugal vai deixar ajude a preservar e a consolidar as nossas relações de amizade com o grande país que é a China, única via para desenvolver e aprofundar relações privilegiadas com uma zona do globo que ganha importância crescente.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PRD e de alguns deputados do PSD, PS e CDS.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Adriano Moreira.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Adriano Moreira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Adriano Moreira* (CDS): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: O mito do fim do milénio, sempre animador da visão de uma nova era limpa das manchas que afligiam os homens no milénio que finda, está a contribuir muito activamente para a esperança de um século XXI liberto das ameaças que têm afligido o nosso tempo. Em poucos meses, pensadores como Frederico Mayor advertem-nos de que «Manãna siempre es tarde» para que, agora, os editores redescubram Edgar Morin com o seu Pour Sortir du XX Siècle e os líderes das superpotências corram para Washington, para nos convencerem a todos, mesmo antes de se convencerem a si próprios, de que vai realmente começar um novo esforço no sentido da implantação da paz pelo direito.\nCuriosamente, a China não aparece definida ou referenciada como um agente principal na construção desse futuro sem o qual é possível que não exista qualquer futuro, e todos parecem ainda subordinados à imagem que foi deixada por Hegel na Filosofia da História: que a China descobriu a bússola, sem criar um instrumento para as navegações; descobriu a imprensa sem inventar os meios de comunicação social, descobriu a pólvora sem criar os canhões, de tal modo que «não interveio na história mundial, mas apenas na história considerada como algo que tem aspectos naturais, necessidades externas, impulsos». O próprio Edgar Morin, incerto, e ao mesmo tempo angustiado e \nesperançoso, nos incita nestes termos: «Preparemo-nos para tudo...\nPreparemo-nos para o nada... Preparemo-nos para a Bola de Fogo... Mas preparemo-nos também para as libertações, mesmo efémeras, para as surpresas divinas, para os novos êxtases da história.» Fala da nossa agonia, no sentido de Unamuno, dos agentes da política mundial que nos levaram à situação apocalíptica de que pretendemos sair, das potências agentes da situação, da qual pretendemos libertar-nos, e não fala da China. Não existe ao menos nas negociações que agora acabam um Fernão Mendes Pinto mais confiável do que os meios de informação disponíveis porque, que o saibamos, não apareceu entre os discretos negociadores dos secretos tratados que levaram ao Acordo sobre o qual se debruça hoje a Câmara. E, todavia, até à moralmente terrível Guerra do Ópio (1839-1844), fomos nós, Portugueses, as testemunhas da abertura da China ao cosmopolitismo e ao movimento, demonstrando que o conflito podia ser eliminado das relações, e permitindo que Mão Tsé-Tung escrevesse ser «Portugal o único país da Europa que permaneceu na China sem nunca lhe ter feito guerra». Macau não foi nunca uma mancha na face da China, eles próprios recusaram sempre consentir, mesmo no chamado ano áureo da descolonização, que foi 1961, que o dinâmico conselho de tutela das Nações Unidas tivesse o atrevimento de incluir a Cidade do Santo Nome de Deus entre os territórios coloniais. Fazemos este presente tratado com o mais antigo Estado do mundo com a certeza de que, ao marcar a data do fim da responsabilidade portuguesa pela primeira República Popular do Oriente, que é Macau, também ali fica o único monumento ocidental da vocação pela paz pelo direito, pelas relações consentidas, pela cooperação frutuosa dos povos diferentes pela cultura e pelo poder nacional, mas juntos porque a terra é só uma.\nNunca estivemos ali porque a nossa força estivesse à medida de impor a presença. Julgamos que vamos sair do século XX com uma activa presença chinesa, tudo o contrário da falsa imagem de passividade que ainda excessivamente circula. Com a previsão de que quanto mais progredir o desarmamento e diminuir, como desejamos, o peso da variável \nestratégica, o mundo será cada vez menos bipolar, e que a China será um dos pólos dinamizadores do século que se aproxima, num mar onde parece que o futuro marcou domicílio. Com este tratado vamos tentar continuar, mas estando ali de acordo com a nova maneira que o mundo \ninterdependente e solidário exige e a nossa circuns-", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Adriano Moreira", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: O mito do fim do milénio, sempre animador da visão de uma nova era limpa das manchas que afligiam os homens no milénio que finda, está a contribuir muito activamente para a esperança de um século XXI liberto das ameaças que têm afligido o nosso tempo. Em poucos meses, pensadores como Frederico Mayor advertem-nos de que «Manãna siempre es tarde» para que, agora, os editores redescubram Edgar Morin com o seu Pour Sortir du XX Siècle e os líderes das superpotências corram para Washington, para nos convencerem a todos, mesmo antes de se convencerem a si próprios, de que vai realmente começar um novo esforço no sentido da implantação da paz pelo direito.\nCuriosamente, a China não aparece definida ou referenciada como um agente principal na construção desse futuro sem o qual é possível que não exista qualquer futuro, e todos parecem ainda subordinados à imagem que foi deixada por Hegel na Filosofia da História: que a China descobriu a bússola, sem criar um instrumento para as navegações; descobriu a imprensa sem inventar os meios de comunicação social, descobriu a pólvora sem criar os canhões, de tal modo que «não interveio na história mundial, mas apenas na história considerada como algo que tem aspectos naturais, necessidades externas, impulsos». O próprio Edgar Morin, incerto, e ao mesmo tempo angustiado e \nesperançoso, nos incita nestes termos: «Preparemo-nos para tudo...\nPreparemo-nos para o nada... Preparemo-nos para a Bola de Fogo... Mas preparemo-nos também para as libertações, mesmo efémeras, para as surpresas divinas, para os novos êxtases da história.» Fala da nossa agonia, no sentido de Unamuno, dos agentes da política mundial que nos levaram à situação apocalíptica de que pretendemos sair, das potências agentes da situação, da qual pretendemos libertar-nos, e não fala da China. Não existe ao menos nas negociações que agora acabam um Fernão Mendes Pinto mais confiável do que os meios de informação disponíveis porque, que o saibamos, não apareceu entre os discretos negociadores dos secretos tratados que levaram ao Acordo sobre o qual se debruça hoje a Câmara. E, todavia, até à moralmente terrível Guerra do Ópio (1839-1844), fomos nós, Portugueses, as testemunhas da abertura da China ao cosmopolitismo e ao movimento, demonstrando que o conflito podia ser eliminado das relações, e permitindo que Mão Tsé-Tung escrevesse ser «Portugal o único país da Europa que permaneceu na China sem nunca lhe ter feito guerra». Macau não foi nunca uma mancha na face da China, eles próprios recusaram sempre consentir, mesmo no chamado ano áureo da descolonização, que foi 1961, que o dinâmico conselho de tutela das Nações Unidas tivesse o atrevimento de incluir a Cidade do Santo Nome de Deus entre os territórios coloniais. Fazemos este presente tratado com o mais antigo Estado do mundo com a certeza de que, ao marcar a data do fim da responsabilidade portuguesa pela primeira República Popular do Oriente, que é Macau, também ali fica o único monumento ocidental da vocação pela paz pelo direito, pelas relações consentidas, pela cooperação frutuosa dos povos diferentes pela cultura e pelo poder nacional, mas juntos porque a terra é só uma.\nNunca estivemos ali porque a nossa força estivesse à medida de impor a presença. Julgamos que vamos sair do século XX com uma activa presença chinesa, tudo o contrário da falsa imagem de passividade que ainda excessivamente circula. Com a previsão de que quanto mais progredir o desarmamento e diminuir, como desejamos, o peso da variável \nestratégica, o mundo será cada vez menos bipolar, e que a China será um dos pólos dinamizadores do século que se aproxima, num mar onde parece que o futuro marcou domicílio. Com este tratado vamos tentar continuar, mas estando ali de acordo com a nova maneira que o mundo \ninterdependente e solidário exige e a nossa circuns-", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "CDS", 
+   "speaker": "Adriano Moreira", 
    "text": "694 I SÉRIE - NÚMERO 29", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "party": "CDS", 
+   "speaker": "Adriano Moreira", 
    "text": "táncia consente. O espaço que o tratado nos reserva fica protegido apenas pelo sentido do limite, da responsabilidade de Estado, da observância da ética, de que a China deu secularmente prova. Que tal espaço possa ser a plataforma de serviços indispensável aos interesses da humanidade e aos nossos, que possa contribuir para encher o grande vazio que é o grande Pacífico, depende inteiramente da nossa capacidade, que passa pela eficácia dos governos que conseguirmos escolher. É uma nova página, mas em branco.\nQuando aprovamos este tratado é na esperança de que possa ser escrito em termos de que todos passem a ter orgulho daquilo que lá for escrito.\nA responsabilidade está exclusivamente nas nossas mãos, porque da China não esperamos agressão, mas apenas cooperação, e a outra atitude não poderíamos responder. A nossa resposta é a da cooperação confiante, para satisfazer as legítimas esperanças que o nosso passado comum, da China e de Portugal, fundamenta e garante. Por isso damos o nosso voto favorável.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS, do PSD, do PS e do PRD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra a Sr.ª Deputada Maria Santos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra a Sr.ª Deputada Maria Santos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "A Sr.ª Maria Santos (Os Verdes): Sr. Presidente, Sr.ªs e Srs.Deputados: Macau foi durante anos ponto de encontro entre dois povos e dois países, a República Popular da China e Portugal.\nChegamos agora a uma nova fase onde as relações entre os povos se assumem pela compreensão mútua, pelo intercâmbio cultural, pela cooperação científica e económica, pelo entendimento de um mundo, próprio de uma época e de uma história, com um passado e consequências inegavelmente negativas mas também positivas. Macau deixará de estar sob a Administração Portuguesa no final deste século XX.\nCumprem-se, assim, os Descobrimentos, continua a história dos nossos dois povos e países, presentes como sempre estiveram.\nA situação a que agora chegámos só foi no entanto possível porque houve em Portugal a Revolução de Abril e porque existe uma Constituição que Abril reflecte. O espírito democrático de reconhecimento do direito dos povos à resolução dos seus próprios destinos foi aí plenamente contemplado. Com a votação que hoje realizámos é também comemorar Abril que fazemos.\nVotação que pressupõe a existência de uma vontade política comum de desenvolvimento de Macau e faz pesar, designadamente sobre as autoridades portuguesas, grandes responsabilidades para uma normal transferência de Administração, impedindo atitudes abusivas e de aproveitamento ilegítimo de «vantagens» da situação transitória agora criada. Pelo lado do Partido Os Verdes estaremos pois atentos! \nPortugal completa assim o seu contributo, embora tardio, para a emancipação dos povos, corrigindo atrasos, incompreensões, visões cegas de história, apenas restando o encontrar de uma solução justa e digna para o problema de Timor-Leste.\nTerminado um período, não se completa, no entanto, a história, e entramos agora no século XXI, prontos a participar numa época onde os povos e as nações se terão de desenvolver, de continuar o homem, de garantir uma nova perspectiva onde a cooperação e a amizade se irão desenvolver no sentido da paz e do progresso.\nNa história da República Popular da China e na história da República Portuguesa, as duas culturas estarão sempre presentes, portugueses e chineses continuadamente a encontrarem-se, não só em Macau mas no percurso próprio de dois povos que entram agora numa nova era.\nCuidemos nós, todos nós, Portugueses, da autenticidade deste novo começo.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, Sr.ªs e Srs.Deputados: Macau foi durante anos ponto de encontro entre dois povos e dois países, a República Popular da China e Portugal.\nChegamos agora a uma nova fase onde as relações entre os povos se assumem pela compreensão mútua, pelo intercâmbio cultural, pela cooperação científica e económica, pelo entendimento de um mundo, próprio de uma época e de uma história, com um passado e consequências inegavelmente negativas mas também positivas. Macau deixará de estar sob a Administração Portuguesa no final deste século XX.\nCumprem-se, assim, os Descobrimentos, continua a história dos nossos dois povos e países, presentes como sempre estiveram.\nA situação a que agora chegámos só foi no entanto possível porque houve em Portugal a Revolução de Abril e porque existe uma Constituição que Abril reflecte. O espírito democrático de reconhecimento do direito dos povos à resolução dos seus próprios destinos foi aí plenamente contemplado. Com a votação que hoje realizámos é também comemorar Abril que fazemos.\nVotação que pressupõe a existência de uma vontade política comum de desenvolvimento de Macau e faz pesar, designadamente sobre as autoridades portuguesas, grandes responsabilidades para uma normal transferência de Administração, impedindo atitudes abusivas e de aproveitamento ilegítimo de «vantagens» da situação transitória agora criada. Pelo lado do Partido Os Verdes estaremos pois atentos! \nPortugal completa assim o seu contributo, embora tardio, para a emancipação dos povos, corrigindo atrasos, incompreensões, visões cegas de história, apenas restando o encontrar de uma solução justa e digna para o problema de Timor-Leste.\nTerminado um período, não se completa, no entanto, a história, e entramos agora no século XXI, prontos a participar numa época onde os povos e as nações se terão de desenvolver, de continuar o homem, de garantir uma nova perspectiva onde a cooperação e a amizade se irão desenvolver no sentido da paz e do progresso.\nNa história da República Popular da China e na história da República Portuguesa, as duas culturas estarão sempre presentes, portugueses e chineses continuadamente a encontrarem-se, não só em Macau mas no percurso próprio de dois povos que entram agora numa nova era.\nCuidemos nós, todos nós, Portugueses, da autenticidade deste novo começo.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Aplausos do PS, do PCP, do PRD e de alguns deputados do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Raul Rego.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Raul Rego.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Raul Rego* (PS): Sr. Presidente, Srs. Deputados: Em boa paz e harmonia, estamos a proceder ao último acto da descolonização portuguesa, e pena foi que toda ela não tenha decorrido atendendo apenas à vontade e aos superiores interesses dos povos, mas entre ódios e sangueiras, silêncios impostos e milhares de vidas e montões de riquezas destruídos.\nNão esqueço que sou um dos sessenta signatários do Programa para a Democratização da República, de 1961, apresentado ao público e logo abafado pela mão de Judas censória. Em Portugal o ser-se pela autodeterminação dos povos era então um crime e como tal punido com o Aljube, Caxias, a não ser que se recorresse ao exílio.\nAqui estamos, representantes de um povo livre, a dar testemunho desse mesmo direito dos povos disporem de si mesmos. Eu bem sei que para os Portugueses Macau nunca foi uma colónia, a não ser para os \ncolonialistas que começam por tratar como colonizados os próprios cidadãos da metrópole.\nMacau nasceu como ponto de contacto entre dois povos, duas \ncivilizações, e assim se manteve até hoje e assim continuará, esperamos, o seu historial de elo e compreensão entre a China e Portugal, entre o Oriente e o Ocidente.\nMacau nunca foi uma colónia, dissemos. Essencialmente um ponto de contacto entre Portugal e a China; mas esse contacto estabeleceu-se na mesma altura em que se começavam a construir os grandes impérios coloniais. Em 1517, dois anos depois da morte de Afonso de Albuquerque, segue de Malaca para Cantão o boticário Tomé Pires na qualidade de embaixador. Longa viagem e complicações sem conta, mas a missão foi levada a bom termo.\nMas já em 1568 a feitoria contava nada menos de 900 portugueses, aventureiros, mercadores, homens de armas. Até o nosso maior das letras, nada menos que Luís de Camões, por lá andou parece que como procurador das viúvas e ausentes. O Leal Senado existia então; existe ainda hoje. Era o representante de Portugal para a nossa política no Extremo Oriente.\nSão quase cinco séculos de contactos, relações, comércio, colaboração, até nossos dias.\nHomens de Macau exerceram em Portugal as mais altas funções e, entre os Presidentes do Ministério da República, há nada menos de dois naturais de Macau: Vítor Hugo de Azevedo Coutinho e João Tamagnini Barbosa.\nGovernador de Macau foi sempre para nós um dos postos mais altos da administração ultramarina portuguesa.\nA tradição foi-se mantendo e da terra daquele mesmo Jorge Álvares que por lá andou e lá morreu vai para 500 anos, de Freixo de Espada à Cinta, são ainda hoje grande parte dos sacerdotes portugueses em Macau.\nMacau não foi uma colónia, manteve as tradições de ser um ponto de contacto entre duas civilizações; um entreposto entre dois mundos, entre dois países amigos.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Raul Rego", 
+   "text": "Sr. Presidente, Srs. Deputados: Em boa paz e harmonia, estamos a proceder ao último acto da descolonização portuguesa, e pena foi que toda ela não tenha decorrido atendendo apenas à vontade e aos superiores interesses dos povos, mas entre ódios e sangueiras, silêncios impostos e milhares de vidas e montões de riquezas destruídos.\nNão esqueço que sou um dos sessenta signatários do Programa para a Democratização da República, de 1961, apresentado ao público e logo abafado pela mão de Judas censória. Em Portugal o ser-se pela autodeterminação dos povos era então um crime e como tal punido com o Aljube, Caxias, a não ser que se recorresse ao exílio.\nAqui estamos, representantes de um povo livre, a dar testemunho desse mesmo direito dos povos disporem de si mesmos. Eu bem sei que para os Portugueses Macau nunca foi uma colónia, a não ser para os \ncolonialistas que começam por tratar como colonizados os próprios cidadãos da metrópole.\nMacau nasceu como ponto de contacto entre dois povos, duas \ncivilizações, e assim se manteve até hoje e assim continuará, esperamos, o seu historial de elo e compreensão entre a China e Portugal, entre o Oriente e o Ocidente.\nMacau nunca foi uma colónia, dissemos. Essencialmente um ponto de contacto entre Portugal e a China; mas esse contacto estabeleceu-se na mesma altura em que se começavam a construir os grandes impérios coloniais. Em 1517, dois anos depois da morte de Afonso de Albuquerque, segue de Malaca para Cantão o boticário Tomé Pires na qualidade de embaixador. Longa viagem e complicações sem conta, mas a missão foi levada a bom termo.\nMas já em 1568 a feitoria contava nada menos de 900 portugueses, aventureiros, mercadores, homens de armas. Até o nosso maior das letras, nada menos que Luís de Camões, por lá andou parece que como procurador das viúvas e ausentes. O Leal Senado existia então; existe ainda hoje. Era o representante de Portugal para a nossa política no Extremo Oriente.\nSão quase cinco séculos de contactos, relações, comércio, colaboração, até nossos dias.\nHomens de Macau exerceram em Portugal as mais altas funções e, entre os Presidentes do Ministério da República, há nada menos de dois naturais de Macau: Vítor Hugo de Azevedo Coutinho e João Tamagnini Barbosa.\nGovernador de Macau foi sempre para nós um dos postos mais altos da administração ultramarina portuguesa.\nA tradição foi-se mantendo e da terra daquele mesmo Jorge Álvares que por lá andou e lá morreu vai para 500 anos, de Freixo de Espada à Cinta, são ainda hoje grande parte dos sacerdotes portugueses em Macau.\nMacau não foi uma colónia, manteve as tradições de ser um ponto de contacto entre duas civilizações; um entreposto entre dois mundos, entre dois países amigos.\n12 DE DEZEMBRO DE 1987 695", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "12 DE DEZEMBRO DE 1987 695", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Despesas de capital", 
+   "party": "PS", 
+   "speaker": "Raul Rego", 
    "text": "Sob a Administração Portuguesa, Macau foi útil à China e a Portugal Podemos esperar firmemente que, a partir do século XXI, sob a Administração Chinesa, Macau continue a ser o mesmo nó de contacto entre Portugal e a China, útil aos dois países. O administrador será diferente, esperemos que a mentalidade, a compreensão e a colaboração sejam as mesmas.", 
    "type": "deputado_continuacao"
   }, 
@@ -1301,22 +1281,19 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Dias Loureiro.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Dias Loureiro.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Dias Loureiro* (PSD): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: «O Governo da República Portuguesa e o Governo da República Popular da China acordaram em que uma solução apropriada da questão de Macau, legada pelo passado, resultante de negociações entre os dois Governos, seria propícia ao desenvolvimento económico e social de Macau e a um maior fortalecimento das relações de amizade entre os dois países.» \nReza assim o preâmbulo da Declaração Conjunta do Governo da República Portuguesa e do Governo da República Popular da China sobre a questão de Macau, que é presente a esta Câmara para aprovação.\nAprovar implica uma apreciação de mérito, um juízo de valor.\nA aprovação de um acordo internacional não é, por isso, no ordenamento constitucional que nos rege, mera e despicienda formalidade. É, antes, e queremos vincá-lo especialmente neste caso concreto, um acordo solene, que empresta à Declaração Conjunta em apreço o inequívoco sentimento de um povo inteiro que todos nós, nesta Câmara, \nrepresentamos.\nO preâmbulo que comecei por citar sintetiza lapidarmente o espírito da Declaração Conjunta.\nNele ficam expressos, com rigor, os objectivos fundamentais que a República Portuguesa e a República Popular da China prosseguiram e prosseguem em conjunto: primeiro, que o presente acordo seja propício ao desenvolvimento económico e à estabilidade social de Macau; segundo, que o presente acordo possibilite o maior fortalecimento das relações de amizade e cooperação entre os dois países.\nDonde com clareza se extrai que estaria errado quem pretendesse ver no Acordo de Macau um texto fechado com o qual se pretende encerrar um modelo histórico de comportamentos, que estaria errado quem pretendesse ver no presente Acordo um ponto final.\nO que do Acordo resulta, bem ao contrário, é que, para os homens e mulheres de Macau, não importa de que nacionalidade, para os povos de Portugal e da República Popular da China, este Acordo quer ser um recomeço, um ponto novo de partida que, respeitando a história, abra caminhos novos.\nO que do Acordo resulta é que aquilo que poderia ter sido um obstáculo, uma divergência, uma separação, se revelou, ao contrário, um motivo de reforço de laços, um traço de união, um instrumento de amizade maior, entre as nações de Portugal e da China.\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: Macau - diz-se na Declaração Conjunta, e já constava da Constituição da República Portuguesa - faz parte do território da República Popular da China. Nos termos do Acordo, Macau continuará sob a Administração Portuguesa e o Governo da República Popular da China reassumirá o exercício da soberania a partir daquela data. Continuará, pois, Macau sob a Administração Portuguesa até 1999.\nSe o realço é apenas para afirmar que até essa data a responsabilidade portuguesa pelos destinos de Macau é inteira, se o realço é para afirmar que a transição não pode, nem vai ser, a organização de uma retirada; bem ao contrário, será o reforço de uma presença, \nE - vai sê-lo, estou certo - um período de empenhamento redobrado na defesa dos interesses dos homens e mulheres que têm Macau por sua terra, da sua promoção económica, social e cultural.\nVai ser um período de fortalecimento económico, de aprofundamento das instituições democráticas, de fixação de quadros locais na \nadministração do território, de generalização do bilinguismo, para que a língua portuguesa possa ser um efectivo instrumento de comunicação, mesmo depois de 1999, como, de resto, o Acordo prevê.\nO período que acaba em 1999 tem de representar o aprofundamento das relações económicas entre Portugal e a China e, mais do que isso, o enraizar profundo dos interesses portugueses no Extremo Oriente.\nInteresses culturais, sem dúvida, mas também dos interesses económicos.\nEm suma, de Portugal se requer que, em 1999, Macau seja uma entidade especial -que se constituirá numa região administrativa especial - face à China e Hong-Kong, porque nela, há cinco séculos, está um povo das margens do Atlântico que, em diálogo com outros povos, construiu modos novos de ser e de sentir e aprendeu maneiras novas de ver o mundo e ver a vida.\nNo fim deste século, a República Popular da China reassume a soberania sobre o território de Macau. Assume-a, no entanto, em condições especiais que derivam, por um lado, de pressupostos políticos essenciais, resultantes do princípio «um país, dois sistemas» que visa, necessariamente, a unidade da China na diversidade dos sistemas escolhidos, e, por outro lado, do reconhecimento da particularidade histórica que advém da presença portuguesa em Macau.\nSão estas as condicionantes que levarão à constituição da futura região administrativa especial de Macau.\nÉ o reconhecimento da sua especificidade em face da China que conduziu ao alto grau de autonomia que à futura região é conferida.\nComo decorre da letra do Acordo, Macau definirá, com inteira autonomia, as suas próprias políticas económicas, comerciais, orçamentais e fiscais, nomeadamente. Ou, para dizer numa palavra, uma autonomia que só não engloba as políticas de defesa e de relações externas, e nestas, mesmo assim, apenas em parte. Para defesa e prossecução de tal autonomia, prevê o Acordo aquilo o que se nos afigura ser um sólido edifício institucional.\nPermitam-me que aqui, por falta de tempo, realce apenas dois específicos aspectos.\nO primeiro, a consagração que no Acordo se faz dos direitos e liberdades individuais: a liberdade de crença e de culto; a \ncontinuidade de actuação das organizações religiosas e das suas obras, com uma palavra especial para os aspectos particularmente relevantes das disposições relativas à Igreja Católica, necessariamente repercutidas na sua actividade no território, que asseguram a sua actuação temporal, a defesa da personalidade jurídica da Igreja e do seu património, a liberdade de comunicações externas e a liberdade de acção pastoral; o acesso à justiça e a independência dos tribunais; a manutenção da maneira de viver e do sistema económico e social; a manutenção das leis vigentes; o regime do fun-", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Dias Loureiro", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: «O Governo da República Portuguesa e o Governo da República Popular da China acordaram em que uma solução apropriada da questão de Macau, legada pelo passado, resultante de negociações entre os dois Governos, seria propícia ao desenvolvimento económico e social de Macau e a um maior fortalecimento das relações de amizade entre os dois países.» \nReza assim o preâmbulo da Declaração Conjunta do Governo da República Portuguesa e do Governo da República Popular da China sobre a questão de Macau, que é presente a esta Câmara para aprovação.\nAprovar implica uma apreciação de mérito, um juízo de valor.\nA aprovação de um acordo internacional não é, por isso, no ordenamento constitucional que nos rege, mera e despicienda formalidade. É, antes, e queremos vincá-lo especialmente neste caso concreto, um acordo solene, que empresta à Declaração Conjunta em apreço o inequívoco sentimento de um povo inteiro que todos nós, nesta Câmara, \nrepresentamos.\nO preâmbulo que comecei por citar sintetiza lapidarmente o espírito da Declaração Conjunta.\nNele ficam expressos, com rigor, os objectivos fundamentais que a República Portuguesa e a República Popular da China prosseguiram e prosseguem em conjunto: primeiro, que o presente acordo seja propício ao desenvolvimento económico e à estabilidade social de Macau; segundo, que o presente acordo possibilite o maior fortalecimento das relações de amizade e cooperação entre os dois países.\nDonde com clareza se extrai que estaria errado quem pretendesse ver no Acordo de Macau um texto fechado com o qual se pretende encerrar um modelo histórico de comportamentos, que estaria errado quem pretendesse ver no presente Acordo um ponto final.\nO que do Acordo resulta, bem ao contrário, é que, para os homens e mulheres de Macau, não importa de que nacionalidade, para os povos de Portugal e da República Popular da China, este Acordo quer ser um recomeço, um ponto novo de partida que, respeitando a história, abra caminhos novos.\nO que do Acordo resulta é que aquilo que poderia ter sido um obstáculo, uma divergência, uma separação, se revelou, ao contrário, um motivo de reforço de laços, um traço de união, um instrumento de amizade maior, entre as nações de Portugal e da China.\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: Macau - diz-se na Declaração Conjunta, e já constava da Constituição da República Portuguesa - faz parte do território da República Popular da China. Nos termos do Acordo, Macau continuará sob a Administração Portuguesa e o Governo da República Popular da China reassumirá o exercício da soberania a partir daquela data. Continuará, pois, Macau sob a Administração Portuguesa até 1999.\nSe o realço é apenas para afirmar que até essa data a responsabilidade portuguesa pelos destinos de Macau é inteira, se o realço é para afirmar que a transição não pode, nem vai ser, a organização de uma retirada; bem ao contrário, será o reforço de uma presença, \nE - vai sê-lo, estou certo - um período de empenhamento redobrado na defesa dos interesses dos homens e mulheres que têm Macau por sua terra, da sua promoção económica, social e cultural.\nVai ser um período de fortalecimento económico, de aprofundamento das instituições democráticas, de fixação de quadros locais na \nadministração do território, de generalização do bilinguismo, para que a língua portuguesa possa ser um efectivo instrumento de comunicação, mesmo depois de 1999, como, de resto, o Acordo prevê.\nO período que acaba em 1999 tem de representar o aprofundamento das relações económicas entre Portugal e a China e, mais do que isso, o enraizar profundo dos interesses portugueses no Extremo Oriente.\nInteresses culturais, sem dúvida, mas também dos interesses económicos.\nEm suma, de Portugal se requer que, em 1999, Macau seja uma entidade especial -que se constituirá numa região administrativa especial - face à China e Hong-Kong, porque nela, há cinco séculos, está um povo das margens do Atlântico que, em diálogo com outros povos, construiu modos novos de ser e de sentir e aprendeu maneiras novas de ver o mundo e ver a vida.\nNo fim deste século, a República Popular da China reassume a soberania sobre o território de Macau. Assume-a, no entanto, em condições especiais que derivam, por um lado, de pressupostos políticos essenciais, resultantes do princípio «um país, dois sistemas» que visa, necessariamente, a unidade da China na diversidade dos sistemas escolhidos, e, por outro lado, do reconhecimento da particularidade histórica que advém da presença portuguesa em Macau.\nSão estas as condicionantes que levarão à constituição da futura região administrativa especial de Macau.\nÉ o reconhecimento da sua especificidade em face da China que conduziu ao alto grau de autonomia que à futura região é conferida.\nComo decorre da letra do Acordo, Macau definirá, com inteira autonomia, as suas próprias políticas económicas, comerciais, orçamentais e fiscais, nomeadamente. Ou, para dizer numa palavra, uma autonomia que só não engloba as políticas de defesa e de relações externas, e nestas, mesmo assim, apenas em parte. Para defesa e prossecução de tal autonomia, prevê o Acordo aquilo o que se nos afigura ser um sólido edifício institucional.\nPermitam-me que aqui, por falta de tempo, realce apenas dois específicos aspectos.\nO primeiro, a consagração que no Acordo se faz dos direitos e liberdades individuais: a liberdade de crença e de culto; a \ncontinuidade de actuação das organizações religiosas e das suas obras, com uma palavra especial para os aspectos particularmente relevantes das disposições relativas à Igreja Católica, necessariamente repercutidas na sua actividade no território, que asseguram a sua actuação temporal, a defesa da personalidade jurídica da Igreja e do seu património, a liberdade de comunicações externas e a liberdade de acção pastoral; o acesso à justiça e a independência dos tribunais; a manutenção da maneira de viver e do sistema económico e social; a manutenção das leis vigentes; o regime do fun- 696 I SÉRIE - NÚMERO 29", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "696 I SÉRIE - NÚMERO 29", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Despesas de capital", 
+   "party": "PSD", 
+   "speaker": "Dias Loureiro", 
    "text": "cionalismo; a distinção entre nacionais chineses, portugueses e demais estrangeiros e a referência aos habitantes de ascendência portuguesa, com a definição de regime particular em relação a algumas funções públicas e principalmente em matéria de utilização de passaportes.\nRealçaria, por fim, o segundo aspecto que é, porventura, aquele que mais destaque me merece: o que no Acordo se consagra sobre a língua portuguesa e património cultural.\nNo Acordo expressa-se que a Região Administrativa especial de Macau definirá por si, nomeadamente, as políticas de cultura e do património cultural em Macau. Além disso, continuará a ser usada, a par do chinês, nos organismos do Governo, no órgão legislativo e nos tribunais da Região Administrativa de Macau, a língua portuguesa.\nNão é de mais realçá-lo para quem pensa, como eu penso, que as políticas da cultura e da língua têm de ser pedra angular da política externa portuguesa.\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: Fácil será concluir que este Acordo representa um equilíbrio harmonioso entre os vários interesses em presença, nomeadamente dos Portugueses. E mais fácil será a conclusão se não tivermos de tais interesses uma visão estática. É que a Administração de Macau, de acordo com modelos que nos são caros, continuará - instituições, património histórico e idioma perpetuar-se-ão.\nEste Acordo sobre Macau é tanto mais importante quanto mais longe e mais profundamente se projectar no futuro. E tem de projectar-se por razões várias.\nEm primeiro lugar, porque os interesses de Portugal e da China continuarão a entrecruzar-se de um modo dinâmico. Em segundo lugar, porque ambas as partes, Portugal e a China, se encontram -em estádios distintos embora-na descoberta de caminhos rápidos para o crescimento e a modernidade. Em terceiro lugar, e por último, porque este Acordo nasce num momento em que a região na qual Macau se insere se apresenta simultaneamente como um dos principais centros de desenvolvimento (das operações financeiras às actividades económicas as mais diversas), como uma das áreas onde mais promissoras são a organização dos recursos humanos, a investigação e a invocação tecnológica, como uma das mais significativas zonas de crescimento económico gerador de novos e importantes países industrializados, como, em suma, uma das regiões do globo para a qual se vira, crescentemente, o interesse do mundo.\nSr. Presidente, Srs. Membros do Governo, Srs. Deputados: Este Acordo assegura a transferência ordenada da Administração de Macau, salvaguardando os interesses legítimos dá população, e permite criar condições para um novo e mais frutuoso relacionamento com a República Popular da China.\nPorque temos fortes razões para acreditar que na longínqua Macau, nos séculos que aí vêm, homem, progresso e liberdade ainda continuarão a dizer-se em português, o Partido Social-Democrata apoia a aprovação da Declaração Conjunta que a esta Câmara é presente.", 
    "type": "deputado_continuacao"
   }, 
@@ -1325,43 +1302,38 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, não há mais inscrições.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, não há mais inscrições.\nEstá encerrado o debate.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Despesas de capital", 
-   "text": "Está encerrado o debate.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Despesas de capital", 
+   "speaker": "Presidente", 
    "text": "De seguida, vamos votar, na generalidade, na especialidade e em votação final global, a proposta de resolução n.º 1/V, sobre a ratificação do Acordo traduzido na Declaração Conjunta do Governo da República Portuguesa e do Governo da República Popular da China sobre a Questão de Macau.\nEntretanto, Srs. Deputados, queria avisar que, neste momento ou segundos atrás, fecharam as umas das votações que estavam a decorrer na Sala D. Maria.\nComo estavam a funcionar comissões - o que tem sido, aliás, hábito nestes últimos dias com trabalho intenso por parte das mesmas -, vamos aguardar dois minutos para que os nossos colegas possam chegar à Sala para se proceder à votação.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, agradecia que ocupassem os vossos lugares.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "speaker": "Presidente", 
    "text": "Vamos proceder, de imediato, à votação da proposta de resolução n.º 1/V, sobre a ratificação do Acordo a que se refere a Declaração Conjunta do Governo da República Portuguesa e do Governo da República Popular da China sobre a Questão de Macau.\nFaremos, primeiramente, a votação na generalidade.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "speaker": "Presidente", 
    "text": "Submetida à votação, foi aprovada por unanimidade.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Despesas de capital", 
+   "speaker": "Presidente", 
    "text": "Vamos, agora, proceder à votação na especialidade do artigo único.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
@@ -1622,39 +1594,40 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Por fim, vamos proceder à votação final global da proposta de resolução.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Por fim, vamos proceder à votação final global da proposta de resolução.\nSubmetida à votação, foi aprovada por unanimidade. Aplausos gerais, de pé.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetida à votação, foi aprovada por unanimidade. Aplausos gerais, de pé.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Como é do conhecimento de VV. Ex.ªs, hoje à tarde, às 18 horas, realizar-se-á uma sessão comemorativa do X aniversário do poder local.\nDado que, até este momento, ainda não são conhecidos os resultados das eleições efectuadas, iremos anunciar esses resultados no final dessa sessão comemorativa.\nO Plenário reunirá, de novo, na próxima terça-feira, às 10 horas, para início do debate sobre o Orçamento do Estado.\nEstá encerrada a sessão.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 12 horas e 20 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "12 DE DEZEMBRO DE 1987 703", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Alípio Barrosa Pereira Dias.\nAntónio Maria Pereira.\nArménio dos Santos.\nDinah Serrão Alhandra.\nJoão Álvaro Poças Santos.\nJosé Guilherme Pereira Coelho dos Reis.\nJosé de Vargas Bulcão.\nLuís Filipe Meneses Lopes.\nLuís Manuel Costa Geraldes.\nManuel da Costa Andrade.\nManuel José Dias Soares Costa.\nMargarida Borges de Carvalho.\nMaria Assunção Andrade Esteves.\nRui Manuel Almeida Mendes.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

@@ -37,173 +37,185 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Jaime Gama* (PS): Srs. Deputados, no início da nova Legislatura e com os nossos cordiais cumprimentos a todos os colegas parlamentares, em especial àqueles que, pela primeira vez, são membros desta Casa, gostaríamos de propor que o Sr. Deputado Barbosa de Melo presidisse aos trabalhos das primeiras reuniões da Assembleia até à eleição de um novo presidente, bem como representasse a Assembleia da República.\nQueremos também significar com esta proposta a homenagem ao nosso colega parlamentar, ao professor ilustre e àquele que dignamente presidiu aos trabalhos desta Casa na legislatura que cessou.\n_Aplausos gerais_.\nCom o assentimento da Assembleia, assumiu a presidência o Sr. Deputado Barbosa de Melo.", 
-   "type": null
+   "party": "PS", 
+   "speaker": "Jaime Gama", 
+   "text": "Srs. Deputados, no início da nova Legislatura e com os nossos cordiais cumprimentos a todos os colegas parlamentares, em especial àqueles que, pela primeira vez, são membros desta Casa, gostaríamos de propor que o Sr. Deputado Barbosa de Melo presidisse aos trabalhos das primeiras reuniões da Assembleia até à eleição de um novo presidente, bem como representasse a Assembleia da República.\nQueremos também significar com esta proposta a homenagem ao nosso colega parlamentar, ao professor ilustre e àquele que dignamente presidiu aos trabalhos desta Casa na legislatura que cessou.\n_Aplausos gerais_.\nCom o assentimento da Assembleia, assumiu a presidência o Sr. Deputado Barbosa de Melo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, agradeço à Câmara a confiança manifestada e ao Sr. Deputado Jaime Gama as gentilíssimas palavras que me quis dirigir.\nDe acordo com o que foi decidido pela Conferência dos Representantes dos Grupos Parlamentares, chamo para secretariar a Mesa, também enquanto exercer a função de Presidente da Assembleia, os Srs.Deputados José Reis, do PS, e José Cesário, do PSD.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, agradeço à Câmara a confiança manifestada e ao Sr. Deputado Jaime Gama as gentilíssimas palavras que me quis dirigir.\nDe acordo com o que foi decidido pela Conferência dos Representantes dos Grupos Parlamentares, chamo para secretariar a Mesa, também enquanto exercer a função de Presidente da Assembleia, os Srs.Deputados José Reis, do PS, e José Cesário, do PSD.\nOs Deputados indicados para Secretários tomaram os seus lugares na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Os Deputados indicados para Secretários tomaram os seus lugares na Mesa.", 
-   "type": null
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Vai proceder-se à chamada dos Srs. Deputados eleitos, segundo a lista enviada pela Comissão Nacional de Eleições.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Responderam à chamada os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Responderam à chamada os seguintes Srs. Deputados", 
    "text": "Acácio Manuel de Frias Barreiros.\nAgostinho Marques Moleiro.\nAires Manuel Jacinto de Carvalho.\nAlberto Arons Braga de Carvalho.\nAlberto Bernardes Costa.\nAlberto de Sousa Martins.\nÁlvaro Roque de Pinho Bissaia Barreto.\nAna Maria Benavente da Silva Nuno.\nAntero Gaspar de Paiva Vieira.\nAntónio Afonso de Pinto Galvão Lucas.\nAntónio Alves Marques Júnior.\nAntónio Alves Maninho.\nAntónio Bento da Silva Galamba.\nAntónio Bernardo Aranha da Gama Lobo Xavier.\nAntónio de Almeida Santos.\nAntónio de Carvalho Martins.\nAntónio dos Santos Aguiar Gouveia.\nAntónio Fernandes da Silva Braga.\nAntónio Fernando da Cruz Oliveira.\nAntónio Fernando Marques Ribeiro Reis.\nAntónio Filipe Gaião Rodrigues.\nAntónio Joaquim Correia Vairinhos.\nAntónio Jorge Mammericikx da Trindade.\nAntónio José Borrani Crisóstomo Teixeira.\nAntónio José Martins Seguro.\nAntónio Luís Santos Costa.\nAntónio Manuel Carmo Saleiro.\nAntónio Manuel de Oliveira Guterres.\nAntónio Manuel Taveira da Silva.\nAntónio Moreira Barbosa de Melo.\nAntónio Paulo Martins Pereira Coelho.\nAntónio Rui Esteves Solheiro.\nArmando António Martins Vara.\nArménio Santos.\nArnaldo Augusto Homem Rebelo.\nArtur Clemente Gomes de Sousa Lopes.\nArtur Ryder Torres Pereira.\nBernardino José Torrão Soares.\nBernardino Manuel de Vasconcelos.\nCarlos Alberto Cardoso Rodrigues Beja.\nCarlos Alberto Dias dos Santos.\nCarlos Alberto do Vale Gomes Carvalhas.\nCarlos Alberto Pinto.\nCarlos Manuel Duarte de Oliveira.\nCarlos Manuel Luís.\nCarlos Manuel Natividade da Costa Candal.\nDaniel Bessa Fernandes Coelho.\nDomingos Dias Gomes.\nEdite de Fátima Santos Marreiros Estrela.\nEduardo Eugênio Castro de Azevedo Soares.\nEduardo Luís Barreto Ferro Rodrigues.\nEduardo Ribeiro Pereira.\nElisa Maria Ramos Damião.\nEurico José Palheiros de Carvalho Figueiredo.\nFausto de Sousa Correia.\nFernando Alberto Pereira Marques.\nFernando Garcia dos Santos.\nFernando José Antunes Gomes Pereira.\nFernando Manuel Alves Cardoso Ferreira.\nFernando Pedro Peniche de Sousa Moutinho.\nFernando Pereira Serrasqueiro.\nFernando Santos Pereira.\nFilomena Maria Beirão Murtágua Salgado Freitas Borlado.\nFrancisco Antunes da Silva.\nFrancisco Fernando Osório Gomes.\nFrancisco José Pereira de Assis Miranda.\nFrancisco José Pinto Camilo.\nFrancisco Xavier Pablo da Silva Torres.\nGonçalo Filipe Ribas Ribeiro da Costa.\nGuilherme Henrique Valente Rodrigues Silva.\nGuilherme Valdemar Pereira de Oliveira Martins.\nHeloísa Augusta Baião de Brito Apolónia.\nHenrique José de Sousa Neto.\nHermínio José Sobral de Loureiro Gonçalves.\nIsabel Maria de Almeida e Castro.\nJaime José Matos da Gama.\nJoão Álvaro Poças Santos.\nJoão António Gonçalves do Amaral.\nJoão Bosco Soares Mota Amaral.\nJoão Calvão da Silva.\nJoão Cardona Gomes Cravinho.\nJoão Cerveira Corregedor da Fonseca.\nJoão Rui Gaspar de Almeida.\nJoaquim Américo Fialho Anastácio.\nJoaquim Augusto Nunes Pina Moura.\nJoaquim Barbosa Ferreira Couto.\nJoaquim Fernando Nogueira.\nJoaquim Manuel Cabrita Neto.\nJoaquim Sebastião Sarmento da Fonseca Almeida.\nJoel Eduardo Neves Hasse Ferreira.\nJoel Maria da Silva Ferro.\nJorge Alexandre Silva Ferreira.\nJorge Lacão Costa.\nJorge Manuel Gouveia Strecht Ribeiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Responderam à chamada os seguintes Srs. Deputados", 
    "text": "28 DE OUTUBRO DE 1995        3", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Responderam à chamada os seguintes Srs. Deputados", 
    "text": "Jorge Paulo de Seabra Roque da Cunha.\nJorge Paulo Sacadura Almeida Coelho.\nJosé Adelmo Gouveia Bordalo Junqueira.\nJosé Alberto Cardoso Marques.\nJosé Álvaro Machado Pacheco Pereira.\nJosé Augusto Clemente de Carvalho.\nJosé Augusto Santos da Silva Marques.\nJosé Carlos das Dores Zorrinho.\nJosé Carlos Lourenço Tavares Pereira.\nJosé da Conceição Saraiva.\nJosé de Almeida Cesário.\nJosé Eduardo Vera Cruz Jardim.\nJosé Ernesto Figueira dos Reis.\nJosé Fernando Araújo Calçada.\nJosé Guilherme Reis Leite.\nJosé Macário Custódio Correia.\nJosé Manuel Costa Pereira.\nJosé Manuel de Medeiros Ferreira.\nJosé Manuel Lello Ribeiro de Almeida.\nJosé Manuel Niza Antunes Mendes.\nJosé Manuel Nunes Liberato.\nJosé Manuel Santos de Magalhães.\nJosé Maximiano de Albuquerque Almeida Leitão.\nJosé Narciso Rodrigues de Miranda.\nJosé Pinto Simões.\nJosé Sócrates Carvalho Pinto de Sousa.\nJúlio Francisco Miranda Calha.\nJúlio Manuel de Castro Lopes Faria.\nJúlio Meirinhos Santanas.\nLaurentino José Monteiro Castro Dias.\nLeonor Coutinho Pereira dos Santos.\nLino António Marques de Carvalho.\nLuís Afonso Cortez Rodrigues Queiró.\nLuís Filipe Marques Amado.\nLuís Filipe Nascimento Madeira.\nLuís José de Mello e Castro Guedes.\nLuís Manuel Capoulas Santos.\nLuís Manuel da Silva Viana de Sá.\nLuís Maria de Barras Serra Marques Guedes.\nLuís Pedro de Carvalho Martins.\nManuel Afonso da Silva Strecht Monteiro.\nManuel Alberto Barbosa de Oliveira.\nManuel Alegre de Melo Duarte.\nManuel Alves de Oliveira.\nManuel António dos Santos.\nManuel Fernando da Silva Monteiro.\nManuel Filipe Correia de Jesus.\nManuel Jorge Pedrosa Forte de Góes.\nManuel Maria Mendonça da Silva Carvalho.\nManuel Maria Moreira.\nManuel Martinho Pinheiro dos Santos Gonçalves.\nManuel Rogério de Sousa Brito.\nMaria da Luz Gameiro Beja Ferreira Rosinha.\nMaria do Carmo Romão Sacadura dos Santos.\nMaria do Rosário Lopes Amaro da Costa da Luz Carneiro.\nMaria Fernanda dos Santos Martins Catarino Costa.\nMaria Helena do Rego da Costa Salema Roseta.\nMaria Helena Pereira Nogueira Santo.\nMaria Jesuína Carrilho Bernardo.\nMaria João Fernandes Rodrigues.\nMaria José Pinto da Cunha Avilez Nogueira Pinto.\nMaria Luísa Lourenço Ferreira.\nMaria Luísa Raimundo Mesquita.\nMaria Manuela Aguiar Dias Moreira.\nMaria Manuela Guedes Outeiro Pereira Moniz.\nMaria Odete dos Santos.\nMário Manuel Videira Lopes.\nMartim Afonso Pacheco Gracias.\nMiguel Bento Martins da Costa de Macedo e Silva.\nMiguel Fernando Cassola de Miranda Relvas.\nNuno Kruz Abecasis.\nNuno Manuel Pereira Baltazar Mendes.\nOctávio Augusto Teixeira.\nOsvaldo Alberto Rosário Sarmento e Castro.\nPaulo Jorge dos Santos Neves.\nPaulo Sacadura Cabral Portas.\nPedro Augusto Cunha Pinto.\nPedro Domingos de Souza e Holstein Campilho.\nPedro José da Vinha Rodrigues Costa.\nPedro Manuel Cruz Roseta.\nPedro Manuel Mamede Passos Coelho.\nRaul da Assunção Pimenta Rego.\nRolando Lima Lalanda Gonçalves.\nRosa Maria da Silva Bastos de Horta Albernaz.\nRui António Ferreira da Cunha.\nRui do Nascimento Rabaça Vieira.\nRui Fernando da Silva Rio.\nRui Manuel Palácio Carreteiro.\nSérgio André da Costa Vieira.\nSérgio Humberto Rocha de Ávila.\nSérgio Paulo Mendes de Sousa Pinto.\nSilvino Manuel Gomes Sequeira.\nVasco Valente Correia Guedes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Faltaram à chamada os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Faltaram à chamada os seguintes Srs. Deputados", 
    "text": "Adalberto Paulo da Fonseca Mendo.\nAlberto João Cardoso Gonçalves Jardim.\nAlberto Queiroga Figueiredo.\nÁlvaro dos Santos Amaro.\nÁlvaro José Brilhante Laborinho Lúcio.\nAmândio Santa Cruz Domingues Basto Oliveira.\nAntónio d'Orey Capucho.\nAntónio Jorge de Figueiredo Lopes.\nAntónio Manuel de Carvalho Ferreira Vitorino.\nAntónio Roleira Marinho.\nArlindo Gomes de Carvalho.\nCarlos Alberto Martins Pimenta.\nCarlos Eugênio Pereira de Brito.\nCarlos Manuel de Sousa Encarnação.\nCarlos Miguel Maximiano de Almeida Coelho.\nEurico Silva Teixeira de Melo.\nFernando de Carvalho Ruas.\nFernando Manuel Barbosa Faria de Oliveira.\nFernando Manuel dos Santos Gomes.\nFrancisco António Lucas Pires.\nFrancisco José Fernandes Martins.\nGilberto Parca Madail.\nIsabel Maria Teixeira de Carvalho Pedroto.\nIsaltino Afonso Morais.\nJoaquim Martins Ferreira do Amaral.\nJosé Augusto Gama.\nJosé Barbosa Mota.\nJosé Batista Mestre Soeiro.\nJosé Bernardo Veloso Falcão e Cunha.\nJosé Manuel Durão Barroso.\nJosé Vieira de Carvalho.\nLuís Fernando Mira Amaral.\nLuís Filipe Menezes Lopes.\nLuís Manuel Gonçalves Marques Mendes.\nManuel Castro de Almeida.\nManuel da Mata de Cáceres.\nManuel Eugênio Pimentel Cavaleiro Brandão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Faltaram à chamada os seguintes Srs. Deputados", 
    "text": "4      I SÉRIE - NÚMERO 1", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Faltaram à chamada os seguintes Srs. Deputados", 
    "text": "Maria Eduarda de Almeida Azevedo.\nMaria Fernanda Cardoso Correia da Mota Pinto.\nMaria Manuela Dias Ferreira Leite.\nMaria Teresa Pinto Basto Gouveia.\nRosa Maria Correia dos Santos Mota.\nRui Manuel Pereira Marques.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, é sempre com emoção que, nesta Câmara, entramos no primeiro dia da Legislatura. Todos temos a consciência de que a nossa vontade e gosto de estar aqui foi apenas um pressuposto para chegarmos cá. De permeio ficou a vontade determinante e decisiva do povo que nos elegeu. Todos nós, ao assumirmos esta função, temos bem vivo no espírito o principio de estarmos aqui em representação do soberano democrático, como mandatários do povo português.\nDirijo, associando-me às palavras há pouco proferidas pelo Sr. Deputado Jaime Gama, uma especial saudação aos que entram aqui pela primeira vez, e desta feita são vários. Não é que a Câmara faça distinção entre os mais e os menos veteranos, pois aqui todos somos exactamente iguais, somos pares, representamos o povo português, mas é de natural acolhimento que a esses, os mais antigos - e incluo-me nesse rol, por força até das circunstâncias -, seja dirigida uma tal saudação.\nO nosso trabalho é muito diverso e com algumas complexidades. É bom que todos tenhamos presente que sendo representantes do povo, de todo o povo, todos somos mediadores entre a Assembleia e a comunidade nacional e que há trabalhos vistosos no Parlamento e os que não são vistos, quer nas comissões, quer nos gabinetes, no estudo das propostas e projectos de lei, mas isso também é trabalho parlamentar, é também trabalho dos representantes do povo português.\nPor último, gostaria de cumprimentar, em nome de todos os que aqui se encontram reunidos hoje, os funcionários da Assembleia da República, que são o instrumento vivo, actuante e personalizado do nosso trabalho, pois sem eles o trabalho da representação nacional seria impossível.\nAliás, cumpre salientar aos que chegam que há, nos quadros da Assembleia da República, um corpo excelente de funcionários. A todos presto, em meu e em vosso nome, pública homenagem.\nUma palavra final àqueles que são os mediadores, como dizia há pouco, entre nós e a comunidade: saudações e votos de um excelente trabalho durante esta Legislatura. Muito obrigado! \nSrs. Deputados, o Sr. Secretário José Cesário vai proceder à leitura do projecto de deliberação n.º 1/VII - Constituição de uma Comissão Eventual de Verificação de Poderes dos Deputados Eleitos.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, é sempre com emoção que, nesta Câmara, entramos no primeiro dia da Legislatura. Todos temos a consciência de que a nossa vontade e gosto de estar aqui foi apenas um pressuposto para chegarmos cá. De permeio ficou a vontade determinante e decisiva do povo que nos elegeu. Todos nós, ao assumirmos esta função, temos bem vivo no espírito o principio de estarmos aqui em representação do soberano democrático, como mandatários do povo português.\nDirijo, associando-me às palavras há pouco proferidas pelo Sr. Deputado Jaime Gama, uma especial saudação aos que entram aqui pela primeira vez, e desta feita são vários. Não é que a Câmara faça distinção entre os mais e os menos veteranos, pois aqui todos somos exactamente iguais, somos pares, representamos o povo português, mas é de natural acolhimento que a esses, os mais antigos - e incluo-me nesse rol, por força até das circunstâncias -, seja dirigida uma tal saudação.\nO nosso trabalho é muito diverso e com algumas complexidades. É bom que todos tenhamos presente que sendo representantes do povo, de todo o povo, todos somos mediadores entre a Assembleia e a comunidade nacional e que há trabalhos vistosos no Parlamento e os que não são vistos, quer nas comissões, quer nos gabinetes, no estudo das propostas e projectos de lei, mas isso também é trabalho parlamentar, é também trabalho dos representantes do povo português.\nPor último, gostaria de cumprimentar, em nome de todos os que aqui se encontram reunidos hoje, os funcionários da Assembleia da República, que são o instrumento vivo, actuante e personalizado do nosso trabalho, pois sem eles o trabalho da representação nacional seria impossível.\nAliás, cumpre salientar aos que chegam que há, nos quadros da Assembleia da República, um corpo excelente de funcionários. A todos presto, em meu e em vosso nome, pública homenagem.\nUma palavra final àqueles que são os mediadores, como dizia há pouco, entre nós e a comunidade: saudações e votos de um excelente trabalho durante esta Legislatura. Muito obrigado! \nSrs. Deputados, o Sr. Secretário José Cesário vai proceder à leitura do projecto de deliberação n.º 1/VII - Constituição de uma Comissão Eventual de Verificação de Poderes dos Deputados Eleitos.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Secretário (José Cesário*): O projecto de deliberação n.º 1/VII é do seguinte teor: Aos 27 dias do mês de Outubro de 1995, os Deputados eleitos na VII Legislatura da Assembleia da República deliberam constituir uma Comissão Eventual de Verificação de Poderes dos Deputados Eleitos constantes da lista apresentada pela Comissão Nacional de Eleições e publicada na I Série - A do Diário da República n.º 246, de 24 de Outubro de 1995, a qual se manterá em funcionamento até que se constitua a Comissão competente em razão desta matéria.", 
-   "type": "continuacao"
+   "text": "O projecto de deliberação n.º 1/VII é do seguinte teor: Aos 27 dias do mês de Outubro de 1995, os Deputados eleitos na VII Legislatura da Assembleia da República deliberam constituir uma Comissão Eventual de Verificação de Poderes dos Deputados Eleitos constantes da lista apresentada pela Comissão Nacional de Eleições e publicada na I Série - A do Diário da República n.º 246, de 24 de Outubro de 1995, a qual se manterá em funcionamento até que se constitua a Comissão competente em razão desta matéria.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "A Comissão Eventual é constituída pelos seguintes Srs. Deputados: \n12 membros designados pelo Partido Socialista: \n- António Fernandes da Silva Braga.\n- Maria do Carmo Romão Sacadura dos Santos.\n- José Maximiano de Albuquerque Almeida Leitão.\n- Nuno Manuel Pereira Baltazar Mendes.\n- António Alves Marques Júnior.\n- José Manuel Niza Antunes Mendes.\n- Maria da Luz Gameiro Bela Ferreira Rosinha.\n- Elisa Maria Ramos Damião.\n- António José Crisóstomo Barroni Teixeira.\n- Fernando Alberto Pereira Marques.\n- José Manuel Santos de Magalhães.\n- Osvaldo Alberto Rosário Sarmento e Castro.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "8 membros designados pelo Partido Social-Democrata: \n- Guilherme Henrique Valente Rodrigues da Silva.\n- Francisco Antunes da Silva.\n- João Álvaro Poças Santos.\n- José Guilherme Reis Leite.\n- Miguel Bento Martins da Costa de Macedo e Silva.\n- António Joaquim Correia Vairinhos.\n- José Álvaro Machado Pacheco Pereira.\n- António Paulo Martins Pereira Coelho.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "3 membros designados pelo Partido do Centro Democrático Social - Partido Popular: \n- Maria Helena Pereira Nogueira Santo.\n- Maria José Pinto da Cunha Avilez Nogueira Pinto.\n- Luís Afonso Cortez Rodrigues Queiró.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "2 membros designados pelo Partido Comunista Português: \n- João António Gonçalves do Amaral.\n- António Filipe Gaião Rodrigues.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "l membro designado pelo Partido Ecologista Os Verdes: \n- Isabel Maria de Almeida e Castro.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em apreciação.\nNão havendo pedidos de palavra, vamos votar.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em apreciação.\nNão havendo pedidos de palavra, vamos votar.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Uma vez que esta Comissão tem de elaborar o seu relatório, vamos interromper a sessão. Voltaremos a reunir às 16 horas, para retomarmos os nossos trabalhos.\nEstá interrompida a sessão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 12 horas.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, declaro reaberta a sessão.\n_Eram 17 horas e 35 minutos_.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, declaro reaberta a sessão.\n_Eram 17 horas e 35 minutos_.\nPara proceder à leitura do relatório da Comissão Eventual de Verificação de Poderes, tem a palavra, na qualidade de relator, o Sr.Deputado Marques Júnior.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Para proceder à leitura do relatório da Comissão Eventual de Verificação de Poderes, tem a palavra, na qualidade de relator, o Sr.Deputado Marques Júnior.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Marques Júnior", 
+   "text": "Sr. Presidente, Srs. Deputados: O relatório e parecer da Comissão Eventual de Verificação de Poderes é do seguinte teor:\nl - Aos 27 de Outubro de 1995, pelas 11 horas, numa sala do Palácio de São Bento, reuniu a Comissão", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "PS): Sr. Presidente, Srs. Deputados: O relatório e parecer da Comissão Eventual de Verificação de Poderes é do seguinte teor", 
-   "speaker": "O Sr. *Marques Júnior*", 
-   "text": "", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "l - Aos 27 de Outubro de 1995, pelas 11 horas, numa sala do Palácio de São Bento, reuniu a Comissão", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Marques Júnior", 
    "text": "28 DE OUTUBRO DE 1995      5", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PS", 
+   "speaker": "Marques Júnior", 
    "text": "Eventual de Verificação de Poderes, para proceder à verificação dos poderes dos Deputados eleitos no dia l de Outubro de 1995 para a Assembleia da República - VII Legislatura.\nA Comissão é constituída pêlos seguintes Deputados:", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Partido Socialista", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Socialista", 
    "text": "- António Alves Marques Júnior.\n- António Fernandes da Silva Braga.\n- António José Borrani Crisóstomo Teixeira.\n- Elisa Maria Ramos Damião.\n- Fernando Alberto Pereira Marques.\n- José Manuel Niza Antunes Mendes.\n- José Manuel Santos de Magalhães.\n- José Maximiano de Albuquerque Almeida Leitão.\n- Maria da Luz Carneiro Bela Ferreira Rosinha.\n- Maria do Carmo Romão Sacadura dos Santos.\n- Nuno Manuel Pereira Baltazar Mendes.\n- Osvaldo Alberto Rosário Sarmento e Castro.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Social-Democrata", 
    "text": "- António Joaquim Correia Vairinhos.\n- António Paulo Martins Pereira Coelho.\n- Francisco Antunes da Silva.\n- Guilherme Henrique Valente Rodrigues da Silva.\n- João Álvaro Poças Santos.\n- José Álvaro Machado Pacheco Pereira.\n- José Guilherme Reis Leite.\n- Miguel Bento Martins da Costa de Macedo e Silva.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Partido Popular", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Popular", 
    "text": "- Luís Afonso Cortez Rodrigues Queiró.\n- Maria Helena Pereira Nogueira Santo.\n- Maria José Pinto da Cunha Avilez Nogueira Pinto.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Partido Comunista Português", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Comunista Português", 
    "text": "- António Filipe Gaião Rodrigues.\n- João António Gonçalves do Amaral.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "Partido Ecologista \"Os Verdes\"", 
    "text": "", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Ecologista \"Os Verdes\"", 
    "text": "- Isabel Maria de Almeida e Castro.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Partido Ecologista \"Os Verdes\"", 
    "text": "2 - Iniciados os trabalhos, a Comissão procedeu à eleição dos seus presidente, vice-presidente e dois secretários, sendo estes cargos preenchidos respectivamente pêlos Deputados António Fernandes da Silva Braga (PS), Guilherme Henrique Valente Rodrigues da Silva (PSD), Maria Helena Pereira Nogueira Santo (CDS-PP), João António Gonçalves do Amaral (PCP).\n3 - Foi seguidamente deliberado nomear relator o Sr. Deputado António Alves Marques Júnior (PS).\n4 - Compulsado o processo e os demais elementos enviados pela Comissão Nacional de Eleições, designadamente as actas de apuramento geral das eleições para a Assembleia da República, ali inclusas, constatou-se a regularidade formal da atribuição dos mandatos.\n5 - É assim possível apurar a seguinte lista dos candidatos eleitos, organizada sob os nomes dos partidos que os apresentaram a sufrágio, segundo a representatividade decrescente dos mesmos e por ordem alfabética dos Deputados, com indicação do respectivo círculo eleitoral, atribuindo-se a cada Deputado um número de ordem geral:", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "party": "PS", 
@@ -468,32 +480,23 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "CDS-PP", 
-   "speaker": "Partido Popular", 
-   "text": "O Sr. *Presidente*: Muito obrigado, Sr. Deputado Marques Júnior.\nSrs. Deputados, antes de pôr à discussão o relatório e parecer que acabou de ser lido, gostaria de adiantar que, em conformidade com o que foi deliberado na Comissão, no ponto que se refere ao uso do pseudónimo Vasco Pulido Valente pelo Sr. Deputado Vasco Valente Correia Guedes, em substituição do seu nome próprio, a Mesa entende que é de utilizar o referido pseudónimo no âmbito parlamentar, por parte dos serviços e do Sr. Deputado.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "CDS-PP", 
-   "speaker": "Partido Popular", 
-   "text": "Posto isto, está em discussão o relatório e parecer.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Muito obrigado, Sr. Deputado Marques Júnior.\nSrs. Deputados, antes de pôr à discussão o relatório e parecer que acabou de ser lido, gostaria de adiantar que, em conformidade com o que foi deliberado na Comissão, no ponto que se refere ao uso do pseudónimo Vasco Pulido Valente pelo Sr. Deputado Vasco Valente Correia Guedes, em substituição do seu nome próprio, a Mesa entende que é de utilizar o referido pseudónimo no âmbito parlamentar, por parte dos serviços e do Sr. Deputado.\nPosto isto, está em discussão o relatório e parecer.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "party": "CDS-PP", 
-   "speaker": "Partido Popular", 
+   "speaker": "Presidente", 
    "text": "Como não há inscrições, vamos passar à votação.\n_Submetido à votação, foi aprovado por unanimidade_.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "CDS-PP", 
-   "speaker": "Partido Popular", 
+   "speaker": "Presidente", 
    "text": "Em resultado das substituições constantes do relatório e parecer votado por unanimidade, o Sr. Secretário José Cesário vai proceder à chamada dos Srs. Deputados substitutos, pela ordem acabada de referir.\nResponderam à chamada os seguintes Srs. Deputados:", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD", 
@@ -615,37 +618,32 @@
    "type": "deputado_aparte"
   }, 
   {
-   "party": "PSD", 
-   "speaker": "Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, deu entrada na Mesa uma carta do Sr. Presidente da República, do seguinte teor: \"Estando prevista a minha deslocação a Espanha, no próximo dia 27 de Outubro, para a cerimónia da entrega do prémio Príncipe das Astúrias, em Oviedo, venho requerer, nos termos dos artigos 132.º, n.º 1, e 166.º, alínea b), da Constituição da República, o necessário assentimento da Comissão Permanente da Assembleia da República.\" \nA data de entrada desta carta fez com que tenha sido enviada ao Plenário para apreciação e não à Comissão Permanente como aí se diz.\nAssim, o Sr. Secretário vai proceder à leitura do projecto de resolução, subscrito por mim próprio.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, deu entrada na Mesa uma carta do Sr. Presidente da República, do seguinte teor: \"Estando prevista a minha deslocação a Espanha, no próximo dia 27 de Outubro, para a cerimónia da entrega do prémio Príncipe das Astúrias, em Oviedo, venho requerer, nos termos dos artigos 132.º, n.º 1, e 166.º, alínea b), da Constituição da República, o necessário assentimento da Comissão Permanente da Assembleia da República.\" \nA data de entrada desta carta fez com que tenha sido enviada ao Plenário para apreciação e não à Comissão Permanente como aí se diz.\nAssim, o Sr. Secretário vai proceder à leitura do projecto de resolução, subscrito por mim próprio.", 
+   "type": "presidente"
   }, 
   {
-   "party": "PSD", 
-   "speaker": "Partido Social-Democrata", 
-   "text": "O Sr. *Secretário (José Cesário*): Sr. Presidente e Srs. Deputados, o projecto de resolução é do seguinte teor: Viagem do Presidente da República a Espanha.\nA Assembleia da República resolve, nos termos dos artigos 132.º, n.º 1, 166.º, alínea b), e 169.º, n.º 5, da \nConstituição, dar assentimento à viagem de carácter oficial de S. Ex.ª o Presidente da República a Oviedo no dia 27 do corrente mês de Outubro.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente e Srs. Deputados, o projecto de resolução é do seguinte teor: Viagem do Presidente da República a Espanha.\nA Assembleia da República resolve, nos termos dos artigos 132.º, n.º 1, 166.º, alínea b), e 169.º, n.º 5, da \nConstituição, dar assentimento à viagem de carácter oficial de S. Ex.ª o Presidente da República a Oviedo no dia 27 do corrente mês de Outubro.", 
+   "type": "speaker_error"
   }, 
   {
-   "party": "PSD", 
-   "speaker": "Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em apreciação. Como não há inscrições, vamos votar.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em apreciação. Como não há inscrições, vamos votar.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "party": "PSD", 
-   "speaker": "Partido Social-Democrata", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, a solicitação do Sr. Presidente da Comissão Eventual de Verificação de Poderes, convoco esta Comissão para uma reunião no próximo dia 30, segunda-feira, pelas 16 horas.\nPor outro lado, tendo ouvido a Conferência dos Representantes dos Grupos Parlamentares, convoco o Plenário da Assembleia da República para a próxima terça-feira, dia 31, às 15 horas, com a seguinte ordem de trabalhos: uma primeira reunião constará da eleição do Presidente da Assembleia da República, bem como da eleição dos restantes membros da Mesa da Assembleia da República, de seguida, terá lugar uma segunda reunião plenária destinada a proceder à eleição dos Srs. Deputados que integrarão o Conselho de Administração.\nNo que respeita a estes últimos, cada grupo parlamentar indicará o nome do respectivo representante para integrar as listas concorrentes ao Conselho de Administração, as quais poderão ser entregues até à próxima segunda-feira.\nQuanto às candidaturas à Presidência da Assembleia da República e aos restantes lugares da Mesa, devem dar entrada no gabinete do Presidente da Assembleia da República até amanhã, sábado, às 19 horas.\nSrs. Deputados, nada mais havendo a tratar, está encerrada a sessão.\n_Eram 18 horas e 15 minutos_.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a solicitação do Sr. Presidente da Comissão Eventual de Verificação de Poderes, convoco esta Comissão para uma reunião no próximo dia 30, segunda-feira, pelas 16 horas.\nPor outro lado, tendo ouvido a Conferência dos Representantes dos Grupos Parlamentares, convoco o Plenário da Assembleia da República para a próxima terça-feira, dia 31, às 15 horas, com a seguinte ordem de trabalhos: uma primeira reunião constará da eleição do Presidente da Assembleia da República, bem como da eleição dos restantes membros da Mesa da Assembleia da República, de seguida, terá lugar uma segunda reunião plenária destinada a proceder à eleição dos Srs. Deputados que integrarão o Conselho de Administração.\nNo que respeita a estes últimos, cada grupo parlamentar indicará o nome do respectivo representante para integrar as listas concorrentes ao Conselho de Administração, as quais poderão ser entregues até à próxima segunda-feira.\nQuanto às candidaturas à Presidência da Assembleia da República e aos restantes lugares da Mesa, devem dar entrada no gabinete do Presidente da Assembleia da República até amanhã, sábado, às 19 horas.\nSrs. Deputados, nada mais havendo a tratar, está encerrada a sessão.\n_Eram 18 horas e 15 minutos_.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Estiveram presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

@@ -41,20 +41,19 @@
    "type": null
   }, 
   {
-   "text": "A Sr.ª *Presidente*: Srs. Deputados, temos quorum, pelo que declaro aberta a reunião.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a reunião.\n_Eram 16 horas e 25 minutos_.\nEstavam presentes os seguintes Srs. Deputados:", 
+   "type": "presidente_aberta"
   }, 
   {
-   "text": "_Eram 16 horas e 25 minutos_.\nEstavam presentes os seguintes Srs. Deputados:", 
-   "type": null
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Maria Manuela Aguiar D. Moreira (PSD).\nJoão Eduardo C. Ferraz de Abreu (PS).\nJosé Manuel Maia Nunes de Almeida (PCP).\nHermínio Paiva Fernandes Maninho (PRD).\nReinaldo Alberto Ramos Gomes (PSD).\nAmândio Santa Cruz B. Oliveira (PSD).\nAntónio Paulo Pereira Coelho (PSD).\nWalter Lopes Teixeira (PSD).\nJoão Domingos F. de Abreu Salgado (PSD).\nFernando Manuel Cardoso Ferreira (PSD).\nCuido Orlando de F. Rodrigues (PSD).\nJoaquim Maria Fernandes Marques (PSD).\nEduardo Alfredo de Carvalho Pereira da Silva (PSD).\nJosé Augusto S. da Silva Marques (PSD).\nLuís Filipe Menezes Lopes (PSD).\nLuís Manuel da Costa Geraldes (PSD).\nMiguel Fernando Miranda Relvas (PSD).\nAntónio Augusto Lacerda de Queirós (PSD).\nAntónio Manuel de Oliveira Guterres (PS).\nArmando António Martins Vara (PS).\nJoão Rui Gaspar de Almeida (PS).\nJorge Lacão Costa (PS).\nJosé Manuel Lello R. de Almeida (PS).\nManuel António dos Santos (PS).\nOctávio Augusto Teixeira (PCP).\nJerónimo Carvalho de Sousa (PCP).\nRui dos Santos Silva (PRD).\nNarana Sinai Coissoró (CDS).\nAndré Valente Martins (PEV).", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vai ser lido um relatório e parecer da Comissão de Regimento e Mandatos.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -172,68 +171,85 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Sr.ª Presidente, se me dá licença, gostaria de interpelar a Mesa no sentido de saber se esta é a última reunião prevista para a Comissão Permanente.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr.ª Presidente, se me dá licença, gostaria de interpelar a Mesa no sentido de saber se esta é a última reunião prevista para a Comissão Permanente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Sr.ª *Presidente*: É sim, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "É sim, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Sr.ª Presidente, nessas condições, pretendo, em primeiro lugar, em nome da bancada do Partido Socialista, enviar os nossos cumprimentos ao Sr. Presidente da Assembleia da República, que se encontra ausente, pedindo que seja intérprete desses mesmos cumprimentos e naturalmente as nossas saudações à Mesa e a todos os colegas.\nAos colegas que não vão regressar queria desejar as maiores felicidades do ponto de vista pessoal, profissional e político e aos que aqui vão estar a partir da abertura dos trabalhos, seguramente, desejar que a nossa relação se mantenha para além da conflitualidade política nobre e digna que sempre tivemos e da amizade pessoal que sempre nos caracterizou.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr.ª Presidente, nessas condições, pretendo, em primeiro lugar, em nome da bancada do Partido Socialista, enviar os nossos cumprimentos ao Sr. Presidente da Assembleia da República, que se encontra ausente, pedindo que seja intérprete desses mesmos cumprimentos e naturalmente as nossas saudações à Mesa e a todos os colegas.\nAos colegas que não vão regressar queria desejar as maiores felicidades do ponto de vista pessoal, profissional e político e aos que aqui vão estar a partir da abertura dos trabalhos, seguramente, desejar que a nossa relação se mantenha para além da conflitualidade política nobre e digna que sempre tivemos e da amizade pessoal que sempre nos caracterizou.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "A Sr.ª *Presidente*: Srs. Deputados, a Mesa deseja igualmente aos nossos colegas que vão seguir outros rumos e que não veremos aqui, no quotidiano, as maiores felicidades. Fará aqueles que permanecem como deputados, fazemos também nossas as palavras do Sr. Deputado António Guterres, esperando que possamos todos dar continuação aos trabalhos num ambiente de camaradagem e de verdadeira amizade, que tem, fundamentalmente, sido um traço de união nesta Câmara.\nSrs. Deputados, está encerrada a reunião.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a Mesa deseja igualmente aos nossos colegas que vão seguir outros rumos e que não veremos aqui, no quotidiano, as maiores felicidades. Fará aqueles que permanecem como deputados, fazemos também nossas as palavras do Sr. Deputado António Guterres, esperando que possamos todos dar continuação aos trabalhos num ambiente de camaradagem e de verdadeira amizade, que tem, fundamentalmente, sido um traço de união nesta Câmara.\nSrs. Deputados, está encerrada a reunião.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 16 horas e 30 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "A REDACTORA, Maria Leonor Ferreira.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "DIÁRIO da Assembleia da República", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Depósito legal n.º 8818/85", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "IMPRENSA NACIONAL CASA DA MOEDA, E. P.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "AVISO", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Por ordem superior e para constar, comunica-se que não serão aceites quaisquer originais destinados ao Diário da República desde que não tragam aposta a competente ordem de publicação, assinada e autenticada com selo branco.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "PORTE PAGO", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "1 - Preço de página para venda avulso, 5$; preço por linha de anúncio, 104$.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "2 - Para os novos assinantes do Diário da Assembleia da República, o período da assinatura será compreendido de Janeiro a Dezembro de cada ano. Os números publicados em Novembro e Dezembro do ano anterior que completam a legislatura serão adquiridos ao preço de capa.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "3 - Os prazos de reclamação de faltas do Diário da República para o continente e regiões autónomas e estrangeiro são, respectivamente, de 30 e 90 dias à data da sua publicação.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "PREÇO DESTE NÚMERO 20$00", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

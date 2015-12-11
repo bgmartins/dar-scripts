@@ -33,8 +33,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 35 minutos.", 
@@ -43,7 +44,7 @@
   {
    "speaker": "Estavam, presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD", 
@@ -122,52 +123,51 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas que deram entrada na Mesa.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas que deram entrada na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* (João Salgado): Sr. Presidente e Srs. Deputados: \nDeram entrada na Mesa, e foram admitidos, os projectos de lei n.º 296/VI - Prorrogação do prazo limite para aprovação dos planos directores municipais (PCP) e 297/VI - Alteração dos limites das freguesias de Oeiras e Paço de Arcos (PSD) e a audição parlamentar n.º 12/VI - Proposta de reestruturação do sector da indústria naval (Deputado independente Mário Tomé), que baixaram à 5.º Comissão.", 
-   "type": "deputado_continuacao"
+   "party": "João Salgado", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados: \nDeram entrada na Mesa, e foram admitidos, os projectos de lei n.º 296/VI - Prorrogação do prazo limite para aprovação dos planos directores municipais (PCP) e 297/VI - Alteração dos limites das freguesias de Oeiras e Paço de Arcos (PSD) e a audição parlamentar n.º 12/VI - Proposta de reestruturação do sector da indústria naval (Deputado independente Mário Tomé), que baixaram à 5.º Comissão.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, do período da ordem do dia de hoje consta a apreciação, na generalidade, do projecto de lei n.º 266/VI, apresentado pelo PSD, que adita um número ao artigo 1.º da Lei n.º 63/90, 26 de Dezembro, relativa ao vencimento dos magistrados judiciais e do Ministério Público.\nPara uma intervenção, tem a palavra o Sr. Deputado Fernando Condesso.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, do período da ordem do dia de hoje consta a apreciação, na generalidade, do projecto de lei n.º 266/VI, apresentado pelo PSD, que adita um número ao artigo 1.º da Lei n.º 63/90, 26 de Dezembro, relativa ao vencimento dos magistrados judiciais e do Ministério Público.\nPara uma intervenção, tem a palavra o Sr. Deputado Fernando Condesso.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Fernando Condesso* (PSD): Sr. Presidente, Srs. Deputados: Sobre o nosso debate de boje não haverá, por certo, muito a acrescentar ao que se expõe no preâmbulo do projecto de lei n.º 266/VI e nos relatórios, quer no da Sr.ª Deputada Odete Santos quer no meu próprio, sobre o referido projecto de lei.\nO sistema retributivo dos magistrados consta da Lei n.º 2/90, de 20 de Janeiro, nos termos da qual se deve processar anual-", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Fernando Condesso", 
+   "text": "Sr. Presidente, Srs. Deputados: Sobre o nosso debate de boje não haverá, por certo, muito a acrescentar ao que se expõe no preâmbulo do projecto de lei n.º 266/VI e nos relatórios, quer no da Sr.ª Deputada Odete Santos quer no meu próprio, sobre o referido projecto de lei.\nO sistema retributivo dos magistrados consta da Lei n.º 2/90, de 20 de Janeiro, nos termos da qual se deve processar anual- 1912 I SÉRIE - NÚMERO 57", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "1912 I SÉRIE - NÚMERO 57", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Fernando Condesso", 
    "text": "mente um aumento percentual de vencimento ilíquido indexado ao cargo de director-geral da Administração Pública, tal como acontece, segundo a legislação de 1984, com todos os titulares de cargos políticos ou equiparados.\nEsse sistema foi criado com o propósito de equiparar retribuições de vários cargos a partir da atribuição, às categorias mais elevadas das carreiras das magistraturas, de um vencimento base semelhante à retribuição base de um ministro.\nEm relação a outros países, a Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias não pôde deixar de constatar o favorecimento, em Portugal, do estatuto remuneratório das \nmagistraturas. Como se lê no relatório da Sr.\" Deputada Odete Santos, quer em França quer na Alemanha, os juízes do tribunal mais elevado têm remunerações idênticas às dos parlamentares. Ora, em Portugal, só em 1993 os parlamentares atingiram um nível retributivo igual ao auferido pelos magistrados superiores no ano de 1990, isto é, há cerca de três anos atrás!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Coelho* (PSD): Muito bem!", 
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "De qualquer modo, hoje as magistraturas têm remunerações niveladas para diferentes categorias, na medida em que recebem o mesmo vencimento os Presidentes do Supremo Tribunal de Justiça e do Supremo Tribunal Administrativo, o Procurador-Geral da República, os juízes do Supremo ou da Relação, o procurador-geral-adjunto e mesmo os presidentes dos tribunais administrativos de círculo.\nEstas categorias recebem apenas mais 18 700$ do que o Procurador-Geral da República ou o juiz de círculo. Tudo isto devido à suspensão do regime de indexação, efectuado pela Lei n.º 63/90, de 26 de Dezembro, apesar de ela não ter impedido o aumento das remunerações em termos tão drásticos como o fez para os políticos.\nEm suma, temos uma situação remuneratória relativamente distorcida em relação aos cargos políticos, mas também anómala dentro das várias categorias das magistraturas.\nA Lei n.º 2/90 já permitia que os magistrados não só pudessem ganhar mais do que os parlamentares como não tinha qualquer tecto que impedisse que pudessem mesmo ganhar mais do que os membros do Governo, designadamente o Primeiro-Ministro, ou seja, podiam até ter uma remuneração base superior à remuneração base do Primeiro-Ministro.\nCom efeito, a referida lei apenas impedia que os magistrados pudessem auferir remunerações ilíquidas, resultantes da soma da remuneração base e despesas de representação, superiores a 75 % do montante resultante da soma do vencimento e do abono mensal para despesas de representação do Presidente da República. Ou seja, apenas impedia uma remuneração ilíquida superior à remuneração ilíquida - base e despesas de representação - do Primeiro-Ministro, que, nos termos da Lei n.º 4/85, de 9 de Abril, também corresponde a 75 % da remuneração ilíquida do próprio Presidente da República.\nFoi a Lei n.º 63/90, de 26 de Dezembro, ao suspender a aplicação da Lei n.º 2/90, que veio fixar o tecto salarial dos magistrados por referência à remuneração base do Primeiro-Ministro. E não só não permite que a remuneração base dos magistrados seja superior à remuneração base do Primeiro-Ministro como não permite que o total das remunerações ilíquidas seja superior a essa remuneração base.\nÉ a suspensão da aplicação da legislação referente ao sistema retributivo dos titulares de cargos políticos- a Lei n.º 26/84 - e a suspensão relativa da aplicação da Lei n.0 2/90, referente ao sistema retributivo dos magistrados, que nos termos atrás expostos, acentuam as distorções desniveladoras magistrados/políticos e cria as distorções niveladoras magistrados/magistrados.\nEntão, perguntar-se-á: como foi isto possível? \nA suspensão da Lei n.º 63/90 impôs-se transitoriamente por causa das novas regras- também transitórias- estabelecidas para o estatuto remuneratório dos funcionários e agentes da Administração Pública, constantes do Decreto-Lei n.º 353-A/89, de 16 de Outubro, visando melhorar extraordinariamente as remunerações dos titulares de altos cargos públicos, dado que a Administração precisa de quadros qualificados e sujeitava-se a perdê-los, em face das oportunidades de colocação no mundo empresarial.\nHá que constatar a subida da retribuição base do director--geral da Administração Pública- 33 % em 1990-1991 e 23 % em 1991-1992-, que o poder político não considerou correcto abranger os seus titulares, dada a sua razão excepcional, apenas justificativa para os próprios titulares dos referidos cargos públicos, o que implicou também, embora em termos muito mais atenuados - reconheça-se -, uma relativa travagem das subidas dos vencimentos dos magistrados.\nÉ óbvio que a situação existente não poderia ser querida por qualquer parlamento. A situação de desequilíbrio é «favorecedora» das magistraturas em relação aos titulares de altos cargos políticos e públicos, como o de director- \ngeral da Administração Pública, que, hoje, apesar do regime transitório citado, anda à volta dos 500 000$, sensivelmente ao nível das remunerações dos parlamentares, em termos de remuneração base, uns e outros com cerca de metade das remunerações base ilíquidas dos magistrados superiores, se se aplicasse a legislação ora suspensa, e mesmo que se aplicasse a legislação vigente, essa remuneração, quanto aos parlamentares, situar-se-ia em níveis de cerca de dois terços da remuneração ilíquida global destas categorias das magistraturas.\nTrata-se de um mundo de remunerações tão distorcidas - a favor dos magistrados de certo modo, se tivermos em conta a legislação suspensa, e, entre estes, a favor dos de escalão intermédio, se tivermos em conta a legislação vigente - que não pode considerar-se existir um sistema retributivo minimamente aceitável ou coerente. Impõe-se, assim, sem dúvida, uma reflexão global para repor e refazer as coordenadas do sistema da indexação, o que, aliás, a própria legislação que suspendeu o sistema vigente refere e propõe em termos de futuro. E, \nprovavelmente, em termos teóricos, seria preferível repor a legislação suspensa, sendo certo que, agora, apenas nos apressamos a tomar medidas isoladas enquanto o sistema não é recriado.\nOra, tomam-se essas medidas, desde já, porque se reconhece que, se em termos de remunerações, as magistraturas não são as mais atingidas, já em termos de princípios as suas representações da anomalia existente são inultrapassáveis para o legislador. É que, invocado o sistema praticado de indeferenciação de remunerações, o Parlamento não podia deixar de actuar para, no mínimo, e enquanto é ponderado o refazer global do sistema, corrigir esta evolução pérfida da medida suspensiva transitória.\nOs magistrados têm as suas remunerações ligadas às dos titulares dos cargos políticos, por sua vontade própria, mas a anomalia criada pelo Parlamento não podia deixar de por ele ser corrigida no que diz respeito a este aspecto mais gritante.\nNão se visa aumentar a remuneração, como se vê, apesar da justiça das pretensões para quem sempre revelou grande dedicação no exercício das funções que desempenha, mas, sim, corrigir injustiças mais gritantes, pois, se assim não", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: De qualquer modo, hoje as magistraturas têm remunerações niveladas para diferentes categorias, na medida em que recebem o mesmo vencimento os Presidentes do Supremo Tribunal de Justiça e do Supremo Tribunal Administrativo, o Procurador-Geral da República, os juízes do Supremo ou da Relação, o procurador-geral-adjunto e mesmo os presidentes dos tribunais administrativos de círculo.\nEstas categorias recebem apenas mais 18 700$ do que o Procurador-Geral da República ou o juiz de círculo. Tudo isto devido à suspensão do regime de indexação, efectuado pela Lei n.º 63/90, de 26 de Dezembro, apesar de ela não ter impedido o aumento das remunerações em termos tão drásticos como o fez para os políticos.\nEm suma, temos uma situação remuneratória relativamente distorcida em relação aos cargos políticos, mas também anómala dentro das várias categorias das magistraturas.\nA Lei n.º 2/90 já permitia que os magistrados não só pudessem ganhar mais do que os parlamentares como não tinha qualquer tecto que impedisse que pudessem mesmo ganhar mais do que os membros do Governo, designadamente o Primeiro-Ministro, ou seja, podiam até ter uma remuneração base superior à remuneração base do Primeiro-Ministro.\nCom efeito, a referida lei apenas impedia que os magistrados pudessem auferir remunerações ilíquidas, resultantes da soma da remuneração base e despesas de representação, superiores a 75 % do montante resultante da soma do vencimento e do abono mensal para despesas de representação do Presidente da República. Ou seja, apenas impedia uma remuneração ilíquida superior à remuneração ilíquida - base e despesas de representação - do Primeiro-Ministro, que, nos termos da Lei n.º 4/85, de 9 de Abril, também corresponde a 75 % da remuneração ilíquida do próprio Presidente da República.\nFoi a Lei n.º 63/90, de 26 de Dezembro, ao suspender a aplicação da Lei n.º 2/90, que veio fixar o tecto salarial dos magistrados por referência à remuneração base do Primeiro-Ministro. E não só não permite que a remuneração base dos magistrados seja superior à remuneração base do Primeiro-Ministro como não permite que o total das remunerações ilíquidas seja superior a essa remuneração base.\nÉ a suspensão da aplicação da legislação referente ao sistema retributivo dos titulares de cargos políticos- a Lei n.º 26/84 - e a suspensão relativa da aplicação da Lei n.0 2/90, referente ao sistema retributivo dos magistrados, que nos termos atrás expostos, acentuam as distorções desniveladoras magistrados/políticos e cria as distorções niveladoras magistrados/magistrados.\nEntão, perguntar-se-á: como foi isto possível? \nA suspensão da Lei n.º 63/90 impôs-se transitoriamente por causa das novas regras- também transitórias- estabelecidas para o estatuto remuneratório dos funcionários e agentes da Administração Pública, constantes do Decreto-Lei n.º 353-A/89, de 16 de Outubro, visando melhorar extraordinariamente as remunerações dos titulares de altos cargos públicos, dado que a Administração precisa de quadros qualificados e sujeitava-se a perdê-los, em face das oportunidades de colocação no mundo empresarial.\nHá que constatar a subida da retribuição base do director--geral da Administração Pública- 33 % em 1990-1991 e 23 % em 1991-1992-, que o poder político não considerou correcto abranger os seus titulares, dada a sua razão excepcional, apenas justificativa para os próprios titulares dos referidos cargos públicos, o que implicou também, embora em termos muito mais atenuados - reconheça-se -, uma relativa travagem das subidas dos vencimentos dos magistrados.\nÉ óbvio que a situação existente não poderia ser querida por qualquer parlamento. A situação de desequilíbrio é «favorecedora» das magistraturas em relação aos titulares de altos cargos políticos e públicos, como o de director- \ngeral da Administração Pública, que, hoje, apesar do regime transitório citado, anda à volta dos 500 000$, sensivelmente ao nível das remunerações dos parlamentares, em termos de remuneração base, uns e outros com cerca de metade das remunerações base ilíquidas dos magistrados superiores, se se aplicasse a legislação ora suspensa, e mesmo que se aplicasse a legislação vigente, essa remuneração, quanto aos parlamentares, situar-se-ia em níveis de cerca de dois terços da remuneração ilíquida global destas categorias das magistraturas.\nTrata-se de um mundo de remunerações tão distorcidas - a favor dos magistrados de certo modo, se tivermos em conta a legislação suspensa, e, entre estes, a favor dos de escalão intermédio, se tivermos em conta a legislação vigente - que não pode considerar-se existir um sistema retributivo minimamente aceitável ou coerente. Impõe-se, assim, sem dúvida, uma reflexão global para repor e refazer as coordenadas do sistema da indexação, o que, aliás, a própria legislação que suspendeu o sistema vigente refere e propõe em termos de futuro. E, \nprovavelmente, em termos teóricos, seria preferível repor a legislação suspensa, sendo certo que, agora, apenas nos apressamos a tomar medidas isoladas enquanto o sistema não é recriado.\nOra, tomam-se essas medidas, desde já, porque se reconhece que, se em termos de remunerações, as magistraturas não são as mais atingidas, já em termos de princípios as suas representações da anomalia existente são inultrapassáveis para o legislador. É que, invocado o sistema praticado de indeferenciação de remunerações, o Parlamento não podia deixar de actuar para, no mínimo, e enquanto é ponderado o refazer global do sistema, corrigir esta evolução pérfida da medida suspensiva transitória.\nOs magistrados têm as suas remunerações ligadas às dos titulares dos cargos políticos, por sua vontade própria, mas a anomalia criada pelo Parlamento não podia deixar de por ele ser corrigida no que diz respeito a este aspecto mais gritante.\nNão se visa aumentar a remuneração, como se vê, apesar da justiça das pretensões para quem sempre revelou grande dedicação no exercício das funções que desempenha, mas, sim, corrigir injustiças mais gritantes, pois, se assim não", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "3 DE ABRIL DE 1993 1913", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "fosse e se estivesse em causa corrigir em geral todas as distorções do sistema, provavelmente começar-se-ia pelos titulares políticos de órgãos de soberania e de outros órgãos de poder regional e tocai, desde o Presidente da República ao Primeiro-Ministro e aos membros do Governo, todos eles com níveis de remuneração, em termos de \nenquadramento, que não são os mais adequados.\nTrata-se, portanto, de repor apenas um princípio ofendido- o de remunerações diferentes para funções diferentes-, mas com a preocupação de não comprometer reponderações do sistema global ou mesmo de não acabar com a possibilidade de refazer um sistema para todos os altos cargos do Estado. É, pois, fácil compreender o sentido da alteração legislativa proposta apenas para esta componente dos titulares de órgãos de soberania.\nÉ um passo isolado, pensado para este período intercalar, com o fim de sanar a irregularidade gritante, lá onde ela se encontra, que não pretende negar outras irregularidades que não clamam, evitando, cautelosamente, com» prometer, como dizia atrás, a reconstrução de um sistema retributivo equilibrado e coerente para todos os titulares de altos cargos do Estado, no futuro.\nNão será nem seria esta a solução mesmo que ela viesse integrada na visão da justiça e dos interesses globais que nos cumprirá, no futuro, regular, no entanto ela não merece incompreensão, porque é um sinal de um caminho reformador que se aceita trilhar.", 
    "type": "deputado_continuacao"
   }, 
@@ -176,103 +176,99 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, encontram-se a assistir à nossa reunião plenária alunos da Escola Secundária de Alfredo da Silva, do Barreiro, aos quais apresentamos as nossas saudações.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, encontram-se a assistir à nossa reunião plenária alunos da Escola Secundária de Alfredo da Silva, do Barreiro, aos quais apresentamos as nossas saudações.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, não há mais inscrições relativas ao debate, na generalidade, do projecto de lei n.º 266/VI.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Mário Maciel* (PSD): Sr. Presidente, peço a palavra para uma interpelação à Mesa.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Mário Maciel", 
+   "text": "Sr. Presidente, peço a palavra para uma interpelação à Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para esse efeito, tem a palavra, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para esse efeito, tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Mário Maciel* (PSD): Sr. Presidente, peço à Mesa que aguarde is momentos dado que um colega meu de bancada deseja proceder à apresentação de um voto.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Mário Maciel", 
+   "text": "Sr. Presidente, peço à Mesa que aguarde is momentos dado que um colega meu de bancada deseja proceder à apresentação de um voto.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, entretanto informo que se encontra na tribuna o Sr. Presidente e uma delegação da Assembleia Nacional da Hungria, que se encontram de visita ao Parlamento Português a nosso convite.\nS. Ex.ª, o Sr. Presidente, participou ontem em dois actos importantes do nosso Parlamento, trabalhou com várias comissões e hoje quis ter a deferência para connosco de estar presente naquela tribuna, e eu quero prestar-lhe a minha homenagem, agradecendo-lhe a sua presença.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, entretanto informo que se encontra na tribuna o Sr. Presidente e uma delegação da Assembleia Nacional da Hungria, que se encontram de visita ao Parlamento Português a nosso convite.\nS. Ex.ª, o Sr. Presidente, participou ontem em dois actos importantes do nosso Parlamento, trabalhou com várias comissões e hoje quis ter a deferência para connosco de estar presente naquela tribuna, e eu quero prestar-lhe a minha homenagem, agradecendo-lhe a sua presença.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos gerais, de pé.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Para a leitura do voto de pesar n.º 76/VI, tem a palavra o Sr.Secretário.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* (João Salgado): Sr. Presidente, Srs. Deputados: O voto de pesar n.º 767VI, de pesar pelo falecimento do conde de Barcelona, D. Juan de Borbón y Battenberg, apresentado pelo PSD, é do seguinte teor \nFaleceu, após prolongada doença, o conde de Barcelona, pai do Rei D.\nJuan Carlos I de Espanha.\nExilado durante várias décadas em Portugal, soube D. Juan de Borbón y Battenberg, revestido da representação dinástica que indiscutivelmente lhe cabia, defender, de forma digna e patriótica, a sua oposição a Francisco Franco e à ditadura por ele institucionalizada e prolongada.\nTeve a felicidade de voltar à sua Espanha democrática e livre e de ver o filho no qual declinou expressamente a legitimidade dinástica, fazendo-a coincidir com a vontade soberana e livremente expressa do povo espanhol, defender, como lhe cabia, a liberdade e a democracia, ameaçada que esteve pelo extremismo saudosista de alguns.\nÀ memória do grande homem que foi o conde de Barcelona, presta, nesta ocasião, a Assembleia da República a sua homenagem.\nA Sua Majestade o Rei de Espanha apresenta o Parlamento Português as suas sentidas condolências.", 
-   "type": "deputado_continuacao"
+   "party": "João Salgado", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente, Srs. Deputados: O voto de pesar n.º 767VI, de pesar pelo falecimento do conde de Barcelona, D. Juan de Borbón y Battenberg, apresentado pelo PSD, é do seguinte teor \nFaleceu, após prolongada doença, o conde de Barcelona, pai do Rei D.\nJuan Carlos I de Espanha.\nExilado durante várias décadas em Portugal, soube D. Juan de Borbón y Battenberg, revestido da representação dinástica que indiscutivelmente lhe cabia, defender, de forma digna e patriótica, a sua oposição a Francisco Franco e à ditadura por ele institucionalizada e prolongada.\nTeve a felicidade de voltar à sua Espanha democrática e livre e de ver o filho no qual declinou expressamente a legitimidade dinástica, fazendo-a coincidir com a vontade soberana e livremente expressa do povo espanhol, defender, como lhe cabia, a liberdade e a democracia, ameaçada que esteve pelo extremismo saudosista de alguns.\nÀ memória do grande homem que foi o conde de Barcelona, presta, nesta ocasião, a Assembleia da República a sua homenagem.\nA Sua Majestade o Rei de Espanha apresenta o Parlamento Português as suas sentidas condolências.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, embora da sessão de hoje não conste um período de antes da ordem do dia, sou informado de que há consenso no sentido de o Plenário proceder à sua apreciação e respectiva votação.\nPara uma intervenção, tem a palavra o Sr. Deputado Sousa Lara.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, embora da sessão de hoje não conste um período de antes da ordem do dia, sou informado de que há consenso no sentido de o Plenário proceder à sua apreciação e respectiva votação.\nPara uma intervenção, tem a palavra o Sr. Deputado Sousa Lara.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Sousa Lara* (PSD): Sr. Presidente, Srs. Deputados: Penso que o voto fala por si.\nO conde de Barcelona trata-se de uma figura que, apesar de tudo, permanece para nós e para os democratas uma referência, um homem que soube defender, nos tempos em que era difícil, uma postura digna, que se soube revestir da sua autoridade e do exemplo que ele próprio personificava e manifestar sempre uma firmeza inabalável contra a ditadura.\nNós, representantes do povo livremente eleitos, nós, democratas, devemos prestar-lhe esta última homenagem, uma vez que se exilou em Portugal durante várias décadas e que soube demonstrar, também perante nós, o seu exemplo.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Sousa Lara", 
+   "text": "Sr. Presidente, Srs. Deputados: Penso que o voto fala por si.\nO conde de Barcelona trata-se de uma figura que, apesar de tudo, permanece para nós e para os democratas uma referência, um homem que soube defender, nos tempos em que era difícil, uma postura digna, que se soube revestir da sua autoridade e do exemplo que ele próprio personificava e manifestar sempre uma firmeza inabalável contra a ditadura.\nNós, representantes do povo livremente eleitos, nós, democratas, devemos prestar-lhe esta última homenagem, uma vez que se exilou em Portugal durante várias décadas e que soube demonstrar, também perante nós, o seu exemplo.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, não havendo mais inscrições, vamos votar.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, não havendo mais inscrições, vamos votar.\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência do PSN e dos Deputados independentes Freitas do Amaral e Mário Tomé.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Submetido à votação, foi aprovado por unanimidade, registando-se a ausência do PSN e dos Deputados independentes Freitas do Amaral e Mário Tomé.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Peço à Câmara que guardemos um minuto de silêncio em nome desse grande ibérico que faleceu ontem.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "A Câmara guardou, de pé, um minuto de silêncio.\nFarei chegar a Sua Majestade o Rei D. Juan Carlos I o voto que a Câmara acaba de aprovar por unanimidade.\nPara apresentar um outro voto de pesar, tem a palavra o Sr. Deputado Guilherme Silva.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Guilherme Silva* (PSD): Sr. Presidente, Srs. Deputados: Acabo de ter conhecimento da morte do Dr. Adão e Silva, que foi membro desta Assembleia. Não tive ainda tempo de preparar um texto, mas peço o consenso da Câmara para que votemos um voto de pesar pelo faleci-", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Guilherme Silva", 
+   "text": "Sr. Presidente, Srs. Deputados: Acabo de ter conhecimento da morte do Dr. Adão e Silva, que foi membro desta Assembleia. Não tive ainda tempo de preparar um texto, mas peço o consenso da Câmara para que votemos um voto de pesar pelo faleci- 1914 I SÉRIE - NÚMERO 57", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "1914 I SÉRIE - NÚMERO 57", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Guilherme Silva", 
    "text": "mento do Dr. Adão e Silva e que observemos, em sua memória, um minuto de silêncio.\nO Dr. Adão e Silva foi um cidadão exemplar, de cujo convívio guardo uma admiração e um respeito e, já. uma saudade intensa. Quando comecei a minha actividade como advogado e, antes disso, como magistrado do Ministério Público, tive o prazer de intervir em vários actos forenses com o Dr. Adão e Silva e de observar a forma sempre cuidada como preparava as suas intervenções nos processos e o trato impecável que tinha para com todos os colegas e magistrados.\nComo cidadão, o Dr. Adão e Silva foi um lutador constante pelas liberdades e um democrata autêntico. Como membro desta Assembleia, integrou o grupo reformador, e essa posição política era até reveladora da sua personalidade, da sua postura em relação aos demais cidadãos e da sua posição moderada, equilibrada, tolerante e dialogante.\nA sua morte constitui, sem dúvida, uma perda para a comunidade nacional, para a comunidade política, para a classe dos advogados, que via nele um exemplo que as novas gerações de advogados, que hoje se debatem com graves problemas na sua formação, no estágio e no acesso à profissão, devem seguir, olhando para a carreira do Dr. Adão e Silva como uma referência geral do advogado, do político e do cidadão.", 
    "type": "deputado_continuacao"
   }, 
@@ -281,38 +277,33 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, associo-me às palavras do Sr.Deputado Guilherme Silva e comunico à Câmara que enviarei, juntamente com a nota da aprovação do voto, um extracto das suas palavras.\nVamos, pois, proceder à votação do voto, n.º 77/VI, de pesar pelo falecimento do ex-Deputado Dr. Adão e Silva.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, associo-me às palavras do Sr.Deputado Guilherme Silva e comunico à Câmara que enviarei, juntamente com a nota da aprovação do voto, um extracto das suas palavras.\nVamos, pois, proceder à votação do voto, n.º 77/VI, de pesar pelo falecimento do ex-Deputado Dr. Adão e Silva.\nSubmetido à votação, foi aprovado por unanimidade, registando-se a ausência do PSN e dos Deputados independentes Freitas do Amaral e Mário Tomé.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Submetido à votação, foi aprovado por unanimidade, registando-se a ausência do PSN e dos Deputados independentes Freitas do Amaral e Mário Tomé.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Tal como sugerido pelo Sr. Deputado Guilherme Silva, peço à Câmara que guarde um minuto de silêncio por intenção deste grande português.\nA Câmara guardou, de pé, um minuto de silêncio.\nSrs. Deputados, a Conferência dos Representantes dos Grupos \nParlamentares reúne às 11 horas e 15 minutos.\nO Plenário voltará a reunir no próximo dia 14 de Abril, às 15 horas, com um período de antes da ordem do dia, e no período da ordem do dia serão discutidos os projectos de lei n.º 467VI, do PCP, e 135/VI. do PS.\nAproveito esta oportunidade para desejar a todos os Deputados, aos funcionários e aos jornalistas, que não se encontram presentes, mas que possivelmente me estarão a ouvir, uma boa Páscoa.\nSrs. Deputados, está encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 11 horas e 5 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Rectificação ao n.º 49, de 19 de Março.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Na p. 1731, 2.ª col., 1. 16, onde se lê «e de um Deputado do PS e a abstenção do PS.» deve ler-se «e de 15 Deputados do PS e a abstenção dos restantes Deputados do PS.».", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Faltaram à sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD", 

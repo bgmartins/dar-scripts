@@ -90,74 +90,94 @@
    "type": "continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Estão presentes 235 Srs. Deputados, pelo que declaro aberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Estão presentes 235 Srs. Deputados, pelo que declaro aberta a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 16 horas e 25 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Interromperemos a sessão imediatamente para que a Assembleia receba o Presidente da República eleito.\nPeço aos Srs. Deputados o favor de ocuparem os seus lugares, como sabem - mas tenho a lembrar às 17 horas e 50 minutos.\nEstá suspensa a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Interromperemos a sessão imediatamente para que a Assembleia receba o Presidente da República eleito.\nPeço aos Srs. Deputados o favor de ocuparem os seus lugares, como sabem - mas tenho a lembrar às 17 horas e 50 minutos.\nEstá suspensa a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 16 horas e 27 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Às 18 horas entrou na Sala das Sessões, recebido por calorosos aplausos dos Srs. Deputados e da assistência, o cortejo em que se integravam o Sr. Presidente da República eleito, general António dos Santos Ramalho Eanes, o Sr. Presidente da Assembleia da República, o \nPrimeiro-Ministro, o Presidente do Supremo Tribunal de Justiça, os Secretários da Mesa, a comitiva do Presidente da República, o Secretário-Geral da Assembleia da República, o Chefe, o Vice-Chefe e os Secretários do Protocolo.\nNa Sala encontravam-se já, especialmente convidados, o Sr. Presidente da República cessante, general Francisco da Costa Gomes, o Presidente da Assembleia Constituinte, os membros do Conselho da Revolução, os Ministros, o Provedor de Justiça, o Procurador-geral da República e os Presidentes dos Tribunais da Relação.\nAo passar junto do Sr. Presidente da República cessante, o Sr.Presidente da República eleito cumprimentou-o, saudando depois com uma vénia o corpo diplomático presente.\nFormou-se então a Mesa, com o Sr. Presidente da República à direita do Sr. Presidente da Assembleia da República.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está reaberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 18 horas e 5 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra a Sr.ª Secretária para fazer o favor de ler a acta da reunião da assembleia de apuramento geral da eleição do Presidente da República.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Secretária para fazer o favor de ler a acta da reunião da assembleia de apuramento geral da eleição do Presidente da República.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Amélia de Azevedo) procedeu à leitura da acta, do seguinte teor", 
    "speaker": "A Sr.ª Secretária", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Amélia de Azevedo) procedeu à leitura da acta, do seguinte teor", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "Acta da reunião da assembleia de apuramento geral da eleição do Presidente da República", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Amélia de Azevedo) procedeu à leitura da acta, do seguinte teor", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "No dia cinco de Julho de mil novecentos e setenta e seis, pelas nove horas, no Supremo Tribunal de Justiça, reuniu a assembleia de apuramento geral da eleição do Presidente da República, nos termos e para os efeitos do disposto nos artigos 105.º a 110.º do Decreto-Lei n.º 319-A/76, de 3 de Maio, sob a presidência do Sr. Juiz Conselheiro Presidente deste Supremo Tribunal, Doutor José Joaquim de Almeida Borges, com os Srs. Juiz Conselheiro Doutor Henrique José da Fonseca Ramalho Ortigão, Juiz Desembargador Doutor Octávio Dias Garcia, Doutores António Alberto Baeta, Álvaro dos Santos Lemos e Francisco Maria Gonçalves, professores de Matemática, comigo, Alberto Simões Serra, chefe de secretaria judicial, servindo de secretário.\nDado que o Decreto-Lei n.º 319-A/76, de 3 ele Maio, que regula a eleição do Presidente da República, define expressamente no seu artigo 88.º o que é o", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Amélia de Azevedo) procedeu à leitura da acta, do seguinte teor", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "108 DIÁRIO DA ASSEMBLEIA DA REPÚBLICA N.º 6", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Amélia de Azevedo) procedeu à leitura da acta, do seguinte teor", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "voto em branco e o voto nulo, dispondo que o primeiro é aquele que não foi objecto, por parte do eleitor, de qualquer tipo de marca e que o voto nulo é aquele que padece de qualquer dos vícios ou defeitos consignados nas diferentes alíneas do n.º 2 do citado artigo, e visto que surgiram dúvidas sobre o significado do voto em branco para o efeito do apuramento geral daquela eleição, esta assembleia deliberou, por unanimidade, emitir o seu ponto de vista, o que faz nos termos seguintes: \nConsiderando que nos termos do artigo 10.º do mesmo diploma legal se faz expressa referência ao voto válido dizendo-se que se considerará eleito o candidato que obtiver mais - de metade dos votos validamente expressos; \nConsiderando que são validamente expressos aqueles em que o eleitor marca com uma cruz no quadrado respectivo o candidato em que votou (cf.\nn.º 2 do artigo 87.º); \nConsiderando que o exercício do direito de voto, na prática comum do acto eleitoral, se efectiva com a escolha expressa de alguém para exercer determinado cargo; \nConsiderando que o voto em branco, muito embora possa significar uma manifestação de vontade discordante, não conta, todavia, como o voto nulo, para o efeito do apuramento geral da eleição, visto que não realiza praticamente o objectivo daquele direito.\nCom estes fundamentos esta assembleia delibera considerar apenas como validamente expressos, para efeito daquele apuramento, os votos que satisfaçam os requisitos exigidos no citado artigo 87.º, n.º 2, ou sejam aqueles em que o eleitor marcou com uma cruz, no quadrado respectivo, o candidato em que votou.\nTendo-se verificado que no final da acta de apuramento distrital de Angra do Heroísmo se faz referência ao número de votantes (trinta e seis mil seiscentos - e sete) que não corresponde ao total dos votantes naquele distrito, por esta assembleia foi apurado que o lapso se deve unicamente a um erro de escrita, uma vez que, em lugar de trinta e seis mil seiscentos e sete, se devia ter consignado o número trinta e sete mil setecentos e sete, como se vê do mapa anexo à mesma acta.\nProsseguindo as operações de apuramento, constatou-se a falta de apresentação das actas do território de Macau e de Lisboa, que não foram recebidas até às vinte e quatro horas do dia de hoje, pelo que se deliberou a continuação da reunião desta assembleia pelas dez horas de amanhã.\nNo dia seis de Julho de mil novecentos e setenta e seis, pelas dez horas, com a mesma composição já referida, e tendo sido já recebidas as actas que faltavam, de Lisboa e de Macau, a deste território aqui recebida directamente, pelo seguro do correio, continuou a assembleia os - trabalhos de apuramento geral da eleição - do Presidente da República, tendo-se apurado, após as necessárias operações, os resultados seguintes, nos termos do artigo 108.º do citado Decreto-Lei n.º 319-A/76, de 3 de Maio: \nNúmero total de leitores inscritos no círculo eleitoral: 6 467 480 (seis milhões quatrocentos e sessenta e sete mil quatrocentos e oitenta); \nNúmero total de votantes no círculo eleitoral: 4 881 125 (quatro milhões oitocentos e oitenta e um mil cento e vinte e cinco); Número total de votos obtidos pelo candidato António dos Santos Ramalho Eanes: 2 967 137 (dois milhões novecentos e sessenta e sete mil cento e trinta e sete); \nNúmero total de votos obtidos pelo candidato José Baptista Pinheiro de Azevedo: 692 147 (seiscentos e noventa e dois mil cento e quarenta e sete); \nNúmero total de votas obtidos pelo candidato Octávio Floriano Rodrigues Pato: 365 586 (trezentos e sessenta e cinco mil quinhentos e oitenta e seis); \nNúmero ,total de votos obtidos pelo candidato Otelo Nuno Romão Saraiva de Carvalho: 792 760 (setecentos e noventa e dois mil setecentos e sessenta); \nNúmero de votos em branco: 20 253 (vinte mil duzentos e cinquenta e três); \nNúmero de votos nulos: 43 242 (quarenta e três mil duzentos e quarenta e dois).\nCandidato eleito, nos termos do artigo 10.º, n.º 1, do Decreto-Lei n.º 319-A/76, cidadão António dos Santos Ramalho Eanes.\nFinalmente, pelo Sr. Presidente desta assembleia foram proclamados os resultados do apuramento geral, lavrando-se edital para ser afixado à porta do Supremo Tribunal .de Justiça, nos termos do artigo 109.º do já referido Decreto-Lei n.º 319-A/76.\nPara constar se lavrou .esta acta que, depois de lida e aprovada, vai ser devidamente assinada.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Amélia de Azevedo) procedeu à leitura da acta, do seguinte teor", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "José Joaquim de Almeida Borges.\nHenrique José da Fonseca Ramalho Ortigão.\nOctávio Dias Garcia.\nÁlvaro dos Santos Lemos.\nAntónio Alberto Baeta.\nFrancisco Maria Gonçalves.\nAlberto Simões Serra.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Amélia de Azevedo) procedeu à leitura da acta, do seguinte teor", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "Está conforme.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "Amélia de Azevedo) procedeu à leitura da acta, do seguinte teor", 
+   "speaker": "A Sr.ª Secretária", 
    "text": "Lisboa, 9 de Julho de 1976. - O Secretário, (Assinatura ilegível).", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. General Ramalho Eanes vai prestar juramento.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "O Sr. General Ramalho Eanes vai prestar juramento.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "O Sr. Presidente da República, de pé, prestou juramento sobre um exemplar da Constituição, lendo a fórmula constitucional, do seguinte teor", 
@@ -205,140 +225,160 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai usar da palavra, por direito próprio, o Sr.Presidente da República.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vai usar da palavra, por direito próprio, o Sr.Presidente da República.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. Presidente da República: Sr. Presidente, Srs. Deputados, Portugueses: \nEste acto de investidura de um Presidente da República, que apenas deve este cargo ao sufrágio dos seus concidadãos, culmina um longo e penoso caminho de resistência do povo português à opressão e é um marco decisivo na institucionalização da democracia.\nAo mesmo tempo, este acto de investidura de um Presidente da República que acaba de jurar a Constituição livremente elaborada pelos legítimos representantes do povo consagra a derrota das ,minorias que se opuseram às transformações políticas, económicas, sociais e culturais, agora traduzidas num projecto de vida colectiva baseado na justiça, na igualdade, no respeito pelas liberdades e no progresso partilhado por todos.\nFoi um duro e difícil caminho de resistência até um 25 de Abril em que as Forças Armadas restituíram a este povo o seu próprio País, a este Pais o seu lugar no Mundo e a si próprias a sua verdadeira função social.\nFoi um movimento de juventude e de renovação, enraizado nas lutas de meio século, que não cedeu à tentação fácil de usar o poder em proveito próprio, antes soube devolver aos cidadão.3 a escolha do seu destino e a definição do seu futuro. Arredados que andávamos da prática democrática, inexperientes no campo da actividade sindical e cooperativa, condicionados por um sistema totalitário que lançou raízes nas formas de organização e nos comportamentos individuais, nem sempre as nossas experiências na construção difícil da democracia se ajustaram, nestes últimos dois anos, aos processos e às metas definidas pelos homens do 25 de Abril e por quantos se bateram para que Portugal e os Portugueses fossem efectivamente livres.\nMas a firmeza com que o povo português soube responder a todas as situações ditatoriais. a sua determinação de viver a liberdade e a paz demonstraram a justeza do Programa do MFA e a firme adesão do povo português à sua mensagem, que em 25 de Novembro de 1975 ficou de novo claramente expressa.\nAo iniciarmos um novo período na vida da nossa Pátria, legitimamente constituídos os diversos órgãos de Soberania que caracterizam um Estado de direito, cabe aqui a evocação e a homenagem a quantos na resistência à ditadura ou no Movimento das Forças Armadas deram o melhor de si próprios, quantas vezes a vida, para que todos os portugueses pudessem decidir em liberdade a Pátria que queriam ser.\nA uns e outros evoco e saúdo na pessoa do Presidente da Assembleia da República e nos camaradas de: armas presentes nesta Assembleia ou nos seus postos de comando e trabalho.\nNão quero aqui antecipar-me à história no registo de nomes. Ela o fará, certamente com perspectiva, certamente com verdade, inevitavelmente com justiça.\nApresentei-me aos Portugueses com o compromisso solene de cumprir a Constituição, não como um quadro de referência, mas como um projecto de vida colectiva, apontando para metas concretas e estabelecendo como caminho o respeito permanente pela vontade do povo português livremente expressa.\nHoje jurei, perante o País e o Mundo, defendê-la; e ao fazê-lo, mais uma vez me comprometo a assegurar e desenvolver as condições que hão-de garantir o primado do Estado de direito democrático e as bases de uma sociedade socialista.\nA eleição do Presidente da República significou, de forma inequívoca e clara, a adesão a um projecto político que lhe foi apresentado sem ambiguidades e com realismo. Esta adesão responsabiliza todos os portugueses na participação efectiva na construção de um Estado e de um regime de que a Constituição é o principal fundamento.\nDefinido este quadro, está delimitado o campo de actuação das forças políticas. Não há, pois, lugar para actuações que visem a restauração de um passado que o povo português claramente rejeitou, nem serão toleradas quaisquer tentativas de criação de poderes paralelos, radicados em actividades de carácter insurreccional que só podem conduzir de novo à miséria e à ditadura.", 
-   "type": "documento"
+   "speaker": "O Sr. Presidente da República", 
+   "text": "Sr. Presidente, Srs. Deputados, Portugueses: \nEste acto de investidura de um Presidente da República, que apenas deve este cargo ao sufrágio dos seus concidadãos, culmina um longo e penoso caminho de resistência do povo português à opressão e é um marco decisivo na institucionalização da democracia.\nAo mesmo tempo, este acto de investidura de um Presidente da República que acaba de jurar a Constituição livremente elaborada pelos legítimos representantes do povo consagra a derrota das ,minorias que se opuseram às transformações políticas, económicas, sociais e culturais, agora traduzidas num projecto de vida colectiva baseado na justiça, na igualdade, no respeito pelas liberdades e no progresso partilhado por todos.\nFoi um duro e difícil caminho de resistência até um 25 de Abril em que as Forças Armadas restituíram a este povo o seu próprio País, a este Pais o seu lugar no Mundo e a si próprias a sua verdadeira função social.\nFoi um movimento de juventude e de renovação, enraizado nas lutas de meio século, que não cedeu à tentação fácil de usar o poder em proveito próprio, antes soube devolver aos cidadão.3 a escolha do seu destino e a definição do seu futuro. Arredados que andávamos da prática democrática, inexperientes no campo da actividade sindical e cooperativa, condicionados por um sistema totalitário que lançou raízes nas formas de organização e nos comportamentos individuais, nem sempre as nossas experiências na construção difícil da democracia se ajustaram, nestes últimos dois anos, aos processos e às metas definidas pelos homens do 25 de Abril e por quantos se bateram para que Portugal e os Portugueses fossem efectivamente livres.\nMas a firmeza com que o povo português soube responder a todas as situações ditatoriais. a sua determinação de viver a liberdade e a paz demonstraram a justeza do Programa do MFA e a firme adesão do povo português à sua mensagem, que em 25 de Novembro de 1975 ficou de novo claramente expressa.\nAo iniciarmos um novo período na vida da nossa Pátria, legitimamente constituídos os diversos órgãos de Soberania que caracterizam um Estado de direito, cabe aqui a evocação e a homenagem a quantos na resistência à ditadura ou no Movimento das Forças Armadas deram o melhor de si próprios, quantas vezes a vida, para que todos os portugueses pudessem decidir em liberdade a Pátria que queriam ser.\nA uns e outros evoco e saúdo na pessoa do Presidente da Assembleia da República e nos camaradas de: armas presentes nesta Assembleia ou nos seus postos de comando e trabalho.\nNão quero aqui antecipar-me à história no registo de nomes. Ela o fará, certamente com perspectiva, certamente com verdade, inevitavelmente com justiça.\nApresentei-me aos Portugueses com o compromisso solene de cumprir a Constituição, não como um quadro de referência, mas como um projecto de vida colectiva, apontando para metas concretas e estabelecendo como caminho o respeito permanente pela vontade do povo português livremente expressa.\nHoje jurei, perante o País e o Mundo, defendê-la; e ao fazê-lo, mais uma vez me comprometo a assegurar e desenvolver as condições que hão-de garantir o primado do Estado de direito democrático e as bases de uma sociedade socialista.\nA eleição do Presidente da República significou, de forma inequívoca e clara, a adesão a um projecto político que lhe foi apresentado sem ambiguidades e com realismo. Esta adesão responsabiliza todos os portugueses na participação efectiva na construção de um Estado e de um regime de que a Constituição é o principal fundamento.\nDefinido este quadro, está delimitado o campo de actuação das forças políticas. Não há, pois, lugar para actuações que visem a restauração de um passado que o povo português claramente rejeitou, nem serão toleradas quaisquer tentativas de criação de poderes paralelos, radicados em actividades de carácter insurreccional que só podem conduzir de novo à miséria e à ditadura.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos dos Srs. Deputados do PS, PPD e CDS, todos de pé.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "Projecto de vida colectiva, quadro de garantia da democracia e do seu desenvolvimento, directriz de todas as participações individuais ou colectivas, a Constituição representa a realidade e as conquistas revolucionárias que o 25 de Abril desencadeou e consagra a eliminação do golpismo e da anarquia a que o 25 de Novembro pôs termo \ndefinitivamente.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "text": "Aplausos dos Srs. Deputados do PS, PPD e CDS, todos de pé.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. Presidente da República: Jurei defender a Constituição e cumprirei com fidelidade o meu dever. Mas esse é também o dever de todos os cidadãos democratas e patriotas e de todos os outros órgãos, ins-", 
-   "type": "documento"
+   "speaker": "O Sr. Presidente da República", 
+   "text": "Jurei defender a Constituição e cumprirei com fidelidade o meu dever. Mas esse é também o dever de todos os cidadãos democratas e patriotas e de todos os outros órgãos, ins-", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "112 DIÁRIO DA ASSEMBLEIA DA REPÚBLICA N.º 6", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "tituições e agentes do Estado. Estou certo de que todos assumiremos as responsabilidades históricas que nos cabem, neste iniciar de uma nova era na vida de uma Pátria que soube sempre escrever, a seguir a cada crise, uma nova página de grandeza.\nExercerei o cargo de Presidente da República consciente de que um Estado de direito democrático se caracteriza pela pluralidade e independência dos órgãos e poderes constituídos. Comprometo-me a respeitar a esfera de cada um, a exigir de todos o cumprimento integral da sua missão e a todos garantir as condições do seu correcto exercício.\nAs forças armadas assumiram, ao depor em 25 de Abril um regime antidemocrático, o pesado encargo de lançar os fundamentos de um Estado participado. Nos dois últimos anos, o exercício do poder político assentou na legitimidade revolucionária e na fidelidade a um programa que agora se concretiza na própria legalidade constitucional.\nNo prolongamento das responsabilidades que os militares assumiram em 25 de Abril de 1974, a Constituição consagra o Conselho da Revolução como a expressão política das forças armadas, como garante do seu cumprimento e da fidelidade ao espírito do 25 de Abril, a par de lhe atribuir funções legislativas em matéria militar.\nA entrada em vigência plena da nossa lei fundamental e dos órgãos nela instituídos, representando a materialização de compromissos tomados, contribuirá eficazmente para a coesão e operacionalidade das forças armadas, no exercício da missão que lhes cabe na defesa da democracia e da independência nacional. Esta é também a melhor garantia de que o Conselho da Revolução cumprirá correctamente os fins que lhe são inerentes e lhe estão justamente atribuídos e contribuirá de modo decisivo para o equilíbrio e unidade de acção que ao Presidente da República compete assegurar.\nNa Assembleia da República se consubstancia a própria democracia pluralista. A história do funcionamento dos parlamentos em Portugal constitui matéria de reflexão e fonte de ensinamentos. A oposição deve ter neste País um lugar e unia voz. Mas tem de constituir um alternativa real e não um mero exercício lúdico de querelas \npartidárias, para que se não transforme de oposição a um Governo em oposição a uma democracia.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "Vozes:- Muito bem!", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. Presidente da República: A vida na Assembleia Constituinte foi um capítulo de luta e coerência nos agitados tempos da sua existência.\nEnvidarei todos os esforços para dignificar a actividade desta Assembleia, mas é no ajustamento da sua prática à situação real do País e às aspirações concretas do povo que assentam as determinantes do seu prestígio.\nOs tribunais são as únicas instituições a quem compete administrar a justiça, protegendo os interesses dos cidadãos e defendendo a legalidade. Ninguém ignora a diversidade do espectro político de algumas regiões do País. Da força moral que representa o funcionamento independente dos tribunais e da sua capacidade para verter na vida as regras constitucionais e as novas leis depende em larga medida o clima de autoridade democrática e a garantia de igualdade dos cidadãos. A cedência a quaisquer pressões, se por um lado não dignifica os tribunais, por outro ofende gravemente os princípios democráticos em que assenta a nova sociedade, uma sociedade em que não haja mais lugar para o medo nem para a impunidade do terrorismo e do crime.", 
-   "type": "documento"
+   "speaker": "O Sr. Presidente da República", 
+   "text": "A vida na Assembleia Constituinte foi um capítulo de luta e coerência nos agitados tempos da sua existência.\nEnvidarei todos os esforços para dignificar a actividade desta Assembleia, mas é no ajustamento da sua prática à situação real do País e às aspirações concretas do povo que assentam as determinantes do seu prestígio.\nOs tribunais são as únicas instituições a quem compete administrar a justiça, protegendo os interesses dos cidadãos e defendendo a legalidade. Ninguém ignora a diversidade do espectro político de algumas regiões do País. Da força moral que representa o funcionamento independente dos tribunais e da sua capacidade para verter na vida as regras constitucionais e as novas leis depende em larga medida o clima de autoridade democrática e a garantia de igualdade dos cidadãos. A cedência a quaisquer pressões, se por um lado não dignifica os tribunais, por outro ofende gravemente os princípios democráticos em que assenta a nova sociedade, uma sociedade em que não haja mais lugar para o medo nem para a impunidade do terrorismo e do crime.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos dos Srs. Deputados do PS, PPD e CDS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "Srs. Deputados, Portugueses: \nA democracia em Portugal é possível; e, sendo possível, tem de ser viável. O País tem cada dia uma consciência mais clara das dificuldades que nos assoberbam. Generalizou-se, é verdade, a irresponsabilidade e a incompetência - quantas vezes usurpando o nome e os interesses dos trabalhadores - e avançou-se largamente no campo da irracionalidade económica, que poderia conduzir a muitos lugares, mas não por certo à democracia e muito menos ao socialismo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "Vozes:- Muito bem!", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos dos Srs. Deputados do PS, PPD e CDS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. Presidente da República: Cabe ao Governo encontrar os caminhos da viabilidade em que assentam em larga medida os avanços - das conquistas das classes mais desfavorecidas, mas todas as forças políticas serão de cento modo responsáveis pela criação de condições que permitam a concretização do programa que esta Assembleia vier a aprovar. Não se espera o monólogo nem o diálogo de surdos. A consciência da gravidade - da situação presidirá à procura de formas de actuação política que, sem prejuízo de uma indispensável actividade política, saibam salvaguardar o essencial para este povo, que é a defesa da paz, da liberdade e de um progresso real e duradouro.\nA recuperação da situação económica, passando por uma política de austeridade, não poderá limitar-se ao seu aprofundamento, num país que de há largos anos detém os padrões de vida mais baixos da Europa, essa Europa que constitui local de trabalho e ponto de referência para mais de um milhão de trabalhadores de Portugal.\nA exploração não pode voltar ou continuar onde ainda exista, e esta recuperação não se fará em nenhum caso à custa dos legítimos direitos dos trabalhadores, das suas organizações e associações e, \neventualmente, só os poderá favorecer.", 
-   "type": "documento"
+   "speaker": "O Sr. Presidente da República", 
+   "text": "Cabe ao Governo encontrar os caminhos da viabilidade em que assentam em larga medida os avanços - das conquistas das classes mais desfavorecidas, mas todas as forças políticas serão de cento modo responsáveis pela criação de condições que permitam a concretização do programa que esta Assembleia vier a aprovar. Não se espera o monólogo nem o diálogo de surdos. A consciência da gravidade - da situação presidirá à procura de formas de actuação política que, sem prejuízo de uma indispensável actividade política, saibam salvaguardar o essencial para este povo, que é a defesa da paz, da liberdade e de um progresso real e duradouro.\nA recuperação da situação económica, passando por uma política de austeridade, não poderá limitar-se ao seu aprofundamento, num país que de há largos anos detém os padrões de vida mais baixos da Europa, essa Europa que constitui local de trabalho e ponto de referência para mais de um milhão de trabalhadores de Portugal.\nA exploração não pode voltar ou continuar onde ainda exista, e esta recuperação não se fará em nenhum caso à custa dos legítimos direitos dos trabalhadores, das suas organizações e associações e, \neventualmente, só os poderá favorecer.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos dos Srs. Deputados do PS e do PPD, de pé, e do CDS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "Mas para que a economia, a democracia e o próprio País se salvem, é indispensável que todos os trabalhadores de facto trabalhem e produzam como se impõe e, com unia crescente maturidade política e no cumprimento de um dever patriótico, recusem frontalmente demagogias irresponsáveis, ilusões utópicas, vantagens imediatas que se traduzem em prejuízos irreparáveis a curto prazo, reivindicações irrealistas e formas de actuação que neste momento só podem servir a falência do Portugal novo e democrático, com o consequente e inevitável regresso ao passado.\nA rentabilização do sector nacionalizado e a criação de condições de exercício aos empreendimentos privados que permitam o relançamento do investi-", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "15 DE JULHO DE 1976 113", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "mento são objectivos que é imperativo atingir a curto prazo.\nImporta prosseguir uma política de melhoria de condições de vida das classes mais desfavorecidas, com prioridade para os trabalhadores cujos salários se situam ainda muito abaixo da média nacional, nomeadamente no sector da agricultura e da pesca, da função pública, das pequenas e médias empresas e reformados.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos dos Srs. Deputados do PS, PPD e CDS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "Por outro lado, ao mesmo tempo que importa combater, na medida do possível, o aumento do custo de vida, há que desenvolver condições que possibilitem a criação de novos postos de trabalho, pondo termo à situação dramática dos desempregados e de muitos dos deslocados de África.\nO País exige um ponto final no lamentável espectáculo de um sistema educativo que não funciona e que dia a dia continua a hipotecar o nosso futuro, pela sua demissão na formação das gerações que hão-de garantir ao nosso país as condições de progresso e de independência real.\nHá que lançar programas ousados no domínio da habitação e da saúde e que encontrar soluções que melhorem a qualidade de vida das populações da cintura dos grandes centros urbanos, onde vivem desenraizados os que abandonaram os campos e as aldeias na procura de sobrevivência para si e para os seus.\nO conjunto de transformações que se torna necessário dinamizar exige uma organização administrativa qualificada e eficiente e, em consequência, a dignificação da função pública, por forma a ultrapassar a situação de bloqueamento que se vem arrastando perigosamente.\nNos vários sectores de actividade, temos de terminar com quaisquer formas de irresponsabilidade e corrupção, impondo o primado da seriedade e da competência.\nE, para atingir todos estes objectivos, precisamos ainda de órgãos de comunicação social que não sejam factores de perturbação ...", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "text": "Aplausos dos Srs. Deputados do PS, PPD e CDS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Vozes", 
    "text": "O Sr. Presidente da República:- ... veículos de mentiras, difamações ou injúrias, campos de batalha fomentando a agressividade ou o ódio entre as pessoas, mas que sirvam antes, em todas as circunstâncias, para informar e esclarecer honesta e serenamente, contribuindo de modo decisivo para um consciente empenhamento do povo português nas ingentes tarefas da reconstrução nacional.\nSrs. Deputados, Portugueses: \nEsta hora é de optimismo e de esperança.\nMas julgo que trairia as expectativas do povo que me elegeu, se não tivesse dado testemunho de alguns dos principais problemas que a todos afligem.\nPara os resolver, assegurarei ao Governo condições de autoridade e de eficácia que lhe permitam corresponder à esperança que é legítimo nele deposite um povo cansado de viver num país provisório e sucessivamente adiado.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos dos Srs. Deputados do PS, PPD e CDS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Vozes", 
    "text": "É, neste país, com os seus recursos e com os seus filhos, que havemos de reencontrar a nossa dignidade e a nossa identidade nacional, criando uma sociedade mais rica e mais igual que todos sintam realmente como sua.\nSomos um povo amante da paz e queremos contribuir activamente para uma solução pacífica dos problemas que afligem a vida dos povos.\nGuiar-nos-emos pelo respeito dos outros na colaboração que com eles estabelecermos. Temos consciência da nossa dimensão e da nossa integração em espaços geográficos, económicos, culturais e afectivos que nos são afins \nIntensificaremos a nossa participação nesses espaços, na Europa em que estamos integrados, no mundo de expressão portuguesa a que nos ligam profundos laço afectivos e culturais; e colaboraremos com todo; os países que connosco quiserem percorrer os caminhos da paz e comungar o pão da esperança, num mundo sem blocos e sem o desvio de poderosos recursos para indústria de armamentos.\nNão esqueceremos que da nossa realidade fazem parte muitas centenas de milhares de portugueses que noutros países procuram o que um regime padrasto lhes negou. Estou certo .de que a participação que já lhes é garantida nas eleições para a Assembleia da República será reforçada com outras formas que dêem ao País que somos a dimensão de um povo que transcende o seu próprio território e procurar-se-á com pragmatismo encontrar, com os países de acolhimento, a solução para os problemas concretos que os afligem e nos afligem a nós.\nSr. Presidente, Srs. Deputados, Portugueses: \nEncerrámos o «ciclo do império» e eis-nos perante a tarefa de continuar a Pátria nas primitivas dimensões das terras que nasceram :portuguesas.\nEmergimos da noite totalitária e logo tivemos de fazer face a repetidas tentativas de regresso a um passado em que só porventura mudariam os dominadores. Estamos mais pobres, mas a experiência vivida nos ensinou que a liberdade é um bem inestimável que merece a vida e sem o qual não há democracia nem dignificação do homem.\nTemos à nossa frente dificuldades que é imperioso vencer para assegurar a consolidação da democracia e abrir caminho para uma sociedade socialista (aplausos dos Srs. Deputados do PS e do PPD, de pé, e alguns do CDS), no respeito permanente pela vontade do povo português.\nImpõe-se que as dificuldades não nos façam esquecer os verdadeiros objectivos e antes reforcem a determinação do nosso povo em construir uma sociedade que claramente escolheu em três eleições livres nos últimos dois anos.\nPara isso impõe-se também que se viva o ambiente de estabilidade social e tranquilidade cívica, um espaço de tolerância e diálogo entre os cidadãos, um clima de concórdia e reconciliação nacional no respeito mútuo pelas divergências de opinião legítimas no quadro das \ninstituições democráticas.\nTemos de acabar com o sectarismo, a intolerância, a violência, o ódio; temos de acabar com os atentados. as perseguições, a agressividade nas relações entre as pessoas e entre os grupos; temos de banir totalmente as sequelas do fascismo e realizar integralmente o 25 de Abril.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "text": "Aplausos dos Srs. Deputados do PS, PPD e CDS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Vozes", 
    "text": "114 DIÁRIO DA ASSEMBLEIA IDA REPÚBLICA N.º 6", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. Presidente da República: E assim, nos caminhos da verdadeira justiça social, haveremos de construir um país em que haja uma liberdade igual para todos e todos possam viver em paz, com segurança e em bem-estar a sua liberdade; haveremos de fazer desta terra, que é a nossa terra, uma pátria com lugar para todos os portugueses.\nMas que fique bem claro: esta não é, não pode nem deve ser, tarefa de um homem, ou sequer de um Governo: tem de ser tarefa de nós todos, tem de ser uma missão do próprio povo de Portugal.\nComo Presidente da República, espero a colaboração e contributo decisivo dos vários órgãos de Soberania, e também dos da Administração e do Poder Local, para a consecução destes grandes objectivos nacionais, mas, como Presidente da República, para os atingir, apelo sobretudo para o povo português, para uma experiência, para uma consciência e uma cultura que tem atrás de si oito séculos de história, para um sonho transformado em projecto e um projecto de vida que se quer transformar em realidade e que tem à sua frente, para isso, todo um futuro.\nHoje, como em muitas encruzilhadas da nossa história, o povo português há-de reconciliar-se em torno de um projecto verdadeiramente nacional e erguer um mundo novo nos limites velhos das suas fronteiras.\nHoje há-de fazê-lo, como sempre que esteve em causa o seu futuro.\nSaibamos todos ser dignos dessa história e deste futuro; saibamos ser dignos do povo a que pertencemos - e que Portugal, com todos, se cumpra em Portugal.", 
-   "type": "documento"
+   "speaker": "O Sr. Presidente da República", 
+   "text": "E assim, nos caminhos da verdadeira justiça social, haveremos de construir um país em que haja uma liberdade igual para todos e todos possam viver em paz, com segurança e em bem-estar a sua liberdade; haveremos de fazer desta terra, que é a nossa terra, uma pátria com lugar para todos os portugueses.\nMas que fique bem claro: esta não é, não pode nem deve ser, tarefa de um homem, ou sequer de um Governo: tem de ser tarefa de nós todos, tem de ser uma missão do próprio povo de Portugal.\nComo Presidente da República, espero a colaboração e contributo decisivo dos vários órgãos de Soberania, e também dos da Administração e do Poder Local, para a consecução destes grandes objectivos nacionais, mas, como Presidente da República, para os atingir, apelo sobretudo para o povo português, para uma experiência, para uma consciência e uma cultura que tem atrás de si oito séculos de história, para um sonho transformado em projecto e um projecto de vida que se quer transformar em realidade e que tem à sua frente, para isso, todo um futuro.\nHoje, como em muitas encruzilhadas da nossa história, o povo português há-de reconciliar-se em torno de um projecto verdadeiramente nacional e erguer um mundo novo nos limites velhos das suas fronteiras.\nHoje há-de fazê-lo, como sempre que esteve em causa o seu futuro.\nSaibamos todos ser dignos dessa história e deste futuro; saibamos ser dignos do povo a que pertencemos - e que Portugal, com todos, se cumpra em Portugal.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "Aplausos calorosos gerais, com todos os Srs. Deputados e a assistência de pé, ouvindo-se, nas galerias, vivas ao Sr. Presidente da República.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está encerrada a sessão.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "A banda da Guarda Nacional Republicana executou de novo o Hino Nacional, também entoado em coro pelos Srs. Deputados e pela assistência, que no final dispensaram ao Sr. Presidente da República urna calorosa salva de palmas.\nRealizou-se então o cortejo de saída, composto pelas mesmas \nindividualidades, tendo o Sr. Presidente da República cumprimentado de novo o Sr. General Costa Gomes quando passou junto dele.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está encerrada a sessão.\nA banda da Guarda Nacional Republicana executou de novo o Hino Nacional, também entoado em coro pelos Srs. Deputados e pela assistência, que no final dispensaram ao Sr. Presidente da República urna calorosa salva de palmas.\nRealizou-se então o cortejo de saída, composto pelas mesmas \nindividualidades, tendo o Sr. Presidente da República cumprimentado de novo o Sr. General Costa Gomes quando passou junto dele.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 19 horas.", 
@@ -347,80 +387,97 @@
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Carlos Manuel Natividade da Costa Candal.\nEmílio Rui da Veiga Peixoto Vilar.\nFlorival da- Silva Nobre.\nFrancisco Igrejas Caeiro.\nJosé Manuel Niza Antunes Mendes.\nMaria de Jesus Simões Barroso Soares.\nMário Alberto Nobre Lopes Soares.\nMário Augusto Sottomayor Leal Cardia.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido. Popular Democrático (PPD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "João Bosco Soares Mota Amaral.\nMaria Helena do Rego da Costa Salema Roseta.\nMário Fernando de Campos Pinto.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Alcindo Cardoso.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Comunista Português (PCP) \nJaime dos Santos Serra.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Alberto Marques Antunes.\nAntónio Jorge Oliveira Aires Rodrigues.\nCarmelinda Maria dos Santos Pereira.\nJosé de Melo Torres Campos.\nManuel Joaquim de Paiva Pereira Pires.\nManuel Lencastre Meneses de Sousa Figueiredo.\nManuel da Mata de Cáceres.\nManuel Pereira Dias.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Popular Democrático (PPD) \nPedro. Manuel Cruz Roseta.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Carlos Galvão de Melo.\nDiogo Pinto de Freitas do Amaral.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Carlos Campos Rodrigues da Costa.\nJoaquim Gomes dos Santos.\nJosé Rodrigues Vitoriano.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "O CHEFE DOS SERVIÇOS DE REDACÇÃO, Januário Pinto.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "PREÇO DESTE NÚMERO 5$00", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "IMPRENSA NACIONAL-CASA DA MOEDA", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

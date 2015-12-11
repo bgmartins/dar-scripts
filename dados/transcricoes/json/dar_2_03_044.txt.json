@@ -25,8 +25,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 12 horas e 10 minutos.", 
@@ -35,7 +36,7 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD", 
@@ -322,13 +323,13 @@
    "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "Vozes da ASDI: Muito bem!", 
-   "type": "presidente_continuacao"
+   "speaker": "Vozes da ASDI", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: O medo da verdade è sempre sinal de uma grave crise moral e, por isso, quando a Assembleia da República enfrenta tudo isto e com unanimidade aprova um projecto destes, algumas razões de esperança temos para acreditar no futuro da democracia em Portugal.\nEste facto, de uma câmara política se ter unido numa decisão, que representa essa manifestação de confiança no futuro da democracia, merece ser sublinhado neste momento.", 
+   "text": "O medo da verdade è sempre sinal de uma grave crise moral e, por isso, quando a Assembleia da República enfrenta tudo isto e com unanimidade aprova um projecto destes, algumas razões de esperança temos para acreditar no futuro da democracia em Portugal.\nEste facto, de uma câmara política se ter unido numa decisão, que representa essa manifestação de confiança no futuro da democracia, merece ser sublinhado neste momento.", 
    "type": "presidente_continuacao"
   }, 
   {
@@ -336,33 +337,27 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos passar ao ponto seguinte do período da ordem do dia, que diz respeito à leitura de uma informação da Comissão Eventual de Inquérito sobre o acidente de Camarate.\nTem a palavra, para proceder à leitura da informação, o Sr. Deputado Armando Lopes.", 
-   "type": "presidente_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos passar ao ponto seguinte do período da ordem do dia, que diz respeito à leitura de uma informação da Comissão Eventual de Inquérito sobre o acidente de Camarate.\nTem a palavra, para proceder à leitura da informação, o Sr. Deputado Armando Lopes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "PS): A informação da Comissão Eventual de Inquérito sobre o Acidente de Camarate é do seguinte teor", 
-   "speaker": "O Sr. *Armando Lopes*", 
-   "text": "", 
-   "type": "presidente_continuacao"
+   "party": "PS", 
+   "speaker": "Armando Lopes", 
+   "text": "A informação da Comissão Eventual de Inquérito sobre o Acidente de Camarate é do seguinte teor:\nI - A Comissão Eventual de Inquérito sobre o Acidente de Camarate considera oportuno trazer ao Plenário uma informação sobre o trabalho até à data desenvolvido.\nA Comissão foi empossado em 14 de Dezembro de 1982. Em 17 de Dezembro de 1982 solicitou ao Sr. Ministro dos Negócios Estrangeiros o envio de toda a documentação relacionada com o acidente. Na mesma data foi feita idêntica solicitação ao Sr. Ministro da Habitação, Obras Públicas e Transportes e ao Sr. Ministro da Justiça foi solicitado que envidasse diligências junto da Procuradoria-Geral da República no sentido do envio de fotocópias autenticadas de todos os elementos do processo de inquérito pendente na Policia Judiciária.\nQuer o Sr. Ministro dos Negócios Estrangeiros, quer o Sr. Ministro da Habitação, Obras Públicas e Transportes, deram de imediato satisfação ao solicitado.\nNo tocante ao envio de fotocópias do processo pendente na Polícia Judiciária, foram invocadas algumas objecções à satisfação do solicitado.\nApós diligências do Sr. Procurador-Geral da República, que recebeu da Comissão a garantia da manutenção em regime de segredo de justiça de todos os elementos de prova que à Comissão fossem remetidos pela Polícia Judiciária, veio o processo a ser enviado a esta Assembleia unicamente em 24 de Janeiro, pelo que, em bom rigor, só a partir desta data pôde a Comissão dispor de elementos de trabalho para análise que lhe permitam extrair conclusões.\nII - De entre as diligências investigatórias desenvolvidas, cumpre informar as seguintes:", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "PS): A informação da Comissão Eventual de Inquérito sobre o Acidente de Camarate é do seguinte teor", 
-   "speaker": "O Sr. *Armando Lopes*", 
-   "text": "I - A Comissão Eventual de Inquérito sobre o Acidente de Camarate considera oportuno trazer ao Plenário uma informação sobre o trabalho até à data desenvolvido.\nA Comissão foi empossado em 14 de Dezembro de 1982. Em 17 de Dezembro de 1982 solicitou ao Sr. Ministro dos Negócios Estrangeiros o envio de toda a documentação relacionada com o acidente. Na mesma data foi feita idêntica solicitação ao Sr. Ministro da Habitação, Obras Públicas e Transportes e ao Sr. Ministro da Justiça foi solicitado que envidasse diligências junto da Procuradoria-Geral da República no sentido do envio de fotocópias autenticadas de todos os elementos do processo de inquérito pendente na Policia Judiciária.\nQuer o Sr. Ministro dos Negócios Estrangeiros, quer o Sr. Ministro da Habitação, Obras Públicas e Transportes, deram de imediato satisfação ao solicitado.\nNo tocante ao envio de fotocópias do processo pendente na Polícia Judiciária, foram invocadas algumas objecções à satisfação do solicitado.\nApós diligências do Sr. Procurador-Geral da República, que recebeu da Comissão a garantia da manutenção em regime de segredo de justiça de todos os elementos de prova que à Comissão fossem remetidos pela Polícia Judiciária, veio o processo a ser enviado a esta Assembleia unicamente em 24 de Janeiro, pelo que, em bom rigor, só a partir desta data pôde a Comissão dispor de elementos de trabalho para análise que lhe permitam extrair conclusões.\nII - De entre as diligências investigatórias desenvolvidas, cumpre informar as seguintes:", 
-   "type": "presidente_continuacao"
-  }, 
-  {
-   "party": "PS): A informação da Comissão Eventual de Inquérito sobre o Acidente de Camarate é do seguinte teor", 
-   "speaker": "O Sr. *Armando Lopes*", 
+   "party": "PS", 
+   "speaker": "Armando Lopes", 
    "text": "a) Foram tomadas declarações a algumas pessoas, encontrando-se outras notificadas para o mesmo efeito; \nb) Foi solicitado ao Sindicato dos Pilotos da Aviação Civil o envio de um relatório elaborado por esta entidade, instância de imediato satisfeita; \nc) Foi solicitado ao conselho de gerência da ANA o envio de diversa documentação complementar ao relatório inicial da Direcção-Geral da Aviação Civil, designadamente a folha modelo n.º 198-ALMS, referente à coordenação de transportes do Aeroporto de Lisboa no dia 4 de Dezembro de 1980, instância esta já satisfeita, e o original de um relatório do serviço contra incêndios, junto do relatório da Direcção-Geral da Aviação Civil cuja fotocópia não se acha completa; \nd) Foi solicitado ao Comando da Guarda Fiscal o processo administrativo que determinou a apreensão e selagem de aviões de transporte de passageiros pertença de aeroclubes ou particulares entre Novembro e Dezembro de 1980, instância esta já satisfeita; \ne) O deputado engenheiro aeronáutico Luís Coimbra apresentou à Comissão uma exposição detalhada sobre os aspectos técnicos relacionados com os dossiers de «investigação operacional», bem como dos «factores materiais e humanos» do relatório técnico da Direcção-Geral de Aviação Civil; \nf) Paralelamente a este trabalho, foi efectuada uma análise detalhada de todo o processo remetido pela Polícia Judiciária, julgando a Comissão necessário proceder à audição dos responsáveis daquela Directoria da Polícia, tendo em vista o esclarecimento cabal da actividade investigatória policial a partir da data de 4 de Dezembro de 1980.\nIII - A Comissão visionou material filmado existente na Rádio Televisão Portuguesa. No entanto, cumpre esclarecer que não foi facultado à Comissão o visionamento do filme tal como foi projectado no programa Grande Reportagem por, segundo foi dito, não estar então concluído.\nA RTP facultou igualmente à Comissão maquetes do local do desastre.\nIV - A Comissão reuniu em 13 reuniões plenárias e pela subcomissão executiva foi tramitada e processada toda a documentação, que reúne já cerca de 2 dezenas de volumes. Todos os trabalhos da Comissão têm sido gravados, procedendo os serviços de apoio, igualmente sujeitos ao regime do segredo de justiça, à sua descodificação, encontrando-se já descodificadas 6 bobinas.", 
-   "type": "presidente_continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "party": "PS): A informação da Comissão Eventual de Inquérito sobre o Acidente de Camarate é do seguinte teor", 
-   "speaker": "O Sr. *Armando Lopes*", 
+   "party": "PS", 
+   "speaker": "Armando Lopes", 
    "text": "1484 I SÉRIE - NÚMERO 44", 
-   "type": "presidente_continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "speaker": "V - Estando iminente a dissolução da Assembleia da República, considerou a Comissão ser seu dever salientar o seguinte", 
@@ -374,256 +369,319 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para formular pedidos de esclarecimento, tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para formular pedidos de esclarecimento, tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Se bem entendi, a Comissão chegou à conclusão de que os processos relativos ao acidente em causa tinham sido cedidos a pessoas sem legitimidade para isso. Pretendia saber quais foram os elementos e as averiguações que permitiram à Comissão chegar a essa conclusão.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Se bem entendi, a Comissão chegou à conclusão de que os processos relativos ao acidente em causa tinham sido cedidos a pessoas sem legitimidade para isso. Pretendia saber quais foram os elementos e as averiguações que permitiram à Comissão chegar a essa conclusão.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Armando Lopes.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Armando Lopes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Armando Lopes* (PS): O próprio relatório esclarece. Há, pelo menos, 2 entidades que tiveram acesso a elementos que estavam em segredo de justiça, segundo a Polícia Judiciária, que foram a RTP e o Diário de Notícias.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Lopes", 
+   "text": "O próprio relatório esclarece. Há, pelo menos, 2 entidades que tiveram acesso a elementos que estavam em segredo de justiça, segundo a Polícia Judiciária, que foram a RTP e o Diário de Notícias.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Creio que não me fiz entender. Ou não entendi bem o texto que V. Ex.ª leu, ou a Comissão utilizou a expressão «foram cedidos». Portanto, pergunto se VV. Ex.ªs puderam averiguar que a entidade que possuía os documentos os cedeu porque o facto de um órgão da comunicação social ter divulgado ou ter referido a \ndocumentação na posse de uma entidade não é prova de que essa entidade tenha cedido os documentos, no sentido decisório. Assim, pergunto como conseguiu a Comissão chegar à conclusão que lhe permitiu essa expressão.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Creio que não me fiz entender. Ou não entendi bem o texto que V. Ex.ª leu, ou a Comissão utilizou a expressão «foram cedidos». Portanto, pergunto se VV. Ex.ªs puderam averiguar que a entidade que possuía os documentos os cedeu porque o facto de um órgão da comunicação social ter divulgado ou ter referido a \ndocumentação na posse de uma entidade não é prova de que essa entidade tenha cedido os documentos, no sentido decisório. Assim, pergunto como conseguiu a Comissão chegar à conclusão que lhe permitiu essa expressão.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Armando Lopes* (PS): Não sei como é que o Sr. Deputado conseguiu ouvir uma coisa que não está cá.\nO que está dito neste relatório é que foi consentida a utilização em meios de comunicação social dos elementos existentes, que eram segredo de justiça.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Lopes", 
+   "text": "Não sei como é que o Sr. Deputado conseguiu ouvir uma coisa que não está cá.\nO que está dito neste relatório é que foi consentida a utilização em meios de comunicação social dos elementos existentes, que eram segredo de justiça.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Dá-me licença, Sr. Presidente?", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Dá-me licença, Sr. Presidente?", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Silva Marques, V. Ex.ª pediu um esclarecimento e ele foi-lhe dado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Silva Marques, V. Ex.ª pediu um esclarecimento e ele foi-lhe dado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Então, quero protestar, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Então, quero protestar, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Efectivamente, eu disse «cedeu» e V. Ex.ª disse «foi consentida a utilização». De qualquer modo, gostaria de saber quais foram os elementos que permitiram à Comissão chegar à conclusão que a entidade que possuía os documentos os concedeu aos órgãos de comunicação social.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Efectivamente, eu disse «cedeu» e V. Ex.ª disse «foi consentida a utilização». De qualquer modo, gostaria de saber quais foram os elementos que permitiram à Comissão chegar à conclusão que a entidade que possuía os documentos os concedeu aos órgãos de comunicação social.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para contraprotestar, tem a palavra o Sr. Deputado Armando Lopes.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para contraprotestar, tem a palavra o Sr. Deputado Armando Lopes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Armando Lopes* (PS): Posso esclarecer o Sr. Deputado dizendo que na RTP passou a Grande Reportagem que se referiu a elementos que estavam nitidamente em segredo de justiça, o que, aliás, foi até referido na própria reportagem. E o acesso a esses elementos foi facultado, até, aos próprios peritos que vieram de Inglaterra, quando na Comissão sabemos que aos peritos portugueses como, por exemplo, os que fizeram as autópsias a pedido das famílias foi-lhes exigido que mantivessem segredo de justiça, portanto, que não revelassem os elementos a que tinham acesso. Isso, quando afinal os elementos que vieram de Inglaterra tiveram acesso aos factos. Aliás, e isso foi posteriormente revelado na própria televisão. O Diário de Notícias referiu também esses mesmos factos.\nPara já, é o que posso informar.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Lopes", 
+   "text": "Posso esclarecer o Sr. Deputado dizendo que na RTP passou a Grande Reportagem que se referiu a elementos que estavam nitidamente em segredo de justiça, o que, aliás, foi até referido na própria reportagem. E o acesso a esses elementos foi facultado, até, aos próprios peritos que vieram de Inglaterra, quando na Comissão sabemos que aos peritos portugueses como, por exemplo, os que fizeram as autópsias a pedido das famílias foi-lhes exigido que mantivessem segredo de justiça, portanto, que não revelassem os elementos a que tinham acesso. Isso, quando afinal os elementos que vieram de Inglaterra tiveram acesso aos factos. Aliás, e isso foi posteriormente revelado na própria televisão. O Diário de Notícias referiu também esses mesmos factos.\nPara já, é o que posso informar.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Dá-me licença, Sr. Presidente?", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Dá-me licença, Sr. Presidente?", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Que figura regimental invoca o Sr. Deputado para pedir a palavra?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Que figura regimental invoca o Sr. Deputado para pedir a palavra?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Para fazer uma intervenção, Sr.Presidente.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Para fazer uma intervenção, Sr.Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, vou dar-lhe a palavra, mas pela última vez, senão o diálogo eterniza-se.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, vou dar-lhe a palavra, mas pela última vez, senão o diálogo eterniza-se.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Agradeço, Sr. Presidente. Mas para que fosse possível não me conceder a palavra, então, esta matéria não poderia ser incluída na ordem do dia. E das duas uma, ou ela é séria ou não é série. E se é séria...", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Agradeço, Sr. Presidente. Mas para que fosse possível não me conceder a palavra, então, esta matéria não poderia ser incluída na ordem do dia. E das duas uma, ou ela é séria ou não é série. E se é séria...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Desculpe Sr. Deputado, mas tem que me ouvir.\nA Mesa tem usado da melhor boa vontade para que o Sr. Deputado faça as perguntas que, repetidamente, tem", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Desculpe Sr. Deputado, mas tem que me ouvir.\nA Mesa tem usado da melhor boa vontade para que o Sr. Deputado faça as perguntas que, repetidamente, tem 5 DE FEVEREIRO DE 1985 1485", 
+   "type": "presidente"
   }, 
   {
-   "text": "5 DE FEVEREIRO DE 1985 1485", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "feito. O que peço é que V. Ex.ª reconheça que ao conceder-lhe a palavra, mais uma vez, o faça já sem apoio regimental. Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Agradeço a tolerância, Sr. Presidente, mas pretendia apenas lembrar aos meus ilustres colegas da Comissão que não apresentaram aqui fundamento suficiente para a conclusão do texto que nos propuseram. E bastaria lembrar que o facto, por exemplo, de um Estado estrangeiro conhecer elementos secretos de um outro Estado, inclusivamente de natureza militar, não é prova que alguma entidade que os possuísse legalmente os tenha cedido, mas sim de que há serviços de espionagem.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Agradeço a tolerância, Sr. Presidente, mas pretendia apenas lembrar aos meus ilustres colegas da Comissão que não apresentaram aqui fundamento suficiente para a conclusão do texto que nos propuseram. E bastaria lembrar que o facto, por exemplo, de um Estado estrangeiro conhecer elementos secretos de um outro Estado, inclusivamente de natureza militar, não é prova que alguma entidade que os possuísse legalmente os tenha cedido, mas sim de que há serviços de espionagem.\nRisos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Risos.", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
    "text": "Não vejo porque é que os colegas se perturbam.\nE se a Comissão chegou à conclusão que a entidade que os possuía os cedeu aos órgãos de comunicação social, não os tendo cedido a quem legitimamente os pretendia, deveria designar a entidade e, \ninclusivamente, as diligências que efectuou para efeito de apurar a entidade, bem como o acto praticado. Ora, como isso está omisso no relatório, penso que a conclusão que ali se expressa não tem fundamento suficiente ou então ele deveria ser aduzido.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Dá-me licença, Sr. Presidente?", 
-   "type": "documento"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Dá-me licença, Sr. Presidente?", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para que efeito?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Para formular pedidos de esclarecimento ao Sr. Deputado Armando Lopes.", 
-   "type": "documento"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Para formular pedidos de esclarecimento ao Sr. Deputado Armando Lopes.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Se bem entendi, a informação que o Sr.Deputado leu foi aprovada por unanimidade na Comissão. O Sr. Deputado confirmar-me-á se o PSD está ou não representado nessa Comissão e se deu ou não o acordo a essa informação. E já agora diga-me, se eu não estarei esquecido, se è, de facto, verdade que foi o PSD que solicitou o inquérito sobre o incidente de Camarate.", 
-   "type": "documento"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Se bem entendi, a informação que o Sr.Deputado leu foi aprovada por unanimidade na Comissão. O Sr. Deputado confirmar-me-á se o PSD está ou não representado nessa Comissão e se deu ou não o acordo a essa informação. E já agora diga-me, se eu não estarei esquecido, se è, de facto, verdade que foi o PSD que solicitou o inquérito sobre o incidente de Camarate.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para interpelar a Mesa, tem a palavra o Sr.Deputado Borges de Carvalho.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para interpelar a Mesa, tem a palavra o Sr.Deputado Borges de Carvalho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Borges de Carvalho* (PPM): Peço a palavra, Sr. Presidente. É para interpelar a Mesa.", 
-   "type": "documento"
+   "party": "PPM", 
+   "speaker": "Borges de Carvalho", 
+   "text": "Peço a palavra, Sr. Presidente. É para interpelar a Mesa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Borges de Carvalho* (PPM): Sr. Presidente, de facto, da ordem do dia consta a informação da Comissão Eventual de Inquérito sobre o incidente de Camarate. Acho muito bem que sobre este assunto se faça um debate e a minha bancada dará o seu assentimento a que esse debate se realize.\nAgora, o sistema em que entrámos é que não me parece ser o mais correcto. Evidentemente que a Mesa é generosa, mas acho que não deveria ser. Se houver consenso das bancadas no sentido de se permitir um pequeno debate sobre esse assunto, estamos de acordo. Quem quiser intervir no debate, inscrever-se-á e fará as intervenções e as perguntas que tiver por bem.\nMas entrarmos neste regime de concessões da Mesa a este ou àquele e de pequenas tiradas mais ou menos oportunas ou mais ou menos oportunistas dos Srs. Deputados é que me choca um pouco! \nPor isso,, solicito à Mesa que ponha à consideração da Câmara o fazermos ou não, até ao termo da hora regimental, o debate que se achar por bem sobre esta matéria, mas dentro de um mínimo de regras.", 
-   "type": "documento"
+   "party": "PPM", 
+   "speaker": "Borges de Carvalho", 
+   "text": "Sr. Presidente, de facto, da ordem do dia consta a informação da Comissão Eventual de Inquérito sobre o incidente de Camarate. Acho muito bem que sobre este assunto se faça um debate e a minha bancada dará o seu assentimento a que esse debate se realize.\nAgora, o sistema em que entrámos é que não me parece ser o mais correcto. Evidentemente que a Mesa é generosa, mas acho que não deveria ser. Se houver consenso das bancadas no sentido de se permitir um pequeno debate sobre esse assunto, estamos de acordo. Quem quiser intervir no debate, inscrever-se-á e fará as intervenções e as perguntas que tiver por bem.\nMas entrarmos neste regime de concessões da Mesa a este ou àquele e de pequenas tiradas mais ou menos oportunas ou mais ou menos oportunistas dos Srs. Deputados é que me choca um pouco! \nPor isso,, solicito à Mesa que ponha à consideração da Câmara o fazermos ou não, até ao termo da hora regimental, o debate que se achar por bem sobre esta matéria, mas dentro de um mínimo de regras.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Coimbra.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Coimbra.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Coimbra* (PPM): Sr. Presidente, eu gostaria de prestar um esclarecimento ao Sr. Deputado Silva Marques sobre as questões que ele levantou. No entanto, dado que o deputado Borges de Carvalho apontou para uma situação que não sei se a Câmara aceitará ou não, digo desde já que, pela minha parte, parece-me que se poderia eventualmente proceder a um período de esclarecimento desta questão - se é que ela é premente e, sendo assim, não usarei da palavra neste momento.", 
-   "type": "documento"
+   "party": "PPM", 
+   "speaker": "Luís Coimbra", 
+   "text": "Sr. Presidente, eu gostaria de prestar um esclarecimento ao Sr. Deputado Silva Marques sobre as questões que ele levantou. No entanto, dado que o deputado Borges de Carvalho apontou para uma situação que não sei se a Câmara aceitará ou não, digo desde já que, pela minha parte, parece-me que se poderia eventualmente proceder a um período de esclarecimento desta questão - se é que ela é premente e, sendo assim, não usarei da palavra neste momento.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Armando Lopes.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Armando Lopes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Armando Lopes* (PS): Sr. Presidente, é para responder às perguntas que me foram postas.\nQuero dizer, particularmente ao Sr. Deputado Lopes Cardoso, que, efectivamente e em primeiro lugar, não se trata aqui de um relatório, mas de uma informação à Câmara que foi redigida a nível da Comissão...", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Lopes", 
+   "text": "Sr. Presidente, é para responder às perguntas que me foram postas.\nQuero dizer, particularmente ao Sr. Deputado Lopes Cardoso, que, efectivamente e em primeiro lugar, não se trata aqui de um relatório, mas de uma informação à Câmara que foi redigida a nível da Comissão...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Borges de Carvalho* (PPM): Mas, afinal, o Sr. Presidente não me respondeu!", 
-   "type": "documento"
+   "party": "PPM", 
+   "speaker": "Borges de Carvalho", 
+   "text": "Mas, afinal, o Sr. Presidente não me respondeu!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Desculpe-me a interrupção, Sr. Deputado Armando Lopes.\nSr. Deputado Borges de Carvalho, peço-lhe o favor de aguardar um pouco e tomar o seu lugar. Eu já respondo à sua interpelação. Mas, uma vez que há pedidos de esclarecimento, devemos terminar primevo as respostas aos mesmos.\nFaça favor de continuar, Sr. Deputado Armando Lopes.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Desculpe-me a interrupção, Sr. Deputado Armando Lopes.\nSr. Deputado Borges de Carvalho, peço-lhe o favor de aguardar um pouco e tomar o seu lugar. Eu já respondo à sua interpelação. Mas, uma vez que há pedidos de esclarecimento, devemos terminar primevo as respostas aos mesmos.\nFaça favor de continuar, Sr. Deputado Armando Lopes.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: Como dizia, trata-se de uma informação que foi redigida na Comissão e que antes de ser transmitida ao Plenário obteve a aprovação unânime de todos os seus membros. Ora, como se sabe, dela fazem parte 2 elementos do PSD, vindo a própria informação subscrita pelo Sr.Deputado Mário Montalvão Machado, que só a não leu por ter tido que se ausentar, tendo-me pedido que, como vice-presidente da Comissão, fosse eu a fazê-lo.\nPortanto, repito, verificou-se a aprovação unânime da informação por todos os elementos da Comissão, incluindo os 2 deputados do PSD que dela fazem parte. Não sei, portanto, quais são as dúvidas.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Como dizia, trata-se de uma informação que foi redigida na Comissão e que antes de ser transmitida ao Plenário obteve a aprovação unânime de todos os seus membros. Ora, como se sabe, dela fazem parte 2 elementos do PSD, vindo a própria informação subscrita pelo Sr.Deputado Mário Montalvão Machado, que só a não leu por ter tido que se ausentar, tendo-me pedido que, como vice-presidente da Comissão, fosse eu a fazê-lo.\nPortanto, repito, verificou-se a aprovação unânime da informação por todos os elementos da Comissão, incluindo os 2 deputados do PSD que dela fazem parte. Não sei, portanto, quais são as dúvidas.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): As dúvidas são as que eu já lhe apresentei, Sr. Deputado!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "As dúvidas são as que eu já lhe apresentei, Sr. Deputado!\n1486 I SÉRIE - NUMERO 44", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "1486 I SÉRIE - NUMERO 44", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "É apenas esta a informação que queria dar, Srs. Deputados.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: É apenas esta a informação que queria dar, Srs. Deputados.", 
-   "type": "documento"
+   "party": "UEDS", 
+   "speaker": "António Vitorino", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *António Vitorino* (UEDS): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado António Vitorino, eu vou conceder-lhe a palavra, mas antes quero dizer que estamos perante uma situação que se afigura à Mesa...", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado António Vitorino, eu vou conceder-lhe a palavra, mas antes quero dizer que estamos perante uma situação que se afigura à Mesa...", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Armando Oliveira", 
+   "text": "Peço a palavra, Sr. Presidente. É para interpelar a Mesa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Armando Oliveira* (CDS): Peço a palavra, Sr. Presidente. É para interpelar a Mesa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Então faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Então faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Armando Oliveira", 
+   "text": "Sr. Presidente, é para interpelar a Mesa no mesmo sentido do Sr. Deputado Borges de Carvalho, embora julgue que a Mesa gostaria de responder primeiro a esse Sr. Deputado.\nContudo, se me dá licença, quero desde já dizer que há que decidir se, até ao termo da hora regimental, vamos entrar num debate de \nesclarecimentos sobre a questão que se levantou. É que o Grupo Parlamentar do CDS está aberto a essa opção, mas gostava de a ver clarificada.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Armando Oliveira* (CDS): Sr. Presidente, é para interpelar a Mesa no mesmo sentido do Sr. Deputado Borges de Carvalho, embora julgue que a Mesa gostaria de responder primeiro a esse Sr. Deputado.\nContudo, se me dá licença, quero desde já dizer que há que decidir se, até ao termo da hora regimental, vamos entrar num debate de \nesclarecimentos sobre a questão que se levantou. É que o Grupo Parlamentar do CDS está aberto a essa opção, mas gostava de a ver clarificada.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Srs. Deputados, peço-lhes que aguardem um momento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, peço-lhes que aguardem um momento.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, como é do conhecimento de VV. Ex.ªs, estamos numa situação que poderemos classificar de anómala e sem precedente, porque, criada uma Comissão de Inquérito, o que regimentalmente está previsto é que ela apresente o seu relatório no final do prazo estabelecido para a realização do mesmo.\nOs artigos 223.º e 224.º do Regimento estabelecem que o relatório é apresentado ao Presidente, que promove a sua publicação no Diário, e nos 30 dias subsequentes a essa publicação o relatório entra na ordem do dia para apreciação em debate generalizado.\nOra o que a Comissão entendeu ser seu dever, ou pelo menos considerou acto conveniente, foi apresentar neste momento à Câmara, não o seu relatório definitivo, mas uma informação que julgou dever dar. Essa informação não tem a natureza de relatório; pode ser debatida, é evidente, se a Assembleia assim o deliberar. Agora, estando neste momento o inquérito ainda em curso, pese a circunstância da própria dissolução da Assembleia e a sua eventual repercussão ou não na manutenção em funções das comissões de inquérito, uma coisa é segura: é que à Mesa se afigura como prematuro e eventualmente inconveniente um debate acerca de uma informação prestada sobre um inquérito que, ao fim e ao cabo, ainda está em curso.\nNestas circunstâncias, afigura-se à Mesa que não pode abrir debate sobre esta informação, a não ser que a tome como relatório e a trate com a formalidade que os próprios artigos 223.º e 224.º já citados estabelecem.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, estão a chamar-me a atenção para uma disposição do Regimento, que eu não tinha presente, e que é a alínea e) do artigo 73.º - comunicação das comissões -, que mesmo para efeito de debate teria de ser agendada na primeira parte do período da ordem do dia. Portanto, não tem cabimento a sua discussão na fase em que nos encontramos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, estão a chamar-me a atenção para uma disposição do Regimento, que eu não tinha presente, e que é a alínea e) do artigo 73.º - comunicação das comissões -, que mesmo para efeito de debate teria de ser agendada na primeira parte do período da ordem do dia. Portanto, não tem cabimento a sua discussão na fase em que nos encontramos.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Dá-me licença, Sr. Presidente?", 
-   "type": "documento"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Dá-me licença, Sr. Presidente?", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está a pedir a palavra para que efeito, Sr.Deputado?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está a pedir a palavra para que efeito, Sr.Deputado?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Sr. Presidente, era para dizer que, pela nossa parte, não teríamos objecções a fazer quanto ao debate desta questão. Mas, obviamente, que aceitamos a decisão da Mesa.", 
-   "type": "documento"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Sr. Presidente, era para dizer que, pela nossa parte, não teríamos objecções a fazer quanto ao debate desta questão. Mas, obviamente, que aceitamos a decisão da Mesa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Muito obrigado, Sr. Deputado.\nSrs. Deputados, estamos assim, chegados ao fim da nossa sessão de hoje.\nEm todo o caso, e ainda antes do encerramento dos trabalhos, vou dar conhecimento a VV. Ex.ªs de que deu entrada na Mesa o pedido de ratificação, o n.º 240/II ao Decreto-Lei n.º 49/83, de 31 de Janeiro, que aprova a Lei Orgânica do Ministério da Qualidade de Vida e que é subscrito por deputados do Partido Socialista, da ASDI e da UEDS.\nVai ainda ser lido um relatório e parecer da Comissão de Regimento e Mandatos.\nFoi lido. É o seguinte:", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Muito obrigado, Sr. Deputado.\nSrs. Deputados, estamos assim, chegados ao fim da nossa sessão de hoje.\nEm todo o caso, e ainda antes do encerramento dos trabalhos, vou dar conhecimento a VV. Ex.ªs de que deu entrada na Mesa o pedido de ratificação, o n.º 240/II ao Decreto-Lei n.º 49/83, de 31 de Janeiro, que aprova a Lei Orgânica do Ministério da Qualidade de Vida e que é subscrito por deputados do Partido Socialista, da ASDI e da UEDS.\nVai ainda ser lido um relatório e parecer da Comissão de Regimento e Mandatos.\nFoi lido. É o seguinte:\nDe acordo com o solicitado no ofício n.º 79 (processo n.º 10985), de 19 de Janeiro de 1983, do 8.º Juízo Correccional da Comarca de Lisboa, comunico a V. Ex.ª que esta Comissão Parlamentar deliberou emitir parecer no sentido de autorizar o Sr. Deputado Octávio Augusto Teixeira a depor como testemunha no processo em referência.", 
+   "type": "presidente"
   }, 
   {
-   "text": "De acordo com o solicitado no ofício n.º 79 (processo n.º 10985), de 19 de Janeiro de 1983, do 8.º Juízo Correccional da Comarca de Lisboa, comunico a V. Ex.ª que esta Comissão Parlamentar deliberou emitir parecer no sentido de autorizar o Sr. Deputado Octávio Augusto Teixeira a depor como testemunha no processo em referência.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos votar este relatório.\nSubmetido à votação, foi aprovado por unanimidade, encontrando-se ausente a UDP.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos votar este relatório.\nSubmetido à votação, foi aprovado por unanimidade, encontrando-se ausente a UDP.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, posso ainda dizer a V. Ex.ª que comuniquei esta manhã a Belém, ao Presidente da República, que o texto da proposta de lei, cuja discussão se iniciou ontem - estando previsto que ocupasse os trabalhos parlamentares de ontem e de hoje -, ficou ontem mesmo integralmente pronta e a referida proposta de lei foi também ontem votada.\nRecolhi a informação da Casa Civil de S. Ex.ª o Sr. Presidente da República de que, uma vez que se tinha esgotado o período da ordem do dia de hoje e terminados os nossos trabalhos na parte da manhã, com toda a probabilidade será publicado ainda hoje, em suplemento ao Diário da República, o diploma de dissolução da Assembleia.\nPenso, pois, que nesta sessão legislativa foi este o último dia em que nos encontrámos. Cumpre â Mesa agradecer a todas VV. Ex.ªs, sem distinção, todas as gentilezas, todas as atenções e toda a colaboração que sempre prestaram. Quero, ainda, desejar a todos as maiores felicidades.\n5 DE FEVEREIRO DE 1983 1487", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, posso ainda dizer a V. Ex.ª que comuniquei esta manhã a Belém, ao Presidente da República, que o texto da proposta de lei, cuja discussão se iniciou ontem - estando previsto que ocupasse os trabalhos parlamentares de ontem e de hoje -, ficou ontem mesmo integralmente pronta e a referida proposta de lei foi também ontem votada.\nRecolhi a informação da Casa Civil de S. Ex.ª o Sr. Presidente da República de que, uma vez que se tinha esgotado o período da ordem do dia de hoje e terminados os nossos trabalhos na parte da manhã, com toda a probabilidade será publicado ainda hoje, em suplemento ao Diário da República, o diploma de dissolução da Assembleia.\nPenso, pois, que nesta sessão legislativa foi este o último dia em que nos encontrámos. Cumpre â Mesa agradecer a todas VV. Ex.ªs, sem distinção, todas as gentilezas, todas as atenções e toda a colaboração que sempre prestaram. Quero, ainda, desejar a todos as maiores felicidades.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "5 DE FEVEREIRO DE 1983 1487", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, está encerrada a sessão.\n_Eram 12 horas e 45 minutos_.\nEntraram durante a sessão os seguintes Srs. Deputados:", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD", 

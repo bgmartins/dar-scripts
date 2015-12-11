@@ -29,8 +29,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 11 horas e 50 minutos.", 
@@ -39,7 +40,7 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -144,175 +145,146 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Sr. Deputado Jorge Lemos, quer interpelar a Mesa?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Jorge Lemos, quer interpelar a Mesa?", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sim, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sim, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, é conhecido que com a revisão do Regimento foram profundamente alteradas as regras de funcionamento da Assembleia da República, designadamente em matéria de quórum. De qualquer modo, há um limite mínimo para que a Assembleia possa funcionar, que são 50 deputados.\nSolicitava à Mesa que fosse verificado se estão prestes esses 50 deputados para que se possam iniciar os trabalhos.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, é conhecido que com a revisão do Regimento foram profundamente alteradas as regras de funcionamento da Assembleia da República, designadamente em matéria de quórum. De qualquer modo, há um limite mínimo para que a Assembleia possa funcionar, que são 50 deputados.\nSolicitava à Mesa que fosse verificado se estão prestes esses 50 deputados para que se possam iniciar os trabalhos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Com certeza, Sr. Deputado. Fui informado de que havia quórum e por isso abri a sessão. De qualquer maneira, vamos proceder à contagem.\nTem a palavra a Sr.ª Deputada Helena Valente Rosa.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Com certeza, Sr. Deputado. Fui informado de que havia quórum e por isso abri a sessão. De qualquer maneira, vamos proceder à contagem.\nTem a palavra a Sr.ª Deputada Helena Valente Rosa.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "A Sr.ª Helena Valente Rosa (PS): Sr. Presidente, ïue há comissões a funcionar e pedia-lhe 5 minutos para se poderem chamar as pessoas.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, ïue há comissões a funcionar e pedia-lhe 5 minutos para se poderem chamar as pessoas.", 
+   "type": "speaker_error"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Com certeza Sr.ª Deputada.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Com certeza Sr.ª Deputada.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Penso que o Sr. Deputado que faltava para termos quorum acaba de entrar, e consequentemente, temos agora quorum de funcionamento.\nSrs. Deputados, o Sr. Secretário vai referir a entrada na Mesa de requerimentos e de respostas a requerimentos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Penso que o Sr. Deputado que faltava para termos quorum acaba de entrar, e consequentemente, temos agora quorum de funcionamento.\nSrs. Deputados, o Sr. Secretário vai referir a entrada na Mesa de requerimentos e de respostas a requerimentos.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Secretário* (Daniel Bastos): Sr. Presidente e Srs. Deputados, nas últimas sessões deram entrada na Mesa os seguintes requerimentos: \ndia 2 de Julho de 1985 - a diversos ministérios, no total de 4, formulados pelo Sr. Deputado Magalhães Mota; dia 3 de Julho de 1985 - ao Ministério da Administração Interna, formulados pêlos Srs. Deputados Álvaro Brasileiro e Francisco Pessegueiro, respectivamente; ao Governo e ao Ministério da Cultura, no total de 2, formulados pelo Sr. Deputado Magalhães Mota; aos Ministérios da Agricultura e da Qualidade de Vida, formulados pelos Srs. Deputados Maia Nunes de Almeida e Rogério Brito.\nPor sua vez, o Governo respondeu a requerimentos apresentados pelos seguintes Srs. Deputados: Magalhães Mota, nas sessões de 20 de Junho, 16 de Setembro, 5 de Janeiro, 2 e 16 de Fevereiro, 3 de Abril, 3, 16 e 29 de Maio e na reunião da Comissão Permanente de 19 de Setembro; José Tengarrinha e outros, na sessão de 22 de Setembro; Carlos Carvalhas, na sessão de 30 de Março; Reis Borges, na sessão de 2 de Maio; Costa Fernandes e Anselmo Aníbal, na sessão de l de Maio; Nogueira de Brito, na sessão de 8 de Maio; Mota Torres, na sessão de 15 de Maio; lida Figueiredo e José Manuel Mendes, na sessão de 23 e 24 de Maio; Hasse Ferreira e Manuel Lopes, na sessão de 31 de Maio, respectivamente; José Magalhães, na reunião da Comissão Permanente de 19 de Setembro: Gaspar Martins e outros, na sessão de 11 de Outubro; Gomes de Pinho, na sessão de 4 de Janeiro; Marques Mendes, na sessão de 10 de Janeiro; Jorge Lemos, na sessão de l de Março; Maia Nunes de Almeida, na sessão de 12 de Abril.", 
-   "type": "deputado_continuacao"
+   "party": "Daniel Bastos", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, nas últimas sessões deram entrada na Mesa os seguintes requerimentos: \ndia 2 de Julho de 1985 - a diversos ministérios, no total de 4, formulados pelo Sr. Deputado Magalhães Mota; dia 3 de Julho de 1985 - ao Ministério da Administração Interna, formulados pêlos Srs. Deputados Álvaro Brasileiro e Francisco Pessegueiro, respectivamente; ao Governo e ao Ministério da Cultura, no total de 2, formulados pelo Sr. Deputado Magalhães Mota; aos Ministérios da Agricultura e da Qualidade de Vida, formulados pelos Srs. Deputados Maia Nunes de Almeida e Rogério Brito.\nPor sua vez, o Governo respondeu a requerimentos apresentados pelos seguintes Srs. Deputados: Magalhães Mota, nas sessões de 20 de Junho, 16 de Setembro, 5 de Janeiro, 2 e 16 de Fevereiro, 3 de Abril, 3, 16 e 29 de Maio e na reunião da Comissão Permanente de 19 de Setembro; José Tengarrinha e outros, na sessão de 22 de Setembro; Carlos Carvalhas, na sessão de 30 de Março; Reis Borges, na sessão de 2 de Maio; Costa Fernandes e Anselmo Aníbal, na sessão de l de Maio; Nogueira de Brito, na sessão de 8 de Maio; Mota Torres, na sessão de 15 de Maio; lida Figueiredo e José Manuel Mendes, na sessão de 23 e 24 de Maio; Hasse Ferreira e Manuel Lopes, na sessão de 31 de Maio, respectivamente; José Magalhães, na reunião da Comissão Permanente de 19 de Setembro: Gaspar Martins e outros, na sessão de 11 de Outubro; Gomes de Pinho, na sessão de 4 de Janeiro; Marques Mendes, na sessão de 10 de Janeiro; Jorge Lemos, na sessão de l de Março; Maia Nunes de Almeida, na sessão de 12 de Abril.", 
+   "type": "secretario"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, para uma intervenção, tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, para uma intervenção, tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Uma voz do PS: Isto vai ser uma intervenção pacífica!", 
-   "type": "deputado_continuacao"
+   "speaker": "Uma voz do PS", 
+   "text": "Isto vai ser uma intervenção pacífica!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Silva Marques* (PS): Sr. Presidente, Srs. Deputados: A futura central termoeléctrica a carvão da EDP está a dar saltos de cabra montanhesa no litoral do País para encontrar poiso.\nEsteve prevista para a Amorosa, em Viana do Castelo, deu um salto repentino para Lavos, na Figueira da Foz, e quando menos se esperava deu outro salto. Neste momento pretende sediar-se no distrito de Leiria, no concelho de Pombal, junto à Guia.\nO caso da localização desta futura central térmica a carvão é mais um exemplo paradigmático de como o futuro do nosso país, o futoro de todos nós e de cada uma das nossas regiões, é posto em causa em nome do progresso. Sob a capa das soluções técnicas, ocultam-se a cobardia e o oportunismo políticos. Para não dizer, também, a ignorância, a preguiça ou até talvez a", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, Srs. Deputados: A futura central termoeléctrica a carvão da EDP está a dar saltos de cabra montanhesa no litoral do País para encontrar poiso.\nEsteve prevista para a Amorosa, em Viana do Castelo, deu um salto repentino para Lavos, na Figueira da Foz, e quando menos se esperava deu outro salto. Neste momento pretende sediar-se no distrito de Leiria, no concelho de Pombal, junto à Guia.\nO caso da localização desta futura central térmica a carvão é mais um exemplo paradigmático de como o futuro do nosso país, o futoro de todos nós e de cada uma das nossas regiões, é posto em causa em nome do progresso. Sob a capa das soluções técnicas, ocultam-se a cobardia e o oportunismo políticos. Para não dizer, também, a ignorância, a preguiça ou até talvez a 3810 I SÉRIE - NÚMERO 102", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "3810 I SÉRIE - NÚMERO 102", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "PS", 
+   "speaker": "Silva Marques", 
    "text": "própria falta de idoneidade profissional de certos técnicos destacados para justificar as soluções políticas em vez de fornecer os dados técnicos que ofereçam o leque das opções políticas claramente assumidas.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PSD: Muito bem!", 
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Mas eu não quero discutir as soluções técnicas propostas no passado ou no presente. Admito que sejam todas defensáveis. Não sou técnico. Cabe-me, enquanto eleito pela população do meu distrito e do meu país, velar sobre as soluções políticas, as opções feitas, a sua seriedade, o seu grau de solidez e a sua inserção numa política global que se proponha, dentro da sua complexidade, variedade e até contradição, assegurar e prosseguir os interesses da Nação e dos Portugueses.\nOra, o mínimo que se pode dizer é que quando se tenta justificar com argumentos técnicos a implantação da futura central térmica a carvão na zona da Guia, no litoral do distrito de Leiria, tal justificação não tem qualquer credibilidade.\nO relatório da Comissão Interministerial para a Selecção de Sítios de Centrais Térmicas a Carvão, de Abril de 1983, que apreciou as próprias propostas da EDP, comparou duas localizações - Amorosa, em Viana do Castelo, e Lavos, na Figueira da Foz -, concluindo do seguinte modo:", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Mas eu não quero discutir as soluções técnicas propostas no passado ou no presente. Admito que sejam todas defensáveis. Não sou técnico. Cabe-me, enquanto eleito pela população do meu distrito e do meu país, velar sobre as soluções políticas, as opções feitas, a sua seriedade, o seu grau de solidez e a sua inserção numa política global que se proponha, dentro da sua complexidade, variedade e até contradição, assegurar e prosseguir os interesses da Nação e dos Portugueses.\nOra, o mínimo que se pode dizer é que quando se tenta justificar com argumentos técnicos a implantação da futura central térmica a carvão na zona da Guia, no litoral do distrito de Leiria, tal justificação não tem qualquer credibilidade.\nO relatório da Comissão Interministerial para a Selecção de Sítios de Centrais Térmicas a Carvão, de Abril de 1983, que apreciou as próprias propostas da EDP, comparou duas localizações - Amorosa, em Viana do Castelo, e Lavos, na Figueira da Foz -, concluindo do seguinte modo:", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Os resultados a que se chegou revelam que o sítio de Amorosa é mais favorável do que o de Lavos do ponto de vista do somatório dos custos económicos associados aos factores de caracterização utilizados. [...] Contrariamente, o sítio de Lavos apresenta-se como mais favorável do que o de Amorosa em termos globais de impacte ambiental (P- 3).", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Da Guia, no concelho de Pombal, nem cheiro.\nRepentinamente (menos de 2 anos nestas coisas não é tempo), temos a localização ideal num sítio que nem sequer era encarado como recurso em Abril de 1983! Ou a técnica estava sornamente a dormir ou a política tem andado de rastos, arrastada como tem vindo a ser a solução de Norte para Sul: primeiro, do sítio considerado globalmente mais conveniente para o outro também estudado e proposto como escolha alternativa - de Amorosa para Lavos; repentinamente, já nem dentro das hipóteses técnicas - de Lavos para a Guia.\nAo sabor dos protestos das populações. Mas só dos protestos? É contudente a minha interrogação. Porém, legítima, quando é mais do que flagrante a falta de consistência do processo justificativo de uma tão importante decisão.\nAfinal, o que é que está a ditar a opção pela localização na Guia? Uma linha geral de acção, em nome dos interesses globais e futuros do País, seriamente fundamentada no plano técnico e claramente assumida no plano político? Ou antes meros simulacros de justificação técnica para cobrir a cobardia e o oportunismo políticos? \nSe a central deve ir para a Guia porque os outros não querem o lixo produzido pelo progresso, então, lambem nós, os do distrito de Leiria, não o queremos!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PSD: Muito bem!", 
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "E os técnicos que justificaram [...] sítio tão rapidamente, apesar de menos de 2 [...] antes nem sequer o considerarem como alternativa [...] efeitos de opção final e imediata, que arranjem [...] ou outros e «justifiquem-nos» com igual velocidade.\nNós, também, dizemos NÃO à central a [...] vão no distrito de Leiria. E com maioria de razão [...] não serviu para os outros, que a «técnica» - a [...] não é dos deputados neste caso - tinha com [...] tranquilidade e liberta de pressões e jogos de [...] escolhido, então ainda menos servirá para nós a ...] de quem a «técnica» ainda ontem nem sequer se [...] brava.\nQuerem dar-nos empregos e rendimentos. Mas [...] contabilizam aqueles que nos vão tirar, afectando [...] região agrícola, florestal e turística tão importante. [...] não invocar prioritariamente os demais efeitos [...], que não serão decerto de menor monta.\nO despacho de 5 de Fevereiro de 1982 que criou [...] já referida Comissão Interministerial para a Selecção de Sítios de Centrais Térmicas a Carvão pronunciava-se nos seguintes termos:", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: E os técnicos que justificaram [...] sítio tão rapidamente, apesar de menos de 2 [...] antes nem sequer o considerarem como alternativa [...] efeitos de opção final e imediata, que arranjem [...] ou outros e «justifiquem-nos» com igual velocidade.\nNós, também, dizemos NÃO à central a [...] vão no distrito de Leiria. E com maioria de razão [...] não serviu para os outros, que a «técnica» - a [...] não é dos deputados neste caso - tinha com [...] tranquilidade e liberta de pressões e jogos de [...] escolhido, então ainda menos servirá para nós a ...] de quem a «técnica» ainda ontem nem sequer se [...] brava.\nQuerem dar-nos empregos e rendimentos. Mas [...] contabilizam aqueles que nos vão tirar, afectando [...] região agrícola, florestal e turística tão importante. [...] não invocar prioritariamente os demais efeitos [...], que não serão decerto de menor monta.\nO despacho de 5 de Fevereiro de 1982 que criou [...] já referida Comissão Interministerial para a Selecção de Sítios de Centrais Térmicas a Carvão pronunciava-se nos seguintes termos:", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "De acordo com as mais recentes previsões de expansão do sector eléctrico, o País terá de [...] nos próximos 30 anos, 5 a 6 centrais térmicas os nucleares. Nestes termos é constituída uma comissão encarregada de preparar uma carteira de sítios para a localização de centrais térmicas a carvão, que corresponda ao resultado de uma análise a [...] de todo o território.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Pois bem, a Comissão ou a EDP, mais de 3 anos, depois, já não têm uma carteira de sítios seleccionados, mesmo que só como pré-selecção? \nPode-se saber qual é? São capazes de a divulgar? \nMas se o argumento é o da urgência, então pressa por pressa, para não dizer precipitação por precipitação, não será mais aceitável, à cautela, localizar a futura central num dos sítios, aquele que melhor suporte os efeitos acrescentados, em que já exista uma, em vez de se sacrificar uma nova zona? E se o argumento é o da distância, que força poderá ele ter por parte de quem já se deslocou da Amorosa até à Guia?! \nDe toda a evidência as opções energéticas que assegurem o futuro do País continuam a carecer de uma preparação e decisão global, publicamente feita e claramente assumida. Continua-se no improviso desconhecendo-se deliberadamente que o País é vez mais pequeno para suportar cada vez mais atropelos aos interesses das populações e, desse modo, interesses da Nação no seu conjunto. A preguiça, incapacidade ou insensibilidade da «técnica» [...] com a cobardia ou o oportunismo políticos têm feito grandes barbaridades. Na democracia, e na ditadura (o fenómeno o vício estão muito enraizados).\nPor isso, o projecto de lei n.° 446/III que, em certo momento, apresentámos nesta legislatura, visando instituir a comunicação prévia obrigatória por parte dos serviços do Estado, institutos públicos e empresas publicas à Assembleia da República para conhecimento das comissões parlamentares competentes e da Comissão de Administração Interna e Poder Local assim como dos municípios a que digam respeito, dos programas ou projectos de extinção ou criação de unidades de produção ou de serviços, assim como de desenvolvimento ou de alteração dos existentes.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "5 DE JULHO DE 1985 3811", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "O Orador", 
    "text": "Ao menos aproveitemos as vantagens da democracia não nos calemos e metamos na ordem os dinossauros da tecnocracia.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PSD: Muito bem!", 
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Merecem-nos total apoio as posições [...] das instituições representativas das populações da região da Guia, sobremaneira da Câmara e da Assembleia Municipal de Leiria. Já nos deixa [...] o colaboracionismo com a EDP, nas circunstâncias descritas, do presidente socialista da Câmara Mucipal de Pombal no litoral de cujo concelho se situa a Guia.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Merecem-nos total apoio as posições [...] das instituições representativas das populações da região da Guia, sobremaneira da Câmara e da Assembleia Municipal de Leiria. Já nos deixa [...] o colaboracionismo com a EDP, nas circunstâncias descritas, do presidente socialista da Câmara Mucipal de Pombal no litoral de cujo concelho se situa a Guia.", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Bom presidente!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PSD: Bom presidente!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Seria lastimável e catastrófico que o futuro do nosso país fosse (ou continuasse a ser) decidido aos baldões. A EDP e, sobretudo, o Governo têm de ser convincentes, claros e coerentes, em vez de [...] da forma inversa, suscitando a legítima indignação das populações quando estão em causa valores e interesses importantes como os da saúde e das condições de vida.\nDe qualquer modo, e enquanto o sistema de decisão for o dos empurrões, em Leiria empurraremos tanto como os outros.", 
+   "speaker": "O Orador", 
+   "text": "Seria lastimável e catastrófico que o futuro do nosso país fosse (ou continuasse a ser) decidido aos baldões. A EDP e, sobretudo, o Governo têm de ser convincentes, claros e coerentes, em vez de [...] da forma inversa, suscitando a legítima indignação das populações quando estão em causa valores e interesses importantes como os da saúde e das condições de vida.\nDe qualquer modo, e enquanto o sistema de decisão for o dos empurrões, em Leiria empurraremos tanto como os outros.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -320,138 +292,109 @@
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Par interpelar o Sr. Deputado Silva Marques inscreveram-se os Srs. Deputados Manuel Martins, Ferraz de Abreu, António Gonzalez e Meneses Falcão.\nTem a palavra o Sr. Deputado Manuel Martins, embora o PSD tenha apenas 2 minutos.", 
+   "speaker": "Presidente", 
+   "text": "Par interpelar o Sr. Deputado Silva Marques inscreveram-se os Srs. Deputados Manuel Martins, Ferraz de Abreu, António Gonzalez e Meneses Falcão.\nTem a palavra o Sr. Deputado Manuel Martins, embora o PSD tenha apenas 2 minutos.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Manuel Martins", 
+   "text": "Sr. Presidente, Srs. Deputados: Lamento mais uma vez ter tão pouco tempo - apenas 2 minutos - para poder intervir. Já da semana passada, quando o Sr. Deputado Meneses Falcão aqui trouxe este mesmo problema, gostaria de ter intervindo, mas isso não me foi possível, pois o meu grupo. parlamentar já não linha tempo disponível, o que mais uma vez quero lamentar. E quero-o lamentar até porque sou uma das pessoas - talvez das primeiras - que há cerca de 30 anos sou atingido pelos efeitos de uma central a carvão (a primeira instalada no País) e portanto posso transmitir aqui a esta Câmara algumas das preocupações dessas mesmas populações.\nQueria começar por felicitar o meu companheiro Silva Marques, assim como o Sr. Deputado Meneses Falcão por terem trazido aqui a esta Câmara tal problema, o que não foi feito antes do 25 de Abril pelos deputados que aqui estavam. Pelo contrário, eles aldrabaram as populações, dizendo que as centrais a carvão seriam um benefício para elas, seriam postos de trabalho que iriam ser criados.\nPassado pouco tempo, o que se verificou foi que poucos postos de trabalho foram criados e as populações apenas tiveram a fome, apenas tiveram - posso dizer e tenho-o transmitido à EDP - talvez a morte.\nO futuro das populações de Gondomar é negro; durante anos têm lutado, apesar de umas esmolas que lhes têm sido dadas por esta empresa, pois a EDP todos os anos distribui alguns milhares de contos pelos \nproprietários. Mas isso não basta porque não são só as culturas mas a saúde dessa gente que está em causa e, lamentavelmente, a comunicação social nada tem feito por estas populações.\nGostaria de focar esse problema hoje, mas, como vejo ali a bancada da imprensa vazia, com certeza que estas lamentações não irão ser transmitidas como deviam a quem de direito. Espero que com a intervenção que hoje aqui foi feita pelo meu companheiro de bancada as populações de Pombal sejam alertadas para o facto e que lutem.\nTer-me-ão sempre a seu lado para lutar contra a instalação da central em Pombal, em Viana do Castelo ou na Figueira da Foz, pois uma central a carvão só traz a morte e a destruição às populações.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "CDS", 
+   "speaker": "Meneses Falcão", 
+   "text": "Muito bem!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Manuel Martins* (PSD): Sr. Presidente, Srs. Deputados: Lamento mais uma vez ter tão pouco tempo - apenas 2 minutos - para poder intervir. Já da semana passada, quando o Sr. Deputado Meneses Falcão aqui trouxe este mesmo problema, gostaria de ter intervindo, mas isso não me foi possível, pois o meu grupo. parlamentar já não linha tempo disponível, o que mais uma vez quero lamentar. E quero-o lamentar até porque sou uma das pessoas - talvez das primeiras - que há cerca de 30 anos sou atingido pelos efeitos de uma central a carvão (a primeira instalada no País) e portanto posso transmitir aqui a esta Câmara algumas das preocupações dessas mesmas populações.\nQueria começar por felicitar o meu companheiro Silva Marques, assim como o Sr. Deputado Meneses Falcão por terem trazido aqui a esta Câmara tal problema, o que não foi feito antes do 25 de Abril pelos deputados que aqui estavam. Pelo contrário, eles aldrabaram as populações, dizendo que as centrais a carvão seriam um benefício para elas, seriam postos de trabalho que iriam ser criados.\nPassado pouco tempo, o que se verificou foi que poucos postos de trabalho foram criados e as populações apenas tiveram a fome, apenas tiveram - posso dizer e tenho-o transmitido à EDP - talvez a morte.\nO futuro das populações de Gondomar é negro; durante anos têm lutado, apesar de umas esmolas que lhes têm sido dadas por esta empresa, pois a EDP todos os anos distribui alguns milhares de contos pelos \nproprietários. Mas isso não basta porque não são só as culturas mas a saúde dessa gente que está em causa e, lamentavelmente, a comunicação social nada tem feito por estas populações.\nGostaria de focar esse problema hoje, mas, como vejo ali a bancada da imprensa vazia, com certeza que estas lamentações não irão ser transmitidas como deviam a quem de direito. Espero que com a intervenção que hoje aqui foi feita pelo meu companheiro de bancada as populações de Pombal sejam alertadas para o facto e que lutem.\nTer-me-ão sempre a seu lado para lutar contra a instalação da central em Pombal, em Viana do Castelo ou na Figueira da Foz, pois uma central a carvão só traz a morte e a destruição às populações.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Meneses Falcão* (CDS): Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Sr. Deputado Manuel Martins, permita-me chamar a atenção de V. Ex.ª no sentido de lhe dizer que a bancada da comunicação social, embora não estando cheia, também não está vazia.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Manuel Martins, permita-me chamar a atenção de V. Ex.ª no sentido de lhe dizer que a bancada da comunicação social, embora não estando cheia, também não está vazia.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos DO PCP, do PS e do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Ferraz de Abreu.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Ferraz de Abreu.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Ferraz de Abreu* (PS): Sr. Presidente, Srs. Deputados: Embora compreendendo as razões do Sr. Deputado Silva Marques, o que é verdade é que o País tem necessidades energéticas e, na realidade, tem de produzir energia se quiser desenvolver-se e trazer conforto e riqueza à sua população.\nPortanto, temos de encarar o problema das centrais como males necessários e é indispensável que as populações sejam esclarecidas e não sejam confundidas nesta matéria porque se continuamos a fazer guerras um pouco obscuras a este problema somos capazes de levar o País a uma situação catastrófica, até porque uma central, seja ela convencional ou nuclear, leva uma dezena de anos ou mais a implementar e a construir.\nÉ portanto necessário não retardar decisões nesta matéria, que são extremamente importantes, embora reconhecendo os inconvenientes que há na implementação de uma central. Porém, tenho a impressão de que qualquer debate nesta matéria deve, efectivamente, dirigir-se aos técnicos ou às técnicas que seleccionaram os sítios e que vão determinar, de facto, onde as centrais vão ser implementadas e não estar a excitar as populações com uma informação que muitas vezes nem sequer é certa e exacta.\nA minha pergunta ao Sr. Deputado Silva Marques é se, perante isto, ele considera que intervenções como a que acaba de fazer - que não considero de maneira nenhuma de oportunismo político nem demagógico - ajudam a resolver o problema energético deste país.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Ferraz de Abreu", 
+   "text": "Sr. Presidente, Srs. Deputados: Embora compreendendo as razões do Sr. Deputado Silva Marques, o que é verdade é que o País tem necessidades energéticas e, na realidade, tem de produzir energia se quiser desenvolver-se e trazer conforto e riqueza à sua população.\nPortanto, temos de encarar o problema das centrais como males necessários e é indispensável que as populações sejam esclarecidas e não sejam confundidas nesta matéria porque se continuamos a fazer guerras um pouco obscuras a este problema somos capazes de levar o País a uma situação catastrófica, até porque uma central, seja ela convencional ou nuclear, leva uma dezena de anos ou mais a implementar e a construir.\nÉ portanto necessário não retardar decisões nesta matéria, que são extremamente importantes, embora reconhecendo os inconvenientes que há na implementação de uma central. Porém, tenho a impressão de que qualquer debate nesta matéria deve, efectivamente, dirigir-se aos técnicos ou às técnicas que seleccionaram os sítios e que vão determinar, de facto, onde as centrais vão ser implementadas e não estar a excitar as populações com uma informação que muitas vezes nem sequer é certa e exacta.\nA minha pergunta ao Sr. Deputado Silva Marques é se, perante isto, ele considera que intervenções como a que acaba de fazer - que não considero de maneira nenhuma de oportunismo político nem demagógico - ajudam a resolver o problema energético deste país.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado António Gonzalez.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado António Gonzalez.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. António Gonzalez (Indep.): Sr. Deputado Silva Marques, quero realmente dar-lhe os parabéns por ter trazido aqui à Assembleia esta questão que devia ter sido trazida já muitas outras vezes, porque este problema da central a carvão, como o de outras centrais, insere-se realmente num projecto de sociedade.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Deputado Silva Marques, quero realmente dar-lhe os parabéns por ter trazido aqui à Assembleia esta questão que devia ter sido trazida já muitas outras vezes, porque este problema da central a carvão, como o de outras centrais, insere-se realmente num projecto de sociedade.", 
+   "type": "speaker_error"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
    "text": "3312 I SÉRIE - NÚMERO 102", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
    "text": "Em relação a esta central a carvão, como em relação às outras, há um problema muito grave que não é propriamente técnico. Esse problema é o que diz respeito a dessulfurização do carvão - isto não discutindo agora a necessidade de mais centrais a carvão ou nucleares ou o que quer que seja.\nFalando só do ponto de vista técnico, se o carvão a utilizar na central for dessulfurizado, consegue-se travar um dos problemas mais graves que é o do anidrido sulfuroso. Isto conseguindo a montante evitar as poeiras do carvão ou conseguindo, na central - como, aliás, nós vimos em Sines -, a captação das poeiras por sistemas electroestáticos, tendo ainda em atenção o sítio onde as cinzas vão estar, de forma que tanto as chuvas, como as águas lexiviantes, como ainda as poeiras arrastadas pêlos ventos, sejam travados e não sejam lançados nas linhas de água e no ar.\nSe se conseguir travar tudo isso fica ainda um grande problema que é a questão do anidrido sulfuroso. Ora, existe realmente uma resposta técnica para isso que é a dessulfurização do carvão. Esta \ndessulfurização é possível, é rentável - sabemos que o enxofre é necessário para o ácido sulfúrico, etc. -, daí que uma instalação de dessulfurização do carvão permitiria poupar dinheiro, evitanto ao mesmo tempo o lançar no ar do anidrido sulfuroso que, não indo afectar apenas directamente o nosso país com as chuvas ácidas, vai perturbar iodo o ecossistema mundial.\nSabemos que o problema da central aqui, ali ou acolá, será sempre o mesmo; será um jogo de empurra enquanto não se tomar a tal decisão que é a de dessulfurizar o carvão. Ora. sabemos que essa é uma decisão política e económica - porque sai caro não se pensar em termos de reciclagem do enxofre -, e é essa a decisão política que é preciso tomar. Os técnicos sabem que isso se pode fazer, mas em Sines já nos disseram que, realmente, saía caro, etc., e não havia hipótese de o fazer.\nPortanto, quando as outras unidades de queima começarem a funcioar em Sines - quando forem construídas - vão-se somando todos esses lançamentos que referi a toneladas de anidrido sulfuroso. Isto sem falar aqui propriamente na política energética, pois os poucos minutos de que disponho não dão para isso.\nPerguntava-lhe, portanto, Sr. Deputado, se perfilha ou não esta ideia da dessulfurização.", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
    "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Meneses Falcão.", 
+   "type": null
+  }, 
+  {
+   "party": "CDS", 
+   "speaker": "Meneses Falcão", 
+   "text": "Sr. Presidente, Srs. Deputados: Duas palavras apenas para me congratular com a forma como o Sr. Deputado Silva Marques trouxe aqui este problema. Efectivamente, estou inteiramente solidário com a posição assumida e nem outra coisa poderia acontecer depois da intervenção que aqui fiz sobre o mesmo assunto.\nEm todo o caso tem oportunidade um pedido de esclarecimento, na medida em que o Sr. Deputado Silva Marques invocou a figura do presidente da Câmara Municipal de Pombal em todo este processo. O esclarecimento que lhe peço - e que se justifica, no meu entender - é precisamente este: \nquando o Sr. Deputado traz a esta Câmara o comportamento do presidente da Câmara Municipal de Pombal tem presente a acção da câmara em si - o órgão colegial que é a Câmara Municipal de Pombal - ou pretendeu, efectivamente, isolar o comportamento do presidente da Camara, dissociando-o da acção da administração [...] do concelho de Pombal? \nPedia ao Sr. Deputado que fizesse o favor de esclarecer a sua posição neste particular.", 
+   "type": "continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Silva Marques tem 3 minutos para responder, por concessão da Mesa.", 
+   "type": "presidente"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, antes de mais foi clara a intenção da referência do meu colega Manuel Martins à bancada da imprensa. Trata-se do facto de ela estar pouco cheia porque, relativamente aos presentes nessa bancada, sabemos, por provas dadas, que eles são os que mais contribuem para a presença da imprensa no Parlamento e, através dela [...] Parlamento junto da população portuguesa. Por [...] eu diria que a bancada da imprensa está preenchida de forma inversa à importância que ela tem dado ao Parlamento. Por isso, também, presto a minha homenagem aos jornalistas que estão presentes, sem excluir alguns - e até vários - dos ausentes.\nQuanto àquilo que o Sr. Deputado Ferraz de Abreu disse, pois é evidente que o País precisa de energia e não neguei isso.\nSr. Deputado, a minha intervenção foi sobretudo centrada na apreciação do processo técnico-politico de decisões tão importantes e tão drásticas para o presente e o futuro. A minha intervenção foi sobretudo dirigida àquilo que designei por barbaridades - não tenho a menor dúvida que são barbaridades - e àquilo que também designei por dinossauros da tecnocracia, ou seja, àqueles que com ar muito sério e pretensamente com o poder absoluto e infalível da técnica - sabendo nós que a técnica está dependente da subjectividade e fragilidade do próprio ser humano - dizem: isto [...] de ser aqui! E às vezes fazem-no pela calada, tentando fazer passar as decisões sem o contributo da opinião das populações e fazem normalmente asneira!...\nTêm-no feito e inclusivamente isto não é uma questão de regime - digo isto para aqueles que julgam que na ditadura não era assim. Estas barbaridades foram praticadas na ditadura e sê-lo-ão, também, na democracia, mas com esta vantagem, que é precisamente o abismo que há entre a democracia e a ditadura: [...] na democracia, podemos protestar, podemos levantar a nossa voz e até podemos, se amanhã tivermos oportunidade e se a Câmara o quiser, aprovar projectos de lei - como aquele que é da minha autoria e a que a referência - no sentido de meter na ordem precisamente os dinossauros da tecnocracia, obrigado-os a tomar decisões sem ser pela calada, denunciando-os dizendo ao País e às populações aquilo que andam a maquinar.\nEsta é que é a questão fundamental, não é o [...] precisar ou não de energia, porque precisa.\nQuanto ao Sr. Deputado António Gonzalez [...] não ter a mínima ideia relativamente ao que [...] melhor, se a solução de dessulfurização ou não.\nSou suficientemente realista para não me [...] num tipo de discussão tão técnica, para o qual não [...] preparação. Mas isso não implica que [...] discussão para a qual tenho preparação e, mais - [...]dever político e moral, que é o dar expressão preocupações da população que me elegeu e querer [...], precisamente, os dinossauros da tecnocracia.\n5 DE JULHO DE 1985 3813", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Voz do PSD", 
+   "text": "Muito bem!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Meneses Falcão* (CDS): Sr. Presidente, Srs. Deputados: Duas palavras apenas para me congratular com a forma como o Sr. Deputado Silva Marques trouxe aqui este problema. Efectivamente, estou inteiramente solidário com a posição assumida e nem outra coisa poderia acontecer depois da intervenção que aqui fiz sobre o mesmo assunto.\nEm todo o caso tem oportunidade um pedido de esclarecimento, na medida em que o Sr. Deputado Silva Marques invocou a figura do presidente da Câmara Municipal de Pombal em todo este processo. O esclarecimento que lhe peço - e que se justifica, no meu entender - é precisamente este: \nquando o Sr. Deputado traz a esta Câmara o comportamento do presidente da Câmara Municipal de Pombal tem presente a acção da câmara em si - o órgão colegial que é a Câmara Municipal de Pombal - ou pretendeu, efectivamente, isolar o comportamento do presidente da Camara, dissociando-o da acção da administração [...] do concelho de Pombal? \nPedia ao Sr. Deputado que fizesse o favor de esclarecer a sua posição neste particular.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Sr. Deputado Silva Marques tem 3 minutos para responder, por concessão da Mesa.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, antes de mais foi clara a intenção da referência do meu colega Manuel Martins à bancada da imprensa. Trata-se do facto de ela estar pouco cheia porque, relativamente aos presentes nessa bancada, sabemos, por provas dadas, que eles são os que mais contribuem para a presença da imprensa no Parlamento e, através dela [...] Parlamento junto da população portuguesa. Por [...] eu diria que a bancada da imprensa está preenchida de forma inversa à importância que ela tem dado ao Parlamento. Por isso, também, presto a minha homenagem aos jornalistas que estão presentes, sem excluir alguns - e até vários - dos ausentes.\nQuanto àquilo que o Sr. Deputado Ferraz de Abreu disse, pois é evidente que o País precisa de energia e não neguei isso.\nSr. Deputado, a minha intervenção foi sobretudo centrada na apreciação do processo técnico-politico de decisões tão importantes e tão drásticas para o presente e o futuro. A minha intervenção foi sobretudo dirigida àquilo que designei por barbaridades - não tenho a menor dúvida que são barbaridades - e àquilo que também designei por dinossauros da tecnocracia, ou seja, àqueles que com ar muito sério e pretensamente com o poder absoluto e infalível da técnica - sabendo nós que a técnica está dependente da subjectividade e fragilidade do próprio ser humano - dizem: isto [...] de ser aqui! E às vezes fazem-no pela calada, tentando fazer passar as decisões sem o contributo da opinião das populações e fazem normalmente asneira!...\nTêm-no feito e inclusivamente isto não é uma questão de regime - digo isto para aqueles que julgam que na ditadura não era assim. Estas barbaridades foram praticadas na ditadura e sê-lo-ão, também, na democracia, mas com esta vantagem, que é precisamente o abismo que há entre a democracia e a ditadura: [...] na democracia, podemos protestar, podemos levantar a nossa voz e até podemos, se amanhã tivermos oportunidade e se a Câmara o quiser, aprovar projectos de lei - como aquele que é da minha autoria e a que a referência - no sentido de meter na ordem precisamente os dinossauros da tecnocracia, obrigado-os a tomar decisões sem ser pela calada, denunciando-os dizendo ao País e às populações aquilo que andam a maquinar.\nEsta é que é a questão fundamental, não é o [...] precisar ou não de energia, porque precisa.\nQuanto ao Sr. Deputado António Gonzalez [...] não ter a mínima ideia relativamente ao que [...] melhor, se a solução de dessulfurização ou não.\nSou suficientemente realista para não me [...] num tipo de discussão tão técnica, para o qual não [...] preparação. Mas isso não implica que [...] discussão para a qual tenho preparação e, mais - [...]dever político e moral, que é o dar expressão preocupações da população que me elegeu e querer [...], precisamente, os dinossauros da tecnocracia.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "5 DE JULHO DE 1985 3813", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Voz do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Voz do PSD", 
    "text": "O Orador - Quanto à pergunta do Sr. Deputado Meneses Falcão, sem dúvida que fiz referência à Câmara Municipal de Leiria no sentido global; mas não deixo de aproveitar a oportunidade para uma referência em especial ao Sr. Presidente da Câmara Municipal de Leiria.\nRelativamente à Câmara Municipal de Pombal, referi-me ao seu presidente socialista...", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PS: O senhor tem é inveja; é um bom presidente! \nO Orador: .... exactamente para o isolar, porque ele tido uma atitude de tal colaboracionismo passivo com a EDP que merece ser isolado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "O senhor tem é inveja; é um bom presidente! \nO Orador: — .... exactamente para o isolar, porque ele tido uma atitude de tal colaboracionismo passivo com a EDP que merece ser isolado.", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado João Abrantes.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Abrantes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *João Abrantes* (PCP): Sr. Presidente, Srs. Deputados: Coimbra, a cidade universitária do Mondego, é hoje o tema da nossa intervenção.\nA exemplo de anteriores intervenções sobre o distrito é de todo o concelho de Coimbra que vamos falar.\nCom uma população de 145 000 habitantes e uma densidade populacional de 464 habitantes por quilómetro quadrado, o concelho de Coimbra tem sido uma zona aberta às influências dos dois grandes centros - Lisboa e Porto - , resistindo a estas mercê do grande peso de alguns sectores da sua actividade (a Universidade, os hospitais, os serviços públicos, o comércio) e da sua posição de capital da região Centro.\nA população do concelho cresceu acentuadamente, sobretudo nos anos setenta, devido a deslocações de concelhos vizinhos para Coimbra à procura de emprego, ao crescimento do poder de compra a seguir ao 25 de Abril e ao regresso de retornados.\nA mancha urbana cresceu assim à volta do centro histórico da colina da Universidade, saltou para a outra margem do rio Mondego e representa hoje quase 70% da população total do concelho.\nRefira-se ainda o enorme peso na população de Coimbra a sua componente flutuante - os estudantes - com importantes reflexos económicos na habitação e no comércio.\nA população activa do concelho de Coimbra tem vindo a crescer (39 610 em 1971, 55 478 em 1981), bem como o seu peso na população total (35,8% em 1970, 40% em 1981) e reparte-se por três grandes sectores do seguinte modo: primário, 2159 - 3,89%, secundário, 18 220 - 32,84%, e terciário, 35 099 - 6,3%.\nNo sector primário (agricultura) trabalham 2159 pessoas - 3,89% da população activa total -, mas estes números oficiais não têm em conta nem os agricultores a tempo parcial (e este número tem vindo a aumentar como complemento de outras profissões), nem as centenas ou milhares de mulheres que nos censos figuram como domésticas.\nDe qualquer forma a situação neste sector é a quebra da população activa que se dedica à agricultura, do seu envelhecimento e da diminuição da produtividade.\nPredomina a pequena exploração (a média é de 1,6 há) dispersa (6 parcelas por exploração, em média), existindo 2531 ha de terra inculta e 1900 ha na de área florestal destruída pelo fogo.\nO concelho contribuiu em 1981 com mais de 108 COO contos para o produto agrícola bruto.\nO sector secundário (indústria) ocupa 18 220 pessoas (32% da população activa total) em 352 empresas, contribui com cerca de 30% para o produto interno bruto total do concelho e está distribuído pelos sectores mais importantes da construção civil (5317 trabalhadores), têxteis (3356 trabalhadores), cerâmicas e cimentos (2750 \ntrabalhadores), metalúrgicas (2578 trabalhadores) e alimentares (1715 trabalhadores).\nA situação geral deste sector é de grave crise, com a maior parte das empresas a trabalhar a 50 % da sua capacidade.\nA construção civil e obras públicas, que emprega quase 10% da população activa do concelho, viu reduzidos em 23% (só de 1980 para 1983) o número de fogos construídos e essa crise reflectiu-se em sectores a jusante como o da indústria cerâmica.\nO sector terciário (comércio e serviços em geral) ocupam 35 099 trabalhadores (63 % da população activa), distribuídos da seguinte forma: educação e saúde - 11 987 trabalhadores; comércio e turismo - 8649 trabalhadores; administração pública, bancos, seguros e defesa - 6740 trabalhadores; transportes terrestres e comunicações - 2577 trabalhadores.\nEstes números traduzem, por um lado, a concentração em Coimbra de serviços que são prestados a toda uma região (casos da saúde e da Universidade) e por outro lado à fixação em Coimbra de profissionais do ensino a prestar serviço em concelhos por vezes distantes.\nCaracterizado o concelho, é altura de analisar as consequências da política nacional nas condições de vida das suas gentes.\nOs dados disponíveis, quer nacionais, quer locais, permitem-nos concluir que as condições de vida no concelho de Coimbra têm piorado de forma acelerada nos últimos anos.\nOs exemplos que apontamos são significativos: mais de 40 000 desempregados em todo o distrito - e o seu número aumenta \nassustadoramente; alguns milhares de trabalhadores com salários em atraso; mais de 80% dos trabalhadores da indústria e comércio auferindo rendimentos inferiores a 200 contos/ano; a quebra de vendas no comércio no primeiro trimestre de 1984 foi da ordem dos 20%; diminuiu em 23% entre 1981 e 1983, o número de fogos construídos - e este número é acompanhado de perto pela quebra na aquisição de casa própria; aumentam a prostituição, a mendicidade e o consumo da droga.\nNo sector da habitação, 45 % dos edifícios da cidade de Coimbra são anteriores a 1945 e 18% anteriores a 1919; 835 edifícios do concelho são de madeira e 140 são barracas, ao mesmo tempo que há 1817 alojamentos vagos e 1506 com ocupante ausente; 7694 famílias não têm retrete no alojamento; 6358 famílias não têm água canalizada e 13 849 famílias não têm banho nas suas casas.\nNo sector dos transportes e vias de comunicação as carências e o mau estado de muitas estradas e caminhos, bem como os problemas de trânsito e do estacionamento na cidade de Coimbra influem negativamente na qualidade de vida das populações.\nE direi apenas que a total ausência de transportes colectivos camarários em toda a margem direita do Mondego, as dificuldades de acesso ao açude - ponte e a falta de construção das circulares são outros tantos", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "João Abrantes", 
+   "text": "Sr. Presidente, Srs. Deputados: Coimbra, a cidade universitária do Mondego, é hoje o tema da nossa intervenção.\nA exemplo de anteriores intervenções sobre o distrito é de todo o concelho de Coimbra que vamos falar.\nCom uma população de 145 000 habitantes e uma densidade populacional de 464 habitantes por quilómetro quadrado, o concelho de Coimbra tem sido uma zona aberta às influências dos dois grandes centros - Lisboa e Porto - , resistindo a estas mercê do grande peso de alguns sectores da sua actividade (a Universidade, os hospitais, os serviços públicos, o comércio) e da sua posição de capital da região Centro.\nA população do concelho cresceu acentuadamente, sobretudo nos anos setenta, devido a deslocações de concelhos vizinhos para Coimbra à procura de emprego, ao crescimento do poder de compra a seguir ao 25 de Abril e ao regresso de retornados.\nA mancha urbana cresceu assim à volta do centro histórico da colina da Universidade, saltou para a outra margem do rio Mondego e representa hoje quase 70% da população total do concelho.\nRefira-se ainda o enorme peso na população de Coimbra a sua componente flutuante - os estudantes - com importantes reflexos económicos na habitação e no comércio.\nA população activa do concelho de Coimbra tem vindo a crescer (39 610 em 1971, 55 478 em 1981), bem como o seu peso na população total (35,8% em 1970, 40% em 1981) e reparte-se por três grandes sectores do seguinte modo: primário, 2159 - 3,89%, secundário, 18 220 - 32,84%, e terciário, 35 099 - 6,3%.\nNo sector primário (agricultura) trabalham 2159 pessoas - 3,89% da população activa total -, mas estes números oficiais não têm em conta nem os agricultores a tempo parcial (e este número tem vindo a aumentar como complemento de outras profissões), nem as centenas ou milhares de mulheres que nos censos figuram como domésticas.\nDe qualquer forma a situação neste sector é a quebra da população activa que se dedica à agricultura, do seu envelhecimento e da diminuição da produtividade.\nPredomina a pequena exploração (a média é de 1,6 há) dispersa (6 parcelas por exploração, em média), existindo 2531 ha de terra inculta e 1900 ha na de área florestal destruída pelo fogo.\nO concelho contribuiu em 1981 com mais de 108 COO contos para o produto agrícola bruto.\nO sector secundário (indústria) ocupa 18 220 pessoas (32% da população activa total) em 352 empresas, contribui com cerca de 30% para o produto interno bruto total do concelho e está distribuído pelos sectores mais importantes da construção civil (5317 trabalhadores), têxteis (3356 trabalhadores), cerâmicas e cimentos (2750 \ntrabalhadores), metalúrgicas (2578 trabalhadores) e alimentares (1715 trabalhadores).\nA situação geral deste sector é de grave crise, com a maior parte das empresas a trabalhar a 50 % da sua capacidade.\nA construção civil e obras públicas, que emprega quase 10% da população activa do concelho, viu reduzidos em 23% (só de 1980 para 1983) o número de fogos construídos e essa crise reflectiu-se em sectores a jusante como o da indústria cerâmica.\nO sector terciário (comércio e serviços em geral) ocupam 35 099 trabalhadores (63 % da população activa), distribuídos da seguinte forma: educação e saúde - 11 987 trabalhadores; comércio e turismo - 8649 trabalhadores; administração pública, bancos, seguros e defesa - 6740 trabalhadores; transportes terrestres e comunicações - 2577 trabalhadores.\nEstes números traduzem, por um lado, a concentração em Coimbra de serviços que são prestados a toda uma região (casos da saúde e da Universidade) e por outro lado à fixação em Coimbra de profissionais do ensino a prestar serviço em concelhos por vezes distantes.\nCaracterizado o concelho, é altura de analisar as consequências da política nacional nas condições de vida das suas gentes.\nOs dados disponíveis, quer nacionais, quer locais, permitem-nos concluir que as condições de vida no concelho de Coimbra têm piorado de forma acelerada nos últimos anos.\nOs exemplos que apontamos são significativos: mais de 40 000 desempregados em todo o distrito - e o seu número aumenta \nassustadoramente; alguns milhares de trabalhadores com salários em atraso; mais de 80% dos trabalhadores da indústria e comércio auferindo rendimentos inferiores a 200 contos/ano; a quebra de vendas no comércio no primeiro trimestre de 1984 foi da ordem dos 20%; diminuiu em 23% entre 1981 e 1983, o número de fogos construídos - e este número é acompanhado de perto pela quebra na aquisição de casa própria; aumentam a prostituição, a mendicidade e o consumo da droga.\nNo sector da habitação, 45 % dos edifícios da cidade de Coimbra são anteriores a 1945 e 18% anteriores a 1919; 835 edifícios do concelho são de madeira e 140 são barracas, ao mesmo tempo que há 1817 alojamentos vagos e 1506 com ocupante ausente; 7694 famílias não têm retrete no alojamento; 6358 famílias não têm água canalizada e 13 849 famílias não têm banho nas suas casas.\nNo sector dos transportes e vias de comunicação as carências e o mau estado de muitas estradas e caminhos, bem como os problemas de trânsito e do estacionamento na cidade de Coimbra influem negativamente na qualidade de vida das populações.\nE direi apenas que a total ausência de transportes colectivos camarários em toda a margem direita do Mondego, as dificuldades de acesso ao açude - ponte e a falta de construção das circulares são outros tantos 3814 I SÉRIE - NÚMERO 102", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "3814 I SÉRIE - NÚMERO 102", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "PCP", 
+   "speaker": "João Abrantes", 
    "text": "problemas a agravar os grandes engarrafamentos de trânsito na cidade.\nOs efeitos da auto-estrada no descongelamento de trânsito na cidade revelam-se inferiores aos pretendidos e o estado calamitoso das estradas de concelhos, da rua de acesso à Escola Secundária D. Duarte, da estrada Adémia-Cidreira, Conraria e Castelo de Viegas, entre outras tantas, contribuem para o agravamento daquilo que vimos descrevendo.\nO património cultural e ambiental da cidade de Coimbra é rico e deve ser preservado. Os grandes estragos, na zona histórica da alta, praticados pelo fascismo não podem nem devem repetir-se.\nÉ urgente a criação do museu António Nobre na Torre de Amo, a abertura da Torre de Almedina com a exposição permanente de fotografias da cidade antiga e a recuperação do Convento de Santa Clara-a-Velha e do Convento de São Francisco. Estas são apenas algumas das medidas mais urgentes neste campo.\nSeguida, pêlos sucessivos governos de direita, uma política orientada para a reconstituição dos monopólios, das grandes fortunas e privilégios, também, no concelho de Coimbra os seus reflexos são a estagnação e a retracção das actividades produtivas e têm conduzido ao alastrar do desemprego e à degradação das condições de vida e de trabalho.\nO sector não capitalista da economia tem sido alvo preferencial desta ofensiva contra as empresas nacionalizadas e do sector público de âmbito nacional, designadamente na banca, nos seguros, na EDP, na EPAC, na Gelmar, na Centralcer, na Rodoviária Nacional, na Cimpor e nos CTT.\nA desintervenção de empresas recuperadas pêlos sacrifícios dos trabalhadores e com forte aplicação de fundos públicos como é o caso da Mondorel que foi entregue em 1977 à administração capitaneada por Iládio Alvarez.\nO sector industrial tem sido alvo de desorganização e desarticulação crescente aumentando enormemente as dificuldades da pequena e média indústria privada em resultado da política de afrontamento do sector público e da retracção do mercado interno.\nOs trabalhadores têm defrontado o drama dos salários em atraso em empresas como a Termec, a Gomes Porto, a Lumel, a Aerobus, a Amadeu M.\nPereira e as fábricas Caravanas Mondego, a Olemar, a Barbosa e Ribeiro, a Argos, a Ideal, a Lakifa, a Ladricer, etc.\nA Argos, a Ideal, os Supermercados Colmeia e os Móveis Olaio receberam subsídios sob a capa da manutenção dos postos de trabalho sem conhecimento nem controle dos trabalhadores quanto à sua efectiva utilização, apesar de esse controle ser uma das condições sempre constante dos despachos de concessão.\nA Agfa - a empresa multinacional que nos últimos anos do fascismo beneficiou de facilidades várias -, nomeadamente no tocante à cedência de terrenos em troca de garantia de postos de trabalho, procedeu ao primeiro grande despedimento no primeiro governo de Mário Soares e agora a Reflecta (sua herdeira) colocou com contratos a prazo os 170 trabalhadores que conserva e outra empresa multinacional - a Centralfarma da Bayer - fez há poucos meses o despedimento colectivo de todos os trabalhadores que mantinha em Coimbra.\nA agricultura é votada à ruína e ao abandono com prejuízo para a região e a produção agrícola nacional. Acentua-se a quebra de produção motivada pelo aumento constante dos preços dos factores de produção e preços não compensadores dos produtos agrícolas.\nÉ ainda um outro sintoma de agravamemto a [...] de terrenos com grande aptidão agrícola, [...}] com a construção indiscriminada de \nhabilitações [...] industriais - como no caso da [...] quer com florestação inadequada, quer ainda [...] extracções de areia às portas de Coimbra.\nTodos estes anos de política de recuperação [...] lista conduziram, forçosamente, a um reforço da [...] dos trabalhadores.\nA esta política que há mais de 9 anos se abate [...] os trabalhadores tem sido dada uma resposta [...] inequívoca de luta. A luta dos trabalhadores de Coimbra em várias empresas, designadamente: pelo [...] de salários e subsídios em atraso como as [...], na Ideal, nos lanifícios Montes Claros, na [...] e na Atlantida Editora e contra os despedimentos e encerramentos de empresas como os casos da Agfa, da Gelmar, da Livraria Bertrand, Bayer, da EPAC.\nA luta dos trabalhadores do comércio no ano de 1984, dos trabalhadores dos serviços sociais da Universidade de Coimbra e a luta dos carteiros de Coimbra ilustram bem aquilo que vimos dizendo.\nEsta luta dos trabalhadores do distrito de Coimbra produziu os seus frutos: abrem-se hoje novas perspectivas para a democracia. Por isso os trabalhadores de Coimbra estão orgulhosos da sua contribuição para a alteração do quadro que conduziu ao agravamento das suas condições de vida e estão confiantes de que a alternativa democrática existe e será conseguida!", 
    "type": "deputado_continuacao"
   }, 
@@ -460,92 +403,74 @@
    "type": "aplauso"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Para interpelar o Sr. Deputado João Abrantes, estão inscritos os Srs. Deputados Cunha e Sá e Costa Andrade.\nTem a palavra o Sr. Deputado Cunha e Sá.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para interpelar o Sr. Deputado João Abrantes, estão inscritos os Srs. Deputados Cunha e Sá e Costa Andrade.\nTem a palavra o Sr. Deputado Cunha e Sá.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Cunha e Sá* (PS): Sr. Presidente, Srs. Deputados: Vou ser extremamente rápido porque há um camarada meu que vai fazer uma intervenção e não lhe quero tomar tempo.\nNão poderia deixar, entretanto, de referir aqui muito concretamente dois ou três aspectos.\nVou dar de barato determinados aspectos, abordando apenas aspectos específicos e concretos.\nReferiu o Sr. Deputado que a habitação em Coimbra não tem tido crescimento. Como é que o Sr. Deputado pode referir isso se é a única cidade do País onde a componente percentual da habitação é superior à das obras públicas? É a única cidade do País onde isso acontece.\nQuero referir, por outro lado, que Coimbra tem custos indirectos provenientes de ser um nó rodoviário, o que lhe provoca dificuldades nos aspectos das comunicações, bem como relativos à sua componente de transportes colectivos, possuindo estes 88 unidades que, pela baixa quilometragem a que são obrigados a circular, têm de estar \npermanentemente ao serviço. Bastava que a velocidade de circulação aumentasse para o dobro para essas unidades poderem ser reduzidas a metade.\nPor outro lado, quero referir ainda e por último que o seu partido referiu na Câmara Municipal de Coimbra perfeitamente o contrário daquilo que o Sr. Deputado disse no respeitante aos aspectos do planeamento urbanístico, da habitação, e designadamente das vias de acesso.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Cunha e Sá", 
+   "text": "Sr. Presidente, Srs. Deputados: Vou ser extremamente rápido porque há um camarada meu que vai fazer uma intervenção e não lhe quero tomar tempo.\nNão poderia deixar, entretanto, de referir aqui muito concretamente dois ou três aspectos.\nVou dar de barato determinados aspectos, abordando apenas aspectos específicos e concretos.\nReferiu o Sr. Deputado que a habitação em Coimbra não tem tido crescimento. Como é que o Sr. Deputado pode referir isso se é a única cidade do País onde a componente percentual da habitação é superior à das obras públicas? É a única cidade do País onde isso acontece.\nQuero referir, por outro lado, que Coimbra tem custos indirectos provenientes de ser um nó rodoviário, o que lhe provoca dificuldades nos aspectos das comunicações, bem como relativos à sua componente de transportes colectivos, possuindo estes 88 unidades que, pela baixa quilometragem a que são obrigados a circular, têm de estar \npermanentemente ao serviço. Bastava que a velocidade de circulação aumentasse para o dobro para essas unidades poderem ser reduzidas a metade.\nPor outro lado, quero referir ainda e por último que o seu partido referiu na Câmara Municipal de Coimbra perfeitamente o contrário daquilo que o Sr. Deputado disse no respeitante aos aspectos do planeamento urbanístico, da habitação, e designadamente das vias de acesso.\n5 JULHO DE 1985 3815", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "5 JULHO DE 1985 3815", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado João Abrantes, [...] responder imediatamente ou não?", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Sr. Deputado João Abrantes, [...] responder imediatamente ou não?", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "João Abrantes", 
+   "text": "Sr. Presidente, [...] evitar a intervenção do Sr. Deputado Cunha e Sá, [...] que efectivamente tenha muita consideração por [...] que gostaria de lhe responder, mas não posso [...] uma intervenção da minha camarada Odete [...] e como tal não posso usar do direito de [...] relativamente às questões que me foram colocadas.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *João Abrantes* (PCP): Sr. Presidente, [...] evitar a intervenção do Sr. Deputado Cunha e Sá, [...] que efectivamente tenha muita consideração por [...] que gostaria de lhe responder, mas não posso [...] uma intervenção da minha camarada Odete [...] e como tal não posso usar do direito de [...] relativamente às questões que me foram colocadas.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, se V. Ex.ª não [...] responder isso é consigo, mas por falta de tempo [...] não seja, porque a Mesa lhe dá 3 minutos para [...] sem prejudicar a sua camarada Odete Santos.", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Sr. Deputado, se V. Ex.ª não [...] responder isso é consigo, mas por falta de tempo [...] não seja, porque a Mesa lhe dá 3 minutos para [...] sem prejudicar a sua camarada Odete Santos.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "João Abrantes", 
+   "text": "Então, Sr. Presidente, com certeza que responderei.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *João Abrantes* (PCP): Então, Sr. Presidente, com certeza que responderei.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Costa Andrade.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Costa Andrade.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Costa Andrade", 
+   "text": "Sr. Deputado João [...], a sua intervenção caracterizou-se por uma [...] rigorosa e objectiva - admitamos - de [...] das carências mais significativas e dos problemas mais angustiantes com que se debate o concelho de Coimbra, que por vezes também são extensíveis a todo o distrito, algumas vezes mesmo a toda a Zona Centro do País.\nNão podemos naturalmente deixar de concordar com a descrição que fez, temos de a admitir como segura, pois dados são dados e não podemos obviamente deixar de comungar as suas preocupações e angústias como deputado do distrito.\nPorém, não podemos igualmente deixar de assinalar um dado importante, que é o de que algumas das carências se devem a um inequívoco falhanço da actual administração municipal.\nO actual executivo municipal ganhou as eleições na sequência de uma campanha verdadeiramente [...] que estava longe de poder ser concretizada e a prova, está à vista, pelo que não vale a pena enunciar um a um todos os grandes objectivos que foram propostos à cidade e ao concelho de Coimbra e que ficaram letra morta.\nNo entanto, para além de tudo isto não posso deixar de censurar na sua intervenção o carácter verdadeiramente negro, escuro, de que ela se revestiu. É verdade, que o concelho e a zona de Coimbra têm carências, todas essas que o Sr. Deputado enunciou e muitas mais ainda, mas penso que não seria justo para o povo de Coimbra, para as pessoas que em lugar de responsabilidade trabalham denodadamente ao serviço do concelho e da zona. Por exemplo, está-se a realizar em Coimbra nesta semana uma das manifestações mais expressivas da cidade e da zona - refiro-me concretamente à CIC - e não é justo que o Sr. Deputado não tenha feito uma referência que valesse, pelo menos, como um apoio moral aos empresários da Zona Centro, que ano após ano vêm realizando essa manifestação verdadeiramente grandiosa das actividades do distrito e da região.\nPenso que isso não devia ser esquecido, pelo menos, com uma palavra de estímulo, e igualmente julgo que Comunista não devia ter pruridos ideológicos, dado que a CIC longe de ser a feira do grande capitalismo monopolista é, pelo contrário, uma manifestação da capacidade de realização do empresário médio português, mesmo do pequeno empresário.\nOra, isso não pode deixar de ser referido.\nPenso que obras fundamentais não podem deixar de ser referidas - repito, que mais não seja como um estímulo moral às pessoas que têm essa possibilidade.\nJulgo que o trabalho que está a ser realizado, designadamente pela Comissão de Planeamento da Zona Centro, em colaboração com os municípios, é um trabalho verdadeiramente notável.\nPenso ainda que a resposta que as câmaras do distrito de Coimbra têm vindo a dar aos seus problemas é verdadeiramente ímpar no contexto em que se vive, quanto aos projectos que estão a ser apresentados e isto deve ser referido.\nPenso igualmente, neste momento em que esperamos para breve prazo a inauguração do novo hospital distrital, que tal não devia ser silenciado.\nEra fundamentalmente por isto, Sr. Deputado, que a sua intervenção peca.\nPenso que, neste momento, no fim da legislatura se trata sobretudo de fazer um balanço e que, de certa maneira, atribuir culpas a alguém seria injusto da sua e da nossa parte, como deputados e como representantes e sindicantes últimos, em nome da vontade do povo, daquilo que a administração vai fazendo, não ter, também, uma palavra de estímulo para os autarcas, para a administração regional e para os empresários da zona que tanto vêm fazendo, apesar de tudo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Costa Andrade* (PSD): Sr. Deputado João [...], a sua intervenção caracterizou-se por uma [...] rigorosa e objectiva - admitamos - de [...] das carências mais significativas e dos problemas mais angustiantes com que se debate o concelho de Coimbra, que por vezes também são extensíveis a todo o distrito, algumas vezes mesmo a toda a Zona Centro do País.\nNão podemos naturalmente deixar de concordar com a descrição que fez, temos de a admitir como segura, pois dados são dados e não podemos obviamente deixar de comungar as suas preocupações e angústias como deputado do distrito.\nPorém, não podemos igualmente deixar de assinalar um dado importante, que é o de que algumas das carências se devem a um inequívoco falhanço da actual administração municipal.\nO actual executivo municipal ganhou as eleições na sequência de uma campanha verdadeiramente [...] que estava longe de poder ser concretizada e a prova, está à vista, pelo que não vale a pena enunciar um a um todos os grandes objectivos que foram propostos à cidade e ao concelho de Coimbra e que ficaram letra morta.\nNo entanto, para além de tudo isto não posso deixar de censurar na sua intervenção o carácter verdadeiramente negro, escuro, de que ela se revestiu. É verdade, que o concelho e a zona de Coimbra têm carências, todas essas que o Sr. Deputado enunciou e muitas mais ainda, mas penso que não seria justo para o povo de Coimbra, para as pessoas que em lugar de responsabilidade trabalham denodadamente ao serviço do concelho e da zona. Por exemplo, está-se a realizar em Coimbra nesta semana uma das manifestações mais expressivas da cidade e da zona - refiro-me concretamente à CIC - e não é justo que o Sr. Deputado não tenha feito uma referência que valesse, pelo menos, como um apoio moral aos empresários da Zona Centro, que ano após ano vêm realizando essa manifestação verdadeiramente grandiosa das actividades do distrito e da região.\nPenso que isso não devia ser esquecido, pelo menos, com uma palavra de estímulo, e igualmente julgo que Comunista não devia ter pruridos ideológicos, dado que a CIC longe de ser a feira do grande capitalismo monopolista é, pelo contrário, uma manifestação da capacidade de realização do empresário médio português, mesmo do pequeno empresário.\nOra, isso não pode deixar de ser referido.\nPenso que obras fundamentais não podem deixar de ser referidas - repito, que mais não seja como um estímulo moral às pessoas que têm essa possibilidade.\nJulgo que o trabalho que está a ser realizado, designadamente pela Comissão de Planeamento da Zona Centro, em colaboração com os municípios, é um trabalho verdadeiramente notável.\nPenso ainda que a resposta que as câmaras do distrito de Coimbra têm vindo a dar aos seus problemas é verdadeiramente ímpar no contexto em que se vive, quanto aos projectos que estão a ser apresentados e isto deve ser referido.\nPenso igualmente, neste momento em que esperamos para breve prazo a inauguração do novo hospital distrital, que tal não devia ser silenciado.\nEra fundamentalmente por isto, Sr. Deputado, que a sua intervenção peca.\nPenso que, neste momento, no fim da legislatura se trata sobretudo de fazer um balanço e que, de certa maneira, atribuir culpas a alguém seria injusto da sua e da nossa parte, como deputados e como representantes e sindicantes últimos, em nome da vontade do povo, daquilo que a administração vai fazendo, não ter, também, uma palavra de estímulo para os autarcas, para a administração regional e para os empresários da zona que tanto vêm fazendo, apesar de tudo.", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem 3 minutos para responder, Sr. Deputado João Abrantes.", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem 3 minutos para responder, Sr. Deputado João Abrantes.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "João Abrantes", 
+   "text": "Sr. Presidente, procurarei aproveitar o tempo que a Mesa generosamente me ofereceu.\nComeçarei por responder ao Sr. Deputado Cunha e Sá dizendo-lhe o seguinte: aquilo que referiu relativamente à habitação, à construção civil e obras públicas não tem nada que ver com aquilo que eu disse.\nNão referi a componente «construção civil e obras públicas» no desenvolvimento da cidade de Coimbra, apontei apenas a redução de 23 %, entre 1981 e 1983, no número de fogos construídos e oferecidos como habitação e que esta percentagem corresponde exactamente à quebra na aquisição de casa própria. Por conseguinte, estas são coisas diferentes daquilo que o Sr. Deputado referiu.\nEm relação às questões do planeamento, não toquei nelas. Falei nas questões do trânsito mas, efectivamente, Sr. Deputado Cunha e Sá, numa intervenção deste tipo não poderia abordar todos os problemas. Aqueles que não abordei teve o Sr. Deputado Costa Andrade a ocasião de o fazer, o que fica registado, como certamente era seu interesse.\nEm relação às questões do trânsito, o Sr. Deputado sabe perfeitamente que tal não foi resolvido em Coimbra e que grande parte da culpa é imputável ao poder central, designadamente a falta de um sistema tarifário que permitisse, através da auto-estrada - por exemplo, pelo embaratecimento das portagens -, um maior escoamento e evitar o atravessamento da cidade de Coimbra por carros pesados.\n3816 I SÉRIE — NÚMERO 102", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *João Abrantes* (PCP): Sr. Presidente, procurarei aproveitar o tempo que a Mesa generosamente me ofereceu.\nComeçarei por responder ao Sr. Deputado Cunha e Sá dizendo-lhe o seguinte: aquilo que referiu relativamente à habitação, à construção civil e obras públicas não tem nada que ver com aquilo que eu disse.\nNão referi a componente «construção civil e obras públicas» no desenvolvimento da cidade de Coimbra, apontei apenas a redução de 23 %, entre 1981 e 1983, no número de fogos construídos e oferecidos como habitação e que esta percentagem corresponde exactamente à quebra na aquisição de casa própria. Por conseguinte, estas são coisas diferentes daquilo que o Sr. Deputado referiu.\nEm relação às questões do planeamento, não toquei nelas. Falei nas questões do trânsito mas, efectivamente, Sr. Deputado Cunha e Sá, numa intervenção deste tipo não poderia abordar todos os problemas. Aqueles que não abordei teve o Sr. Deputado Costa Andrade a ocasião de o fazer, o que fica registado, como certamente era seu interesse.\nEm relação às questões do trânsito, o Sr. Deputado sabe perfeitamente que tal não foi resolvido em Coimbra e que grande parte da culpa é imputável ao poder central, designadamente a falta de um sistema tarifário que permitisse, através da auto-estrada - por exemplo, pelo embaratecimento das portagens -, um maior escoamento e evitar o atravessamento da cidade de Coimbra por carros pesados.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "3816 I SÉRIE — NÚMERO 102", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "PCP", 
+   "speaker": "João Abrantes", 
    "text": "Por outro lado, a falta de construção de circulares e ainda os maus acessos feitos ao açude-ponte recentemente aberto à circulação contribuem para engarrafamentos monumentais.\nQuanto ao Sr. Deputado Costa Andrade registo que V. Ex.ª queria, de facto, deixar aqui especificadas algumas das questões que não referi e desejava falar no inequívoco falhanço da política municipal — digamos que é uma dor que ficou ao PSD, pelo facto de ter «perdido» a Câmara Municipal de Coimbra. Mas pareceu que, ao querer afastar-se um pouco das responsabilidades que lhe cabem, procurou esquecer que o atraso de Coimbra não é apenas relativo as questões do poder local, nem às questões municipais.\nO PSD tem responsabilidades no poder central e isso tem-se reflectido efectivamente no atraso de Coimbra.\nO tom negro com que o Sr. Deputado nos acusa de termos «pintado» na nossa intervenção termina —e talvez V. Ex.ª não tenha ouvido— com uma palavra de esperança, porque efectivamente os trabalhadores têm esperança, acreditam que se abriram novas perspectivas na democracia portuguesa e certamente iremos conseguir para Coimbra que essas perspectivas não saiam defraudadas.\nPor último, queria dizer que, efectivamente, não poderia falar em todas as questões. O Sr. Deputado falou na CIC e compreenderá que não temos quaisquer pruridos ideológicos em relação a esta importante \nmanifestação económica. De facto, ela merece uma palavra de apoio, mas não havia tempo para o fazer, pelo que ela fica aqui.\nV. Ex.ª falou na questão do hospital, creio que, também, para referir mais uma questão que eu tinha es-quecidp. Ora, isso não é verdade, pois na verdade, o que aconteceu foi que não tive tempo para a abordar.\nFalou na sua inauguração, mas cremos que, também, aí errou um pouco porque as responsabilidades do atraso da inauguração do Hospital Central de Coimbra cabem em grande parte ao PSD e, como sabe, ainda se desconhece qual é a data da sua. inauguração.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "PCP", 
+   "speaker": "João Abrantes", 
    "text": "O Sr. *Cunha e Sá* (PS): Peço a palavra, Sr. Presidente.", 
    "type": "deputado_continuacao"
   }, 
@@ -613,53 +538,54 @@
    "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Joel Ferro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "Joel Ferro", 
+   "text": "Sr. Presidente, Srs. Deputados: Com os seus 110 000 habitantes, e 292 km2 de [...] Barcelos tem 89 freguesias, o que lhe dá o 1.° lugar entre os maiores concelhos do País.\ndelimitado por 8 concelhos, sendo 2 do distrito de do Castelo, 5 do distrito de Braga e l do distrito do Porto, este concelho está situado bem no coração do Minho e é atravessado pelos rios Cávado e [...].\nBarcelos tem 39,6 % da sua população activa, vivendo do sector primário, 39,4 % do sector secundário sendo 21 % do sector terciário.\nComeçando pelo primeiro dos sectores referidos, este concelho é «só» o maior produtor de vinho da Região Demarcada de VinhOs Verdes e o maior produtor de leite do País. Apesar disso a população que trabalha no campo está envelhecida (basta referir, a título de exemplo, que só 30 % dos podadores agrícolas têm menos de 45 anos), a propriedade está demasiado dividida (51,6 % das explorações agrícolas têm entre 0,5 há a 2 há).\nAs soluções que apresentamos para este sector, importantíssimo para o desenvolvimento de Barcelos, são os seguintes: \nUma maior e melhor informação e formação dos agricultores, apoiadas no ramo agrícola do ensino técnico-profissional, cuja urgente criação se torna necessária. Só assim poderemos ter no futuro jovens empresários agrícolas que possam dar o incremento necessário ao arranque do emparcelamento no concelho, baseado no cooperativismo.\nMas para isso é necessário que os técnicos agrícolas deixem de vez os gabinetes e venham para o campo.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
    "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Joel Ferro.", 
+   "text": "Precisamos, além disso, de crédito agrícola \ndesburocratizado e da implementação de indústrias transformadoras baseadas nos recursos naturais do \nconcelho.", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "speaker": "PS", 
+   "text": "Muito bem!", 
    "type": "deputado_continuacao"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Joel Ferro* (PS): Sr. Presidente, Srs. Deputados: Com os seus 110 000 habitantes, e 292 km2 de [...] Barcelos tem 89 freguesias, o que lhe dá o 1.° lugar entre os maiores concelhos do País.\ndelimitado por 8 concelhos, sendo 2 do distrito de do Castelo, 5 do distrito de Braga e l do distrito do Porto, este concelho está situado bem no coração do Minho e é atravessado pelos rios Cávado e [...].\nBarcelos tem 39,6 % da sua população activa, vivendo do sector primário, 39,4 % do sector secundário sendo 21 % do sector terciário.\nComeçando pelo primeiro dos sectores referidos, este concelho é «só» o maior produtor de vinho da Região Demarcada de VinhOs Verdes e o maior produtor de leite do País. Apesar disso a população que trabalha no campo está envelhecida (basta referir, a título de exemplo, que só 30 % dos podadores agrícolas têm menos de 45 anos), a propriedade está demasiado dividida (51,6 % das explorações agrícolas têm entre 0,5 há a 2 há).\nAs soluções que apresentamos para este sector, importantíssimo para o desenvolvimento de Barcelos, são os seguintes: \nUma maior e melhor informação e formação dos agricultores, apoiadas no ramo agrícola do ensino técnico-profissional, cuja urgente criação se torna necessária. Só assim poderemos ter no futuro jovens empresários agrícolas que possam dar o incremento necessário ao arranque do emparcelamento no concelho, baseado no cooperativismo.\nMas para isso é necessário que os técnicos agrícolas deixem de vez os gabinetes e venham para o campo.", 
+   "text": "Quanto ao sector secundário, que ocupa 15 725 pessoas, e responde por cerca de 80 % do valor acrescentado bruto de Barcelos, engloba dentro dele o maior centro malheiro do País! \nEste sector, com a entrada de Portugal na CEE, tem de passar por uma fase urgente de modernização e pela implementação de indústrias alternativas.\nMas para a verificação dos pressupostos referidos é necessário o arranque do loteamento industrial, infra-estrutura para a qual já existe terreno.\nNão devemos esquecer, porém, que a actual bolsa industrial coexiste, em Barcelos, com o atrofiamento do sector terciário. Sector que tem de registar um grande incremento, principalmente na comercialização dos produtos de artesanato.\nBarcelos é, não o esqueçamos Srs. Deputados, o centro de artesanato da Europa. Os produtos de olaria e outros objectos de barro, com os seus artesãos, têm percorrido o mundo, como grandes embaixadores deste País.\nQuem não conhece o «Galo de Barcelos» e «O Cristo» da Rosa Ramalho? \nPrecisamos no entanto de preservar estes e outros valores e por isso se torna urgente, no concelho, a criação do museu de olaria.\nNa área do turismo necessitamos de um parque de campismo junto ao rio Cávado, rio algo poluído, com a sua fauna em desaparecimento e com a existência de poços nas zonas antigas e actuais de extracção de areia, descaradas agressões que tem merecido da parte do governador civil de Braga um combate de extraordinário vigor, com uma compreensão e receptividade a estes problemas, dignas dos maiores encómios.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: Precisamos, além disso, de crédito agrícola \ndesburocratizado e da implementação de indústrias transformadoras baseadas nos recursos naturais do \nconcelho.", 
+   "text": "Sr. Presidente, Srs. Deputados: Com este «peso» nacional, nos sectores que acabei de referir, Barcelos apresenta uma ponte caduca, que ameaça ruína, onde se tem verificado elevado índice de acidentes, ponte que é essencial para o escoamento dos produtos do concelho.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "PS: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: Quanto ao sector secundário, que ocupa 15 725 pessoas, e responde por cerca de 80 % do valor acrescentado bruto de Barcelos, engloba dentro dele o maior centro malheiro do País! \nEste sector, com a entrada de Portugal na CEE, tem de passar por uma fase urgente de modernização e pela implementação de indústrias alternativas.\nMas para a verificação dos pressupostos referidos é necessário o arranque do loteamento industrial, infra-estrutura para a qual já existe terreno.\nNão devemos esquecer, porém, que a actual bolsa industrial coexiste, em Barcelos, com o atrofiamento do sector terciário. Sector que tem de registar um grande incremento, principalmente na comercialização dos produtos de artesanato.\nBarcelos é, não o esqueçamos Srs. Deputados, o centro de artesanato da Europa. Os produtos de olaria e outros objectos de barro, com os seus artesãos, têm percorrido o mundo, como grandes embaixadores deste País.\nQuem não conhece o «Galo de Barcelos» e «O Cristo» da Rosa Ramalho? \nPrecisamos no entanto de preservar estes e outros valores e por isso se torna urgente, no concelho, a criação do museu de olaria.\nNa área do turismo necessitamos de um parque de campismo junto ao rio Cávado, rio algo poluído, com a sua fauna em desaparecimento e com a existência de poços nas zonas antigas e actuais de extracção de areia, descaradas agressões que tem merecido da parte do governador civil de Braga um combate de extraordinário vigor, com uma compreensão e receptividade a estes problemas, dignas dos maiores encómios.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: Sr. Presidente, Srs. Deputados: Com este «peso» nacional, nos sectores que acabei de referir, Barcelos apresenta uma ponte caduca, que ameaça ruína, onde se tem verificado elevado índice de acidentes, ponte que é essencial para o escoamento dos produtos do concelho.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: Felizmente para o povo trabalhador de Barcelos este problema vai ficar finalmente ultrapassado, graças ao empenhamento decisivo do ex-Ministro do Equipamento Social, arquitecto Rosado Correia, que incluiu as verbas necessárias em plano.\nNo referente a vias de comunicação é necessário que o traçado natural da auto-estrada Porto-Famalicão-Braga, tenha o seu nó terminal na estrada nacional n.° 103, entre as freguesias de Encourados e Martim, pois, só assim, se justifica a alternativa que representa o porto de Viana do Castelo, ao escoamento dos produtos do supercongestionado porto de Leixões.\nNecessitamos, por último, de beneficiação da estrada nacional n.° 204 entre Barcelos e Vila Nova de Famalicão, e do lançamento da central de camionagem de Barcelos.\nSr. Presidente, Srs. Deputados: Trouxe a esta Assembleia alguns dos problemas que mais afligem os habitantes de um dos mais importantes concelhos do distrito de Braga. Concelho que dado o seu potencial agrícola e industrial, deve merecer o apoio e carinho dos responsáveis do governo central, pois com a resolução destes assuntos, estamos a resolver os problemas de um Portugal que viu abrirem-se-lhe novas perspectivas com a sua recente entrada na CEE.\nNão desiludamos, pois, as esperanças das gentes de Barcelos.", 
+   "text": "Felizmente para o povo trabalhador de Barcelos este problema vai ficar finalmente ultrapassado, graças ao empenhamento decisivo do ex-Ministro do Equipamento Social, arquitecto Rosado Correia, que incluiu as verbas necessárias em plano.\nNo referente a vias de comunicação é necessário que o traçado natural da auto-estrada Porto-Famalicão-Braga, tenha o seu nó terminal na estrada nacional n.° 103, entre as freguesias de Encourados e Martim, pois, só assim, se justifica a alternativa que representa o porto de Viana do Castelo, ao escoamento dos produtos do supercongestionado porto de Leixões.\nNecessitamos, por último, de beneficiação da estrada nacional n.° 204 entre Barcelos e Vila Nova de Famalicão, e do lançamento da central de camionagem de Barcelos.\nSr. Presidente, Srs. Deputados: Trouxe a esta Assembleia alguns dos problemas que mais afligem os habitantes de um dos mais importantes concelhos do distrito de Braga. Concelho que dado o seu potencial agrícola e industrial, deve merecer o apoio e carinho dos responsáveis do governo central, pois com a resolução destes assuntos, estamos a resolver os problemas de um Portugal que viu abrirem-se-lhe novas perspectivas com a sua recente entrada na CEE.\nNão desiludamos, pois, as esperanças das gentes de Barcelos.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -667,189 +593,179 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, faltam 6 minutos para o termo dos nossos trabalhos regimentais e temos ainda inscritos, para produzirem intervenções a Sr.ª Deputada Odete Santos c o Sr. Deputado Neiva Correia.\nSugeria que tentássemos fazer um esforço para acabar este período de antes da ordem do dia ainda antes da hora de almoço. Assim, se não houver inconveniente, prolongaremos os nossos trabalhos por 5, 10 minutos. Espero que VV. Exas. o compreendam e aceitem.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, faltam 6 minutos para o termo dos nossos trabalhos regimentais e temos ainda inscritos, para produzirem intervenções a Sr.ª Deputada Odete Santos c o Sr. Deputado Neiva Correia.\nSugeria que tentássemos fazer um esforço para acabar este período de antes da ordem do dia ainda antes da hora de almoço. Assim, se não houver inconveniente, prolongaremos os nossos trabalhos por 5, 10 minutos. Espero que VV. Exas. o compreendam e aceitem.\n3818 I SÉRIE - NÚMERO 102.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "3818 I SÉRIE - NÚMERO 102.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
+   "speaker": "Presidente", 
    "text": "O tempo que a Sr.ª Deputada Odete Santos vai agora gastar na sua intervenção foi cedido pelo MDP/CDE (3 minutos) e pela UEDS (2 minutos). Deste modo, para uma intervenção, tem a palavra a Sr.ª Deputada Odete Santos.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "A Sr.ª Odete Santos (PCP): Sr. Presidente, Srs. Deputados: Terminados que estão os 10 anos da Década da Mulher, decretada pela ONU, vai realizar-se dentro de poucos dias em Nairobi a conferência da Organização das Nações Unidas para fazer o balanço da Década da Mulher.\nAs organizações não governamentais que funcionam junto da Comissão da Condição Feminina tiveram ocasião, no sábado passado, em seminário, de apontarem os traços positivos que nos vêm praticamente todos do 25 de Abril e o balanço negativo que resultou, principalmente a partir de meados desta década, da política dos governos que, sendo uma política contra o desenvolvimento, necessariamente teria de ser uma política contra os direitos das mulheres. Isto se nos lembrarmos que \nprecisamente um dos lemas desta década é desenvolvimento.\nOra, as organizações não governamentais constataram aquilo que consideraram um autêntico escândalo. É que existindo um organismo governamental chamado Comissão da Condição Feminina, verificámos que neste momento não está ainda assegurado a qualquer dos elementos dessa Comissão a ida a essa conferência para apresentarem as conclusões desse seminário, ou seja, aquilo que as mulheres em conjunto reflectiram.\nSabemos que, na verdade e há sinais disso, alguma coisa tem este Governo contra essa Comissão e contra a Comissão de Igualdade para o Trabalho e Emprego. E é só atentarmos nas pessoas que se encontram demissionárias, nomeadamente a presidente da Comissão da Condição Feminina, Dra. Joana de Barros.\nDe facto, toda a actividade destas duas Comissões se tem orientado na defesa efectiva dos direitos das mulheres e é só lermos o abundante material que a Comissão da Condição Feminina tem produzido sobre temas vários como a publicidade no que toca às mulheres - que é uma autêntica vergonha neste País - , como a violência sobre as mulheres, como o que se passa em relação aos níveis de emprego relativamente às mulheres. É só atentarmos naquilo que a Comissão de Igualdade para o Trabalho e Emprego tem realizado até agora, emitindo alguns pareceres e denunciado algumas das discriminações a nível de emprego e a não aplicação do Decreto-Lei n.° 392/79.\nUma interrogação que se coloca é: porque é que este Governo procede assim? Por que é que não assegura as verbas necessárias para a ida de representantes dessa comissão a Nairobi? Porque é que esta Assembleia não aprovou uma proposta que tinha sido aprovada por unanimidade na Comissão Parlamentar da Condição Feminina no sentido de se reforçar no Orçamento do Estado a verba destinada à Comissão da Condição Feminina governamental? \nCreio que estas interrogações são de fácil resposta. Realmente este Governo, estando apenas ele representado em Nairobi, com exclusão dessa comissão, com certeza irá levar na mala as reformas legislativas que radicam no 25 de Abril e então a sua imagem poderá ser positiva.\nNa verdade, este Governo não quer que se saiba lá fora que a nível de emprego de mulheres, elas constituem neste momento 62,4 % dos desempregados, o nível de salário médio das mulheres neste País inferior em cerca de 30 % ao salário dos homens.\nEste Governo não quer que se saiba que frontalmente violou a directiva da ONU constante do programa.\nDécada da Mulher que referia que «os governos» viam implementar reformas agrárias para [...] trabalho das mulheres rurais».\nNo nosso País o que se passa é o que vemos que ficou bem patente na manifestação que 1200 metros da área da Reforma Agrária fizeram em Lisboa ciando o desemprego e a repressão de que foram vítimas.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, Srs. Deputados: Terminados que estão os 10 anos da Década da Mulher, decretada pela ONU, vai realizar-se dentro de poucos dias em Nairobi a conferência da Organização das Nações Unidas para fazer o balanço da Década da Mulher.\nAs organizações não governamentais que funcionam junto da Comissão da Condição Feminina tiveram ocasião, no sábado passado, em seminário, de apontarem os traços positivos que nos vêm praticamente todos do 25 de Abril e o balanço negativo que resultou, principalmente a partir de meados desta década, da política dos governos que, sendo uma política contra o desenvolvimento, necessariamente teria de ser uma política contra os direitos das mulheres. Isto se nos lembrarmos que \nprecisamente um dos lemas desta década é desenvolvimento.\nOra, as organizações não governamentais constataram aquilo que consideraram um autêntico escândalo. É que existindo um organismo governamental chamado Comissão da Condição Feminina, verificámos que neste momento não está ainda assegurado a qualquer dos elementos dessa Comissão a ida a essa conferência para apresentarem as conclusões desse seminário, ou seja, aquilo que as mulheres em conjunto reflectiram.\nSabemos que, na verdade e há sinais disso, alguma coisa tem este Governo contra essa Comissão e contra a Comissão de Igualdade para o Trabalho e Emprego. E é só atentarmos nas pessoas que se encontram demissionárias, nomeadamente a presidente da Comissão da Condição Feminina, Dra. Joana de Barros.\nDe facto, toda a actividade destas duas Comissões se tem orientado na defesa efectiva dos direitos das mulheres e é só lermos o abundante material que a Comissão da Condição Feminina tem produzido sobre temas vários como a publicidade no que toca às mulheres - que é uma autêntica vergonha neste País - , como a violência sobre as mulheres, como o que se passa em relação aos níveis de emprego relativamente às mulheres. É só atentarmos naquilo que a Comissão de Igualdade para o Trabalho e Emprego tem realizado até agora, emitindo alguns pareceres e denunciado algumas das discriminações a nível de emprego e a não aplicação do Decreto-Lei n.° 392/79.\nUma interrogação que se coloca é: porque é que este Governo procede assim? Por que é que não assegura as verbas necessárias para a ida de representantes dessa comissão a Nairobi? Porque é que esta Assembleia não aprovou uma proposta que tinha sido aprovada por unanimidade na Comissão Parlamentar da Condição Feminina no sentido de se reforçar no Orçamento do Estado a verba destinada à Comissão da Condição Feminina governamental? \nCreio que estas interrogações são de fácil resposta. Realmente este Governo, estando apenas ele representado em Nairobi, com exclusão dessa comissão, com certeza irá levar na mala as reformas legislativas que radicam no 25 de Abril e então a sua imagem poderá ser positiva.\nNa verdade, este Governo não quer que se saiba lá fora que a nível de emprego de mulheres, elas constituem neste momento 62,4 % dos desempregados, o nível de salário médio das mulheres neste País inferior em cerca de 30 % ao salário dos homens.\nEste Governo não quer que se saiba que frontalmente violou a directiva da ONU constante do programa.\nDécada da Mulher que referia que «os governos» viam implementar reformas agrárias para [...] trabalho das mulheres rurais».\nNo nosso País o que se passa é o que vemos que ficou bem patente na manifestação que 1200 metros da área da Reforma Agrária fizeram em Lisboa ciando o desemprego e a repressão de que foram vítimas.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Aplausos do PCP e do MDP/CDE e do independente António Gonzalez.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "A Oradora: É por tudo isto que consideramos maior utilidade a ida a Nairobi de elementos da comissão da Condição Feminina, é por toda esta discriminação que juntamos aqui o nosso protesto, isso o protesto do Grupo Parlamentar do Partido Comunista e em especial das mulheres comunistas, do que juntamos, também, o protesto contra toda a política de direita que se tem desenvolvido desde 1976 e que se tem cifrado em ataques aos direitos das mulheres. É isto que não pode ser escamoteado, é isto que a nível internacional se tem de ouvir.", 
-   "type": "deputado_continuacao"
+   "speaker": "A Oradora", 
+   "text": "É por tudo isto que consideramos maior utilidade a ida a Nairobi de elementos da comissão da Condição Feminina, é por toda esta discriminação que juntamos aqui o nosso protesto, isso o protesto do Grupo Parlamentar do Partido Comunista e em especial das mulheres comunistas, do que juntamos, também, o protesto contra toda a política de direita que se tem desenvolvido desde 1976 e que se tem cifrado em ataques aos direitos das mulheres. É isto que não pode ser escamoteado, é isto que a nível internacional se tem de ouvir.", 
+   "type": "continuacao"
   }, 
   {
    "text": "Aplausos do PCP e do MDP/CDE.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "A Sr.ª Helena Valente Rosa (PS): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Sr.ª Deputada Helena Valente Rosa, o PS não tem tempo e o PCP não só já não tem tempo como já lhe foram concedidos alguns minutos mais. Consequentemente há uma impossibilidade material para V. Exa. usar da palavra.\nPara uma intervenção, tem a palavra o Sr. Deputado Neiva Correia.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr.ª Deputada Helena Valente Rosa, o PS não tem tempo e o PCP não só já não tem tempo como já lhe foram concedidos alguns minutos mais. Consequentemente há uma impossibilidade material para V. Exa. usar da palavra.\nPara uma intervenção, tem a palavra o Sr. Deputado Neiva Correia.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Neiva Correia* (CDS): Sr. Presidente. Srs. Deputados: Desejava hoje trazer aqui algumas questões relacionadas com a adaptação da nossa vinicultura à CEE.\nQueria, desde já, deixar claro que assumo a decisão de adesão à CEE com realismo e pragmatismo no curto prazo, com muito idealismo no longo prazo.\nMas, efectivamente, no curto prazo temos de ser pragmáticos e realistas, sobretudo no que diz respeita à vinicultura que é uma área crítica. A sua adaptação carece de especiais cuidados.\nDe facto, entre os produtos agrícolas, a vinicultura tem uma situação excepcional, porque lhe corresponde, simultaneamente, um excesso de produção cíclico em Portugal e um excesso de produção crónica na CEE.\nPor outro lado, por razões de clima, relevo e solos a vinicultura tem um grande peso na nossa agricultura quer ao nível do País, quer ao nível do distrito de Lisboa, que me compete aqui defender.\nNa realidade, a área rural do distrito de Lisboa tem verdadeiras alternativas nas zonas de encosta, mas tem, como disse, por razões de clima, relevo e solo uma clara vocação vinícola.\nEsta situação é claramente contemplada pelos regulamentos vitivinícolas da CEE e pelo Tratado de Ade-", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Neiva Correia", 
+   "text": "Sr. Presidente. Srs. Deputados: Desejava hoje trazer aqui algumas questões relacionadas com a adaptação da nossa vinicultura à CEE.\nQueria, desde já, deixar claro que assumo a decisão de adesão à CEE com realismo e pragmatismo no curto prazo, com muito idealismo no longo prazo.\nMas, efectivamente, no curto prazo temos de ser pragmáticos e realistas, sobretudo no que diz respeita à vinicultura que é uma área crítica. A sua adaptação carece de especiais cuidados.\nDe facto, entre os produtos agrícolas, a vinicultura tem uma situação excepcional, porque lhe corresponde, simultaneamente, um excesso de produção cíclico em Portugal e um excesso de produção crónica na CEE.\nPor outro lado, por razões de clima, relevo e solos a vinicultura tem um grande peso na nossa agricultura quer ao nível do País, quer ao nível do distrito de Lisboa, que me compete aqui defender.\nNa realidade, a área rural do distrito de Lisboa tem verdadeiras alternativas nas zonas de encosta, mas tem, como disse, por razões de clima, relevo e solo uma clara vocação vinícola.\nEsta situação é claramente contemplada pelos regulamentos vitivinícolas da CEE e pelo Tratado de Ade-", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
+   "party": "CDS", 
+   "speaker": "Neiva Correia", 
    "text": "5 DE JULHO DE 1985 3819", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
+   "party": "CDS", 
+   "speaker": "Neiva Correia", 
    "text": "contemplam os conceitos de zonas de [...] agrícola e de zonas de encosta, sobretudo no [...] a novas plantações e transferências.\nMas é necessário realismo e pragmatismo. É necessário que o Governo e os serviços oficiais tomem as [...] e pratiquem os actos que lhes cabem e que [...] \nadequados à correcta adaptação deste sector à [...] para a CEE.\nVejamos, no entanto, o que se passa. Em primeiro lugar quanto a demarcações. Em Espanha, dois terços da sua produção está coberta pelo conceito de «vinhos com denominação de origem», que pelo Tratado de Adesão foram equiparados aos V.Q.P.R.D., ou seja aos vinhos de qualidade produzidos em regiões determinadas.\nEm Portugal, necessitamos de ter um entendimento político e realista sobre a questão e não uma posição crítica. Contudo, em reunião realizada, em 27 de Maio em Santarém, com os elementos da comissão nomeada pelo Ministro da Agricultura, para a qual o convite aos deputados proponentes da criação de regiões demarcadas foi feito por ofício chegado à Comissão de Agricultura, na própria segunda-feira em que se realizava, em Santarém, essa reunião, na qual estive presente por ter tido conhecimento através de um dos produtores convidados, dizia eu, os elementos da comissão encarregada de promover a criação de regiões demarcadas mostraram uma atitude muito ambígua, muito restritiva, sobretudo enunciando exigências técnicas imediatas para a criação de novas regiões demarcadas, quando encontram razão ilógica para uma adaptação progressiva nas regiões demarcadas já existentes.\nIsto levou-me a emitir o meu protesto formal a que se considere que regiões demarcadas, criadas agora, tenham de nascer «qual Minerva» já completamente armada de elmo, escudo e lança, mas que às regiões demarcadas já existentes seja dado um período gradual para se adaptarem às condições técnicas que todos consideramos que devem ser atingidas como meta, mas não como barreira inicial.\nA outra questão que implica um grave perigo, se não for corrigida, é a situação da incidência do imposto sobre o valor acrescentado.\nO CDS, como é sabido, propôs por um lado, a suspensão da entrada em vigor do referido imposto e, por outro lado, propôs alterações nas listas, nomeadamente que o vinho constasse na lista I, ou seja, nos produtos com taxa zero.\nIsso justifica-se, plenamente, porque é um produto agrícola com uma situação extremamente crítica, como disse atrás, de excessos cíclicos de produção em Portugal e excessos crónicos de produção na CEE.\nSe o IVA for aplicado ao vinho com a taxa de 8%, como consta neste momento, na lista II serão os agricultores, porque dentro de todo o seu circuito, aqueles que terão de suportar, não por imposição legal, mas Por efeitos da lei da oferta e da procura, a taxa de 8 % e não sobre o seu valor de venda mas sobre o valor que o produto tem quando chega ao consumidor, ou seja, terão de deprimir os seus preços para se poder escoar a mesma quantidade de uma importância equivalente praticamente à imposição do IVA em todos os níveis da comercialização desse produto, da garrafa, da rolha, do rótulo, das despesas de engarrafamento e das margens comerciais.\nÉ isso que a nossa agricultura não pode suportar. A vinicultura portuguesa não pode suportar que sobre ela recaia uma redução dessas por efeito da necessidade de escoar a sua produção, visto que todos os intervenientes comprarão só aquilo que podem vender, mas os produtores têm de vender aquilo que produziram.\nPortanto, a sua posição é extremamente rígida e inelástica e serão eles que terão, em última análise, de suportar um abaixamento do preço do seu produto, que corresponde na prática à totalidade do IVA, não sobre o preço à saída da sua adega, mas sobre o preço com todas as transformações até chegar ao consumidor.\nIsso representa, na prática, muito mais do que 8% sobre o preço de venda do agricultor. Será qualquer coisa próxima de 20% a 25% desse preço.\nÉ por isso que aqui deixamos mais uma vez a nossa exigência de que esse ponto seja revisto e seja cumprido aquilo que vem sendo prometido mas que os factos até agora desmentiram.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS e de alguns deputados do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Vasco Miguel* (PSD): Peço a palavra, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Vasco Miguel", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: V. Exa. pediu a palavra, mas informo-o de que não dispõe de tempo. O seu partido não tem qualquer tempo disponível.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "V. Exa. pediu a palavra, mas informo-o de que não dispõe de tempo. O seu partido não tem qualquer tempo disponível.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Vasco Miguel* (PSD): Sr. Presidente, tinha realmente \nconhecimento de que não tinha tempo. Desejava, contudo, ficar inscrito para o próximo período de antes da ordem do dia a fim de pedir esclarecimentos ao Sr. Deputado Neiva Correia.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Vasco Miguel", 
+   "text": "Sr. Presidente, tinha realmente conhecimento de que não tinha tempo. Desejava, contudo, ficar inscrito para o próximo período de antes da ordem do dia a fim de pedir esclarecimentos ao Sr. Deputado Neiva Correia.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Com certeza, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Com certeza, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *João Amaral* (PCP): Fica já para Novembro! \nO Orador: Contudo, poderia adiantar a interpelação, se o Sr.Presidente me permitisse...", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Fica já para Novembro! \nO Orador: — Contudo, poderia adiantar a interpelação, se o Sr.Presidente me permitisse...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Sr. Deputado, não faça isso.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, não faça isso.\nSrs. Deputados, vamos fazer agora o intervalo para almoço e \nrecomeçaremos os nossos trabalhos às 15 horas e 15 minutos.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "Srs. Deputados, vamos fazer agora o intervalo para almoço e \nrecomeçaremos os nossos trabalhos às 15 horas e 15 minutos.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
+   "speaker": "Presidente", 
    "text": "Está suspensa a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 13 horas e 15 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, está reaberta a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 15 horas e 35 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, o primeiro ponto da ordem do dia diz respeito à votação de várias propostas da Comissão de Regimento e Mandatos relativos à suspensão de mandato de alguns Srs. Deputados para efeitos de apresentação em juízo.\nTodos os pareceres da Comissão de Regimento e Mandatos foram aprovados por unanimidade em Comissão e todos eles entendem que o mandato dos Srs. Deputados não deve ser suspenso. Ora se VV. Exas. assim o entenderem, poderemos dispensar a leitura dos pareceres, uma vez que todos eles concluem da mesma forma, ou seja, pela não suspensão dos mandatos dos Srs. Deputados.\nComo é óbvio, os Srs. Deputados que concordam com estas conclusões votarão «sim» no boletim de", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o primeiro ponto da ordem do dia diz respeito à votação de várias propostas da Comissão de Regimento e Mandatos relativos à suspensão de mandato de alguns Srs. Deputados para efeitos de apresentação em juízo.\nTodos os pareceres da Comissão de Regimento e Mandatos foram aprovados por unanimidade em Comissão e todos eles entendem que o mandato dos Srs. Deputados não deve ser suspenso. Ora se VV. Exas. assim o entenderem, poderemos dispensar a leitura dos pareceres, uma vez que todos eles concluem da mesma forma, ou seja, pela não suspensão dos mandatos dos Srs. Deputados.\nComo é óbvio, os Srs. Deputados que concordam com estas conclusões votarão «sim» no boletim de 3820 I SÉRIE - NÚMERO 102", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "3820 I SÉRIE - NÚMERO 102", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
+   "speaker": "Presidente", 
    "text": "voto; quem não concordar votará «não» ou «abstenção». Portanto, o voto é sobre o parecer da Comissão, cuja síntese me permiti fazer.\nUm pouco ao contrário do que é hábito, sugiro que procedamos de imediato à votação para depois continuarmos com a ordem de trabalhos, estipulada para hoje, porque me parece extremamente desagradável estar um Sr. Deputado no uso da palavra e outros Srs. Deputados a votarem ao mesmo tempo. Creio que isso não dignifica a Câmara nem a importância dos temas que estão em debate nesta Casa.\nNesse sentido, peço aos Srs. Deputados Jorge Patrício e Armando Vara que sejam escrutinadores e declaro abertas as urnas para proceder à votação, de acordo com o que já indiquei. Como lhe compete, a Mesa irá votar em primeiro lugar.\nDeu-se inicio à votação.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a urna continuará aberta até às 17 horas e 30 minutos para que os Srs. Deputados que ainda não tenham exercido o seu dever de voto o possam fazer.\nVamos continuar com a discussão das propostas de resolução n.ºs 21/III, 22/III e 23/III e do projecto de lei n.° 502/III, apresentados pelo PCP.\nPara uma intervenção, tem a palavra o Sr. Deputado Adriano Moreira.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "CDS", 
+   "speaker": "Adriano Moreira", 
+   "text": "Sr. Presidente, Srs. Deputados: \nDesejaríamos, por brevidade, começar por enumerar alguns pontos que nos parecem salientes no que respeita aos textos em discussão.\nPrimeiro, que o aviso publicado no Diário do Governo, 1.ª série, de 20 de Junho de 1952, sobre o Acordo de Defesa entre Portugal e os Estados Unidos da América, claramente afirma que este decorre da doutrina e deveres emergentes dos artigos 3.° e 5.° do Tratado do Atlântico Norte.\nDepois, que a estratégia da NATO evolui de acordo com as alterações detectadas na conjuntura grave, que temos vivido, e que hoje admite a responsabilidade por questões fora da Zona, pelo que os riscos não podem ser avaliados em relação aos factos de 1949, e constantemente mudam em vista, entre outras razões, da evolução técnica. Ainda, que a maior parte dos Estados, que não são agressivos, como ê o nosso caso, estão constragidos por um sistema mundial de poderes, que os obriga a participar em riscos que outros causam.\nJá nos aconteceu algumas vezes, como nas invasões francesas aqui citadas na Assembleia, como na última guerra mundial, em que a nossa neutralidade não foi respeitada pêlos próprios aliados em Timor, e a cedência de facilidades nos Açores foi uma construção hábil da neutralidade, chamada colaborante, e só possível pelo consentimento interessado de ambas as partes em conflito. À medida em que a situação estratégica alarga mundialmente, o seu teatro possível de operações, a capacidade de Portugal diminuiu drasticamente, não apenas segundo o critério da relação das forças materiais, mas receio que também da credibilidade e decisão, em vista da cultivada instabilidade governativa, que nesta data nos coloca a discutir tratados fundamentais com o país politicamente adiado.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, a urna continuará aberta até às 17 horas e 30 minutos para que os Srs. Deputados que ainda não tenham exercido o seu dever de voto o possam fazer.\nVamos continuar com a discussão das propostas de resolução n.ºs 21/III, 22/III e 23/III e do projecto de lei n.° 502/III, apresentados pelo PCP.\nPara uma intervenção, tem a palavra o Sr. Deputado Adriano Moreira.", 
-   "type": "deputado_continuacao"
+   "text": "A presença de forças aliadas nos territórios dos outros aliados, como acontece nos Açores implica a negociação de um estatuto que tem as suas premissas no Direito Internacional, tal como está previsto no artigo 8.°, n.° 1, da Constituição e trata de actos de poder público que a doutrina encara sem algumas dúvidas. A apreciação do estatuto negocial foi prejudicada nas comissões pelo segredo de Estado em que estava o acordo anterior, e isto levanta uma questão geral e importante, que é a do regime de segredo de Estado, num Estado que, no sistema em que vivemos, constantemente muda de direcção ou está sem ela.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Sr. *Adriano Moreira* (CDS): Sr. Presidente, Srs. Deputados: \nDesejaríamos, por brevidade, começar por enumerar alguns pontos que nos parecem salientes no que respeita aos textos em discussão.\nPrimeiro, que o aviso publicado no Diário do Governo, 1.ª série, de 20 de Junho de 1952, sobre o Acordo de Defesa entre Portugal e os Estados Unidos da América, claramente afirma que este decorre da doutrina e deveres emergentes dos artigos 3.° e 5.° do Tratado do Atlântico Norte.\nDepois, que a estratégia da NATO evolui de acordo com as alterações detectadas na conjuntura grave, que temos vivido, e que hoje admite a responsabilidade por questões fora da Zona, pelo que os riscos não podem ser avaliados em relação aos factos de 1949, e constantemente mudam em vista, entre outras razões, da evolução técnica. Ainda, que a maior parte dos Estados, que não são agressivos, como ê o nosso caso, estão constragidos por um sistema mundial de poderes, que os obriga a participar em riscos que outros causam.\nJá nos aconteceu algumas vezes, como nas invasões francesas aqui citadas na Assembleia, como na última guerra mundial, em que a nossa neutralidade não foi respeitada pêlos próprios aliados em Timor, e a cedência de facilidades nos Açores foi uma construção hábil da neutralidade, chamada colaborante, e só possível pelo consentimento interessado de ambas as partes em conflito. À medida em que a situação estratégica alarga mundialmente, o seu teatro possível de operações, a capacidade de Portugal diminuiu drasticamente, não apenas segundo o critério da relação das forças materiais, mas receio que também da credibilidade e decisão, em vista da cultivada instabilidade governativa, que nesta data nos coloca a discutir tratados fundamentais com o país politicamente adiado.", 
-   "type": "deputado_continuacao"
+   "text": "Finalmente, é da defesa da paz que nos ocupamos, e a debilitação dos nossos recursos estando colocados pela geografia num lugar por onde passam as ameaças e necessidades de defesa que não provocamos, torna mítica a sustentação da possibilidade de [...] orgulhosamente sós a organizar a defesa da integridade e da utilização do que temos. Qualquer política, com tal premissa, não nos conduz a estarmos, sós, conduz-nos a mudar de companhia, e isso não queremos.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do CDS e de alguns deputados do PS e do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: A presença de forças aliadas nos territórios dos outros aliados, como acontece nos Açores implica a negociação de um estatuto que tem as suas premissas no Direito Internacional, tal como está previsto no artigo 8.°, n.° 1, da Constituição e trata de actos de poder público que a doutrina encara sem algumas dúvidas. A apreciação do estatuto negocial foi prejudicada nas comissões pelo segredo de Estado em que estava o acordo anterior, e isto levanta uma questão geral e importante, que é a do regime de segredo de Estado, num Estado que, no sistema em que vivemos, constantemente muda de direcção ou está sem ela.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: Finalmente, é da defesa da paz que nos ocupamos, e a debilitação dos nossos recursos estando colocados pela geografia num lugar por onde passam as ameaças e necessidades de defesa que não provocamos, torna mítica a sustentação da possibilidade de [...] orgulhosamente sós a organizar a defesa da integridade e da utilização do que temos. Qualquer política, com tal premissa, não nos conduz a estarmos, sós, conduz-nos a mudar de companhia, e isso não queremos.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "Vozes do CDS e de alguns deputados do PS e do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "O Orador", 
-   "text": "O Orador: Não teríamos, certamente, de estar hoje a discutir os acordos celebrados pelo Governo com os Estados Unidos da América se correspondesse, a alguma realidade o propósito da 6.ª Comissão da Assembleia Geral da ONU, de estabelecer um «Direito Internacional das Relações Pacíficas», depois de uma organização não ter resistido a incluir na sua volumosa agenda o tema da «coexistência pacífica», que á AKademiia Nauk (1951) e Tunkin (1963) reduzem a estas cinco permissas:", 
-   "type": "deputado_continuacao"
+   "text": "Não teríamos, certamente, de estar hoje a discutir os acordos celebrados pelo Governo com os Estados Unidos da América se correspondesse, a alguma realidade o propósito da 6.ª Comissão da Assembleia Geral da ONU, de estabelecer um «Direito Internacional das Relações Pacíficas», depois de uma organização não ter resistido a incluir na sua volumosa agenda o tema da «coexistência pacífica», que á AKademiia Nauk (1951) e Tunkin (1963) reduzem a estas cinco permissas:", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "O Orador", 
    "text": "1) Renúncia à guerra como instrumento de solução dos conflitos entre os Estados; \n2) Igualdade, compreensão e confiança entre os Estados, mostrando completo respeito interesses recíprocos; \n3) Não intervenção na jurisdição interna; \n4) Respeito pela soberania e integridade territorial dos países; 5) Desenvolvimento de cooperação económica cultural em pé de igualdade dos Estados.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "O Orador", 
    "text": "Acontece que os autores desta proposta para pedir às relações internacionais, também são os autores da doutrina da «soberania limitada» muito claramente exposta por Malik no Conselho de Segurança, em [...] de Agosto de 1968 (Checoslováquia) e severamente condenada pela China no Boletim de Informação» de 31 de Março de 1969, atacando o social-imperialismo revisionista soviético. É esta situação, e não a proclamação de apoio à estratégia indirecta soviética, determina a existência do Tratado de Aliança do Atlântico Norte e do seu braço armado que é a NATO, no qual Portugal está obrigado. Enquanto os factos políticos e legislativos forem estes, enquanto o poder político português não for tomado por uma formação política que decida que a ameaça não existe, ou que mesmo admitindo que existe, considere conveniente", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "O Orador", 
    "text": "5 DE JULHO DE 1985 3821", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "...] de campo e estatuto, nenhuma proclamação chamada pacifista tem base constitucional para colocar entre parêntesis as obrigações internacionais assumidas, nas quais decorrem os acordos em discussão e os anteriores.", 
@@ -864,166 +780,209 @@
    "type": null
   }, 
   {
-   "text": "Vozes do CDS e do PSD: Muito bem!", 
-   "type": null
+   "speaker": "Vozes do CDS e do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Não somos satélites, esta categoria de independência internacional não vigora no Ocidente em que encontramos, não apenas pela geografia, mas sobretudo pela concepção de vida ainda vigente.\nExistem porém, duas questões que nos parecem importantes no que respeita aos acordos firmados em execução das obrigações decorrentes do Tratado do Atlântico e não apenas em relação a esse Tratado.\nA primeira, que comecei por enunciar, diz respeito ao segredo de Estado que a nossa vasta Constituição não parece ajudar a definir e até parece ter contrariado quando no n.° 2 do artigo 48.° declara que «todos os cidadãos têm o direito de ser esclarecidos objectivamente sobre actos do Estado e demais entidades públicas e de ser informados pelo Governo e outras autoridades acerca da gestão dos assuntos públicos».\nÉ contra a natureza das coisas que não haja um domínio de segredo de Estado, é em relação com essa necessidade que os Estados multiplicam, no domínio da defesa e até da ciência e da economia, os serviços de informações e segurança.\nAcontece simplesmente que, como a Constituição não diz quando e como é que o Governo deve cumprir, por iniciativa própria, o dever de informar, nem existem parâmetros legais que permitam responsavelmente obrigá-lo a terminar com o segredo, não é a forma que devem revestir os acordos que permitirá clarificar este domínio, e as questões da qualificação da matéria, de que depende a divisão das competências entre os órgãos de soberania, sempre causará dificuldades de monta. O cumprimento do Estatuto da Oposição poderia remediar esta situação difícil, mas o costume não mostra que sirva para grande coisa. Ainda não há muitos dias aqui vimos que algumas disposições constitucionais, referentes a Macau, se baseiam em acordos que a Assembleia Constituinte e as seguintes, não conheceram e até agora continuamos a desconhecer.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "Não somos satélites, esta categoria de independência internacional não vigora no Ocidente em que encontramos, não apenas pela geografia, mas sobretudo pela concepção de vida ainda vigente.\nExistem porém, duas questões que nos parecem importantes no que respeita aos acordos firmados em execução das obrigações decorrentes do Tratado do Atlântico e não apenas em relação a esse Tratado.\nA primeira, que comecei por enunciar, diz respeito ao segredo de Estado que a nossa vasta Constituição não parece ajudar a definir e até parece ter contrariado quando no n.° 2 do artigo 48.° declara que «todos os cidadãos têm o direito de ser esclarecidos objectivamente sobre actos do Estado e demais entidades públicas e de ser informados pelo Governo e outras autoridades acerca da gestão dos assuntos públicos».\nÉ contra a natureza das coisas que não haja um domínio de segredo de Estado, é em relação com essa necessidade que os Estados multiplicam, no domínio da defesa e até da ciência e da economia, os serviços de informações e segurança.\nAcontece simplesmente que, como a Constituição não diz quando e como é que o Governo deve cumprir, por iniciativa própria, o dever de informar, nem existem parâmetros legais que permitam responsavelmente obrigá-lo a terminar com o segredo, não é a forma que devem revestir os acordos que permitirá clarificar este domínio, e as questões da qualificação da matéria, de que depende a divisão das competências entre os órgãos de soberania, sempre causará dificuldades de monta. O cumprimento do Estatuto da Oposição poderia remediar esta situação difícil, mas o costume não mostra que sirva para grande coisa. Ainda não há muitos dias aqui vimos que algumas disposições constitucionais, referentes a Macau, se baseiam em acordos que a Assembleia Constituinte e as seguintes, não conheceram e até agora continuamos a desconhecer.", 
+   "type": "continuacao"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): Muito bem!", 
-   "type": null
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "Muito bem!", 
+   "type": "continuacao"
   }, 
   {
-   "text": "O Orador: Estamos remetidos para a circunstância de apenas poder pedir responsabilidades ao Governo quando este tiver considerado que o segredo de Estado se impunha, logo que eventualmente tenhamos conhecimento da matéria, ou porque o Governo resolveu a \ndesqualificação, ou porque a indiscrição colmatou as lacunas legais.\nEm suma, não é possível governar sem um domínio que fica temporalmente no segredo do Estado. Isto é particularmente exacto e continuado nos domínios da defesa, e por isso não podemos aceitar orientações ou de projectos de leis que parecem afloramentos de um sistema de governo de Assembleia: aquilo de que necessitamos é de ter uma maneira legal, que julgo que não possuímos, de impedir que o segredo transborde para domínios abusivos, ou que dure para além da conveniência pública.\nTornados públicos, como agora, os acordos e os seus antecedentes, que faltaram ao conhecimento da Comissão de Defesa Nacional, podem fazer-se funcionar os mecanismos da responsabilidade política do Governo perante a Assembleia, mas não se pode apagar o passado mesmo reprovado por algumas formações políticas, nem isso serve para afastar a obrigação de aprovar ou reprovar os acordos na forma proposta.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "Estamos remetidos para a circunstância de apenas poder pedir responsabilidades ao Governo quando este tiver considerado que o segredo de Estado se impunha, logo que eventualmente tenhamos conhecimento da matéria, ou porque o Governo resolveu a \ndesqualificação, ou porque a indiscrição colmatou as lacunas legais.\nEm suma, não é possível governar sem um domínio que fica temporalmente no segredo do Estado. Isto é particularmente exacto e continuado nos domínios da defesa, e por isso não podemos aceitar orientações ou de projectos de leis que parecem afloramentos de um sistema de governo de Assembleia: aquilo de que necessitamos é de ter uma maneira legal, que julgo que não possuímos, de impedir que o segredo transborde para domínios abusivos, ou que dure para além da conveniência pública.\nTornados públicos, como agora, os acordos e os seus antecedentes, que faltaram ao conhecimento da Comissão de Defesa Nacional, podem fazer-se funcionar os mecanismos da responsabilidade política do Governo perante a Assembleia, mas não se pode apagar o passado mesmo reprovado por algumas formações políticas, nem isso serve para afastar a obrigação de aprovar ou reprovar os acordos na forma proposta.", 
+   "type": "continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": null
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: E quanto a esta é que uma segunda questão se levanta, a qual tem de ser encarada com realismo, sem dispensar a amargura. Não me refiro ao Estatuto das Forças Armadas Americanas, nem a questões de jurisdição, que outros abordarão, c que encontram matrizes no Direito Internacional, designadamente na Convenção NATO-SOFA, de 19 de Junho de 1951, embora haja uma crise doutrinal no que respeita aos actos de gestão, que não podem ter o tratamento dos actos públicos clássicos, quando o Estado aparece a exercer actividades secularmente privadas, na área internacional, como acontece com os Soviéticos.\nRefiro-me apenas às funções militares a cargo das forças americanas nos Açores, dentro dos planos estratégicos da NATO, porque a isso exclusivamente se referem as chamadas facilidades, e que alguns intervenientes na discussão de hoje desejariam a cargo exclusivo das forças portuguesas.\nInfelizmente trata-se aqui menos do conceito de soberania, que é respeitado pelo consentimento, do que do poder efectivo do Estado. E nesta matéria mais temos de nos fiar do Estado-Maior, responsável pela defesa contra a agressão externa, do que das anotações inspiradas por um neutralismo que repudiamos, ou por uma sonhada neutralidade que os factos não consentem a nenhum Estado que esteja no caminho da agressão presumida.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "E quanto a esta é que uma segunda questão se levanta, a qual tem de ser encarada com realismo, sem dispensar a amargura. Não me refiro ao Estatuto das Forças Armadas Americanas, nem a questões de jurisdição, que outros abordarão, c que encontram matrizes no Direito Internacional, designadamente na Convenção NATO-SOFA, de 19 de Junho de 1951, embora haja uma crise doutrinal no que respeita aos actos de gestão, que não podem ter o tratamento dos actos públicos clássicos, quando o Estado aparece a exercer actividades secularmente privadas, na área internacional, como acontece com os Soviéticos.\nRefiro-me apenas às funções militares a cargo das forças americanas nos Açores, dentro dos planos estratégicos da NATO, porque a isso exclusivamente se referem as chamadas facilidades, e que alguns intervenientes na discussão de hoje desejariam a cargo exclusivo das forças portuguesas.\nInfelizmente trata-se aqui menos do conceito de soberania, que é respeitado pelo consentimento, do que do poder efectivo do Estado. E nesta matéria mais temos de nos fiar do Estado-Maior, responsável pela defesa contra a agressão externa, do que das anotações inspiradas por um neutralismo que repudiamos, ou por uma sonhada neutralidade que os factos não consentem a nenhum Estado que esteja no caminho da agressão presumida.", 
+   "type": "continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": null
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: A avaliação das capacidades para assumir responsabilidades directas pertence, no domínio dos factos, e, em primeiro lugar, às Forças Armadas, que raciocinam dentro do quadro das nossas obrigações internacionais e equacionam aquilo que se lhes exige com os meios que lhe são colocados à disposição.\nEstes acordos têm, segundo nos informam da parte do Governo, o parecer favorável dessas instâncias. Não devemos admitir que se pense que os militares portugueses preferem que outros assumam encargos que estariam ao seu alcance. Também não é da sua função encaminharmo-nos para riscos dispensáveis. O certo é que, no domínio do poder efectivo, resvalamos para Estado exíguo, como uma vez mais se documenta, sendo inteiramente despegado da realidade proclamar que temos o dever e o poder de uma auto-suficiência defensiva.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "A avaliação das capacidades para assumir responsabilidades directas pertence, no domínio dos factos, e, em primeiro lugar, às Forças Armadas, que raciocinam dentro do quadro das nossas obrigações internacionais e equacionam aquilo que se lhes exige com os meios que lhe são colocados à disposição.\nEstes acordos têm, segundo nos informam da parte do Governo, o parecer favorável dessas instâncias. Não devemos admitir que se pense que os militares portugueses preferem que outros assumam encargos que estariam ao seu alcance. Também não é da sua função encaminharmo-nos para riscos dispensáveis. O certo é que, no domínio do poder efectivo, resvalamos para Estado exíguo, como uma vez mais se documenta, sendo inteiramente despegado da realidade proclamar que temos o dever e o poder de uma auto-suficiência defensiva.", 
+   "type": "continuacao"
   }, 
   {
    "text": "3822 I SÉRIE - NÚMERO 102", 
-   "type": null
+   "type": "continuacao"
   }, 
   {
    "text": "Trata-se de salvaguardar a soberania com a exiguidade dos meios que ainda temos, que foram substancialmente degradados, e continuam a ser degradados por muitos que se proclamam inquietos com o Estatuto internacional do País.", 
-   "type": null
+   "type": "continuacao"
   }, 
   {
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": null
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Sem verdadeiramente ter Governo nesta data, quando uma Câmara em vésperas de ser dissolvida é chamada a aprovar tratados fundamentais para o futuro do País, é no parecer do Estado-Maior que fundamentalmente apoiamos a nossa concordância, porque tal é a situação do regime, à espera de que finalmente consigamos ter planos com um Governo que responda por eles.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "Sem verdadeiramente ter Governo nesta data, quando uma Câmara em vésperas de ser dissolvida é chamada a aprovar tratados fundamentais para o futuro do País, é no parecer do Estado-Maior que fundamentalmente apoiamos a nossa concordância, porque tal é a situação do regime, à espera de que finalmente consigamos ter planos com um Governo que responda por eles.", 
+   "type": "continuacao"
   }, 
   {
    "text": "Aplausos do CDS e de alguns deputados do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para formular pedidos de esclarecimento ao Sr.Deputado Adriano Moreira, inscreveram-se os Srs. Deputados João Amaral e José Magalhães.\nTem. pois, a palavra o Sr. Deputado João Amaral.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Para formular pedidos de esclarecimento ao Sr.Deputado Adriano Moreira, inscreveram-se os Srs. Deputados João Amaral e José Magalhães.\nTem. pois, a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, antes de formular os pedidos de esclarecimento, gostaria de ser informado sobre qual o tempo que o meu grupo parlamentar dispõe para usar da palavra durante este debate.", 
-   "type": null
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, antes de formular os pedidos de esclarecimento, gostaria de ser informado sobre qual o tempo que o meu grupo parlamentar dispõe para usar da palavra durante este debate.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Certamente, Sr. Deputado. Aliás, vamos aproveitar esta ocasião para informar todos os grupos e agrupamentos parlamentares sobre qual o tempo de que cada um deles dispõe.\nTem a palavra o Sr. Secretário para informar a Câmara acerca desta questão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Certamente, Sr. Deputado. Aliás, vamos aproveitar esta ocasião para informar todos os grupos e agrupamentos parlamentares sobre qual o tempo de que cada um deles dispõe.\nTem a palavra o Sr. Secretário para informar a Câmara acerca desta questão.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Secretário* (Armando de Oliveira): O Governo dispõe de 29 minutos: o PS de 49 minutos; o PSD de 42 minutos; o PCP de 13 minutos; o CDS de 35 minutos: o MDP/CDE de 20 minutos; a UEDS de 20 minutos e a ASDI de 20 minutos.", 
-   "type": null
+   "party": "Armando de Oliveira", 
+   "speaker": "Secretário", 
+   "text": "O Governo dispõe de 29 minutos: o PS de 49 minutos; o PSD de 42 minutos; o PCP de 13 minutos; o CDS de 35 minutos: o MDP/CDE de 20 minutos; a UEDS de 20 minutos e a ASDI de 20 minutos.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral, para formular pedidos de esclarecimento.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral, para formular pedidos de esclarecimento.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Soão Amaral* (PCP): Sr. Presidente, Srs. Deputados: Visto dispormos de escasso tempo para usar da palavra, vou ser muito breve.\nSr. Deputado Adriano Moreira, sublinho a importância que atribuiu à questão do segredo como uma forma de não ser possível uma discussão sobre esta matéria.\nA questão da rejeição do neutralismo pode, na concepção do Sr.Deputado, implicar a rejeição de uma autonomia? A questão está aqui colocada francamente: autonomia e neutraiismo, neutralismo e autonomia são conceitos incompatíveis. O problema não está em afirmar que se rejeita o neutralismo mas, sim, em defender a autonomia e uma capacidade autónoma.\nSr. Deputado Adriano Moreira, não será uma posição maniqueista dizer-se: ou sós ou mudar de companhia? Ou será que, também, entra aqui em questão um outro factor que é o de que não valerá mais estarmos sós do que mal acompanhados? \nNo mundo de hoje, e pese alguma dificuldade ou algum parti pris que se possa ter em relação a esta matéria, não será possível estar-se suficientemente acompanhado não estando empenhado e comprometido com conceitos estratégicos que são apriorísticos e que nada têm a ver com as necessidades do País?.", 
-   "type": null
+   "party": "PCP", 
+   "speaker": "Soão Amaral", 
+   "text": "Sr. Presidente, Srs. Deputados: Visto dispormos de escasso tempo para usar da palavra, vou ser muito breve.\nSr. Deputado Adriano Moreira, sublinho a importância que atribuiu à questão do segredo como uma forma de não ser possível uma discussão sobre esta matéria.\nA questão da rejeição do neutralismo pode, na concepção do Sr.Deputado, implicar a rejeição de uma autonomia? A questão está aqui colocada francamente: autonomia e neutraiismo, neutralismo e autonomia são conceitos incompatíveis. O problema não está em afirmar que se rejeita o neutralismo mas, sim, em defender a autonomia e uma capacidade autónoma.\nSr. Deputado Adriano Moreira, não será uma posição maniqueista dizer-se: ou sós ou mudar de companhia? Ou será que, também, entra aqui em questão um outro factor que é o de que não valerá mais estarmos sós do que mal acompanhados? \nNo mundo de hoje, e pese alguma dificuldade ou algum parti pris que se possa ter em relação a esta matéria, não será possível estar-se suficientemente acompanhado não estando empenhado e comprometido com conceitos estratégicos que são apriorísticos e que nada têm a ver com as necessidades do País?.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Adriano Moreira, V. Exa. deseja responder já ou no fim?", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Adriano Moreira, V. Exa. deseja responder já ou no fim?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Adriano Moreira* (CDS): Prefiro responder no fim, Sr.Presidente.", 
-   "type": null
+   "party": "CDS", 
+   "speaker": "Adriano Moreira", 
+   "text": "Prefiro responder no fim, Sr.Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Então, tem a palavra o Sr. Deputado José Magalhães.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Então, tem a palavra o Sr. Deputado José Magalhães.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Magalhães* (PCP): Sr. Deputado Adriano Moreira, ouvi V.\nExa. defender uma certa política do cumprimento das obrigações internacionais com Portugal, mas não o ouvi defender a via seguida pelo Governo para, supostamente, realizar esse fim - creio que ainda bem.\nEm todo o caso, gostava de obter respostas concretas em relação a estas perguntas: considera o Sr. Deputado que a extensão de facilidades e a fixação do [...] dessas facilidades poderão ser feitas por acto do Governo, ou essa função caberá exclusivamente à Assembleia da República? \nO processo de revisão dessas facilidades poderá ser fixado por troca de notas ou deverá sê-lo pela Assembleia da República e apenas por ela? \nQuais os instrumentos jurídicos bilaterais em vigor neste momento em matéria de defesa entre Portugal e os Estados Unidos? Considera em vigor o acordo técnico de 1957? No caso de o Sr. Deputado entender que está em vigor, ele está a ser cumprido? Se entender que nada disto se regista, a que título é que neste momento se encontram forças estrangeiras norte-americanas em território nacional? \nO que é que o Sr. Deputado pensa da tomada de posição da Assembleia Regional dos Açores sobre o chamado «acordo laboral das Lajes»? Qual a posição do CDS quanto a esta matéria? \nComo é que o CDS - seguida que foi pelo Governo esta via, que é inconstitucional - pensa que é possível sair-se desta situação?", 
-   "type": null
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Sr. Deputado Adriano Moreira, ouvi V.\nExa. defender uma certa política do cumprimento das obrigações internacionais com Portugal, mas não o ouvi defender a via seguida pelo Governo para, supostamente, realizar esse fim - creio que ainda bem.\nEm todo o caso, gostava de obter respostas concretas em relação a estas perguntas: considera o Sr. Deputado que a extensão de facilidades e a fixação do [...] dessas facilidades poderão ser feitas por acto do Governo, ou essa função caberá exclusivamente à Assembleia da República? \nO processo de revisão dessas facilidades poderá ser fixado por troca de notas ou deverá sê-lo pela Assembleia da República e apenas por ela? \nQuais os instrumentos jurídicos bilaterais em vigor neste momento em matéria de defesa entre Portugal e os Estados Unidos? Considera em vigor o acordo técnico de 1957? No caso de o Sr. Deputado entender que está em vigor, ele está a ser cumprido? Se entender que nada disto se regista, a que título é que neste momento se encontram forças estrangeiras norte-americanas em território nacional? \nO que é que o Sr. Deputado pensa da tomada de posição da Assembleia Regional dos Açores sobre o chamado «acordo laboral das Lajes»? Qual a posição do CDS quanto a esta matéria? \nComo é que o CDS - seguida que foi pelo Governo esta via, que é inconstitucional - pensa que é possível sair-se desta situação?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Adriano Moreira.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Adriano Moreira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Adriano Moreira* (CDS): Sr. Presidente, Srs. Deputados: Vou tentar responder às questões que considero que são do meu foro. Digo isto porque o Sr. Deputado José Magalhães colocou-me algumas questões que deveriam ser dirigidas ao Governo, na medida em que é este que pode e deve informar muitas das questões que suscitou. Admito a dificuldade que há em fazer perguntas à instância competente mas a verdade é que não a posso substituir. É, pois, por essa razão que não vou responder a todas as questões que o Sr. Deputado colocou.\nEsta é uma assembleia política e não propriamente um foro de discussão de Direito Internacional. Porém o Sr. Deputado sabe perfeitamente que é extremamente discutível a divisão de matérias em relação à forma [...] ^ que as obrigações se devem revestir nas relações entre os Estados e que essas dúvidas são resolvidas pela atitude concreta que cada Estado toma. E quando o Estado assume que por troca de notas se pode obrigar", 
-   "type": null
+   "party": "CDS", 
+   "speaker": "Adriano Moreira", 
+   "text": "Sr. Presidente, Srs. Deputados: Vou tentar responder às questões que considero que são do meu foro. Digo isto porque o Sr. Deputado José Magalhães colocou-me algumas questões que deveriam ser dirigidas ao Governo, na medida em que é este que pode e deve informar muitas das questões que suscitou. Admito a dificuldade que há em fazer perguntas à instância competente mas a verdade é que não a posso substituir. É, pois, por essa razão que não vou responder a todas as questões que o Sr. Deputado colocou.\nEsta é uma assembleia política e não propriamente um foro de discussão de Direito Internacional. Porém o Sr. Deputado sabe perfeitamente que é extremamente discutível a divisão de matérias em relação à forma [...] ^ que as obrigações se devem revestir nas relações entre os Estados e que essas dúvidas são resolvidas pela atitude concreta que cada Estado toma. E quando o Estado assume que por troca de notas se pode obrigar", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Adriano Moreira", 
    "text": "5 DE JULHO DE 1985 3823", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "...] interpretou o Direito Internacional nesse sentido; quando o Estado assume que apenas por um tratado formal solene se pode obrigar, ele interpretou o tratado nesse sentido.\nA experiência portuguesa revela que nesta matéria temos assumido obrigações por troca de notas, por acordos entre os executivos e por avisos publicados no Diário do Governo - creio que no Diário da República ainda não vi nenhum. Por consequência, é na nossa experiência governativa que o Sr. Deputado pode encontrar resposta para essas questões e, neste domínio concreto, a experiência do Estado é que assume as obrigações sem intervenção da Assembleia da República. Sendo a resposta que decorre da prática do Estado, muitas das questões que o Sr. Deputado levantou decorrem desta resposta e, por consequência, não vale a pena fazer perder tempo nem à Câmara nem a V. Exa. com mais comentários sobre esse ponto.\nNão tenho dúvidas em, rapidamente, dizer aquilo que penso, sobretudo em relação ao problema laboral, que creio ser o mais importante dos que o Sr. Deputado levantou no que respeita à posição que foi tomada na Assembleia Regional dos Açores. Acontece aqui, também que o Direito Internacional tem regras que dizem respeito ao estatuto das forças de um país que estacionou noutro e ao serviço que os nacionais desse país ou estrangeiros que venham a colaborar com essas forças devem utilizar.\nPara não presumir de delongas fundamentações e tentando resumir de uma maneira breve o que me parece decorrer desse Direito Internacional, devo dizer que o estatuto dos que trabalham para forças estrangeiras estacionadas num país que não tenha um estatuto de dependência internacional reconhecido por tratados que, também, existem, mas não na nossa zona, é como se se, tratasse de uma emigração - talvez de uma maneira sintética isto exprima o que penso que é a situação do Direito Internacional nesse domínio.\nÉ uma espécie de emigração, porque se trata de uma Organização que está a exercer uma função pública e resulta da maior ou menor capacidade de negociação dos governos, da sua maior ou menor habilidade e capacidade de pressuasão, que esse estatuto, que decorre de princípios gerais do Direito Internacional, possa ser limitado por obrigações que remetam para a jurisdição interna, para as leis internas, para as garantias internas.\nCreio que foi isso que o Governo fez neste acordo: limitou o regime decorrente do Direito Internacional com melhorias de situação dos trabalhadores portugueses e houve na Assembleia Regional dos Açores quem reconhecesse isso.\nEmbora na Assembleia Regional dos Açores o CDS tenha apoiado as reivindicações que não encontraram satisfação nas cláusulas que foram aprovadas, não encontrou aí motivo suficiente para reprovar o acordo na sua globalidade. Por isso, tal como declarei, o CDS vai votar a favor.\nQuanto ao Sr. Deputado João Amaral, devo dizer que este problema do segredo de Estado não é nenhuma novidade e eu próprio tive ocasião de o levantar na Comissão de Defesa Nacional.\nCreio que V. Exa. concordará comigo no sentido de que juridicamente estamos numa situação pouco clara - pelo menos, pareceu-me poder deduzir isso dos comentários que V. Exa. produziu em relação a esta matéria - e até admito que existam obrigações que o povo português não conheça. Não creio nisso, mas até o admito! E por que é que tenho de admitir isso com coerência? Porque continuo a não saber que obrigações temos em relação a Macau.\nSe há um exemplo insofismável que me revela uma situação de Estado em que tenho disposições constitucionais dotadas pela Constituinte sem saber quais eram as obrigações em relação às quais estava a definir um regime constitucional, quando alguém suspeita que talvez haja obrigações que não são conhecidas, tenho de admitir que elas existam.\nNo entanto, pessoalmente, estou convencido de que não existem e que este Governo não tem obrigações para além das que tornou públicas e da que traz aqui à Assembleia. Este é, pois, o meu convencimento.", 
    "type": "nota"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": null
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Salvo o devido respeito, devo dizer que a questão do neutralismo, da autonomia e da respectiva compatibilidade, está mal colocada, porque o Sr. Deputado está a misturar conceitos e definições de estatutos internacionais que, de maneira alguma, são aproximáveis.\nOs países que professam o neutralismo têm um claro comportamento de dupla medida na vida internacional - porque isto diz respeito ao comportamento internacional e não à doutrina social - que é sempre mais favorável para o bloco soviético do que o é para o bloco ocidental.\nIsto é um facto que tem várias explicações e é nessa medida que a conduta neutralista tem importância para as obrigações de um país que está situado na área ocidental com os constrangimentos sistemáticos a que me referi.\nPor consequência, quando refiro a sustenção do neutralismo, que por vezes me parece encontrar nas intervenções do Sr. Deputado João Amaral, ou de uma impossível neutralidade no mundo contemporâneo, julgo - e faço esta observação com toda a objectividade, a mesma que tenho reconhecido a V. Exa. nas discussões na Comissão de Defesa Nacional - que esta defesa auxilia objectivamente a estratégia indirecta do bloco soviético e enfraquece a segurança ocidental. Faço com isto um julgamento de facto e não um julgamento moral.\nComo referi na minha intervenção, a defesa depende não apenas da definição das ameaças presumidas, mas da capacidade para as enfrentar.\nJulgo, pois - e mais de uma vez tenho insistido neste ponto na Câmara - que o Estado Português, ao continuar com esta verdadeira anarquia política em que vivemos, em que não há governo que aguente uma legislatura, em que o regime democrático não consegue produzir a coincidência entre um plano a médio prazo e a responsabilidade pela execução do Plano, em que um governo acaba de ser nomeado e logo se demonstra que é mau, para a seguir vir outro que se considera pior, está a conduzir o País para a situação de estado exíguo. Pela dignidade própria, poderemos salvar o respeito da soberania pelo consentimento dos outros, porque o consentimento salva a nossa dignidade, mas o que não podemos é ter meios próprios para instituir, reproduzir e auto-sustentar o tal aparelho de defesa autónomo, independentemente, talvez orgulhosamente só, que parece decorrer das palavras do Sr.Deputado.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "Salvo o devido respeito, devo dizer que a questão do neutralismo, da autonomia e da respectiva compatibilidade, está mal colocada, porque o Sr. Deputado está a misturar conceitos e definições de estatutos internacionais que, de maneira alguma, são aproximáveis.\nOs países que professam o neutralismo têm um claro comportamento de dupla medida na vida internacional - porque isto diz respeito ao comportamento internacional e não à doutrina social - que é sempre mais favorável para o bloco soviético do que o é para o bloco ocidental.\nIsto é um facto que tem várias explicações e é nessa medida que a conduta neutralista tem importância para as obrigações de um país que está situado na área ocidental com os constrangimentos sistemáticos a que me referi.\nPor consequência, quando refiro a sustenção do neutralismo, que por vezes me parece encontrar nas intervenções do Sr. Deputado João Amaral, ou de uma impossível neutralidade no mundo contemporâneo, julgo - e faço esta observação com toda a objectividade, a mesma que tenho reconhecido a V. Exa. nas discussões na Comissão de Defesa Nacional - que esta defesa auxilia objectivamente a estratégia indirecta do bloco soviético e enfraquece a segurança ocidental. Faço com isto um julgamento de facto e não um julgamento moral.\nComo referi na minha intervenção, a defesa depende não apenas da definição das ameaças presumidas, mas da capacidade para as enfrentar.\nJulgo, pois - e mais de uma vez tenho insistido neste ponto na Câmara - que o Estado Português, ao continuar com esta verdadeira anarquia política em que vivemos, em que não há governo que aguente uma legislatura, em que o regime democrático não consegue produzir a coincidência entre um plano a médio prazo e a responsabilidade pela execução do Plano, em que um governo acaba de ser nomeado e logo se demonstra que é mau, para a seguir vir outro que se considera pior, está a conduzir o País para a situação de estado exíguo. Pela dignidade própria, poderemos salvar o respeito da soberania pelo consentimento dos outros, porque o consentimento salva a nossa dignidade, mas o que não podemos é ter meios próprios para instituir, reproduzir e auto-sustentar o tal aparelho de defesa autónomo, independentemente, talvez orgulhosamente só, que parece decorrer das palavras do Sr.Deputado.", 
+   "type": "continuacao"
   }, 
   {
    "text": "Aplausos do CDS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "3824 I SÉRIE - NÚMERO 102", 
-   "type": null
+   "type": "continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Angelo Correia.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Angelo Correia.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Angelo Correia* (PSD): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Duas notas prévias à abordagem do problema que hoje nos traz à Assembleia.\nA primeira é a relação Governo-Assembleia. Estão presentes alguns instrumentos fundamentais do Estado Português que atingem a soberania ao mais alto nível: a política externa e a política de defesa nacional.\nSubscritos, em termos de resolução do Conselho de Ministros, o Primeiro-Ministro, o Vice-Primeiro-Ministro e vários membros do Governo com a dignidade e a hierarquia constitucionais de ministros, no momento em que a Assembleia da República, por propositura do próprio Governo, aborda esta questão, o Governo faz-se representar por dois secretários de Estado, um dos quais, naturalmente, o da Cooperação, que tem mais a ver com assuntos de relação com outros Estados e não propriamente com os Estados Unidos da América e com a Aliança Atlântica.", 
-   "type": null
+   "party": "PSD", 
+   "speaker": "Angelo Correia", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Duas notas prévias à abordagem do problema que hoje nos traz à Assembleia.\nA primeira é a relação Governo-Assembleia. Estão presentes alguns instrumentos fundamentais do Estado Português que atingem a soberania ao mais alto nível: a política externa e a política de defesa nacional.\nSubscritos, em termos de resolução do Conselho de Ministros, o Primeiro-Ministro, o Vice-Primeiro-Ministro e vários membros do Governo com a dignidade e a hierarquia constitucionais de ministros, no momento em que a Assembleia da República, por propositura do próprio Governo, aborda esta questão, o Governo faz-se representar por dois secretários de Estado, um dos quais, naturalmente, o da Cooperação, que tem mais a ver com assuntos de relação com outros Estados e não propriamente com os Estados Unidos da América e com a Aliança Atlântica.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Uma Voz do PS: Isso foi o que disse o PCP!", 
-   "type": null
+   "speaker": "Uma Voz do PS", 
+   "text": "Isso foi o que disse o PCP!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Não está em causa o mérito, a competência e o respeito que nos devem os Srs. Secretários de Estado, mas, sim, o problema da relação política democrática entre Governo e Assembleia da República; está em causa a questão de saber qual a natureza de relação de poder, qual a responsabilidade política. Esta é a primeira nota.\nDaqui decorre um segundo ponto prévio que se articula com o primeiro. O Governo da República apresentou a esta Assembleia - julgo que há cerca de l ano - duas propostas de autorização legislativa que \nconsubstanciavam aquilo que o Governo pensava ser o domínio específico, essencial e exclusivo do poder parlamentar.\nEram matérias que, nos acordos em questão, referenciavam situações de natureza fiscal e de direitos, liberdades e garantias. Vários acontecimentos levaram a que o Governo retirasse as autorizações legislativas relativas a essas duas áreas.\nMas, simultaneamente, o Governo, por acordo de troca de notas, isto é, por um acordo meramente de natureza de relação inter-administração americana e Governo Português, dá uma extensão temporal aos acordos estabelecidos em 1957 e revistos em 1984.\nIsto é, o Governo, em 1984, dizia e concebia que a Assembleia da República era o local essencial para se poder discutir e aprovar só algumas - diria um décimo daquilo que respeita a este acordo -, reservando para si, assumindo ele próprio como potência capaz, as outras áreas, mormente a extensão das facilidades no tempo, que passam a ser do domínio do Governo. Era uma propositura lógica e coerente.\nAlguns podê-la-iam discutir, mas era lógica e coerente.\nA partir do momento em que o Governo coloca todo o acordo, todos os anexos, na Assembleia da República, o Governo não tem, com essa medida, um acto de benignidade ou condescendência política para com a Assembleia; o que o Governo diz é que, afinal, não é apenas da exclusiva competência do Parlamento o problema de natureza fiscal e o dos direitos, liberdades e garantias, mas, pelo contrário, é da competência do Parlamento todo o acordo técnico.\nOra, se assim é, como é que, politicamente é possível considerar que algumas minudências técnica esta Assembleia e o aspecto essencial, que resulta mesmo acordo, que é a extensão temporal das facilidades, é eximido ao próprio Parlamento? \nA atitude política que o Governo tomou na transformação de duas autorizações legislativas, sem dar-lhe de domínios específicos do Parlamento, trazendo o acordo técnico ao mesmo Parlamento, introduz a circunstância política nova, que é a do reconhecimento de uma capacidade e de uma necessidade do Parlamento num domínio, \neximindo-lhe, todavia, o aspecto essencial do mesmo acordo, que é o problema do prorrogamento no tempo das facilidades de utilização.\nHá, pois, aqui um problema político fundamental, que já resultou de intervenções anteriores - Sr. Deputado Adriano Moreira colocou-o lateralmente de uma maneira elegante, mas não deixou também de o colocar - que careceria de um esclarecimento político, que só os próprios subscritores da proposta, [...] caso os ministros em questão, o deveriam prestar. É a lógica da presença, hoje e aqui, dos membros Governo.\nSr. Presidente, Srs. Deputados: Vamos abordar apenas a questão dos acordos.\nSó é possível fazer a análise do problema destes acordos se tivermos em conta um enquadramento político de três âmbitos: primeiro, aquilo que resulta do nosso papel e da nossa opinião sobre a participação de Portugal na NATO; segundo, a importância primordial específica da Região Autónoma dos Açores; terceiro, na abordagem daquilo que foi discutido nesta Assembleia e já aprovado, que são as bases do Conceito Estratégico de Defesa Nacional.\nPrimeira questão: Portugal deve felicitar-se pela existência da Aliança Atlântica e do Pacto de Varsóvia, em que a existência destes dois blocos político-militar trouxe à Europa, desde 1945, uma paz real: uma pode dizer-se, sedimentada num conceito de ameaças e de dissuasão acrescidas, mas a verdade é que a Europa teve paz durante 40 anos..., e pode tê-la por mais tempo.\nIsto por uma razão essencial: é que, no âmbito de relação bilateral entre dois Estados, não são possíveis, no âmbito europeu, conflitos bilaterais. Conflitos que envolvam a ameaça do instrumento militar de um Estado não são possíveis, porque, automaticamente, se passe no limiar de intervenção acrescida, que é exercida através da \nsolidariedade global, que é acrescida a esses Estados. Donde a passagem da bilateralidade à multilateralidade, por efeito da existência do Pacto de Varsóvia e da NATO são dissuasores credíveis que deram paz à Europa. Portugal felicita-se, pois, por estar na NATO, como \nnaturalmente outros países se felicitarão por estarem em pactos que trouxeram paz à Europa!, \nMas ser membro da NATO implica consequências políticas. Portugal, por isso, adere globalmente a qualquer reserva ao acordo da própria NATO.\nIsso, Sr. Presidente e Srs. Deputados, põe a questão da importância dos Açores, que, sendo grande [...] 1945, hoje em dia é essencial. Isto por uma razão única de natureza militar: no caso de desencadeamento de hostilidade no Centro ou no Norte da Europa a Aliança Atlântica dispõe de meios convencionais suficientes para assegurar, entre a primeira semana e metade da segunda semana de agressão, forças defensivas suficientes que garantam uma resposta [...] avançada.", 
-   "type": null
+   "speaker": "O Orador", 
+   "text": "Não está em causa o mérito, a competência e o respeito que nos devem os Srs. Secretários de Estado, mas, sim, o problema da relação política democrática entre Governo e Assembleia da República; está em causa a questão de saber qual a natureza de relação de poder, qual a responsabilidade política. Esta é a primeira nota.\nDaqui decorre um segundo ponto prévio que se articula com o primeiro. O Governo da República apresentou a esta Assembleia - julgo que há cerca de l ano - duas propostas de autorização legislativa que \nconsubstanciavam aquilo que o Governo pensava ser o domínio específico, essencial e exclusivo do poder parlamentar.\nEram matérias que, nos acordos em questão, referenciavam situações de natureza fiscal e de direitos, liberdades e garantias. Vários acontecimentos levaram a que o Governo retirasse as autorizações legislativas relativas a essas duas áreas.\nMas, simultaneamente, o Governo, por acordo de troca de notas, isto é, por um acordo meramente de natureza de relação inter-administração americana e Governo Português, dá uma extensão temporal aos acordos estabelecidos em 1957 e revistos em 1984.\nIsto é, o Governo, em 1984, dizia e concebia que a Assembleia da República era o local essencial para se poder discutir e aprovar só algumas - diria um décimo daquilo que respeita a este acordo -, reservando para si, assumindo ele próprio como potência capaz, as outras áreas, mormente a extensão das facilidades no tempo, que passam a ser do domínio do Governo. Era uma propositura lógica e coerente.\nAlguns podê-la-iam discutir, mas era lógica e coerente.\nA partir do momento em que o Governo coloca todo o acordo, todos os anexos, na Assembleia da República, o Governo não tem, com essa medida, um acto de benignidade ou condescendência política para com a Assembleia; o que o Governo diz é que, afinal, não é apenas da exclusiva competência do Parlamento o problema de natureza fiscal e o dos direitos, liberdades e garantias, mas, pelo contrário, é da competência do Parlamento todo o acordo técnico.\nOra, se assim é, como é que, politicamente é possível considerar que algumas minudências técnica esta Assembleia e o aspecto essencial, que resulta mesmo acordo, que é a extensão temporal das facilidades, é eximido ao próprio Parlamento? \nA atitude política que o Governo tomou na transformação de duas autorizações legislativas, sem dar-lhe de domínios específicos do Parlamento, trazendo o acordo técnico ao mesmo Parlamento, introduz a circunstância política nova, que é a do reconhecimento de uma capacidade e de uma necessidade do Parlamento num domínio, \neximindo-lhe, todavia, o aspecto essencial do mesmo acordo, que é o problema do prorrogamento no tempo das facilidades de utilização.\nHá, pois, aqui um problema político fundamental, que já resultou de intervenções anteriores - Sr. Deputado Adriano Moreira colocou-o lateralmente de uma maneira elegante, mas não deixou também de o colocar - que careceria de um esclarecimento político, que só os próprios subscritores da proposta, [...] caso os ministros em questão, o deveriam prestar. É a lógica da presença, hoje e aqui, dos membros Governo.\nSr. Presidente, Srs. Deputados: Vamos abordar apenas a questão dos acordos.\nSó é possível fazer a análise do problema destes acordos se tivermos em conta um enquadramento político de três âmbitos: primeiro, aquilo que resulta do nosso papel e da nossa opinião sobre a participação de Portugal na NATO; segundo, a importância primordial específica da Região Autónoma dos Açores; terceiro, na abordagem daquilo que foi discutido nesta Assembleia e já aprovado, que são as bases do Conceito Estratégico de Defesa Nacional.\nPrimeira questão: Portugal deve felicitar-se pela existência da Aliança Atlântica e do Pacto de Varsóvia, em que a existência destes dois blocos político-militar trouxe à Europa, desde 1945, uma paz real: uma pode dizer-se, sedimentada num conceito de ameaças e de dissuasão acrescidas, mas a verdade é que a Europa teve paz durante 40 anos..., e pode tê-la por mais tempo.\nIsto por uma razão essencial: é que, no âmbito de relação bilateral entre dois Estados, não são possíveis, no âmbito europeu, conflitos bilaterais. Conflitos que envolvam a ameaça do instrumento militar de um Estado não são possíveis, porque, automaticamente, se passe no limiar de intervenção acrescida, que é exercida através da \nsolidariedade global, que é acrescida a esses Estados. Donde a passagem da bilateralidade à multilateralidade, por efeito da existência do Pacto de Varsóvia e da NATO são dissuasores credíveis que deram paz à Europa. Portugal felicita-se, pois, por estar na NATO, como \nnaturalmente outros países se felicitarão por estarem em pactos que trouxeram paz à Europa!, \nMas ser membro da NATO implica consequências políticas. Portugal, por isso, adere globalmente a qualquer reserva ao acordo da própria NATO.\nIsso, Sr. Presidente e Srs. Deputados, põe a questão da importância dos Açores, que, sendo grande [...] 1945, hoje em dia é essencial. Isto por uma razão única de natureza militar: no caso de desencadeamento de hostilidade no Centro ou no Norte da Europa a Aliança Atlântica dispõe de meios convencionais suficientes para assegurar, entre a primeira semana e metade da segunda semana de agressão, forças defensivas suficientes que garantam uma resposta [...] avançada.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "5 DE JULHO DE 1985 3825", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "A partir de meados da segunda semana de hostilidades, e no caso de não serem desencadeadas utilizações de armas nucleares ou químicas em elevado grau intensidade, a Europa carece, sobretudo na zona central, de reforços que vêm, primordialmente, dos Estados Unidos da América.\nEntre a segunda e a quarta semanas de desencadeamento de conflitos, de hostilidade abertas sobretudo no Centro da Europa, põe-se a questão da necessidade de meios rápidos de transporte entre os Estados Unidos e a Europa.\nÉ por isso, Sr. Presidente e Srs. Deputados, que os Açores são importantes. Os Açores funcionam como um meio de fiscalização e de prevenção de qualquer dá luta anti-submarina, que é necessariamente realizável para que a Europa possa responder a uma ofensiva eventual que lhe seja desencadeada pelo Pacto de \nVarsóvia.\nA terceira questão tem a ver com o Conceito Estratégico de Defesa Nacional, discutido nesta Assembleia e aprovado pelo Governo e pelo Conselho Superior de Defesa Nacional.\nAí prevêem-se duas circunstâncias que, liminarmente, apoiamos: \nprimeiro, Portugal deve ter meios de autonomia suficientes para responder, num primeiro momento, a uma eventual agressão; segundo, se os meios portugueses não forem suficientes para colmatar a resposta Portugal pode, ao abrigo de alianças defensivas político-militares onde estão inseridas, solicitar o apoio, que é automático, ao abrigo do artigo 5.° do Tratado da NATO, no caso de essas hostilidades se verificarem.\nComo tal, o presente acordo entre o Governo Português e o Governo dos Estados Unidos da América corresponde ao desiderato mínimo que está prescrito d'sse mesmo Conceito Estratégico de Defesa Nacional.\nO Partido Comunista atacou o acordo em várias linhas. Tentarei, resumidamente, dar a minha opinião sobre algumas críticas que o PCP fez e que, do meu ponto de vista, são infundadas. Vamos às mais \nimportantes, visto que o tempo não permite ir a todas. Vamos àquelas que considero mais importantes, reservando para outro companheiro de bancada alguns pormenores, algumas especificações e, até mesmo, alguma intervenção mais marcada em relação a domínios mais específicos que respeitem à própria região autónoma.\nA primeira crítica que o Partido Comunista faz prende-se com aquilo que é considerado «Portugal éster envolvido em planos estratégicos contrários ao interesse nacional» e que, ao fim e ao cabo, \neuferísticamente, o próprio acordo técnico com os Estados Unidos da América significa uma diminuição da opacidade portuguesa e uma subordinação portuguesa \nEste argumento não parece pertinente porque, Srs. Deputados do Partido Comunista, o que se passa no Centro, no Norte ou no Flanco Sul da Europa respeita aos países que têm fronteira com a eventual hostilidade como respeitam a Portugal. Isso faz da lógica de um tratado, faz parte da lógica da de global, política e militar, à qual estamos vinculados.\nSe para nós é importante o que se passa na Noruega ou na Alemanha, para esses países é tão importante o que se passa nos Açores.\nDonde a nossa lógica ser global e não haver um interesse específico americano nisto; há o interesse global português, também americano, naturalmente!, mas, acima de tudo, há o interesse português.\nPortugal não está envolvido em planos alheios; Portugal participa em planos que aprovou e consubstância e nos quais envolvida também uma componente militar e, sobretudo, uma componente política.\nE, se o acordo de 1984 prevê cláusulas novas - no meu ponto de vista, bem mais explícitas do que o acordo de 1957 -, chamo a sua atenção pata três cláusulas fundamentais: o acordo de 1957 previa, por exemplo, que apenas era apensa a Portugal, à responsabilidade portuguesa, a defesa imediata em termos de meios terrestres e aéreos da Região Autónoma dos Açores. Como sabe, em termos militares, há a chamada «defesa imediata e a defesa à distância», o que significa que, no acordo de 1984, por se retirar a defesa imediata, apenas da responsabilidade portuguesa, houve uma amplitude da missão portuguesa para além da própria defesa imediata.\nEnquanto no acordo de 1957 havia, claramente, uma diminuição da capacidade operativa de intervenção e de responsabilidade portuguesa, neste acordo de 1984 não há.\nEnquanto no acordo de 1957 estava previsto, por exemplo, que apenas competia a Portugal, nesse âmbito, uma intervenção em Maios terrestres e aéreos, estando cometida aos Estados Unidos da América a intervenção em meios navais, o acordo de 1984 retira aos Estados Unidos a intervenção em meios navais; circunscreve apenas aos meios aéreos inclusive a aviação naval, mas não a meios operativos de superfície ou submarinos navais.\nA terceira questão que interessa precisar tem a ver com a noção de soberania que, no acordo de 1957, era quase limitada. Penso que, no acordo de 1984, a questão está colocada em termos mais próprios, mais «secos» mas mais precisos.\nPenso que há vantagens nisso, assim como há vantagens na própria classificação que decorre, aliás, do artigo 1.° do acordo, sabe qual o grau de intervenção das Forças dos Estados Unidos.\nSrs. Deputados, enquanto no acordo de 1957 se declarava, \nexplicitamente, que a condução de operações de guerra era permitida às Forças dos Estados Unidos em território da Região Autónoma dos Açores, no acordo de 1984 foi completamente eliminada essa perspectiva, recolocando-se outra mais de acordo com a nossa própria postura do domínio da relação internacional. É que apenas se permite que o território da Região Autónoma dos Açores, o caso concreto das Lajes, possa ser utilizado para a condição de condução de operações e apenas no desencadeamento de hostilidades ao abrigo do acordo da NATO, ou seja, ao abrigo do artigo 5.° do Tratado. Isso reduz a margem ou de ambiguidade ou de excessiva operacionalidade que, eventualmente, podia estar implícita no acordo de 1957.\nQuer parecer-me por isso, Srs. Deputados, que o acordo de 1984 salvaguarda mais clara e objectivamente o comando português, a autonomia portuguesa, a soberania portuguesa.\nDirão os Srs. Deputados: «Mas mesmo assim as Forças Armadas americanas podem exercer, em termos de treino para a acção ou condução de operações, no caso de se desencadearem hostilidades - artigo 1.°, n.° 1 -, por exemplo, o patrulhamento marítimo». Os Srs. Deputados têm razão em qualificar essa situação como sendo uma situação relativamente desvantajosa.", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "3826 I SERIE — NUMERO 102", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Mas vejamos qual é a alternativa: a alternativa é a de Portugal ter, pelo menos, 6 aviões de vigilância aérea. E é curioso que eu ontem tenha ouvido aqui uma crítica pela aquisição pelas Forças Armadas portuguesas dos chamados P3 Orion que, afinal, são os meios que a própria Força Aérea vai utilizar para, eventualmente, ela própria poder desempenhar essa missão, sem recurso a outrem!", 
-   "type": null
+   "type": "deputado_continuacao"
   }, 
   {
    "party": "PSD", 
    "speaker": "Cardoso Ferreira", 
    "text": "Muito bem!", 
-   "type": "deputado_intervencao"
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
@@ -1074,13 +1033,14 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "O Orador", 
-   "text": "O Sr. *José Magalhães* (PCP): Tem, por acaso, cópia dos originais do acordo de 1957?", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "José Magalhães", 
+   "text": "Tem, por acaso, cópia dos originais do acordo de 1957?", 
+   "type": "deputado_aparte"
   }, 
   {
    "speaker": "O Orador", 
-   "text": "O Orador: Tenho!", 
+   "text": "Tenho!", 
    "type": "deputado_continuacao"
   }, 
   {

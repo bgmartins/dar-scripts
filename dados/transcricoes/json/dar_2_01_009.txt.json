@@ -29,8 +29,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai proceder-se à chamada.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Vai proceder-se à chamada.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 16 horas e 20 minutos.", 
@@ -39,379 +40,473 @@
   {
    "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adérito Manuel Soares Campos.\nAlberto Augusto Faria dos Santos.\nÁlvaro Barros Marques Figueiredo.\nAmândio Anes de Azevedo.\nAmélia Cavaleiro M. de Andrade Azevedo.\nAmérico Abreu Dias.\nAntónio Alberto Correia Cabecinha.\nAntónio Augusto Lacerda de Queirós.\nAntónio Duarte e Duarte Chagas.\nAntónio Maria de O. Ourique Mendes.\nAntónio Roleira Marinho.\nAntónio Vilar Ribeiro.\nArmando Costa.\nArménio dos Santos.\nBernardino da Costa Pereira.\nCarlos Manuel Pereira Pinho.\nCarlos Matos Macedo.\nCecília Pita Catarino.\nCipriano Rodrigues Martins.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nFernando José da Costa.\nFernando José F. Fleming de Oliveira.\nFernando José Sequeira Roriz.\nFernando Manuel A. Cardoso Ferreira.\nFernando Manuel C. Barbosa Mesquita.\nFernando dos Reis Condesso.\nFrancisco José de Sousa Tavares.\nHenrique Alberto F. Nascimento Rodrigues.\nJaime Adalberto Simões Ramos.\nJoão Aurélio Dias Mendes.\nJoão Manuel Coutinho Sá Fernandes.\nJoão Vasco da Luz Botelho Paiva.\nJoaquim Manuel Cabrita Neto.\nJoaquim Pinto.\nJosé Adriano Gago Vitorino.\nJosé Ângelo Ferreira Correia.\nJosé Augusto de Oliveira Baptista.\nJosé Augusto Santos da Silva Marques.\nJosé Bento Gonçalves.\nJosé Manuel Meneres Sampaio Pimentel.\nJosé Manuel Pinheiro Barradas.\nJosé Mário de Lemos Damião.\nJosé Teodoro da Silva.\nJosé de Vargas Bulcão.\nLeonardo Eugénio R. Ribeiro de Almeida.\nLeonel Santa Rita Pires.\nLuís António Martins.\nLuís Fernando C. Nandim de Carvalho.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "266 I SÉRIE - NÚMERO 9", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Manuel António Araújo dos Santos \nManuel António Lopes Ribeiro.\nManuel Ferreira Martins.\nManuel Filipe Correia de Jesus.\nManuel Maria Moreira.\nManuel Maria Portugal da Fonseca.\nManuel Pereira.\nManuel Ribeiro Arruda.\nManuel Vaz Freixo.\nMaria da Glória Rodrigues Duarte.\nMaria Helena do Rego C. Salema Roseta.\nMaria Margarida R. C. S. Moura Ribeiro.\nMarília Dulce Coelho Pires M. Raimundo.\nMário Dias Lopes.\nMário Júlio Montalvão Machado.\nMário Martins Adegas.\nNatália de Oliveira Correia.\nNicolau Gregório de Freitas.\nNuno Aires Rodrigues dos Santos.\nPedro Augusto Cunha Pinto.\nPedro Manuel da Cruz Roseta.\nPedro Miguel de Santana Lopes.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Barradas do Amaral.\nValdemar Cardoso Alves.\nVirgílio António Pinto Nunes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adelino Teixeira de Carvalho.\nAlberto Marques Antunes.\nAlberto Marques de Oliveira e Silva.\nAlfredo Barroso.\nAlfredo Pinto da Silva.\nAntónio de Almeida Santos.\nAntónio Duarte Arnaut.\nAntónio Azevedo Gomes.\nAntónio Cândido Miranda Macedo.\nAntónio Carlos Ribeiro Campos.\nAntónio Fernandes da Fonseca.\nAntónio José Sanches Esteves.\nAntónio Magalhães da Silva.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "ntónio Janeiro.\nAntónio Marques Ribeiro Reis.\nAntónio Teixeira Lopes.\nAntónio Manuel Maldonado Gonelha.\nAquilino Ribeiro Machado.\nArmando dos Santos Lopes.\nAvelino Ferreira Loureiro Zenha.\nBeatriz Cal Brandão.\nBento Elísio de Azevedo.\nCarlos Cardoso Laje.\nCarlos Manuel Natividade Costa Candal.\nEduardo Ribeiro Pereira.\nFausto Sacramento Marques.\nFernando Torres Marinho.\nFrancisco de Almeida Salgado Zenha.\nGuilherme Gomes dos Santos.\nJaime José Matos da Gama.\nJoão Alfredo Félix Vieira Lima.\nJoão Cardona Gomes Cravinho.\nJoão Francisco Ludovico da Costa.\nJoaquim José Catanho Meneses.\nJoaquim Sousa Gomes Carneiro.\nJosé Gomes Fernandes.\nJosé Manuel Nisa Antunes Mendes.\nJúlio Almeida Carrapato.\nJúlio Francisco Miranda Calha.\nLuís Filipe Nascimento Madeira.\nLuís Patrão.\nLuís Silvério Gonçalves Saias.\nManuel Alegre de Melo Duarte.\nManuel Alfredo Tito de Morais.\nManuel Francisco da Costa.\nManuel da Mata de Cáceres.\nManuel dos Santos.\nManuel Trindade Reis.\nMaria Teresa V. Bastos Ramos Ambrósio.\nMário Lopes Soares.\nMário Manuel Cal Brandão.\nRaul d'Assunção Pimenta Rego.\nRui Fernando Pereira Mateus.\nTeófilo Carvalho dos Santos.\nVirgílio Fernando Marques Rodrigues.\nVítor Brás.\nVítor Manuel Ribeiro Constâncio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Adalberto Neiva de Oliveira.\nAdriano José Alves Moreira.\nAdriano Vasco da Fonseca Rodrigues.\nAlberto Henriques Coimbra.\nAlexandre Correia de Carvalho Reigoto.\nAntónio Jacinto Martins Canaverde.\nAntónio José T. Gomes de Pinho.\nAntónio Mendes de Carvalho.\nArmando Domingues L. Ribeiro de Oliveira.\nCarlos Alberto Rosa.\nDaniel Fernandes Domingues.\nEmídio Ferrão da Costa Pinheiro.\nEmílio Leitão Paulo.\nEugénio Maria N. Anacoreta Correia.\nFrancisco António Lucas Pires.\nFrancisco Gonçalves C. de Ferreira.\nFrancisco Manuel L. V. de Oliveira Dias.\nFrancisco Manuel de Meneses Falcão.\nHenrique José C. M. Pereira de Morais.\nHenrique Manuel Soares Cruz.\nIsilda da Silva Barata.\nJoão Cantinho M. Figueiras de Andrade.\nJoão José M. Ferreira Pulido Almeida.\nJosé Alberto de Faria Xerez.\nJosé Eduardo F. de Sanches Osório.\nJosé Girão Pereira.\nJosé Manuel Rodrigues Casqueiro.\nLuís Eduardo da Silva Barbosa.\nLuísa Maria Freire C. Vaz Raposo.\nManuel António de A. de A. Vasconcelos.\nManuel Eugénio P. Cavaleiro Brandão.\nMaria Cândida Von Hafe A. Cunha Perez.\nMaria José Paulo Sampaio.\nMário Gaioso Henriques.\nNarana Sinai Coissoró.\nRui Eduardo Ferreira Rodrigues Pena.\nRui Garcia de Oliveira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nÁlvaro Favas Brasileiro.\nAnselmo Aníbal.\nAntónio Joaquim Gervásio.\nAntónio da Silva Mota.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "11 DE DEZEMBRO DE 1980 267", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Carlos Alberto do Carmo da C. Espadinha.\nCustódio Jacinto Gingão.\nDinis Fernandes Miranda.\nDomingos Abrantes Ferreira.\nErcília Carreira Pimenta Talhadas.\nFernando de Almeida Sousa Marques.\nFrancisco Miguel Duarte.\nGeorgete de Oliveira Ferreira.\nHélder Simão Pinheiro.\nJerónimo Carvalho de Sousa.\nJoaquim Miranda da Silva.\nJoaquim Gomes dos Santos.\nJoaquim Vítor Gomes de Sá.\nJorge do Carmo da Silva Leite.\nJorge Manuel Abreu de Lemos.\nJorge Patrício.\nJosé Ernesto I. Leão de Oliveira.\nJosé Manuel da Costa Carreira Marques.\nJosé Manuel Maia Nunes de Almeida.\nJosé Rodrigues Vitoriano.\nLino Carvalho Lima.\nManuel Lopes.\nManuel Rogério Brito.\nMaria Alda Barbosa Nogueira.\nMaria Ilda Costa Figueiredo.\nMaria Odete Santos.\nOctávio Augusto Teixeira.\nVital Martins Moreira.\nZita Maria de Seabra Roseiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Popular Monárquico (PPM)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "António Borges de Carvalho.\nAntónio Cardoso Moniz.\nHenrique Barrilaro Ruas.\nJorge Vítor M. Portugal da Silveira.\nLuís Filipe Ottolini Bebiano Coimbra.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Acção Social-Democrata Independente (ASDI)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "António Luciano P. Sousa Franco.\nJoaquim Jorge de Magalhães S. da Mota.\nJorge Manuel M. Loureiro de Miranda.\nManuel Cardoso Vilhena de Carvalho.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "União da Esquerda para a Democracia Socialista (UEDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "António Manuel C. Ferreira Vitorino.\nAntónio Poppe Lopes Cardoso.\nCésar Oliveira.\nMaria Teresa de Santa Clara Gomes.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Movimento Democrático Português (MDP/CDE)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, à qual responderam os seguintes Srs. Deputados", 
    "text": "Helena Tâmega Cidade Moura.\nHerberto de Castro Goulart da Silva.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Responderam à chamada 218 Srs. Deputados. Temos quórum, pelo que declaro aberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Responderam à chamada 218 Srs. Deputados. Temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 16 horas e 35 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, como é do conhecimento de VV.\nEx.ªs, por consenso estabelecido entre todos os grupos parlamentares, a presente sessão plenária da Assembleia da República terá exclusivamente por objectivo a manifestação de pesar pela morte em acidente ocorrido na passada quinta-feira de três homens públicos que, embora exercendo funções no Governo, eram nossos companheiros nesta Casa, visto todos serem deputados. Será portanto esse o fim da presente sessão.\nPara uma intervenção, tem a palavra o Sr. Deputado Pedro Roseta.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, como é do conhecimento de VV.\nEx.ªs, por consenso estabelecido entre todos os grupos parlamentares, a presente sessão plenária da Assembleia da República terá exclusivamente por objectivo a manifestação de pesar pela morte em acidente ocorrido na passada quinta-feira de três homens públicos que, embora exercendo funções no Governo, eram nossos companheiros nesta Casa, visto todos serem deputados. Será portanto esse o fim da presente sessão.\nPara uma intervenção, tem a palavra o Sr. Deputado Pedro Roseta.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Sr. Presidente, Srs. Deputados: \"Já que não podemos usufruir da riqueza da sua companhia, saibamos pelo menos aproveitar a lição das suas vidas\". Assim começou Francisco Sá Carneiro a sua intervenção de evocação da notável personalidade que foi Pinto Leite, em Novembro de 1973.\nEsmagados pelo tremendo desastre, que não só afastou de nós três companheiros de eleição como roubou a Portugal o seu Primeiro-Ministro e o seu Ministro da Defesa Nacional, vamos no mesmo espírito recordar hoje, no sétimo dia, as personalidades excepcionais de Francisco Sá Carneiro, Adelino Amaro da Costa e António Patrício Gouveia.\nSr. Presidente, Srs. Deputados: Os traços essenciais da personalidade de Francisco Sá Carneiro, servida por uma inteligência acutilante e forjada por uma vontade inquebrantável, são, em simultaneidade raramente verificada, a coragem e a frontalidade, a capacidade de decisão e o dinamismo, a intuição e a profundidade da reflexão, o rigor e a competência. Vamos encontrá-las nas quatro fases em que podemos dividir a sua vida pública e profissional.\nNuma primeira fase, Sá Carneiro foi advogado distinto, membro dos órgãos directivos da respectiva Ordem e director da Revista dos Tribunais, logo revelando um rigor e competência que ficaram provados, designadamente em numerosos estudos e artigos jurídicos.\nEm 1969 inicia uma tentativa de transformação da ditadura de Marcelo Caetano, aceitando ser deputado, mas vincando, ainda candidato e em comunicado público, a sua total independência em relação ao Governo e o seu objectivo supremo de se bater, acima de tudo, pelos direitos do homem e pela instauração da democracia em Portugal. Com os seus colegas da chamada ala liberal, da qual se veio a tornar de facto o expoente, desenvolveu durante três anos uma luta inesquecível pela liberdade dos portugueses no próprio terreno do inimigo. Durante três anos, Sá Carneiro fez muitas dezenas de intervenções e requerimentos, apresentou importantíssimos projectos de lei, nomeadamente um projecto de lei de imprensa que abolia a censura, um projecto de amnistia para crimes políticos, projectos sobre os direitos de reunião e associação, um projecto de revisão constitucional e uma proposta de inquérito à PIDE/DGS.\nAfirmou-se desde logo social-democrata. Um grande lutador pela democracia considerou-o então o homem que representava toda a oposição.\nNo início de 1973 renunciou ao mandato por considerar não poder continuar a exercê-lo em fidelidade aos seus ideais e por verificar corripletamente bloqueada qualquer possibilidade reformista do regime.\nEntretanto e por outros meios não deixava de ir propagando o", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Sr. Presidente, Srs. Deputados: \"Já que não podemos usufruir da riqueza da sua companhia, saibamos pelo menos aproveitar a lição das suas vidas\". Assim começou Francisco Sá Carneiro a sua intervenção de evocação da notável personalidade que foi Pinto Leite, em Novembro de 1973.\nEsmagados pelo tremendo desastre, que não só afastou de nós três companheiros de eleição como roubou a Portugal o seu Primeiro-Ministro e o seu Ministro da Defesa Nacional, vamos no mesmo espírito recordar hoje, no sétimo dia, as personalidades excepcionais de Francisco Sá Carneiro, Adelino Amaro da Costa e António Patrício Gouveia.\nSr. Presidente, Srs. Deputados: Os traços essenciais da personalidade de Francisco Sá Carneiro, servida por uma inteligência acutilante e forjada por uma vontade inquebrantável, são, em simultaneidade raramente verificada, a coragem e a frontalidade, a capacidade de decisão e o dinamismo, a intuição e a profundidade da reflexão, o rigor e a competência. Vamos encontrá-las nas quatro fases em que podemos dividir a sua vida pública e profissional.\nNuma primeira fase, Sá Carneiro foi advogado distinto, membro dos órgãos directivos da respectiva Ordem e director da Revista dos Tribunais, logo revelando um rigor e competência que ficaram provados, designadamente em numerosos estudos e artigos jurídicos.\nEm 1969 inicia uma tentativa de transformação da ditadura de Marcelo Caetano, aceitando ser deputado, mas vincando, ainda candidato e em comunicado público, a sua total independência em relação ao Governo e o seu objectivo supremo de se bater, acima de tudo, pelos direitos do homem e pela instauração da democracia em Portugal. Com os seus colegas da chamada ala liberal, da qual se veio a tornar de facto o expoente, desenvolveu durante três anos uma luta inesquecível pela liberdade dos portugueses no próprio terreno do inimigo. Durante três anos, Sá Carneiro fez muitas dezenas de intervenções e requerimentos, apresentou importantíssimos projectos de lei, nomeadamente um projecto de lei de imprensa que abolia a censura, um projecto de amnistia para crimes políticos, projectos sobre os direitos de reunião e associação, um projecto de revisão constitucional e uma proposta de inquérito à PIDE/DGS.\nAfirmou-se desde logo social-democrata. Um grande lutador pela democracia considerou-o então o homem que representava toda a oposição.\nNo início de 1973 renunciou ao mandato por considerar não poder continuar a exercê-lo em fidelidade aos seus ideais e por verificar corripletamente bloqueada qualquer possibilidade reformista do regime.\nEntretanto e por outros meios não deixava de ir propagando o 268 I SÉRIE - NÚMERO 9", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "268 I SÉRIE - NÚMERO 9", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
    "text": "ideal democrático. Relembro apenas a sua actividade na Cooperativa Confronto, que veio a ser dissolvida pelo anterior regime, as várias conferências que proferiu e os célebres \"Vistos\" publicados num sumário de Lisboa e objecto do mais feroz zelo das censuras. Nesta fase foram sem dúvida a coragem e a exigência moral e cívica as qualidades que mais sobressaíram da sua personalidade.\nA terceira fase inicia-se com o 25 de Abril e vê-o como um dos três fundadores do PPD, que de um pequeno grupo inicial conseguiu, em sua volta, transformar-se num grande partido de massas implantado em todas as regiões onde há portugueses.\nEstá ainda bem presente no nosso espírito o que foi a resistência dos democratas à tentativa de novo totalitarismo, o que foi a mobilização popular para a sua derrota. Apesar de uma grave doença que o afastou de Fevereiro a Agosto de 1975, Sá Carneiro tomou parte activa neste combate. Foi dos primeiros a denunciar o perigo de uma tutela militar sobre o regime que não seria assim plenamente democrático enquanto ela subsistisse.\nRetomadas as suas funções à frente do PSD, assumiu-se como líder da oposição que ele próprio considerava tão importante para a democracia como o Governo. Relembro com saudade as suas intervenções como deputado e presidente do Grupo Parlamentar do PSD, que o confirmaram na categoria evidente dos parlamentares de craveira excepcional. Sá Carneiro revelou neste longo período a sua frontalidade, uma raríssima intuição política, a obstinação com que defendia os seus ideais. O seu trabalho Uma Constituição para os Anos 80 é um contributo inestimável para a revisão constitucional que nos compete fazer.\nLançado o projecto da Aliança Democrática, em que vivamente se empenhou, conduziu-a à vitória em Dezembro de 1979, galvanizando a juventude, que aderiu com entusiasmo à esperança renovadora que Francisco anunciava. Certamente por isso os jovens estão hoje entre aqueles que mais cruelmente saírem esta perda.\nSr. Presidente, Srs. Deputados: A partir de 3 de Janeiro passado entra na quarta e última fase da sua vida pública ao ser empossado no cargo de Primeiro-Ministro de Portugal. Duvidavam muitos que fosse possível que quem revelava qualidades e aptidões fora do comum, primeiro para lutar contra um regime opressor, depois para liderar a oposição em liberdade, pudesse demonstrar ainda diferentes capacidades para, com a mesma elevação, governar. Hoje não escondem a sua surpresa e reconhecem que Sá Carneiro se revelou ainda mais e melhor neste período de cerca de um ano em que for Primeiro-Ministro de Portugal. Já aqui fizemos o balanço do seu Governo, o povo fê-lo em 5 de Outubro, seria obviamente deslocado fazê-lo neste momento. O que importa é que Sá Carneiro soube dedicar-se alte à exaustão ao bem dos Portugueses que, como deu testemunho o Vice-Primeiro-Ministro, foi sereno, firme e competente ao leme do Estado, \"que dominava todos os problemas que lhe eram postos com rapidez e argúcia penetrante, que não adiava uma única decisão por mais difícil ou embaraçosa que se apresentasse ser, que não receava assumir a responsabilidade total das resoluções tomadas, que se erguia sempre no plano mais elevado dos superiores interesses nacionais, quer na política externa, quer nos meandros da política interna, onde nunca mostrou, como Primeiro-Ministro, a mais leve ponta de espírito partidário\".\nSr. Presidente, Srs. Deputados: Por meu intermédio, os deputados do Partido Social-Democrata querem testemunhar aqui da insatisfação permanente que habitava o seu espírito, próprio, aliás, dos \nsociais-democratas. Queria, sem parar, ir sempre mais além.\nEstimulava-nos sem cessar para fazer mais e melhor; convidava-nos ao movimento, assumindo a perspectiva bernsteiniana de que, mais do que pretensos objectivos finais, é a acção constante para resolver os problemas que interessa.\nEra sua preocupação permanente, de que repetidamente nos falava, a melhoria do rendimento real dos Portugueses, do seu nível e qualidade de vida. A sua firmeza, o seu distanciamento altaneiro em relação às calúnias, nunca implicaram qualquer ponta de ódio aos adversários. A frieza aparente que por vezes aparecia nas suas palavras foi moderação no Poder, à imagem do optimus princeps que os clássicos reconheciam nalguns governantes da antiguidade. Soube interpretar as aspirações mais profundas dos Portugueses, como referiu há dias o Sr. Bispo do Porto. Daí o seu carisma, por isso a confiança que nele depositaram há semanas três milhões dos nossos compatriotas.\nHonrou as tradições gloriosas da sua terra, a cidade do Porto, pátria da liberdade em Portugal. Compreendeu em especial os interesses dos mais desfavorecidos, dos idosos, dos pequenos agricultores, dos trabalhadores, dos habitantes das regiões do interior, dos povos das Regiões Autónomas dos Açores e da Madeira.\nAs reacções que a sua morte provocou dentro e fora do País provam que soube concitar o respeito geral e que tinha já adquirido relevante projecção internacional.\nCinco princípios guiaram, a meu ver, os seus passos: a democracia plena como sistema político; a liberdade da sociedade civil perante o Estado; o reformismo como método de transformação da sociedade; a necessidade da adesão de Portugal à Europa; a social-democracia como ideologia de justiça social, de solidariedade e de fraternidade.\nSr. Presidente, Srs. Deputados: Para nós ele é, sobretudo, o Grande e Insubstituível Amigo que continua connosco. Ele é, agora, na sua plenitude, o Homem, o homem que, pela obra cumprida, projecta o seu tempo na historia.\nSr. Presidente, Srs. Deputados: O desaparecimento de Adelino Amaro da Costa constitui também perda irreparável no panorama político português. São conhecidas a sua competência profissional, o seu êxito nas lides jornalísticas, o elevado nível de especialista em problemas da educação. Mas Amaro da Costa revelou, sobretudo, um conjunto impressionante de qualidades humanas e políticas: a inteligência, ao mesmo tempo viva e profunda; a capacidade de trabalho sem limites quase sobre-humana; a simpatia esfuziante e a abertura ao diálogo; a compreensão dos problemas e a capacidade enorme da sua exposição oral e escrita.\nCertamente nenhum de nós poderá jamais olvidar o parlamentar brilhantíssimo, o líder da sua bancada, que em diversas intervenções elevou os debates ao nível mais alto de sempre, todas as vezes escutado", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
    "text": "11 DE DEZEMBRO DE 1980 269", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
    "text": "pela Câmara com o mais interessado silêncio. Ele foi o político integral, na oposição ou no Governo. Vice-presidente do CDS, bateu-se em horas muito difíceis pelos seus ideais centristas e \ndemocratas-cristãos e pela sobrevivência da democracia em Portugal. Foi dos máximos entusiastas do projecto da Aliança Democrática e por ele lutou com garra até ao último minuto. Primeiro Ministro civil da Defesa Nacional após o 25 de Abril, desempenhou com pleno sucesso tão delicada tarefa, preparando agora a transição das forças armadas para a dependência do poder civil. Todos nós, sobretudo aqueles que, como eu, eram há muito seus amigos, guardarão para sempre consigo tão rica e multifacetada personalidade.\nSr. Presidente, Srs. Deputados: António Patrício Gouveia, deputado em 1979 e 1980, desempenhava com competência absoluta o cargo de chefe de Gabinete do Primeiro-Ministro, homem com quem mais gostava de trabalhar.\nEconomista brilhante, dedicou-se muito cedo à política, nomeadamente no sector dos negócios estrangeiros. Militante do PSD, secretário-geral da sua Comissão de Relações Internacionais, membro do Conselho Nacional, representante nos primeiros Conselhos de Informação para a Imprensa e para a Anop, presente em várias associações ou encontros virados para a política internacional, deixou por toda a parte onde passou a imagem da capacidade e da afabilidade. Em todo o lado deixou amigos. O seu trato era fácil, a sua simpatia e boa disposição ilimitadas, vastas as suas capacidades intelectuais e grandes as qualidades humanas.\nFoi um exemplo vivo das virtudes sociais-democratas, da solidariedade, da lealdade, da dedicação. Lentamente acumulava um enorme capital de saber e de contactos e, apesar de ter pouco mais de 32 anos, viam-se já os primeiros êxitos de uma carreira política prometedora. Por tudo isto, deixa em nós, seus amigos, uma presença intensa de uma doçura luminosa.\nLembramos também as pessoas das mulheres de Sá Carneiro e Amaro da Costa, bem como os pilotos que pereceram no acidente em desempenho da sua missão.\nPartilhamos a dor das respectivas famílias. Curvamo-nos perante a memória de todos. Sabemos que, como qualquer ser humano, todos tinham, além das qualidades, defeitos. Mas foram tão amados por tantos homens que esperamos que Deus os tenha recolhido.\nPor nossa parte, agradecemos as sentidas expressões que colegas de outras bancadas nos têm transmitido.\nSr. Presidente, Srs. Deputados: Acabo esta pobre oração dedicando a Sá Carneiro as mesmas palavras que ele próprio pronunciou, há dez anos, no final do elogio de um seu querido amigo e companheiro de luta: \"Exemplo que nos responsabiliza gradualmente e que nos move a sair do acabrunhamento da sua perda irreparável para o esforço da actividade política intensa a que nos chama o seu lugar vago e que a Nação tem o direito de nos exigir.\nNão que alguém queira ou possa imitá-lo, mas que cada um a seu modo preste, mercê de um trabalho mais árduo, mais corajoso, mais aguerrido, o tributo que merece a sua memória e a de todos os que pereceram no desempenho do mandato que haviam recebido dos eleitores.\" \nNós continuaremos, pois, a sua obra. Sabemos que, graças a ele e a outros que surgiram já, ou virão ainda a aparecer, o século XX não ficará jamais na história de Portugal como século dos ditadores, mas sim o século da democracia. Para mim, certamente para vós, queridos companheiros, ele será para sempre o século de Francisco Sá Carneiro.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD, do PS, do CDS, do PPM, da ASDI e da UEDS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr, Deputado Mário Soares.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr, Deputado Mário Soares.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Mário Soares* (PS): Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Em nome do Grupo Parlamentar do Partido Socialista venho juntar a nossa voz à homenagem que a Assembleia da República hoje presta a três ilustres deputados desaparecidos tragicamente - Francisco Sá Carneiro, Adelino Amaro da Costa e António Patrício de Gouveia.\nFazemo-lo com sinceridade e com respeito, fazemo-lo comovidamente.\nNão se estranhe que adversários políticos que sempre fomos dos três homens públicos - com a mesma frontalidade que eles punham no combate político em que estavam empenhados - nos inclinemos agora perante a sua memória com profundo pesar. A política é frequentemente uma actividade dura, com uma lógica implacável, conduzindo, por vezes, a confrontações desgostantes, irredutíveis e mesmo injustas. Mas para aqueles que acreditam sinceramente nos direitos e valores humanos e têm a nortear a sua acção motivações nobres (e não interesses mesquinhos ou meras ambições) a política não exclui, não pode nem deve excluir os sentimentos genuínos de apreço, de espontânea simpatia, de respeito, de franca convivência e (porque não dizê-lo?) de admiração, que ligam entre si os seres humanos e constituem o melhor da nossa condição de homens.\nSublinhei no próprio momento em que tive conhecimento do trágico acidente que em democracia não há inimigos, mas simples adversários. O facto de nos encontrarmos em campos politicamente opostos nunca impediu a cordialidade, a estima recíproca, o apreço sincero e mesmo a amizade.\nA democracia deve fazer-se no confronto, por vezes sem tréguas, de ideias, de sistemas e de projectos políticos diferenciados, mas nunca pode nem deve dar lugar à destruição ou ao amesquinhamento dos homens.\nNesse aspecto, a nossa jovem democracia tem dado passos efectivos e tem-nos conduzido a todos, designadamente nesta Assembleia, a hábitos de convivência cívica e de respeito mútuo entre adversários políticos, que não existiam nem podiam existir no tempo da ditadura, e que hoje todos reconhecemos que são fecundos, necessários e salutares. Francisco Sá Carneiro e Adelino Amaro da Costa - este último, além do mais, pela sua natureza de genuíno parlamentar e pelo seu temperamento \ntransbordante, cordialíssimo e caloroso - souberam ser fiéis a estas regras de con-", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Mário Soares", 
+   "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Em nome do Grupo Parlamentar do Partido Socialista venho juntar a nossa voz à homenagem que a Assembleia da República hoje presta a três ilustres deputados desaparecidos tragicamente - Francisco Sá Carneiro, Adelino Amaro da Costa e António Patrício de Gouveia.\nFazemo-lo com sinceridade e com respeito, fazemo-lo comovidamente.\nNão se estranhe que adversários políticos que sempre fomos dos três homens públicos - com a mesma frontalidade que eles punham no combate político em que estavam empenhados - nos inclinemos agora perante a sua memória com profundo pesar. A política é frequentemente uma actividade dura, com uma lógica implacável, conduzindo, por vezes, a confrontações desgostantes, irredutíveis e mesmo injustas. Mas para aqueles que acreditam sinceramente nos direitos e valores humanos e têm a nortear a sua acção motivações nobres (e não interesses mesquinhos ou meras ambições) a política não exclui, não pode nem deve excluir os sentimentos genuínos de apreço, de espontânea simpatia, de respeito, de franca convivência e (porque não dizê-lo?) de admiração, que ligam entre si os seres humanos e constituem o melhor da nossa condição de homens.\nSublinhei no próprio momento em que tive conhecimento do trágico acidente que em democracia não há inimigos, mas simples adversários. O facto de nos encontrarmos em campos politicamente opostos nunca impediu a cordialidade, a estima recíproca, o apreço sincero e mesmo a amizade.\nA democracia deve fazer-se no confronto, por vezes sem tréguas, de ideias, de sistemas e de projectos políticos diferenciados, mas nunca pode nem deve dar lugar à destruição ou ao amesquinhamento dos homens.\nNesse aspecto, a nossa jovem democracia tem dado passos efectivos e tem-nos conduzido a todos, designadamente nesta Assembleia, a hábitos de convivência cívica e de respeito mútuo entre adversários políticos, que não existiam nem podiam existir no tempo da ditadura, e que hoje todos reconhecemos que são fecundos, necessários e salutares. Francisco Sá Carneiro e Adelino Amaro da Costa - este último, além do mais, pela sua natureza de genuíno parlamentar e pelo seu temperamento \ntransbordante, cordialíssimo e caloroso - souberam ser fiéis a estas regras de con- 270 I SÉRIE - NÚMERO 9", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "270 I SÉRIE - NÚMERO 9", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Mário Soares", 
    "text": "vivência cívica ainda nos momentos mais difíceis, direi mesmo, com um alto sentido da dignidade pessoal e pública.\nSó conheci pessoalmente Francisco Sá Carneiro depois do 25 de Abril, como colegas que fomos no I Governo Provisório saído da Revolução.\nHavia acompanhado de longe, mas com extremo interesse, a sua acção corajosa quando integrado no pequeno grupo de liberais em oposição ao caetanismo. A ela me refiro, com apreço, no meu livro publicado no exílio Portugal Bailonné. Porém, foi durante o VI Governo Provisório - e a partir de então - que mantive contactos mais prolongados com ele e pude melhor conhecer e apreciar as suas altas qualidades.\nAo contrário do que muitas vezes se disse - e escreveu -, as nossas relações, apesar de todas as sabidas divergências, foram marcadas sempre por uma acentuada cordialidade e por uma real e afectiva simpatia mútua. Naturalmente conheceram altos e baixos, convergências, aproximações, afastamentos e nítidas oposições, ao sabor das flutuações políticas. Líderes dos dois maiores partidos portugueses, com bases programáticas em muitos aspectos próximas, não conseguimos nunca construir, como chegámos a desejar, em consonância, aliás, com o sentimento de milhares de portugueses, um entendimento político duradouro. E se para além das circunstâncias objectivas em si próprias desfavoráveis, ambos teremos tido culpas nesse facto - que constitui seguramente uma das frustrações da nossa jovem democracia -, culpas que, pela minha parte, não enjeito, será de elementar justiça reconhecer também que forças e pessoas estranhas a ambos os partidos e dentro de ambos os partidos alguma coisa fizeram para que isso não acontecesse.\nFrancisco Sá Carneiro foi um homem de coragem e de luta, que não enjeitava o risco das apostas difíceis, um líder carismático, idolatrado e odiado por partidários e adversários, um político polémico que suscitou à sua volta dedicações exemplares, simpatias, paixões, a par de incompreensões, injustiças e mesmo ódios. Não deixou ninguém indiferente. Igual a si próprio, foi um homem vertical, imprevisível nas suas reacções, directo, por vezes cortante, mas sempre fiel a uma concepção de democracia pluripartidária e ao que entendia ser, no seu critério, o interesse nacional. Nos últimos anos adquiriu uma projecção de verdadeiro homem de Estado, mantendo no Governo uma reserva a que o País em relação a ele não estava habituado e mesmo um distanciamento que seguramente beneficiou a sua imagem.\nDisse-me um dia, com uma presciência que já na altura me impressionou, que não iria viver muito. Mas que estava decidido a viver intensamente.\nAssim aconteceu. Hoje, confrontados com o facto brutal e inesperado da sua morte, encontramo-nos, subitamente, perante a evidência de um grande vazio político nesta democracia ainda insegura que Francisco Sá Carneiro indiscutivelmente ajudou a construir e que marcou com o traço indelével da sua personalidade.\nAdelino Amaro da Costa foi um homem diferente, de outra geração e de diverso temperamento. Pilar, dificilmente substituível, do seu partido, foi um homem caloroso, de conciliação e compromisso, de arranjos subtis e, sobretudo, de imaginação política. Parlamentar até à medula, dir-se-ia que os sobressaltos da política o encantavam e o divertiam se não conhecêssemos a firmeza das suas convicções religiosas e políticas.\nFoi um político essencialmente dialogante, aberto às outras formações partidárias, tendo deixado em todas as bancadas desta câmara sólidas amizades. Honro-me de ter sido um dos seus amigos, a quem abriu espontaneamente as portas de sua vida de família e da sua intimidade, apesar de nos situarmos politicamente nos antípodas.\nMas temperamentalmente estaríamos próximos e foi porventura a consciência dessa subtil afinidade que entreteceu as nossas relações.\nAmaro da Costa deixou na sua passagem breve pela vida um rasto de calor humano, de inteligência e de cordialidade que dificilmente será esquecido. Morreu quando tudo havia a esperar do seu inegável talento e começava a estar na posse total das suas raras qualidades de homem público.\nA morte apaga ou secundariza as divergências e obriga a abater as bandeiras partidárias. No plano nacional impõe-se desejar aos partidos da maioria, agora tão duramente atingidos, que \"preencham corajosamente o vazio criado e se afirmem à altura das suas históricas \nresponsabilidades.\nA vida retoma necessariamente os seus direitos. Feita uma pausa de piedoso recolhimento, assumir-nos-emos como oposição, com a \nfrontalidade de sempre. Será essa também uma fornia de homenagear adversários que nunca se negaram ao combate e que sempre experimentaram o gosto da aposta e do risco.\nSr. Presidente, Srs. Deputados: Permitam-me uma última e breve palavra de sentido pesar pelo desaparecimento das duas senhoras que \nacompanharam na morte, como na vida, os homens que amaram. Também a minha homenagem comovida e sincera para António Patrício Gouveia, jovem de talento, de uma afabilidade inesquecível e de total entrega e lealdade ao seu líder partidário. Uma última palavra de sentida recordação aos malogrados pilotos que morreram no desempenho das suas missões profissionais.\nPara os que ficam os tempos que se avizinham serão difíceis.\nProcuraremos todos estar à altura do que o País espera de nós.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos, de pé, do PS, do PSD, do CDS, da ASDI e da UEDS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Oliveira Dias.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Oliveira Dias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Oliveira Dias* (CDS): Sr. Presidente, Srs. Deputados: Esta Assembleia evoca hoje a memória de Francisco Sá Carneiro, de Adelino Amaro da Costa e de António Patrício de Gouveia, deputados eleitos, embora não em exercício de funções, por estarem a ocupar, \nrespectivamente, as funções de Primeiro-Ministro, de Ministro da Defesa e de chefe de Gabinete do Primeiro-Ministro.\nComo afirmámos em outras ocasiões em que a morte daqui levou alguém, bastaria o facto de se tratar de deputados eleitos para que esta Assembleia tivesse fi-", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Oliveira Dias", 
+   "text": "Sr. Presidente, Srs. Deputados: Esta Assembleia evoca hoje a memória de Francisco Sá Carneiro, de Adelino Amaro da Costa e de António Patrício de Gouveia, deputados eleitos, embora não em exercício de funções, por estarem a ocupar, \nrespectivamente, as funções de Primeiro-Ministro, de Ministro da Defesa e de chefe de Gabinete do Primeiro-Ministro.\nComo afirmámos em outras ocasiões em que a morte daqui levou alguém, bastaria o facto de se tratar de deputados eleitos para que esta Assembleia tivesse fi-", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Oliveira Dias", 
    "text": "11 DE DEZEMBRO DE 1980 271", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Oliveira Dias", 
    "text": "cado de luto e se justificasse, portanto, uma reflexão sentida de todos nós a esse respeito. Além disso, há, pelo menos, mais dois motivos para que aqui tenha expressão peculiar esse sentimento e essa atitude: \nprimeiro, a consternação generalizada que, na sequência da morte destes homens, atingiu o povo português, que aqui representamos e de que temos o dever de ser expressão no dia a dia dos nossos trabalhos; segundo, estas mortes enlutam o Governo, orgão de soberania, aliás estreitamente relacionado com esta Assembleia, e uma solidariedade elementar, para além da posição que relativamente a ele caída grupo parlamentar ou partido tenha, deva levar a Assembleia a exprimir-lhe, nestas horas, as suas condolências, pela nossa parte muito e muito sentidas.\nSr. Presidente, Srs. Deputados: Passados alguns dias sobre o trágico acidente, que vitimou, além destes três homens, Snu Abecassis, Manuela Amaro da Costa e os pilotos Jorge Albuquerque e Alfredo de Sousa, depois do choque imediato e da emoção que a todos nós terá atingido, estamos em condições de, em termos singelos, mas nem por isso menos profundamente sentidos, reflectir com alguma serenidade sobre aquilo que aconteceu, a maneira como devem ser avaliadas as suas repercussões, as consequências que estas mortes têm sobre a nossa vida colectiva.\nE, porque, a morte, sendo o mais natural dos sucessos para quem está vivo, é coisa demasiado séria para se confundir com qualquer acontecimento da política menor; porque, mesmo quando acontece em conjunto com outras é indiscutivelmente o mais personalizado dos acontecimentos humanos; porque cada um sabe como sente e entende ou tem dificuldade em entender as montes que à sua volta se sucedem; por todas estas razões, peço licença, Sr. Presidente e Srs. Deputados, para vos ocupar alguns minutos com pensamentos de ordem pessoal que aqui desejaria deixar a todos. Depois passaremos a outro tipo de \nconsiderações.\nÉ que, inserido na vida colectiva, um homem é um ser individual, antes de ser social, e o que eu comecei por sentir naquela noite foi um profundo impacto pessoal, inserto num quadro de considerações e de valores humanos que destes mortos nos ficam, valores humanos entre os quais avultam, evidentemente, o patriotismo e o consequente \nempenhamento total na acção conducente à elaboração e ao \ndesenvolvimento do projecto que, segundo as suas convicções próprias, deverá abrir as melhores perspectivas à vida pessoal e colectiva dos Portugueses.\nAvulta o trabalho político que, ao contrário do que porventura possa dizer quem o não conhece de perto, é esforço intenso e desgastante, que se sobrepõe a direitos menores, de que muito pouca gente, normalmente, abdicaria.\nAvultam a coerência e a lealdade entre homens diferentes, que atravessaram divergências e diversidades de opinião e de temperamento e que, na sequência de uma interpretação das exigências da conjuntura nacional, souberam, pelo empenhamento, pelo trabalho e, sublinho, pela lealdade e pela coerência, fundir as diferenças na solidariedade, produzindo enriquecimento e reforço de uma actividade conjugada.\nTrês homens tão diferentes no aspecto físico, no temperamento, nas características da personalidade e dos métodos de trabalho, e aí os temos -Francisco Sá Carneiro, Adelino Amaro da Costa e António Patrício de Gouveia - agora irmanados na morte, como estiveram - podíamos vê-los - desde há meses irmanados na vida e no trabalho. E bem irmanados nesse outro valor humano que, quando se entende bem na sua profundidade e nas suas exigências será porventura o maior de todos e que é a amizade.\nPor mim, de certo com mais largo e mais íntimo convívio com uns do que com outros, nesse impacto directo, como naquilo que hoje penso, o que mais senti foi o choque que é sempre a perda de um amigo, e perdi três amigos.\nE, Sr. Presidente e Srs. Deputados, sem querer julgar nada do que sente quem quer que seja, atrevo-me a pensar que não fui só eu aqui quem se sentiu privado do convívio de amigos. Muitos de nós, muitos mais, creio eu, do que aqueles que estamos nesta bancada, sentiram assim a morte destes homens, como, aliás, foi testemunhado pelas nobres palavras do Sr. Deputado Mário Soares.\nMas, falando de amizade, creio que será este o momento de lembrarmos aqui aqueles que, pela própria natureza da personalidade humana, são os mais amigos de todos os amigos. Quero referir-me às famílias daqueles que morreram. Para além das sentidas manifestações de solidariedade e de condolências já expressas pelos partidos aqui representados e que tive até pessoalmente oportunidade de testemunhar, de apreciar e de agradecer, penso e proponho que a Assembleia da República, nesta data, exprima às famílias de Sá Carneiro, de Amaro da Costa e de Patrício de Gouveia -e às dos outros mortos, os pilotos Jorge Albuquerque e Alfredo de Sousa - o seu profundo sentimento pela tragédia ocorrida e pela dor que sofrem.\nSr. Presidente, Srs. Deputados: Para além do impacto e do sofrimento que humanamente ocasionaram, estas mortes tiveram e têm um significado evidente na vida nacional.\nConsiderando o que diz respeito aos partidos, o PSD perdeu o seu presidente, o mais proeminente dos seus fundadores e dos seus dirigentes, o obreiro maior da sua vida até à projecção que hoje tem: o maior partido português.\nO CDS sofre, com o desaparecimento de Adelino Amaro da Costa, a perda de alguém que desde o início foi sempre fundamental em todas as horas; o homem que era a incarnação do entusiasmo criador, do realismo e da capacidade de fazer e de levar os outros a fazer também com que as dificuldades - quantas vezes trágicas - fossem apenas obstáculos que é preciso superar e os triunfos meros pretextos para trabalhar melhor, sempre com inteligência, sempre com determinação, sempre com alegria.\nA Aliança Democrática perdeu dois dos seus criadores, dos seus dirigentes mais aptos e mais experientes, dois dos mais notórios e mais populares garantes da sua capacidade de acção.\nParlamentares brilhantes e superiormente dotados, governantes com provas que o povo apreciou e ratificou nas eleições de 5 de Outubro passado.\nO Governo e esta Assembleia sofreram rudes golpes; o PSD e o CDS, a Aliança Democrática, perderam elementos de primeiríssimo plano.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Oliveira Dias", 
    "text": "272 I SÉRIE - NÚMERO 9", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Oliveira Dias", 
    "text": "Perguntar-se-à então pelo País além e nesta Casa: e agora? \nSr. Presidente, Srs. Deputados: A resposta é simples e exigente: agora vamos continuar. Parafraseando um dito conhecido, nada será a mesma coisa, porque eles não estão aqui, mas também nada poderá ser objectivamente diverso.\nA resposta é exigente e ambiciosa, mas não pode ser outra e não será mesmo qualquer outra.\nA resposta é exigente e ambiciosa, porque não é fácil suprir a falta de homens como Francisco Sá Carneiro e Adelino Amaro da Costa, nem no âmbito dos partidos, nem na vida do Governo.\nDizemo-lo sem vanglória, mas com o sentido das nossas \nresponsabilidades: a resposta não pode ser outra, e não será outra, porque nós temos um compromisso a honrar perante o País e perante aqueles mesmos que agora nos faltam, o seu exemplo e a sua memória.\nA vida do CDS nunca foi fácil. O meu partido foi feito e forjado na luta, contra dificuldades indescritíveis; nunca foi nem é uma posição cómoda ser militante ou dirigente do CDS. Com as responsabilidades que temos, sem Amaro da Costa entre nós, é penoso continuar a nossa caminhada na afirmação e no desenvolvimento dos princípios que, temos para nós, encerram respostas indispensáveis para a solução das dificuldades nacionais, para o reencontro de Portugal com a sua dignidade e com os caminhos do seu futuro de pátria livre - de homens livres, construindo a justiça e a felicidade de cada um.\nMas isso é o que vamos fazer! \nA Aliança Democrática nunca foi um projecto de vida fácil para nenhum dos que nela se empenharam, pana aqueles que o povo elegeu como maioria desta Assembleia e, portanto, a quem atribuiu a responsabilidade de governar o País nos quatro anos que iniciamos. A sua resposta à dor e às mutilações que sofreu tem de ser, é e será uma coesão ainda maior entre todos os que ficamos, toda a multiplicação de esforços e trabalhos que for necessária para suprir a falta dos que deixaram de estar entre nós, para honrar os compromissos que assumimos com o povo e pelos quais nos sentimos ainda mais directamente responsabilizados agora que não temos aqui Sá Carneiro nem Amaro da Costa.\nA Aliança Democrática, no Governo e na maioria parlamentar, é uma promessa e uma garantia e é esperança para uma sucessão de dificuldades e de problemas, que nos cumpre superar e resolver ao serviço de Portugal e dos portugueses. Superar e resolver problemas e dificuldades - esperados ou inesperados, como este - foi o que nos comprometemos a realizar e é o que vamos fazer. Este, no fundo, é o sentido da nossa proposta, é o sentido da confiança do povo que nos elegeu, é o encargo que a falta de Sá Carneiro e de Amaro da Costa só reforça.\nE, se os problemas e as dificuldades fossem de somenos, quase nem valeria a pena, pelo menos para muitos de nós, termos vivido todos estes anos de trabalho e de luta, termo-nos apresentado às eleições e estarmos aqui.\nA Aliança Democrática foi construída para enfrentar dificuldades e para realizar um projecto de normalização das instituições, de superação das carências, de estabilização plena da democracia, de elaboração de um futuro justo e feliz para o Portugal de hoje e de amanhã, na identidade nacional e através de uma conjuntura mundial preocupante.\nSomos uma força política constituída para vencer dificuldades. Maiores ou menores, elas surgem todos os dias. Maiores ou menores, \ncontinuaremos a trabalhar para as vencer e para cumprir o que prometemos e que desejamos realizar, sem vanglória, mas sem desânimo, aconteça o que acontecer. Não esperávamos a dolorosíssima surpresa daquela tragédia de quinta-feira passada, mas também as tremendas responsabilidades que dela decorreram não nos fizeram, nem farão, abdicar da confiança que recebemos do eleitorado. Serenamente, vamos guardar connosco as nossas dores e vamos, pois, continuar. É o que os factos nos impõem e é o que nos ensinam também a memória e o exemplo de Sá Carneiro e de Amaro da Costa. A Aliança Democrática honrará os seus compromissos perante os vivos e perante os mortos, perante si própria e perante a oposição, perante Portugal. Vamos continuar a servir o povo português, como ele disse nas eleições de 5 de Outubro passado, que quer ser servido em liberdade, em democracia, no respeito por todos, mas no cumprimento do projecto que o povo escolheu.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Oliveira Dias", 
    "text": "amos cumprir aquilo que prometemos através deste e de todos os desafios que se nos deparam.\nSr. Presidente, Srs, Deputados: Que Deus tenha consigo os mortos que evocamos e que nos ajude a todos perante as dificuldades que há para vencer.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do CDS, do PSD, do PS, do PPM, da ASDI e da UEDS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Veiga de Oliveira.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Veiga de Oliveira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Veiga de Oliveira* (PCP): Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Em nome do Grupo Parlamentar do Partido Comunista Português, queremos lamentar a trágica ocorrência que vitimou o Dr. Sá Carneiro, o engenheiro Amaro da Costa, o Dr. Patrício Gouveia e os seus acompanhantes.\nFazêmo-lo aqui, como em outras oportunidades e locais o fizeram já camaradas meus representativos da direcção do Partido Comunista Português.\nLamentamos o trágico e fatal acidente, sem que pana isso seja necessário esquecer a barreira que nos separava dias vítimas, em especial de Sá Carneiro e de Amaro da Costa.\nSão por de mais conhecidas a nossa total discordância e as profundas divergências em relação às orientações e objectivos políticos dos falecidos.\nE hoje seria hipócrita qualquer tentativa para ocultar o essencial, isto é, a nossa redutível oposição ao projecto político de Sá Carneiro e Amaro da Costa, ao projecto político da \"AD\".\nO respeito que nos merecem os mortos contrasta, aliás, com o ignóbil aproveitamento político feito a propósito da sua morte.\nEm sinal de protesto, diversos deputados do PSD e do CDS abandonam neste momento a sala.\nHoje é-nos difícil falar das opiniões, das atitudes e das postaras políticas Idos falecidos sem pensarmos no significado profundo e na nítida e inquestionável", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
+   "text": "Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Em nome do Grupo Parlamentar do Partido Comunista Português, queremos lamentar a trágica ocorrência que vitimou o Dr. Sá Carneiro, o engenheiro Amaro da Costa, o Dr. Patrício Gouveia e os seus acompanhantes.\nFazêmo-lo aqui, como em outras oportunidades e locais o fizeram já camaradas meus representativos da direcção do Partido Comunista Português.\nLamentamos o trágico e fatal acidente, sem que pana isso seja necessário esquecer a barreira que nos separava dias vítimas, em especial de Sá Carneiro e de Amaro da Costa.\nSão por de mais conhecidas a nossa total discordância e as profundas divergências em relação às orientações e objectivos políticos dos falecidos.\nE hoje seria hipócrita qualquer tentativa para ocultar o essencial, isto é, a nossa redutível oposição ao projecto político de Sá Carneiro e Amaro da Costa, ao projecto político da \"AD\".\nO respeito que nos merecem os mortos contrasta, aliás, com o ignóbil aproveitamento político feito a propósito da sua morte.\nEm sinal de protesto, diversos deputados do PSD e do CDS abandonam neste momento a sala.\nHoje é-nos difícil falar das opiniões, das atitudes e das postaras políticas Idos falecidos sem pensarmos no significado profundo e na nítida e inquestionável 11 DE DEZEMBRO DE 1980 273", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "11 DE DEZEMBRO DE 1980 273", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
    "text": "derrota que ao seu projecto foi infligida pela vontade da maioria dos portugueses, expressa sem equívoco e sem dúvidas pelos resultados dais últimas eleições presidenciais.\nÉ, pois, com inteira clareza e com este espírito de verdade que a nossa intervenção nesta Assembleia tem de ser entendida.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
    "text": "No final da intervenção reentraram na sala os Srs. Deputados que anteriormente a haviam abandonado.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Ferreira do Amaral.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Ferreira do Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Ferreira do Amaral* (PPM): Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Difícil tarefa será tentarmos pata nossa voz corresponder à justíssima incumbência de enaltecer a figura de Francisco Sá Carneiro. Para aqueles, como nós, que preferem os actos e factos ao mero exercício floral desprovido de carga semiológica tudo ficou dito no comovido desespero com que milhões de portugueses choraram a perda dessa notável figura do século XX de Portugal.\nNinguém encomendou o pranto convulsivo que vi em milhares de homens e mulheres nestes dias fatídicos. Ninguém ajudou a provocar as longas vigílias que multidões anónimas quiseram fazer, ao frio da noite, para estarem presentes junto dos restos mortais do seu Primeiro-Ministro.\nNão foi preciso que dobrassem os sinos a chamar acompanhantes paira o ilustre defunto. Não careciam de contabilização as flores, às vezes singularmente depostas com emocionado carinho, junto da uma de quem foi o primeiro militante do maior partido português e a primeira figura da maioria.\nA tragédia abateram súbdita e pesadamente. Mas foi tanto maior quando se verificou, petos factos, que esse homem ocupava um espaço real nos corações de milhões de portugueses.\nEra carismático, sem preconizar nem defender para si um poder único ou ilimitado.\nEra atrevido, sem ser insensato.\nEra combativo, sem deixar de ser profundamente desportivo e \ndemocrático.\nEra mordaz, sem ser descontes.\nEra vivo e ágil, sendo embora profundo nas suas análises e convicções.\nEra brilhante, sem precisar de ser barroco, inteligente, sem ser pedante, determinado, sem perder a noção constante da crítica a si próprio e às suas opções.\nFoi o homem de multidões, a franzina figura que as atraía, sem deixar de se revelar como agudo estratega e hábil e seguro governante.\nTeve o Poder e os corações na mão e nunca tombou na tentação de os desviar da estrita prática da democracia, pela qual desde cedo se batera.\nSabemos, do contacto que com ele tivemos e que tantas saudades nos deixou, como este homem, aparentemente duro, que não se poupava ao combate político e, sobretudo, não amolecia nos bancos do Podar, encarava a política, como mm democrata medularmente respeitador da vontade do povo.\nÉ certo que exercia o Poder em toda a amplitude com que o povo lho confiara, que tinha o constante escrúpulo de não trair o sentido do voto de quem nele confiava a representação. Mas nem por isso deixava de permanentemente encarar esse Poder como algo que lhe não era entregue para uso próprio, como o sinal da potencial alternância da vitória e da derrota, como a disputa, lúdica em que acima de tudo deveria prevalecer a clareza, a transparência e a definição dos projectos objectivados, e não a manobra obscura e invertebrada.\nParecia talvez ríspido e contundente. Mas poucos poderão gabar-se de ser, como ele afinal era, tão desportivos na forma como realmente abordava a política.\nO desaparecimento de Francisco Sá Carneiro do nosso convívio é uma peada incomensurável para o nosso país, para o seu partido, para a Aliança Democrática e para o meu próprio partido, na medida em que nele encontrámos sempre o amigo, entre os mais francos, o aliado, entre os mais compreensivos.\nPara mim, pessoalmente, e perdoem-me que vos testemunhe o que sinto, é o desgosto pelo corte abrupto do convívio com quem, em Março de 1979, ouvi pela primeira vez em público vir em apoio e conforto de uma opção difícil que eu acabava de tomar. É a saudade dessa simpatia irradiada que sabia infundir, num sorriso que lhe vinha do coração, e que sabia ser o mesmo na discordância e ao acordo pleno.\nAqui no Parlamento assisti a algumas das mais notáveis manifestações do génio político de Sá Carneiro. Com isenção, havemos de considerar, Sr.Presidente e Sus. Deputados, que o deputado Sá Carneiro, como depois o Primeiro-Ministro Sá Carneiro, se evidenciou entre os mais notáveis, quer pelo fundo, quer pela forma. Honrou este Parlamento, que foi já testemunha de tentos parlamentares ilustres. Honra seja prestada à sua memória por nós, maioria e oposições, que perdemos uma figura essencial à dignificação desta Casa.\nE seja-me permitido que daqui lance um apelo ao povo deste país, sobretudo àqueles que eram adversários de Francisco Sá Carneiro, bem como a todas as autarquias locais, para que, como derradeira manifestação de respeito pela sua memória, que só contribui para dignificar ainda mais uma democracia impregnada de tanta civilização como esta tem sido, faça rapidamente desaparecer das paredes e dos muros frases de ataques e insultos pessoais ao defunto, que este, aliás, tão bem soube suportar. Que não mais se veja insultado mas ruas o nome honroso de Sá Carneiro e que ao civismo dos adversários fique a sua memória a dever essa homenagem, que, passado o calor das campanhas eleitorais, se toma imperativo de bom gosto e maturidade cívica.\nSr. Presidente, Srs. Deputados: Foi com o mais profundo choque que recebi também a notícia do desaparecimento, naquele fatídico 4 de Dezembro, do nosso colega, optimamente em funções ministeriais, Adelino Amaro da Costa.\nEra seu amigo desde os tempos do liceu e julgo não ter ainda idade suficiente para me conformar com o falecimento dos que são da minha geração. Custa muito. E tanto mais quanto Amaro da Costa era, todo ele, um político cheio de vida, um deputado cheio de brilhantismo, um governante cheio de ponderação, um amigo cheio de simpatia.", 
-   "type": "continuacao"
+   "party": "PPM", 
+   "speaker": "Ferreira do Amaral", 
+   "text": "Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Difícil tarefa será tentarmos pata nossa voz corresponder à justíssima incumbência de enaltecer a figura de Francisco Sá Carneiro. Para aqueles, como nós, que preferem os actos e factos ao mero exercício floral desprovido de carga semiológica tudo ficou dito no comovido desespero com que milhões de portugueses choraram a perda dessa notável figura do século XX de Portugal.\nNinguém encomendou o pranto convulsivo que vi em milhares de homens e mulheres nestes dias fatídicos. Ninguém ajudou a provocar as longas vigílias que multidões anónimas quiseram fazer, ao frio da noite, para estarem presentes junto dos restos mortais do seu Primeiro-Ministro.\nNão foi preciso que dobrassem os sinos a chamar acompanhantes paira o ilustre defunto. Não careciam de contabilização as flores, às vezes singularmente depostas com emocionado carinho, junto da uma de quem foi o primeiro militante do maior partido português e a primeira figura da maioria.\nA tragédia abateram súbdita e pesadamente. Mas foi tanto maior quando se verificou, petos factos, que esse homem ocupava um espaço real nos corações de milhões de portugueses.\nEra carismático, sem preconizar nem defender para si um poder único ou ilimitado.\nEra atrevido, sem ser insensato.\nEra combativo, sem deixar de ser profundamente desportivo e \ndemocrático.\nEra mordaz, sem ser descontes.\nEra vivo e ágil, sendo embora profundo nas suas análises e convicções.\nEra brilhante, sem precisar de ser barroco, inteligente, sem ser pedante, determinado, sem perder a noção constante da crítica a si próprio e às suas opções.\nFoi o homem de multidões, a franzina figura que as atraía, sem deixar de se revelar como agudo estratega e hábil e seguro governante.\nTeve o Poder e os corações na mão e nunca tombou na tentação de os desviar da estrita prática da democracia, pela qual desde cedo se batera.\nSabemos, do contacto que com ele tivemos e que tantas saudades nos deixou, como este homem, aparentemente duro, que não se poupava ao combate político e, sobretudo, não amolecia nos bancos do Podar, encarava a política, como mm democrata medularmente respeitador da vontade do povo.\nÉ certo que exercia o Poder em toda a amplitude com que o povo lho confiara, que tinha o constante escrúpulo de não trair o sentido do voto de quem nele confiava a representação. Mas nem por isso deixava de permanentemente encarar esse Poder como algo que lhe não era entregue para uso próprio, como o sinal da potencial alternância da vitória e da derrota, como a disputa, lúdica em que acima de tudo deveria prevalecer a clareza, a transparência e a definição dos projectos objectivados, e não a manobra obscura e invertebrada.\nParecia talvez ríspido e contundente. Mas poucos poderão gabar-se de ser, como ele afinal era, tão desportivos na forma como realmente abordava a política.\nO desaparecimento de Francisco Sá Carneiro do nosso convívio é uma peada incomensurável para o nosso país, para o seu partido, para a Aliança Democrática e para o meu próprio partido, na medida em que nele encontrámos sempre o amigo, entre os mais francos, o aliado, entre os mais compreensivos.\nPara mim, pessoalmente, e perdoem-me que vos testemunhe o que sinto, é o desgosto pelo corte abrupto do convívio com quem, em Março de 1979, ouvi pela primeira vez em público vir em apoio e conforto de uma opção difícil que eu acabava de tomar. É a saudade dessa simpatia irradiada que sabia infundir, num sorriso que lhe vinha do coração, e que sabia ser o mesmo na discordância e ao acordo pleno.\nAqui no Parlamento assisti a algumas das mais notáveis manifestações do génio político de Sá Carneiro. Com isenção, havemos de considerar, Sr.Presidente e Sus. Deputados, que o deputado Sá Carneiro, como depois o Primeiro-Ministro Sá Carneiro, se evidenciou entre os mais notáveis, quer pelo fundo, quer pela forma. Honrou este Parlamento, que foi já testemunha de tentos parlamentares ilustres. Honra seja prestada à sua memória por nós, maioria e oposições, que perdemos uma figura essencial à dignificação desta Casa.\nE seja-me permitido que daqui lance um apelo ao povo deste país, sobretudo àqueles que eram adversários de Francisco Sá Carneiro, bem como a todas as autarquias locais, para que, como derradeira manifestação de respeito pela sua memória, que só contribui para dignificar ainda mais uma democracia impregnada de tanta civilização como esta tem sido, faça rapidamente desaparecer das paredes e dos muros frases de ataques e insultos pessoais ao defunto, que este, aliás, tão bem soube suportar. Que não mais se veja insultado mas ruas o nome honroso de Sá Carneiro e que ao civismo dos adversários fique a sua memória a dever essa homenagem, que, passado o calor das campanhas eleitorais, se toma imperativo de bom gosto e maturidade cívica.\nSr. Presidente, Srs. Deputados: Foi com o mais profundo choque que recebi também a notícia do desaparecimento, naquele fatídico 4 de Dezembro, do nosso colega, optimamente em funções ministeriais, Adelino Amaro da Costa.\nEra seu amigo desde os tempos do liceu e julgo não ter ainda idade suficiente para me conformar com o falecimento dos que são da minha geração. Custa muito. E tanto mais quanto Amaro da Costa era, todo ele, um político cheio de vida, um deputado cheio de brilhantismo, um governante cheio de ponderação, um amigo cheio de simpatia.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPM", 
+   "speaker": "Ferreira do Amaral", 
    "text": "274 I SÉRIE - NÚMERO 9", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPM", 
+   "speaker": "Ferreira do Amaral", 
    "text": "Ainda recentemente o felicitara porque em difícil debate com o Sr.Deputado Almeida Santos, jurista emérito e difícil de contraditar, se houvera - ele que era engenheiro - como um verdadeiro \nconstitucionalista.\nA Assembleia e a política portuguesa também nele perderam um dos melhores. Que a sua memória fique a pendurar por este hemiciclo, que foi teatro de tantos dias de luzido destaque de Adelino Amaro da Costa.\nPor último, uma nota sentida de saudade pelo nosso colega António Patrício Gouveia, que não chegámos a ver intervir, mas que tivemos a honra e o gosto de conhecer, sempre amável e solícito, inteligente e pródigo em companheirismo.\nQue Deus lhes dê o eterno descamiso.\nA nós, Srs. Deputados, importa, para além da digna tarefa de evocar a sua memória, colher a lição de como se pode ser adversário sem ser inimigo, debater vigorosamente odeias e pontos de vista sem perder de vista que por sobre tudo isso paria o irrecusável respeito pelo homem, que na amizade ou na luta, do nosso ou do outro lado, é lugar geométrico dos valores que se degladiam na actividade politica. Se queremos prosseguir, honrando os ilustres defuntos, continuemos a cumprir a nobre tarefa de nos batermos e de nos opormos, nas nossas propostas e ideias, no são combate, que é aquele que tem reclamadamente por fim o bem de todos os Portugueses.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PPM, do PSD, do PS, da ASDI e da UEDS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Lopes Cardoso.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Lopes Cardoso.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Em meu nome pessoal, em nome do meu Grupo Parlamentar e em nome dos meus camaradas de partido, queria associar-me às manifestações de pesar já aqui expressais pela morte do Dr.\nFrancisco Sá Carneiro, do engenheiro Adelino Amaro da Costa e do Dr.\nAntónio Patrício Gouveia.\nPoderão julgar alguns que, situando-nos nós em campo político oposto àquele que foi o do Dr. Sá Carneiro, do engenheiro Amaro da Costa, e do Dr. Patrício Gouveia, tendo sido nós seus adversários políticos, seja difícil que usemos da palavra, nas actuais circunstâncias, sem o róseo de que essa palavra assuma uma expressão tingida de hipocrisia ou contornos polémicos, no mínimo despropositados.\nSó assim podem pensar os que têm da politica a concepção de uma luta por mesquinhos interesses pessoais, feito de ódios, intolerância e sectarismo, ou aqueles que, julgando-se detentores da verdade absoluta, consideram todos os que deles discordam apenas como herejes dignos das fogueiras inquisitoriais.\nMas aqueles que, ao invés, tem da política, acima de tudo, a ideia do confronto entre ideais diversos, o confronto de diversos entendimentos do interesse colectivo, esses sabem distinguir entre o sentido mais profundo desse confronto e as expressões que, porventura, \ntransitoriamente, assuma, no calor da polémica, no aceso do combate; sabem que em democracia os únicos inimigos são os inimigos da própria democracia e que o respeito pelos adversários é uma das dimensões do respeito que cada qual deve a si próprio e aos seus próprios ideais.\nNão nos tolhe por isso o receio de que a sinceridade das nossas palavras seja posta em causa, nem tão-pouco que nelas possa enxergar o esbater de oposições que resultam de projectos políticos em si mesmo antagónicos.", 
-   "type": "continuacao"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Em meu nome pessoal, em nome do meu Grupo Parlamentar e em nome dos meus camaradas de partido, queria associar-me às manifestações de pesar já aqui expressais pela morte do Dr.\nFrancisco Sá Carneiro, do engenheiro Adelino Amaro da Costa e do Dr.\nAntónio Patrício Gouveia.\nPoderão julgar alguns que, situando-nos nós em campo político oposto àquele que foi o do Dr. Sá Carneiro, do engenheiro Amaro da Costa, e do Dr. Patrício Gouveia, tendo sido nós seus adversários políticos, seja difícil que usemos da palavra, nas actuais circunstâncias, sem o róseo de que essa palavra assuma uma expressão tingida de hipocrisia ou contornos polémicos, no mínimo despropositados.\nSó assim podem pensar os que têm da politica a concepção de uma luta por mesquinhos interesses pessoais, feito de ódios, intolerância e sectarismo, ou aqueles que, julgando-se detentores da verdade absoluta, consideram todos os que deles discordam apenas como herejes dignos das fogueiras inquisitoriais.\nMas aqueles que, ao invés, tem da política, acima de tudo, a ideia do confronto entre ideais diversos, o confronto de diversos entendimentos do interesse colectivo, esses sabem distinguir entre o sentido mais profundo desse confronto e as expressões que, porventura, \ntransitoriamente, assuma, no calor da polémica, no aceso do combate; sabem que em democracia os únicos inimigos são os inimigos da própria democracia e que o respeito pelos adversários é uma das dimensões do respeito que cada qual deve a si próprio e aos seus próprios ideais.\nNão nos tolhe por isso o receio de que a sinceridade das nossas palavras seja posta em causa, nem tão-pouco que nelas possa enxergar o esbater de oposições que resultam de projectos políticos em si mesmo antagónicos.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
    "text": "abater momentâneo de bandeiras perante a memória dos adversários mortos não é nem renúncia ao combate nem o abjurar idas nossas próprias ideias; é tão-só, sendo muito, a homenagem devida àqueles que souberam entregar-se com determinação e tenacidade à defesa dos seus ideais, ainda quando esses ideais não sejam os mossas.\nOneio que, para além das suas indiscutíveis qualidades de inteligência, foi a clareza com que souberam assumir o seu próprio projecto que deu a verdadeira dimensão ao Dr. Francisco Sá Carneiro e ao engenheiro Amaro da Costa.\nClareza de que nem todos os dirigentes políticos portugueses se podem reclamar e que para todos ficará como exemplo sobre o qual talvez valha a pena meditar.\nAdversários do Dr. Francisco Sá Carneiro e do engenheiro Amaro da Costa, não é isso que nos impede de reconhecer que a sua coragem política, a sua inteligência, a militância que demonstraram no combate pelas suas ideias marcaram profundamente a vida política portuguesa dos últimos anos.\nO Dr. Sá Carneiro teve a capacidade e a lucidez necessárias para unificar em torno da AD as forças conservadoras da sociedade portuguesa, dando-lhes novas perspectivas.\nSá Carneiro e Amaro da Costa souberam definir, sem rodeios ou ambiguidades, os objectivos políticos que permitiram a essas forças encontrar um projecto adequada aos seus interesses no Portugal pós-25 de Abril.\nPor isso mesmo, sempre olhámos os parlamentares e dirigentes agora desaparecidos como adversários políticos defensores de um modelo de sociedade oposto àquele pelo qual lutamos.\nMas nem por isso nos deixámos arrastar na simplificação abusiva e, mais que abusiva, desonesta - tão ao gosto daqueles para quem sempre os fins justificam os meios - de os identificar com o antigo regime.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: E aqui é justo que, antifascistas de sempre, lembremos que o Dr. Sá Carneiro, ao procurar transformar por dentro, a partir de 1969 e por um curto período, o regime marcelista, contribuiu, por processos que foram os seus e com os quais nós não identificámos, paira o desgaste do regime derrubado peto 25 de Abril.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "E aqui é justo que, antifascistas de sempre, lembremos que o Dr. Sá Carneiro, ao procurar transformar por dentro, a partir de 1969 e por um curto período, o regime marcelista, contribuiu, por processos que foram os seus e com os quais nós não identificámos, paira o desgaste do regime derrubado peto 25 de Abril.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Nandim de Carvalho* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Nandim de Carvalho", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: O desaparecimento dos parlamentares e dirigentes políticos que foram Sá Carneiro, Amaro da Costa e Patrício Gouveia empobrece de facto, e", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O desaparecimento dos parlamentares e dirigentes políticos que foram Sá Carneiro, Amaro da Costa e Patrício Gouveia empobrece de facto, e", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "11 DE DEZEMBRO DE 1980 275", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "empobrece muito significativamente, o conjunto das forças políticas contra es quais, leal e frontalmente, a UEDS sempre se bateu.\nTodavia, o projecto político por eles animado mantém-se de pé, e não será a sua monte trágica, morte que profundamente lamentamos, que fará que a UEDS encane com menos frontalidade o seu papel de oposição a tudo quanto esse projecto significa. E talvez a melhor homenagem que possamos prestar a Sá Carneiro e Amaro da Costa seja o continuarmos firmemente o nosso combate frontal, leal e global ao projecto político que deixaram vivo na realidade que é a Aliança Democrática.\nSr. Presidente, Srs. Deputados: Aos seus companheiros de partido renovamos a expressão do nosso pesar e com ele a nossa homenagem à memória de adversários políticos contra os quais o nosso combate ganhava maior dimensão, na exacta medida da sua lucidez, da sua capacidade e da sua determinação.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos da UEDS, do PSD, do PS, do CDS, do PPM e da ASDI.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Magalhães Mota.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Magalhães Mota.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Magalhães Mota* (ASDI): Sr. Presidente, Srs. Deputados: Não creio que nenhum de nós possa, neste momento, deixar de juntar ao juízo político o juízo pessoal, despir-se de emoção, esquecer-se desta ou daquela outra lembrança própria.\nEstamos demasiado longe e demasiado perto, os vivos em relação ao mortos que nos disseram alguma coisa.\nPara aqueles que, como nós, sabem que a história faz e fará a história, não é, nem pode ser, indiferente cada momento. Sabemos que o passado nos marcou; sabemos que o passado que foi o construímos juntos, porque amigos, juntos, ainda que adversários, juntos naquilo que em conjunto vivemos, juntos também naquilo que nos separou.\nSabemos ainda que tanto mais nos marcou o tempo passado quanto mais próximo e proximamente o vivemos.\nPor tudo isto, penso que se me perdoará não seja este nem um discurso de reflexão política nem um juízo histórico; a ambos faltaria distância, serenidade, tempo. E que não seja simples testemunho pessoal, mas, ainda que sendo-o, também testemunho do Grupo Parlamentar da Acção Social-Democrata Independente. Como para alguns de nós é seu sentido profundo, com a consciência de que a morte não separa, mas é, realmente, traço de união.\nSr. Presidente, Srs. Deputados: Conheci o engenheiro Adelino Amaro da Costa pouco antes do 25 de Abril. Telefonou-me poucas horas ou dias após esse mesmo dia. Num e noutro momento, as duas vezes que primeiro nos falámos, não eram coincidentes os nossos projectos. Apesar dessa distância, muitas vezes depois nos encontrámos fora e dentro desta Casa.\nNão precisarei de também eu lembrar a inteligência pronta, a capacidade táctica, o brilho parlamentar, o sentido de humor do engenheiro Amaro da Costa.\nMelhor que eu outros o fizeram desta tribuna. Outros o farão fora do Parlamento. Mas creio poder dizer que, amigos ou politicamente seus adversários, a todos ele nos terá impressionado.\nArriscarei dizer que a mim, pelo seu empenhamento profundo e apaixonado no que fazia. Creio que o engenheiro Adelino Amaro da Costa era, em todas as suas atitudes e acções, alguém que vivia intensamente. A imagem que nos deixou era, por isso mesmo, profundamente viva. E, por isso mesmo, profundamente viva.\nConheci melhor o António Patrício Gouveia. Em vários dos governos provisórios, o António Patrício Gouveia fez parte do meu gabinete.\nAlguém terá pensado que isso não era honroso para ele e ocultou-o do breve currículo tornado público.\nDirei, com toda a simplicidade e toda a verdade, que foi para mim honroso e enriquecedor poder beneficiar da colaboração jovem, generosa, dedicada do António Patrício Gouveia.\nQuem é generoso e tem ideais não serve pessoas nem é subserviente.\nO António Patrício Gouveia trabalhou comigo, não por fidelidade pessoal, mas por serviço de um programa, sem prejuízo dessa amizade que nos unia e que se manteve sempre. Para a grande maioria dos deputados é, certamente, um desconhecido, que outras funções impediram de aqui tomar o lugar para que foi eleito. Mas se todos somos homens de esperança, cada um a seu modo empenhado num país mais justo, digno e livre, tanto basta para que tenhamos também merecia e que a sua memória merece.\nQuando morre um homem generoso e bom, quando morre alguém mais novo do que nós, mas, como nós, empenhado no progresso do seu país e do seu povo, é um amigo, ao menos um amigo no futuro, que desaparece.\nPude ser amigo do António Patrício Gouveia agora. Neste agora que foram os últimos anos da sua vida.\nO meu testemunho comovido é, muito mais do que a fidelidade de uma saudade, a garantia de que com a sua morte todos ficámos mais pobres.\nSr. Presidente, Srs. Deputados: De Francisco Sá Carneiro não poderei falar nem com facilidade, nem sem emoção. Não esqueço um passado relativamente próximo que nos juntou.\nA vida política portuguesa transformou-se de tal modo que se tornou motivo de recolha de elogio fácil a revelação ou invenção de conhecimentos e factos conhecidos por motivo da uma relação de confiança. Por mim, não farei tal, mesmo que, como seria o caso, fosse um testemunho de elogio.\nDe Francisco Sá Carneiro quero recordar, antes de mais, quem, de 1969 a 1973, se bateu, sem descanso e sem virar a cara, pela liberdade e pela democracia. Creio que ninguém de boa fé poderá negar a importância dessa luta desigual para a criação de condições que tornaram possível a vida democrática em Portugal. Luta pela liberdade e pela democracia que o após 25 de Abril de novo o viria a obrigar.\nA sua combatividade, energia, capacidade de decisão, influência sobre os acontecimentos são realidades demasiado próximas, mas, assim mesmos, suficientemente marcantes para justificarem p respeito que nos merecia e que a sua memória merece.", 
-   "type": "continuacao"
+   "party": "ASDI", 
+   "speaker": "Magalhães Mota", 
+   "text": "Sr. Presidente, Srs. Deputados: Não creio que nenhum de nós possa, neste momento, deixar de juntar ao juízo político o juízo pessoal, despir-se de emoção, esquecer-se desta ou daquela outra lembrança própria.\nEstamos demasiado longe e demasiado perto, os vivos em relação ao mortos que nos disseram alguma coisa.\nPara aqueles que, como nós, sabem que a história faz e fará a história, não é, nem pode ser, indiferente cada momento. Sabemos que o passado nos marcou; sabemos que o passado que foi o construímos juntos, porque amigos, juntos, ainda que adversários, juntos naquilo que em conjunto vivemos, juntos também naquilo que nos separou.\nSabemos ainda que tanto mais nos marcou o tempo passado quanto mais próximo e proximamente o vivemos.\nPor tudo isto, penso que se me perdoará não seja este nem um discurso de reflexão política nem um juízo histórico; a ambos faltaria distância, serenidade, tempo. E que não seja simples testemunho pessoal, mas, ainda que sendo-o, também testemunho do Grupo Parlamentar da Acção Social-Democrata Independente. Como para alguns de nós é seu sentido profundo, com a consciência de que a morte não separa, mas é, realmente, traço de união.\nSr. Presidente, Srs. Deputados: Conheci o engenheiro Adelino Amaro da Costa pouco antes do 25 de Abril. Telefonou-me poucas horas ou dias após esse mesmo dia. Num e noutro momento, as duas vezes que primeiro nos falámos, não eram coincidentes os nossos projectos. Apesar dessa distância, muitas vezes depois nos encontrámos fora e dentro desta Casa.\nNão precisarei de também eu lembrar a inteligência pronta, a capacidade táctica, o brilho parlamentar, o sentido de humor do engenheiro Amaro da Costa.\nMelhor que eu outros o fizeram desta tribuna. Outros o farão fora do Parlamento. Mas creio poder dizer que, amigos ou politicamente seus adversários, a todos ele nos terá impressionado.\nArriscarei dizer que a mim, pelo seu empenhamento profundo e apaixonado no que fazia. Creio que o engenheiro Adelino Amaro da Costa era, em todas as suas atitudes e acções, alguém que vivia intensamente. A imagem que nos deixou era, por isso mesmo, profundamente viva. E, por isso mesmo, profundamente viva.\nConheci melhor o António Patrício Gouveia. Em vários dos governos provisórios, o António Patrício Gouveia fez parte do meu gabinete.\nAlguém terá pensado que isso não era honroso para ele e ocultou-o do breve currículo tornado público.\nDirei, com toda a simplicidade e toda a verdade, que foi para mim honroso e enriquecedor poder beneficiar da colaboração jovem, generosa, dedicada do António Patrício Gouveia.\nQuem é generoso e tem ideais não serve pessoas nem é subserviente.\nO António Patrício Gouveia trabalhou comigo, não por fidelidade pessoal, mas por serviço de um programa, sem prejuízo dessa amizade que nos unia e que se manteve sempre. Para a grande maioria dos deputados é, certamente, um desconhecido, que outras funções impediram de aqui tomar o lugar para que foi eleito. Mas se todos somos homens de esperança, cada um a seu modo empenhado num país mais justo, digno e livre, tanto basta para que tenhamos também merecia e que a sua memória merece.\nQuando morre um homem generoso e bom, quando morre alguém mais novo do que nós, mas, como nós, empenhado no progresso do seu país e do seu povo, é um amigo, ao menos um amigo no futuro, que desaparece.\nPude ser amigo do António Patrício Gouveia agora. Neste agora que foram os últimos anos da sua vida.\nO meu testemunho comovido é, muito mais do que a fidelidade de uma saudade, a garantia de que com a sua morte todos ficámos mais pobres.\nSr. Presidente, Srs. Deputados: De Francisco Sá Carneiro não poderei falar nem com facilidade, nem sem emoção. Não esqueço um passado relativamente próximo que nos juntou.\nA vida política portuguesa transformou-se de tal modo que se tornou motivo de recolha de elogio fácil a revelação ou invenção de conhecimentos e factos conhecidos por motivo da uma relação de confiança. Por mim, não farei tal, mesmo que, como seria o caso, fosse um testemunho de elogio.\nDe Francisco Sá Carneiro quero recordar, antes de mais, quem, de 1969 a 1973, se bateu, sem descanso e sem virar a cara, pela liberdade e pela democracia. Creio que ninguém de boa fé poderá negar a importância dessa luta desigual para a criação de condições que tornaram possível a vida democrática em Portugal. Luta pela liberdade e pela democracia que o após 25 de Abril de novo o viria a obrigar.\nA sua combatividade, energia, capacidade de decisão, influência sobre os acontecimentos são realidades demasiado próximas, mas, assim mesmos, suficientemente marcantes para justificarem p respeito que nos merecia e que a sua memória merece.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "ASDI", 
+   "speaker": "Magalhães Mota", 
    "text": "276 I SÉRIE - NÚMERO 9", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "ASDI", 
+   "speaker": "Magalhães Mota", 
    "text": "Na coincidência trágica há dois momentos políticos que iniciam e terminam o ciclo de uma década. Em 1970, na queda de um helicóptero, é José Pedro Pinto Leite quem desaparece. Em finais de 1980, Sá Carneiro.\nDirei que é bastante mais do que o ciclo de uma década.\nAcrescentarei que, ao dizer que o tempo português é necessariamente diferente após a sua morte, é apenas uma fornia de realçar a dimensão humana e política de Francisco Sá Carneiro.\nRecordar as qualidades de homens que, como nós, foram deputados tem, necessariamente, conteúdo político.\nPor mim, direi da importância que tem um respeito generalizado.\nDizer-se que a morte faz cair barreiras é evidentemente pouco e pobre.\nPreferia recordar a meditação sobre a morte do menino de um filme que há muitos anos vi: \"É preciso que não nasçam pedras onde se semeiam homens.\" \nCreio que o respeito que devemos aos mortos que hoje honramos, a trégua que fizemos para em relação à sua memória nos curvarmos, bem poderia ser sinal de procura, busca de soluções e de consenso na tolerância e no diálogo.\nSeríamos dignos deles.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos, de pé, da ASDI, do PSD, do PS, do CDS, do PPM e da UEDS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra a Sr.ª Deputada Helena Cidade Moura.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Deputada Helena Cidade Moura.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Helena Cidade Moura (MDP/CDE): Sr. Presidente, Srs. Deputados, Sr. Ministro Adjunto, Sr. Vice-Primeiro-Ministro, Srs. Membros do Governo: O MDP/CDE associa-se ao pesar desta Assembleia pela violenta morte do Primeiro-Ministro, Dr. Sá Carneiro, do Ministro da Defesa, engenheiro Amaro da Costa, e do deputado Dr. António Patrício Gouveia.\nO MDP/CDE fá-lo com o sentido de que a solidariedade entre os homens na partilha de uma dor profunda é fundamental para o estabelecimento de relações democráticas entre nós, para a paz e para a justiça, objectivos supremos da nossa luta.\nO MDP/CDE não partilha, embora o compreenda e o respeite, do elogio fúnebre feito pelos deputados da maioria, naquilo que nele implica valoração da actividade política dos Ministros falecidos. Esta divergência fundamental não impede a expressão do nosso pesar e é mais uma razão para apelar a todos os democratas desta Assembleia para que nos empenhemos no estabelecimento real da democracia e na solidariedade fraterna entre nós e com os povos de todo o mundo.\nNão poderemos esquecer, mesmo nestas circunstâncias, que a esta hora padres e freiras, em S. Salvador, se encerraram na catedral rezando pelos mártires da América Latina e muito especialmente pelas quatro freiras assassinadas e enterradas às escondidas pela polícia salvadorenha como cães tinhosos. Não é o sacrifício de suas vidas que eles temem, antes usam as próprias vidas para libertar o seu povo.\nNo contexto do mundo actual são grandes e medonhos os perigos que assaltam, destroem vorazmente ou impedem com furor o nascer de um mundo mais justo.\nSr. Presidente, Srs. Deputados, Srs. Membros do Governo: O MDP/CDE renova os seus sentimentos de pesar a esta Assembleia, especialmente aos seus companheiros e amigos, e espera que todos sejamos dignos da grande responsabilidade de um país, como o nosso, que assumiu, universalmente, a luta pela democracia.", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, Srs. Deputados, Sr. Ministro Adjunto, Sr. Vice-Primeiro-Ministro, Srs. Membros do Governo: O MDP/CDE associa-se ao pesar desta Assembleia pela violenta morte do Primeiro-Ministro, Dr. Sá Carneiro, do Ministro da Defesa, engenheiro Amaro da Costa, e do deputado Dr. António Patrício Gouveia.\nO MDP/CDE fá-lo com o sentido de que a solidariedade entre os homens na partilha de uma dor profunda é fundamental para o estabelecimento de relações democráticas entre nós, para a paz e para a justiça, objectivos supremos da nossa luta.\nO MDP/CDE não partilha, embora o compreenda e o respeite, do elogio fúnebre feito pelos deputados da maioria, naquilo que nele implica valoração da actividade política dos Ministros falecidos. Esta divergência fundamental não impede a expressão do nosso pesar e é mais uma razão para apelar a todos os democratas desta Assembleia para que nos empenhemos no estabelecimento real da democracia e na solidariedade fraterna entre nós e com os povos de todo o mundo.\nNão poderemos esquecer, mesmo nestas circunstâncias, que a esta hora padres e freiras, em S. Salvador, se encerraram na catedral rezando pelos mártires da América Latina e muito especialmente pelas quatro freiras assassinadas e enterradas às escondidas pela polícia salvadorenha como cães tinhosos. Não é o sacrifício de suas vidas que eles temem, antes usam as próprias vidas para libertar o seu povo.\nNo contexto do mundo actual são grandes e medonhos os perigos que assaltam, destroem vorazmente ou impedem com furor o nascer de um mundo mais justo.\nSr. Presidente, Srs. Deputados, Srs. Membros do Governo: O MDP/CDE renova os seus sentimentos de pesar a esta Assembleia, especialmente aos seus companheiros e amigos, e espera que todos sejamos dignos da grande responsabilidade de um país, como o nosso, que assumiu, universalmente, a luta pela democracia.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Aplausos do PSD, do PS, do CDS, do PPM, da ASDI e da UEDS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Mário Tomé.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Mário Tomé.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Mário Tomé* (UDP): Sr. Presidente, Srs. Deputados: A UDP não se encontra presente nesta sessão plenária da Assembleia da República para se associar a qualquer homenagem aos membros do Governo falecidos há uma semana.\nE isto pela simples razão de que, em seu entender, não tem que prestar-lhes homenagem, antes pelo contrário deve, com muita clareza e frontalidade, expressar a total oposição que lhe merece o projecto político que tem sido personificado pelo Dr. Sá Carneiro.", 
-   "type": "continuacao"
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
+   "text": "Sr. Presidente, Srs. Deputados: A UDP não se encontra presente nesta sessão plenária da Assembleia da República para se associar a qualquer homenagem aos membros do Governo falecidos há uma semana.\nE isto pela simples razão de que, em seu entender, não tem que prestar-lhes homenagem, antes pelo contrário deve, com muita clareza e frontalidade, expressar a total oposição que lhe merece o projecto político que tem sido personificado pelo Dr. Sá Carneiro.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "Em sinal de protesto, diversos deputados do PSD e do CDS abandonaram neste momento a sala.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "E não se diga que apenas se pretende, numa última homenagem, pôr em evidência as qualidades humanas, evocar as personalidades desligadas do circunstancialismo político.\nIsso seria absurdo! \nO homem impõe-se pela sua obra. Também pela sua obra se torna credor do respeito ou do repúdio dos outros homens e dos grupos e classes sociais.\nNuma sociedade dividida em classes, numa sociedade como a nossa em que se chocam interesses tão antagónicos como o de explorar e o de não ser explorado, naturalmente que as posições aqui expressas na Assembleia da República também elas serão diferentes e até mesmo antagónicas.\nConforme expressam a vontade daqueles que pretendem servir-se do povo para perpetuar o luxo e a opulência de uns poucos, ou, ao contrário, interpretam a voz desse mesmo povo, que vive na angústia e no desencanto, na pobreza terrível, que leva a tragédias como a de hoje na Falagueira, na desesperança e na submissão, expressando uma vontade profunda e colectiva de se libertar da alienação e da miséria.\nO brilhantismo intelectual ou a agressividade, coragem ou capacidade política não tem, em si mesmos, qualquer valor senão pela forma como servem os interesses essenciais e maioritários da comunidade.\nA UDP não pretende ferir a sensibilidade dos amigos e correligionários de Sá Carneiro, Amaro da Costa e Patrício Gouveia.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "11 DE DEZEMBRO DE 1980 277", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "Mas também não pode permitir que se aproveite a sua morte para deles fazer - por causa das altas posições que detinham no aparelho de Estado e como membros de um orgão de soberania - heróis nacionais, suscitando o apoio sentimental a um projecto político global - o da AD -, que na verdade obteve a condenação clamorosa da grande maioria dos cidadãos ao recusarem o seu voto ao candidato Soares Carneiro, que simbolizava o último elo da cadeia com que iriam ser agrilhoados.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "De novo, em sinal de protesto, deputados do PSD e do CDS abandonam a sala.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UDP", 
+   "speaker": "Mário Tomé", 
    "text": "O Governo, executivo daquele projecto - abalado, mas não liquidado -, celebrizou-se, em nosso entender, pelo mais descarado e ostensivo desprezo pelos interesses nacionais e populares, por um efectivo e permanente atentado à sensibilidade do nosso povo, por uma agressão brutal às condições de vida dos trabalhadores do nosso país.\nEm contrapartida, o Executivo, em que pontificavam Sá Carneiro e Amaro da Costa, foi inexcedível de dedicação na obediência ao diktat dos americanos e monopólios estrangeiros, à política agressiva e imperialista da NATO, foi determinado na liquidação da democracia, das conquistas populares do 25 de Abril, ao serviço dos homens da alta finança e do grande capital, utilizando para isso métodos como o insulto, a manipulação, a alienação das massas e a violência.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Mário Tomé, na reunião dos grupos parlamentares, em que V. Ex.ª esteve presente, estabeleceu-se que esta sessão seria uma manifestação de pesar pela morte trágica de homens públicos que eram nossos companheiros na Câmara e que se procuraria testemunhar esse pesar, esvaziando de conteúdo político-ideológico próprio ou específico de cada partido a intervenção que se fizesse. V.\nEx.ª expressará os sentimentos que possa ter que expressar pessoalmente ou em nome do seu partido, mas a Mesa não consentirá que V. Ex.ª faça discursos de fundo de conteúdo político.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Mário Tomé, na reunião dos grupos parlamentares, em que V. Ex.ª esteve presente, estabeleceu-se que esta sessão seria uma manifestação de pesar pela morte trágica de homens públicos que eram nossos companheiros na Câmara e que se procuraria testemunhar esse pesar, esvaziando de conteúdo político-ideológico próprio ou específico de cada partido a intervenção que se fizesse. V.\nEx.ª expressará os sentimentos que possa ter que expressar pessoalmente ou em nome do seu partido, mas a Mesa não consentirá que V. Ex.ª faça discursos de fundo de conteúdo político.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos do PSD, do CDS e do PPM.", 
    "type": "aplauso"
   }, 
   {
-   "text": "Vozes do PCP: Já foram feitas.", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Já foram feitas.", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Srs. Deputados: Tenho a dizer que nesta sessão já foram feitas intervenções de conteúdo ideológico e político bem claros, que expressaram o projecto da AD, que apresentaram o apoio a esse projecto simbolizado por Sá Carneiro.\nA UDP, como aliás já referi no início da minha intervenção, não pode desligar o homem da sua obra. A minha atitude aqui, como eu disse, não pode ser de homenagem. Ontem também ficou claro - e iria dizer isso mais adiante - que isto não seria uma sessão de homenagem ao Primeiro-Ministro Sá Carneiro, ao Ministro Amaro da Costa e ao deputado Patrício Gouveia.\nNo entanto, Sr. Presidente e Srs. Deputados, é isso que se está a passar neste momento.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Srs. Deputados: Tenho a dizer que nesta sessão já foram feitas intervenções de conteúdo ideológico e político bem claros, que expressaram o projecto da AD, que apresentaram o apoio a esse projecto simbolizado por Sá Carneiro.\nA UDP, como aliás já referi no início da minha intervenção, não pode desligar o homem da sua obra. A minha atitude aqui, como eu disse, não pode ser de homenagem. Ontem também ficou claro - e iria dizer isso mais adiante - que isto não seria uma sessão de homenagem ao Primeiro-Ministro Sá Carneiro, ao Ministro Amaro da Costa e ao deputado Patrício Gouveia.\nNo entanto, Sr. Presidente e Srs. Deputados, é isso que se está a passar neste momento.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tendo ficado expresso isso, parece-me que ficou praticamente implícito, Sr. Deputado, que seria muito menos uma sessão de censura.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tendo ficado expresso isso, parece-me que ficou praticamente implícito, Sr. Deputado, que seria muito menos uma sessão de censura.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: Não é uma sessão de censura, é uma sessão em que a UDP expressa aquilo que pensa desses homens, violentamente desaparecidos num desastre, e peço ao Sr. Presidente para continuar.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Não é uma sessão de censura, é uma sessão em que a UDP expressa aquilo que pensa desses homens, violentamente desaparecidos num desastre, e peço ao Sr. Presidente para continuar.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Peço a V. Ex.ª o favor de continuar, tendo em conta â advertência que a Mesa lhe fez.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Peço a V. Ex.ª o favor de continuar, tendo em conta â advertência que a Mesa lhe fez.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: E se mais exemplos não houvesse, a forma como decorreu o funeral, em tom de verdadeiro comício, a sua antecipação para o dia reservado para reflexão do eleitorado, entre uma agitada e agressiva campanha eleitoral e o próprio dia das eleições, e a despudorada, encomiástica e interminável cobertura realizada pelos serventuários do projecto AD na RTP, sob a batuta do chefe Proença de Carvalho, evidenciaram os métodos utilizados pelos herdeiros do pensamento político de Sá Carneiro e continuadores da sua obra.\nUtilizaram-se, até à violência psicológica, os nobres sentimentos do povo português, naturalmente chocado e afectado pela brutalidade do acidente que vitimou os membros do Governo e seus acompanhantes.\nAo pretender fazer desta sessão da Assembleia da República uma homenagem a Sá Carneiro e Amaro da Costa - como tem sido anunciado em órgãos da comunicação social, à revelia do que ficou decidido na reunião dos grupos parlamentares -, a AD joga, uma vez mais, na expectativa de que a morte dos seus líderes e a forma como foi sentida por grande parte dos cidadãos paralisaria as forças políticas da oposição, levando-as a dar o seu aval a uma homenagem generalizada aos dirigentes políticos da maioria parlamentar, com as consequências políticas que daí adviriam.\nNão é este o entender da UDP, que em todas as circunstâncias, e em especial naqueles momentos em que a consciência crítica do povo possa ser afectada pela manipulação sentimental, se impõe como missão sagrada. Clarificar as situações e criar condições para que o combate determinado pelos interesses populares não se dissolva no nevoeiro retrógrado do sentimentalismo.\nOs homens definem-se pela sua prática social e política e pelo seu posicionamento na luta terrível das classes em confronto, que só terá fim com a eliminação das condições de exploração. Nesta luta, os membros do Governo falecidos e que agora se evocam tinham um lugar claro e inequívoco: pela exploração; contra os explorados.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "E se mais exemplos não houvesse, a forma como decorreu o funeral, em tom de verdadeiro comício, a sua antecipação para o dia reservado para reflexão do eleitorado, entre uma agitada e agressiva campanha eleitoral e o próprio dia das eleições, e a despudorada, encomiástica e interminável cobertura realizada pelos serventuários do projecto AD na RTP, sob a batuta do chefe Proença de Carvalho, evidenciaram os métodos utilizados pelos herdeiros do pensamento político de Sá Carneiro e continuadores da sua obra.\nUtilizaram-se, até à violência psicológica, os nobres sentimentos do povo português, naturalmente chocado e afectado pela brutalidade do acidente que vitimou os membros do Governo e seus acompanhantes.\nAo pretender fazer desta sessão da Assembleia da República uma homenagem a Sá Carneiro e Amaro da Costa - como tem sido anunciado em órgãos da comunicação social, à revelia do que ficou decidido na reunião dos grupos parlamentares -, a AD joga, uma vez mais, na expectativa de que a morte dos seus líderes e a forma como foi sentida por grande parte dos cidadãos paralisaria as forças políticas da oposição, levando-as a dar o seu aval a uma homenagem generalizada aos dirigentes políticos da maioria parlamentar, com as consequências políticas que daí adviriam.\nNão é este o entender da UDP, que em todas as circunstâncias, e em especial naqueles momentos em que a consciência crítica do povo possa ser afectada pela manipulação sentimental, se impõe como missão sagrada. Clarificar as situações e criar condições para que o combate determinado pelos interesses populares não se dissolva no nevoeiro retrógrado do sentimentalismo.\nOs homens definem-se pela sua prática social e política e pelo seu posicionamento na luta terrível das classes em confronto, que só terá fim com a eliminação das condições de exploração. Nesta luta, os membros do Governo falecidos e que agora se evocam tinham um lugar claro e inequívoco: pela exploração; contra os explorados.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "278 I SÉRIE - NÚMERO 9", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, se o Sr. Deputado insiste em fazer apreciações de conteúdo político, e embora com muito pesar, esta é a última advertência que a Mesa lhe faz devido à natureza de uma sessão que foi estabelecida por consenso, por concordância unânime de todos os partidos - com a qual também V. Ex.ª concordou, pois sem a sua concordância não se teria feito -, a Mesa retirar-lhe-á a palavra.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, se o Sr. Deputado insiste em fazer apreciações de conteúdo político, e embora com muito pesar, esta é a última advertência que a Mesa lhe faz devido à natureza de uma sessão que foi estabelecida por consenso, por concordância unânime de todos os partidos - com a qual também V. Ex.ª concordou, pois sem a sua concordância não se teria feito -, a Mesa retirar-lhe-á a palavra.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, já expliquei há bocado a razão do conteúdo da minha intervenção, e, aliás, o consenso de ontem já não existe, quer pela forma que foi dada a esta sessão, quer pelas intervenções que já aqui ouvi, pois também elas tiveram conteúdo ideológico e político.\nMas, como eu ia dizendo, só nessa condição a UDP os pode apontar à apreciação do povo português.\nE quando o deputado da UDP se levantar ao ser pedido um minuto de silêncio, fá-lo-á num acto simbólico, tendo em mente a perda de sete vidas no brutal acidente de aviação, entre os quais três deputados eleitos desta Assembleia, apresentando aos familiares de todos os seus sentimentos.\nNo final da intervenção, reentraram na sala os Srs. Deputados que anteriormente a tinham abandonado.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, já expliquei há bocado a razão do conteúdo da minha intervenção, e, aliás, o consenso de ontem já não existe, quer pela forma que foi dada a esta sessão, quer pelas intervenções que já aqui ouvi, pois também elas tiveram conteúdo ideológico e político.\nMas, como eu ia dizendo, só nessa condição a UDP os pode apontar à apreciação do povo português.\nE quando o deputado da UDP se levantar ao ser pedido um minuto de silêncio, fá-lo-á num acto simbólico, tendo em mente a perda de sete vidas no brutal acidente de aviação, entre os quais três deputados eleitos desta Assembleia, apresentando aos familiares de todos os seus sentimentos.\nNo final da intervenção, reentraram na sala os Srs. Deputados que anteriormente a tinham abandonado.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, quis esta Assembleia limitar os seus trabalhos de hoje a uma manifestação de pesar da morte de três companheiros nossos que, embora não exercessem as suas tarefas nas bancadas desta Câmara, nos deixaram, quer se concordasse com eles ou se discordasse do seu posicionamento, esta recordação: perante cada responsabilidade concreta assumiam-se inteiros.\nCreio que a grande homenagem que se lhes prestou e que aparece naturalmente acrescida aos numerosos testemunhos que aqui foram dados, do mate elevado espírito democrático, é o próprio facto de esta sessão ter sido realizada.\nAlguém disse um dia que a democracia era um estado de espírito, que a democracia era essencialmente a manifestação da nobreza de carácter.\nSuponho que tivemos aqui claras manifestações do entendimento da palavra democracia no seu sentido mais elevado.\nNada mais tenho a acrescentar, ainda sob a viva emoção da perda de três amigos de quem me fica uma imperecível saudade e um esplêndido exemplo.\nNa sequência de uma proposta que já deu entrada na Mesa, proponho à Câmara um voto de pesar da morte dos nossos três companheiros de trabalho e que esse voto de pesar seja transmitido aos seus familiares - missão que a Mesa, honrosamente, desempenhará - e proponho ainda que tal seja testemunhado, antes de encerrarmos a sessão, pela guarda de um minuto de silêncio.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, quis esta Assembleia limitar os seus trabalhos de hoje a uma manifestação de pesar da morte de três companheiros nossos que, embora não exercessem as suas tarefas nas bancadas desta Câmara, nos deixaram, quer se concordasse com eles ou se discordasse do seu posicionamento, esta recordação: perante cada responsabilidade concreta assumiam-se inteiros.\nCreio que a grande homenagem que se lhes prestou e que aparece naturalmente acrescida aos numerosos testemunhos que aqui foram dados, do mate elevado espírito democrático, é o próprio facto de esta sessão ter sido realizada.\nAlguém disse um dia que a democracia era um estado de espírito, que a democracia era essencialmente a manifestação da nobreza de carácter.\nSuponho que tivemos aqui claras manifestações do entendimento da palavra democracia no seu sentido mais elevado.\nNada mais tenho a acrescentar, ainda sob a viva emoção da perda de três amigos de quem me fica uma imperecível saudade e um esplêndido exemplo.\nNa sequência de uma proposta que já deu entrada na Mesa, proponho à Câmara um voto de pesar da morte dos nossos três companheiros de trabalho e que esse voto de pesar seja transmitido aos seus familiares - missão que a Mesa, honrosamente, desempenhará - e proponho ainda que tal seja testemunhado, antes de encerrarmos a sessão, pela guarda de um minuto de silêncio.\nA Câmara guardou, de pé, um minuto de silêncio.", 
+   "type": "presidente"
   }, 
   {
-   "text": "A Câmara guardou, de pé, um minuto de silêncio.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Srs. Deputados, a próxima sessão do Plenário será amanhã à hora regimental. Está encerrada a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a próxima sessão do Plenário será amanhã à hora regimental. Está encerrada a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 18 horas e 10 minutos.", 
@@ -420,108 +515,132 @@
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Afonso de Sousa F. de Moura Guedes.\nJoão Afonso Gonçalves.\nJúlio Lemos Castro Caldas.\nMaria Adelaide S. de Almeida Paiva.\nMário Marques Ferreira Maduro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Alberto Arons Braga de Carvalho.\nAntónio Manuel de Oliveira Guterres.\nFrancisco Manuel Marcelo Curto.\nLuís Nunes de Almeida.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Alfredo Albano de C. Azevedo Soares.\nJoão da Silva Mendes Morgado.\nJosé Augusto Gama.\nLuís Carlos C. Veloso Sampaio.\nLuís Filipe Pais Beiroco.\nRogério Ferreira Monção Leão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Carlos Alfredo Brito.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Popular Monárquico (PPM)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Augusto Martins Ferreira do Amaral.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "União Democrática Popular (UDP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Mário António Baptista Tomé.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que faltaram à sessão", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Eleutério Manuel Alves.\nManuel da Costa Andrade.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "António José Vieira de Freitas.\nAntónio de Sousa Gomes.\nJorge Fernando Branco Sampaio.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "11 DE DEZEMBRO DE 1980 279", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "José Luís do Amaral Nunes.\nManuel José Bragança Tender.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Américo Maria Coelho Gomes de Sá.\nJoão Gomes de Abreu de Lima.\nNuno Krus Abecasis.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "Álvaro Barreirinhas Cunhal.\nAntónio Dias Lourenço da Silva.\nArmando Teixeira da Silva.\nOctávio Floriano Rodrígues Pato.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "O REDACTOR DE 1.ª CLASSE, Armindo Augusto Afonso.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que faltaram à sessão", 
    "text": "PREÇO DESTE NUMERO 16$00 \nIMPRENSA NACIONAL-CASA DA MOEDA", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

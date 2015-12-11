@@ -37,31 +37,38 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "speaker": "Eram 15 horas e 30 minutos. Estavam presentes os seguintes Srs.Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Adriano da Silva Pinto.\nAbílio Gaspar Rodrigues.\nAdérito Manuel Soares Campos.\nAlberto Monteiro Araújo.\nÁlvaro Barros Marques de Figueiredo.\nAmadeu Vasconcelos Matias.\nAntónio d'Orey Capucho.\nAntónio Joaquim Bastos Marques Mendes.\nAntónio Jorge de Figueiredo Lopes.\nAntónio Manuel Lopes Tavares.\nAntónio Paulo Pereira Coelho.\nAntónio Roleira Marinho.\nAntónio Sérgio Barbosa de Azevedo.\nArlindo da Silva André Moreira.\nArnaldo Ângelo de Brito Lhamas.\nAurora Margarida Borges de Carvalho.\nBelarmino Henriques Correia.\nCarlos Miguel Maximiano Almeida Coelho.\nCecília Pita Catarino.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nDinah Serrão Alhandra.\nDomingos Duarte Lima.\nDomingos Silva e Sousa.\nFernando Dias de Carvalho Conceição.\nFernando José Próspero Luís.\nFernando Manuel Cardoso Ferreira.\nFernando Monteiro do Amaral.\nFrancisco Jardim Ramos.\nFrancisco Mendes Costa.\nGuido Orlando de Freitas Rodrigues.\nHenrique Rodrigues Mata.\nJoão Álvaro Poças Santos.\nJoão Domingos Abreu Salgado.\nJoão Luís Malato Correia.\nJoão José Pedreira de Matos.\nJoão José Pimenta de Sousa.\nJoão Maria Ferreira Teixeira.\nJoaquim Carneiro de Barros Domingues.\nJoaquim Eduardo Gomes.\nJoaquim da Silva Martins.\nJosé de Almeida Cesário.\nJosé Ângelo Ferreira Correia.\nJosé Assunção Marques.\nJosé Filipe Atayde Carvalhosa.\nJosé Francisco Amaral.\nJosé Guilherme Coelho dos Reis.\nJosé Júlio Vieira Mesquita.\nJosé Luís Bonifácio Ramos.\nJosé Maria Peixoto Coutinho.\nJosé Mendes Bota.\nJosé Mendes Melo Alves.\nJosé Pereira Lopes.\nLicinio Moreira da Silva.\nLuís António Damásio Capoulas.\nLuís António Martins.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "34 I SÉRIE - NÚMERO 2", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Luis Jorge Cabral Tavares Lima.\nLuís Manuel Costa Geraldes.\nLuís Manuel Neves Rodrigues.\nManuel Ferreira Martins.\nManuel Maria Moreira.\nMaria Antonieta Cardoso Moniz.\nMário Jorge Belo Maciel.\nMário de Oliveira Mendes dos Santos.\nMiguel Fernando Miranda Relvas.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Limpo Salvada.\nValdemar Cardoso Alves.\nVasco Francisco Aguiar Miguel.\nVirgílio de Oliveira Carneiro.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -134,43 +141,33 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, tal como ficou acordado na conferência de líderes parlamentares, vou ler um voto de pesar pela morte do Presidente da República Popular de Moçambique, Samora Machel.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, tal como ficou acordado na conferência de líderes parlamentares, vou ler um voto de pesar pela morte do Presidente da República Popular de Moçambique, Samora Machel.\nVoto de pesar", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Voto de pesar", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Perante o trágico acidente que vitimou Samora Machel, Presidente da República Popular de Moçambique, o Parlamento de Portugal manifesta o seu profundo pesar ao povo moçambicano e as suas condolências ao Estado de Moçambique, guardando um minuto de silêncio como manifestação da solidariedade na dor que sentem pela perda que sofreram.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Vamos votar.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Vamos votar.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, em consequência desta votação, vamos guardar um minuto de silêncio.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, em consequência desta votação, vamos guardar um minuto de silêncio.\nA Câmara guardou, de pé, um minuto de silêncio.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "A Câmara guardou, de pé, um minuto de silêncio.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, tenho apenas de vos informar que os grupos parlamentares terão o direito de fazer uma declaração de voto no período de \nantes da ordem do dia da próxima sessão, que terá lugar quinta-feira às 15 horas, dispondo cada grupo parlamentar de cinco minutos. No entanto, a ordem do dia dos nossos trabalhos manter-se-á tal como já foi fixada, ou seja, apreciar-se-á a Lei das Finanças Locais.\nEstá encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, tenho apenas de vos informar que os grupos parlamentares terão o direito de fazer uma declaração de voto no período de \nantes da ordem do dia da próxima sessão, que terá lugar quinta-feira às 15 horas, dispondo cada grupo parlamentar de cinco minutos. No entanto, a ordem do dia dos nossos trabalhos manter-se-á tal como já foi fixada, ou seja, apreciar-se-á a Lei das Finanças Locais.\nEstá encerrada a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 75 horas e 35 minutos.", 
@@ -179,19 +176,19 @@
   {
    "speaker": "Faltaram à sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social Democrata", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social Democrata", 
    "text": "Álvaro José Rodrigues Carvalho.\nAmândio Anes de Azevedo.\nAmândio Santa Cruz Basto Oliveira.\nAmélia Cavaleiro Andrade Azevedo.\nArménio dos Santos.\nCarlos Alberto Pinto.\nFernando José Alves Figueiredo.\nFernando José Russo Roque Correia Afonso.\nHenrique Luís Esteves Bairrão.\nJosé Augusto Santos Silva Marques.\nJosé Manuel Rodrigues Casqueiro.\nJosé de Vargas Bulcão.\nManuel da Costa Andrade.\nManuel Joaquim Dias Loureiro.\nNicolau Gregório de Freitas.\nRui Manuel Parente Chancerelle de Machete.\nVítor Pereira Crespo.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

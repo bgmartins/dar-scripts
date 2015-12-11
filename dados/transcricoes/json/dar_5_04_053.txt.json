@@ -37,8 +37,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quorum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 30 minutos.", 
@@ -47,25 +48,31 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Abílio de Mesquita Araújo Guedes.\nAdérito Manuel Soares Campos.\nAlberto Cerqueira de Oliveira.\nAlberto Monteiro de Araújo.\nAlexandre Azevedo Monteiro.\nÁlvaro Cordeiro Dâmaso.\nAmândio dos Anjos Gomes.\nAntónio Abílio Costa.\nAntónio Augusto Lacerda Queirós.\nAntónio Augusto Ramos.\nAntónio de Carvalho Martins.\nAntónio Costa de A. Sousa Lara.\nAntónio Fernandes Ribeiro.\nAntónio Joaquim Correia Vairinhos.\nAntónio Jorge Santos Pereira.\nAntónio José Caeiro da Mota Veiga.\nAntónio José de Carvalho.\nAntónio Manuel Lopes Tavares.\nAntónio Maria Oliveira de Matos.\nAntónio Maria Ourique Mendes.\nAntónio Paulo Martins Pereira Coelho.\nAntónio Sérgio Barbosa de Azevedo.\nAntónio da Silva Bacelar.\nAristides Alves do Nascimento Teixeira.\nArlindo da Silva André Moreira.\nArmando Lopes Correia Costa.\nArménio dos Santos.\nBelarmino Henriques Correia.\nCarlos Manuel Duarte Oliveira.\nCarlos Manuel Oliveira da Silva.\nCarlos Manuel Pereira Baptista.\nCarlos Miguel M. de Almeida Coelho.\nCasimiro Gomes Pereira.\nCésar da Costa Santos.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nDomingos Duarte Lima.\nDomingos da Silva e Sousa.\nDulcíneo António Campos Rebelo.\nEduardo Alfredo de Carvalho P. da Silva.\nErcília Domingues M. P. Ribeiro da Silva.\nEvaristo de Almeida Guerra de Oliveira.\nFernando Barata Rocha.\nFernando Dias de Carvalho Conceição.\nFernando José Alves Figueiredo.\nFernando José Antunes Gomes Pereira.\nFernando José R. Roque Correia Afonso.\nFernando Manuel Alves Cardoso Ferreira.\nFernando dos Reis Condesso.\nFlausino José Pereira da Silva.\nFrancisco Antunes da Silva.\nFrancisco João Bernardino da Silva.\nFrancisco Mendes Costa.\nGuido Orlando de Freitas Rodrigues.\nGuilherme Henrique V. Rodrigues da Silva.\nHilário Torres Azevedo Marques.\nJoão Álvaro Poças Santos.\nJoão Costa da Silva.\nJoão Domingos F. de Abreu Salgado.\nJoão José Pedreira de Matos.\nJoão José da Silva Maçãs.\nJoão Maria Ferreira Teixeira.\nJoaquim Eduardo Gomes.\nJoaquim Fernandes Marques.\nJoaquim Vilela de Araújo.\nJorge Paulo Seabra Roque da Cunha.\nJosé Alberto Puig dos Santos Costa.\nJosé de Almeida Cesário.\nJosé Álvaro Machado Pacheco Pereira.\nJosé Angelo Ferreira Correia.\nJosé Assunção Marques.\nJosé Augusto Ferreira de Campos.\nJosé Augusto Santos Silva Marques.\nJosé Guilherme Pereira Coelho dos Reis.\nJosé Lapa Pessoa Paiva.\nJosé Leite Machado.\nJosé Luís Bonifácio Ramos.\nJosé Luís de Carvalho Lalanda Ribeiro.\nJosé Manuel Rodrigues Casqueiro.\nJosé Manuel da Silva Torres.\nJosé Mário Lemos Damião.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "osé Pereira Lopes.\nJosé de Vargas Bulcão.\nLeonardo Eugênio Ribeiro de Almeida.\nLicínio Moreira da Silva.\nLuís Amadeu Barradas do Amaral.\nLuís António Martins.\nLuís Filipe Garrido Pais de Sousa.\nLuís Filipe Meneses Lopes.\nLuís Manuel Costa Geraldes.\nLuís Manuel Neves Rodrigues.\nLuís da Silva Carvalho.\nManuel Albino Casimiro de Almeida.\nManuel António Sá Fernandes.\nManuel Coelho dos Santos.\nManuel da Cosia Andrade.\nManuel Ferreira Martins.\nManuel João Vaz Freixo.\nManuel Joaquim Baptista Cardoso.\nManuel José Dias Soares Costa.\nManuel Maria Moreira.\nMargarida Borges de Carvalho.\nMaria Helena Ferreira Mourão.\nMaria Luísa Lourenço Ferreira.\nMaria Manuela Aguiar Moreira.\nMaria Teresa Pinto Basto Gouveia.\nMary Patrícia Pinheiro e Lança.\nMário Júlio Montalvão Machado.\nMário de Oliveira Mendes dos Santos.\nMateus Manuel Lopes de Brito.\nMiguel Fernando C. de Miranda Relvas.\nNuno Francisco F. Delerue Alvim de Matos.\nNuno Miguel S. Ferreira Silvestre.\nPedro Augusto Cunha Pinto.\nPedro Domingos de S. e Holstein Campilho.\nPedro Manuel Cruz Roseta.\nRosa Maria Tomé e Costa.\nRui Alberto Limpo Salvada.\nRui Carlos Alvarez Carp.\nRui Gomes da Silva \nRui Manuel Almeida Mendes.\nRui Manuel Parente Chancerelle de Machete.\nValdemar Cardoso Alves.\nVirgílio de Oliveira Carneiro.\nWalter Lopes Teixeira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "11 DE MARÇO DE 1991 1717", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -120,124 +127,124 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, na sessão de hoje tem lugar a posse do Presidente da República eleito, perante a Assembleia da República, nos termos dos artigos 130.º da Constituição e 263.º a 265.º do Regimento.\nEm virtude de eu próprio, bem como os restantes membros da Mesa, termos necessidade de receber S. Ex.ª o Presidente da República e as entidades convidadas, declaro interrompidos os trabalhos, que recomeçarão pelas 11 horas.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, na sessão de hoje tem lugar a posse do Presidente da República eleito, perante a Assembleia da República, nos termos dos artigos 130.º da Constituição e 263.º a 265.º do Regimento.\nEm virtude de eu próprio, bem como os restantes membros da Mesa, termos necessidade de receber S. Ex.ª o Presidente da República e as entidades convidadas, declaro interrompidos os trabalhos, que recomeçarão pelas 11 horas.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 10 horas e 31 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Está reaberta a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 11 horas e 12 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "O Sr. Secretário vai proceder à leitura da acta da reunião da assembleia de apuramento geral da eleição do Presidente da República.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "Acta da reunião da assembleia de apuramento geral da eleição do Presidente da República", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "No dia 21 de Janeiro de 1991, nesta cidade de Lisboa e no Tribunal Constitucional, reuniu a assembleia de apuramento geral da eleição do Presidente da República, nos termos e para os efeitos do disposto nos artigos 105.º a 110.º do Decreto-Lei nº 319-A/76, de 3 de Maio, sob a presidência do juiz conselheiro Presidente deste Tribunal, José Ma-", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "1718 I SÉRIE - NÚMERO 53", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "nuel Moreira Cardoso da Costa, com os juizes conselheiros Armindo António Lopes Ribeiro Mendes e Alberto Manuel Portal Tavares da Costa e os professores de Matemática licenciados Felismina Maria Costa Freitas, Manuel José da Silva Fonseca e António Pereira Rosa, comigo, António Joaquim Baginha Miranda, secretário.\nAberta a reunião, verificou-se que foram recebidas as actas de todas as assembleias de apuramento distrital, à excepção das respeitantes ao distrito de Aveiro e à Região Autónoma dos Açores, encontrando-se, porém, incompletas as respeitantes aos distritos de Santarém e Vila Real; e que recebidos foram, bem assim, as actas, cadernos eleitorais e mais documentos relativos à votação realizada no dia IS do corrente mês, nos termos do n.º 2 do artigo 81.º do citado Decreto-Lei n.º 319-A/76, na freguesia de Perozelo, concelho de Penafiel, distrito do Porto, mas não as actas, cadernos e mais documentos relativos à votação realizada na mesma data, e nos termos do mesmo preceito legal, na freguesia do Machio, concelho de Pampilhosa da Serra, distrito de Coimbra.\nIniciadas seguidamente as operações de apuramento com os elementos disponíveis, começou por proceder-se, nos termos do n.º 3 do artigos 112.º-A do Decreto-Lei n.º 319-A/76 e para completamento do apuramento distrital do Porto, à verificação dos elementos relativos à assembleia de voto da dita freguesia de Perozelo, tendo sido confirmados como nulos os votos aí considerados como tais, e incluídos de seguida os resultados eleitorais dessa freguesia naquele apuramento distrital, o qual passou a ser o seguinte:", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "Eleitores inscritos - l 297 247; \nNúmero de votantes - 849 027; Candidato \nBasílio Horta - 102660; \nCandidato Mário Soares - 626 878; \nCandidato Carlos Carvalhas - 75 448; \nCandidato Carlos Marques - 15 532; \nVotos em branco - 19 195; \nVotos nulos - 9314.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "O apuramento prosseguiu com a análise das restantes actas de assembleias de apuramento distrital disponíveis, tendo-se verificado, na acta da assembleia de apuramento distrital reunida em Cascais, um erro de escrita na determinação do número total de votos a favor do candidato Carlos Marques (que foi de 3812 e não de 3819) e um outro relativo ao número de votantes na freguesia de São João das Lampas, concelho de Sintra (que foi de 4025 e não de 4024), erros que foram rectificados.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "Interrompidos os trabalhos de apuramento cerca das 20 horas, foi designado para continuação desta assembleia o dia 23 do corrente pelas 10 horas e 30 minutos, solicitando-se telefonicamente, entretanto, a remessa urgente dos elementos em falta.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "No dia 23 de Janeiro de 1991, pelas 10 horas e 30 minutos, com a mesma composição, prosseguiu a assembleia os trabalhos de apuramento geral da eleição do Presidente da República.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "Tendo verificado que foram entretanto recebidos todos os elementos em falta necessários ao mesmo apuramento, começou por proceder-se, nos termos do n.º 2 do artigo 112.B-A do Decreto-Lei n.9 319-A/76, supracitado, e para completamento do apuramento distrital de Coimbra, à verificação dos elementos relativos à assembleia de voto da freguesia de Machio, concelho de Pampilhosa da Serra, e à inclusão dos respectivos resultados naquele apuramento distrital, o qual passou a ser o seguinte:", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "Eleitores inscritos - 369 087; \nNúmero de votantes - 221 235; \nBasílio Horta - 26277; \nMário Soares - 163003; \nCarlos Carvalhas -18 965; \nCarlos Marques - 4440; \nVotos brancos - 5666; \nVotos nulos - 2884.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "Reinaldo Gomes) procedeu à leitura da acta, que é do seguinte teor", 
    "speaker": "O Sr. Secretário", 
    "text": "Seguidamente, procedeu-se à conclusão do apuramento, com a análise das actas relativas às assembleias de apuramento distrital de Aveiro, Santarém, Vila Real e Região Autónoma dos Açores.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Concluídas as operações de contagem, apuraram-se, nos termos do artigo 108.º do Decreto-Lei n.º 319-A/76, de 3 de Maio, os seguintes resultados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Concluídas as operações de contagem, apuraram-se, nos termos do artigo 108.º do Decreto-Lei n.º 319-A/76, de 3 de Maio, os seguintes resultados", 
    "text": "Eleitores inscritos - 8 202 812; \nNúmero de votantes - 5 098 768; \nCandidato Basílio Adolfo Mendonça Horta da Franca -696379; \nCandidato Mário Alberto Nobre Lopes Soares - 3459521; \nCandidato Carlos Alberto do Vale Gomes Carvalhas - 635 373; \nCandidato Carlos Manuel Marques da Silva - 126581; \nVotos brancos - 112 877; \nVotos nulos - 68037.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Concluídas as operações de contagem, apuraram-se, nos termos do artigo 108.º do Decreto-Lei n.º 319-A/76, de 3 de Maio, os seguintes resultados", 
    "text": "Após o que, e na sala de actos do Tribunal Constitucional, foram proclamados pelo Sr. Presidente os resultados do apuramento geral, e, em vista do disposto no artigo 129.º, n.º 1, da Constituição, proclamado eleito Presidente da República para o próximo mandato o cidadão Mário Alberto Nobre Lopes Soares.\nPara constar se lavrou esta acta, que, depois de lida vai ser devidamente assinada.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Concluídas as operações de contagem, apuraram-se, nos termos do artigo 108.º do Decreto-Lei n.º 319-A/76, de 3 de Maio, os seguintes resultados", 
    "text": "José Manuel Moreira Cardoso da Costa - Armindo António Lopes Ribeiro Mendes - Alberto Manuel Portal Tavares da Costa - Felismina Maria Costa Freitas - Manuel José da Silva Fonseca - António Pereira Rosa-António Joaquim Baginha Miranda.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Concluídas as operações de contagem, apuraram-se, nos termos do artigo 108.º do Decreto-Lei n.º 319-A/76, de 3 de Maio, os seguintes resultados", 
-   "text": "O Sr. *Presidente*: Seguidamente, S. Ex.ª o Sr. Presidente da República prestará a declaração de compromisso a que se refere o n.º 3 do artigo 130.º da Constituição e subscreverá comigo o auto da sua posse.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Seguidamente, S. Ex.ª o Sr. Presidente da República prestará a declaração de compromisso a que se refere o n.º 3 do artigo 130.º da Constituição e subscreverá comigo o auto da sua posse.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "De pé, o Sr. Presidente da Republica prestou juramento sobre o original da Constituição, lendo a fórmula constitucional, do seguinte teor", 
@@ -279,8 +286,9 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Presidente da República, Sr. Primeiro-Ministro, Sr. Presidente do Supremo Tribunal de Justiça, Sr. Presidente do Tribunal Constitucional, Sr. Cardeal-Patriarca de Lisboa, Excelências, Srs. Deputados, minhas Senhoras e meus Senhores: Acaba V.ª Ex.ª, Sr.Presidente, de tomar posse perante a Assembleia da República, em cerimónia de rara solenidade e plena de simbolismo.\nEleito pelos cidadãos residentes no território nacional, é perante os representantes de todos os portugueses que o Presidente da República presta a sua declaração de compromisso. É perante o Parlamento que V.\nEx.ª vai proferir a sua primeira mensagem: mensagem que é endereçada por igual a todos os portugueses, onde quer que se encontrem, vivam ou trabalhem, na diáspora que temos sabido construir.\nTenho esperança que não venham longe os tempos em que os colégios para a eleição dos órgãos de soberania, sujeitos a sufrágio universal, sejam coincidentes.\nGanhava-se, em nome dos princípios.\nResulta do preceito constitucional, unanimemente aceite, que o Presidente da República tome posse perante a Assembleia.\nSabemos bem, Sr. Presidente, quanto lhe 6 caro que assim seja.\nNa sua longa vida política, sempre se empenhou e conduziu o seu combate na defesa da liberdade e da democracia.\nCombate em que manifestou, por palavras e actos - em plena coerência com as ideias que defende e com a sua postura - a importância do Parlamento.\nSão de V. Ex.ª estas palavras:", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Presidente da República, Sr. Primeiro-Ministro, Sr. Presidente do Supremo Tribunal de Justiça, Sr. Presidente do Tribunal Constitucional, Sr. Cardeal-Patriarca de Lisboa, Excelências, Srs. Deputados, minhas Senhoras e meus Senhores: Acaba V.ª Ex.ª, Sr.Presidente, de tomar posse perante a Assembleia da República, em cerimónia de rara solenidade e plena de simbolismo.\nEleito pelos cidadãos residentes no território nacional, é perante os representantes de todos os portugueses que o Presidente da República presta a sua declaração de compromisso. É perante o Parlamento que V.\nEx.ª vai proferir a sua primeira mensagem: mensagem que é endereçada por igual a todos os portugueses, onde quer que se encontrem, vivam ou trabalhem, na diáspora que temos sabido construir.\nTenho esperança que não venham longe os tempos em que os colégios para a eleição dos órgãos de soberania, sujeitos a sufrágio universal, sejam coincidentes.\nGanhava-se, em nome dos princípios.\nResulta do preceito constitucional, unanimemente aceite, que o Presidente da República tome posse perante a Assembleia.\nSabemos bem, Sr. Presidente, quanto lhe 6 caro que assim seja.\nNa sua longa vida política, sempre se empenhou e conduziu o seu combate na defesa da liberdade e da democracia.\nCombate em que manifestou, por palavras e actos - em plena coerência com as ideias que defende e com a sua postura - a importância do Parlamento.\nSão de V. Ex.ª estas palavras:", 
+   "type": "presidente"
   }, 
   {
    "text": "...] considero a Assembleia da República como o centro vital da democracia. É da eficácia da sua acção, no plano político e no plano legislativo, que em grande parte depende o regular funcionamento das instituições democráticas.\nNa verdade, não há democracia digna do seu nome sem um Parlamento vivo e actuante.\nNão há democracia eficaz e estabilizada se o Parlamento não for o lugar privilegiado para o debate político.\nDebate em que se façam as principais opções, que determinam os caminhos do desenvolvimento, no respeito pela justiça social e pela dignidade do homem; debate em que se manifeste livremente a dinâmica de progresso e a vontade das diferentes correntes de opinião.\nPela primeira vez uma legislatura chega ao seu termo.\nFacto simples e natural, embora digno de menção porque só o conseguimos ao fim de dezena e meia de anos.\nSerá, por isso, um marco na história da nossa vida parlamentar.\nE esta legislatura ficará também conhecida pelas transformações profundas, a que deu origem ou aprovou, indispensáveis para o desenvolvimento do País.\nTrabalhámos durante estes quatro anos em normalidade e estabilidade.\nCondições que devem passar a constituir a regra de ouro dos nossos percursos políticos, para assim galgarmos atrasos, erros e \nadormecimentos que restam dos tempos do passado.\nEstamos em tempos de mudança. Tempos de modernização e de progresso.\nPara os bem viver, lemos de saber garantir a estabilidade, a eficácia e o regular funcionamento das instituições democráticas.\nTemos ainda a obrigação de consolidar ordens e estruturas que respondam às exigências do futuro.\nAvantaja-se o primado do político.\nRequerem-se hoje, como nunca, soluções políticas imaginativas e criadoras.\nQue olhem para a condição humana.\nQue atentem na dignidade dos homens, na sua dimensão ética e nos anseios da sua realização.\nAinda subsistem, por esse mundo fora, profundas injustiças, fome e guerras. Situações degradantes de que a generalidade dos cidadãos só ganhou plena consciência através do desenvolvimento ímpar da comunicação social. Que nos colocou face a todas as violências vistas à luz crua da realidade.\nE despertou a consciência de todos nós para a necessidade da solidariedade e da coesão social.\nChamou-nos a uma clarividência de olharmos mais de peno para nós mesmos, e para dentro dos países a que estamos historicamente ligados por laços estreitos.\nNestes tempos de mudança, os paradigmas da força e da riqueza material dão lugar à criatividade, à inventiva, ao engenho, à capacidade de construir.\nÉ esta a nova riqueza das nações.\nE nós, Portugueses, que averbamos na história a gesta de sulcar mares e de estreitar as suas lonjuras, não podemos ficar insensíveis à imensidão desses novos desafios.\nOlhando mais perto, temos à nossa frente a caminhada para a unidade europeia, económica e política, que queremos se processe com justiça e realismo.\nDe modo a que o nosso continente reganhe a sua posição de motor da evolução da humanidade.\nTambém nesse quadro se impõem a estabilidade e a eficácia das instituições democráticas.\nCabe a Portugal exercer um papel da maior relevância. Fruto da riqueza da nossa experiência, da nossa cultura e da capacidade das nossas gentes. Em particular no período da presidência das Comunidades.\nDevemos nós, Portugueses, aprofundar as vias do progresso e \ndesenvolvimento que nos permitam uma correcta inserção no grande mercado interno, tendo sem-", 
@@ -324,7 +332,8 @@
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. Presidente da República: Sr. Presidente da Assembleia da República, Sr. Primeiro-Ministro, Srs. Presidentes do Supremo Tribunal de Justiça e do Tribunal Constitucional, Srs. Membros do Governo, Srs.Deputados, Srs. Embaixadores, Sr. Cardeal-Patriarca, Eminência, Srs.Convidados: Proferido o compromisso constitucional de «defender, cumprir e fazer cumprir a Constituição», perante a representação nacional, expressa neste Parlamento, e perante os altos corpos do Estado, aqui também reunidos, as minhas primeiras palavras serão para agradecer, com humildade sincera e pleno sentido das minhas \nresponsabilidades, ao povo português, fundamento primeiro e último da soberania nacional, ter-me honrado de novo com a sua confiança - pela forma expressiva como o fez - para continuar a presidir aos destinos da República, nos próximos cinco anos. No desempenho das funções em que acabo de ser investido, tudo farei para ser em absoluto fiel a essa confiança reiterada e ao juramento solene que acabo de proferir, no entendimento que tenho da Constituição, da sua letra e do seu espírito, que é bem conhecido, e como garante que sou, por imperativo \nconstitucional, do regular funcionamento das instituições democráticas, legitimadas pelo voto popular, e dos princípios inspiradores do Estado de direito, que somos, baseado na observância da lei e da legalidade, no respeito pelos direitos humanos e das minorias e na aceitação, a todos os níveis, do pluralismo e da alternância democrática.", 
+   "speaker": "O Sr. Presidente da República", 
+   "text": "Sr. Presidente da Assembleia da República, Sr. Primeiro-Ministro, Srs. Presidentes do Supremo Tribunal de Justiça e do Tribunal Constitucional, Srs. Membros do Governo, Srs.Deputados, Srs. Embaixadores, Sr. Cardeal-Patriarca, Eminência, Srs.Convidados: Proferido o compromisso constitucional de «defender, cumprir e fazer cumprir a Constituição», perante a representação nacional, expressa neste Parlamento, e perante os altos corpos do Estado, aqui também reunidos, as minhas primeiras palavras serão para agradecer, com humildade sincera e pleno sentido das minhas \nresponsabilidades, ao povo português, fundamento primeiro e último da soberania nacional, ter-me honrado de novo com a sua confiança - pela forma expressiva como o fez - para continuar a presidir aos destinos da República, nos próximos cinco anos. No desempenho das funções em que acabo de ser investido, tudo farei para ser em absoluto fiel a essa confiança reiterada e ao juramento solene que acabo de proferir, no entendimento que tenho da Constituição, da sua letra e do seu espírito, que é bem conhecido, e como garante que sou, por imperativo \nconstitucional, do regular funcionamento das instituições democráticas, legitimadas pelo voto popular, e dos princípios inspiradores do Estado de direito, que somos, baseado na observância da lei e da legalidade, no respeito pelos direitos humanos e das minorias e na aceitação, a todos os níveis, do pluralismo e da alternância democrática.", 
    "type": "continuacao"
   }, 
   {
@@ -332,6 +341,7 @@
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "Quero agradecer a V. Ex.ª, Sr. Presidente da Assembleia da República, as generosas palavras que me dirigiu, ao saudar-me em nome dos Srs.Deputados, e assegurar, a esta ilustre Assembleia, o meu respeito, como sede principal da democracia portuguesa, e a minha intenção de estreita cooperação e solidariedade.\nAo iniciar um segundo mandato, como Presidente da República, não devo furtar-me a uma breve reflexão sobre o caminho percorrido, nos últimos cinco anos, que hoje se completam - as grandes mudanças ocorridas na vida nacional e, principalmente, no plano internacional - \nconsiderando-as, obviamente, numa perspectiva de futuro. Trata-se de avaliar o percurso feito, o seu sentido e alcance, por forma objectiva, mas, sobretudo, de procurar discernir as linhas do futuro, para melhor o preparar para as gerações que despontam.\nO meu compromisso de há cinco anos foi «unir os Portugueses e servir Portugal», com absoluta independência política, colocando-me numa posição de equidistância em relação aos partidos políticos, que respeito por igual, oferecendo uma solidariedade institucional sem falhas ao Governo legítimo, porque resultou do voto popular expresso nas eleições legislativas de 1985 e de 1987, observando, e fazendo observar, as regras de jogo normais numa sociedade aberta, que implicam concertação cívica, espírito de tolerância, respeito pelas minorias e plena igualdade entre os partidos, qualquer que seja a sua \nrepresentação parlamentar, em especial no acesso aos meios de comunicação social sob tutela do Estado.", 
    "type": "continuacao"
   }, 
@@ -340,6 +350,7 @@
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Sr. Presidente da República", 
    "text": "11 DE MARÇO DE 1991 1721", 
    "type": "continuacao"
   }, 
@@ -356,11 +367,13 @@
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: A descolonização e todas as sequelas desse período tão dramático como inevitável, dado o condicionalismo anterior, constituem outro exemplo de uma temática esgotada, que pertence igualmente ao passado. Os historiadores, com certeza, em tempo próprio, \noferecer-nos-ão os seus juízos, com a objectividade possível. Serão seguramente interessantes e válidos. Mas o potencial de controvérsia que a descolonização ainda encerra, por maior que seja, importa pouco à sociedade portuguesa de hoje e, muito menos ainda, aos países africanos lusófonos, abertos à paz e ao pluripartidarismo.", 
+   "speaker": "O Orador", 
+   "text": "A descolonização e todas as sequelas desse período tão dramático como inevitável, dado o condicionalismo anterior, constituem outro exemplo de uma temática esgotada, que pertence igualmente ao passado. Os historiadores, com certeza, em tempo próprio, \noferecer-nos-ão os seus juízos, com a objectividade possível. Serão seguramente interessantes e válidos. Mas o potencial de controvérsia que a descolonização ainda encerra, por maior que seja, importa pouco à sociedade portuguesa de hoje e, muito menos ainda, aos países africanos lusófonos, abertos à paz e ao pluripartidarismo.", 
    "type": "continuacao"
   }, 
   {
@@ -428,19 +441,23 @@
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Refira-se, como anotação à margem, que, a poucos meses de vista, por imperativo constitucional, teremos eleições legislativas, uma vez que se completa, pela primeira vez. na história da II República - como o Sr. Presidente assinalou, e releve-se-me o orgulho com que o faço - uma legislatura, a actual, de quatro anos.", 
    "type": "continuacao"
   }, 
   {
-   "text": "O Orador: Refira-se, como anotação à margem, que, a poucos meses de vista, por imperativo constitucional, teremos eleições legislativas, uma vez que se completa, pela primeira vez. na história da II República - como o Sr. Presidente assinalou, e releve-se-me o orgulho com que o faço - uma legislatura, a actual, de quatro anos.", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: Não entro, obviamente, nessa problemática eleitoral que respeita principalmente aos partidos e que o povo português, em plena liberdade, deverá dirimir. Qualquer que seja, porém, o resultado, aceitá-lo-ei, como obviamente me cumpre, animado tão-só pela preocupação de manter com o futuro governo a melhor cooperação institucional.", 
+   "speaker": "O Orador", 
+   "text": "Não entro, obviamente, nessa problemática eleitoral que respeita principalmente aos partidos e que o povo português, em plena liberdade, deverá dirimir. Qualquer que seja, porém, o resultado, aceitá-lo-ei, como obviamente me cumpre, animado tão-só pela preocupação de manter com o futuro governo a melhor cooperação institucional.", 
    "type": "continuacao"
   }, 
   {
@@ -448,6 +465,7 @@
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Mas não me dispensarei de referir, a esse propósito, que a proximidade de eleições - com a pré-campanha e a campanha que necessariamente as precedem - não deve servir de pretexto para desviar a atenção dos Portugueses dos desafios com que estão confrontados, na própria Pátria, na Europa comunitária e em África. Pelo contrário, aconselha um amplo - e prévio - debate nacional, sereno, informado e responsável, sobre toda esta problemática, que a meu ver deve iniciar-se quanto antes, e postula, como se compreende, uma estreita cooperação interpartidária - e", 
    "type": "continuacao"
   }, 
@@ -468,19 +486,23 @@
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "O poder político, como o poder económico, que, em Portugal, sofreram as vicissitudes conhecidas, ao longo do nosso processo democrático, irão ser necessariamente repensados e reestruturados nos próximos anos - as privatizações são apenas um exemplo disso, e que importa acompanhar de perto - à medida que se for aprofundando a nossa integração comunitária. É inevitável que assim aconteça. Por isso, quanto mais cedo todos nos dermos conta dessa exigência, melhor.", 
    "type": "continuacao"
   }, 
   {
-   "text": "O Orador: O poder político, como o poder económico, que, em Portugal, sofreram as vicissitudes conhecidas, ao longo do nosso processo democrático, irão ser necessariamente repensados e reestruturados nos próximos anos - as privatizações são apenas um exemplo disso, e que importa acompanhar de perto - à medida que se for aprofundando a nossa integração comunitária. É inevitável que assim aconteça. Por isso, quanto mais cedo todos nos dermos conta dessa exigência, melhor.", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: E aí terá um papel decisivo a desempenhar uma comunicação social verdadeiramente independente, ciosa das suas garantias deontológicas e qualificações profissionais - como lhe cumpre -...", 
+   "speaker": "O Orador", 
+   "text": "E aí terá um papel decisivo a desempenhar uma comunicação social verdadeiramente independente, ciosa das suas garantias deontológicas e qualificações profissionais - como lhe cumpre -...", 
    "type": "continuacao"
   }, 
   {
@@ -488,6 +510,7 @@
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "... mas responsável e responsabilizável perante órgãos jurisdicionais, eles lambam, em absoluto, independentes do poder político e do poder económico.", 
    "type": "continuacao"
   }, 
@@ -500,11 +523,13 @@
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Em Portugal, como exemplos recentes demonstram, as instituições funcionam e a independência dos tribunais é, felizmente, um facto.", 
+   "speaker": "O Orador", 
+   "text": "Em Portugal, como exemplos recentes demonstram, as instituições funcionam e a independência dos tribunais é, felizmente, um facto.", 
    "type": "continuacao"
   }, 
   {
@@ -512,15 +537,18 @@
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Sr. Presidente, Srs. Deputados: Os próximos cinco anos serão decerto exaltantes. Grandes transformações estão em curso no mundo: tudo evolui com excepcional rapidez - países, instituições, as próprias concepções, as ideias e as pessoas. Está em via de se construir, pela força das coisas, uma nova ordem internacional. Qual ela seja, é a grande questão. Como a guerra no Golfo veio demonstrar, o precário equilíbrio criado em falta não actua mais, como antes, e novas realidades se impõem. O mundo deixou de ser bipolar. Poderemos esperar das Nações Unidas um reforço de prestígio e uma racionalização das regras do seu funcionamento, que as torne mais eficazes? Assistiremos ao renascer em força da Europa, tendo como centro motor a Comunidade, associada aos países da EFTA e solidária dos países da Europa Central e Oriental, em vias de democratização? Estaremos, como os optimistas previam, antes da guerra do Golfo, no limiar de uma nova era de paz, com a gradual universalização das regras do pluralismo democrático, a observância dos direitos humanos e o sentimento generalizado de que o mundo é um só, o que nos obrigará, por forma consequente, a retomar o diálogo Norte-Sul, as preocupações ecológicas à escala planetária e a um trabalho sério de erradicação das causas da miséria, da doença e da ignorância que continuam a afligir dois terços da humanidade? \nNão me arrisco, obviamente, a entrar em futurologia, nem seria indicado fazê-lo neste momento. Mas que os problemas referidos estão no centro de todas as preocupações - e não podem, por muito mais tempo, ser iludidos - isso é evidente.", 
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Portugal é um pequeno país, que tem a consciência das suas limitações, mas que sabe igualmente que o seu prestígio internacional e o peso da sua longa história não se medem pela extensão geográfica do seu território nem pela expressão numérica da sua população.", 
+   "speaker": "O Orador", 
+   "text": "Portugal é um pequeno país, que tem a consciência das suas limitações, mas que sabe igualmente que o seu prestígio internacional e o peso da sua longa história não se medem pela extensão geográfica do seu território nem pela expressão numérica da sua população.", 
    "type": "continuacao"
   }, 
   {
@@ -528,6 +556,7 @@
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Espero que Portugal possa contribuir, validamente, para esse grande debate universal. Portugal, país euro-atlântico, fiel às alianças em que se insere, situado numa posição geo-estratégica ímpar, na entrada do Mediterrâneo, com uma língua hoje falada por 170 milhões de seres humanos, em todos os continentes, e uma memória histórica que perdura.\nIntegrado na Comunidade Europeia, em cujo desenvolvimento activamente participa, ligado intimamente à África Lusófona e ao Brasil, por sólidos laços afectivos, culturais e de interesse, que estão a renovar-se intensamente, o mais próximo vizinho dos Estados Unidos, na Europa, Portugal é hoje uma nação segura de si, que sabe o que quer, com um rumo definido. A coesão nacional é um facto óbvio para todos os portugueses, que resulta directamente da larga convergência existente quanto aos grandes objectivos nacionais, e como tal reconhecidos, da comunidade de interesses e da imensa consensualidade que foi possível estabelecer quanto às instituições que nos regem.", 
    "type": "continuacao"
   }, 
@@ -596,11 +625,13 @@
    "type": "continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Não deixarei de exercer a magistratura de influência a que habituei os Portugueses. Há, para além disso - digo-o com modéstia e sem querer usar expressões grandiloquentes -, so julgamento da história» e o da própria consciência. Esses são os mais exigentes.\nObrigam-me a um rigor cada vez maior no exercício das minhas funções e a uma absoluta fidelidade a mim próprio. Os Portugueses poderão continuar tranquilos: de mim não virão surpresas. O caminho e claro e está bem definido.", 
+   "speaker": "O Orador", 
+   "text": "Não deixarei de exercer a magistratura de influência a que habituei os Portugueses. Há, para além disso - digo-o com modéstia e sem querer usar expressões grandiloquentes -, so julgamento da história» e o da própria consciência. Esses são os mais exigentes.\nObrigam-me a um rigor cada vez maior no exercício das minhas funções e a uma absoluta fidelidade a mim próprio. Os Portugueses poderão continuar tranquilos: de mim não virão surpresas. O caminho e claro e está bem definido.", 
    "type": "continuacao"
   }, 
   {
@@ -608,8 +639,9 @@
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, minhas Senhoras e meus Senhores, está encerrada a sessão.\nNeste momento, a Banda da Guarda Nacional Republicana executou de novo o Hino Nacional.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, minhas Senhoras e meus Senhores, está encerrada a sessão.\nNeste momento, a Banda da Guarda Nacional Republicana executou de novo o Hino Nacional.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 12 horas e 20 minutos.", 
@@ -618,25 +650,31 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Fernando Monteiro do Amaral.\nFilipe Manuel Silva Abreu.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "11 DE MARÇO DE 1991 1725", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Reinaldo Alberto Ramos Gomes.\nVítor Pereira Crespo.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

@@ -81,169 +81,209 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, lemos quorum, pelo que declaro aberta a sessão.\n_Eram 15 horas e 25 minutos_.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, lemos quorum, pelo que declaro aberta a sessão.\n_Eram 15 horas e 25 minutos_.", 
+   "type": "presidente_aberta"
   }, 
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Vítor Pereira Crespo, Presidente (PSD).\nMaria Manuela Aguiar Dias Moreira, Vice-Presidente (PSD).\nJoão Eduardo Coelho Ferraz de Abreu, Vice-Presidente (PS).\nJosé Manuel Maia Nunes de Almeida, Vice-Presidente (PCP).\nHermínio Paiva Fernandes Martinho, Vice-Presidente (PRD).\nReinaldo Alberto Ramos Gomes (PSD).\nAmândio Santa Cruz Basto Oliveira (PSD).\nAntónio Paulo Pereira Coelho (PSD).\nCarlos Miguel M. Almeida Coelho (PSD).\nDomingos Duarte Lima (PSD).\nFernando Manuel A. Cardoso Ferreira (PSD).\nCuido Orlando de Freitas Rodrigues (PSD).\nDaniel Abílio Ferreira Bastos (PSD).\nJosé Álvaro M. Pacheco Pereira (PSD).\nJosé Augusto S. da Silva Marques (PSD).\nAdérito Manuel Soares de Campos (PSD).\nMário Júlio Montalvão Machado (PSD).\nMiguel Fernando C. Miranda Relvas (PSD).\nRui Carlos Alvarez Carp (PSD).\nAntónio Manuel de Oliveira Guterres (PS).\nArmando António Martins Vara (PS).\nJaime José Matos da Gama (PS).\nJorge Lacão Costa (PS).\nRui do Nascimento Rabaça Vieira (PS).\nAntónio Fernandes da Silva Braga (PS).\nJerónimo Carvalho de Sousa (PCP).\nAntónio Filipe Gaião Rodrigues (PCP).\nJosé Carlos Pereira Lilaia (PRD).\nJosé Luís Nogueira de Brito (CDS).\nAndré Valente Martins (PEV).", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "ANTES DA ORDEM DO DIA", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, encontram-se já inscritos, para intervenções, os Srs. Deputados António Filipe e Alberto Martins.\nTem a palavra o Sr. Deputado António Filipe.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, encontram-se já inscritos, para intervenções, os Srs. Deputados António Filipe e Alberto Martins.\nTem a palavra o Sr. Deputado António Filipe.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *António Filipe* (PCP): Sr. Presidente, Srs. Deputados: Ao retomar os seus trabalhos depois da pausa de Agosto, a Comissão Permanente da Assembleia da República não pode deixar de dar prioridade à obrigação constitucional de acompanhar a actividade do Governo.\nOra o aspecto mais saliente desta actividade governamental é o envolvimento do Executivo de Cavaco Silva na campanha eleitoral do PSD.\nNeste sentido, o Grupo Parlamentar do PCP volta a protestar, com toda a energia, contra a inadmissível utilização que o PSD persiste em fazer dos cargos do Governo para desenvolver a sua campanha eleitoral.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "António Filipe", 
+   "text": "Sr. Presidente, Srs. Deputados: Ao retomar os seus trabalhos depois da pausa de Agosto, a Comissão Permanente da Assembleia da República não pode deixar de dar prioridade à obrigação constitucional de acompanhar a actividade do Governo.\nOra o aspecto mais saliente desta actividade governamental é o envolvimento do Executivo de Cavaco Silva na campanha eleitoral do PSD.\nNeste sentido, o Grupo Parlamentar do PCP volta a protestar, com toda a energia, contra a inadmissível utilização que o PSD persiste em fazer dos cargos do Governo para desenvolver a sua campanha eleitoral.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Armando Vara* (PS): Muito bem!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Armando Vara", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: São flagrantes e recentes exemplos desta actuação tanto a inauguração da Feira Industrial de Paços de Ferreira pelo Ministro da Presidência e da Defesa Nacional, o que só se explica pela razão de ser ele o cabeça-de-lista do PSD pelo Porto, como a circunstância de Cavaco Silva ter-se feito acompanhar na inauguração de uma exposição sobre actividades agrícolas em Montemor-o-Novo pelo Ministro Ferreira do Amaral, o que só se explica pelo facto de o responsável pelo Ministério das Obras Públicas, Transportes e Comunicações ser o cabeça-de-lista do PSD por Évora.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "São flagrantes e recentes exemplos desta actuação tanto a inauguração da Feira Industrial de Paços de Ferreira pelo Ministro da Presidência e da Defesa Nacional, o que só se explica pela razão de ser ele o cabeça-de-lista do PSD pelo Porto, como a circunstância de Cavaco Silva ter-se feito acompanhar na inauguração de uma exposição sobre actividades agrícolas em Montemor-o-Novo pelo Ministro Ferreira do Amaral, o que só se explica pelo facto de o responsável pelo Ministério das Obras Públicas, Transportes e Comunicações ser o cabeça-de-lista do PSD por Évora.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *António Paulo Pereira Coelho* (PSD): Não é nada disso!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "António Paulo Pereira Coelho", 
+   "text": "Não é nada disso!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Mas, enquanto os membros do Governo e o Governo se envolvem, desta maneira escandalosa, na campanha eleitoral, em claro abuso das suas funções, o País defronta-se com problemas gravíssimos, fruto da inépcia e irresponsabilidade governamental, quando não mesmo de grave falta de transparência.\nO que se passa com os fogos florestais é inconcebível. A inépcia conduziu a que as áreas ardidas, mais uma vez este ano, tenha aumentado. É da mais completa irresponsabilidade ouvir um ministro, como o da Administração Interna, dizer que se tem feito demasiado alarme com os fogos florestais. Claro que o Governo não está preocupado! Se estivesse, não tinha deixado chegar a situação a este ponto.\nTambém a situação das privatizações merecia um tratamento aprofundado.\nSão mais que legítimas as dúvidas que ensombram todo o processo. Há privatizações que parecem feitas por medida, para serem a benefício de certos e determinados grupos, como é o caso da privatização do Banco Fonsecas & Burnay. Como se explica tudo isto? \nEstas são algumas das questões que se revestem de grande actualidade.\nMas há outras que ainda estão silenciadas e para as quais é importante chamar a atenção da Assembleia da República. Refiro-me às condições em que irá abrir o próximo ano escolar.\nO ano que passou foi um mau ano escolar. O Governo promoveu 11 conferências de imprensa para anunciar as magníficas condições de abertura de uma rede escolar com sinais evidentes de ruptura. Não enganou ninguém: a degradação de instalações, equipamentos e segurança das escolas, a falta de pessoal auxiliar mínimo para o seu \nfuncionamento, a frustração de direitos salariais adquiridos pelos professores, a escandalosa situação de estrangulamento financeiro dos estabelecimentos de ensino, foram factos que, associados ao descalabro que representa o orçamento da Educação para o ano em curso, levaram a que o Ministro Roberto Carneiro tenha anunciado nesta Câmara a sua demissão no próximo mês de Outubro, dando mostras de um demissionismo das questões educativas, de há muitos meses evidente.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Mas, enquanto os membros do Governo e o Governo se envolvem, desta maneira escandalosa, na campanha eleitoral, em claro abuso das suas funções, o País defronta-se com problemas gravíssimos, fruto da inépcia e irresponsabilidade governamental, quando não mesmo de grave falta de transparência.\nO que se passa com os fogos florestais é inconcebível. A inépcia conduziu a que as áreas ardidas, mais uma vez este ano, tenha aumentado. É da mais completa irresponsabilidade ouvir um ministro, como o da Administração Interna, dizer que se tem feito demasiado alarme com os fogos florestais. Claro que o Governo não está preocupado! Se estivesse, não tinha deixado chegar a situação a este ponto.\nTambém a situação das privatizações merecia um tratamento aprofundado.\nSão mais que legítimas as dúvidas que ensombram todo o processo. Há privatizações que parecem feitas por medida, para serem a benefício de certos e determinados grupos, como é o caso da privatização do Banco Fonsecas & Burnay. Como se explica tudo isto? \nEstas são algumas das questões que se revestem de grande actualidade.\nMas há outras que ainda estão silenciadas e para as quais é importante chamar a atenção da Assembleia da República. Refiro-me às condições em que irá abrir o próximo ano escolar.\nO ano que passou foi um mau ano escolar. O Governo promoveu 11 conferências de imprensa para anunciar as magníficas condições de abertura de uma rede escolar com sinais evidentes de ruptura. Não enganou ninguém: a degradação de instalações, equipamentos e segurança das escolas, a falta de pessoal auxiliar mínimo para o seu \nfuncionamento, a frustração de direitos salariais adquiridos pelos professores, a escandalosa situação de estrangulamento financeiro dos estabelecimentos de ensino, foram factos que, associados ao descalabro que representa o orçamento da Educação para o ano em curso, levaram a que o Ministro Roberto Carneiro tenha anunciado nesta Câmara a sua demissão no próximo mês de Outubro, dando mostras de um demissionismo das questões educativas, de há muitos meses evidente.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP e do PS: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP e do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Estamos convictos de que desta vez o Ministro da Educação será obrigado a cumprir a sua palavra e que em breve chegará ao fim o longo período de 12 anos que o PSD já leva à frente desse Ministério.\nHá quatro anos, o Ministro Roberto Carneiro reconheceu, publicamente, as enormes carências e desequilíbrios do sistema educativo português.\nPorém, no momento em que vai abandonar o cargo, é forçoso reconhecer que os", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Estamos convictos de que desta vez o Ministro da Educação será obrigado a cumprir a sua palavra e que em breve chegará ao fim o longo período de 12 anos que o PSD já leva à frente desse Ministério.\nHá quatro anos, o Ministro Roberto Carneiro reconheceu, publicamente, as enormes carências e desequilíbrios do sistema educativo português.\nPorém, no momento em que vai abandonar o cargo, é forçoso reconhecer que os", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "5 DE SETEMBRO DE 1991 3419", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "desequilíbrios essenciais do sistema persistem, que o investimento anunciado nunca se realizou e que a falhada reforma do sistema educativo que o Governo PSD ensaiou contra a lei de bases que esta Assembleia aprovou veio criar novos e muito graves problemas.\nO PSD vai abandonar o Ministério da Educação, deixando as escolas a braços com uma reforma curricular mal pensada e a funcionar nas mais insólitas condições, com um modelo de gestão autoritário e recusado pelas escolas e com um sistema de avaliação que ninguém quer ver aplicado e que ninguém sabe como nem quando seta de aplicar.\nÉ bem possível que neste ano de eleições o número de conferências de imprensa do Governo a anunciar a abertura do ano escolar ultrapasse a dúzia. É bem provável que se repila, pela milionésima primeira vez, a mentira, já mil vezes repetida, de que o Governo PSD criou mais vagas no ensino superior, quando nas universidades públicas entrarão no próximo ano menos estudantes do que os que entraram em 1976 e quando o Governo PSD só promoveu a criação, a torto e a direito, de \nuniversidades privadas, sem cuidar de saber da sua qualidade, que, em alguns casos, é reconhecidamente má.\nA abertura do próximo ano lectivo não pode passar ao lado da Assembleia da República. Temos de saber se está ou não criado um mínimo de condições para o funcionamento da rede escolar ou se persistem as situações inadmissíveis que detectámos no ano transacto a nível de orçamentos, de instalações, de equipamentos e de pessoal docente e auxiliar.\nTemos de saber em que condições vai ser prosseguida a reforma curricular e que sistemas de avaliação serão aplicados.\nQueremos saber que medidas foram tomadas - se é que o foram! - para assegurar o cumprimento da escolaridade obrigatória pela generalidade dos jovens em idade escolar.\nNeste sentido, enviamos hoje mesmo ao Sr. Presidente da Comissão Parlamentar de Educação, Ciência e Cultura uma carta propondo a convocação dessa Comissão, com vista ao acompanhamento das condições de abertura do próximo ano escolar. Esperamos que esta proposta possa contar com o apoio de iodos os grupos parlamentares.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Jerónimo de Sousa* (PCP): Muito bem!", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Alberto Martins.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Alberto Martins.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Alberto Martins* (PS): Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do Partido Socialista quer manifestar a esta Comissão Permanente a sua indignação, protesto e denúncia pública pelos actos de recusa antidemocrática do Governo na aceitação das audiências, em tempo solicitadas por nós, quer ao Sr. Ministro da Administração Interna, a respeito dos fogos florestais, que o Governo fez tudo para esconder ao País, quer ao Sr. Ministro das Finanças, a respeito do conhecido e público escândalo das privatizações.\nPensamos que esta recusa é anticonstitucional e ilegal, pois as audiências foram solicitadas ao abrigo do Estatuto da Oposição. E, neste domínio, a Constituição é precisa e absolutamente clara, quando diz que os partidos da oposição que não estejam representados no Governo têm o direito de ser informados regular e directamente - e repilo «directamente» - pelo Governo sobre o andamento dos principais assuntos de interesse público e, por outro lado - diz ainda a lei -, de informar o Governo sobre as suas opiniões e críticas.\nOs Srs. Ministros das Finanças e da Administração Interna, \nprovavelmente por ausência de cultura democrática e legal, entenderam este pedido de audiência como um mero pedido de tutela hierárquico que qualquer cidadão lhes solicita. Ora, este pedido de audiência é o exercício de um direito e comina um direito constitucional de resposta.\nEssa resposta não foi dada, não obstante, no caso do Ministério das Finanças, o pedido ler sido feito a 17 de Julho, ter sido reiterado em 25 de Julho e nele termos insistido, posteriormente, através de vários telefonemas para o Ministério das Finanças e. no caso do Ministério da Administração Interna, o pedido ter sido feito em 25 de Julho, sem qualquer resposta.\nEsta acção dos Srs. Ministros da Administração Interna e das Finanças comina, em termos legais, a possibilidade da acusação de crime contra a democracia, pelo facto de incorrerem na omissão do dever de \ncooperação...", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Alberto Martins", 
+   "text": "Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do Partido Socialista quer manifestar a esta Comissão Permanente a sua indignação, protesto e denúncia pública pelos actos de recusa antidemocrática do Governo na aceitação das audiências, em tempo solicitadas por nós, quer ao Sr. Ministro da Administração Interna, a respeito dos fogos florestais, que o Governo fez tudo para esconder ao País, quer ao Sr. Ministro das Finanças, a respeito do conhecido e público escândalo das privatizações.\nPensamos que esta recusa é anticonstitucional e ilegal, pois as audiências foram solicitadas ao abrigo do Estatuto da Oposição. E, neste domínio, a Constituição é precisa e absolutamente clara, quando diz que os partidos da oposição que não estejam representados no Governo têm o direito de ser informados regular e directamente - e repilo «directamente» - pelo Governo sobre o andamento dos principais assuntos de interesse público e, por outro lado - diz ainda a lei -, de informar o Governo sobre as suas opiniões e críticas.\nOs Srs. Ministros das Finanças e da Administração Interna, \nprovavelmente por ausência de cultura democrática e legal, entenderam este pedido de audiência como um mero pedido de tutela hierárquico que qualquer cidadão lhes solicita. Ora, este pedido de audiência é o exercício de um direito e comina um direito constitucional de resposta.\nEssa resposta não foi dada, não obstante, no caso do Ministério das Finanças, o pedido ler sido feito a 17 de Julho, ter sido reiterado em 25 de Julho e nele termos insistido, posteriormente, através de vários telefonemas para o Ministério das Finanças e. no caso do Ministério da Administração Interna, o pedido ter sido feito em 25 de Julho, sem qualquer resposta.\nEsta acção dos Srs. Ministros da Administração Interna e das Finanças comina, em termos legais, a possibilidade da acusação de crime contra a democracia, pelo facto de incorrerem na omissão do dever de \ncooperação...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Silva Marques* (PSD): Ena!...", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Ena!...", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Digo bem, Sr. Deputado, na omissão do dever de cooperação que implica os crimes de responsabilidade dos titulares de cargos públicos.\nÉ bom que a Assembleia da República lembre aos Srs. Ministros que eles são dependentes da Assembleia da República, que o regular funcionamento das instituições democráticas implica o dever de ouvir a opinião política da oposição, de sujeitar-se à fiscalização política da oposição e de prestar os esclarecimentos que a oposição lhes exige.\nEsta é uma exigência da Constituição, da lei ordinária e do \nfuncionamento regular do regime democrático.\nO facto de o Governo estar prestes a terminar as suas funções não implica, seguramente, que esteja desobrigado do cumprimento da lei.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Digo bem, Sr. Deputado, na omissão do dever de cooperação que implica os crimes de responsabilidade dos titulares de cargos públicos.\nÉ bom que a Assembleia da República lembre aos Srs. Ministros que eles são dependentes da Assembleia da República, que o regular funcionamento das instituições democráticas implica o dever de ouvir a opinião política da oposição, de sujeitar-se à fiscalização política da oposição e de prestar os esclarecimentos que a oposição lhes exige.\nEsta é uma exigência da Constituição, da lei ordinária e do \nfuncionamento regular do regime democrático.\nO facto de o Governo estar prestes a terminar as suas funções não implica, seguramente, que esteja desobrigado do cumprimento da lei.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Inscreveu-se, para pedir esclarecimentos, o Sr.Deputado José Silva Marques.\nSrs. Deputados, a Mesa agradece que lhe façam chegar inscrições para o período de antes da ordem do dia.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado José Silva Marques.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Inscreveu-se, para pedir esclarecimentos, o Sr.Deputado José Silva Marques.\nSrs. Deputados, a Mesa agradece que lhe façam chegar inscrições para o período de antes da ordem do dia.\nPara pedir esclarecimentos, tem a palavra o Sr. Deputado José Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Silva Marques* (PSD): Sr. Presidente, dada a gravidade da situação descrita pelo Sr. Deputado Alberto Martins, surpreende-me que os Srs. Deputados socialistas não tenham feito, como aconteceu com o Centro Cultural de Belém, a tentativa de entrarem à força naqueles Ministérios, exibindo os seus cartões de deputados e, dessa forma, impondo aos Srs. Ministros o respeito pelos valores e pelos princípios democráticos.\nO Sr. Deputado António Guterres surpreende-me. Saiu-se tão bem da outra vez que me admira não ter repetido a operação! Com televisão e tudo!...", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Sr. Presidente, dada a gravidade da situação descrita pelo Sr. Deputado Alberto Martins, surpreende-me que os Srs. Deputados socialistas não tenham feito, como aconteceu com o Centro Cultural de Belém, a tentativa de entrarem à força naqueles Ministérios, exibindo os seus cartões de deputados e, dessa forma, impondo aos Srs. Ministros o respeito pelos valores e pelos princípios democráticos.\nO Sr. Deputado António Guterres surpreende-me. Saiu-se tão bem da outra vez que me admira não ter repetido a operação! Com televisão e tudo!...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o entender, tem a palavra o Sr. Deputado Alberto Martins.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o entender, tem a palavra o Sr. Deputado Alberto Martins.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Alberto Martins* (PS): Sr. Deputado José Silva Marques, como certamente se lembrará, estes pedidos de solicitação de audiência foram feitos na sequência de", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Alberto Martins", 
+   "text": "Sr. Deputado José Silva Marques, como certamente se lembrará, estes pedidos de solicitação de audiência foram feitos na sequência de 3420 I SÉRIE - NÚMERO 100", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "3420 I SÉRIE - NÚMERO 100", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Alberto Martins", 
    "text": "projectos de deliberação aqui apresentados pelo Partido Socialista, que foram recusados, no sentido da vinda desses Ministros às respectivas comissões.\nDe qualquer modo, isto comina um direito legal intangível que as medidas e atitudes atrabiliárias de alguns ministros - que muitas vezes se comportam mais como directores-gerais - não podem, de nenhuma forma, isentar.\nA pura tentativa de, por razões eleitorais, quererem furtar-se ao debate público é antidemocrática, é anticonstitucional, é ilegal e não é séria, como V. Ex.ª sabe.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Silva Marques* (PSD): Posso interpelar a Mesa, Sr.Presidente?", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Posso interpelar a Mesa, Sr.Presidente?", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Silva Marques* (PSD): Sr. Presidente, pretendo fazer uma intervenção. Penso, no entanto, que é também essa a intenção do Sr.Deputado Narana Coissoró. Como não lenho ainda o meu texto, solicitava ao Sr. Deputado Narana Coissoró que fizesse já a sua intervenção.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Sr. Presidente, pretendo fazer uma intervenção. Penso, no entanto, que é também essa a intenção do Sr.Deputado Narana Coissoró. Como não lenho ainda o meu texto, solicitava ao Sr. Deputado Narana Coissoró que fizesse já a sua intervenção.\nRisos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Risos.", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Narana Coissoró", 
+   "text": "As vozes não chegaram ao céu!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS): As vozes não chegaram ao céu!", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a Mesa depara-se com a seguinte situação: o Sr. Deputado José Silva Marques manifestou a intenção de fazer uma intervenção e a Mesa não dispõe de outras inscrições neste momento.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, a Mesa depara-se com a seguinte situação: o Sr. Deputado José Silva Marques manifestou a intenção de fazer uma intervenção e a Mesa não dispõe de outras inscrições neste momento.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Posso interpelar a Mesa, Sr.Presidente?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Silva Marques* (PSD): Posso interpelar a Mesa, Sr.Presidente?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Sr. Presidente, solicito uma pequena interrupção da sessão, para poder ir buscar a minha intervenção.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Silva Marques* (PSD): Sr. Presidente, solicito uma pequena interrupção da sessão, para poder ir buscar a minha intervenção.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, embora esta situação não seja totalmente regimental, julgo que ninguém objectará a que se leia um relatório e parecer da Comissão de Regimentos e Mandatos, enquanto o Sr. Deputado José Silva Marques vai buscar a sua intervenção.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, embora esta situação não seja totalmente regimental, julgo que ninguém objectará a que se leia um relatório e parecer da Comissão de Regimentos e Mandatos, enquanto o Sr. Deputado José Silva Marques vai buscar a sua intervenção.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Posso interpelar a Mesa, Sr. Presidente?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Posso interpelar a Mesa, Sr. Presidente?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr. Presidente, sendo manifestamente as intervenções do Sr. Deputado José Silva Marques sempre em benefício da oposição, pensamos que lhe devem ser dadas todas as facilidades para que possa falar quando e como entender.\nRisos do PS.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Sr. Presidente, sendo manifestamente as intervenções do Sr. Deputado José Silva Marques sempre em benefício da oposição, pensamos que lhe devem ser dadas todas as facilidades para que possa falar quando e como entender.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Risos do PS.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vai ser lido o relatório e parecer da Comissão de Regimentos e Mandatos.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vai ser lido o relatório e parecer da Comissão de Regimentos e Mandatos.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -304,205 +344,230 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em discussão. Não havendo inscrições, vamos votar o relatório e parecer.\n_Submetido à votação, foi aprovado por unanimidade_.\nPara uma intervenção, tem a palavra o Sr. Deputado José Silva Marques.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em discussão. Não havendo inscrições, vamos votar o relatório e parecer.\n_Submetido à votação, foi aprovado por unanimidade_.\nPara uma intervenção, tem a palavra o Sr. Deputado José Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
-   "text": "O Sr. *José Silva Marques* (PSD): Sr. Presidente, Srs. Deputados: \nDesejamos dar o assinalável relevo que merece a viagem que o Sr.Primeiro-Ministro de Portugal, Prof. Cavaco Silva, está a realizar a Angola.\nPelas mais diversas razões, do presente e do passado, que dispensam referi-las, tão vivas elas são para todos nós, Portugueses, trata-se de um acontecimento de tal significado histórico para a Nação que somos, que seria impensável que no Parlamento, a Assembleia da República, não chegasse o eco da sua transcendência, para a nossa história, para o nosso futuro, e ao mesmo tempo o eco dos sentimentos de satisfação e de saudável orgulho que neste momento enche a alma de todos os \nportugueses.\nTodos os partidos comungam, seguramente, destes sentimentos e não será, estou certo, a legítima luta partidária, que a proximidade de uma campanha eleitoral acende e agudiza, que irá ofuscar ou macular um dos momentos mais altos da nossa vivência como nação.\nAo longo da nossa história, paralelamente aos nossos erros e dificuldades, ressaltam os grandes exemplos que temos dado ao mundo.\nOra, estamos hoje, felizmente, a dá-los de novo e, graças às nossas virtualidades como povo, a contribuir activamente para novas descobertas, que são, no actual quadro de desmoronamento de um mundo velho, a construção de uma nova relação entre os povos, baseada na liberdade, no respeito mútuo e na cooperação. Somos novamente os descobridores, colocando os padrões das novas rotas - a convivência entre as nações livres e os direitos do homem, enterrando hegemonias e domínios ilegítimos, sustentadas na proibição do pensamento, na ditadura das ideias e dos partidos e na força das armas.\nEstamos a ajudar activamente, como protagonistas, a construir um futuro de liberdade e de pão, donde seja erradicado o sofrimento da repressão, da violência, da miséria e da fome.\nDecerto que não estaríamos hoje a desempenhar esse papel de \nprotagonistas na construção de um futuro melhor nas relações entre os Estados e os povos, se nós mesmos, entretanto, não tivéssemos tido a capacidade de iniciarmos a construção do nosso próprio futuro de progresso e de solidariedade social. A nossa palavra não seria credível. As nossas acções não serviriam de exemplo. Ninguém nos teria como conselheiro sensato e parceiro seguro.\nNesta hora de legítimo regozijo de todos nós. Portugueses, queremos dirigir aos povos de todas as ex-colónias os nossos sentimentos de elevado respeito e de solidariedade e, ao mesmo tempo, exprimir a nossa mais determinada vontade de com eles, num mundo perturbado, pela incerteza e pelas dificuldades, construir solidamente um futuro melhor de cooperação e de paz, de desenvolvimento, para bem dos nossos povos e para exemplo do mundo.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Sr. Presidente, Srs. Deputados: \nDesejamos dar o assinalável relevo que merece a viagem que o Sr.Primeiro-Ministro de Portugal, Prof. Cavaco Silva, está a realizar a Angola.\nPelas mais diversas razões, do presente e do passado, que dispensam referi-las, tão vivas elas são para todos nós, Portugueses, trata-se de um acontecimento de tal significado histórico para a Nação que somos, que seria impensável que no Parlamento, a Assembleia da República, não chegasse o eco da sua transcendência, para a nossa história, para o nosso futuro, e ao mesmo tempo o eco dos sentimentos de satisfação e de saudável orgulho que neste momento enche a alma de todos os \nportugueses.\nTodos os partidos comungam, seguramente, destes sentimentos e não será, estou certo, a legítima luta partidária, que a proximidade de uma campanha eleitoral acende e agudiza, que irá ofuscar ou macular um dos momentos mais altos da nossa vivência como nação.\nAo longo da nossa história, paralelamente aos nossos erros e dificuldades, ressaltam os grandes exemplos que temos dado ao mundo.\nOra, estamos hoje, felizmente, a dá-los de novo e, graças às nossas virtualidades como povo, a contribuir activamente para novas descobertas, que são, no actual quadro de desmoronamento de um mundo velho, a construção de uma nova relação entre os povos, baseada na liberdade, no respeito mútuo e na cooperação. Somos novamente os descobridores, colocando os padrões das novas rotas - a convivência entre as nações livres e os direitos do homem, enterrando hegemonias e domínios ilegítimos, sustentadas na proibição do pensamento, na ditadura das ideias e dos partidos e na força das armas.\nEstamos a ajudar activamente, como protagonistas, a construir um futuro de liberdade e de pão, donde seja erradicado o sofrimento da repressão, da violência, da miséria e da fome.\nDecerto que não estaríamos hoje a desempenhar esse papel de \nprotagonistas na construção de um futuro melhor nas relações entre os Estados e os povos, se nós mesmos, entretanto, não tivéssemos tido a capacidade de iniciarmos a construção do nosso próprio futuro de progresso e de solidariedade social. A nossa palavra não seria credível. As nossas acções não serviriam de exemplo. Ninguém nos teria como conselheiro sensato e parceiro seguro.\nNesta hora de legítimo regozijo de todos nós. Portugueses, queremos dirigir aos povos de todas as ex-colónias os nossos sentimentos de elevado respeito e de solidariedade e, ao mesmo tempo, exprimir a nossa mais determinada vontade de com eles, num mundo perturbado, pela incerteza e pelas dificuldades, construir solidamente um futuro melhor de cooperação e de paz, de desenvolvimento, para bem dos nossos povos e para exemplo do mundo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, a Mesa não dispõe de outras inscrições para o período de antes da ordem do dia...", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, a Mesa não dispõe de outras inscrições para o período de antes da ordem do dia...", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
-   "text": "O Sr. *António Guterres* (PS): Sr. Presidente, peço a palavra não para me inscrever mas para dizer que o Grupo Parlamentar do PS entregou na Mesa um voto sobre os acontecimentos na URSS. Se houver consenso para que ele seja votado ainda hoje, abdicaremos inclusive da sua discussão; não havendo consenso, naturalmente solicitaremos que ele passe para a próxima reunião.\nGostaríamos, pois, de saber se há ou não consenso.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr. Presidente, peço a palavra não para me inscrever mas para dizer que o Grupo Parlamentar do PS entregou na Mesa um voto sobre os acontecimentos na URSS. Se houver consenso para que ele seja votado ainda hoje, abdicaremos inclusive da sua discussão; não havendo consenso, naturalmente solicitaremos que ele passe para a próxima reunião.\nGostaríamos, pois, de saber se há ou não consenso.\n3422 I SÉRIE - NÚMERO 100", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
-   "text": "3422 I SÉRIE - NÚMERO 100", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
-   "text": "O Sr. *Presidente*: Sr. Deputado, tomámos as iniciativas próprias, mas ainda não temos todas as respostas.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, tomámos as iniciativas próprias, mas ainda não temos todas as respostas.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
+   "speaker": "Presidente", 
    "text": "Posso afirmar que neste momento se regista consenso, pelo que vamos dar início ao período da ordem do dia com a votação do voto n.º 224/V (PS), sobre os acontecimentos na URSS.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
+   "speaker": "Presidente", 
    "text": "ORDEM DO DIA", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
-   "text": "O Sr. *António Guterres* (PS): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Finalmente, a Comissão entende proferir o seguinte parecer", 
-   "text": "O Sr. *António Guterres* (PS): Sr. Presidente, é para sugerir que se proceda à leitura do voto.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr. Presidente, é para sugerir que se proceda à leitura do voto.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "O Sr. *Presidente*: Com certeza, Sr. Deputado. Foi lido. É o seguinte", 
-   "text": "", 
-   "type": "inicio_documento"
+   "speaker": "Presidente", 
+   "text": "Com certeza, Sr. Deputado. Foi lido. É o seguinte:\nVoto n.º 224/V", 
+   "type": "presidente"
   }, 
   {
-   "text": "Voto n.º 224/V", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "A Comissão Permanente da Assembleia da República, tendo vindo a acompanhar, com a maior preocupação, mas igualmente com o mais vivo interesse, os dramáticos acontecimentos ocorridos na URSS:", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "1) Reitera a condenação do golpe de Estado inconstitucional levado a efeito pelos sectores mais retrógrados do regime soviético; \n2) Congratula-se com a vitória do campo democrático naquele país e com a forma como os povos das Repúblicas agiram em defesa das liberdades públicas gravemente ameaçadas; \n3) Saúda a independência dos Estados bálticos e o seu regresso à comunidade internacional; \n4) Faz votos pelo pleno êxito da transição em curso na URSS, no sentido de uma reforma democrática do sistema político, de um novo modelo de confederação, da modernização económica e de uma política de relações externas norteada pelos valores da segurança europeia, da cooperação internacional e da paz.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos proceder à votação.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado, com votos a favor do PSD, do PS, do PRD e do CDS e votos contra do PCP.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Mário Montalvão Machado* (PSD): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Mário Montalvão Machado", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Mário Montalvão Machado* (PSD): Sr. Presidente, há pouco quando demos o nosso acordo ao agendamento e à votação deste voto, partimos do princípio, que me parece absolutamente legítimo, de que pudéssemos fazer uma pequena declaração de voto. Era isso que queria sugerir a V.\nEx.ª.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Mário Montalvão Machado", 
+   "text": "Sr. Presidente, há pouco quando demos o nosso acordo ao agendamento e à votação deste voto, partimos do princípio, que me parece absolutamente legítimo, de que pudéssemos fazer uma pequena declaração de voto. Era isso que queria sugerir a V.\nEx.ª.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Se houver acordo de todas as bancadas, assim se fará.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Se houver acordo de todas as bancadas, assim se fará.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Para uma declaração de voto, tem a palavra o Sr. Deputado José Pacheco Pereira.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *José Pacheco Pereira* (PSD): Sr. Presidente, Srs. Deputados: \nVotámos a favor deste voto em função da intenção e do sentido geral do voto; contudo não queremos deixar de anotar as nossas divergências em relação ao seu texto concreto.\nNa verdade, este texto não refere uma única vez o carácter qualitativo das mudanças na União Soviética. A sua terminologia e a descrição dos acontecimentos evitam, deliberadamente, referir o carácter qualitativo dessas alterações. Por exemplo, no ponto 1 refere-se um «golpe de Estado inconstitucional levado a efeito pelos sectores mais retrógrados do regime soviético», como se no interior desse regime houvesse hoje sentido em fazer distinção entre sectores mais retrógrados e menos retrógrados.\nEm segundo lugar, no ponto 4, quando «faz votos pelo pleno êxito da transição em curso na URSS...», a descrição dessa transição, de novo, ilude o carácter qualitativo da transformação do regime que está em curso na União Soviética a favor de uma descrição extremamente sanitária dos acontecimentos soviéticos.\nPor último, embora votando a favor e saudando a independência dos Estados bálticos, não queremos deixar de reconhecer, como memória das posições assumidas nesta Casa quanto a essa independência, a incongruência das posições do Partido Socialista nesta matéria. Para isso, basta recordar o debate aqui realizado a pretexto da Estónia e a visita parlamentar realizada à União Soviética, em que o Governo Português tomou uma atitude muito antes de a questão da independência dos países bálticos estar na agenda política, atitude essa que convém relembrar pela sua correcção e justeza.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "José Pacheco Pereira", 
+   "text": "Sr. Presidente, Srs. Deputados: \nVotámos a favor deste voto em função da intenção e do sentido geral do voto; contudo não queremos deixar de anotar as nossas divergências em relação ao seu texto concreto.\nNa verdade, este texto não refere uma única vez o carácter qualitativo das mudanças na União Soviética. A sua terminologia e a descrição dos acontecimentos evitam, deliberadamente, referir o carácter qualitativo dessas alterações. Por exemplo, no ponto 1 refere-se um «golpe de Estado inconstitucional levado a efeito pelos sectores mais retrógrados do regime soviético», como se no interior desse regime houvesse hoje sentido em fazer distinção entre sectores mais retrógrados e menos retrógrados.\nEm segundo lugar, no ponto 4, quando «faz votos pelo pleno êxito da transição em curso na URSS...», a descrição dessa transição, de novo, ilude o carácter qualitativo da transformação do regime que está em curso na União Soviética a favor de uma descrição extremamente sanitária dos acontecimentos soviéticos.\nPor último, embora votando a favor e saudando a independência dos Estados bálticos, não queremos deixar de reconhecer, como memória das posições assumidas nesta Casa quanto a essa independência, a incongruência das posições do Partido Socialista nesta matéria. Para isso, basta recordar o debate aqui realizado a pretexto da Estónia e a visita parlamentar realizada à União Soviética, em que o Governo Português tomou uma atitude muito antes de a questão da independência dos países bálticos estar na agenda política, atitude essa que convém relembrar pela sua correcção e justeza.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o Sr.Deputado Jaime Gama.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o Sr.Deputado Jaime Gama.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jaime Gama* (PS): Sr. Presidente, Srs. Deputados: O Partido Socialista congratula-se com a aprovação deste voto na Comissão Permanente da Assembleia da República.\nA circunstância de o PS ter sido a única força política que submeteu a esta reunião do Parlamento um voto sobre esta matéria não retira em nada o mérito do mesmo, visto que por larga maioria a Assembleia da República votou o seu conteúdo. Era esse o nosso objectivo na anterior reunião da Comissão Permanente, quando há 15 dias os acontecimentos nesse país eram obviamente mais quentes. E se nessa altura o Partido Socialista apenas se pôde limitar a uma intervenção sobre o problema e não à apresentação ou à votação de qualquer declaração, isso deveu-se exclusivamente a uma deliberação tomada pela Assembleia, mas não proposta pelo Partido Socialista.\nGostava de me congratular com a circunstância de outros partidos terem apoiado o voto proposto pelo PS e de sublinhar, relativamente às declarações do Sr. Deputado José Pacheco Pereira, em nome do PSD, o nosso entristecimento.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Jaime Gama", 
+   "text": "Sr. Presidente, Srs. Deputados: O Partido Socialista congratula-se com a aprovação deste voto na Comissão Permanente da Assembleia da República.\nA circunstância de o PS ter sido a única força política que submeteu a esta reunião do Parlamento um voto sobre esta matéria não retira em nada o mérito do mesmo, visto que por larga maioria a Assembleia da República votou o seu conteúdo. Era esse o nosso objectivo na anterior reunião da Comissão Permanente, quando há 15 dias os acontecimentos nesse país eram obviamente mais quentes. E se nessa altura o Partido Socialista apenas se pôde limitar a uma intervenção sobre o problema e não à apresentação ou à votação de qualquer declaração, isso deveu-se exclusivamente a uma deliberação tomada pela Assembleia, mas não proposta pelo Partido Socialista.\nGostava de me congratular com a circunstância de outros partidos terem apoiado o voto proposto pelo PS e de sublinhar, relativamente às declarações do Sr. Deputado José Pacheco Pereira, em nome do PSD, o nosso entristecimento.\n5 DE SETEMBRO DE 1991 3423", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "5 DE SETEMBRO DE 1991 3423", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Jaime Gama", 
    "text": "Em primeiro lugar, porque o PSD sobre esta matéria não tem uma posição de grande conforto na medida em que não foi favorável a que, em reunião anterior da Comissão Permanente, houvesse uma tomada de posição sob a forma de voto por parte da Assembleia da República em relação aos acontecimentos na União Soviética.\nEm segundo lugar, porque não produziu nem apresentou nenhum voto sobre esta matéria. Não é de admirar que o Sr. Deputado José Pacheco Pereira o não tivesse feito, porque o Sr. Deputado sobre esta matéria se tem caracterizado pelo mais discreto dos silêncios técnicos e pela extracção de conclusões perfeitamente contraditórias entre o que se passa na União Soviética e o que se passa em Portugal a este mesmo propósito. Mas a circunstância de o PSD, partido majoritário na Câmara, não ter apresentado qualquer proposta sobre este ponto já em si mesma faz pensar. Ainda mais fazem pensar os seus argumentos falsos, visto que esta moção é absolutamente clara na valorização negativa do golpe de Estado e na valorização positiva das actuais transformações de objectivo democrático na União Soviética. É uma matéria sobre a qual não pode haver qualquer espécie de dúvida quanto à posição do Partido Socialista, o mesmo já não se podendo dizer quanto à posição do PSD.\nAliás, este também tomou uma posição igualmente ambígua em matéria precedente sobre os Estados bálticos. Mas não é matéria para nos debruçarmos...", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Queira terminar, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Deputado.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "text": "O Orador: Termino já, Sr. Presidente.\nO Partido Socialista congratula-se com a circunstância de, apesar de tanta objecção artificialmente construída por parte do Sr. Deputado José Pacheco Pereira, ele e o seu partido terem votado uma resolução sobre este ponto, que não propuseram mas com a qual concordaram.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Termino já, Sr. Presidente.\nO Partido Socialista congratula-se com a circunstância de, apesar de tanta objecção artificialmente construída por parte do Sr. Deputado José Pacheco Pereira, ele e o seu partido terem votado uma resolução sobre este ponto, que não propuseram mas com a qual concordaram.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o Sr.Deputado Jerónimo de Sousa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o Sr.Deputado Jerónimo de Sousa.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jerónimo de Sousa* (PCP): Sr. Presidente, Srs. Deputados: \nAproveitando um pouco a ideia de o Sr. Deputado Silva Marques há pouco estar mal preparado tecnicamente para fazer uma intervenção no período de antes da ordem do dia, pode dizer-se que o PS também estava mal preparado técnica e politicamente para apresentar este voto na Comissão Permanente da Assembleia da República", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Sr. Presidente, Srs. Deputados: \nAproveitando um pouco a ideia de o Sr. Deputado Silva Marques há pouco estar mal preparado tecnicamente para fazer uma intervenção no período de antes da ordem do dia, pode dizer-se que o PS também estava mal preparado técnica e politicamente para apresentar este voto na Comissão Permanente da Assembleia da República", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: O voto do Partido Socialista é mais uma peça da sua campanha eleitoral do que propriamente para tratar com profundidade uma questão séria que tem a ver com questões que envolvem a paz, a segurança e o próprio desenvolvimento da humanidade. Pensamos que o voto do Partido Socialista era fundamentalmente para que votássemos contra o seu voto.\nQuero aqui reafirmar a nota da direcção do meu partido, em reunião do Comité Central, onde estão expressas as opiniões do Partido Comunista Português em relação ao golpe de Estado, aos seus antecedentes e às suas eventuais consequências, incluindo os graves atentados às liberdades, que compreendem perseguições políticas e «caça às bruxas» e que estão claramente omitidas no voto apresentado pelo PS, partido que está constantemente a levantar a bandeira das liberdades.\nReiterando as posições assumidas pelo Comité Central do PCP, fazemos votos para que os povos da União Soviética superem a presente crise e preservem o papel do país na defesa da paz, na Europa e no mundo.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "O voto do Partido Socialista é mais uma peça da sua campanha eleitoral do que propriamente para tratar com profundidade uma questão séria que tem a ver com questões que envolvem a paz, a segurança e o próprio desenvolvimento da humanidade. Pensamos que o voto do Partido Socialista era fundamentalmente para que votássemos contra o seu voto.\nQuero aqui reafirmar a nota da direcção do meu partido, em reunião do Comité Central, onde estão expressas as opiniões do Partido Comunista Português em relação ao golpe de Estado, aos seus antecedentes e às suas eventuais consequências, incluindo os graves atentados às liberdades, que compreendem perseguições políticas e «caça às bruxas» e que estão claramente omitidas no voto apresentado pelo PS, partido que está constantemente a levantar a bandeira das liberdades.\nReiterando as posições assumidas pelo Comité Central do PCP, fazemos votos para que os povos da União Soviética superem a presente crise e preservem o papel do país na defesa da paz, na Europa e no mundo.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o Sr.Deputado Nogueira de Brito.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o Sr.Deputado Nogueira de Brito.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Nogueira de Brito* (CDS): Sr. Presidente, Srs. Deputados: O CDS congratula-se, evidentemente, com a votação que acaba de ser feita na Assembleia da República. E congratulamo-nos com essa votação porque nos congratulamos, pura e simplesmente, com o que se passou e se está a passar na União Soviética, que. para nós, significa não apenas uma vitória da democracia mas também o fim do comunismo e o começo do fim do socialismo no mundo.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Nogueira de Brito", 
+   "text": "Sr. Presidente, Srs. Deputados: O CDS congratula-se, evidentemente, com a votação que acaba de ser feita na Assembleia da República. E congratulamo-nos com essa votação porque nos congratulamos, pura e simplesmente, com o que se passou e se está a passar na União Soviética, que. para nós, significa não apenas uma vitória da democracia mas também o fim do comunismo e o começo do fim do socialismo no mundo.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Nogueira de Brito", 
    "text": "Risos do PS.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Nogueira de Brito", 
    "text": "É verdade, Srs. Deputados! É verdade!...\nE, felizmente, diria que, graças a Deus, a história não vai reter as tentativas de aprisionamento partidário que foram feitas dos acontecimentos na União Soviética e do seu significado, designadamente nesta reunião da Comissão Permanente da Assembleia da República.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: A história vai esquecer este episódio um pouco lamentável! \nQueremos recordar a todos o que se passou efectivamente, não porque queiramos fazer esse aprisionamento ou aproveitá-lo apenas em nosso favor, pois o que se está a passar transcende-nos completamente é um facto histórico da maior repercussão e da maior importância.\nDevo dizer-lhes que não tratámos esta matéria, a não ser com declarações não discutidas, na última reunião da Comissão Permanente, porque nem o PSD nem o PS não quiseram propor a discussão dessa matéria. Só o CDS quis propor essa discussão e a avançou...\nSr. Deputado António Guterres não acene com a cabeça! Sabe que isto é verdade!...\nSó o CDS avançou a hipótese de discutirmos aqui uma resolução nesse sentido, mas ninguém o acompanhou. Mas isso não interessa! \nTambém ficámos espantados com a evocação que o Sr. Deputado José Pacheco Pereira fez sobre a Estónia, porque, realmente, a Assembleia da República, pela voz do seu Presidente de então, Sr. Deputado Fernando Amaral, quis visitar a Estónia, antevendo nela o Estado independente que tinha direito de ser, já nessa altura, mas o Governo não quis.\nPortanto, fico espantado com as tentativas de aprisionamento e com o modo como elas são feitas.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "A história vai esquecer este episódio um pouco lamentável! \nQueremos recordar a todos o que se passou efectivamente, não porque queiramos fazer esse aprisionamento ou aproveitá-lo apenas em nosso favor, pois o que se está a passar transcende-nos completamente é um facto histórico da maior repercussão e da maior importância.\nDevo dizer-lhes que não tratámos esta matéria, a não ser com declarações não discutidas, na última reunião da Comissão Permanente, porque nem o PSD nem o PS não quiseram propor a discussão dessa matéria. Só o CDS quis propor essa discussão e a avançou...\nSr. Deputado António Guterres não acene com a cabeça! Sabe que isto é verdade!...\nSó o CDS avançou a hipótese de discutirmos aqui uma resolução nesse sentido, mas ninguém o acompanhou. Mas isso não interessa! \nTambém ficámos espantados com a evocação que o Sr. Deputado José Pacheco Pereira fez sobre a Estónia, porque, realmente, a Assembleia da República, pela voz do seu Presidente de então, Sr. Deputado Fernando Amaral, quis visitar a Estónia, antevendo nela o Estado independente que tinha direito de ser, já nessa altura, mas o Governo não quis.\nPortanto, fico espantado com as tentativas de aprisionamento e com o modo como elas são feitas.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos passar à apreciação de um parecer e proposta de resolução da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, que vão ser lidos.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "3424 I SÉRIE - NÚMERO 100", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos passar à apreciação de um parecer e proposta de resolução da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação, que vão ser lidos.\n3424 I SÉRIE - NÚMERO 100", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -543,476 +608,586 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Dá-me licença, Sr. Presidente?", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Dá-me licença, Sr. Presidente?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Sr. Presidente, 6 para, numa brevíssima interpelação à Mesa, anunciar que o sentido do voto que o Partido Socialista vai exprimir nada tem a ver com as personalidades em causa mas apenas com as observações que fizemos na conferência dos representantes dos grupos parlamentares sobre o método, e que não vou repetir aqui, de acordo com o compromisso assumido.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr. Presidente, 6 para, numa brevíssima interpelação à Mesa, anunciar que o sentido do voto que o Partido Socialista vai exprimir nada tem a ver com as personalidades em causa mas apenas com as observações que fizemos na conferência dos representantes dos grupos parlamentares sobre o método, e que não vou repetir aqui, de acordo com o compromisso assumido.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos passar à sua votação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vamos passar à sua votação.\nSubmetido à votação, foi aprovado, com votos a favor do PSD, do PRD e do CDS e abstenções do PS, do PCP e de Os Verdes.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetido à votação, foi aprovado, com votos a favor do PSD, do PRD e do CDS e abstenções do PS, do PCP e de Os Verdes.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos passar à discussão do projecto de deliberação n.º 149/V (PS) - Acesso ao ensino superior.\nPara uma intervenção, tem a palavra o Sr. Deputado António Braga.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *António Braga* (PS): O acesso ao ensino superior foi sempre uma questão essencial da opção política de quem governa.\nNos governos PSD, a nota dominante tem sido a instabilidade, agravada decisivamente com a introdução da mais que polémica PGA, prova de acesso inicialmente superselectiva e desequilibrada, mas sucessivamente esvaziada, graças à forte contestação social e política.\nHoje, para além de inútil e desinteressante, está reduzida a mais um procedimento burocrático, como o comprova o próprio relatório da sua avaliação que, ao pretender demonstrar a sua bondade, lhe atribui uma relação comparativa de igualdade com as médias obtidas no secundário, confirmando, desse modo, a sua inutilidade.\nMas o Ministro Roberto Carneiro surpreendeu-nos agora ao divulgar que, este ano, todos os candidatos (ou quase) teriam lugar no ensino superior. Mais estranha ainda se torna essa afirmação porque o Sr.Ministro sempre defendeu a existência do numerus clausus como uma «fatal» necessidade, pelo menos, para os anos mais próximos.\nEsta afirmação pública do Governo obriga-nos a reflectir, minimamente, sobre as suas próprias motivações quando estabeleceu o novo regime de acesso. Ora, a primeiríssima crítica ao modelo anterior era que «um número muito significativo de candidatos era colocado em opções a que atribuía muito baixa prioridade», baseado no facto de esse regime se traduzir, praticamente, no «preenchimento das vagas pré-estabelecidas».\nPretendia-se, com o novo modelo, a valorização especial das primeiras opções de cada candidato.\nA PGA, por sua vez, devia permitir fazer a prova do desenvolvimento intelectual do candidato, do seu domínio da língua portuguesa e da expressão da sua maturidade cultural.\nSegundo os dados do Governo, a taxa de escolarização do ensino superior (público e privado) cresceu, de 1987 para 1991, de 14,3% para mais ou menos 20%, ou seja, cresceu mais ou menos 6% em quatro anos, o que, traduzido em número de alunos, significa um crescimento de mais ou menos 85 000, contribuindo o particular e cooperativo com cerca de 23 000.\nNão havendo um crescimento correspondente quer nas instalações quer na formação de pessoal docente qualificado e dizendo o Sr. Ministro que este ano entram praticamente todos os candidatos, é bem possível que a taxa de crescimento dispare para um número muito invulgar. Na nossa opinião, este crescimento não se sustenta em termos humanos nem materiais.\nSabemos que, por via da Lei de Autonomia Universitária, a fixação das vagas compete às próprias instituições universitárias, mas nem o Governo nem a Assembleia da República podem alhear-se da questão e devem também responder a esta interrogação.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "O acesso ao ensino superior foi sempre uma questão essencial da opção política de quem governa.\nNos governos PSD, a nota dominante tem sido a instabilidade, agravada decisivamente com a introdução da mais que polémica PGA, prova de acesso inicialmente superselectiva e desequilibrada, mas sucessivamente esvaziada, graças à forte contestação social e política.\nHoje, para além de inútil e desinteressante, está reduzida a mais um procedimento burocrático, como o comprova o próprio relatório da sua avaliação que, ao pretender demonstrar a sua bondade, lhe atribui uma relação comparativa de igualdade com as médias obtidas no secundário, confirmando, desse modo, a sua inutilidade.\nMas o Ministro Roberto Carneiro surpreendeu-nos agora ao divulgar que, este ano, todos os candidatos (ou quase) teriam lugar no ensino superior. Mais estranha ainda se torna essa afirmação porque o Sr.Ministro sempre defendeu a existência do numerus clausus como uma «fatal» necessidade, pelo menos, para os anos mais próximos.\nEsta afirmação pública do Governo obriga-nos a reflectir, minimamente, sobre as suas próprias motivações quando estabeleceu o novo regime de acesso. Ora, a primeiríssima crítica ao modelo anterior era que «um número muito significativo de candidatos era colocado em opções a que atribuía muito baixa prioridade», baseado no facto de esse regime se traduzir, praticamente, no «preenchimento das vagas pré-estabelecidas».\nPretendia-se, com o novo modelo, a valorização especial das primeiras opções de cada candidato.\nA PGA, por sua vez, devia permitir fazer a prova do desenvolvimento intelectual do candidato, do seu domínio da língua portuguesa e da expressão da sua maturidade cultural.\nSegundo os dados do Governo, a taxa de escolarização do ensino superior (público e privado) cresceu, de 1987 para 1991, de 14,3% para mais ou menos 20%, ou seja, cresceu mais ou menos 6% em quatro anos, o que, traduzido em número de alunos, significa um crescimento de mais ou menos 85 000, contribuindo o particular e cooperativo com cerca de 23 000.\nNão havendo um crescimento correspondente quer nas instalações quer na formação de pessoal docente qualificado e dizendo o Sr. Ministro que este ano entram praticamente todos os candidatos, é bem possível que a taxa de crescimento dispare para um número muito invulgar. Na nossa opinião, este crescimento não se sustenta em termos humanos nem materiais.\nSabemos que, por via da Lei de Autonomia Universitária, a fixação das vagas compete às próprias instituições universitárias, mas nem o Governo nem a Assembleia da República podem alhear-se da questão e devem também responder a esta interrogação.\n5 DE SETEMBRO DE 1991 3425", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "5 DE SETEMBRO DE 1991 3425", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "António Braga", 
    "text": "Este ritmo de crescimento deve ser pormenorizadamente explicado, tendo como referências a qualidade do ensino e o insucesso escolar.\nAfinal, sabendo nós que cerca de 40% dos alunos não são colocados nas suas principais opções e que a taxa de ingresso em 1990 foi de 86%, como é possível ao Governo cumprir os pressupostos do seu novo regime de acesso? \nNos dois primeiros anos da PGA, houve dezenas de milhar de recursos das classificações dadas e este ano praticamente não existiram.\nO que poderia ser um bom sinal tememos que o não seja, duplamente.\nPodíamos ou podemos ser levados a concluir da facilidade excessiva e premeditadamente preparada, em virtude de o Governo querer assegurar um resultado tranquilizador no acesso ao ensino superior, uma vez que este é um ano de eleições legislativas e que o ano lectivo abre em plena campanha eleitoral.\nMas o PS não quer incorrer em ligeireza de raciocínio, não queremos acusar o Governo infundadamente e por isso propomos que a Comissão de Educação, Ciência e Cultura acompanhe todo o processo nesta fase final e elabore um relatório detalhado até 15 de Outubro.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado Nogueira de Brito.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado Nogueira de Brito.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Nogueira de Brito* (CDS): Sr. Deputado António Braga, ouvi atentamente a sua intervenção no entanto subsistem algumas dúvidas no meu espírito.\nO que é que V. Ex.ª pretende pôr em causa? É o actual regime de acesso e os seus pressupostos ou é a facilidade que se pretende instaurar de fazer entrar iodos os candidatos no ensino superior? V. Ex.ª não queria, portanto, que todos os candidatos pudessem entrar no ensino superior, em nome da racionalidade, que V. Ex.ª entendia e defendia, do actual esquema de acesso. É isso? \nSc é isso, Sr. Deputado, não posso deixar de considerar que é terrível o objectivo da sua intervenção, hoje, nesta Assembleia!", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Nogueira de Brito", 
+   "text": "Sr. Deputado António Braga, ouvi atentamente a sua intervenção no entanto subsistem algumas dúvidas no meu espírito.\nO que é que V. Ex.ª pretende pôr em causa? É o actual regime de acesso e os seus pressupostos ou é a facilidade que se pretende instaurar de fazer entrar iodos os candidatos no ensino superior? V. Ex.ª não queria, portanto, que todos os candidatos pudessem entrar no ensino superior, em nome da racionalidade, que V. Ex.ª entendia e defendia, do actual esquema de acesso. É isso? \nSc é isso, Sr. Deputado, não posso deixar de considerar que é terrível o objectivo da sua intervenção, hoje, nesta Assembleia!", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o entender, tem a palavra o Sr. Deputado António Braga.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o entender, tem a palavra o Sr. Deputado António Braga.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *António Braga* (PS): Sr. Deputado Nogueira de Brito, \nagradeço-lhe a pergunta que me fez e, com o sentido de humor que sempre lhe reconheci, devolver-lhe-ia essa sua inquietação.\nEsteja descansado, pois o PS já anunciou, há muito tempo, duas coisas: \nem primeiro lugar, que é contra a PGA e que, logo que possível, terminará com o numerus clausus para que todos possam aceder à universidade.\nO que não aceitamos - e, neste momento em que somos oposição, temos o dever de fiscalizar o Governo - é que este nos engane e nos minta, que estabeleça os pressupostos no novo sistema de ingresso e que depois não os cumpra. Por um lado, queremos fiscalizar se o Governo cumpre os seus próprios pressupostos e, por outro, gostaríamos de poder demonstrar, e estou convencido de que seremos capazes, que este sistema de ingresso é perverso e desequilibrador do ponto de vista social.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "Sr. Deputado Nogueira de Brito, agradeço-lhe a pergunta que me fez e, com o sentido de humor que sempre lhe reconheci, devolver-lhe-ia essa sua inquietação.\nEsteja descansado, pois o PS já anunciou, há muito tempo, duas coisas: \nem primeiro lugar, que é contra a PGA e que, logo que possível, terminará com o numerus clausus para que todos possam aceder à universidade.\nO que não aceitamos - e, neste momento em que somos oposição, temos o dever de fiscalizar o Governo - é que este nos engane e nos minta, que estabeleça os pressupostos no novo sistema de ingresso e que depois não os cumpra. Por um lado, queremos fiscalizar se o Governo cumpre os seus próprios pressupostos e, por outro, gostaríamos de poder demonstrar, e estou convencido de que seremos capazes, que este sistema de ingresso é perverso e desequilibrador do ponto de vista social.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Carlos Coelho.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Carlos Coelho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Carlos Coelho* (PSD): Sr. Presidente, Srs. Deputados: Esta questão do ingresso no ensino superior, apresentada hoje na Comissão Permanente pelo Partido Socialista, é manifestamente uma falsa questão para todos nós e, particularmente, para os jovens portugueses.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Sr. Presidente, Srs. Deputados: Esta questão do ingresso no ensino superior, apresentada hoje na Comissão Permanente pelo Partido Socialista, é manifestamente uma falsa questão para todos nós e, particularmente, para os jovens portugueses.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Braga* (PS): É tão falsa que já não presta!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "É tão falsa que já não presta!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: O Governo não mente, ao contrário daquilo que o Sr.Deputado António Braga acabou de dizer, nem pretende fazer cair ninguém numa doce ilusão quando promete aproximar crescentemente o número de vagas do número de candidatos. Aliás, essa é uma tendência que foi sensível nos últimos quatro anos.\nHá quatro anos, cerca de 40% dos candidatos não conseguiram entrar na universidade e, como o Sr. Deputado António Braga acabou de recordar, no ano passado, apenas 14% dos candidatos não entraram no ensino superior.\nA previsão do Ministro Roberto Carneiro, lendo em atenção o alargamento das oportunidades de acesso ao ensino superior, e recordo que inclui não só o ensino superior universitário mas também a rede dos institutos superiores politécnicos, vai permitir a muito curió prazo este desiderato, eventualmente já no próximo ano lectivo, para que, sensivelmente, o número de candidatos ao ensino superior corresponda ao número de vagas existentes. Portanto, sob esse ponto de vista, o PS não tem razão e o Sr. Deputado António Braga veio aqui falar de um problema que não existe.\nEm segundo lugar, o Sr. Deputado falou na PGA, o que também é uma falsa questão. Hoje em dia, com excepção de poucas pessoas do Partido Socialista, já ninguém faz dela um «cavalo de batalha». O Partido Socialista falhou completamente nas críticas que fez em relação à injustiça social porque não há discriminação social na PGA como foi provado em todos os exercícios de selecção e aferição do sistema.\nVerifica-se, pois, que os seus detractores não tinham razão sobre esse ponto de vista.\nApenas a proximidade das eleições e a circunstância de o PS ter eleito a temática da PGA e do ingresso na universidade como uma das questões para tentar drenar a saída de jovens das suas fileiras poderão justificar esta tentativa desatempada do Partido Socialista de trazer a matéria à Assembleia da República.\nNaturalmente que o PSD votará contra esta peça que não tem a ver rigorosamente com o exercício das nossas competências mas apenas com a tentativa de criar falsos e artificiais fogachos eleitorais.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "O Governo não mente, ao contrário daquilo que o Sr.Deputado António Braga acabou de dizer, nem pretende fazer cair ninguém numa doce ilusão quando promete aproximar crescentemente o número de vagas do número de candidatos. Aliás, essa é uma tendência que foi sensível nos últimos quatro anos.\nHá quatro anos, cerca de 40% dos candidatos não conseguiram entrar na universidade e, como o Sr. Deputado António Braga acabou de recordar, no ano passado, apenas 14% dos candidatos não entraram no ensino superior.\nA previsão do Ministro Roberto Carneiro, lendo em atenção o alargamento das oportunidades de acesso ao ensino superior, e recordo que inclui não só o ensino superior universitário mas também a rede dos institutos superiores politécnicos, vai permitir a muito curió prazo este desiderato, eventualmente já no próximo ano lectivo, para que, sensivelmente, o número de candidatos ao ensino superior corresponda ao número de vagas existentes. Portanto, sob esse ponto de vista, o PS não tem razão e o Sr. Deputado António Braga veio aqui falar de um problema que não existe.\nEm segundo lugar, o Sr. Deputado falou na PGA, o que também é uma falsa questão. Hoje em dia, com excepção de poucas pessoas do Partido Socialista, já ninguém faz dela um «cavalo de batalha». O Partido Socialista falhou completamente nas críticas que fez em relação à injustiça social porque não há discriminação social na PGA como foi provado em todos os exercícios de selecção e aferição do sistema.\nVerifica-se, pois, que os seus detractores não tinham razão sobre esse ponto de vista.\nApenas a proximidade das eleições e a circunstância de o PS ter eleito a temática da PGA e do ingresso na universidade como uma das questões para tentar drenar a saída de jovens das suas fileiras poderão justificar esta tentativa desatempada do Partido Socialista de trazer a matéria à Assembleia da República.\nNaturalmente que o PSD votará contra esta peça que não tem a ver rigorosamente com o exercício das nossas competências mas apenas com a tentativa de criar falsos e artificiais fogachos eleitorais.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado Amónio Braga.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado Amónio Braga.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *António Braga* (PS): Sr. Deputado Carlos Coelho, constato que o PSD não está preocupado mas os pais estão, o que para nós é grave.\nRepare que o cuidado de fazer com lealdade uma descrição dos pressupostos que entendo deverem ser esclarecidos e, para que não possamos ser acusados de fazer juízos apressados ou ligeiros, propomos que a Comissão de Educação, Ciência e Cultura acompanhe este processo e elabore um relatório detalhado.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "Sr. Deputado Carlos Coelho, constato que o PSD não está preocupado mas os pais estão, o que para nós é grave.\nRepare que o cuidado de fazer com lealdade uma descrição dos pressupostos que entendo deverem ser esclarecidos e, para que não possamos ser acusados de fazer juízos apressados ou ligeiros, propomos que a Comissão de Educação, Ciência e Cultura acompanhe este processo e elabore um relatório detalhado.\n3426 I SÉRIE - NÚMERO 100", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "3426 I SÉRIE - NÚMERO 100", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "António Braga", 
    "text": "Disponho de alguns dados que poderei fornecer à Comissão, bem como de algumas opiniões bem fundamentadas sobre todo este processo e a sua parle final.\nMas também lhe devo dizer, Sr. Deputado, que fico satisfeito e curioso por verificar que, estando V. Ex.ª convencido de que o Governo esta a governar e a gerir muito bem este problema que preocupa muito boa gente como sabe, certamente irá votar a favor.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar, tem a palavra o Sr. Deputado Carlos Coelho.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar, tem a palavra o Sr. Deputado Carlos Coelho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Carlos Coelho* (PSD): Sr. Presidente, Tico ainda mais surpreendido: afinal, o Sr. Deputado António Braga não tem dúvidas nem preocupações!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Sr. Presidente, Tico ainda mais surpreendido: afinal, o Sr. Deputado António Braga não tem dúvidas nem preocupações!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Braga* (PS): Tenho, tenho!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "Tenho, tenho!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Veio dizer que apenas quer que se investigue este processo, mas julgo que a próxima Assembleia da República estará em condições de o fazer com maior propriedade e profundidade do que esta, que dispõe de um tempo de duração muito limitado.\nDe acordo com a ligeireza com que o Sr. Deputado António Braga agora apresentou as questões, é muito mais fácil deixarmos a discussão desta matéria para a próxima Assembleia da República e para a próxima Comissão de Educação, Ciência e Cultura que, se vier a corresponder a algumas das pequeninas questões que o Sr. Deputado levantou, não deixará de tomar as iniciativas que considerar mais oportunas e adequadas.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Veio dizer que apenas quer que se investigue este processo, mas julgo que a próxima Assembleia da República estará em condições de o fazer com maior propriedade e profundidade do que esta, que dispõe de um tempo de duração muito limitado.\nDe acordo com a ligeireza com que o Sr. Deputado António Braga agora apresentou as questões, é muito mais fácil deixarmos a discussão desta matéria para a próxima Assembleia da República e para a próxima Comissão de Educação, Ciência e Cultura que, se vier a corresponder a algumas das pequeninas questões que o Sr. Deputado levantou, não deixará de tomar as iniciativas que considerar mais oportunas e adequadas.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado António Filipe.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Filipe.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *António Filipe* (PCP): Sr. Presidente, Srs. Deputados: ao Sr.Deputado Carlos Coelho e, pelos vistos, ao PSD não preocupa o problema do acesso ao ensino superior no momento presente, mas devo dizer que a nós preocupamos muito.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "António Filipe", 
+   "text": "Sr. Presidente, Srs. Deputados: ao Sr.Deputado Carlos Coelho e, pelos vistos, ao PSD não preocupa o problema do acesso ao ensino superior no momento presente, mas devo dizer que a nós preocupamos muito.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Carlos Coelho* (PSD): Não disse que não me preocupa!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Não disse que não me preocupa!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Esta preocupação não é de hoje nem de ontem mas de há muito tempo, particularmente, desde que em 1977 se introduziu o sistema do numeras clausus com o qual nunca concordámos. Continuou a preocupar-nos também a partir de 1988 quando o actual Governe PSD impôs aquela que foi chamada a nova lei de acesso ao ensino superior, imporia recordá-lo, sob grande contestação da generalidade dos estudantes, particularmente dos candidatos ao ensino superior e que, como se sabe, manteve no essencial o sistema de numeras clausus que já persistia, vindo criar obstáculos adicionais no acesso ao ensino superior, como é o caso da conhecidíssima e famigerada prova geral de acesso.\nO que o Sr. Deputado Carlos Coelho nos veio aqui dizer hoje foi aquela mentira mil vezes repelida, que tem sido muito veiculada pelo Governo e à qual me referi na intervenção que tive a oportunidade de fazer há pouco, que é a do crescimento de vagas de molde a cobrir a procura por candidatos ao ensino superior.\nImporta que aproveitemos o momento presente para desmontar esta situação e averiguarmos onde é que se verificou, em concreto, o aumento de vagas no ensino superior. Posso adiantar que não foi nas \nuniversidades públicas. É conhecido que o respectivo número de vagas disponível andará, na melhor das hipóteses, na casa das 28 000, que é um número sensivelmente inferior àquele que em 1976 se praticou.\nPortanto, nos últimos anos não se assistiu a qualquer aumento de vagas nas universidades públicas.\nVerificou-se um aumento pouco significativo de vagas no ensino superior politécnico que poderia ser muito maior, e há muito tempo que o deveria ser, na medida em que os institutos politécnicos foram criados há mais de uma década e só nos últimos anos é que muito paulatinamente começaram a funcionar.\nAs vagas cresceram, sobretudo; nas universidades privadas porque muito fácil e ligeiramente o Governo tratou não só de promover, nalguns casos, a criação de algumas, como de autorizar outras sa torto e a direito», sem tentar saber se essas universidades tinham o mínimo de condições para funcionar, o que tem implicações na qualidade do ensino e na atribuição de diplomas credíveis. Foi desta forma que o Governo PSD promoveu a criação de muitas vagas no ensino superior! \nNisto que estou a dizer não há qualquer censura a quem se vê obrigado ou mesmo a quem, por opção, estude no ensino superior privado. Não se trata disso! Mas pensamos que, na sua maioria, os estudantes das universidades privadas são prejudicados no seu direito a terem acesso a estabelecimentos do ensino superior público e creio que esta questão deve ficar clara. Estamos convencidos de que muitos, se não a maioria, dos estudantes das universidades privadas, não direi de todas mas refiro-me a um número significativo, prefeririam ter acesso ao ensino superior público e só lá não estão por não terem obtido vaga.\nNão tem nada de utópico pensar que o ensino superior público deveria ter uma capacidade de resposta, em lermos de vagas, que pudesse corresponder às necessidades dos estudantes que completam o 12.º ano do ensino secundário, pois não estaria acima daquilo que existe noutros países mais desenvolvidos da Comunidade Económica Europeia e de objectivos assumidos pelo actual Governo no início do seu mandato que não foram cumpridos. Só assim haveria, de facto, a liberdade de aprender e de ensinar no acesso ao ensino superior que é inexistente na actual situação.\nPara finalizar, gostava de dizer que concordamos genericamente com o projecto de deliberação apresentado, que cremos ser importante que a Comissão Parlamentar de Educação, Ciência e Cultura possa acompanhar o processo de acesso ao ensino superior para o próximo ano, mas também estamos convencidos de que a próxima Assembleia da República terá de se pronunciar sobre esta matéria, alterar o actual regime legal de acesso ao ensino superior e contribuir para modificar a capacidade de resposta do ensino superior público sem a qual não se conseguirá acompanhar os países europeus mais desenvolvidos.\nJá tivemos oportunidade nesta Assembleia, e mesmo no fim do tempo útil da actual legislatura, de poder apresentar um projecto sobre esta matéria para que os Srs. Deputados possam estudá-lo e pronunciar-se sobre ele, e estamos convictos de que na próxima legislatura da Assembleia da República estaremos em condições de aprovar legislação", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Esta preocupação não é de hoje nem de ontem mas de há muito tempo, particularmente, desde que em 1977 se introduziu o sistema do numeras clausus com o qual nunca concordámos. Continuou a preocupar-nos também a partir de 1988 quando o actual Governe PSD impôs aquela que foi chamada a nova lei de acesso ao ensino superior, imporia recordá-lo, sob grande contestação da generalidade dos estudantes, particularmente dos candidatos ao ensino superior e que, como se sabe, manteve no essencial o sistema de numeras clausus que já persistia, vindo criar obstáculos adicionais no acesso ao ensino superior, como é o caso da conhecidíssima e famigerada prova geral de acesso.\nO que o Sr. Deputado Carlos Coelho nos veio aqui dizer hoje foi aquela mentira mil vezes repelida, que tem sido muito veiculada pelo Governo e à qual me referi na intervenção que tive a oportunidade de fazer há pouco, que é a do crescimento de vagas de molde a cobrir a procura por candidatos ao ensino superior.\nImporta que aproveitemos o momento presente para desmontar esta situação e averiguarmos onde é que se verificou, em concreto, o aumento de vagas no ensino superior. Posso adiantar que não foi nas \nuniversidades públicas. É conhecido que o respectivo número de vagas disponível andará, na melhor das hipóteses, na casa das 28 000, que é um número sensivelmente inferior àquele que em 1976 se praticou.\nPortanto, nos últimos anos não se assistiu a qualquer aumento de vagas nas universidades públicas.\nVerificou-se um aumento pouco significativo de vagas no ensino superior politécnico que poderia ser muito maior, e há muito tempo que o deveria ser, na medida em que os institutos politécnicos foram criados há mais de uma década e só nos últimos anos é que muito paulatinamente começaram a funcionar.\nAs vagas cresceram, sobretudo; nas universidades privadas porque muito fácil e ligeiramente o Governo tratou não só de promover, nalguns casos, a criação de algumas, como de autorizar outras sa torto e a direito», sem tentar saber se essas universidades tinham o mínimo de condições para funcionar, o que tem implicações na qualidade do ensino e na atribuição de diplomas credíveis. Foi desta forma que o Governo PSD promoveu a criação de muitas vagas no ensino superior! \nNisto que estou a dizer não há qualquer censura a quem se vê obrigado ou mesmo a quem, por opção, estude no ensino superior privado. Não se trata disso! Mas pensamos que, na sua maioria, os estudantes das universidades privadas são prejudicados no seu direito a terem acesso a estabelecimentos do ensino superior público e creio que esta questão deve ficar clara. Estamos convencidos de que muitos, se não a maioria, dos estudantes das universidades privadas, não direi de todas mas refiro-me a um número significativo, prefeririam ter acesso ao ensino superior público e só lá não estão por não terem obtido vaga.\nNão tem nada de utópico pensar que o ensino superior público deveria ter uma capacidade de resposta, em lermos de vagas, que pudesse corresponder às necessidades dos estudantes que completam o 12.º ano do ensino secundário, pois não estaria acima daquilo que existe noutros países mais desenvolvidos da Comunidade Económica Europeia e de objectivos assumidos pelo actual Governo no início do seu mandato que não foram cumpridos. Só assim haveria, de facto, a liberdade de aprender e de ensinar no acesso ao ensino superior que é inexistente na actual situação.\nPara finalizar, gostava de dizer que concordamos genericamente com o projecto de deliberação apresentado, que cremos ser importante que a Comissão Parlamentar de Educação, Ciência e Cultura possa acompanhar o processo de acesso ao ensino superior para o próximo ano, mas também estamos convencidos de que a próxima Assembleia da República terá de se pronunciar sobre esta matéria, alterar o actual regime legal de acesso ao ensino superior e contribuir para modificar a capacidade de resposta do ensino superior público sem a qual não se conseguirá acompanhar os países europeus mais desenvolvidos.\nJá tivemos oportunidade nesta Assembleia, e mesmo no fim do tempo útil da actual legislatura, de poder apresentar um projecto sobre esta matéria para que os Srs. Deputados possam estudá-lo e pronunciar-se sobre ele, e estamos convictos de que na próxima legislatura da Assembleia da República estaremos em condições de aprovar legislação", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "5 DE SETEMBRO DE 1991 3427", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "positiva, de progressão, que dê um passo em frente na garantia do direito dos jovens portugueses a terem igualdade de oportunidades no acesso ao ensino superior.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Nogueira de Brito.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nogueira de Brito.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Nogueira de Brito* (CDS): Sr. Presidente, Srs. Deputados, esta intervenção, para além do pedido de esclarecimento que há pouco fiz, destina-se a desfazer um equívoco: ê que o CDS também está na primeira linha dos que continuam a combater a existência da prova geral de acesso, que é um atestado de menoridade passado pela Administração Pública ao ensino secundário que gere e que é da sua responsabilidade e que, portanto, não tem a mínima justificação.\nPor outro lado, o CDS tem um esquema completo e acabado de que, aliás, já apresentou algumas peças na Assembleia da República, como, por exemplo, o projecto respeitante ao cheque de ensino para resolver os problemas do ensino superior e do seu acesso, tentando igualizar o mais possível as condições entre ensino privado e público. Essa é a via para eliminar os actuais problemas existentes, pois só a partir da colaboração entre as duas formas de ensino será possível preencher as lacunas que hoje existem em matéria de ensino superior.\nEm segundo lugar, Sr. Deputado António Braga, lenho a impressão de que a vossa preocupação com a PGA e com as condições de acesso ao ensino superior em geral é justa e correcta, mas esta resolução é um pouco um tiro dado no próprio pé, porque, embora suponha que não tem outro alcance ao ser apresentada nesta altura, aparece num momento em que o Governo, por vias mais ou menos ínvias, tenta resolver o problema. VV.\nEx.ªs pretendem demonstrar e convinha que, em vez de IS de Outubro, estivesse S de Outubro nesse documento - que as vias são ínvias, mas, apesar disso, podem responder aos anseios da nossa juventude.\nQuanto ao mais, não estamos contra o facto de se cometer à Comissão Parlamentar de Educação, Ciência e Cultura o acompanhamento deste problema, pelo que votaremos a favor. Entendemos, no entanto, que se vai tratar de um cometimento e de um encargo com resultados pouco úteis neste momento.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Nogueira de Brito", 
+   "text": "Sr. Presidente, Srs. Deputados, esta intervenção, para além do pedido de esclarecimento que há pouco fiz, destina-se a desfazer um equívoco: ê que o CDS também está na primeira linha dos que continuam a combater a existência da prova geral de acesso, que é um atestado de menoridade passado pela Administração Pública ao ensino secundário que gere e que é da sua responsabilidade e que, portanto, não tem a mínima justificação.\nPor outro lado, o CDS tem um esquema completo e acabado de que, aliás, já apresentou algumas peças na Assembleia da República, como, por exemplo, o projecto respeitante ao cheque de ensino para resolver os problemas do ensino superior e do seu acesso, tentando igualizar o mais possível as condições entre ensino privado e público. Essa é a via para eliminar os actuais problemas existentes, pois só a partir da colaboração entre as duas formas de ensino será possível preencher as lacunas que hoje existem em matéria de ensino superior.\nEm segundo lugar, Sr. Deputado António Braga, lenho a impressão de que a vossa preocupação com a PGA e com as condições de acesso ao ensino superior em geral é justa e correcta, mas esta resolução é um pouco um tiro dado no próprio pé, porque, embora suponha que não tem outro alcance ao ser apresentada nesta altura, aparece num momento em que o Governo, por vias mais ou menos ínvias, tenta resolver o problema. VV.\nEx.ªs pretendem demonstrar e convinha que, em vez de IS de Outubro, estivesse S de Outubro nesse documento - que as vias são ínvias, mas, apesar disso, podem responder aos anseios da nossa juventude.\nQuanto ao mais, não estamos contra o facto de se cometer à Comissão Parlamentar de Educação, Ciência e Cultura o acompanhamento deste problema, pelo que votaremos a favor. Entendemos, no entanto, que se vai tratar de um cometimento e de um encargo com resultados pouco úteis neste momento.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, terminou o debate do projecto de deliberação n.º 149/V, apresentado pelo PS, sobre o acesso ao ensino superior, pelo que vamos passar à sua votação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, terminou o debate do projecto de deliberação n.º 149/V, apresentado pelo PS, sobre o acesso ao ensino superior, pelo que vamos passar à sua votação.\nSubmetido à votação, foi rejeitado, com votos contra do PSD e votos a favor do PS, do PCP, do PRD, do CDS e de Os Verdes.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetido à votação, foi rejeitado, com votos contra do PSD e votos a favor do PS, do PCP, do PRD, do CDS e de Os Verdes.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos passar a discussão do projecto de deliberação n.º 150/V (PS) - Esclarecimento sobre a redução do montante das pensões de aposentação.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Para uma intervenção, tem a palavra o Sr. Deputado Rui Vieira.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Rui Vieira* (PS): Sr. Presidente, Srs. Deputados: A comunicação social divulgou, nas últimas semanas, o conteúdo de um projecto de decreto-lei, titulando com grande destaque: «Lei secreta baixa drasticamente as reformas. Governo tem projecto de lei para diminuir em 20% as reformas da função pública depois das eleições de 6 de Outubro.» A redacção deste projecto de decreto-lei teria sido da responsabilidade da Sr.ª Secretaria de Estado para a Modernização Administrativa, que o remeteu, posteriormente, para a Secretária de Estado do Orçamento.\nA sua filosofia inspirar-se-ia num estudo encomendado pela Secretária de Estado para a Modernização Administrativa a um grupo constituído por representantes da Caixa Geral de Aposentações, da Secretaria de Estado da Segurança Social e da própria Secretaria de Estado para a Modernização Administrativa.\nDevido à «delicadeza» das medidas nele previstas, o Governo tê-lo-ia fechado a sete chaves à espera do momento propício para a sua aprovação em Conselho de Ministros, isto é, depois das eleições de 6 de Outubro.\nNo caso de as ganhar, obviamente.\nPerante a divulgação destes dados, o Governo reagiu como quem pretende encobrir o sol com uma peneira, isto é, verberou a indiscrição dos jornais e dos jornalistas, mas não conseguiu dar explicações convincentes sobre aquilo que era de facto importante, ou seja, esclarecer se iria ou não alterar o método de cálculo das pensões actualmente em vigor, após as próximas eleições, no caso de as ganhar e formar governo. E não deu explicações convincentes, porque depois da negação categórica da existência de qualquer projecto ou estudo sobre a matéria, a comunicação social publicou na íntegra o projecto de decreto-lei que aprova o Estatuto da Aposentação.\nDas disposições desse Estatuto, além da alteração do cálculo das pensões que leva ã sua redução em cerca de 20%, constam normas que afectariam gravemente todos os trabalhadores da função pública como, por exemplo, as que se traduziriam numa maior dificuldade no acesso à aposentação.\nDevido ao inegável interesse dos factos revelados pela imprensa e à insuficiência das explicações dadas pelo Governo e porque a Assembleia da República é o local próprio para esclarecer a opinião pública e, em particular, os trabalhadores da Administração Pública, o PS entende que se impõe que o Governo, nas pessoas das duas Sr.ª Secretárias de Estado citadas, venha a esta Casa, na próxima reunião da Comissão Permanente.\nE não se diga que o assunto já está esclarecido, porque continua tudo ou quase tudo por esclarecer.\nOs 700 000 trabalhadores da função pública têm o direito de ser completamente esclarecidos.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Rui Vieira", 
+   "text": "Sr. Presidente, Srs. Deputados: A comunicação social divulgou, nas últimas semanas, o conteúdo de um projecto de decreto-lei, titulando com grande destaque: «Lei secreta baixa drasticamente as reformas. Governo tem projecto de lei para diminuir em 20% as reformas da função pública depois das eleições de 6 de Outubro.» A redacção deste projecto de decreto-lei teria sido da responsabilidade da Sr.ª Secretaria de Estado para a Modernização Administrativa, que o remeteu, posteriormente, para a Secretária de Estado do Orçamento.\nA sua filosofia inspirar-se-ia num estudo encomendado pela Secretária de Estado para a Modernização Administrativa a um grupo constituído por representantes da Caixa Geral de Aposentações, da Secretaria de Estado da Segurança Social e da própria Secretaria de Estado para a Modernização Administrativa.\nDevido à «delicadeza» das medidas nele previstas, o Governo tê-lo-ia fechado a sete chaves à espera do momento propício para a sua aprovação em Conselho de Ministros, isto é, depois das eleições de 6 de Outubro.\nNo caso de as ganhar, obviamente.\nPerante a divulgação destes dados, o Governo reagiu como quem pretende encobrir o sol com uma peneira, isto é, verberou a indiscrição dos jornais e dos jornalistas, mas não conseguiu dar explicações convincentes sobre aquilo que era de facto importante, ou seja, esclarecer se iria ou não alterar o método de cálculo das pensões actualmente em vigor, após as próximas eleições, no caso de as ganhar e formar governo. E não deu explicações convincentes, porque depois da negação categórica da existência de qualquer projecto ou estudo sobre a matéria, a comunicação social publicou na íntegra o projecto de decreto-lei que aprova o Estatuto da Aposentação.\nDas disposições desse Estatuto, além da alteração do cálculo das pensões que leva ã sua redução em cerca de 20%, constam normas que afectariam gravemente todos os trabalhadores da função pública como, por exemplo, as que se traduziriam numa maior dificuldade no acesso à aposentação.\nDevido ao inegável interesse dos factos revelados pela imprensa e à insuficiência das explicações dadas pelo Governo e porque a Assembleia da República é o local próprio para esclarecer a opinião pública e, em particular, os trabalhadores da Administração Pública, o PS entende que se impõe que o Governo, nas pessoas das duas Sr.ª Secretárias de Estado citadas, venha a esta Casa, na próxima reunião da Comissão Permanente.\nE não se diga que o assunto já está esclarecido, porque continua tudo ou quase tudo por esclarecer.\nOs 700 000 trabalhadores da função pública têm o direito de ser completamente esclarecidos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Muito bem!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado Rui Alvarez Carp.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado Rui Alvarez Carp.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Rui Alvarez Carp* (PSD): Sr. Deputado Rui Vieira, compreendo que neste momento haja falta de propostas com matéria concreta, mas ainda iremos ver, com muita curiosidade, que o PS, no seu programa eleitoral, tente manipular nados-mortos para tentar, digamos assim, levantar «fumos» que não têm a menor base nem consistência.\nO Governo, em tempos, ainda eu era Secretário de Estado do Orçamento, pediu que uma equipa técnica estudasse a confrontação do regime de aposentação da função pública com o regime geral.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Rui Alvarez Carp", 
+   "text": "Sr. Deputado Rui Vieira, compreendo que neste momento haja falta de propostas com matéria concreta, mas ainda iremos ver, com muita curiosidade, que o PS, no seu programa eleitoral, tente manipular nados-mortos para tentar, digamos assim, levantar «fumos» que não têm a menor base nem consistência.\nO Governo, em tempos, ainda eu era Secretário de Estado do Orçamento, pediu que uma equipa técnica estudasse a confrontação do regime de aposentação da função pública com o regime geral.\n3428 I SÉRIE - NÚMERO 100", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "3428 I SÉRIE - NÚMERO 100", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Rui Alvarez Carp", 
    "text": "Essa equipa fez um estudo e adiantou um anteprojecto de diploma que foi liminarmente «chumbado» pelo Secretário de Estado do Orçamento de então, que era eu, o que mereceu a plena concordância dos restantes membros do Governo.\nPortanto, o que apareceu na imprensa, que foi clara e inequivocamente desmentido, não tem qualquer razão de ser. Assim, aos Srs. Deputados que não souberam ler, terei muita honra em enviar-lhes o desmentido - mais um! - que o Governo prestou.\nMas essa não é a questão de fundo, ale porque já se viu que o Governo não tem qualquer projecto de lei. As questões de fundo são outras.\nA primeira é a de que o Partido Socialista já se convenceu de que o PSD formará governo após as eleições. E isso está, de facto, implícito no projecto de deliberação quando pede que «dois membros do Governo venham cá dizer o que farão a seguir às eleições de Outubro».\nA segunda é, digamos assim, a de pretender levantar uma nuvem de fumo sobre um facto indesmentível: é que o Governo, numa matéria onde tinha mais dificuldades, que é o combate à inflação, está a ter sucesso.\nCom efeito, o recente relatório do Banco de Portugal sobre a evolução da conjuntura é indesmentível e inequívoco quando diz que a inflação está a baixar. De facto, está a baixar pelo sentido positivo dessa baixa, ou seja, pelo consumo, não obstante o investimento continuar a bom ritmo e determinados sectores, como seja o da habitação, terem tido no 1.º trimestre um crescimento no número de contratos superior ao do trimestre anterior.\nOra, isto significa, no fundo, que o Partido Socialista pretende, com base no pseudoprojecto de diploma, ofuscar, embora o não consiga, o sucesso da verdadeira e boa política económica e social do Governo.\nFinalmente, gostaria que nos dissesse qual é a posição do Governo e que nos mostrasse - se as tem - as provas de que algum dos seus membros tenha concordado com esse anteprojecto de diploma, que nunca existiu e que suponho que não existirá.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se o desejar, tem a palavra o Sr.Deputado Rui Vieira.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se o desejar, tem a palavra o Sr.Deputado Rui Vieira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Rui Vieira* (PS): Sr. Deputado Rui Alvarez Carp, tudo aquilo que disse é muito bonito mas repare que há aí umas falhas evidentes, pois, que eu saiba, o senhor nunca foi Secretário de Estado para a Modernização Administrativa.\nO que o jornal divulga, com papel timbrado da Secretaria de Estado, é o projecto de decreto-lei completo. Ora, o senhor fala-me de um projecto que terá havido na sua Secretaria de Estado e que terá sido estudado por si, mas não é isso que está em causa porque o que é revelado 6 um facto e uma situação completamente diferentes.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Rui Vieira", 
+   "text": "Sr. Deputado Rui Alvarez Carp, tudo aquilo que disse é muito bonito mas repare que há aí umas falhas evidentes, pois, que eu saiba, o senhor nunca foi Secretário de Estado para a Modernização Administrativa.\nO que o jornal divulga, com papel timbrado da Secretaria de Estado, é o projecto de decreto-lei completo. Ora, o senhor fala-me de um projecto que terá havido na sua Secretaria de Estado e que terá sido estudado por si, mas não é isso que está em causa porque o que é revelado 6 um facto e uma situação completamente diferentes.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Silva Marques* (PSD): Os senhores estão influenciados pelos socialistas franceses que baixaram as pensões!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Os senhores estão influenciados pelos socialistas franceses que baixaram as pensões!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Depois, Sr. Deputado Rui Alvarez Carp, há-de reparar que não fiz qualquer acusação ao Governo. O que vimos aqui exigir é o cabal esclarecimento destes factos, porque há, na verdade, dados que vieram a público que são extremamente importantes e que os senhores não podem ignorar. Se o Governo não tem nada a recear, só tem uma maneira de o provar, que é votar a favor do projecto de deliberação que \napresentámos.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Depois, Sr. Deputado Rui Alvarez Carp, há-de reparar que não fiz qualquer acusação ao Governo. O que vimos aqui exigir é o cabal esclarecimento destes factos, porque há, na verdade, dados que vieram a público que são extremamente importantes e que os senhores não podem ignorar. Se o Governo não tem nada a recear, só tem uma maneira de o provar, que é votar a favor do projecto de deliberação que \napresentámos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Deputado Rui Alvarez Carp pede a palavra para que efeito?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Rui Alvarez Carp pede a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Rui Alvarez Carp* (PSD): Para uma intervenção, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Rui Alvarez Carp", 
+   "text": "Para uma intervenção, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Rui Alvarez Carp* (PSD): Sr. Presidente, é só para recordar, pois possivelmente o Sr. Deputado Rui Vieira não acompanhou os problemas desta área, o que aqui demonstrou, com o devido respeito, que o Secretário de Estado do Orçamento tinha na altura a tutela da função pública...", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Rui Alvarez Carp", 
+   "text": "Sr. Presidente, é só para recordar, pois possivelmente o Sr. Deputado Rui Vieira não acompanhou os problemas desta área, o que aqui demonstrou, com o devido respeito, que o Secretário de Estado do Orçamento tinha na altura a tutela da função pública...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Rui Vieira* (PS): Esta questão não é desse tempo, Sr. Deputado!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Rui Vieira", 
+   "text": "Esta questão não é desse tempo, Sr. Deputado!\nO Orador: -... e que o documento a que se refere é do Secretariado da Modernização Administrativa, dependente da Secretaria de Estado da Modernização Administrativa, que tinha como funções apresentar à tutela respectiva da função pública, que era o Ministério das Finanças, através da Secretaria de Estado do Orçamento, os projectos de diploma dessa matéria. Ora, a Caixa Geral de Aposentações dependia e depende da Secretaria de Estado do Orçamento, como V. Ex.ª poderá confirmar.\nPortanto, volto a repetir, não há nenhum projecto nem é intenção do Governo apresentar o projecto de que fala este projecto de deliberação do Partido Socialista, pelo que o mesmo não tem sentido nem merece ser votado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: -... e que o documento a que se refere é do Secretariado da Modernização Administrativa, dependente da Secretaria de Estado da Modernização Administrativa, que tinha como funções apresentar à tutela respectiva da função pública, que era o Ministério das Finanças, através da Secretaria de Estado do Orçamento, os projectos de diploma dessa matéria. Ora, a Caixa Geral de Aposentações dependia e depende da Secretaria de Estado do Orçamento, como V. Ex.ª poderá confirmar.\nPortanto, volto a repetir, não há nenhum projecto nem é intenção do Governo apresentar o projecto de que fala este projecto de deliberação do Partido Socialista, pelo que o mesmo não tem sentido nem merece ser votado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Rui Vieira pede a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Deputado Rui Vieira pede a palavra para que efeito?", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Rui Vieira", 
+   "text": "Para pedir um esclarecimento. Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Rui Vieira* (PS): Para pedir um esclarecimento. Sr. Presidente.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Rui Vieira", 
+   "text": "Sr. Deputado Rui Alvarez Carp, reafirmo que não é meu propósito vir lançar, aqui, acusações sem fundamento sobre o Governo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Rui Vieira* (PS): Sr. Deputado Rui Alvarez Carp, reafirmo que não é meu propósito vir lançar, aqui, acusações sem fundamento sobre o Governo.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "José da Silva Marques»", 
+   "text": "De forma nenhuma!...", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *José da Silva Marques»* (PSD): De forma nenhuma!...", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Porém, o que não pode desmentir é que foram divulgadas, e são hoje do conhecimento de todos os funcionários públicos e da população em geral, informações graves que deviam preocupar, inclusivamente, o próprio Governo.\nNesse sentido, não sei por que é que a bancada de V. Ex.ª não vai votar favoravelmente o projecto de deliberação que apresentámos. Ele destina-se apenas a que o Governo esclareça a verdade dos factos, Sr.Deputado!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Porém, o que não pode desmentir é que foram divulgadas, e são hoje do conhecimento de todos os funcionários públicos e da população em geral, informações graves que deviam preocupar, inclusivamente, o próprio Governo.\nNesse sentido, não sei por que é que a bancada de V. Ex.ª não vai votar favoravelmente o projecto de deliberação que apresentámos. Ele destina-se apenas a que o Governo esclareça a verdade dos factos, Sr.Deputado!", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, se o desejar, tem a palavra o Sr.Deputado Rui Alvarez Carp.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, se o desejar, tem a palavra o Sr.Deputado Rui Alvarez Carp.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Rui Alvarez Carp", 
+   "text": "Sr. Deputado, desejo apenas confirmar e repetir que esse anteprojecto não existe e que, como já aqui esclareci, não mereceu o acordo do Governo e que, portanto, está enterrado.\nGostaria, no entanto, de saber se o Sr. Deputado tem outras provas concretas e escritas de que a intenção do 5 DE SETEMBRO DE 1991 3429", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Rui Alvarez Carp* (PSD): Sr. Deputado, desejo apenas confirmar e repetir que esse anteprojecto não existe e que, como já aqui esclareci, não mereceu o acordo do Governo e que, portanto, está enterrado.\nGostaria, no entanto, de saber se o Sr. Deputado tem outras provas concretas e escritas de que a intenção do", 
-   "type": "documento"
-  }, 
-  {
-   "text": "5 DE SETEMBRO DE 1991 3429", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Rui Alvarez Carp", 
    "text": "Governo vai no sentido que apontou, porque as informações e provas que lemos vão precisamente no sentido contrário.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Óptimo, venham cá!", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Óptimo, venham cá!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Nogueira de Brito.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nogueira de Brito.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Silva Marques* (PSD): Estão influenciados pelos socialistas franceses! Não lhe parece, Sr. Deputado Nogueira de Brito?", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Estão influenciados pelos socialistas franceses! Não lhe parece, Sr. Deputado Nogueira de Brito?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Nogueira de Brito* (CDS): Sr. Presidente, estou a ouvir, muito interessado, o Sr. Deputado Silva Marques, que está a falar sobre os socialistas franceses. Ora, para mim, Sr. Presidente, os socialistas são maus em toda a parte, em França, em Portugal...", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Nogueira de Brito", 
+   "text": "Sr. Presidente, estou a ouvir, muito interessado, o Sr. Deputado Silva Marques, que está a falar sobre os socialistas franceses. Ora, para mim, Sr. Presidente, os socialistas são maus em toda a parte, em França, em Portugal...", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Nogueira de Brito", 
    "text": "Risos do PSD.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Nogueira de Brito", 
    "text": "Mas, Sr. Presidente, fica claro, aqui, que o Sr. Deputado Rui Alvarez Carp afirma que esse documento que foi publicado...", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Rui Alvarez Carp* (PSD): Esse documento «chumbou»!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Rui Alvarez Carp", 
+   "text": "Esse documento «chumbou»!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Não, não chumbou! Ou melhor, chumbou mas não foi em nenhum exame! \nO que acontece é que esse diploma foi publicado num jornal semanário, o que revela que a comunicação social se interessou pelo problema antes dos deputados.\nOra, se o Sr. Deputado Rui Carp quiser desferir as suas «flechadas» à comunicação social, faça-o directamente e não através dos deputados.\nPortanto, este documento é antiquíssimo, datando já do seu consulado na pasta do Orçamento, foi chumbado por V. Ex.ª e não há mais nenhum!", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Não, não chumbou! Ou melhor, chumbou mas não foi em nenhum exame! \nO que acontece é que esse diploma foi publicado num jornal semanário, o que revela que a comunicação social se interessou pelo problema antes dos deputados.\nOra, se o Sr. Deputado Rui Carp quiser desferir as suas «flechadas» à comunicação social, faça-o directamente e não através dos deputados.\nPortanto, este documento é antiquíssimo, datando já do seu consulado na pasta do Orçamento, foi chumbado por V. Ex.ª e não há mais nenhum!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Rui Alvarez Carp* (PSD): Exactamente.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Rui Alvarez Carp", 
+   "text": "Exactamente.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sendo assim, os futuros reformados já podem estar um bocado mais sossegados, pelos vistos...\nNão soube desse documento, mas também acho que o projecto de deliberação é uma forma de falar no assunto.\nPara além disso, Sr. Deputado Rui Carp, V. Ex.ª falou no Banco de Portugal - e muito bem -, porque ele, sobre a inflação em Julho, diz, efectivamente, que os números são animadores, mas que é preciso ter cautela e não ter ilusões, porque é só um mês e, portanto, nada de abrandar a política monetária nem a política cambial.\nE mais, o Sr. Vice-Governador do Banco de Portugal classificou expressamente, em entrevista dada ao Semanário - a menos que seja falsa, obviamente -, a actual política orçamental como inadequada e necessitada de correcção e, depois, diz que o próximo Governo, seja ele qual for - e eu lambem digo seja ele qual for, podendo até esse Governo ler a felicidade de ter já a colaboração do CDS, o que será muito melhor, obviamente! -, terá de inflectir a sua política orçamental.\nOra, o Sr. Deputado Rui Alvarez Carp vai-nos garantir que nas inflexões da política orçamental vão optar por cortes orçamentais, que nós propugnamos, relativos, evidentemente, a despesas supérfluas como, por exemplo, a paragem das obras do Centro Cultural de Belém? \nMas quem for Governo, possibilidade que VV. Ex.ªs reivindicam, sustentando até que vão ter novamente maioria absoluta, deverá prometer, tal como sugere o Sr. Vice-Governador do Banco de Portugal, corroborado pelo Ministro das Finanças, que vai iniciar uma política de grande rigor orçamental.\nNesta conformidade, pergunto por que é que a política que estão agora a conduzir não é a adequada, conforme foi classificada não por mim mas por essas personagens ilustres.\nPortanto, o Sr. Deputado é capaz de nos garantir que, nesta política de rigor, não vão ser atingidos os direitos dos funcionários que esperam reformar-se? \nOra, é isso que queremos saber. Não queremos deliberação alguma. Não a aprovo, pois não vale a pena! Os Secretários de Estado chegam cá e dizem que foi tudo mentira! Ora, não vale a pena estarmos com isso.\nO que vale a pena é que o PSD garante, se for eleito, na política de contenção e de rigor orçamental que vai adoptar, porque já disse que o vai fazer através de vozes oficiais, que não atinge os direitos dos futuros reformados da função pública! \nEra sobre este assunto que gostava de ouvir o Sr. Deputado Rui Alvarez Carp! Quanto ao demais são tretas.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Sendo assim, os futuros reformados já podem estar um bocado mais sossegados, pelos vistos...\nNão soube desse documento, mas também acho que o projecto de deliberação é uma forma de falar no assunto.\nPara além disso, Sr. Deputado Rui Carp, V. Ex.ª falou no Banco de Portugal - e muito bem -, porque ele, sobre a inflação em Julho, diz, efectivamente, que os números são animadores, mas que é preciso ter cautela e não ter ilusões, porque é só um mês e, portanto, nada de abrandar a política monetária nem a política cambial.\nE mais, o Sr. Vice-Governador do Banco de Portugal classificou expressamente, em entrevista dada ao Semanário - a menos que seja falsa, obviamente -, a actual política orçamental como inadequada e necessitada de correcção e, depois, diz que o próximo Governo, seja ele qual for - e eu lambem digo seja ele qual for, podendo até esse Governo ler a felicidade de ter já a colaboração do CDS, o que será muito melhor, obviamente! -, terá de inflectir a sua política orçamental.\nOra, o Sr. Deputado Rui Alvarez Carp vai-nos garantir que nas inflexões da política orçamental vão optar por cortes orçamentais, que nós propugnamos, relativos, evidentemente, a despesas supérfluas como, por exemplo, a paragem das obras do Centro Cultural de Belém? \nMas quem for Governo, possibilidade que VV. Ex.ªs reivindicam, sustentando até que vão ter novamente maioria absoluta, deverá prometer, tal como sugere o Sr. Vice-Governador do Banco de Portugal, corroborado pelo Ministro das Finanças, que vai iniciar uma política de grande rigor orçamental.\nNesta conformidade, pergunto por que é que a política que estão agora a conduzir não é a adequada, conforme foi classificada não por mim mas por essas personagens ilustres.\nPortanto, o Sr. Deputado é capaz de nos garantir que, nesta política de rigor, não vão ser atingidos os direitos dos funcionários que esperam reformar-se? \nOra, é isso que queremos saber. Não queremos deliberação alguma. Não a aprovo, pois não vale a pena! Os Secretários de Estado chegam cá e dizem que foi tudo mentira! Ora, não vale a pena estarmos com isso.\nO que vale a pena é que o PSD garante, se for eleito, na política de contenção e de rigor orçamental que vai adoptar, porque já disse que o vai fazer através de vozes oficiais, que não atinge os direitos dos futuros reformados da função pública! \nEra sobre este assunto que gostava de ouvir o Sr. Deputado Rui Alvarez Carp! Quanto ao demais são tretas.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Mário Montalvão Machado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Mário Montalvão Machado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Mário Montalvão Machado* (PSD): Sr. Presidente, Srs. Deputados: \nDepois dos factos aqui trazidos pelo meu companheiro de bancada Rui Alvarez Carp, suponho que não seria necessária qualquer outra intervenção se não fora a intervenção efectuada pelo Sr. Deputado Nogueira de Brito. No entanto, parece-me que será bom reavivar a memória a algumas pessoas que são de memória curta!...\nDepois de ter vindo a público, num semanário, a notícia que serve de base a este projecto de deliberação, ou seja, sobre as reformas do funcionalismo público, o Parado Socialista apressou-se a apossar-se dessa matéria para, mais uma vez e demagogicamente, fazer um ataque cerrado e sem fundamento ao Governo.\nDepois de publicada essa notícia, o Governo veio com uma nota oficiosa que me permito lembrar aqui, em parte, aos Srs Deputados, porque parece que a desconhecem:", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Mário Montalvão Machado", 
+   "text": "Sr. Presidente, Srs. Deputados: \nDepois dos factos aqui trazidos pelo meu companheiro de bancada Rui Alvarez Carp, suponho que não seria necessária qualquer outra intervenção se não fora a intervenção efectuada pelo Sr. Deputado Nogueira de Brito. No entanto, parece-me que será bom reavivar a memória a algumas pessoas que são de memória curta!...\nDepois de ter vindo a público, num semanário, a notícia que serve de base a este projecto de deliberação, ou seja, sobre as reformas do funcionalismo público, o Parado Socialista apressou-se a apossar-se dessa matéria para, mais uma vez e demagogicamente, fazer um ataque cerrado e sem fundamento ao Governo.\nDepois de publicada essa notícia, o Governo veio com uma nota oficiosa que me permito lembrar aqui, em parte, aos Srs Deputados, porque parece que a desconhecem:\n«O Governo considera inaceitável qualquer revisão do estatuto de aposentação que venha a limitar ou a diminuir os actuais direitos dos trabalhadores da função pública. Antes pelo contrário, a política do Governo continuará a orientar-se no sentido da aproximação gradual entre os níveis das reformas e os vencimentos dos funcionários no activo como aconteceu nos últimos anos.» \nPor conseguinte, e para terminar, queria dizer a esta Câmara, com toda a solenidade, com toda a verdade, respondendo à sua invectiva, que na próxima legislatura - e estando aqui a mesma maioria que está hoje ou até talvez superior -...", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "«O Governo considera inaceitável qualquer revisão do estatuto de aposentação que venha a limitar ou a diminuir os actuais direitos dos trabalhadores da função pública. Antes pelo contrário, a política do Governo continuará a orientar-se no sentido da aproximação gradual entre os níveis das reformas e os vencimentos dos funcionários no activo como aconteceu nos últimos anos.» \nPor conseguinte, e para terminar, queria dizer a esta Câmara, com toda a solenidade, com toda a verdade, respondendo à sua invectiva, que na próxima legislatura - e estando aqui a mesma maioria que está hoje ou até talvez superior -...", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Mário Montalvão Machado", 
    "text": "Risos do PS.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Mário Montalvão Machado", 
    "text": "... se aparecer qualquer proposta de lei, no sentido desta proposta que foi dada a conhecer através da comunicação social ou qualquer outra semelhante, ela não passará e será chumbada por nós próprios.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Silva Marques* (PSD): Aliás é a única garantia, porque a tendência dos socialistas é baixar as pensões!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Aliás é a única garantia, porque a tendência dos socialistas é baixar as pensões!\n3430 I SÉRIE - NÚMERO 100", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "3430 I SÉRIE - NÚMERO 100", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jerónimo de Sousa.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Jerónimo de Sousa.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Sr. Presidente, Srs. Deputados: O Partido Comunista Português vai subscrever este projecto de \ndeliberação, apresentado pelo Partido Socialista, embora o seu fundamento e objecto assente numa notícia transmitida pela comunicação social, que têm subjectividade, mas apresenta uma posição de desconfiança.\nCreio que esta questão é importante, tal como a declaração agora efectuada pelo Sr. Deputado Mário Montalvão Machado. É que os trabalhadores da função pública têm razões suficientes para ter esta desconfiança e permita-me V. Ex.ª que lhe dê um exemplo: é o caso da situação dos trabalhadores do Registo Nacional de Pessoas Colectivas e do Arquivo de Indentificação.\nDesde 1983 que têm um vínculo mais ou menos precário, sem possibilidade de evolução nas suas carreiras e que têm, com uma paciência notável, tentado o diálogo, ouvindo apenas promessas do Governo. Negociando em 1989 e com o decreto já praticamente aprovado, estes trabalhadores, hoje, verificam que o Governo não cumpriu as suas promessas e continuam a não ter possibilidades de evolução nas suas carreiras.\nÉ evidente que a desconfiança não 6 minha, mas desses trabalhadores que há 40 dias estão em greve, a que o Governo não responde, não avança nem um milímetro, adiando sine die a solução deste problema, assim como a situação criada com este problema.\nPortanto, pensamos que há razões profundas para ler desconfiança em relação às posições do Governo, embora, como digo, seja de registar no Diário da Assembleia da República a afirmação clara do Sr. Deputado Mário Montalvão Machado. Inclusivamente, pensamos mesmo que, para além da afirmação do Sr. Deputado, todos os partidos e, repito, também o Partido Socialista, deveriam aqui declarar, solenemente, que os direitos dos trabalhadores da função pública, particularmente em relação às suas reformas e pensões, não serão alterados, \nindependentemente da futura composição desta Assembleia da República.\nNesse sentido, com esta nota, subscrevemos este projecto de \ndeliberação.\nEsta declaração era importante porque o Sr. Deputado Nogueira de Brito colocou esta questão, mas não afirmou aquilo que afirmou o Sr. Deputado Mário Montalvão Machado, sendo importante ouvir a mesma afirmação por parte do Partido Socialista.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jerónimo de Sousa* (PCP): Sr. Presidente, Srs. Deputados: O Partido Comunista Português vai subscrever este projecto de \ndeliberação, apresentado pelo Partido Socialista, embora o seu fundamento e objecto assente numa notícia transmitida pela comunicação social, que têm subjectividade, mas apresenta uma posição de desconfiança.\nCreio que esta questão é importante, tal como a declaração agora efectuada pelo Sr. Deputado Mário Montalvão Machado. É que os trabalhadores da função pública têm razões suficientes para ter esta desconfiança e permita-me V. Ex.ª que lhe dê um exemplo: é o caso da situação dos trabalhadores do Registo Nacional de Pessoas Colectivas e do Arquivo de Indentificação.\nDesde 1983 que têm um vínculo mais ou menos precário, sem possibilidade de evolução nas suas carreiras e que têm, com uma paciência notável, tentado o diálogo, ouvindo apenas promessas do Governo. Negociando em 1989 e com o decreto já praticamente aprovado, estes trabalhadores, hoje, verificam que o Governo não cumpriu as suas promessas e continuam a não ter possibilidades de evolução nas suas carreiras.\nÉ evidente que a desconfiança não 6 minha, mas desses trabalhadores que há 40 dias estão em greve, a que o Governo não responde, não avança nem um milímetro, adiando sine die a solução deste problema, assim como a situação criada com este problema.\nPortanto, pensamos que há razões profundas para ler desconfiança em relação às posições do Governo, embora, como digo, seja de registar no Diário da Assembleia da República a afirmação clara do Sr. Deputado Mário Montalvão Machado. Inclusivamente, pensamos mesmo que, para além da afirmação do Sr. Deputado, todos os partidos e, repito, também o Partido Socialista, deveriam aqui declarar, solenemente, que os direitos dos trabalhadores da função pública, particularmente em relação às suas reformas e pensões, não serão alterados, \nindependentemente da futura composição desta Assembleia da República.\nNesse sentido, com esta nota, subscrevemos este projecto de \ndeliberação.\nEsta declaração era importante porque o Sr. Deputado Nogueira de Brito colocou esta questão, mas não afirmou aquilo que afirmou o Sr. Deputado Mário Montalvão Machado, sendo importante ouvir a mesma afirmação por parte do Partido Socialista.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "José Silva Marques", 
+   "text": "Quem fez apertar o cinto à classe operária foram os socialistas!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *José Silva Marques* (PSD): Quem fez apertar o cinto à classe operária foram os socialistas!", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Vocês também estavam no Governo! Era o tempo do casamento!", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Vocês também estavam no Governo! Era o tempo do casamento!", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Guterres.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado António Guterres.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Depois deste aparte proletário do Sr.Deputado José Silva Marques, gostaria muito brevemente e em síntese deste debate dizer mais alguma coisa.\nFoi noticiada a existência de um projecto de decreto-lei que lesava os interesses dos trabalhadores da função pública que futuramente serão reformados. O Governo negou a existência desse documento. Alguns dias depois um jornal publicava-o na íntegra!...\nNão é, infelizmente, a primeira vez que isto acontece. Já vimos a mesma coisa em relação ao Código das Reavaliações!...\nDiz-nos o Sr. Deputado Mário Montalvão Machado que o PSD não permitirá que um documento desses aqui seja aprovado. Ora, queremos ouvir o mesmo aos secretários de Estado responsáveis por esses departamentos e sob cuja responsabilidade qualquer projecto de decreto-lei pode ou não ter sido elaborado.\nO que pretendemos é o completo esclarecimento da verdade para a completa tranquilidade das pessoas afectadas. E se o PSD está tão seguro de si, não verá, seguramente, qualquer dificuldade a que os membros do Governo aqui venham confirmar aquilo que foi dito pelo Sr.Deputado Mário Montalvão Machado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Depois deste aparte proletário do Sr.Deputado José Silva Marques, gostaria muito brevemente e em síntese deste debate dizer mais alguma coisa.\nFoi noticiada a existência de um projecto de decreto-lei que lesava os interesses dos trabalhadores da função pública que futuramente serão reformados. O Governo negou a existência desse documento. Alguns dias depois um jornal publicava-o na íntegra!...\nNão é, infelizmente, a primeira vez que isto acontece. Já vimos a mesma coisa em relação ao Código das Reavaliações!...\nDiz-nos o Sr. Deputado Mário Montalvão Machado que o PSD não permitirá que um documento desses aqui seja aprovado. Ora, queremos ouvir o mesmo aos secretários de Estado responsáveis por esses departamentos e sob cuja responsabilidade qualquer projecto de decreto-lei pode ou não ter sido elaborado.\nO que pretendemos é o completo esclarecimento da verdade para a completa tranquilidade das pessoas afectadas. E se o PSD está tão seguro de si, não verá, seguramente, qualquer dificuldade a que os membros do Governo aqui venham confirmar aquilo que foi dito pelo Sr.Deputado Mário Montalvão Machado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Nogueira de Brito.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Nogueira de Brito.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Nogueira de Brito", 
+   "text": "Sr. Presidente, pretendia unicamente dizer que, neste momento, em véspera de eleições, o que me parece importante não é ouvir secretários de Estado que, porventura, o não vão ser.\nO que é que me garante que venha aqui um secretário de Estado jurar muitas coisas se sei que até às eleições as não vai fazer?! E depois das eleições ele vai ser secretário de Estado? \nO que é importante é que os partidos se comprometam todos na Assembleia da República, perante o povo português, a não afectar, quaisquer que sejam os condicionalismos impostos pela política orçamental, os direitos dos funcionários da função pública.\nSr. Deputado Jerónimo de Sousa, fizemos a pergunta, pois queríamos ouvir uma resposta convincente da parte do PSD, o que aconteceu.\nSomos a favor de uma política de grande rigor orçamental, mas sabemos como é que vamos conduzir esse rigor orçamental: nunca será \nprejudicando o estatuto dos funcionários públicos e da função pública.\nPortanto, isto fica claro.\nSr. Deputado António Guterres, isto é mais importante do que, efectivamente, propor que venham aqui secretários de Estado que daqui a um mês ou dois, realmente, não estarão no exercício de funções - esperamos que não estejam, efectivamente...", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Nogueira de Brito* (CDS): Sr. Presidente, pretendia unicamente dizer que, neste momento, em véspera de eleições, o que me parece importante não é ouvir secretários de Estado que, porventura, o não vão ser.\nO que é que me garante que venha aqui um secretário de Estado jurar muitas coisas se sei que até às eleições as não vai fazer?! E depois das eleições ele vai ser secretário de Estado? \nO que é importante é que os partidos se comprometam todos na Assembleia da República, perante o povo português, a não afectar, quaisquer que sejam os condicionalismos impostos pela política orçamental, os direitos dos funcionários da função pública.\nSr. Deputado Jerónimo de Sousa, fizemos a pergunta, pois queríamos ouvir uma resposta convincente da parte do PSD, o que aconteceu.\nSomos a favor de uma política de grande rigor orçamental, mas sabemos como é que vamos conduzir esse rigor orçamental: nunca será \nprejudicando o estatuto dos funcionários públicos e da função pública.\nPortanto, isto fica claro.\nSr. Deputado António Guterres, isto é mais importante do que, efectivamente, propor que venham aqui secretários de Estado que daqui a um mês ou dois, realmente, não estarão no exercício de funções - esperamos que não estejam, efectivamente...", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado António Guterres, V. Ex.ª foi interpelado...", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado António Guterres, V. Ex.ª foi interpelado...", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jerónimo de Sousa", 
+   "text": "Sr. Presidente, o PCP cede um minuto ao PS.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jerónimo de Sousa* (PCP): Sr. Presidente, o PCP cede um minuto ao PS.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado António Guterres, em tempo cedido pelo PCP e para responder se assim o desejar, tem a palavra.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado António Guterres, em tempo cedido pelo PCP e para responder se assim o desejar, tem a palavra.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr. Deputado Nogueira de Brito, quanto a esse compromisso não temos dúvidas em assumi-lo.\nNo entanto, o que está em causa nos períodos de campanha eleitoral não são tanto os compromissos mas a respectiva credibilidade. E a credibilidade dos compro- 5 DE SETEMBRO DE 1991 3431", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Sr. Deputado Nogueira de Brito, quanto a esse compromisso não temos dúvidas em assumi-lo.\nNo entanto, o que está em causa nos períodos de campanha eleitoral não são tanto os compromissos mas a respectiva credibilidade. E a credibilidade dos compro-", 
-   "type": "documento"
-  }, 
-  {
-   "text": "5 DE SETEMBRO DE 1991 3431", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "António Guterres", 
    "text": "missos passa pelo apuramento da verdade em relação aos respectivos precedentes. É essa verdade que aqui queremos apurar.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr Presidente: Srs. Deputados, em tempo cedido pelo PCP e para efectuar uma intervenção, tem a palavra o Sr. Deputado José Pacheco Pereira.", 
-   "type": "documento"
+   "speaker": "O Sr Presidente", 
+   "text": "Srs. Deputados, em tempo cedido pelo PCP e para efectuar uma intervenção, tem a palavra o Sr. Deputado José Pacheco Pereira.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Pacheco Pereira* (PSD): Sr. Presidente, Srs. Deputados: \nDesejava registar, em nome da minha bancada, a interessante \ncircunstancia de se estar nas últimas sessões desta Assembleia a discutir o programa do Governo do PSD para a próxima legislatura.\nRegistamos com muito interesse o significado psicológico que tem os partidos da oposição e em particular o Partido Socialista, ao dar aqui o exemplo de confiança na sua presumível vitória e, ao mesmo tempo, de aceitação implícita da vitória do PSD nesta discussão.\nRegistamos com muito agrado que se tenha começado a discutir o próximo programa do PSD.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "José Pacheco Pereira", 
+   "text": "Sr. Presidente, Srs. Deputados: \nDesejava registar, em nome da minha bancada, a interessante \ncircunstancia de se estar nas últimas sessões desta Assembleia a discutir o programa do Governo do PSD para a próxima legislatura.\nRegistamos com muito interesse o significado psicológico que tem os partidos da oposição e em particular o Partido Socialista, ao dar aqui o exemplo de confiança na sua presumível vitória e, ao mesmo tempo, de aceitação implícita da vitória do PSD nesta discussão.\nRegistamos com muito agrado que se tenha começado a discutir o próximo programa do PSD.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, terminou a apreciação do projecto de deliberação n.º 150/V, apresentado pelo PS, relativo ao \nesclarecimento sobre a redução do montante das pensões de aposentação.\nVamos passar à sua votação.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, terminou a apreciação do projecto de deliberação n.º 150/V, apresentado pelo PS, relativo ao \nesclarecimento sobre a redução do montante das pensões de aposentação.\nVamos passar à sua votação.\nSubmetido à votação, foi rejeitado, com votos contra do PSD e do PRD, votos a favor do PS, do PCP e de Os Verdes e a abstenção do CDS.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetido à votação, foi rejeitado, com votos contra do PSD e do PRD, votos a favor do PS, do PCP e de Os Verdes e a abstenção do CDS.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, a próxima reunião da Comissão Permanente terá lugar na próxima quarta-feira, dia 11, às IS horas.\nEstá encerrada a reunião.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 16 horas e 55 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Rectificação ao n.º 94, de 19 de Junho de 1991", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "No Sumário, 1.º col., 6.º parágrafo, onde se 16 «De seguida, a Câmara aprovou, em votação final global, os projectos de resolução n.ºs 87/V (PSD) - Propõe ao Plenário medidas sobre os resultados do inquérito de Camarote -, 88/V (PSD) - Publicidade das actas da Comissão Eventual de Inquérito aos Alegados Perdões Fiscais Atribuídos ao Secretário de Estado dos Assuntos Fiscais - e 91/V (PSD) - Publicidade das actas da Comissão Eventual de Inquérito com Vista a Averiguar os Actos Administrativos na Área do Ministério da Saúde.», deve ler-se «De seguida, foi aprovado o projecto de resolução n.º 87/V (PSD) - Propõe ao Plenário medidas sobre os resultados do inquérito de Camarote - e foram ainda aprovados, em votação final global, os projectos de resolução n.º 88/V (PSD) - Publicidade das actas da Comissão Eventual de Inquérito aos alegados Perdões Fiscais Atribuídos ao Secretário de Estado dos Assuntos Fiscais -, 89/V (PSD) - Publicidade do Relatório da Comissão Eventual para Análise e Reflexão da Problemática dos Incêndios em Portugal - e 91/V (PSD) - Publicidade das actas da Comissão Eventual de Inquérito com Vista a Averiguar os Actos Administrativos na Área do Ministério da Saúde.»", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Os REDACTORES: Isabel Barral - José Diogo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "DIÁRIO da Assembleia da República", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Depósito legal n.º 8818/85", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "IMPRENSA NACIONAL-CASA DA MOEDA, E. P.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "AVISO", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Por ordem superior e para constar, comunica-se que não serão aceites quaisquer originais destinados ao Diário da República desde que não tragam aposta a competente ordem de publicação, assinada e autenticada com selo branco.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "PORTE PAGO", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "1 - Preço de página para venda avulso, 5$; preço por linha de anúncio, 104$.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "2 - Para os novos assinantes do Diário da Assembleia da República, o período da assinatura será compreendido de Janeiro a Dezembro de cada ano. Os números publicados em Novembro e Dezembro do ano anterior que completam a legislatura serão adquiridos ao preço de capa.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "3 - Os prazos de reclamação de faltas do Diário da República para o continente e regiões autónomas e estrangeiro são, respectivamente, de 30 e 90 dias à data da sua publicação.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "PREÇO DESTE NÚMERO 80$00", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

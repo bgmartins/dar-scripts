@@ -90,8 +90,10 @@
    "type": "continuacao"
   }, 
   {
-   "text": "A Sr.ª *Secretária* (Amélia de Azevedo): Do Grupo Parlamentar do PCP, dirigida ao Sr. Presidente da Assembleia, foi recebida a seguinte carta: \nEx.mo Sr. Presidente da Assembleia da República: \nNos termos e para os efeitos do Decreto-Lei n.º 424A/76, de 29 de Maio,. requeremos a substituição dos Deputados Álvaro Augusto Veiga de Oliveira e Vítor Henrique Louro de Sá - membros do Governo Provisório, eleitos Deputados, respectivamente, pelos distritos de Lisboa e Santarém, pelos candidatos Zita Maria Seabra Roteiro e Carlos Pinhão Correia, situados imediatamente a seguir nas listas dos respectivos círculos eleitorais.\nLisboa, 3 de Junho de 1976. - Pelo Grupo Parlamentar do Partido Comunista Português, Carlos Brito.", 
-   "type": "continuacao"
+   "party": "Amélia de Azevedo", 
+   "speaker": "Secretária", 
+   "text": "Do Grupo Parlamentar do PCP, dirigida ao Sr. Presidente da Assembleia, foi recebida a seguinte carta: \nEx.mo Sr. Presidente da Assembleia da República: \nNos termos e para os efeitos do Decreto-Lei n.º 424A/76, de 29 de Maio,. requeremos a substituição dos Deputados Álvaro Augusto Veiga de Oliveira e Vítor Henrique Louro de Sá - membros do Governo Provisório, eleitos Deputados, respectivamente, pelos distritos de Lisboa e Santarém, pelos candidatos Zita Maria Seabra Roteiro e Carlos Pinhão Correia, situados imediatamente a seguir nas listas dos respectivos círculos eleitorais.\nLisboa, 3 de Junho de 1976. - Pelo Grupo Parlamentar do Partido Comunista Português, Carlos Brito.", 
+   "type": "secretario"
   }, 
   {
    "speaker": "Também do PPD se recebeu carta idêntica,, do seguinte teor", 
@@ -137,36 +139,35 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Estão presentes 221 Srs. Deputados.\nConsidero solenemente aberta a primeira sessão da Assembleia da República.\n_Aplausos gerais, com os Sr. Deputados de pé_.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Estão presentes 221 Srs. Deputados.\nConsidero solenemente aberta a primeira sessão da Assembleia da República.\n_Aplausos gerais, com os Sr. Deputados de pé_.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 15 horas e 40 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos proceder à leitura resumida do expediente que se encontra na Mesa.\nAcontece que algum desse expediente foi dirigido então à Assembleia Constituinte. Entendi que, a despeito de esta Assembleia não ser a Assembleia Constituinte, pelo menos, se devia dar conhecimento desse.\nexpediente. Vai fazer a Sr.ª Secretária o favor de ler o resumo da parte desse expediente e de outro expediente que, entretanto, foi chegando. Não poderá ser hoje todo lido, pois há cartas muito extensas, pelo que será feita a sua leitura na próxima sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vamos proceder à leitura resumida do expediente que se encontra na Mesa.\nAcontece que algum desse expediente foi dirigido então à Assembleia Constituinte. Entendi que, a despeito de esta Assembleia não ser a Assembleia Constituinte, pelo menos, se devia dar conhecimento desse.\nexpediente. Vai fazer a Sr.ª Secretária o favor de ler o resumo da parte desse expediente e de outro expediente que, entretanto, foi chegando. Não poderá ser hoje todo lido, pois há cartas muito extensas, pelo que será feita a sua leitura na próxima sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "A Sr.ª *Secretária* (Amélia de Azevedo): Inúmeros telegramas de congratulação pela aprovação da Constituição, telegramas esses dirigidos ao Presidente da Assembleia Constituinte. Um deles é do seguinte teor: «Trabalhadores da FISIP manifestam profundo regozijo aprovação da Constituição da República Portuguesa .» \nOutro telegrama, de trabalhadores da MOMPOR, congratulando-se pela legislação aprovada sobre comissões trabalhadores.\nO Presidente da Comissão Nacional de Eleições, num telegrama ao Sr.Presidente da Assembleia Constituinte, declara: «Nesta data histórica, em que a Assembleia Constituinte termina os seus trabalhos, dando à Pátria Portuguesa a primeira Constituição Política elaborada por constituintes eleitos livremente depois da queda do fascismo português e da reconquista da liberdade ofendida durante a longa noite de quarenta e oito anos de obscurantismo, a Comissão Nacional de Eleições entende de seu dever manifestar à Assembleia a que V. Ex.ª tão dignamente presidia, além das suas felicitações, a expressão da sua consideração. Aproveita o ensejo para exprimia o voto de que, institucionalizado o regime, se caminhe decididamente para uma era. de justiça social, de liberdade, no respeito mútuo, rumo a uma sociedade nova, pluralista, de pleno respeito pela dignidade humana e de igualdade de oportunidades para todos os portugueses.» \nReceberam-se também, telegramas da comissão de trabalhadores da Tinco; do Sindicato do Comércio de Setúbal; da comissão de delegados sindicais SPE; da comissão de trabalhadores do Arsenal do Alfeite; da comissão de trabalhadores da Câmara Municipal do Barreiro e Serviços \nMunicipalizados; da comissão de unidade de trabalhadores da CUF; da Federação do Sindicato dos Ferroviários; da comissão de trabalhadores e delegados sindicais da Siderurgia Nacional; da CTE da Sores; das comissões sindical. de controle de produção e gestão da Construtora Moderna; da comissão de trabalhadores da Trefilaria; da comissão de trabalhadores da Transul; dos trabalhadores da NAPA - a Sociedade Nacional dos Armadores de Pesca de Arrasto; dos trabalhadores do concelho de Almada; dos trabalhadores da Fábrica de Balanças Portos; um telegrama do secretariado da assembleia popular do concelho do Seixal, comissão Administrativa da Câmara do Seixal e comissão administrativa da Junta de Freguesia de Arrentela; dos trabalhadores da Equimetal, do Barreiro; da comissão de trabalhadores de A. Silva e Silva, do Seixal; das direcções de vários sindicatos dos Metalúrgicos, da Construção Civil, dos Têxteis e dos Ferroviários do Sul; da comissão de trabalhadores da Wilcander, do Seixal; dos trabalhadores da Corame; da comissão de trabalhadores da Fábrica Fima; dos trabalhadores da Lisnave, Siderurgia Nacional e CUF.\nTambém há um telegrama de congratulação de Kiro Gligorov, Presidente da Assembleia da Jugoslávia.\nUma carta manifestando regozijo também por parte dos trabalhadores das firmas Boehrínger Sohn, L.da/Unilfarma.\nUma carta do advogado Marques Miragaia ao Sr. Prof. Henrique de Barros, também de cumprimentos e ainda de congratulação pela aprovação da Constituição.\nUma carta do Prof. Giuseppe Vergottini, professor de Direito de Bolonha, acusando a recepção de", 
-   "type": "documento"
+   "party": "Amélia de Azevedo", 
+   "speaker": "Secretária", 
+   "text": "Inúmeros telegramas de congratulação pela aprovação da Constituição, telegramas esses dirigidos ao Presidente da Assembleia Constituinte. Um deles é do seguinte teor: «Trabalhadores da FISIP manifestam profundo regozijo aprovação da Constituição da República Portuguesa .» \nOutro telegrama, de trabalhadores da MOMPOR, congratulando-se pela legislação aprovada sobre comissões trabalhadores.\nO Presidente da Comissão Nacional de Eleições, num telegrama ao Sr.Presidente da Assembleia Constituinte, declara: «Nesta data histórica, em que a Assembleia Constituinte termina os seus trabalhos, dando à Pátria Portuguesa a primeira Constituição Política elaborada por constituintes eleitos livremente depois da queda do fascismo português e da reconquista da liberdade ofendida durante a longa noite de quarenta e oito anos de obscurantismo, a Comissão Nacional de Eleições entende de seu dever manifestar à Assembleia a que V. Ex.ª tão dignamente presidia, além das suas felicitações, a expressão da sua consideração. Aproveita o ensejo para exprimia o voto de que, institucionalizado o regime, se caminhe decididamente para uma era. de justiça social, de liberdade, no respeito mútuo, rumo a uma sociedade nova, pluralista, de pleno respeito pela dignidade humana e de igualdade de oportunidades para todos os portugueses.» \nReceberam-se também, telegramas da comissão de trabalhadores da Tinco; do Sindicato do Comércio de Setúbal; da comissão de delegados sindicais SPE; da comissão de trabalhadores do Arsenal do Alfeite; da comissão de trabalhadores da Câmara Municipal do Barreiro e Serviços \nMunicipalizados; da comissão de unidade de trabalhadores da CUF; da Federação do Sindicato dos Ferroviários; da comissão de trabalhadores e delegados sindicais da Siderurgia Nacional; da CTE da Sores; das comissões sindical. de controle de produção e gestão da Construtora Moderna; da comissão de trabalhadores da Trefilaria; da comissão de trabalhadores da Transul; dos trabalhadores da NAPA - a Sociedade Nacional dos Armadores de Pesca de Arrasto; dos trabalhadores do concelho de Almada; dos trabalhadores da Fábrica de Balanças Portos; um telegrama do secretariado da assembleia popular do concelho do Seixal, comissão Administrativa da Câmara do Seixal e comissão administrativa da Junta de Freguesia de Arrentela; dos trabalhadores da Equimetal, do Barreiro; da comissão de trabalhadores de A. Silva e Silva, do Seixal; das direcções de vários sindicatos dos Metalúrgicos, da Construção Civil, dos Têxteis e dos Ferroviários do Sul; da comissão de trabalhadores da Wilcander, do Seixal; dos trabalhadores da Corame; da comissão de trabalhadores da Fábrica Fima; dos trabalhadores da Lisnave, Siderurgia Nacional e CUF.\nTambém há um telegrama de congratulação de Kiro Gligorov, Presidente da Assembleia da Jugoslávia.\nUma carta manifestando regozijo também por parte dos trabalhadores das firmas Boehrínger Sohn, L.da/Unilfarma.\nUma carta do advogado Marques Miragaia ao Sr. Prof. Henrique de Barros, também de cumprimentos e ainda de congratulação pela aprovação da Constituição.\nUma carta do Prof. Giuseppe Vergottini, professor de Direito de Bolonha, acusando a recepção de 4 DE JUNHO DE 1976 4", 
+   "type": "secretario"
   }, 
   {
-   "text": "4 DE JUNHO DE 1976 4", 
-   "type": "documento"
-  }, 
-  {
+   "party": "Amélia de Azevedo", 
+   "speaker": "Secretária", 
    "text": "boletins da Assembleia e ainda dando notícia de que iria organizar um seminário sobre a nova Constituição Portuguesa em Bolonha.\nA comissão de trabalhadores da ICESA, preocupada com a recuperação capitalista do País, na qual se insere a medida governamental de suspender injustamente a comissão administrativa da Sociedade de Construções Joaquim Francisco Santos, L.da, apela para o Presidente da Assembleia Constituinte no sentido de impedir a concretização de verdadeiros atentados contra verdadeiros interesses dos trabalhadores.\nEstes são, em resumo, os principais telegramas ao Sr. Presidente da Assembleia Constituinte, na ocasião da aprovação da Constituição.", 
-   "type": "documento"
+   "type": "secretario_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Ficará para amanhã a leitura do resto da correspondência, até porque, pela sua extensão, ainda não houve tempo para os Srs. Secretários fazerem o resumo. Aliás, temos de obedecer ao Regimento que está em vigor, que é o Regimento da Assembleia Constituinte, ou à deliberação tomada nesta Assembleia, no sentido de que todo o expediente seria resumido, embora depois fosse publicado no Diário.\nSrs. Deputados: Antes de propriamente entrar na ordem dos nossos trabalhos, aliás muito resumida e expeditamente, entendo ser meu dever - e faço-o emocionadamente - dirigir-lhes as saudações mais cordiais e mais respeitosas e aos seus respectivos partidos, desejar-lhes as maiores venturas nesta faina a que nos vamos entregar, deveras transcendente para a vida nacional, prometer-lhes, da minha parte, enquanto estiver neste lugar - porque sou um presidente interino -, que desempenharei com total imparcialidade, com total isenção, o cargo para que fui indicado pelo meu partido, e tenho a certeza de que serei correspondido pela generosidade e pela compreensão dos Srs. Deputados.\nSaúdo-os, pois, muito cordialmente.\nTorno extensivos os meus cumprimentos aos representantes da imprensa aqui presentes e outras individualidades que não posso neste momento referenciar detalhadamente e que se encontram nesta Sala.\nDo mesmo modo cumprimento com igual afecto todo o pessoal desta Assembleia, colaboradores muito preciosos nas tarefas que nos incumbem.\nQuero lembrar aos Srs. Deputados que a nossa distribuição na Sala é provisória. Estivemos reunidos por duas ou três vezes para deliberar sobre o problema da colocação dos Srs. Deputados dentro do hemiciclo.\nEstabeleceu-se que a coisa ficaria por hoje como está e os leaders ou representantes dos partidos vão continuar reunidos comigo para ver se encontramos uma solução - espero que a encontraremos - para a instalação definitiva dos Srs. Deputados nos seus respectivos lugares.\nNestas condições, e os últimos são os primeiros, daqui endereço também as minhas respeitosas homenagens ao Sr. Presidente da República e ao Governo. Considero, portanto, preenchida, não' esta praxe, porque não se trata de uma praxe, mas um dever que teria de cumprir para comigo próprio e para com a Assembleia.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Vamos, simplesmente, na sessão de hoje, referir os nomes indicados pelos respectivos partidos para a composição da Comissão de Verificação de Poderes.\nAcontece que vamos exigir dessa Comissão um esforço que reconheço bastante grande, porque amanhã seria indispensável que essa verificação de poderes se fizesse. As pessoas indicadas vão ter em seu poder, dentro de pouco tempo, se os não tiverem já, todos os elementos vindos da comissão eleitoral respectiva, para amanhã, então, procedermos à verificação dos poderes.\nA sessão de amanhã começará às 14 horas. É uma tradição que vem da Assembleia Constituinte, atendendo a que muitos dos Srs. Deputados vivem na província e têm dificuldades em arranjar meios de transporte, nomeadamente comboio e avião.\nA nossa sessão amanhã será, portanto, às 14 horas.\nVerificados os poderes, vamos proceder depois à escolha da comissão que elaborará o projecto do nosso Regimento, com o prazo que lhe for assinalado.\nE amanhã mesmo, segundo foi decidido por acordo unânime dos \nrepresentantes dos partidos nas reuniões a que presidi, teremos também, depois dessa verificação de poderes e da escolha da comissão que vai elaborar o Regimento, uma segunda parte da sessão, em que os representantes dos partidos usarão da palavra, em período não excedente a um quarto de hora, para dizer o que se lhes oferecer, do ponto de vista político, sobre o significado desta Assembleia da República.\nTenho já em meu poder, neste momento, a indicação dos nomes ,para a Comissão de Verificação de Poderes. São os seguintes: (PS) Álvaro Monteiro, António Cândido de Miranda Macedo, António Duarte Arnaut e Nuno Maria Monteiro Godinho de Matos; (PPD) Artur Videira Pinto da Cunha Leal, Nuno Aires Rodrigues dos Santos e Olívio da Silva França; (CDS) Narana Sinai Coissoró e Vítor Afonso Pinto da Cruz; (PCP) Lino Carvalho de Lima e Manuel Mendes Nobre de Gusmão; (UDP) Acácio Manuel de Frias Barreiros.\nEsta sessão, portanto, como aliás é do conhecimento de todos, circunscreve-se hoje unicamente a este ponto: nomeação da Comissão de Verificação de Poderes, cujos nomes acabei de ler. Se não há nenhuma objecção da Assembleia, considero-a sancionada e, portanto, os Srs.Deputados acima indicados poderão começar hoje mesmo os seus trabalhos.\nNão havendo mais nada a tratar, considero encerrada a sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Ficará para amanhã a leitura do resto da correspondência, até porque, pela sua extensão, ainda não houve tempo para os Srs. Secretários fazerem o resumo. Aliás, temos de obedecer ao Regimento que está em vigor, que é o Regimento da Assembleia Constituinte, ou à deliberação tomada nesta Assembleia, no sentido de que todo o expediente seria resumido, embora depois fosse publicado no Diário.\nSrs. Deputados: Antes de propriamente entrar na ordem dos nossos trabalhos, aliás muito resumida e expeditamente, entendo ser meu dever - e faço-o emocionadamente - dirigir-lhes as saudações mais cordiais e mais respeitosas e aos seus respectivos partidos, desejar-lhes as maiores venturas nesta faina a que nos vamos entregar, deveras transcendente para a vida nacional, prometer-lhes, da minha parte, enquanto estiver neste lugar - porque sou um presidente interino -, que desempenharei com total imparcialidade, com total isenção, o cargo para que fui indicado pelo meu partido, e tenho a certeza de que serei correspondido pela generosidade e pela compreensão dos Srs. Deputados.\nSaúdo-os, pois, muito cordialmente.\nTorno extensivos os meus cumprimentos aos representantes da imprensa aqui presentes e outras individualidades que não posso neste momento referenciar detalhadamente e que se encontram nesta Sala.\nDo mesmo modo cumprimento com igual afecto todo o pessoal desta Assembleia, colaboradores muito preciosos nas tarefas que nos incumbem.\nQuero lembrar aos Srs. Deputados que a nossa distribuição na Sala é provisória. Estivemos reunidos por duas ou três vezes para deliberar sobre o problema da colocação dos Srs. Deputados dentro do hemiciclo.\nEstabeleceu-se que a coisa ficaria por hoje como está e os leaders ou representantes dos partidos vão continuar reunidos comigo para ver se encontramos uma solução - espero que a encontraremos - para a instalação definitiva dos Srs. Deputados nos seus respectivos lugares.\nNestas condições, e os últimos são os primeiros, daqui endereço também as minhas respeitosas homenagens ao Sr. Presidente da República e ao Governo. Considero, portanto, preenchida, não' esta praxe, porque não se trata de uma praxe, mas um dever que teria de cumprir para comigo próprio e para com a Assembleia.\nVamos, simplesmente, na sessão de hoje, referir os nomes indicados pelos respectivos partidos para a composição da Comissão de Verificação de Poderes.\nAcontece que vamos exigir dessa Comissão um esforço que reconheço bastante grande, porque amanhã seria indispensável que essa verificação de poderes se fizesse. As pessoas indicadas vão ter em seu poder, dentro de pouco tempo, se os não tiverem já, todos os elementos vindos da comissão eleitoral respectiva, para amanhã, então, procedermos à verificação dos poderes.\nA sessão de amanhã começará às 14 horas. É uma tradição que vem da Assembleia Constituinte, atendendo a que muitos dos Srs. Deputados vivem na província e têm dificuldades em arranjar meios de transporte, nomeadamente comboio e avião.\nA nossa sessão amanhã será, portanto, às 14 horas.\nVerificados os poderes, vamos proceder depois à escolha da comissão que elaborará o projecto do nosso Regimento, com o prazo que lhe for assinalado.\nE amanhã mesmo, segundo foi decidido por acordo unânime dos \nrepresentantes dos partidos nas reuniões a que presidi, teremos também, depois dessa verificação de poderes e da escolha da comissão que vai elaborar o Regimento, uma segunda parte da sessão, em que os representantes dos partidos usarão da palavra, em período não excedente a um quarto de hora, para dizer o que se lhes oferecer, do ponto de vista político, sobre o significado desta Assembleia da República.\nTenho já em meu poder, neste momento, a indicação dos nomes ,para a Comissão de Verificação de Poderes. São os seguintes: (PS) Álvaro Monteiro, António Cândido de Miranda Macedo, António Duarte Arnaut e Nuno Maria Monteiro Godinho de Matos; (PPD) Artur Videira Pinto da Cunha Leal, Nuno Aires Rodrigues dos Santos e Olívio da Silva França; (CDS) Narana Sinai Coissoró e Vítor Afonso Pinto da Cruz; (PCP) Lino Carvalho de Lima e Manuel Mendes Nobre de Gusmão; (UDP) Acácio Manuel de Frias Barreiros.\nEsta sessão, portanto, como aliás é do conhecimento de todos, circunscreve-se hoje unicamente a este ponto: nomeação da Comissão de Verificação de Poderes, cujos nomes acabei de ler. Se não há nenhuma objecção da Assembleia, considero-a sancionada e, portanto, os Srs.Deputados acima indicados poderão começar hoje mesmo os seus trabalhos.\nNão havendo mais nada a tratar, considero encerrada a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 15 horas e 50 minutos.", 
@@ -175,72 +176,87 @@
   {
    "speaker": "Srs. Deputados impedidos em funções governamentais", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados impedidos em funções governamentais", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados impedidos em funções governamentais", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nVítor Henrique Louro e Sá.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados impedidos em funções governamentais", 
    "text": "Partido Popular Democrático (PPD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados impedidos em funções governamentais", 
    "text": "Albino Aroso Ramos.\nAmândio Anes de Azevedo.\nAntónio Luciano Pacheco de Sousa Franco.\nJoaquim Jorge de Magalhães Saraiva Mota.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados impedidos em funções governamentais", 
    "text": "6 DIÁRIO DA ASSEMBLEIA DA REPÚBLICA N.º 1", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados impedidos em funções governamentais", 
    "text": "Joaquim da Silva Lourenço.\nJosé António Nunes Furtado Fernandes.\nJosé Bento Gonçalves.\nJosé Manuel Menores de Sampaio Pimentel.\nJosé Manuel Ribeiro Sérvulo Correia.\nRui Manuel Parente Chancerelle de Manchete.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados impedidos em funções governamentais", 
    "text": "Partido Socialista (PS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados impedidos em funções governamentais", 
    "text": "António Francisco Barroso de Sousa Gomes.\nAntónio Machado Rodrigues.\nAntónio Manuel Maldonado Gonelha.\nAntónio Miguel de Morais Barreto.\nAntónio Poppe Lopes Cardoso.\nArmando Filipe Cerejeira Pereira Bacelar.\nCarlos Alberto Andrade Neves.\nEduardo Ribeiro. Pereira.\nFrancisco d'Almeida Salgado Zenha.\nFrancisco Manuel Marcelo Monteiro Curto.\nHerlânder dos Santos Estrela.\nJoaquim Jorge de Pinho Campinos.\nJosé Manuel Medeiros Ferreira.\nLuís Filipe Nascimento Madeira.\nLuís Manuel Cidade Pereira de Moura..\nManuel Alfredo Titto de Morais.\nManuel Branco Ferreira Lima.\nPedro Amadeu de Albuquerque Santos Coelho.\nVítor Manuel Ribeiro Constâncio.\nWalter Ruivo Pinto Gomes Rosa.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Srs. Deputados que faltaram à Sessão", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à Sessão", 
    "text": "Centro democrático Social (CDS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à Sessão", 
    "text": "António Simões Costa.\nCarlos Galvão de Melo.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à Sessão", 
    "text": "Partido- Popular Democrático (PPD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à Sessão", 
    "text": "António Augusto Lacerda de Queiroz.\nArnaldo Ângelo de Brito Lhamas.\nJoão Gabriel Soeiro Carvalho.\nMário Fernando de Campos Pinto.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à Sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à Sessão", 
    "text": "António Jorge Oliveira Aires Rodrigues.\nHerculano Rodrigues Pires.\nJosé Maximiniano de Albuquerque de Almeida Leitão.\nRaúl da Assunção Pimenta Rego.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à Sessão", 
    "text": "O CHEFE DOS SERVIÇOS DE REDACÇÃO, Januário Pinto.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

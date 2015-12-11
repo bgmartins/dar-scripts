@@ -1506,10 +1506,10 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "PS", 
-   "speaker": "Alberto Martins", 
-   "text": "O Sr. *Bernardino Soares* (PCP): Sabemos! Sabemos!", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Sabemos! Sabemos!", 
+   "type": "deputado_aparte"
   }, 
   {
    "party": "BE", 

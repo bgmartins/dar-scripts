@@ -33,8 +33,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 30 minutos.", 
@@ -43,7 +44,7 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD", 
@@ -116,51 +117,47 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos agendada para hoje a discussão dos pedidos de inquérito parlamentar n.ºs 11/VI e 12/VI, ambos apresentados pelo PSD, e começaríamos, obviamente, pelo primeiro.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos agendada para hoje a discussão dos pedidos de inquérito parlamentar n.ºs 11/VI e 12/VI, ambos apresentados pelo PSD, e começaríamos, obviamente, pelo primeiro.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Secretário de Estado dos Assuntos Parlamentares (Luís Filipe Menezes): Peço a palavra, Sr. Presidente, para interpelar a Mesa.", 
-   "type": "deputado_continuacao"
+   "text": "Peço a palavra, Sr. Presidente, para interpelar a Mesa.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Secretário de Estado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Secretário de Estado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* de Estado dos Assuntos Parlamentares: Sr.Presidente, peço a V. Ex.ª o favor de consultar, querendo, os diferentes grupos parlamentares no sentido de saber se não vêem inconveniente em inverter a ordem da discussão dos dois inquéritos parlamentares que constam da ordem do dia, procedendo-se em primeiro lugar à discussão do inquérito parlamentar n.º 12/VI.", 
-   "type": "deputado_continuacao"
+   "speaker": "Secretário", 
+   "text": "Sr.Presidente, peço a V. Ex.ª o favor de consultar, querendo, os diferentes grupos parlamentares no sentido de saber se não vêem inconveniente em inverter a ordem da discussão dos dois inquéritos parlamentares que constam da ordem do dia, procedendo-se em primeiro lugar à discussão do inquérito parlamentar n.º 12/VI.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: A Mesa não vê qualquer inconveniente, Sr.Secretário de Estado.\nHá alguma objecção a que se proceda pela forma solicitada pelo Sr.Secretário de Estado?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "A Mesa não vê qualquer inconveniente, Sr.Secretário de Estado.\nHá alguma objecção a que se proceda pela forma solicitada pelo Sr.Secretário de Estado?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Não havendo objecções, procederemos de acordo com o que acabou de ser requerido, passando de imediato à discussão do inquérito parlamentar n.º 12/VI - Sobre a natureza e extensão de alegadas irregularidades na gestão de subsídios provenientes de fundos comunitários destinados à agricultura portuguesa, no que se refere à Cooperativa Agrícola de Torres Vedras (PSD).\nPara uma intervenção, tem a palavra o Sr. Deputado Antunes da Silva.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Antunes da Silva* (PSD): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Para melhor se avaliar este pedido de inquérito, apresentado pelo Grupo Parlamentar do PSD, é oportuno recordar alguns acontecimentos ocorridos nesta Câmara e fora dela.\nQuando, salvo erro em Fevereiro, o Partido Socialista, através de uma intervenção do Sr. Deputado António Campos, suscitou aqui a questão de alegadas irregularidades na aplicação de fundos comunitários e nacionais destina-", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Antunes da Silva", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Para melhor se avaliar este pedido de inquérito, apresentado pelo Grupo Parlamentar do PSD, é oportuno recordar alguns acontecimentos ocorridos nesta Câmara e fora dela.\nQuando, salvo erro em Fevereiro, o Partido Socialista, através de uma intervenção do Sr. Deputado António Campos, suscitou aqui a questão de alegadas irregularidades na aplicação de fundos comunitários e nacionais destina- 1966 I SÉRIE - NÚMERO 60", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "1966 I SÉRIE - NÚMERO 60", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Antunes da Silva", 
    "text": "dos à agricultura, desde logo o meu grupo parlamentar, muito particularmente pela voz do seu líder, manifestou inteira \ndisponibilidade para que situações que surgissem como menos correctas pudessem ser apreciadas e clarificadas. Nesse sentido, lançou ao Partido Socialista o repto de apresentar casos que indiciassem razoavelmente essas mesmas irregularidades.\nO Partido Socialista não o fez e, tal como tinha anunciado na referida intervenção do Sr. Deputado António Campos, veio a apresentar um pedido de inquérito parlamentar. Nesse momento, uma vez mais, a bancada do PSD reiterou essa receptividade e lançou ao Partido Socialista o repto no sentido de que, se tivesse conhecimento de casos que indiciassem razoavelmente essas irregularidades, os apresentasse, o que também não foi feito.\nPor isso, o meu grupo parlamentar, abordando, em conferência de imprensa, esta questão, decidiu a apresentação do presente pedido de inquérito. Fê-lo bem, a meu ver, porque, quando apreciámos o pedido de inquérito do Partido Socialista, dissemos muito claramente que também nós buscávamos a verdade e a clareza das situações. Não podíamos era fazer as extrapolações que o Partido Socialista fazia no seu pedido de inquérito e cujos termos foi convidado a alterar, o que não aconteceu.\nDaí a razão de ser do pedido de inquérito por nós apresentado.\nQue fique, no entanto, claro - penso ninguém ter dúvidas disso - que em todas as circunstâncias o meu grupo parlamentar manifestou \nreceptividade para apurar a realidade das situações. O que não podíamos nem podemos aceitar é que, partindo de um caso de alegada \nirregularidade, se façam extrapolações como as que o Partido Socialista pretendeu fazer, rodeando-as -permita-se-me a expressão - de show off, aqui e fora desta Casa.\nÉ com esta preocupação que hoje discutimos o pedido de inquérito parlamentar n.º 12/VI, apresentado pelo meu partido, que tem como ponto de partida actos ocorridos na Cooperativa Agrícola de Torres Vedras.\nTrata-se, de facto, de uma situação em que existem os tais «indícios razoáveis» para serem apreciados.\nNos termos da própria lei dos inquéritos, este fedido, para ser aprovado, como pensamos que acontecerá, terá de ser remetido à Procuradoria-Geral da República e, então, só depois se verá que apuramento teremos de fazer.\nDesde logo, propomo-nos a «apurar o comportamento e diligências do Ministério da Agricultura face à divulgação pública de eventuais irregularidades na utilização de fundos comunitários e de outras verbas públicas ou subsídios destinados à modernização da agricultura nacional e à reconversão de estruturas, por parte da Cooperativa Agrícola de Torres Vedras» - citei a resolução que foi oportunamente aprovada.\nNeste termos, e com inteira clareza, pensamos que faz sentido este voto do PSD, merecendo, por isso, da nossa parte e, segundo penso, dos restantes grupos parlamentares, um voto de concordância para que, uma vez mais e partindo desta situação concreta, se possam clarificar situações de forma que não subsistam quaisquer dúvidas, mas que também, a partir delas, não se possa fazer a extrapolação que em tempo se pretendeu, abarcando assim um universo de agentes económicos que merecem o nosso respeito e que são pessoas cuja dignidade deve ser salvaguardada.", 
    "type": "deputado_continuacao"
   }, 
@@ -169,221 +166,220 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Lino de Carvalho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Lino de Carvalho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Lino de Carvalho* (PCP): Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Este inquérito tem uma história que se relaciona com o conjunto diversificado de indícios de irregularidades e fraudes que tem acompanhado a aplicação dos fundos comunitários em Portugal, particularmente na área da agricultura.\nCom este inquérito parlamentar, reduzido a um conjunto de documentos que, a título exemplificativo, um Sr. Deputado trouxe a esta Câmara, o que o PSD procura é escamotear essa história, procurando fugir à questão de fundo que está subjacente aos documentos e aos elementos concretos que vieram a público em relação à Cooperativa de Torres Vedras.\nNão pode o PSD ignorar que, na sequência do próprio debate que se gerou, a propósito do caso concreto da Cooperativa Agrícola de Torres Vedras, outros casos vieram ao conhecimento da opinião pública: recordo o caso da Cooperativa dos Produtores Agrícolas de Santarém, bem como todo o funcionamento e toda a promiscuidade entre a chamada Cooperativa do Desenvolvimento Agrícola (CDA), afecta à CAP, e o Governo; recordo, igualmente, os processos em curso relativos à chamada Cooperativa do Leite das Caldas da Rainha e os processos referentes à aplicação do Plano de Acção Florestal.\nSr. Deputado Antunes da Silva, e como se isso não bastasse, temos hoje um novo «caso Braga de Macedo», que veio a público na comunicação social: o recomeço de uma nova herdade e de uma nova concessão de subsídios, de forma irregular, aos familiares do Sr. Ministro das Finanças que, ao que parece, apressadamente, procuraram fazer uma escritura notarial para mudar o registo do título de propriedade da herdade.\nIsto é, há variadíssimos e diversificados casos concretos que têm vindo a público, quer através da comunicação social quer por debate e denúncias trazidas aqui, ao Plenário da Assembleia da República, pelos vários grupos parlamentares da oposição, que prefiguram um conjunto de irregularidades que vão muito para além do caso concreto da Cooperativa Agrícola de Torres Vedras.\nCom efeito, e como pano de fundo destes diversificados casos, agiganta-se, de facto, todo o processo de aplicação dos fundos comunitários para a agricultura em Portugal e toda a eficácia e consequências práticas dessa aplicação para a transformação, que tão necessária seria, da agricultura portuguesa.\nEra com esta latitude que o inquérito seria bem-vindo. Porém, com esta limitação ao caso da Cooperativa Agrícola de Torres Vedras, este é um inquérito que vale o que vale em relação a estes elementos concretos.\nMas, na realidade, o que o PSD pretende com ele, face à demonstração pública de irregularidades diversificadas, é fugir à averiguação de todo o conjunto de problemas que vieram a público; é fugir ao debate, em sede de comissão de inquérito, de todo o conjunto de irregularidades e fraudes e de toda a problemática da aplicação dos fundos comunitários para a agricultura em Portugal.\nA «floresta» é muito mais ampla e, porventura, muito mais importante e significativa do que o caso aqui trazido, o caso da Cooperativa Agrícola de Torres Vedras. Nesse sentido, é toda essa realidade que o PSD não quer ver inquirida ao procurar limitar o inquérito a este caso concreto. Todavia, é essa realidade que é preciso, também, inquirir.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Lino de Carvalho", 
+   "text": "Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Este inquérito tem uma história que se relaciona com o conjunto diversificado de indícios de irregularidades e fraudes que tem acompanhado a aplicação dos fundos comunitários em Portugal, particularmente na área da agricultura.\nCom este inquérito parlamentar, reduzido a um conjunto de documentos que, a título exemplificativo, um Sr. Deputado trouxe a esta Câmara, o que o PSD procura é escamotear essa história, procurando fugir à questão de fundo que está subjacente aos documentos e aos elementos concretos que vieram a público em relação à Cooperativa de Torres Vedras.\nNão pode o PSD ignorar que, na sequência do próprio debate que se gerou, a propósito do caso concreto da Cooperativa Agrícola de Torres Vedras, outros casos vieram ao conhecimento da opinião pública: recordo o caso da Cooperativa dos Produtores Agrícolas de Santarém, bem como todo o funcionamento e toda a promiscuidade entre a chamada Cooperativa do Desenvolvimento Agrícola (CDA), afecta à CAP, e o Governo; recordo, igualmente, os processos em curso relativos à chamada Cooperativa do Leite das Caldas da Rainha e os processos referentes à aplicação do Plano de Acção Florestal.\nSr. Deputado Antunes da Silva, e como se isso não bastasse, temos hoje um novo «caso Braga de Macedo», que veio a público na comunicação social: o recomeço de uma nova herdade e de uma nova concessão de subsídios, de forma irregular, aos familiares do Sr. Ministro das Finanças que, ao que parece, apressadamente, procuraram fazer uma escritura notarial para mudar o registo do título de propriedade da herdade.\nIsto é, há variadíssimos e diversificados casos concretos que têm vindo a público, quer através da comunicação social quer por debate e denúncias trazidas aqui, ao Plenário da Assembleia da República, pelos vários grupos parlamentares da oposição, que prefiguram um conjunto de irregularidades que vão muito para além do caso concreto da Cooperativa Agrícola de Torres Vedras.\nCom efeito, e como pano de fundo destes diversificados casos, agiganta-se, de facto, todo o processo de aplicação dos fundos comunitários para a agricultura em Portugal e toda a eficácia e consequências práticas dessa aplicação para a transformação, que tão necessária seria, da agricultura portuguesa.\nEra com esta latitude que o inquérito seria bem-vindo. Porém, com esta limitação ao caso da Cooperativa Agrícola de Torres Vedras, este é um inquérito que vale o que vale em relação a estes elementos concretos.\nMas, na realidade, o que o PSD pretende com ele, face à demonstração pública de irregularidades diversificadas, é fugir à averiguação de todo o conjunto de problemas que vieram a público; é fugir ao debate, em sede de comissão de inquérito, de todo o conjunto de irregularidades e fraudes e de toda a problemática da aplicação dos fundos comunitários para a agricultura em Portugal.\nA «floresta» é muito mais ampla e, porventura, muito mais importante e significativa do que o caso aqui trazido, o caso da Cooperativa Agrícola de Torres Vedras. Nesse sentido, é toda essa realidade que o PSD não quer ver inquirida ao procurar limitar o inquérito a este caso concreto. Todavia, é essa realidade que é preciso, também, inquirir.\n17 DE ABRIL DE 1993 1967", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "17 DE ABRIL DE 1993 1967", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "Lino de Carvalho", 
    "text": "Pela nossa parte, diremos que este pedido de inquérito do PSD tem, de facto, um alcance muito limitado, pelo que a sua eficácia irá ser também limitada.\nO desafio que aqui deixamos é o seguinte: estará o PSD disponibilizado para alargar o seu pedido de inquérito, fixado na Cooperativa Agrícola de Torres Vedras, aos outros casos que vieram a público e, \ndesignadamente, ao que veio a público na imprensa deste fim-de-semana, ligado ao Sr. Ministro Braga de Macedo? Está o PSD disponível para fazer o alargamento do inquérito a esses variadíssimos casos, já suficientemente relatados na comunicação social e, enfim, em várias áreas da vida nacional? \nEra bom que o PSD respondesse positivamente a este desafio, para provar -como, aliás, o Sr. Secretário de Estado tem dito, sempre que cá vem - que quem não deve não teme! \nVamos, pois, não nos limitar a meia dúzia de recibos que aqui nos foram trazidos, mas, sim, fazer um inquérito global aos fundos comunitários e à sua aplicação na agricultura.\nÉ este o desafio que deixamos aqui ao PSD e é esta a nossa posição sobre este pedido de inquérito parlamentar.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "Lino de Carvalho", 
    "text": "O Sr. *Octávio Teixeira* (PCP): -Muito bem!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado Antunes da Silva.", 
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado Antunes da Silva.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Antunes da Silva", 
+   "text": "Sr. Presidente, Sr. Deputado Lino de Carvalho, V. Ex.ª desiludiu-me, pois pensava que só o Partido Socialista é que funcionava em função da comunicação social, mas, hoje, o meu querido amigo fez o mesmo ao trazer aqui o «caso Braga de Macedo».", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Octávio Teixeira", 
+   "text": "Vamos, então, ao «caso Braga de Macedo»!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "O alegado caso que a ele vem associado nas páginas de um jornal de hoje. Penso que esta não é uma forma muito digna de abordar esse caso concreto que referiu sobre o Ministro Braga de Macedo.\nNo que se refere às questões que o Sr. Deputado levantou na sua intervenção, começo por lhe perguntar -e depois justificarei o meu pedido de esclarecimento - se V. Ex.ª pretende converter um pedido de inquérito num processo de intenções. Isto pela simples razão de que este pedido de inquérito deu entrada na Mesa no dia 17 de Março, na sequência daquilo que afirmei, ou seja, da apresentação dos tais indícios razoáveis sobre um caso concreto.\nFoi nessa base que apresentámos este pedido de inquérito. É, portanto, sobre ele que temos de nos pronunciar. Não faz sentido, Sr. Deputado, que venha agora invocar eventuais casos que ocorreram em data posterior. É, portanto, neste sentido que digo que, quando apresentamos um pedido de inquérito, estamos a fazê-lo a um processo de intenções, porque não sabemos o que é que pode surgir depois da data em que foi apresentado.\nV. Ex.ª pretende transformar este pedido de inquérito num processo de intenções? \nEm relação às questões que colocou, quero dizer-lhe que o PSD está sempre disponível, como manifestou, e tem interesse e vontade política em clarificar todas as situações que surjam como irregulares, mas não actuamos em função do que dizem os jornais.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Antunes da Silva* (PSD): Sr. Presidente, Sr. Deputado Lino de Carvalho, V. Ex.ª desiludiu-me, pois pensava que só o Partido Socialista é que funcionava em função da comunicação social, mas, hoje, o meu querido amigo fez o mesmo ao trazer aqui o «caso Braga de Macedo».", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Octávio Teixeira* (PCP): Vamos, então, ao «caso Braga de Macedo»!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: O alegado caso que a ele vem associado nas páginas de um jornal de hoje. Penso que esta não é uma forma muito digna de abordar esse caso concreto que referiu sobre o Ministro Braga de Macedo.\nNo que se refere às questões que o Sr. Deputado levantou na sua intervenção, começo por lhe perguntar -e depois justificarei o meu pedido de esclarecimento - se V. Ex.ª pretende converter um pedido de inquérito num processo de intenções. Isto pela simples razão de que este pedido de inquérito deu entrada na Mesa no dia 17 de Março, na sequência daquilo que afirmei, ou seja, da apresentação dos tais indícios razoáveis sobre um caso concreto.\nFoi nessa base que apresentámos este pedido de inquérito. É, portanto, sobre ele que temos de nos pronunciar. Não faz sentido, Sr. Deputado, que venha agora invocar eventuais casos que ocorreram em data posterior. É, portanto, neste sentido que digo que, quando apresentamos um pedido de inquérito, estamos a fazê-lo a um processo de intenções, porque não sabemos o que é que pode surgir depois da data em que foi apresentado.\nV. Ex.ª pretende transformar este pedido de inquérito num processo de intenções? \nEm relação às questões que colocou, quero dizer-lhe que o PSD está sempre disponível, como manifestou, e tem interesse e vontade política em clarificar todas as situações que surjam como irregulares, mas não actuamos em função do que dizem os jornais.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "O Sr. *Carlos Coelho* (PSD): -Muito bem!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Se o Sr. Deputado tem, como nós sempre aqui dissemos, situações concretas que mereçam ser inquiridas, manifestamos, uma vez mais, o nosso interesse e vontade política em o fazer.", 
+   "speaker": "O Orador", 
+   "text": "Se o Sr. Deputado tem, como nós sempre aqui dissemos, situações concretas que mereçam ser inquiridas, manifestamos, uma vez mais, o nosso interesse e vontade política em o fazer.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Coelho* (PSD): Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: -Mas, Sr. Deputado Lino de Carvalho, não o faremos porque vem no jornal x, y ou z, porque não é sério nem razoavelmente aceite que se possa actuar nessa base ou em função dessas informações.\nRepito, Sr. Deputado: o PSD está sempre disponível e interessado em apurar a verdade e clarificar as situações. Portanto, se há situações concretas que o Sr. Deputado possa invocar, como sempre temos vindo a reinvindicar - e daí o nosso pedido de inquérito -, pode ter a certeza que nós, em função dessa realidade, actuaremos em conformidade.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Muito bem!\nO Orador: -Mas, Sr. Deputado Lino de Carvalho, não o faremos porque vem no jornal x, y ou z, porque não é sério nem razoavelmente aceite que se possa actuar nessa base ou em função dessas informações.\nRepito, Sr. Deputado: o PSD está sempre disponível e interessado em apurar a verdade e clarificar as situações. Portanto, se há situações concretas que o Sr. Deputado possa invocar, como sempre temos vindo a reinvindicar - e daí o nosso pedido de inquérito -, pode ter a certeza que nós, em função dessa realidade, actuaremos em conformidade.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Lino de Carvalho.", 
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Lino de Carvalho.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Lino de Carvalho", 
+   "text": "Sr. Presidente, Sr. Deputado Antunes da Silva, mesmo que os indícios de irregularidades e fraudes viessem só pela comunicação social, não teríamos qualquer pejo em entender, se essas notícias fossem suficientemente fortes, que a Assembleia da República lhe deveria dar a melhor das atenções.\nA comunicação social, através do jornalismo de investigação sério, tem uma função importante nesta matéria, que é a de tornar mais \ntransparente a vida pública do País. Recordo, Sr. Deputado, que o primeiro «caso Braga de Macedo» veio a lume também através da comunicação social e que, na altura, o PSD, baseado nela, não teve qualquer problema em desencadear, ele próprio, aqui na Assembleia da República, o processo de averiguações ou de audição do ministro para esclarecer a verdade.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Antunes da Silva", 
+   "text": "Dá-me licença que o interrompa, Sr.Deputado?", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Faça favor.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Lino de Carvalho* (PCP): Sr. Presidente, Sr. Deputado Antunes da Silva, mesmo que os indícios de irregularidades e fraudes viessem só pela comunicação social, não teríamos qualquer pejo em entender, se essas notícias fossem suficientemente fortes, que a Assembleia da República lhe deveria dar a melhor das atenções.\nA comunicação social, através do jornalismo de investigação sério, tem uma função importante nesta matéria, que é a de tornar mais \ntransparente a vida pública do País. Recordo, Sr. Deputado, que o primeiro «caso Braga de Macedo» veio a lume também através da comunicação social e que, na altura, o PSD, baseado nela, não teve qualquer problema em desencadear, ele próprio, aqui na Assembleia da República, o processo de averiguações ou de audição do ministro para esclarecer a verdade.", 
+   "party": "PSD", 
+   "speaker": "Antunes da Silva", 
+   "text": "Sr. Deputado Lino de Carvalho, é apenas para esclarecer e, no fundo, acentuar que me deu razão. No «caso Braga de Macedo», que o senhor referiu que actuaram em função da comunicação social, veio, depois, a demonstrar-se que o que ela dizia não era verdadeiro.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Não sei se se veio a demonstrar, pois nem todos têm essa opinião. Houve, de facto, irregularidades, e tanto as houve que os beneficiários dos subsídios irregulares tiveram de devolver parte deles ao IFADAP, o que prova que o que veio a público não era falso.\nDe qualquer forma, a questão de fundo é esta: o PSD tem dois pesos e duas medidas? Quando foi do primeiro «caso Braga de Macedo» bastou que a comunicação social o tivesse invocado para o PSD desencadear um processo de audição do ministro; agora, neste segundo, a", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Antunes da Silva* (PSD): Dá-me licença que o interrompa, Sr.Deputado?", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Faça favor.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Antunes da Silva* (PSD): Sr. Deputado Lino de Carvalho, é apenas para esclarecer e, no fundo, acentuar que me deu razão. No «caso Braga de Macedo», que o senhor referiu que actuaram em função da comunicação social, veio, depois, a demonstrar-se que o que ela dizia não era verdadeiro.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Não sei se se veio a demonstrar, pois nem todos têm essa opinião. Houve, de facto, irregularidades, e tanto as houve que os beneficiários dos subsídios irregulares tiveram de devolver parte deles ao IFADAP, o que prova que o que veio a público não era falso.\nDe qualquer forma, a questão de fundo é esta: o PSD tem dois pesos e duas medidas? Quando foi do primeiro «caso Braga de Macedo» bastou que a comunicação social o tivesse invocado para o PSD desencadear um processo de audição do ministro; agora, neste segundo, a", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "1968 I SÉRIE - NÚMERO 60", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "que o Sr. Ministro se encontra ligado e que vem hoje na comunicação social, o PSD invoca que o que diz a comunicação social não é suficiente! \nSr. Deputado, como sabe, não se trata de meros casos de comunicação social. Recordo que, já antes do processo ter sido desencadeado, o actual presidente da Cooperativa Agrícola de Santarém veio a público revelar e afirmar que, em relação à sua cooperativa, também havia, na articulação de dirigentes da CAP com o Ministério da Agricultura, muitos casos de promiscuidade, troca de favores e corrupção.\nPor outro lado, recordo também o que veio na comunicação social, e que está aqui - eu próprio trouxe alguns elementos - ligado ao problema do Plano de Acção Florestal e das próprias zonas de caça.\nA Cooperativa Agrícola das Caldas Rainha tem um processo de \naveriguações em curso relacionado com o desvio de verbas, que foi, aliás, aqui confirmado pelo Secretário de Estado.\nNão se trata, pois, de simples casos de comunicação social, nem de processos de intenções; trata-se, sim, de casos concretos, confirmados, com documentação e com confirmação por parte de membros do Governo.\nPortanto, os Srs. Deputados querem escamotear a verdade ao reduzirem o inquérito a meia dúzia de recibos da Cooperativa Agrícola de Torres Vedras.\nNão diminuo a importância do caso da Cooperativa Agrícola de Torres Vedras como um caso paradigmático e exemplificativo do que o sistema permissivo de subsidiação à agricultura, que o Governo proeurou criar, está a proporcionar, com irregularidades, alta traficância e promiscuidade entre o Governo e certos sectores da agricultura nacional a favor dos políticos.\nNão diminuo a importância do caso da Cooperativa Agrícola de Torres Vedras, mas penso que ele deve ser inserido no contexto muito mais amplo da aplicação dos fundos comunitários e do conjunto das irregularidades.\nO PSD vai ter muito trabalho, porque, todas as semanas, pode vir a ter de aprovar aqui inquéritos sobre os mais variados documentos concretos que, porventura, todos nós estamos em condições de trazer aqui em relação aos vários sectores da agricultura. Se calhar, até para racionalizar o trabalho, seria preferível inserirmos estes casos num grande inquérito à aplicação dos fundos comunitários para a \nagricultura, em Portugal. É isso que o PSD quer escamotear e é isso que o PSD não quer fazer!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Antunes da Silva* (PSD): Peço a palavra para interpelar a Mesa, Sr. Presidente.", 
+   "party": "PSD", 
+   "speaker": "Antunes da Silva", 
+   "text": "Peço a palavra para interpelar a Mesa, Sr. Presidente.", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra para esse efeito, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Antunes da Silva", 
+   "text": "Sr. Presidente, uma vez que o PSD foi acusado de que tem dois pesos e duas medidas relativamente ao «caso Braga de Macedo» e que o teria apreciado em função de notícias inseridas em jornais, pergunto à Mesa se é possível informar-nos se a actuação da Assembleia da República foi ou não na sequência de um pedido do próprio Braga de Macedo para que tal caso fosse apreciado.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "A Mesa confirma que assim foi! Para uma intervenção, tem a palavra o Sr. Deputado António Lobo Xavier.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "CDS", 
+   "speaker": "António Lobo Xavier", 
+   "text": "Sr. Presidente, Srs. Deputados: \nEstamos aqui a repetir, a contragosto, uma argumentação acerca dos pedidos de inquérito e, fatalmente, todos os Deputados são levados a falar, em tese geral, sobre o instituto do inquérito.\nJá fizémos essas reflexões, já sabemos quais são as opiniões e como é que os diferentes partidos «tratam» o inquérito, pelo que quero começar por dizer que talvez algumas coisas não estejam ainda completamento claras.\nEm nome do CDS, quero dizer que actuamos na sequência do que diz a comunicação social credível e é evidente que não pode ser de outra forma. Não somos polícias, investigadores ou jornalistas de \ninvestigação e quando os jornais ou os jornalistas, com a \nresponsabilidade que lhes é inerente, fazem denúncias, obviamente depois de medir a credibilidade dos denunciantes, dos jornalistas e dos órgãos de informação, agimos na sequência dos aleitas da comunicação social sem qualquer problema de consciência.\nPortanto, não temos receio algum de dizer que, por vezes, somos alertados para os problemas deste tipo a partir de notícias da comunicação social.\nNão quero deixar de referir também que, de facto, o inquérito que hoje é proposto pelo PSD já foi discutido numa outra dimensão, quando o Sr.Deputado António Campos aqui discutiu a regularidade da aplicação dos fundos comunitários destinados à agricultura portuguesa. Nessa altura, eu próprio lhe perguntei se o que o preocupava era concretamente aquela cooperativa ou se as suas acusações eram de âmbito mais geral. Em resposta, o Sr. Deputado António Campos disse aqui que aquela era uma acusação geral à aplicação dos fundos da responsabilidade do Ministério da Agricultura.\nNa ideia que tenho sobre a função do inquérito, este deve bastar-se com a acusação de um Deputado, nos termos em que o Sr. Deputado António Campos aqui a fez. Isto é, se nós próprios não damos importância às acusações gravíssimas que um de nós faz aqui dentro, não sei, então, que dignidade e responsabilidade reconhecemos uns aos outros.\nPorque é que o PSD negou esse inquérito, nos termos em que o Sr.Deputado António Campos o propôs? Julgo que no PSD existe, por vezes, uma reacção de defesa em relação aos inquéritos absolutamente incompreensível, porventura baseada na ideia de que o inquérito faz mal, agride, minimiza.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Vozes do PSD", 
+   "text": "Mas somos nós que o estamos a apresentar!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Porém, o inquérito não faz mal, não minimiza. Pelo contrário, um inquérito bem conduzido e com intervenções responsáveis tanto serve para condenar como para absolver, com a mesma eficácia e publicidade.\nÉ evidente que vamos votar este inquérito nos termos em que o PSD o propõe, embora fiquemos intranquilos com o facto de permanecerem no vácuo as acusações gravíssimas que o Sr. Deputado António Campos fez.\nNão temos meios para dizer se ele tem ou não razão, não alinhamos a seu lado para fazer essas acusações, mas lamentamos que não se venha a saber se a acusação feita por um Deputado o foi de um modo responsável ou irresponsável.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Antunes da Silva", 
+   "text": "Não temos medo dos inquéritos! Tanto é assim que até os apresentamos...\n17 DE ABRIL DE 1993 1969", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Não tenho mais inscrições para a discussão do inquérito parlamentar n.º 12/VI, pelo que declaro encerrado o seu debate. Passamos agora ao debate do inquérito parlamentar n.º 11/VI.\nPara uma intervenção, tem a palavra o Sr. Deputado Rui Carp.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Rui Carp", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs.Deputados: Portugal e os Portugueses são apresentados, frequentemente, como exemplos positivos à aplicação dos fundos comunitários, desde a nossa adesão à Comunidade Europeia, já lá vão sete anos.\nExistem boas e evidentes razões para isso. Essas boas apreciações, do modo como em Portugal são geridos os fundos provenientes do orçamento comunitário, surgem tanto na boca de ministros de governos de Estados membros como dos comissários europeus, de Eurodeputados e ainda do órgão supremo do controlo das finanças europeias, o Tribunal de Contas Europeu. Esse tribunal de contas da Comunidade Europeia é mesmo da opinião de que o nosso país - é sempre bom repeti-lo -, juntamente com a Bélgica e o Luxemburgo, dispõe do controlo interno mais adequado e fiável.\nOra bem, é por termos, nós, portugueses, adoptado sistemas de controlo e fiscalização dos fundos adequados e progressivamente aperfeiçoados, através da eficiente colaboração de várias entidades de auditoria interna, como as inspecções-gerais e sectoriais dos diversos ministérios, a Direcção-Geral do Desenvolvimento Regional, as unidades de acompanhamento do Quadro Comunitário de Apoio e, last but not least, a Inspecção-Geral de Finanças, e de auditoria externa - recordo-vos que são o Tribunal de Contas português, entretanto, muito modernizado, reestruturado e reforçado de meios, pelo Partido Social-Democrata, a Procuradoria-Geral da República e a Polícia Judiciária -, que somos elogiados na Europa.\nPara não alongar de mais esta minha sucinta intervenção, recordarei apenas que as entidades atrás referidas trabalham em estreita cooperação com as entidades fiscalizadoras da Comunidade Europeia, reunindo frequentemente com elas, naquilo que se chama a unidade comunitária de luta anti-fraude, sob a directa e superior supervisão do presidente da Comissão Jacques Delors. De modo que, nessas reuniões, esses mesmos controlo e fiscalização serem eficazes e a não se entrechocarem nos diversos níveis de controlo estabelecidos estejam em causa verbas do FEDER, do FEOGA, do PEDAP, do PEDIP ou do Fundo Social Europeu.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Então, não existem casos de fraudes em Portugal? \nInfelizmente, Srs. Deputados, existem, embora sem as dimensões de outras paragens.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Tem a palavra para esse efeito, Sr. Deputado.", 
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Mas é devido aos sistemas de controlo criados, \nimpulsionados e sucessivamente aperfeiçoados pelo governo do PSD e pela Administração Pública que as fraudes e os abusos na utilização das verbas dos fundos comunitários foram e são detectados com, cada vez mais, rigor.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Antunes da Silva* (PSD): Sr. Presidente, uma vez que o PSD foi acusado de que tem dois pesos e duas medidas relativamente ao «caso Braga de Macedo» e que o teria apreciado em função de notícias inseridas em jornais, pergunto à Mesa se é possível informar-nos se a actuação da Assembleia da República foi ou não na sequência de um pedido do próprio Braga de Macedo para que tal caso fosse apreciado.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: A Mesa confirma que assim foi! Para uma \nintervenção, tem a palavra o Sr. Deputado António Lobo Xavier.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Lobo Xavier* (CDS): Sr. Presidente, Srs. Deputados: \nEstamos aqui a repetir, a contragosto, uma argumentação acerca dos pedidos de inquérito e, fatalmente, todos os Deputados são levados a falar, em tese geral, sobre o instituto do inquérito.\nJá fizémos essas reflexões, já sabemos quais são as opiniões e como é que os diferentes partidos «tratam» o inquérito, pelo que quero começar por dizer que talvez algumas coisas não estejam ainda completamento claras.\nEm nome do CDS, quero dizer que actuamos na sequência do que diz a comunicação social credível e é evidente que não pode ser de outra forma. Não somos polícias, investigadores ou jornalistas de \ninvestigação e quando os jornais ou os jornalistas, com a \nresponsabilidade que lhes é inerente, fazem denúncias, obviamente depois de medir a credibilidade dos denunciantes, dos jornalistas e dos órgãos de informação, agimos na sequência dos aleitas da comunicação social sem qualquer problema de consciência.\nPortanto, não temos receio algum de dizer que, por vezes, somos alertados para os problemas deste tipo a partir de notícias da comunicação social.\nNão quero deixar de referir também que, de facto, o inquérito que hoje é proposto pelo PSD já foi discutido numa outra dimensão, quando o Sr.Deputado António Campos aqui discutiu a regularidade da aplicação dos fundos comunitários destinados à agricultura portuguesa. Nessa altura, eu próprio lhe perguntei se o que o preocupava era concretamente aquela cooperativa ou se as suas acusações eram de âmbito mais geral. Em resposta, o Sr. Deputado António Campos disse aqui que aquela era uma acusação geral à aplicação dos fundos da responsabilidade do Ministério da Agricultura.\nNa ideia que tenho sobre a função do inquérito, este deve bastar-se com a acusação de um Deputado, nos termos em que o Sr. Deputado António Campos aqui a fez. Isto é, se nós próprios não damos importância às acusações gravíssimas que um de nós faz aqui dentro, não sei, então, que dignidade e responsabilidade reconhecemos uns aos outros.\nPorque é que o PSD negou esse inquérito, nos termos em que o Sr.Deputado António Campos o propôs? Julgo que no PSD existe, por vezes, uma reacção de defesa em relação aos inquéritos absolutamente incompreensível, porventura baseada na ideia de que o inquérito faz mal, agride, minimiza.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Mas somos nós que o estamos a apresentar!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Porém, o inquérito não faz mal, não minimiza. Pelo contrário, um inquérito bem conduzido e com intervenções responsáveis tanto serve para condenar como para absolver, com a mesma eficácia e publicidade.\nÉ evidente que vamos votar este inquérito nos termos em que o PSD o propõe, embora fiquemos intranquilos com o facto de permanecerem no vácuo as acusações gravíssimas que o Sr. Deputado António Campos fez.\nNão temos meios para dizer se ele tem ou não razão, não alinhamos a seu lado para fazer essas acusações, mas lamentamos que não se venha a saber se a acusação feita por um Deputado o foi de um modo responsável ou irresponsável.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Antunes da Silva* (PSD): Não temos medo dos inquéritos! Tanto é assim que até os apresentamos...", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "17 DE ABRIL DE 1993 1969", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Não tenho mais inscrições para a discussão do inquérito parlamentar n.º 12/VI, pelo que declaro encerrado o seu debate. Passamos agora ao debate do inquérito parlamentar n.º 11/VI.\nPara uma intervenção, tem a palavra o Sr. Deputado Rui Carp.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Rui Carp* (PSD): Sr. Presidente, Srs. Membros do Governo, Srs.Deputados: Portugal e os Portugueses são apresentados, frequentemente, como exemplos positivos à aplicação dos fundos comunitários, desde a nossa adesão à Comunidade Europeia, já lá vão sete anos.\nExistem boas e evidentes razões para isso. Essas boas apreciações, do modo como em Portugal são geridos os fundos provenientes do orçamento comunitário, surgem tanto na boca de ministros de governos de Estados membros como dos comissários europeus, de Eurodeputados e ainda do órgão supremo do controlo das finanças europeias, o Tribunal de Contas Europeu. Esse tribunal de contas da Comunidade Europeia é mesmo da opinião de que o nosso país - é sempre bom repeti-lo -, juntamente com a Bélgica e o Luxemburgo, dispõe do controlo interno mais adequado e fiável.\nOra bem, é por termos, nós, portugueses, adoptado sistemas de controlo e fiscalização dos fundos adequados e progressivamente aperfeiçoados, através da eficiente colaboração de várias entidades de auditoria interna, como as inspecções-gerais e sectoriais dos diversos ministérios, a Direcção-Geral do Desenvolvimento Regional, as unidades de acompanhamento do Quadro Comunitário de Apoio e, last but not least, a Inspecção-Geral de Finanças, e de auditoria externa - recordo-vos que são o Tribunal de Contas português, entretanto, muito modernizado, reestruturado e reforçado de meios, pelo Partido Social-Democrata, a Procuradoria-Geral da República e a Polícia Judiciária -, que somos elogiados na Europa.\nPara não alongar de mais esta minha sucinta intervenção, recordarei apenas que as entidades atrás referidas trabalham em estreita cooperação com as entidades fiscalizadoras da Comunidade Europeia, reunindo frequentemente com elas, naquilo que se chama a unidade comunitária de luta anti-fraude, sob a directa e superior supervisão do presidente da Comissão Jacques Delors. De modo que, nessas reuniões, esses mesmos controlo e fiscalização serem eficazes e a não se entrechocarem nos diversos níveis de controlo estabelecidos estejam em causa verbas do FEDER, do FEOGA, do PEDAP, do PEDIP ou do Fundo Social Europeu.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Coelho* (PSD): Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Então, não existem casos de fraudes em Portugal? \nInfelizmente, Srs. Deputados, existem, embora sem as dimensões de outras paragens.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Coelho* (PSD): Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Mas é devido aos sistemas de controlo criados, \nimpulsionados e sucessivamente aperfeiçoados pelo governo do PSD e pela Administração Pública que as fraudes e os abusos na utilização das verbas dos fundos comunitários foram e são detectados com, cada vez mais, rigor.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "O Sr. *Carlos Coelho* (PSD): -Muito bem!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Sim, Srs. Deputados, o mérito na detecção das \nirregularidades é do Governo, dos magistrados, funcionários e agentes que, ao abrigo dos sistemas criados pelo Governo, estão no processo de fiscalização e controlo. São eles e o Governo quem merece o nosso louvor! \nEntão e os senhores políticos da oposição e seus aliados, que circunstanciais nalguma imprensa sensacionalista, que de independente às vezes só tem o nome, que periodicamente vêm denunciando as irregularidades? Esses, Srs. Deputados, limitam-se quase sempre a denunciar casos e pessoas que estavam já nas malhas da justiça ou, e isso é gravíssimo,...", 
+   "speaker": "O Orador", 
+   "text": "Sim, Srs. Deputados, o mérito na detecção das \nirregularidades é do Governo, dos magistrados, funcionários e agentes que, ao abrigo dos sistemas criados pelo Governo, estão no processo de fiscalização e controlo. São eles e o Governo quem merece o nosso louvor! \nEntão e os senhores políticos da oposição e seus aliados, que circunstanciais nalguma imprensa sensacionalista, que de independente às vezes só tem o nome, que periodicamente vêm denunciando as irregularidades? Esses, Srs. Deputados, limitam-se quase sempre a denunciar casos e pessoas que estavam já nas malhas da justiça ou, e isso é gravíssimo,...", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Coelho* (PSD): É verdade!", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
+   "text": "É verdade!\nO Orador: -... julgando sumariamente, ainda nem sequer pronunciadas essas pessoas e muito menos condenadas, divulgando peças da \ninvestigação, ainda em segredo de justiça, dificultando assim os trabalhos finais das autoridades fiscalizadoras e, talvez o aspecto mais negativo de todos, lançando um labéu de corruptos e de desonestos aos Portugueses e às suas instituições. Aliás, recordo que ainda bem recentemente isso sucedeu e que tivemos de responder na Comunidade Europeia sobre essas matérias.\nEm suma queremos seriedade, honestidade, solidariedade e objectividade na fiscalização e na justiça. Queremos transparência na utilização dos dinheiros públicos, venham eles do Orçamento do Estado ou do orçamento da Comunidade Europeia. Mas também queremos respeito pelo bom nome dos cidadãos, como é próprio de um Estado de direito e de uma democracia europeia.\nSr. Presidente, Srs. Deputados: Não é a primeira vez que as verbas do Fundo Social Europeu e as personalidades que as gerem são alvo de inquérito parlamentar. Recordo o inquérito parlamentar n.º 1/V, apresentado pelo PS em 1988 e cujas conclusões nada de novo trouxeram, relativamente ao que a Procuradoria-Geral da República, a \nInspecção-Geral de Finanças e a Polícia Judiciária já tinham detectado por iniciativa, aliás, exemplar, do Governo. Cabe-me aqui uma palavra de público louvor às acções dos Ministros do Emprego e da Segurança Social, Mira Amaral e Silva Peneda, e do então Secretário de Estado do Emprego e Formação Profissional, Bagão Félix, pelo empenho em instituir, corrigir e reforçar os primeiros sistemas de controlo das verbas do Fundo Social Europeu, quer no chamado Departamento para os Assuntos do Fundo Social Europeu (DAFSE), quer no Instituto do Emprego e Formação Profissional, quer ainda nas inspecções-gerais do respectivo Ministério, não hesitando mesmo em mudar os responsáveis ao nível da Administração quando estes não respondiam com uma actuação cada vez mais exigente e eficaz.\nMas também recordo o inquérito parlamentar n.º 3/VI, que o PSD logo viabilizou por entender que ele tinha justificação para prosseguir. E agora, porque há que salvaguardar a credibilidade do Estado e de quem o serve, a qualquer nível, na sequência do que ainda recentemente o meu companheiro de bancada Luis Pais de Sousa e o Sr. Secretário de Estado do Emprego e Formação Profissional, aqui presentes, afirmaram no passado dia 12 de Março, no respeito e no espírito do novo regime jurídico dos inquéritos parlamentares, instituído pela Lei n.º 5/93, de 1 de Março, quer o PSD que o Parlamento e o País saibam o que está contido no presente projecto de inquérito.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: -... julgando sumariamente, ainda nem sequer pronunciadas essas pessoas e muito menos condenadas, divulgando peças da \ninvestigação, ainda em segredo de justiça, dificultando assim os trabalhos finais das autoridades fiscalizadoras e, talvez o aspecto mais negativo de todos, lançando um labéu de corruptos e de desonestos aos Portugueses e às suas instituições. Aliás, recordo que ainda bem recentemente isso sucedeu e que tivemos de responder na Comunidade Europeia sobre essas matérias.\nEm suma queremos seriedade, honestidade, solidariedade e objectividade na fiscalização e na justiça. Queremos transparência na utilização dos dinheiros públicos, venham eles do Orçamento do Estado ou do orçamento da Comunidade Europeia. Mas também queremos respeito pelo bom nome dos cidadãos, como é próprio de um Estado de direito e de uma democracia europeia.\nSr. Presidente, Srs. Deputados: Não é a primeira vez que as verbas do Fundo Social Europeu e as personalidades que as gerem são alvo de inquérito parlamentar. Recordo o inquérito parlamentar n.º 1/V, apresentado pelo PS em 1988 e cujas conclusões nada de novo trouxeram, relativamente ao que a Procuradoria-Geral da República, a \nInspecção-Geral de Finanças e a Polícia Judiciária já tinham detectado por iniciativa, aliás, exemplar, do Governo. Cabe-me aqui uma palavra de público louvor às acções dos Ministros do Emprego e da Segurança Social, Mira Amaral e Silva Peneda, e do então Secretário de Estado do Emprego e Formação Profissional, Bagão Félix, pelo empenho em instituir, corrigir e reforçar os primeiros sistemas de controlo das verbas do Fundo Social Europeu, quer no chamado Departamento para os Assuntos do Fundo Social Europeu (DAFSE), quer no Instituto do Emprego e Formação Profissional, quer ainda nas inspecções-gerais do respectivo Ministério, não hesitando mesmo em mudar os responsáveis ao nível da Administração quando estes não respondiam com uma actuação cada vez mais exigente e eficaz.\nMas também recordo o inquérito parlamentar n.º 3/VI, que o PSD logo viabilizou por entender que ele tinha justificação para prosseguir. E agora, porque há que salvaguardar a credibilidade do Estado e de quem o serve, a qualquer nível, na sequência do que ainda recentemente o meu companheiro de bancada Luis Pais de Sousa e o Sr. Secretário de Estado do Emprego e Formação Profissional, aqui presentes, afirmaram no passado dia 12 de Março, no respeito e no espírito do novo regime jurídico dos inquéritos parlamentares, instituído pela Lei n.º 5/93, de 1 de Março, quer o PSD que o Parlamento e o País saibam o que está contido no presente projecto de inquérito.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
    "text": "1970 I SÉRIE - NÚMERO 60", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PSD", 
+   "speaker": "Carlos Coelho", 
    "text": "Ou seja, o Governo tomou as medidas adequadas para a boa utilização das verbas do Fundo Social Europeu, conforme estipula a Comunidade Europeia? Houve a diligência devida na identificação de eventuais prevaricadores e na recuperação das verbas mal utilizadas? \nVamos aguardar as conclusões do inquérito agora por nós proposto, no espírito de «quem nada deve, nada teme».\nSe as críticas e as suspeições de deficiente ou incorrecta actuação por parte das autoridades forem fundamentadas, os responsáveis que tirem daí as óbvias ilações e os infractores que sejam punidos exemplarmente, como manda a lei. Mas se as autoridades agiram correctamente, então quem lançou as acusações que assuma também plenamente as suas graves responsabilidades.\nDe qualquer modo, Srs. Deputados, desde já o afirmamos que não é com cartas, como a que o Sr. Eurodeputado João Cravinho enviou à Comissão dos Assuntos Europeus, em 28 de Janeiro passado, que se moraliza a gestão e o controlo dos fundos comunitários e se melhora o combate à fraude. Pelo contrário, aumenta os graus de dificuldade no acréscimo das verbas para Portugal. Valha-nos, no entanto, o prestígio do Primeiro-Ministro português, incomensuravelmente superior ao daquele Eurodeputado socialista, que ainda recentemente declarou que o rigor e a selectividade vão aumentar ainda mais na aplicação dos fundos da Comunidade Europeia.\nSr. Presidente e Srs. Deputados, há quem queira italianizar a vida política portuguesa, abastardando a noção de luta política e reduzindo a actividade política a algo sujeito a constante suspeição.\nNesta área do Fundo Social Europeu, mesmo que multiplicássemos por 10 os casos de fraudes detectados e comprovados, ainda se colocaria o nosso país muito abaixo do volume das fraudes detectadas noutros cantos da Europa comunitária. Mas, para os adeptos da suspeição permanente, o que vale é pôr em causa o Governo; a verdade já pouco lhes interessa.\nPelo contrário, a nós, sociais-democratas, só nos interessa, nestes casos concretos, uma coisa: que haja o triunfo da verdade e que o bom nome dos Portugueses e do Estado Português fique bem salvaguardado e até robustecido.", 
    "type": "deputado_continuacao"
   }, 
@@ -392,108 +388,110 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado António Lobo Xavier.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado António Lobo Xavier.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Lobo Xavier* (CDS): Sr. Presidente, Sr. Deputado Rui Carp, eis um pedido de inquérito com a definição de um âmbito com que concordamos inteiramente e que vai bastante mais além do que aquele cuja proposta foi formulada há algumas semanas atrás. Por essa razão, não é sobre o seu âmbito que quero ser esclarecido.\nO primeiro aspecto que gostava de mencionar diz respeito à forma ufana com que o Sr. Deputado faz estatísticas sobre a corrupção e fala nos elogios da Europa. Chamou aqui os elogios da Europa, essa mesma Europa que os senhores carpiram, há pouco tempo, num célebre colóquio realizado em Coimbra, lamentando-se, rasgando vestes, afligindo o povo e a opinião pública em geral e que lhes provoca essas angústias que os senhores não admitem a mais ninguém. Ora, é essa mesma Europa que, com outra mão, lhes faz esses elogios sobre os fundos com que os senhores, agora, se enfeitam.\nDeve ser bem difícil fazer um equilíbrio entre o orgulho pelos elogios e a angústia pelas dificuldades que os senhores temem, até a níveis com que nem sequer desconfiávamos.\nO que é curioso neste pedido de inquérito do PSD é a desactualização do texto do intróito, que data de 18 de Março de 1993. O PSD escolheu um texto para introduzir o pedido de inquérito onde se diz que, como na legislatura passada houve dúvidas, se criou uma comissão de inquérito.\nNão obstante, diz o PSD, que alguma comunicação social continua a lançar - eu diria atoardas, mas não é o que dele consta - atoardas sobre a utilização dos fundos, como quem diz «ninguém está satisfeito com isto e aqui vimos nós, placidamente, pôr a cabeça outra vez no jugo para fazer investigações à vontade».\nOra, houve em poucos dias uma desactualização brutal destas palavras e não se trata de dúvidas da comunicação social. A verdade é que «tombam», semana a semana, altos funcionários e secretários de Estado, deixando sozinhos o Sr. Ministro do Emprego e da Segurança Profissional e o Sr. Secretário de Estado do Emprego e Formação Profissional, aqui presente; não se trata de dúvidas da comunicação social, mas de fragorosas quedas de membros responsáveis da Administração e do Governo, mal explicadas e que dificilmente compreendemos.\nO pedido de inquérito, Sr. Deputado, é positivo, mas o texto está desactualizado, o que sucedeu muito rapidamente, situação que nos traz alguma preocupação.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "António Lobo Xavier", 
+   "text": "Sr. Presidente, Sr. Deputado Rui Carp, eis um pedido de inquérito com a definição de um âmbito com que concordamos inteiramente e que vai bastante mais além do que aquele cuja proposta foi formulada há algumas semanas atrás. Por essa razão, não é sobre o seu âmbito que quero ser esclarecido.\nO primeiro aspecto que gostava de mencionar diz respeito à forma ufana com que o Sr. Deputado faz estatísticas sobre a corrupção e fala nos elogios da Europa. Chamou aqui os elogios da Europa, essa mesma Europa que os senhores carpiram, há pouco tempo, num célebre colóquio realizado em Coimbra, lamentando-se, rasgando vestes, afligindo o povo e a opinião pública em geral e que lhes provoca essas angústias que os senhores não admitem a mais ninguém. Ora, é essa mesma Europa que, com outra mão, lhes faz esses elogios sobre os fundos com que os senhores, agora, se enfeitam.\nDeve ser bem difícil fazer um equilíbrio entre o orgulho pelos elogios e a angústia pelas dificuldades que os senhores temem, até a níveis com que nem sequer desconfiávamos.\nO que é curioso neste pedido de inquérito do PSD é a desactualização do texto do intróito, que data de 18 de Março de 1993. O PSD escolheu um texto para introduzir o pedido de inquérito onde se diz que, como na legislatura passada houve dúvidas, se criou uma comissão de inquérito.\nNão obstante, diz o PSD, que alguma comunicação social continua a lançar - eu diria atoardas, mas não é o que dele consta - atoardas sobre a utilização dos fundos, como quem diz «ninguém está satisfeito com isto e aqui vimos nós, placidamente, pôr a cabeça outra vez no jugo para fazer investigações à vontade».\nOra, houve em poucos dias uma desactualização brutal destas palavras e não se trata de dúvidas da comunicação social. A verdade é que «tombam», semana a semana, altos funcionários e secretários de Estado, deixando sozinhos o Sr. Ministro do Emprego e da Segurança Profissional e o Sr. Secretário de Estado do Emprego e Formação Profissional, aqui presente; não se trata de dúvidas da comunicação social, mas de fragorosas quedas de membros responsáveis da Administração e do Governo, mal explicadas e que dificilmente compreendemos.\nO pedido de inquérito, Sr. Deputado, é positivo, mas o texto está desactualizado, o que sucedeu muito rapidamente, situação que nos traz alguma preocupação.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, em tempo cedido pelo CDS, tem a palavra o Sr. Deputado Rui Carp.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, em tempo cedido pelo CDS, tem a palavra o Sr. Deputado Rui Carp.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Rui Carp* (PSD): Sr. Presidente, Sr. Deputado António Lobo Xavier, quero começar por agradecer, em nome da minha bancada, os elogios que V. Ex.ª nos endereçou relativos à nossa iniciativa de inquérito.\nQuanto ao que disse relativamente a secretários de Estado que «tombam», apenas tenho conhecimento de que houve um secretário de Estado do Ministério do Emprego e da Segurança Social que pediu a demissão para defender mais facilmente o seu bom nome e a sua dignidade; não consta que tenha havido a condenação de qualquer membro do Governo.\nQuanto ao mais e ao resto, V. Ex.ª não acrescentou nada ao que eu já tinha dito e que, insistentemente, vimos reafirmando. Isto é, que o PSD está interessado em conhecer toda a verdade e em punir os responsáveis e, até agora, não houve um único que tivesse sido detectado a não ser através das iniciativas que o Governo tem tomado para melhorar progressivamente a transparência na utilização dos fundos comunitários.\nPerdoar-me-á que lhe diga, mas V. Ex.ª, neste aspecto, ainda que inconscientemente, pretendeu condenar sem defesa e sumariamente pessoas que têm todo o direito à defesa do seu bom nome.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Rui Carp", 
+   "text": "Sr. Presidente, Sr. Deputado António Lobo Xavier, quero começar por agradecer, em nome da minha bancada, os elogios que V. Ex.ª nos endereçou relativos à nossa iniciativa de inquérito.\nQuanto ao que disse relativamente a secretários de Estado que «tombam», apenas tenho conhecimento de que houve um secretário de Estado do Ministério do Emprego e da Segurança Social que pediu a demissão para defender mais facilmente o seu bom nome e a sua dignidade; não consta que tenha havido a condenação de qualquer membro do Governo.\nQuanto ao mais e ao resto, V. Ex.ª não acrescentou nada ao que eu já tinha dito e que, insistentemente, vimos reafirmando. Isto é, que o PSD está interessado em conhecer toda a verdade e em punir os responsáveis e, até agora, não houve um único que tivesse sido detectado a não ser através das iniciativas que o Governo tem tomado para melhorar progressivamente a transparência na utilização dos fundos comunitários.\nPerdoar-me-á que lhe diga, mas V. Ex.ª, neste aspecto, ainda que inconscientemente, pretendeu condenar sem defesa e sumariamente pessoas que têm todo o direito à defesa do seu bom nome.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado António Filipe.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado António Filipe.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Filipe* (PCP): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Pergunto-me a mim mesmo o que se terá passado para o PSD se ter decidido pela apresentação deste pedido de inquérito, conhecida que é a sua história de oposição à realização de", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "António Filipe", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: Pergunto-me a mim mesmo o que se terá passado para o PSD se ter decidido pela apresentação deste pedido de inquérito, conhecida que é a sua história de oposição à realização de 17 DE ABRIL DE 1993 1971", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "17 DE ABRIL DE 1993 1971", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "António Filipe", 
    "text": "inquéritos parlamentares sobre esta matéria do Fundo Social Europeu.\nA pergunta é legitíma, na medida em que, em 1989, o PSD se opôs à realização deste inquérito parlamentar que aqui refere a seu favor.\nLembro, até, que esse inquérito foi realizado em resultado da apresentação de 50 assinaturas de Deputados da oposição, depois de a sua realização ter sido aqui recusada pela maioria.\nPor outro lado, também é conhecida a oposição recente do PSD à averiguação de responsabilidades do Ministro do Emprego e da Segurança Social pela nomeação e manutenção em funções, como director do Instituto de Emprego e Formação Profissional, de um cidadão que estava indiciado pela participação em associação criminosa. É curiosa, também, a argumentação que o PSD utilizou ainda há poucas semanas para recusar esse inquérito, esgrimindo que esse cidadão já estava indiciado, pelo que o inquérito não se deveria fazer.\nDevemos, pois, considerar que toda essa argumentação está afastada, na medida em que essa situação também é referida no objecto do inquérito que o PSD aqui propõe.\nPortanto, tudo o que foi dito anteriormente pelo PSD e que consta do Diário deve dar-se como não escrito, porque o PSD já mudou de opinião relativamente a isso e considera que, afinal, esse facto já não é impeditivo da realização do inquérito. Nós até nos congratulamos com o facto de terem chegado a essa conclusão, que, realmente, foi aquela que aqui defendemos.\nNão é de presumir que o PSD tenha mudado de opinião relativamente à sua vontade, ou não, de averiguar reais responsabilidades pelo desvio de verbas do Fundo Social Europeu. O que o PSD está aqui a fazer é a usar um procedimento que até nem é original e que já foi utilizado quando na V Legislatura se proeurou averiguar das responsabilidades concretas de um determinado conselho de gerência da RTP. O PSD apresentou aqui um pedido de inquérito para averiguar de todas as responsabilidades por tudo o que alguma vez foi feito na 5 de Outubro por qualquer conselho de gerência da RTP. Isto é, aprovou-se a realização de um inquérito que acabou por não se fazer - é até de lembrar que, nessa altura, os membros que o PSD indicou para essa comissão nem sequer se dignaram a tomar posse!...\nFazemos votos para que, se este inquérito for deliberado, o PSD não proceda como nessa altura, mas que se constitua a comissão e que os senhores procurem que ela de facto funcione, coisa que não aconteceu numa situação anterior e que faz com que encaremos este pedido de inquérito com uma certa desconfiança. Aliás, a experiência \naconselha-nos a tal!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Octávio Teixeira* (PCP): Muito bem!", 
+   "party": "PCP", 
+   "speaker": "Octávio Teixeira", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Vamos ver se o PSD pretende efectivamente fazer um inquérito a sério ou se quer fazer como da outra vez. É que a memória dos inquéritos ao Fundo Social Europeu nesta Casa não é boa! \nSe repararmos no comportamento que o PSD teve aquando da realização do inquérito que refere na exposição de motivos deste, o inquérito parlamentar n.º 4/V, verificamos que teve um comportamento de tal modo escandaloso que levou ao abandono da comissão por parte de todos os Deputados da oposição, sem excepção, do PCP, do PS e do CDS.\nÉ conhecido que o PSD se opôs terminantemente a que cidadãos que manifestaram interesse em prestar depoimento perante a comissão o fizessem; inviabilizou que a comissão requeresse a vinda de membros do Governo a prestar depoimentos nos seus trabalhos; deu cobertura a que o Governo não fornecesse à comissão elementos essenciais para o apuramento do objecto do inquérito, pelo que acabou por forjar um relatório ilibatório das responsabilidades políticas do Governo, o que em nada prestigou esta Assembleia, em nada prestigiou essa comissão de inquérito ao Fundo Social Europeu. Repito, pois, que a memória destes inquéritos não é boa! \nA intervenção do Sr. Deputado Rui Carp é muito curiosa, pois mesmo na simulação de relatório final dessa comissão de inquérito ao Fundo Social Europeu reconhecia-se que o sistema de fiscalização mal funcionou. E é curioso que, apesar disso, o Sr. Deputado venha aqui justificar este inquérito, dizendo que, de facto, funcionou um sistema de fiscalização meritório, que em nada desprestigou o Governo ou os organismos envolvidos.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Vamos ver se o PSD pretende efectivamente fazer um inquérito a sério ou se quer fazer como da outra vez. É que a memória dos inquéritos ao Fundo Social Europeu nesta Casa não é boa! \nSe repararmos no comportamento que o PSD teve aquando da realização do inquérito que refere na exposição de motivos deste, o inquérito parlamentar n.º 4/V, verificamos que teve um comportamento de tal modo escandaloso que levou ao abandono da comissão por parte de todos os Deputados da oposição, sem excepção, do PCP, do PS e do CDS.\nÉ conhecido que o PSD se opôs terminantemente a que cidadãos que manifestaram interesse em prestar depoimento perante a comissão o fizessem; inviabilizou que a comissão requeresse a vinda de membros do Governo a prestar depoimentos nos seus trabalhos; deu cobertura a que o Governo não fornecesse à comissão elementos essenciais para o apuramento do objecto do inquérito, pelo que acabou por forjar um relatório ilibatório das responsabilidades políticas do Governo, o que em nada prestigou esta Assembleia, em nada prestigiou essa comissão de inquérito ao Fundo Social Europeu. Repito, pois, que a memória destes inquéritos não é boa! \nA intervenção do Sr. Deputado Rui Carp é muito curiosa, pois mesmo na simulação de relatório final dessa comissão de inquérito ao Fundo Social Europeu reconhecia-se que o sistema de fiscalização mal funcionou. E é curioso que, apesar disso, o Sr. Deputado venha aqui justificar este inquérito, dizendo que, de facto, funcionou um sistema de fiscalização meritório, que em nada desprestigou o Governo ou os organismos envolvidos.", 
+   "party": "PSD", 
+   "speaker": "Rui Carp", 
+   "text": "É o Tribunal da CEE que diz isso!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Se alguma coisa se reconheceu, nesse inquérito foi que isso, de facto, não funcionou. Olhe, «funcionou tão bem» que há poucas semanas foi demitido o presidente do Instituto de Emprego e Formação Profissional, porque estava indiciado como fazendo parte de uma associação criminosa!...", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Rui Carp* (PSD): É o Tribunal da CEE que diz isso!", 
+   "party": "PSD", 
+   "speaker": "Rui Carp", 
+   "text": "O sistema funcionou e não foi devido ao PCP!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Isto é verdadeiramente ilustrativo da «excelência» do sistema de fiscalização que estava instituído nesse orgasnismo que ele próprio dirigia.\nSr. Deputado Rui Carp, creio que deve ter um certo cuidado quando diz que há elogios de outros países europeus devido à lisura, à correcção e ao facto de haver poucas fraudes em Portugal. Conhecendo o que se está a passar por essa Europa fora a nível de corrupção, envolvendo membros de governos desses países, creio que V. Ex.ª deveria ter um certo cuidado com as testemunhas abonatórias. Se assim não o fizer, qualquer dia vem aqui invocar a seu favor testemunhos de pessoas que poderão eventualmente já não estar numa situação que justifique a sua apresentação no rol de testemunhas, pelo menos, abonatórias.\nPortanto, creio que deveria haver um certo cuidado - e o Sr. Deputado não citou também testemunhas abonatórias - porque quando diz que, a nível de corrupção, não estamos como os outros países europeus, convém também ver se não caminhamos para lá.\nDe facto, podemos entrar numa situação insustentável, na medida em que aquilo que se vai sabendo de outros países membros da Comunidade Europeia não abona ninguém e esperamos que Portugal não fique no pelotão da frente a esse nível.\nOutro facto curioso é que antes mesmo de o inquérito se realizar, na intervenção do Sr. Deputado Rui Carp, os membros do Governo nele envolvidos são aprovados com distinção e louvor. Isto é, antes do inquérito se realizar, o Sr. Deputado Rui Carp já vem dizer que tudo funcionou bem, que todos os mecanismos de fiscalização funcionaram e que, portanto, todos os membros do Governo tiveram um comportamento irrepreensível nesta matéria.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Se alguma coisa se reconheceu, nesse inquérito foi que isso, de facto, não funcionou. Olhe, «funcionou tão bem» que há poucas semanas foi demitido o presidente do Instituto de Emprego e Formação Profissional, porque estava indiciado como fazendo parte de uma associação criminosa!...", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Rui Carp* (PSD): O sistema funcionou e não foi devido ao PCP!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Isto é verdadeiramente ilustrativo da «excelência» do sistema de fiscalização que estava instituído nesse orgasnismo que ele próprio dirigia.\nSr. Deputado Rui Carp, creio que deve ter um certo cuidado quando diz que há elogios de outros países europeus devido à lisura, à correcção e ao facto de haver poucas fraudes em Portugal. Conhecendo o que se está a passar por essa Europa fora a nível de corrupção, envolvendo membros de governos desses países, creio que V. Ex.ª deveria ter um certo cuidado com as testemunhas abonatórias. Se assim não o fizer, qualquer dia vem aqui invocar a seu favor testemunhos de pessoas que poderão eventualmente já não estar numa situação que justifique a sua apresentação no rol de testemunhas, pelo menos, abonatórias.\nPortanto, creio que deveria haver um certo cuidado - e o Sr. Deputado não citou também testemunhas abonatórias - porque quando diz que, a nível de corrupção, não estamos como os outros países europeus, convém também ver se não caminhamos para lá.\nDe facto, podemos entrar numa situação insustentável, na medida em que aquilo que se vai sabendo de outros países membros da Comunidade Europeia não abona ninguém e esperamos que Portugal não fique no pelotão da frente a esse nível.\nOutro facto curioso é que antes mesmo de o inquérito se realizar, na intervenção do Sr. Deputado Rui Carp, os membros do Governo nele envolvidos são aprovados com distinção e louvor. Isto é, antes do inquérito se realizar, o Sr. Deputado Rui Carp já vem dizer que tudo funcionou bem, que todos os mecanismos de fiscalização funcionaram e que, portanto, todos os membros do Governo tiveram um comportamento irrepreensível nesta matéria.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "1972 I SÉRIE - NÚMERO 60", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Aquando da realização de outro inquérito, o PSD apresentou, no final, um relatório que consideramos forjado, uma simulação ilibatória, e tudo nos leva a crer que, neste preciso momento, o PSD já terá na sua bancada as conclusões do inquérito que agora propõe. Pelo menos, o projecto já deve estar feito, na medida em que algumas das suas conclusões já foram aqui citadas pelo Sr. Deputado Rui Carp...", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "O Sr. *Octávio Teixeira* (PCP): -Muito bem!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr.Secretário de Estado dos Assuntos Parlamentares.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr.Secretário de Estado dos Assuntos Parlamentares.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* de Estado dos Assuntos Parlamentares: Sr.Presidente, Srs. Deputados: Há três ou quatro semanas atrás, o Governo esteve presente e participou activamente no debate parlamentar, realizado também numa sexta-feira de manhã, em que se discutiram dois pedidos de inquérito sobre matérias que tinham pontos de contacto com aquelas que hoje estamos aqui a discutir.\nNesse debate estiveram presentes membros do Governo, do Ministério do Emprego e da Segurança Social, que fizeram as suas intervenções e deram os esclarecimentos que julgaram convenientes em função da forma como decorreu essa discussão. Hoje, por direito próprio e por dever, o Governo também está presente. Só que os representantes dos Ministérios da Agricultura e do Emprego e da Segurança Social, em função da forma como o debate decorreu e não tendo havido nada de novo em relação às argumentações aduzidas há três ou quatro semanas atrás, não acharam conveniente intervir.\nContudo, tal como foi afirmado nesse debate - e reafirmo-o hoje de uma forma totalmente clara e peremptória -, o Governo está disponível para colaborar com a Assembleia da República sempre que esta julgue conveniente viabilizar qualquer tipo de inquérito parlamentar e os membros do Governo, os membros da Administração tutelados pelo Governo, estarão sempre disponíveis para vir aqui prestar todos os \nesclarecimentos indispensáveis, repito, sempre e quando a Assembleia da República o necessitar.\nSr. Presidente, Srs. Deputados: Fazemos votos para que estes inquéritos se realizem com rapidez e de forma que todas as dúvidas sejam esclarecidas. Naquilo que depender do Governo, assim acontecerá.", 
-   "type": "deputado_continuacao"
+   "speaker": "Secretário", 
+   "text": "Sr.Presidente, Srs. Deputados: Há três ou quatro semanas atrás, o Governo esteve presente e participou activamente no debate parlamentar, realizado também numa sexta-feira de manhã, em que se discutiram dois pedidos de inquérito sobre matérias que tinham pontos de contacto com aquelas que hoje estamos aqui a discutir.\nNesse debate estiveram presentes membros do Governo, do Ministério do Emprego e da Segurança Social, que fizeram as suas intervenções e deram os esclarecimentos que julgaram convenientes em função da forma como decorreu essa discussão. Hoje, por direito próprio e por dever, o Governo também está presente. Só que os representantes dos Ministérios da Agricultura e do Emprego e da Segurança Social, em função da forma como o debate decorreu e não tendo havido nada de novo em relação às argumentações aduzidas há três ou quatro semanas atrás, não acharam conveniente intervir.\nContudo, tal como foi afirmado nesse debate - e reafirmo-o hoje de uma forma totalmente clara e peremptória -, o Governo está disponível para colaborar com a Assembleia da República sempre que esta julgue conveniente viabilizar qualquer tipo de inquérito parlamentar e os membros do Governo, os membros da Administração tutelados pelo Governo, estarão sempre disponíveis para vir aqui prestar todos os \nesclarecimentos indispensáveis, repito, sempre e quando a Assembleia da República o necessitar.\nSr. Presidente, Srs. Deputados: Fazemos votos para que estes inquéritos se realizem com rapidez e de forma que todas as dúvidas sejam esclarecidas. Naquilo que depender do Governo, assim acontecerá.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, não há mais inscrições para o debate do inquérito parlamentar n.º 11/VI - Sobre a aplicação das verbas do Fundo Social Europeu (PSD), pelo que declaro encerrado o debate. Com isto, fica esgotada a nossa ordem de trabalhos de hoje.\nA Assembleia da República recomeçará os seus trabalhos nas próximas segunda-feira e terça-feira, para o trabalho de comissões, e o Plenário reunirá quarta-feira pelas 15 horas. No período de antes da ordem do dia haverá eventualmente declarações políticas e na ordem do dia será debatido o projecto de lei n.º 48/VI - Bases de um plano de educação ambiental (PCP).\nSrs. Membros do Governo, Srs. Deputados, está encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, não há mais inscrições para o debate do inquérito parlamentar n.º 11/VI - Sobre a aplicação das verbas do Fundo Social Europeu (PSD), pelo que declaro encerrado o debate. Com isto, fica esgotada a nossa ordem de trabalhos de hoje.\nA Assembleia da República recomeçará os seus trabalhos nas próximas segunda-feira e terça-feira, para o trabalho de comissões, e o Plenário reunirá quarta-feira pelas 15 horas. No período de antes da ordem do dia haverá eventualmente declarações políticas e na ordem do dia será debatido o projecto de lei n.º 48/VI - Bases de um plano de educação ambiental (PCP).\nSrs. Membros do Governo, Srs. Deputados, está encerrada a sessão.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 11 horas e 25 minutos.", 
@@ -502,7 +500,7 @@
   {
    "speaker": "Faltaram à sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD", 

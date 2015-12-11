@@ -29,13 +29,14 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\n_Eram 10 horas e 50 minutos_.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\n_Eram 10 horas e 50 minutos_.", 
+   "type": "presidente_aberta"
   }, 
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -128,46 +129,42 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, vão ser anunciados os diplomas entrados na Mesa.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vão ser anunciados os diplomas entrados na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Secretário* (Roleira Marinho): Deu entrada na mesa o pedido de ratificação n.º 158/III, da iniciativa do Sr. Deputado Carlos Brito e outros, do PCP, sobre o Decreto-Lei n.º 151/85, de 9 de Maio, que aprova o Estatuto da Polícia de Segurança Pública, que foi admitido; o pedido de ratificação n.º 159/II, da iniciativa do Sr. Deputado José Magalhães e outros, do PCP, sobre o Decreto-Lei n.º 118/85, de 19 de Abril, que altera o Código das Custas Judiciais, que foi admitido; a proposta de lei n.º 105/III, que concede ao Governo autorização para legislar em matéria de definição de crimes, penas e medidas de segurança e respectivos pressupostos, com vista à revisão do Código Penal de 1982 e legislação penal secundária, que foi admitido e baixa à 1.ª Comissão.", 
-   "type": "deputado_continuacao"
+   "party": "Roleira Marinho", 
+   "speaker": "Secretário", 
+   "text": "Deu entrada na mesa o pedido de ratificação n.º 158/III, da iniciativa do Sr. Deputado Carlos Brito e outros, do PCP, sobre o Decreto-Lei n.º 151/85, de 9 de Maio, que aprova o Estatuto da Polícia de Segurança Pública, que foi admitido; o pedido de ratificação n.º 159/II, da iniciativa do Sr. Deputado José Magalhães e outros, do PCP, sobre o Decreto-Lei n.º 118/85, de 19 de Abril, que altera o Código das Custas Judiciais, que foi admitido; a proposta de lei n.º 105/III, que concede ao Governo autorização para legislar em matéria de definição de crimes, penas e medidas de segurança e respectivos pressupostos, com vista à revisão do Código Penal de 1982 e legislação penal secundária, que foi admitido e baixa à 1.ª Comissão.", 
+   "type": "secretario"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, queria comunicar-vos que vai reunir, pelas 11 horas, na sala do Senado, a conferência da juventude sob o tema «Participação, Desenvolvimento, Paz» que resulta de uma resolução aprovada por unanimidade nesta Assembleia da República.\nPara essa conferência, que tem o maior interesse e a maior importância, tendo sido preparada com extremo cuidado, estão convidados todos os Srs. Deputados. Penso que é meu dever sugerir a VV. Ex.as que suspendamos a sessão de forma a podermos, com a nossa presença, dar uma participação eficaz aos trabalhos que irão decorrer.\nNão queria deixar de fazer esta sugestão, e caso mereça acordo da Câmara, suspendemos a sessão para, ao lado dos jovens, darmos uma participação sem dúvida bem-vinda, bem recebida e totalmente merecida.\nSe não houver oposição encerrarei a sessão.\nA próxima será na terça-feira, dia 28, às 15 horas. Haverá período antes da ordem do dia e na ordem do dia irá ser discutida a lei quadro de municípios e a lei do serviço militar obrigatório.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, queria comunicar-vos que vai reunir, pelas 11 horas, na sala do Senado, a conferência da juventude sob o tema «Participação, Desenvolvimento, Paz» que resulta de uma resolução aprovada por unanimidade nesta Assembleia da República.\nPara essa conferência, que tem o maior interesse e a maior importância, tendo sido preparada com extremo cuidado, estão convidados todos os Srs. Deputados. Penso que é meu dever sugerir a VV. Ex.as que suspendamos a sessão de forma a podermos, com a nossa presença, dar uma participação eficaz aos trabalhos que irão decorrer.\nNão queria deixar de fazer esta sugestão, e caso mereça acordo da Câmara, suspendemos a sessão para, ao lado dos jovens, darmos uma participação sem dúvida bem-vinda, bem recebida e totalmente merecida.\nSe não houver oposição encerrarei a sessão.\nA próxima será na terça-feira, dia 28, às 15 horas. Haverá período antes da ordem do dia e na ordem do dia irá ser discutida a lei quadro de municípios e a lei do serviço militar obrigatório.", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Dá-me licença, Sr. Presidente?", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Dá-me licença, Sr. Presidente?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Faça o favor, Sr. Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça o favor, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, está também incluída na ordem do dia a discussão do Código dos Direitos de Autor.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, está também incluída na ordem do dia a discussão do Código dos Direitos de Autor.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Exactamente, Sr. Deputado. A discussão sobre o Código dos Direitos de Autor foi transferida de uma sessão para outra.\nIsso não constava aqui.\nSrs. Deputados, está encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Exactamente, Sr. Deputado. A discussão sobre o Código dos Direitos de Autor foi transferida de uma sessão para outra.\nIsso não constava aqui.\nSrs. Deputados, está encerrada a sessão.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 10 horas e 55 minutos.", 
@@ -176,7 +173,7 @@
   {
    "speaker": "Faltaram à sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 

@@ -37,34 +37,38 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.\nEram 16 horas e 55 minutos. Estavam presentes os seguintes Srs.Deputados: \nPartido Socialista (PS):", 
+   "type": "presidente_aberta"
   }, 
   {
-   "text": "Eram 16 horas e 55 minutos. Estavam presentes os seguintes Srs.Deputados: \nPartido Socialista (PS):", 
-   "type": null
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Acácio Manuel de Frias Barreiros.\nAlmerindo da Silva Marques.\nAmérico Albino da Silva Salteiro.\nAntónio Jorge Duarte Rebelo de Sousa.\nAntónio José Santos Meira.\nFrancisco Augusto Sá Morais Rodrigues.\nFrancisco Igrejas Caeiro.\nFrancisco Manuel Marcelo Curto.\nHermínio Martins de Oliveira.\nJoão de Almeida Eliseu.\nJoão Rosado Correia.\nJoaquim José Catanho de Menezes.\nJorge Alberto Santos Correia.\nJorge Lacão Costa.\nJosé Augusto Fillol Guimarães.\nJosé Manuel Nunes Ambrósio.\nJosé Maria Roque Lino.\nLeonel de Sousa Fadigas.\nLuís Silvério Gonçalves Saias.\nManuel Filipe Santos Loureiro.\nMaria da Conceição Pinto Quintas.\nMaria Helena Valente Rosa.\nMaria Luísa Modas Daniel.\nMaria Margarida Ferreira Marques.\nNelson Pereira Ramos.\nPaulo Manuel Barros Barrai.\nRaúl d'Assunção Pimenta Rêgo.\nSilvino Manuel Gomes Sequeira.\nTeófilo Carvalho dos Santos.\nVictor Hugo Sequeira.", 
-   "type": null
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PSD/PPD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PSD/PPD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Amadeu Vasconcelos Matias.\nAntónio Nascimento Machado Lourenço.\nDomingos Duarte Lima.\nFernando José da Costa.\nFernando dos Reis Condesso.\nFrancisco Antunes da Silva.\nJoão Evangelista Rocha de Almeida.\nJoão Luís Malato Correia.\nJoaquim Eduardo Gomes.\nJoaquim Luís Esteves Pinto Monteiro.\nJosé Ângelo Ferreira Correia.\nJosé Augusto Santos Silva Marques.\nJosé Manuel Pires das Neves.\nJosé Mário de Lemos Damião.\nJosé Silva Domingos.\nJosé Vargas Bulcão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PSD/PPD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "2932 I SÉRIE-NÚMERO 73", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PSD/PPD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Manuel Filipe Correia de Jesus.\nMaria Margarida Salema Moura Ribeiro.\nMário de Oliveira Mendes dos Santos.\nPaulo Manuel Pacheco Silveira.\nPedro Miguel Santana Lopes.\nRui Manuel de Oliveira Costa.\nVasco Francisco Aguiar Miguel.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PCP", 
@@ -121,251 +125,210 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, antes de entrarmos propriamente na matéria da ordem do dia - e de acordo com o acordado com os \nrepresentantes dos grupos e agrupamentos parlamentares -, a Mesa vai apresentar um voto de pesar à vossa consideração, para que ele possa merecer a votação do Parlamento Português.\nO texto desse voto de pesar é o seguinte:", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, antes de entrarmos propriamente na matéria da ordem do dia - e de acordo com o acordado com os \nrepresentantes dos grupos e agrupamentos parlamentares -, a Mesa vai apresentar um voto de pesar à vossa consideração, para que ele possa merecer a votação do Parlamento Português.\nO texto desse voto de pesar é o seguinte:\nSe a morte de Tancredo Neves suscita no Brasil razão profunda para uma magoada tristeza, os Portugueses não deixam de sentir, de igual modo, o desaparecimento de um grande estadista, de um grande homem, de um grande amigo de Portugal. Portugal e o Brasil, que tantas vezes têm vivido, conjuntamente, a satisfação de glórias mútuas, são incapazes de se estranharem nos momentos de desventura. Por isso, vivemos hoje aquela tristeza com a profundidade de quem perde um dos seus entes queridos.", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Se a morte de Tancredo Neves suscita no Brasil razão profunda para uma magoada tristeza, os Portugueses não deixam de sentir, de igual modo, o desaparecimento de um grande estadista, de um grande homem, de um grande amigo de Portugal. Portugal e o Brasil, que tantas vezes têm vivido, conjuntamente, a satisfação de glórias mútuas, são incapazes de se estranharem nos momentos de desventura. Por isso, vivemos hoje aquela tristeza com a profundidade de quem perde um dos seus entes queridos.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Presidente", 
    "text": "Portador de um projecto de conciliação, progresso e esperança para a grande nação irmã, para sulcar forte e com firmeza os caminhos da democracia, o Presidente eleito do Brasil deixa-nos a saudade de um grande construtor de ideias e a memória que irá servir de fundamento ao futuro que se deseja.\nNesta Assembleia, neste hemiciclo soam ainda, como eco admirável, as palavras que teve a oportunidade de nos dirigir.\nPorque o temos presente, porque reconhecemos a força e o vigor do seu projecto, acompanhamos e vivemos a dor que o povo brasileiro está sofrendo pela perda do seu Presidente.\nPor isso, considerando os passos históricos que têm irmanado Portugal e o Brasil, a Assembleia da República manifesta o seu mais profundo pesar ao povo brasileiro, ao Presidente da República do Brasil e às instituições que traduzem aquela grande nação pela perda de Tancredo Neves.\nEste o voto de pesar da Assembleia da República de Portugal.\nVamos votar este voto de pesar, Srs. Deputados.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado por unanimidade, tendo-se registado a ausência do deputado independente António Gonzalez.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Sr. Presidente, Srs. Deputados: Faz pouco tempo ainda que festejámos, nesta Assembleia, a eleição que confirmou Tancredo Neves na Presidência da República do Brasil.\nFaz menos tempo ainda que tivemos a honra de, pessoalmente, saudar o intrépido lutador pela liberdade, o democrata convicto e persistente que durante 50 anos ininterruptos de actividade parlamentar e política, se dedicou inteiramente ao serviço do povo brasileiro.\nNós todos que nesta Casa fizemos nossas as esperanças e a fé desse povo irmão, na sua acção em prol da instauração definitiva, no Brasil, de uma democracia plena, vemo-nos agora, tão pouco tempo volvido, constrangidos a chorar a sua partida deste mundo.\nNada pode o homem nem os povos, contra os desígnios da Providência.\nCerta está a morte de todos", 
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Vilhena de Carvalho* (ASDI): Sr. Presidente, Srs. Deputados: Faz pouco tempo ainda que festejámos, nesta Assembleia, a eleição que confirmou Tancredo Neves na Presidência da República do Brasil.\nFaz menos tempo ainda que tivemos a honra de, pessoalmente, saudar o intrépido lutador pela liberdade, o democrata convicto e persistente que durante 50 anos ininterruptos de actividade parlamentar e política, se dedicou inteiramente ao serviço do povo brasileiro.\nNós todos que nesta Casa fizemos nossas as esperanças e a fé desse povo irmão, na sua acção em prol da instauração definitiva, no Brasil, de uma democracia plena, vemo-nos agora, tão pouco tempo volvido, constrangidos a chorar a sua partida deste mundo.\nNada pode o homem nem os povos, contra os desígnios da Providência.\nCerta está a morte de todos", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Vilhena de Carvalho", 
    "text": "23 DE ABRIL DE 1985 2933", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Vilhena de Carvalho", 
    "text": "nós, em hora incerta. Mas há mortes que tocam mais profundamente, como é o caso do Presidente Tancredo Neves.\nUm poeta de um país africano de língua oficial portuguesa - Multimati Barnabé João - diz num seu poema: \nQuando alguém se ergue acima do povo Fica por enterrar, porque é muito grande.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: É o mais belo epitáfio que poderíamos achar para Tancredo Neves.\nA sua morte, será semente de vida e de esperança.\nA democracia também se constrói sobre a campa dos democratas.\nQue a saudade de Tancredo e a dor da sua perda, sejam tónus bastante para que José Sarney, o Presidente sucessor, honre - do que estamos certos -, a sua memória.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "É o mais belo epitáfio que poderíamos achar para Tancredo Neves.\nA sua morte, será semente de vida e de esperança.\nA democracia também se constrói sobre a campa dos democratas.\nQue a saudade de Tancredo e a dor da sua perda, sejam tónus bastante para que José Sarney, o Presidente sucessor, honre - do que estamos certos -, a sua memória.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Carlos Brito.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Carlos Brito.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Carlos Brito* (PCP): Sr. Presidente, Srs. Deputados: \nAssociámo-nos e votámos a favor do voto apresentado pelo Sr. Presidente da Assembleia da República e queríamos, na oportunidade, formular algumas considerações.\nSr. Presidente, Srs. Deputados: Manifestamos o pesar do Grupo Parlamentar do PCP pela morte de Tancredo Neves, Presidente da República do Brasil, tão profunda e sentidamente como saudamos com entusiasmo a sua eleição e como nos regozijámos com amizade pela sua visita a Portugal e à Assembleia da República.\nTancredo Neves contribuiu de forma tão importante para o grande movimento popular que visa reconduzir o Brasil aos caminhos da democracia que se tornou não apenas o líder mais destacado deste movimento mas um dos seus principais centros polarizadores e seu verdadeiro símbolo. Por isso mesmo, o desaparecimento tão prematuro do Presidente Tancredo Neves - antes mesmo da tomada de posse - é mais do que uma perda de grande vulto para o Brasil; é também um motivo de grande preocupação para os destinos próximos do processo de \ndemocratização da vida brasileira e para quantos o seguem, \ninteressadamente, do exterior.\nÉ certo, como ensina a sabedoria das nações, que não há homens insubstituíveis. Em todo o caso, há que reconhecer que no processo democrático do Brasil, o lugar deixado vago pelo desaparecimento de Tancredo Neves muito dificilmente será preenchido.\nO grande movimento popular pela democratização que já deu muitas provas de força e de determinação, esse está em marcha, e continuará e saberá gerar os seus novos representantes. A esse grande movimento popular confiamos as nossas esperanças, a ele ou à inteligência e tacto das forças democráticas do Brasil que saberão ultrapassar as dificuldades formais e os obstáculos políticos que os inimigos da democracia não deixarão de lançar no seu caminho.\nInclinamo-nos respeitosamente ante a memória do Presidente Tancredo Neves.\nReafirmamos a nossa convicção profunda de que nada poderá impedir que se concretize a vontade do povo brasileiro de edificar, \ndefinitivamente, um regime democrático na sua pátria.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Sr. Presidente, Srs. Deputados: \nAssociámo-nos e votámos a favor do voto apresentado pelo Sr. Presidente da Assembleia da República e queríamos, na oportunidade, formular algumas considerações.\nSr. Presidente, Srs. Deputados: Manifestamos o pesar do Grupo Parlamentar do PCP pela morte de Tancredo Neves, Presidente da República do Brasil, tão profunda e sentidamente como saudamos com entusiasmo a sua eleição e como nos regozijámos com amizade pela sua visita a Portugal e à Assembleia da República.\nTancredo Neves contribuiu de forma tão importante para o grande movimento popular que visa reconduzir o Brasil aos caminhos da democracia que se tornou não apenas o líder mais destacado deste movimento mas um dos seus principais centros polarizadores e seu verdadeiro símbolo. Por isso mesmo, o desaparecimento tão prematuro do Presidente Tancredo Neves - antes mesmo da tomada de posse - é mais do que uma perda de grande vulto para o Brasil; é também um motivo de grande preocupação para os destinos próximos do processo de \ndemocratização da vida brasileira e para quantos o seguem, \ninteressadamente, do exterior.\nÉ certo, como ensina a sabedoria das nações, que não há homens insubstituíveis. Em todo o caso, há que reconhecer que no processo democrático do Brasil, o lugar deixado vago pelo desaparecimento de Tancredo Neves muito dificilmente será preenchido.\nO grande movimento popular pela democratização que já deu muitas provas de força e de determinação, esse está em marcha, e continuará e saberá gerar os seus novos representantes. A esse grande movimento popular confiamos as nossas esperanças, a ele ou à inteligência e tacto das forças democráticas do Brasil que saberão ultrapassar as dificuldades formais e os obstáculos políticos que os inimigos da democracia não deixarão de lançar no seu caminho.\nInclinamo-nos respeitosamente ante a memória do Presidente Tancredo Neves.\nReafirmamos a nossa convicção profunda de que nada poderá impedir que se concretize a vontade do povo brasileiro de edificar, \ndefinitivamente, um regime democrático na sua pátria.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado César Oliveira.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado César Oliveira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *César Oliveira* (UEDS): Sr. Presidente, Srs. Deputados: Os Srs.Deputados que me antecederam disseram, creio, algumas das palavras essenciais que é uso proferir nestes momentos.\nNão tenho, porventura, vocação para improvisos deste género, mas gostaria de sublinhar que a recordação que nos deixou, nesta Casa, o Sr. Presidente Tancredo Neves é de molde a pensarmos que para além das contingências da vida e dos minutos que se vão escoando na desgraça e na doença, é possível, sempre, quando as pessoas lutam por causas justas, deixarem recordações indeléveis que ficam na memória dos homens a atestar a coragem política, a rectidão do proceder e o futuro de um povo.\nÉ o caso concreto do Sr. Presidente Tancredo Neves que nos deixou esta tríplice recordação: coragem política, rectidão de proceder e futuro, futuro que, se ele não pode construir, ajudou a preparar. Esperamos e estamos certos de que as forças democráticas do Brasil poderão construir um futuro democrático no Brasil sem que, de novo, um militarismo venha pairar como sombra negra sobre o quotidiano do povo do Brasil.", 
-   "type": "deputado_continuacao"
+   "party": "UEDS", 
+   "speaker": "César Oliveira", 
+   "text": "Sr. Presidente, Srs. Deputados: Os Srs.Deputados que me antecederam disseram, creio, algumas das palavras essenciais que é uso proferir nestes momentos.\nNão tenho, porventura, vocação para improvisos deste género, mas gostaria de sublinhar que a recordação que nos deixou, nesta Casa, o Sr. Presidente Tancredo Neves é de molde a pensarmos que para além das contingências da vida e dos minutos que se vão escoando na desgraça e na doença, é possível, sempre, quando as pessoas lutam por causas justas, deixarem recordações indeléveis que ficam na memória dos homens a atestar a coragem política, a rectidão do proceder e o futuro de um povo.\nÉ o caso concreto do Sr. Presidente Tancredo Neves que nos deixou esta tríplice recordação: coragem política, rectidão de proceder e futuro, futuro que, se ele não pode construir, ajudou a preparar. Esperamos e estamos certos de que as forças democráticas do Brasil poderão construir um futuro democrático no Brasil sem que, de novo, um militarismo venha pairar como sombra negra sobre o quotidiano do povo do Brasil.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem agora a palavra a Sr.ª Deputada Helena Cidade Moura.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem agora a palavra a Sr.ª Deputada Helena Cidade Moura.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "A Sr.ª Helena Cidade Moura (MDP/CDE): Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Uma única história pela libertação une os dois povos português e brasileiro. Mais do que irmãos eles têm sido companheiros de uma luta comum através de séculos de vida conjunta.\nDifícil será dizer se foi o forte espírito português de emancipação em relação à Europa que emigrou e criou novas raízes no Brasil; se foi a forte individualidade brasileira, a sua fé até ao absurdo, a crença heróica e permanente no futuro que, nos últimos séculos, tem fecundado a terra portuguesa.\nDesterrados e fugitivos da Inquisição, no Brasil encontraram a possibilidade de relação fraterna com homens de todas as religiões que em Portugal lhes era então proibida. A figura do Padre António Vieira, por exemplo, não será possível entendê-la, nem literária, nem moralmente, se ao espaço português não juntarmos o vasto mundo brasileiro.\nApós luta prolongada e heróica da resistência portuguesa e da miséria em que nos colocou o domínio espanhol, foram as naus do Brasil - segundo os historiadores -, carregadas de diamantes e de ouro que vieram dar novo alento à economia portuguesa.\nFoi ainda, passados 4 séculos, que, em paga da nossa Carta de Adiamento, D. Pedro enviava do Brasil a Carta Constitucional para ser aprovada pelas Cortes Portuguesas.\nNos prenúncios da República, quando a contradição do poder oficial não conseguiu levar a efeito as comemorações do 3.º centenário de Camões, foram ainda", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, Srs. Deputados, Srs. Membros do Governo: Uma única história pela libertação une os dois povos português e brasileiro. Mais do que irmãos eles têm sido companheiros de uma luta comum através de séculos de vida conjunta.\nDifícil será dizer se foi o forte espírito português de emancipação em relação à Europa que emigrou e criou novas raízes no Brasil; se foi a forte individualidade brasileira, a sua fé até ao absurdo, a crença heróica e permanente no futuro que, nos últimos séculos, tem fecundado a terra portuguesa.\nDesterrados e fugitivos da Inquisição, no Brasil encontraram a possibilidade de relação fraterna com homens de todas as religiões que em Portugal lhes era então proibida. A figura do Padre António Vieira, por exemplo, não será possível entendê-la, nem literária, nem moralmente, se ao espaço português não juntarmos o vasto mundo brasileiro.\nApós luta prolongada e heróica da resistência portuguesa e da miséria em que nos colocou o domínio espanhol, foram as naus do Brasil - segundo os historiadores -, carregadas de diamantes e de ouro que vieram dar novo alento à economia portuguesa.\nFoi ainda, passados 4 séculos, que, em paga da nossa Carta de Adiamento, D. Pedro enviava do Brasil a Carta Constitucional para ser aprovada pelas Cortes Portuguesas.\nNos prenúncios da República, quando a contradição do poder oficial não conseguiu levar a efeito as comemorações do 3.º centenário de Camões, foram ainda", 
+   "type": "speaker_error"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
    "text": "2934 I SÉRIE-NÚMERO 73", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
    "text": "os portugueses do Brasil que realizaram, prefaciada por Ramalho Ortigão, uma das mais belas edições de Os Lusíadas.\nSr. Presidente, Srs. Deputados: em vésperas do 11.ª aniversário do 25 de Abril, cabe-nos evocar Tancredo Neves que, com profunda consciência dos problemas que avassalam não só o Brasil, mas todo o mundo, pôs a sua vida ao serviço da unidade, na base mínima da conquista para o seu povo: «da liberdade, do trabalho, de um tecto e do pão».\nO presidente Sarney assumiu já a Presidência do Brasil, ficando assim, obrigado a corresponder à força da esperança que o povo brasileiro fez florescer em Tancredo.\nVários factos ligam a figura de José Sarney a Portugal, mas talvez o mais insólito e o mais desconhecido - e que cumpre lembrar neste momento, porque será sempre altura de vincar o perfil obscurantista da polícia política do tempo do fascismo - seja o seguinte: a PIDE apreendeu o disco da campanha de José Sarney para governador de Maranhão só porque, entre cantos e músicas, apelava à participação das populações.\nO MDP/CDE sente profundamente este impasse na esperança que a eleição de Tancredo Neves gerou, mas sabe que a força de um povo é sempre bastante para vencer.\nComo disse alguém: «Quando a Terra está prenhe de desgraças ouço que um novo homem vai nascer.»", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Adriano Moreira.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Adriano Moreira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Adriano Moreira* (CDS): Sr. Presidente, Srs. Deputados: A morte de Tancredo Neves, homem de um dos «Brazis» mais vincadamente português que é Minas Gerais, faz com que, pela primeira vez, um presidente do Brasil entre directamente na história sem passar pelo Palácio do Planalto no exercício das funções para as quais tinha sido eleito, o que significa, sem qualquer veleidade literária, que nesta data de profunda crise mundial, angústia da América Latina e inquietação aguda do Brasil, lhe foi dado oferecer ao seu país - que assumiu sem limitações - um projecto de concórdia e progresso que ninguém teve ocasião de macular com as contingências do quotidiano de exercício do poder.\nDepois da Carta de Testamento de Getúlio Vargas, - cuja caneta de oiro passou, das suas, para as mãos de Tancredo Neves -, carta que durante anos animou a luta pela justiça social naquela terra e nenhum outro documento, como o projecto de mudança de Tancredo Neves, parece estar destinado a servir de ponto de referência de uma geração à qual indicou o caminho sem oportunidade de o poder guiar pessoalmente.\nA própria longa agonia parece um serviço nacional de contributo para o revigoramento mundial do humanismo, da compreensão, da busca de entendimento recíproco entre os homens, porque milhões de pessoas no Brasil - e fora dele - se concentraram longamente no seu pensamento, na sua acção no seu projecto, no seu apelo e no seu exemplo.\nTanto quanto conheço os brasileiros, Tancredo Neves entrou já na lenda popular e estará para sempre presente nas inquietações dos doutos e nas preces dos simples.\nO legado político ocidental perdeu um dos seus vigorosos servidores.\nPortugal perdeu um dos mais lídimos representantes das raízes lusíadas do mundo. O Brasil ganhou um guia espiritual que lhe dará amparo nos tempos a seguir. Nesta Casa, será sempre lembrado o discurso com que nos honrou, deixando simplesmente falar o seu coração de brasileiro que viera à Pátria comum, sentir a gente e a terra das origens, antes de enfrentar a provação final que lhe estava reservada como um privilégio cívico para servir o Brasil.\nRezamos para que descanse em paz, e não deixarei passar a oportunidade sem fazer votos para que José Sarney - que neste momento deve meditar sobre o conceito mineiro de que «a chefia do Estado não é carreira, é destino» - encontre a força de ânimo e as oportunidades favoráveis, ambas necessárias para ser o primeiro feliz executor do projecto de Tancredo Neves, que o escolheu, que o julgou capaz de o substituir e que enfrenta uma das mais sérias responsabilidades históricas do Brasil moderno: estar à altura das exigências da sua pátria e da herança de Tancredo Neves.\nQue Deus guarde o Brasil.", 
-   "type": "deputado_continuacao"
+   "party": "CDS", 
+   "speaker": "Adriano Moreira", 
+   "text": "Sr. Presidente, Srs. Deputados: A morte de Tancredo Neves, homem de um dos «Brazis» mais vincadamente português que é Minas Gerais, faz com que, pela primeira vez, um presidente do Brasil entre directamente na história sem passar pelo Palácio do Planalto no exercício das funções para as quais tinha sido eleito, o que significa, sem qualquer veleidade literária, que nesta data de profunda crise mundial, angústia da América Latina e inquietação aguda do Brasil, lhe foi dado oferecer ao seu país - que assumiu sem limitações - um projecto de concórdia e progresso que ninguém teve ocasião de macular com as contingências do quotidiano de exercício do poder.\nDepois da Carta de Testamento de Getúlio Vargas, - cuja caneta de oiro passou, das suas, para as mãos de Tancredo Neves -, carta que durante anos animou a luta pela justiça social naquela terra e nenhum outro documento, como o projecto de mudança de Tancredo Neves, parece estar destinado a servir de ponto de referência de uma geração à qual indicou o caminho sem oportunidade de o poder guiar pessoalmente.\nA própria longa agonia parece um serviço nacional de contributo para o revigoramento mundial do humanismo, da compreensão, da busca de entendimento recíproco entre os homens, porque milhões de pessoas no Brasil - e fora dele - se concentraram longamente no seu pensamento, na sua acção no seu projecto, no seu apelo e no seu exemplo.\nTanto quanto conheço os brasileiros, Tancredo Neves entrou já na lenda popular e estará para sempre presente nas inquietações dos doutos e nas preces dos simples.\nO legado político ocidental perdeu um dos seus vigorosos servidores.\nPortugal perdeu um dos mais lídimos representantes das raízes lusíadas do mundo. O Brasil ganhou um guia espiritual que lhe dará amparo nos tempos a seguir. Nesta Casa, será sempre lembrado o discurso com que nos honrou, deixando simplesmente falar o seu coração de brasileiro que viera à Pátria comum, sentir a gente e a terra das origens, antes de enfrentar a provação final que lhe estava reservada como um privilégio cívico para servir o Brasil.\nRezamos para que descanse em paz, e não deixarei passar a oportunidade sem fazer votos para que José Sarney - que neste momento deve meditar sobre o conceito mineiro de que «a chefia do Estado não é carreira, é destino» - encontre a força de ânimo e as oportunidades favoráveis, ambas necessárias para ser o primeiro feliz executor do projecto de Tancredo Neves, que o escolheu, que o julgou capaz de o substituir e que enfrenta uma das mais sérias responsabilidades históricas do Brasil moderno: estar à altura das exigências da sua pátria e da herança de Tancredo Neves.\nQue Deus guarde o Brasil.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Cardoso Ferreira.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Cardoso Ferreira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Cardoso Ferreira* (PSD): Sr. Presidente, Srs. Deputados: Também nos associamos ao voto proposto pelo Sr. Presidente, votando-o favoravelmente. De facto, entendemos que a figura de Tancredo Neves, após longos anos de luta pela liberdade e pela democracia no Brasil, conseguiu este fenómeno maravilhoso que é o reencontro de um povo com a liberdade. Com a sua morte, perdeu o Brasil e perdeu Portugal um elo de ligação pelo que achamos que ambas as nossas pátrias estão mais pobres porque esta é uma perda histórica para ambos os países.\nDe qualquer forma estamos seguros de que o que Tancredo Neves simbolizou e conseguiu encarnar em nome do povo brasileiro não será de forma alguma desperdiçado. É um legado de 50 anos de luta pela liberdade, um legado que deixou traduzido sob uma forma democrática - ânsia e aspiração máxima de um povo - e que seguramente não será malbaratado, porque estamos certos de que os seus seguidores honrarão a memória de Tancredo Neves e manterão o país brasileiro na senda da democracia, no respeito pela liberdade dos cidadãos.", 
-   "type": "deputado_continuacao"
+   "party": "PSD", 
+   "speaker": "Cardoso Ferreira", 
+   "text": "Sr. Presidente, Srs. Deputados: Também nos associamos ao voto proposto pelo Sr. Presidente, votando-o favoravelmente. De facto, entendemos que a figura de Tancredo Neves, após longos anos de luta pela liberdade e pela democracia no Brasil, conseguiu este fenómeno maravilhoso que é o reencontro de um povo com a liberdade. Com a sua morte, perdeu o Brasil e perdeu Portugal um elo de ligação pelo que achamos que ambas as nossas pátrias estão mais pobres porque esta é uma perda histórica para ambos os países.\nDe qualquer forma estamos seguros de que o que Tancredo Neves simbolizou e conseguiu encarnar em nome do povo brasileiro não será de forma alguma desperdiçado. É um legado de 50 anos de luta pela liberdade, um legado que deixou traduzido sob uma forma democrática - ânsia e aspiração máxima de um povo - e que seguramente não será malbaratado, porque estamos certos de que os seus seguidores honrarão a memória de Tancredo Neves e manterão o país brasileiro na senda da democracia, no respeito pela liberdade dos cidadãos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Raúl Rêgo.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Raúl Rêgo.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Raúl Rêgo* (PS): Sr. Presidente, Srs. Deputados: Há poucas semanas ainda ouvimos aqui, nesta Casa livre, a voz de Tancredo Neves que nos trazia de além-Atlântico a mensagem democrática de um povo que quer viver a fraternidade humana e ocupar no mundo o lugar que lhe compete pela sua grandeza, pelo seu ideal alevantado, pelas suas tradições. Ele era a voz do Brasil irmão, buscando talhar o seu futuro de povo livre entre as grandes nações livres do mundo.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Raúl Rêgo", 
+   "text": "Sr. Presidente, Srs. Deputados: Há poucas semanas ainda ouvimos aqui, nesta Casa livre, a voz de Tancredo Neves que nos trazia de além-Atlântico a mensagem democrática de um povo que quer viver a fraternidade humana e ocupar no mundo o lugar que lhe compete pela sua grandeza, pelo seu ideal alevantado, pelas suas tradições. Ele era a voz do Brasil irmão, buscando talhar o seu futuro de povo livre entre as grandes nações livres do mundo.\n23 DE ABRIL DE 1985 2935", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "23 DE ABRIL DE 1985 2935", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "party": "PS", 
+   "speaker": "Raúl Rêgo", 
    "text": "Tancredo Neves cuja eloquência, enraizada na sinceridade da sua alma e brotando estuante em palavras de estranha vibração, conquistou esta Assembleia da República desde o primeiro momento. Vinha de travar uma grande batalha de semanas e meses para a reconquista democrática do seu país. Do seu país nosso irmão. A sua batalha foi a nossa mesma batalha de há 10 anos, já que as nossas histórias têm sido paralelas desde que nos encontramos vai para 5 séculos.\nTravara uma batalha longa, desgastadora, mas dignificante, estado por estado, cidade por cidade e indo até os mais recônditos lugares do imenso Brasil. E veio a esta Casa com a mensagem de liberdade, amizade e fraternidade que é a única possível entre Portugueses e Brasileiros.\nAgigantou-se na tribuna, que foi a de António Carlos de Andrade e Silva, de Manuel Fernandes Tomaz, de José Estêvão, de António José de Almeida, e onde Epitácio Pessoa e outros Presidentes da República do Brasil deram testemunho do seu amor à liberdade, à democracia.\nTravada e ganha essa batalha em prol da libertação do seu povo e dos direitos desse mesmo povo, o Presidente Tancredo Neves viu-se a braços com outra luta. Não tomou posse da Presidência para que fora eleito e o mundo acompanhou-o dia a dia, hora a hora, no combate contra o mal que o minara e o havia de abater. Lentamente, fibra a fibra, o atleta acabou por sucumbir. Nessa demorada agonia pode dizer-se que teve a solidariedade do mundo inteiro; e bem viva, palpitante, a solidariedade de todos os portugueses. Era o Presidente eleito do Brasil, era sangue do nosso sangue, era um obreiro da grande fraternidade atlântica.\nO luto que ensombra o Brasil, ensombra Portugal. O Presidente da República Portuguesa ao deslocar-se ao país irmão é mais do que o simples portador de uma mensagem de condolências, é o intérprete do sentir de todos os portugueses na morte de um grande brasileiro, combatente da democracia. Vai ele manifestar ao povo brasileiro a aspiração do povo português de o ter sempre como companheiro na grande jornada democrática de todos os povos à conquista do futuro.\nNão chegou a subir ao pódio da Presidência o homem que o Brasil escolhera. Mas a sua mensagem fica. Ela é a da irmandade atlântica que foi dos dois imperadores do Brasil, o primeiro dos quais rei de Portugal, que se continuou depois com os Presidentes de cá e de lá, Hermes da Fonseca, Epitácio Pessoa, António José de Almeida, tantos mais, todos aqueles que traduzam realmente e em liberdade o querer de ambos os povos.\nTancredo Neves foi vencido pelo mal que o vinha minando e para o qual a ciência não encontrou remédio. Mas o seu ideal de democracia, de fraternidade entre todos os povos, de irmandade luso-brasileira, o ideal que ele proclamou ainda há pouco nesta Assembleia da República, esse não morreu com ele. Vive, solidifica-se cada vez mais, enquanto tiver obreiros que dele se compenetrem e o sirvam como Tancredo Neves se compenetrou e o serviu.\nEm nome do Partido Socialista, português que sou, com sangue no Brasil, que também tenho, apresento á grande nação irmã, imensa reserva da humanidade para o futuro, a solidariedade mais estreita na sua dor que é a nossa dor, a comunhão na esperança que é a nossa esperança na democracia.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "Vozes: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, entrando agora na matéria constante da ordem do dia, vou dar-vos conhecimento de uma mensagem enviada pelo Sr. Presidente da República.\nÉ a seguinte:", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, entrando agora na matéria constante da ordem do dia, vou dar-vos conhecimento de uma mensagem enviada pelo Sr. Presidente da República.\nÉ a seguinte:", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
    "text": "Nos termos dos artigos 132.º, n.º 1, e 136.º, alínea d), da \nConstituição, venho solicitar o necessário assentimento dessa Assembleia para me deslocar, em viagem de carácter oficial, à República Federativa do Brasil, a fim de assistir aos funerais do seu Presidente eleito, Dr. Tancredo de Almeida Neves, que se realizará no dia 23.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
    "text": "Apresento a V. Ex.ª os meus melhores cumprimentos.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
    "text": "Palácio de Belém, 22 de Abril de 1985. - O Presidente da República, António Ramalho Eanes.\nPor seu lado, a Comissão de Negócios Estrangeiros e Emigração deu o seguinte parecer:", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
    "text": "A Comissão de Negócios Estrangeiros e Emigração da Assembleia da República, tendo apreciado a mensagem de S. Ex.ª o Presidente da República em que solicita o assentimento para se deslocar, em viagem de carácter oficial, à República Federativa do Brasil, a fim de assistir aos funerais do seu Presidente eleito, Dr. Tancredo de Almeida Neves, que se realizará no dia 23, apresenta ao Plenário a seguinte Proposta de Resolução:", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
    "text": "Nos termos do n.º 1 do artigo 132.º da Constituição, a Assembleia da República dá o assentimento à viagem oficial de Sua Excelência o Presidente da República à República Federativa do Brasil no dia 22 do corrente.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
    "text": "Palácio de São Bento, 22 de Abril de 1985.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
    "text": "Srs. Deputados, vamos votar estes parecer e resolução nela proposta.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
    "text": "Submetido à votação, foi aprovado por unanimidade, registando-se a ausência do deputado independente António Gonzalez.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, em sinal do luto que esta Assembleia da República pretende manifestar, amanhã não terão lugar os trabalhos regimentais, pelo que nem o Plenário nem as Comissões funcionarão. Assim, a matéria constante da ordem do dia da sessão que amanhã deveria ter lugar passará para o dia 2 de Maio.\nPor último, lembro aos Srs. Deputados que no dia 25 haverá uma sessão solene neste hemiciclo e que no dia 26 terá lugar uma sessão de perguntas ao Governo. Entretanto proponho que o Plenário do dia 2 de Maio, quinta-feira, reúna às 10 horas.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Sr. Presidente da Assembleia da República: Excelência", 
-   "text": "Srs. Deputados está encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, em sinal do luto que esta Assembleia da República pretende manifestar, amanhã não terão lugar os trabalhos regimentais, pelo que nem o Plenário nem as Comissões funcionarão. Assim, a matéria constante da ordem do dia da sessão que amanhã deveria ter lugar passará para o dia 2 de Maio.\nPor último, lembro aos Srs. Deputados que no dia 25 haverá uma sessão solene neste hemiciclo e que no dia 26 terá lugar uma sessão de perguntas ao Governo. Entretanto proponho que o Plenário do dia 2 de Maio, quinta-feira, reúna às 10 horas.\nSrs. Deputados está encerrada a sessão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 17 horas e 25 minutos.", 
@@ -374,13 +337,13 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
    "speaker": "Partido Socialista", 
    "text": " Luís Abílio da Conceição Cacito.", 
-   "type": "deputado_aparte"
+   "type": "deputado_intervencao"
   }, 
   {
    "party": "PS", 

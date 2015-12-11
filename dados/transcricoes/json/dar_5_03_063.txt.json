@@ -37,8 +37,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 16 horas e 50 minutos.", 
@@ -47,17 +48,19 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Partido Social-Democrata", 
    "text": "Alberto Cerqueira de Oliveira.\nAlberto Monteiro de Araújo.\nAlexandre Azevedo Monteiro.\nAmândio Santa Cruz Basto Oliveira.\nAntónio Abílio Costa.\nAntónio Augusto Ramos \nAntónio de Carvalho Martins.\nAntónio Cosia de A. Sousa Lara.\nAntónio Fernandes Ribeiro.\nAntónio Joaquim Correia Vairinhos.\nAntónio Jorge Santos Pereira.\nAntónio Manuel Lopes Tavares.\nAntónio Maria Ourique Mendes.\nAntónio Sérgio Barbosa de Azevedo.\nAristides Alves do Nascimento Teixeira.\nArlindo da Silva André Moreira.\nArménio dos Santos.\nBelarmino Henriques Correia.\nCarlos Lélis da Câmara Gonçalves.\nCarlos Manuel Duarte Oliveira.\nCarlos Manuel Oliveira da Silva.\nCarlos Manuel Pereira Baptista.\nCarlos Miguel M. de Almeida Coelho.\nCasimiro Gomes Pereira.\nCecília Pita Catarino.\nDaniel Abílio Ferreira Bastos.\nDinah Serrão Alhandra.\nDomingos da Silva e Sousa.\nEvaristo de Almeida Guerra de Oliveira.\nFernando Barata Rocha.\nFernando José Antunes Gomes Pereira.\nFernando José R. Roque Correia Afonso.\nFernando Manuel Alves Cardoso Ferreira.\nFilipe Manuel Silva Abreu.\nFlausino José Pereira da Silva.\nFrancisco Antunes da Silva.\nFrancisco João Bernardino da Silva.\nFrancisco Mendes Costa.\nGuido Orlando de Freitas Rodrigues.\nGuilherme Henrique V. Rodrigues da Silva.\nHilário Torres Azevedo Marques.\nJaime Carlos Marta Soares.\nJaime Gomes Mil-Homens.\nJoão Álvaro Poças Santos.\nJoão Costa da Silva.\nJoão Domingos F. de Abreu Salgado.\nJoão José Pedreira de Matos.\nJoão José da Silva Maças.\nJoão Maria Ferreira Teixeira.\nJoão Soares Pinto Montenegro.\nJoaquim Eduardo Gomes.\nJoaquim Fernandes Marques.\nJoaquim Vilela de Araújo.\nJorge Paulo Seabra Roque da Cunha.\nJosé Álvaro Machado Pacheco Pereira.\nJosé Assunção Marques.\nJosé Augusto Santos Silva Marques.\nJosé Guilherme Pereira Coelho dos Reis.\nJosé Lapa Pessoa Paiva. José Leite Machado.\nJosé Luís Bonifácio Ramos.\nJosé Luís de Carvalho Lalanda Ribeiro.\nJosé Manuel Rodrigues Casqueiro.\nJosé Manuel da Silva Torres.\nJosé Mário Lemos Damião.\nJosé Pereira Lopes.\nJosé de Vargas Bulcão.\nLeonardo Eugénio Ribeiro de Almeida.\nLicinio Moreira da Silva.\nLuís António Martins.\nLuís Filipe Garrido Pais de Sousa.\nLuís Filipe Meneses Lopes.\nLuís Manuel Costa Geraldes.\nLuís Manuel Neves Rodrigues.\nLuís da Silva Carvalho.\nManuel Coelho dos Santos.\nManuel Ferreira Martins.\nManuel João Vaz Freixo.\nManuel Joaquim Baptista Cardoso.\nManuel José Dias Soares Costa.\nManuel Maria Moreira.\nMargarida Borges de Carvalho.\nMaria da Conceição U. de Castro Pereira.\nMaria Luísa Lourenço Ferreira \nMaria Leonor Beleza M. Tavares.\nMaria Manuela Aguiar Moreira.\nMaria Teresa Pinto Basto Gouveia.\nMary Patrícia Pinheiro e Lança.\nMário de Oliveira Mendes dos Santos.\nMateus Manuel Lopes de Brito.\nMiguel Fernando C. de Miranda Relvas.\nNuno Francisco F. Delerue Alvim de Matos.\nNuno Miguel S. Ferreira Silvestre.\nPedro Augusto Cunha Pinto.\nPedro Domingos de S. e Holstein Campilho.\nPedro Manuel Cruz Roseta.\nRui Alberto Limpo Salvada.\nRui Carlos Alvarez Carp.\nRui Manuel Almeida Mendes.\nValdemar Cardoso Alves.\nVasco Francisco Aguiar Miguel.\nVirgílio de Oliveira Carneiro.\nWalter Lopes Teixeira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -219,27 +222,27 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Declaro encerrada a sessão. Eram 17 horas e 20 minutos.\nA Banda da Guarda Nacional Republicana executou, de novo, os dois hinos nacionais.\nRealizou-se então o cortejo de saída, composto pelas mesmas \nindividualidades do de entrada, tendo o Sr. Presidente da República Popular de Moçambique, o Sr. Presidente da República e o Sr. Presidente da Assembleia da República saudado o corpo diplomático, com uma vénia, ao passarem diante da tribuna.\nEntraram durante a sessão os seguintes Srs. Deputados:", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Declaro encerrada a sessão. Eram 17 horas e 20 minutos.\nA Banda da Guarda Nacional Republicana executou, de novo, os dois hinos nacionais.\nRealizou-se então o cortejo de saída, composto pelas mesmas \nindividualidades do de entrada, tendo o Sr. Presidente da República Popular de Moçambique, o Sr. Presidente da República e o Sr. Presidente da Assembleia da República saudado o corpo diplomático, com uma vénia, ao passarem diante da tribuna.\nEntraram durante a sessão os seguintes Srs. Deputados:", 
+   "type": "presidente_encerrada"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "Domingos Duarte Lima.\nFernando Monteiro do Amaral.\nGilberto Parca Madaíl.\nJosé Alberto Puig dos Santos Costa.\nManuel Augusto Pinto Barros.\nReinaldo Alberto Ramos Gomes.\nVítor Pereira Crespo.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
    "speaker": "Partido Socialista", 
    "text": " José Carlos P. Basto da Mota Torres.", 
-   "type": "deputado_aparte"
+   "type": "deputado_intervencao"
   }, 
   {
    "speaker": "Faltaram à sessão os seguintes Srs. Deputados", 

@@ -21,8 +21,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a reunião.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a reunião.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 12 horas e 5 minutos.", 
@@ -31,167 +32,200 @@
   {
    "speaker": "Srs. Deputados presentes à reunião", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à reunião", 
    "text": "Partido Social Democrata (PSD): \nAna Maria Sequeira Mendes Pires Manso \nArménio dos Santos \nDuarte Rogério Matos Ventura Pacheco \nEduardo Artur Neves Moreira \nFernando Santos Pereira \nGonçalo Dinis Quaresma Sousa Capitão \nGuilherme Henrique Valente Rodrigues da Silva \nHugo José Teixeira Velosa \nJoão Bosco Soares Mota Amaral \nJorge Nuno Fernandes Traila Monteiro de Sá \nJosé Luís Campos Vieira de Castro \nLuís Filipe Alexandre Rodrigues \nLuís Maria de Barros Serra Marques Guedes \nMaria Leonor Couceiro Pizarro Beleza de Mendonça Tavares \nMaria Natália Guterres Viegas Carrascalão da Conceição Antunes Maria Ofélia Fernandes dos Santos Moleiro \nMiguel Jorge Reis Antunes Frasquilho", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à reunião", 
    "text": "Partido Socialista (PS): \nAntónio Bento da Silva Galamba \nAntónio José Martins Seguro \nFernando Pereira Serrasqueiro \nGuilherme Valdemar Pereira d'Oliveira Martins \nJorge Manuel Gouveia Strecht Ribeiro \nJosé Adelmo Gouveia Bordalo Junqueiro \nJosé Carlos Correia Mota de Andrade \nJosé Manuel Santos de Magalhães \nLuís Afonso Cerqueira Natividade Candal \nManuel Alegre de Melo Duarte \nManuel Maria Ferreira Carrilho \nMaria Manuela de Macedo Pinho e Melo \nRui António Ferreira da Cunha", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à reunião", 
    "text": "Partido Popular (CDS-PP): \nJoão Nuno Lacerda Teixeira de Melo \nJoão Rodrigo Pinho de Almeida \nJosé Miguel Nunes Anacoreta Correia \nNarana Sinai Coissoró", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à reunião", 
    "text": "Partido Comunista Português (PCP): \nAntónio Filipe Gaião Rodrigues \nBernardino José Torrão Soares \nMaria Luísa Raimundo Mesquita", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à reunião", 
    "text": "Bloco de Esquerda (BE): \nFrancisco Anacleto Louçã", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados presentes à reunião", 
    "text": "Partido Ecologista \"Os Verdes\" (PEV): \nHeloísa Augusta Baião de Brito Apolónia", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, esta reunião da Comissão Permanente resulta de uma preocupação, muito legítima e extremamente respeitável, por parte do Sr. Presidente da República, que deseja que a Assembleia da República autorize a sua saída do País para uma viagem oficial a Espanha antes da partida. Como o programa desta viagem inclui a partida às 13 horas, antevejo que o Sr. Presidente da República deva estar a aguardar, no Palácio de Belém, o envio da carta a dizer que a Assembleia da República aprova a sua deslocação, porque é isto que diz a Constituição e o Sr. Presidente da República, muito escrupulosamente, quer realmente respeitá-la.\nHá um projecto de resolução sobre esta matéria, que vou pôr \nimediatamente à votação, para poder comunicar imediatamente ao Sr.Presidente da República a autorização para a sua saída. Depois, votaremos vários pareceres da Comissão de Ética sobre autorizações de diligências judiciais e de substituições de Deputados, que também é necessário resolver imediatamente, já que se reportam à IX Legislatura.\nVamos começar por votar o projecto de resolução n.º 303/IX - Viagem do Presidente da República a Madrid (Presidente da AR), a convite do Rei de Espanha, para uma cerimónia comemorativa do horrível atentado de 11 de Março.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, esta reunião da Comissão Permanente resulta de uma preocupação, muito legítima e extremamente respeitável, por parte do Sr. Presidente da República, que deseja que a Assembleia da República autorize a sua saída do País para uma viagem oficial a Espanha antes da partida. Como o programa desta viagem inclui a partida às 13 horas, antevejo que o Sr. Presidente da República deva estar a aguardar, no Palácio de Belém, o envio da carta a dizer que a Assembleia da República aprova a sua deslocação, porque é isto que diz a Constituição e o Sr. Presidente da República, muito escrupulosamente, quer realmente respeitá-la.\nHá um projecto de resolução sobre esta matéria, que vou pôr \nimediatamente à votação, para poder comunicar imediatamente ao Sr.Presidente da República a autorização para a sua saída. Depois, votaremos vários pareceres da Comissão de Ética sobre autorizações de diligências judiciais e de substituições de Deputados, que também é necessário resolver imediatamente, já que se reportam à IX Legislatura.\nVamos começar por votar o projecto de resolução n.º 303/IX - Viagem do Presidente da República a Madrid (Presidente da AR), a convite do Rei de Espanha, para uma cerimónia comemorativa do horrível atentado de 11 de Março.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, o Sr. Secretário vai dar conta de seis pareceres da Comissão de Ética.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai dar conta de seis pareceres da Comissão de Ética.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Secretário* (Duarte Pacheco): Sr. Presidente e Srs. Deputados, o relatório e parecer da Comissão de Ética refere-se à substituição do Sr. Deputado Mário Albuquerque (PSD), círculo eleitoral de Santarém, com efeitos a 22 de Fevereiro de 2005, inclusive, pelo Sr. Deputado João Moura Rodrigues.", 
-   "type": "continuacao"
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, o relatório e parecer da Comissão de Ética refere-se à substituição do Sr. Deputado Mário Albuquerque (PSD), círculo eleitoral de Santarém, com efeitos a 22 de Fevereiro de 2005, inclusive, pelo Sr. Deputado João Moura Rodrigues.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em apreciação.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em apreciação.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não havendo pedidos de palavra, vamos votar.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Secretário* (Duarte Pacheco): Sr. Presidente e Srs. Deputados, o relatório e parecer da Comissão de Ética refere-se à substituição do Sr. Deputado Manuel Alves de Oliveira (PSD), círculo eleitoral de Aveiro, com efeitos a 20 de Fevereiro de 2005, inclusive, pelo Sr.Deputado Pina Marques.", 
-   "type": "continuacao"
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, o relatório e parecer da Comissão de Ética refere-se à substituição do Sr. Deputado Manuel Alves de Oliveira (PSD), círculo eleitoral de Aveiro, com efeitos a 20 de Fevereiro de 2005, inclusive, pelo Sr.Deputado Pina Marques.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em apreciação.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em apreciação.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não havendo pedidos de palavra, vamos votar.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Secretário* (Duarte Pacheco): Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo Ministério Público - Distrito Judicial de Lisboa, 7.ª Secção do DIAP, Inquérito n.º 13695/04.7TDLSB-0700, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr.Deputado Paulo Pedroso (PS) a prestar depoimento, na qualidade de testemunha, no âmbito do processo em referência.", 
-   "type": "continuacao"
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo Ministério Público - Distrito Judicial de Lisboa, 7.ª Secção do DIAP, Inquérito n.º 13695/04.7TDLSB-0700, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr.Deputado Paulo Pedroso (PS) a prestar depoimento, na qualidade de testemunha, no âmbito do processo em referência.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em discussão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em discussão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não havendo pedidos de palavra, vamos votar.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Secretário* (Duarte Pacheco): Sr. Presidente e Srs. Deputados, de acordo com o solicitado pela 15.ª Vara Cível de Lisboa - 1.ª secção, Processo n.º 426/1996, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Tavares Moreira (PSD) a prestar depoimento por escrito, na qualidade de testemunha, no âmbito dos autos em referência.", 
-   "type": "continuacao"
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, de acordo com o solicitado pela 15.ª Vara Cível de Lisboa - 1.ª secção, Processo n.º 426/1996, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Tavares Moreira (PSD) a prestar depoimento por escrito, na qualidade de testemunha, no âmbito dos autos em referência.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em discussão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em discussão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não havendo pedidos de palavra, vamos votar.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Secretário* (Duarte Pacheco): Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo Tribunal Judicial de Barcelos - 2.º Juízo de Competência Criminal, Processo n.º 1453/03.0TABCL, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Henrique Campos Cunha (CDS-PP) a prestar depoimento por escrito, na qualidade de testemunha, no âmbito dos autos em referência.", 
-   "type": "continuacao"
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo Tribunal Judicial de Barcelos - 2.º Juízo de Competência Criminal, Processo n.º 1453/03.0TABCL, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Henrique Campos Cunha (CDS-PP) a prestar depoimento por escrito, na qualidade de testemunha, no âmbito dos autos em referência.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em discussão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em discussão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não havendo pedidos de palavra, vamos votar.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Secretário* (Duarte Pacheco): Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo Tribunal de Contas, Processo n.º 37/04/Audit./DA VI, a Comissão de Ética decidiu emitir parecer no sentido de autorizar a Sr.ª Deputada Maria de Belém Roseira (PS) a prestar depoimento por escrito, no âmbito dos autos em referência.", 
-   "type": "continuacao"
+   "party": "Duarte Pacheco", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo Tribunal de Contas, Processo n.º 37/04/Audit./DA VI, a Comissão de Ética decidiu emitir parecer no sentido de autorizar a Sr.ª Deputada Maria de Belém Roseira (PS) a prestar depoimento por escrito, no âmbito dos autos em referência.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em discussão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em discussão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Não havendo pedidos de palavra, vamos votar.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, encontram-se aqui a participar nesta reunião da Comissão Permanente Sr.as e Srs. Deputados que, não tendo sido candidatos nestas eleições, não participarão da sessão plenária da parte da tarde, pelo que peço para eles uma saudação especial amiga e muito cordial.\nSrs. Deputados, está encerrada a reunião.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 12 horas e 10 minutos.", 
@@ -200,11 +234,12 @@
   {
    "speaker": "Srs. Deputados que faltaram à reunião", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Srs. Deputados que faltaram à reunião", 
    "text": "Partido Socialista (PS): \nAna Catarina Veiga Santos Mendonça Mendes \nAna Maria Benavente da Silva Nuno", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

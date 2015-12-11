@@ -41,12 +41,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs Deputados, temos quórum, pelo que declaro aberta a sessão.\n_Eram 15 horas e 25 minutos_.", 
-   "type": null
-  }, 
-  {
-   "text": "Estavam presentes os seguintes Srs. Deputado", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs Deputados, temos quórum, pelo que declaro aberta a sessão.\n_Eram 15 horas e 25 minutos_.\nEstavam presentes os seguintes Srs. Deputado", 
+   "type": "presidente_aberta"
   }, 
   {
    "party": "PSD", 
@@ -143,753 +140,694 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas que deram entrada na Mesa.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o Sr. Secretário vai dar conta dos diplomas que deram entrada na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Secretário* (João Salgado): Sr. Presidente e Srs Deputados, deram entrada na Mesa e foram admitidos os seguintes diplomas: \nratificação n º 88/VI - Decreto-Lei n º 278/93, de 10 de Agosto, que altera o Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n º 321-B/90, de 15 de Outubro (PCP); ratificação n.º 89/VI - Decreto-Lei n.º 278/93, de 10 de Agosto, que altera o Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de Outubro (PS)", 
-   "type": "deputado_continuacao"
+   "party": "João Salgado", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs Deputados, deram entrada na Mesa e foram admitidos os seguintes diplomas: \nratificação n º 88/VI - Decreto-Lei n º 278/93, de 10 de Agosto, que altera o Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n º 321-B/90, de 15 de Outubro (PCP); ratificação n.º 89/VI - Decreto-Lei n.º 278/93, de 10 de Agosto, que altera o Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de Outubro (PS)", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, cumpre-me informar a Câmara do teor de uma mensagem que recebi do Sr. Presidente da República e reza o seguinte. Tenho a honra de junto devolver a V. Ex.0, nos termos dos arhgos 139.º, n.º 5, e 279.º, n.º 1, da Constituição da República, o Decreto da Assembleia da República n.º 130/VI, referente à \"Reforma do Tribunal de Contas\", uma vez que o Tribunal Constitucional, através do douto Acórdão n º 459/93, de 16 de Agosto de 1993, se pronunciou, em sede de fiscalização preventiva da constitucionalidade, pela inconstitucionalidade da norma constante do artigo único do referido decreto - na parte em que dá nova redacção ao artigo 43.º da Lei n.º 86789, de 8 de Setembro.\nPassamos agora ao único ponto da ordem de trabalhos da sessão de hoje, a votação final global da proposta de lei n.º 73/VI, que aprova o novo regime do direito de asilo.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, cumpre-me informar a Câmara do teor de uma mensagem que recebi do Sr. Presidente da República e reza o seguinte. Tenho a honra de junto devolver a V. Ex.0, nos termos dos arhgos 139.º, n.º 5, e 279.º, n.º 1, da Constituição da República, o Decreto da Assembleia da República n.º 130/VI, referente à \"Reforma do Tribunal de Contas\", uma vez que o Tribunal Constitucional, através do douto Acórdão n º 459/93, de 16 de Agosto de 1993, se pronunciou, em sede de fiscalização preventiva da constitucionalidade, pela inconstitucionalidade da norma constante do artigo único do referido decreto - na parte em que dá nova redacção ao artigo 43.º da Lei n.º 86789, de 8 de Setembro.\nPassamos agora ao único ponto da ordem de trabalhos da sessão de hoje, a votação final global da proposta de lei n.º 73/VI, que aprova o novo regime do direito de asilo.\n3226", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "3226", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "I SÉRIE-NÚMERO 9,7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "De acordo, porém,com o convénio estabelecido na Conferência dos Representantes dos Grupos Parlamentares, haverá lugar, antes de mais, à apresentação e votação de vários requerimentos de, avocação a Plenário de votações na especialidade de preceitos constantes,do referido diploma.\nSó depois, mas antes da votação final global da proposta de lei, darei a palavra sucessivamente à cada um dos representantes dos grupos parlamentares para, pelo tempo máximo de cinco minutos, fazerem a sua consideraçâo final sobre o diploma em causa.\nTeremos, em todo o caso, de interromper brevemente os trabalhos, para permitir a distribuição dos textos dos mencionados requerimentos de avocação.\nEstá suspensa a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 15 horas e 30 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, está reaberta a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 15 horas e 45 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Srs Deputados, ordenados e distribuídos os requerimentos de avocação referidos iremos votá-los pela ordem numérica dos artigos e, dentro de cada artigo, pela ordem de apresentação dos requerimentos na Mesa.\nAssim sendo, o primeiro requerimento de avocação a Plenário, da iniciativa do Partido Socialista, diz respeito ao n º 2 do artigo 4.º da proposta de lei em apreço.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Para proceder à leitura deste requerimento tem a palavra o Sr Deputado José Lamego.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "O Sr José Lamego(PS):-Sr. Presidente, Srs. Deputados. O Grupo Parlamentar do Partido Socialista requer a avocação pelo Plenário da votação do n º 2 do artigo 4 º da proposta de lei n º 73/VI, que aprova o novo regime do direito de asilo.\nO referido preceito, ao funcionalizar o exercício de um direito a considerações sobre segurança interna e externa, viola a \ngarantia,constítucional do, asilo como direito fundamental, \nestabelecida no n. º 6 do artigo 33 º da Constituição da República Portuguesa.\nEm circunstâncias juridicas semelhantes, onde havia \nconstitucionalização do direito de asilo, têm entendido á \njurisprudência constítucional e a doutrina que a garantia \nconstítucional do direito de asilo torna ilegítima e inconstitucional a invocação de razões de segurança como fundamento da restrição do direito de asilo.\nPara além da violação do n º 6 do artigo 33.º da Constituição da República Portuguesa, o n º2 do artigo 4.º da proposta de lei n º 73/VI ofende o princípio do Estado de Direito democrático,garantido pelo artigo 2º, da Constituição, na medida em que \"a garantia de efectivação de direitos e liberdades fundamentais\" estabelecida, neste preceito constítucional é destruída pela subordinação do exercicio de um direito a uma cláusula geral (\"motivos de segurança interna e externa\"), de impossível ou muito difícil, sindicabilidade em recurso contencioso.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "O Sr .Presidente:- Vai proceder-se á votação do requerimento de avocação a Plenário da votação na especialidade do n.º2 do artigo 4º apresentado pelo PS.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi rejeitado com votos contra do PSD, votos a favor do PS do PCP, do CDS, de Os Verdes e do Deputado independente Mário Tomé e a abstenção do PSN.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Sobre o artigo 5.º foram formulados dois requerimentos de avocação a Plenário da respectiva votação na especialidade, um pelo PCP e outro pelo PS.\nComo o do PCP deu entrada na Mesa em primeiro lugar, dou a palavra, para proceder à sua leitura, ao Sr Deputado António Filipe.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "O Sr António Filipe(PCP):-Sr. Presidente, Srs. Deputados. A legislação em vigor relativa ao direito de asilo estabelece muito justamente que os efeitos do asilo devem ser declarados extensivos ao cônjuge e aos filhos menores do requerente e podem ser declarados extensivos a outros membros do seu agregado familiar.\nO artigo 5 º da proposta de lei acaba injustificadamente com a obrigatoriedade de extensão dos efeitos do asilo ao cônjuge e filhos menores do requerente e exclui mesmo essa possibilidade quanto a outros membros do seu agregado familiar, para além do cônjuge, filhos menores ou incapazes e pai e mãe do requerente, quando menor.\nTal como alertam, e muito bem, o Alto Comissariado das Nações Unidas para os Refugiados e o Conselho Português para os Refugiados, esta restrição é incompatível com o artigo 36 º, n.º 6, da Constituição, que proíbe que os filhos menores sejam separados dos pais,e,afasta-se do conceito de agregado familiar consagrado no artigo 8º da Convenção Europeia dos Direitos do Homem.\nO texto proposto pelo Governo, e aprovado pelo PSD permite que seja reconhecido,a um cidadão o,direito de asilo em Portugal, mas que os efeitos desse reconhecimento não sejam extensivos ao seu cônjuge e filhos menores. Para além de considerações de ordem constitucional, esta norma é inconcebível pela sua desumanidade, e surge como uma forma de negar na prática o direito de asilo, mesmo quando formalmente reconhecido.\nAssim, ao abrigo do-artigo 163º do Regimento da Assembleia da República, os Deputados do Grupo Parlamentar do PCP, requerem a avocação pelo Plénário da votação na especialidade do artigo 5.º do texto aprovado em comissão relativo à proposta de lei que aprova o novo regime do direito de asilo.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "O Sr Presidente:- Vamos votar o requerimento de avocação a Plenário da votação na especialidade do artigo 5 º, apresentado pelo PCP e agora lido.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Submetido à votação foi rejeitado, com votos contra do PSD e votos a favor do PS, do PCP, do CDS, de Os- Verdes, do PSN e do Deputado independente Mário Tomé.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "A votação do requerimento apresentado pelo PS em relação ao mesmo artigo fica, assim, prejudicada pelo resultado da votação a, que acabámos de proceder.\nPara fazer a leitura do requerimento de avocação a Plenário da votação na especialidade do artigo 10.º igualmente apresentado pelo PCP, tem a palavra o Sr. Deputado António Filipe.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "O Sr António Filipe (PCP):-Sr. Presidente, Srs Deputados. O artigo 10 º da proposta do Governo, aprovada em comissão pelo PSD, .acaba com a concessão de asilo por razões humanitárias.\nDe acordo com a lei em vigor, aprovada em 1980, pode ser concedido asilo em Portugal aos estrangeiros e apátridas que não queiram voltar ao Estado da sua nacionalidade ou da sua residência habitual por motivos de insegurança devida a conflitos armados ou da sistemática violação dos direitos humanos que ali se verifiquem.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "25 DE AGOSTO DE 1993", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "A concessão do direito de asilo por razões humanitárias nunca foi tão justificada como nos dias de hoje, em que os conflitos armados e as violações de direitos humanos1 dilaceram a Europa e o mundo.\nPrecisamente agora, quando surgem razões acrescidas para a concessão de asilo por razões humanitárias, é que o PSD pretende acabar com ele, negando o estatuto de refugiado às vítimas de conflitos armados e às potenciais vítimas de violações dos direitos humanos \nCom esta atitude o PSD revela bem o conceito que tem das razões humanitárias e dos direitos humanos. As razões humanitárias serviram em 1980 como arma política de arremesso no quadro da guerra fria. Agora que essa arma deixou de ser necessária, as razões humanitárias deixam de ser relevantes e o PSD já não se importa com as violações dos direitos humanos Precisamente agora, quando mais do que nunca a concessão do asilo por razões humanitárias deveria funcionar, é que o PSD quer acabar com ele, fechando as portas do nosso país a quem vê a sua vida e os seus direitos humanos, ameaçados.\nAssim, ao abrigo do artigo 163.º do Regimento da Assembleia da República, os Deputados do Grupo Parlamentar do PCP requerem a avocação pelo Plenário da votação na especialidade do artigo 10.º do texto em apreço.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Presidente*: Vamos votar o requerimento que acaba de ser lido, apresentado pelo PCP.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Vamos votar o requerimento que acaba de ser lido, apresentado pelo PCP.\nSubmetido à votação, foi rejeitado, com votos contra do PSD, do CDS e do PSN e votos a favor do PS, do PCP, de Os Verdes e do Deputado independente Mário Tomé.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "Submetido à votação, foi rejeitado, com votos contra do PSD, do CDS e do PSN e votos a favor do PS, do PCP, de Os Verdes e do Deputado independente Mário Tomé.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "No que respeita ao artigo 12.º, deram entrada na Mesa dois \nrequerimentos de avocação a Plenário da respectiva votação na especialidade, um da iniciativa do PS e o outro do PCP.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Uma vez que o do PS foi apresentado em primeiro lugar, dou a palavra, para proceder à sua leitura, ao Sr. Deputado Alberto Costa", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "O Sr Alberto Costa (PS)- Sr. Presidente, Srs Deputados passo a enunciar os fundamentos do nosso requerimento.\nA nomeação pelo Governo de um magistrado judicial para Alto Comissário dos Refugiados, sob proposta dos Ministros da Administração Interna e da Justiça, após simples audição do Conselho Superior da Magistratura, é solução que fere o estatuto constítucional dos juízes numa das suas mais relevantes dimensões. Trata-se, aliás de um estatuto que o Governo e a maioria parecem desconhecer ou desprezar, tantas têm sido, apesar das advertências, as vezes que ultimamente o têm violado! \nA Constituição, ao deferir a nomeação e colocação dos juízes a órgão de governo próprio, consagra uma garantia da sua independência e autonomia face ao poder político, que não é compatível com uma mera \"audição\" de tal órgão, a preceder uma nomeação governamental, para mais sem explicitação legal de quaisquer regras procedimentais.\nA atribuir-se relevância, como se pretende, à qualidade de magistrado judicial, então a designação não poderia deixar de ser feita pelo órgão competente para a nomeação e colocação de juízes. De outro modo, como acontece na solução proposta, o que existe é uma instrumentalização da qualidade de magistrado, em violação dos princípios de independência e de governo próprio constantes dos artigos 206 º e 219 º da \nConstituição.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr Presidente: Vamos votar o requerimento que acabou de ser lido, apresentado pelo PS", 
-   "type": "deputado_continuacao"
+   "speaker": "O Sr Presidente", 
+   "text": "Vamos votar o requerimento que acabou de ser lido, apresentado pelo PS", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "O Sr Presidente", 
    "text": "Submetido à votação, foi rejeitado, com votos contra PSD, do CDS e do PSN e votos a favor do PS, do PCP, de Os Verdes e do Deputado independente Mano Tomé.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "O Sr Presidente", 
    "text": "Nestes termos, a votação do requerimento apresentado pelo PCP em relação ao mesmo artigo 12.º fica prejudicada.\nQuanto ao artigo 17.º, foram também apresentados dois requerimentos de avocação a Plenário da respectiva' votação na especialidade, um da iniciativa do PCP e o outro do PS.\nPara proceder à leitura do requerimento apresentado pelo PCP, o primeiro a dar entrada na Mesa, tem a palavra o Sr. Deputado António Filipe.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *António Filipe* (PS): Sr. Presidente, Srs. Deputados Nos termos da Lei n.º 38/80, com a redacção que em 1983 foi dada ao seu artigo 17.º, em caso de decisão negativa sobre um requerimento de asilo o recurso que cabe para o Supremo Tribunal Administrativo tem efeito suspensivo automático.\nÈ perfeitamente compreensível e justificado este efeito suspensivo com carácter automático. Ele constitui, aliás, uma garantia fundamental para o requerente do asilo. Não fana sentido reconhecer o direito de recurso para o Supremo Tribunal Administrativo a um requerente do direito de asilo e, entretanto, proceder à sua expulsão por decisão administrativa antes da decisão final. No entanto, é isso precisamente que o Governo propõe e que o PSD aprovou em comissão \nPor esse motivo, o PCP requer a avocação ao Plenário da votação na especialidade do artigo 17.º na parte em que retira o efeito suspensivo automático ao recurso sobre a decisão que negue um requerimento de asilo.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "António Filipe", 
+   "text": "Sr. Presidente, Srs. Deputados Nos termos da Lei n.º 38/80, com a redacção que em 1983 foi dada ao seu artigo 17.º, em caso de decisão negativa sobre um requerimento de asilo o recurso que cabe para o Supremo Tribunal Administrativo tem efeito suspensivo automático.\nÈ perfeitamente compreensível e justificado este efeito suspensivo com carácter automático. Ele constitui, aliás, uma garantia fundamental para o requerente do asilo. Não fana sentido reconhecer o direito de recurso para o Supremo Tribunal Administrativo a um requerente do direito de asilo e, entretanto, proceder à sua expulsão por decisão administrativa antes da decisão final. No entanto, é isso precisamente que o Governo propõe e que o PSD aprovou em comissão \nPor esse motivo, o PCP requer a avocação ao Plenário da votação na especialidade do artigo 17.º na parte em que retira o efeito suspensivo automático ao recurso sobre a decisão que negue um requerimento de asilo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, vamos proceder à votação deste requerimento de avocação.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos proceder à votação deste requerimento de avocação.\nSubmetido à votação, foi rejeitado, com votos contra do PSD, do CDS e do PSN e votos a favor do PS, do PCP, de Os Verdes e do Deputado independente Mário Tomé", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "Submetido à votação, foi rejeitado, com votos contra do PSD, do CDS e do PSN e votos a favor do PS, do PCP, de Os Verdes e do Deputado independente Mário Tomé", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, temos agora o requerimento de avocação do PS para este mesmo artigo.\nPara fazer a sua apresentação, tem a palavra o Sr Deputado Alberto Costa.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr Alberto Costa (PS): Sr. Presidente, os nossos fundamentos são mais amplos e, em parte, diferenciados.\nA solução pretendida vem suprimir um regime de tutela efectiva do direito à justiça, caracterizado por um prazo de recurso razoável e não arbitrário e uma eficácia suspensiva do recurso resultante \nautomaticamente da lei, destinada a assegurar o efeito útil da decisão judicial para o peticionário de asilo.\nEm vez de um prazo de recurso equivalente ao prazo geral do recurso contencioso, fixa-se agora um prazo que não só é arbitrário como representa apenas um terço do prazo de que dispõe a generalidade dos recorrentes.\nNão só a garantia de um prazo razoável e não arbitrário, aqui postergada, é elemento integrante do direito de acesso aos tribunais, como acresce aqui também uma violação do princípio da igualdade, já que se pretende prescrever um prazo diferenciado bastante mais curto do que o geral para um caso em que não existem - bem pelo contrário1 - razões que justifiquem esse gravoso encurtamento, como revela, aliás, a solução diferenciada prevista para o caso de a decisão ser proferida em processo acelerado, em que o prazo é o geral.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, os nossos fundamentos são mais amplos e, em parte, diferenciados.\nA solução pretendida vem suprimir um regime de tutela efectiva do direito à justiça, caracterizado por um prazo de recurso razoável e não arbitrário e uma eficácia suspensiva do recurso resultante \nautomaticamente da lei, destinada a assegurar o efeito útil da decisão judicial para o peticionário de asilo.\nEm vez de um prazo de recurso equivalente ao prazo geral do recurso contencioso, fixa-se agora um prazo que não só é arbitrário como representa apenas um terço do prazo de que dispõe a generalidade dos recorrentes.\nNão só a garantia de um prazo razoável e não arbitrário, aqui postergada, é elemento integrante do direito de acesso aos tribunais, como acresce aqui também uma violação do princípio da igualdade, já que se pretende prescrever um prazo diferenciado bastante mais curto do que o geral para um caso em que não existem - bem pelo contrário1 - razões que justifiquem esse gravoso encurtamento, como revela, aliás, a solução diferenciada prevista para o caso de a decisão ser proferida em processo acelerado, em que o prazo é o geral.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": ". I SÉRIE - NÚMERO 97", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "Também a supressão do efeito suspensivo automático e a queda do regime geral da suspensão da eficácia, combinada com o drástico encurtamento do prazo previsto para a requerer e a especial dificuldade e melindre da ultrapassagem pelo Supremo Tribunal Administrativo, em tal incidente, das barreiras erguidas pelo emprego de cláusulas gerais e conceitos indeterminados para caracterizar o dano e o interesse público,configuram por si, a negação do direito a uma tutela judicial efectiva.\nO Governo e o PSD recusaram a manutenção do alinhamento pelo prazo geral de recurso contencioso e do efeito suspensivo automático e acabaram por rejeitar, ainda a consagração de um indispensável regime de jurisdição plena e de uma sindicabilidade mais vasta dos conceitos indeterminados e vagos, sustentada inclusivamente por um Deputado da maioria como um_meio necessário para \ncontrabalançar o drástico agravamento da posição do recorrente em relação ao padrão de tutela hoje existente e evitar a ofensa ao direito de acesso à justiça.\nConforme insistentemente argumentado na discussão na especialidade, a solução visada ofende o princípio da igualdade e o direito de acesso à justiça consagrado no artigo 20 º da Constituição, entendido este, como tem de ser, como direito a uma tutela judicial útil e acessível em condições não arbitrárias", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr Presidente: Srs.Deputados, vamos votar.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Sr Presidente", 
+   "text": "Srs.Deputados, vamos votar.", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "Submetido à votação, foi rejeitado com votos contra do PSD, do CDS e do PSN e votos a favor do PS, do PCP de Os Verdes e do Deputado independente Mário Tomé.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "Srs Deputados, tal ,como é do conhecimento do Sr. Presidente da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, no n º l do artigo 17 º, que resulta do artigo 19 º, n.º1,da Lei n.º38/80, há uma gralha.Na sua redacção falta uma vírgula, a seguir á palavra \"requerente\"Assim sendo, o texto é \"Proferida a decisão,o Serviço de Estrangeiros e Fronteiras notificá-la-á ao requerente, dela dando conhecimento...\" É esta a redacção do texto antigo e é assim que deve figurar neste texto.\nVamos agora apreciar o requerimento de avocação para os artigos 19º e 20º, apresentado pelo PCP.\nPara fazer a sua apresentação tem a sua palavra o Sr Deputado António Filipe.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "O Sr António Filipe (PCP) - Sr Presidente, Srs Deputados.Os artigos 19º e 20º da proposta de lei vêm criar um processo de concessão (melhor se diria de denegação) do asilo designado por \"processo acelerado\", que, pela sua natureza melhor, mereceria a designação de \"processo celerado\".", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "Vozes do PCP:- Muito bem!", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Orador: A criação de tal processo visa,na prática, conferir ao Ministro da Administração Interna o poder discricionário de, em quatro dias, recusar, qualquer pedido de asilo reduzindo praticamente a zero as garantias de defesa do requerente.\nEste processo tem iprazos drasticamente reduzidos, uma instrução exclusivamente policial, uma decisão exclusivamente administrativa assente em fundamentos absolutamente arbitrários e nega, na prática, qualquer possibilidade de recurso.Basta o Serviço de Estrangeiros e Fronteiras entender que as alegações de um,requerente do direito de asilo são destituídas de fundamento, basta que o requerente da concessão de asilo seja proveniente de um país \"susceptível de ser qualifïcado como país seguro\", sem que se diga na lei quem qualifica qualquer país como seguro e em qualquer caso negando \ninconstitucionalmente o direito à apreciação do caso concreto,basta que o requerente seja proveniente de um país terceiro de acolhimento, basta que o Serviço de Estrangeiros e Fronteiras invoque motivos não específicados de \"segurança pública\" para que o requerente caia nas malhas de um processo acelerado que, em quatro dias, permite ao Ministro da Administração Interna decidir da sua expulsão do território nacional.\nEste processo acelerado é claramente incompatível com a natureza de direito fundamental que o direito de asilo assumo na Constituição portuguesa.O requerente do asilo, em Portugal, tem direito a ver apreciado o seu requerimento em condições de igualdade e imparcialidade e com garantias efectivas de recurso jurisdicional.A proposta de lei não só não o assegura como pretende, obviamente, negá-lo.É \ninconstitucional e nega o direito de asilo tal como a Constituição o consagra.\nNestes termos, o Grupo Parlamentar do PCP requer a avocação ao Plenário da votação na especialidade dos artigos 19º e 20º, que criam o processo acelerado.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "A criação de tal processo visa,na prática, conferir ao Ministro da Administração Interna o poder discricionário de, em quatro dias, recusar, qualquer pedido de asilo reduzindo praticamente a zero as garantias de defesa do requerente.\nEste processo tem iprazos drasticamente reduzidos, uma instrução exclusivamente policial, uma decisão exclusivamente administrativa assente em fundamentos absolutamente arbitrários e nega, na prática, qualquer possibilidade de recurso.Basta o Serviço de Estrangeiros e Fronteiras entender que as alegações de um,requerente do direito de asilo são destituídas de fundamento, basta que o requerente da concessão de asilo seja proveniente de um país \"susceptível de ser qualifïcado como país seguro\", sem que se diga na lei quem qualifica qualquer país como seguro e em qualquer caso negando \ninconstitucionalmente o direito à apreciação do caso concreto,basta que o requerente seja proveniente de um país terceiro de acolhimento, basta que o Serviço de Estrangeiros e Fronteiras invoque motivos não específicados de \"segurança pública\" para que o requerente caia nas malhas de um processo acelerado que, em quatro dias, permite ao Ministro da Administração Interna decidir da sua expulsão do território nacional.\nEste processo acelerado é claramente incompatível com a natureza de direito fundamental que o direito de asilo assumo na Constituição portuguesa.O requerente do asilo, em Portugal, tem direito a ver apreciado o seu requerimento em condições de igualdade e imparcialidade e com garantias efectivas de recurso jurisdicional.A proposta de lei não só não o assegura como pretende, obviamente, negá-lo.É \ninconstitucional e nega o direito de asilo tal como a Constituição o consagra.\nNestes termos, o Grupo Parlamentar do PCP requer a avocação ao Plenário da votação na especialidade dos artigos 19º e 20º, que criam o processo acelerado.", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "Vozes do PCP:- Muito bem!", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "O Sr. Presidente:- Srs Deputados vamos votar o requerimento de avocação que acabou de ser lido.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "Submetido à votação, foi rejeitado, com votos contra do PSD, do CDS e do PSN e votos a favor do PS, do PCP, de Os Verdes e do Deputado independente Mário Tomé.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "Srs. Deputados, vamos passar ao requerimento de avocação da alíneas e)do artigo 19 º, apresentado pelo PS.\nPara fazer a sua apresentação, tem a palavra o Sr Deputado José Lamego.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "O Sr. José Lamego (PS) - Sr Presidente, Srs Deputados: Do ponto de vista prático, penso que há já uma decisão pré-judicial a esta.De qualquer forma, gostaria de exprimir a posição do PS na fundamentação do requerimento, que é mais restrita do que a do PCP.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "O Grupo Parlamentar do PS requer, a avocação ao Plenário da votação da alínea e) do artigo 19 º da proposta de lei n.º 73/VI.\nO referido preceito permite às entidades administrativas a determinação da forma do processo de reconhecimento do direito de asilo a partir da invocação de \"sérios motivos de segurança , interna e externa\".A determinação da forma,do processo como processo acelerado implica uma diminuição de garantias, processuais e é essa atenuação de garantias e a aceleração da tramitação que constituem o ratio essendi dessa nova forma de processo. A alínea e) do artigo 19º da proposta de lei n.º 73/VI configura uma violação da garantia constitucional do asilo estabelecida no n º 6 do artigo 33.º da Constituição e também do artigo 2 º, da Constituição, na medida em que a \"garantia da efectivação dos direitos e liberdades fundamentais\", expressa nesse preceito constítucional é, destruída pela, facultação da determinação da forma de processo a seguir a decisões insindicáveis das entidades \nadministrativas.\nO PS só apresentou este requerimento de avocação porque no seu entender, este- preceito configura uma violação grosseira da garantia constitucional do asilo.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "25 DE AGOSTO DE 1993", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "3229", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr Presidente: Srs. Deputados, vamos votar.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Sr Presidente", 
+   "text": "Srs. Deputados, vamos votar.", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "Submetido à votação, foi rejeitado, com votos contra do PSD, do CDS e do PSN e votos a favor do PS, do PCP, de Os Verdes e do Deputado independente Mário Tomé.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "Srs. Deputados, em relação ao artigo 41.º da proposta de lei há dois requerimentos de avocação, sendo o primeiro deles do PS \nPara fazer a sua apresentação, tem a palavra o Sr. Deputado José Lamego.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr José Lamego (PS): Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do PS requer a avocação ao Plenário da votação do artigo 41 º da proposta de lei n º 73/VI.\nO referido artigo determina a aplicabilidade da lei aos pedidos de asilo pendentes à data da sua entrada em vigor. Esses pedidos de asilo foram apresentados na vigência de um quadro legal distinto, em relação ao qual a nova lei introduz modificações substanciais, quer em maténa dos fundamentos da concessão do asilo quer em maténa de formas de processo e de tramitação processual no reconhecimento do direito de asilo. As expectativas quanto à concessão do asilo, os prazos e garantias processuais e o grau de discricionaridade da Administração são distintas num e noutro enquadramento legal.\nPor esse facto, a aplicação retroactiva da lei, estabelecida no artigo 41.º da proposta de lei n.º 73/VI, viola o princípio da tutela da confiança, msito na ideia de Estado de direito democrático, que é acolhida e garantida em todas as suas determinações no artigo 2.º da Constituição' da República Portuguesa.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, Srs. Deputados: O Grupo Parlamentar do PS requer a avocação ao Plenário da votação do artigo 41 º da proposta de lei n º 73/VI.\nO referido artigo determina a aplicabilidade da lei aos pedidos de asilo pendentes à data da sua entrada em vigor. Esses pedidos de asilo foram apresentados na vigência de um quadro legal distinto, em relação ao qual a nova lei introduz modificações substanciais, quer em maténa dos fundamentos da concessão do asilo quer em maténa de formas de processo e de tramitação processual no reconhecimento do direito de asilo. As expectativas quanto à concessão do asilo, os prazos e garantias processuais e o grau de discricionaridade da Administração são distintas num e noutro enquadramento legal.\nPor esse facto, a aplicação retroactiva da lei, estabelecida no artigo 41.º da proposta de lei n.º 73/VI, viola o princípio da tutela da confiança, msito na ideia de Estado de direito democrático, que é acolhida e garantida em todas as suas determinações no artigo 2.º da Constituição' da República Portuguesa.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Presidente*: Srs Deputados, vamos votar o requerimento de avocação ao Plenário da votação na especialidade do artigo 41.º, apresentado pelo PS.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs Deputados, vamos votar o requerimento de avocação ao Plenário da votação na especialidade do artigo 41.º, apresentado pelo PS.\nSubmetido à votação, foi rejeitado, com votos contra do PSD, do CDS e do PSN. e votos a favor do PS, do PCP, de Os Verdes e do Deputado independente Mário Tomé.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "Submetido à votação, foi rejeitado, com votos contra do PSD, do CDS e do PSN. e votos a favor do PS, do PCP, de Os Verdes e do Deputado independente Mário Tomé.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "O requerimento de avocação do PCP fica, assim, prejudicado.\nDe acordo com aquilo que ficou estabelecido na Conferência dos Representantes dos Grupos Parlamentares, vou dar a palavra, para uma intervenção final e por um perfodo de cinco minutos, a cada um dos grupos parlamentares, pela ordem crescente da sua representatividade.\nSendo assim, tem a palavra a Sr.ªDeputada Isabel Castro", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "A Sr.ªIsabel Castro (Os Verdes): Sr. Presidente, Srs Membros do Governo, Srªe Srs Deputados: A Lei do Asilo vai ser aprovada e com ela ultimada a fortaleza agressiva e cinzenta que o PSD arquitectou e em que Portugal se transformou para os refugiados e os imigrantes, em nome de uma segurança que se pretendeu abstractamente justificar como estando a ser ameaçada.\nFê-lo com gastos extraordinários, encenação especial e com um ar de salvação nacional, que nem para as grandes catástrofes reserva.\nMais,fê-lo com a insinuação perversa de que a presença de estrangeiros teria relação com a grave crise económica e social em que estamos mergulhados e como se da urgente alteração da íei (que hipoteticamente teria escancarado as nossas portas a estranhos) dependesse a sua resolução, numa inqualificável atitude racista e xenófoba \nMas fê-lo ainda com urgência própria de quem quis marcar o seu desagrado e hostilidade para com o justificado veto presidencial. Veto que o PSD teve de acatar, mas que a proposta de lei com que replicou ostensivamente ignora, ao não atender à justeza das razões que lhe estiveram na origem, numa clara atitude de prepotência de quem convive cada vez pior com a crítica, com a diferença, com os outros, enfim, de quem convive cada vez pior com as próprias instituições e a legalidade democrática que as sustem e era suposto defender \nAssim, mau grado as observações feitas pelo Presidente da República e pela oposição nesta Câmara, temos, para a Europa ver, uma lei de asilo que desrespeita a Constituição da República Portuguesa; que nega, de facto, o princípio da concessão de asilo por razões humanitárias, que exclui, a pretexto de facilitismos processuais; o elementar direito de recurso da decisão aos tribunais, que viola direitos humanos e desrespeita garantias fundamentais; que institucionaliza o livre arbítrio; que ignora em absoluto recomendações, críticas e alertas de organizações não-governamentais, nomeadamente da Amnistia \nInternacional, do Alto Comissariado das, Nações Unidas para os Refugiados, do Conselho Português para os Refugiados e das próprias Igrejas.\nEsta é uma lei que equaciona toda a problemática do asilo e dos direitos dos refugiados na mera óptica das estatísticas, das polícias, das papeladas, das burocracias, como se de uma qualquer questão doméstica de administração interna se tratasse, esquecendo por completo que ela atinge pessoas, pessoas fragilizadas, seres humanos cuja integridade não pode ser esquecida, violada ou amputada à toa, pessoas vítimas de conflitos armados, perseguidas política e ou religiosamente, algumas até refugiadas porque vítimas de políticas calamitosas ou desastres ecológicos, mas mesmo essas, por razões humanitárias, têm de ser atendidas São seres humanos acima de tudo, que os valores civilizacionais deste planeta não podem, pura e simplesmente, ignorar.\nSrs. Deputados, poder-se-á dizer da lei de asilo agora a aprovar que cumpre as decisões do comité ad-hoc para a imigração dos Doze, que respeita a Convenção de Dublin, que preserva a Convenção de Schengen e que traduz fielmente o Tratado da União Europeia na letra dos artigos Kl a K9 do seu VI.º Capítulo. Poder-sé-á afirmá-lo é certo, e por isso, naturalmente, a todos eles nos opusemos sem ambiguidades.\nMas esses são instrumentos e leis que, não correspon-•dem ao projecto de Europa e de Portugal de que, nós Verdes, somos partidários Queremos uma Europa solidária, liberta de egoísmos, que não derrube muros para de novo erguer outros entre povos e regiões.Queremos uma Europa de cooperação, segurança e paz, capaz de interpretar os sinais \ninquietantes de ódio e extremismo e de agir prevenindo, pautando com tolerância a sua relação com outros.\nTambém para Portugal queremos o respeito pela dignidade da pessoa humana e pelas liberdades fundamentais, a preservação da nossa história e a salvaguarda de uma relação solidária com outros, em particular com aqueles que connosco partilham uma comunidade histórica, cultural e linguística.\nA dramática situação dos imigrantes em Portugal, o vergonhoso regime de entrada, permanência e expulsão de estrangeiros no nosso país e agora a lei de asilo são parte integrante de uma arquitectura institucional que recusamos.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, Srs Membros do Governo, Srªe Srs Deputados: A Lei do Asilo vai ser aprovada e com ela ultimada a fortaleza agressiva e cinzenta que o PSD arquitectou e em que Portugal se transformou para os refugiados e os imigrantes, em nome de uma segurança que se pretendeu abstractamente justificar como estando a ser ameaçada.\nFê-lo com gastos extraordinários, encenação especial e com um ar de salvação nacional, que nem para as grandes catástrofes reserva.\nMais,fê-lo com a insinuação perversa de que a presença de estrangeiros teria relação com a grave crise económica e social em que estamos mergulhados e como se da urgente alteração da íei (que hipoteticamente teria escancarado as nossas portas a estranhos) dependesse a sua resolução, numa inqualificável atitude racista e xenófoba \nMas fê-lo ainda com urgência própria de quem quis marcar o seu desagrado e hostilidade para com o justificado veto presidencial. Veto que o PSD teve de acatar, mas que a proposta de lei com que replicou ostensivamente ignora, ao não atender à justeza das razões que lhe estiveram na origem, numa clara atitude de prepotência de quem convive cada vez pior com a crítica, com a diferença, com os outros, enfim, de quem convive cada vez pior com as próprias instituições e a legalidade democrática que as sustem e era suposto defender \nAssim, mau grado as observações feitas pelo Presidente da República e pela oposição nesta Câmara, temos, para a Europa ver, uma lei de asilo que desrespeita a Constituição da República Portuguesa; que nega, de facto, o princípio da concessão de asilo por razões humanitárias, que exclui, a pretexto de facilitismos processuais; o elementar direito de recurso da decisão aos tribunais, que viola direitos humanos e desrespeita garantias fundamentais; que institucionaliza o livre arbítrio; que ignora em absoluto recomendações, críticas e alertas de organizações não-governamentais, nomeadamente da Amnistia \nInternacional, do Alto Comissariado das, Nações Unidas para os Refugiados, do Conselho Português para os Refugiados e das próprias Igrejas.\nEsta é uma lei que equaciona toda a problemática do asilo e dos direitos dos refugiados na mera óptica das estatísticas, das polícias, das papeladas, das burocracias, como se de uma qualquer questão doméstica de administração interna se tratasse, esquecendo por completo que ela atinge pessoas, pessoas fragilizadas, seres humanos cuja integridade não pode ser esquecida, violada ou amputada à toa, pessoas vítimas de conflitos armados, perseguidas política e ou religiosamente, algumas até refugiadas porque vítimas de políticas calamitosas ou desastres ecológicos, mas mesmo essas, por razões humanitárias, têm de ser atendidas São seres humanos acima de tudo, que os valores civilizacionais deste planeta não podem, pura e simplesmente, ignorar.\nSrs. Deputados, poder-se-á dizer da lei de asilo agora a aprovar que cumpre as decisões do comité ad-hoc para a imigração dos Doze, que respeita a Convenção de Dublin, que preserva a Convenção de Schengen e que traduz fielmente o Tratado da União Europeia na letra dos artigos Kl a K9 do seu VI.º Capítulo. Poder-sé-á afirmá-lo é certo, e por isso, naturalmente, a todos eles nos opusemos sem ambiguidades.\nMas esses são instrumentos e leis que, não correspon-•dem ao projecto de Europa e de Portugal de que, nós Verdes, somos partidários Queremos uma Europa solidária, liberta de egoísmos, que não derrube muros para de novo erguer outros entre povos e regiões.Queremos uma Europa de cooperação, segurança e paz, capaz de interpretar os sinais \ninquietantes de ódio e extremismo e de agir prevenindo, pautando com tolerância a sua relação com outros.\nTambém para Portugal queremos o respeito pela dignidade da pessoa humana e pelas liberdades fundamentais, a preservação da nossa história e a salvaguarda de uma relação solidária com outros, em particular com aqueles que connosco partilham uma comunidade histórica, cultural e linguística.\nA dramática situação dos imigrantes em Portugal, o vergonhoso regime de entrada, permanência e expulsão de estrangeiros no nosso país e agora a lei de asilo são parte integrante de uma arquitectura institucional que recusamos.", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "È eurocêntrica, autoritária, racista e xenófoba. Por isso, nós Verdes, contra ela votaremos.", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "3230", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "SERIE.MUMERO 97", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "O Sr. Presidente:-Para fazer a intervenção em nome do Grupo Parlamentar do CDS tem a palavra o Sr. Deputado Nogueira de Brito.\nO Sr. Nogueira de Brito:-Sr.Presidente, Srs.Membros do Governo, Srs.Deputados. Chegados ao fim deste processo legislativo algo acidentado, é a altura de fazer um balanço da nossa intervenção pautada toda ela pela perspectiva positiva e favorável com que encarámos a inicitiva tendente a alterar a Lei n.º38/80 de 31 de Agosto, sobre o direito de asilo eo estatuto de refugiado no sentido implicito nas propostas do Governo.\nOu seja, estamos de acordo com a necessidade de alterar o regime actual e concordamos em as linhas gerais com as alterações propostas Não concordamos com o processo inicialmente utilizado- pedir autorizacão para modificar umalei aprovada toda ela na Assembleia - e, por isso, nos abstivemos. Também porque,na proposta de autorização havia aspectos contraditórios algumas soluções pouco compreensíveis.\nDe qualquer modo nã iviabilizamos as propostas de avocação a plenário, então formulados pelo Partido Socia lista, porque já sugeriam que o maior (que não o mais importante partido da oposição numa mudança radical em relação à atitude aqui assumida em l980 e l983, mais não pretendia do que agravar de modo irrealista o regime actualmente em vigor, contribuindo para a sua vulnerabilização face aos \ncondicionalismos da hora presente com tendência para se intensificarem.\nNa mesma linha de resto, votamos favoravelmente na generalidade, a proposta de lei n.º73/VI, cuja apresentação significou antes de mais, em nosso entender, a aceitação pelo Governo da principal objecção contida no veto presidencial a referente ao processo utilizado.\nVotando a favor na generalidade fizemos os possíveis no decurso da discussão na especialidade para que o texto final saísse um texto coerente e realmente adequado a prosseguir os fins visados com a alteração do regime em vigor, sem colocar quaisquer dúvidas sobre a sua compatibilidade com o preceito constitucional consagrador do direito ao asilo político.\nSomos, com efeito, dos que entendem que a lei generosa e solidária aqui aprovada nos tempos da AD e que apesar das restrições já introduzidas nela pelo bloco central, continua a ultrapassar a também generosa consagração constitucional do asilo, é portadora de algumas debilidades e ingenuidades fundamentais. Debilidades e ingenuidades que constituem causa de mais forte preocupação, num tempo como o que vivemos, em que a quebra de alguns equilibrios anteriores e a crise económica \ngeneralizada fizeram da emigração económica um fenómeno de escala planetária e de gravidade díscutivel. Especialmente sem dúvida, na perspectiva de um país pobre e pequeno como apesar de tudo é o nosso, conforme nos recordou tão sugestivamente o Sr. Ministro Dias Loureiro e conforme sublinhou de modo não menos sugestivo em 1980 o Sr.Deputado Almeida Santos.\nO que é preciso é continuar fiel ao espírito com que acolhemos o institudo do asilo das Convenções de Genebra e Nova Iorque, dando-lhe guarda constitucional, na parte mais nobre dos direitos fundamentais, mas ao mesmo tempo utilizar a maleabilidade regulamentadora para precisamente preservar a pureza do instituto defendendo-o das contaminações da emigração económica.\nQueremos, sem dúvida, continuar a desempenhar o papel de santuário, com a tolerância e a fraternidade que caracterizam a nossa maneira de ser Mas não podemos transformar o santuário em país de acolhimento para todos os que fogem das agruras do subdesenvolvimento, da instabilidade e da miséria.", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "Vozes do CDS: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do CDS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Orador: Mesmo sendo essa a nossa vocação, trata-se de papel que nos está vedado desempenhar. A fidelidade ao principio da igualdade impede-nos de assegurar aos outros condições que não estamos, infelizmente, em condições, de, assegurar aos nossos.\nComo justificar o alojamento em regime de pensão completa a um.falso candidato a asilo, face a um português que não tem para, se alojar mais do que a barraca de subúrbio? \nPor isso apoiamos com o nosso voto a proposta do Governo, em termos gerais, e as soluções nela consagradas .Divergimos apenas, no que se refere ao modo como está tratado o problema do reagrupamento familiar e o processo acelerado de concessão de asilo. Em relação ao primeiro, não entendemos o recuo em relação ao regime actual, com a extensão que acabou por assumir. Compreendemos que se procura reduzir o numero de beneficiários, mas n ão entendemos a discricionariedade total em relação ao núcleo mais reduzido da familia, cônjugue e filhoas menores ou incapazes. Especialmente quando é certo que, mesmo aí a extensão do beneficio estará sempre dependente do cumprimento pelos familiares, dos requisitos do requerente originário. Resta-nos esperar que o bom senso prevaleça no juizo que a Administração vai ser chamada a fazer sobre os casos concretos.\nEm, relação, ao segundo caso o processo acelerado, não conseguimos entender, como é a preocupação - com que concordamos - que levou a fixar um processo acelerado para apreciação de pedidos manifestamente inviáveis (que é esse caso)não se manteve quando se abordou do recurso contencioso. A menos que a explicação para tal resida num gosto especial pelo absurdo ou que se tenha pretendido deixar sair pela janela o que se pretendeu fazer entrar pela porta. Ou seja houve preocupação de tratar expressamente o tema do recurso no processo normal, reduzindo o respectivo prazo pára 20 dias,mas ja não houve a mesma preocupação em relação ao processo acelerado, donde resulta que aí se aplicará o prazo geral do recurso para o Supremo Tribunal Administrativo que é de 60 dias.\nQuer dizer, quando seja manifestamente inviável o pedido de asilo, o processo administrativo corre aceleradamente até á decisão \nadministrativa, para depois ficar a aguardar 60 dias, porque o candidato a asilo se decide pelo recurso com alojamento e alimentação á custa da segurança social portuguesa.\nDe qualquer modo, apesar destas incongruências congratulamo-nos pelo o que foi possível melhorar na Comissão e que serviu sem dúvida para afastar alguns aspectos iníquos das soluções consagradas, como era o caso da inexistência de um mínimo de participação do interessado no processo acelerado a que nos referimos.\nProvou-se que nestes dominios não valem as juras para a eternidade só se lamentando que, em nome da necessidade de adequar á realidade o regime de asilo politico, o Governo não tenha aceitado com menos complexos mudar algumas \"vírgulas\".\n_Aplausos do CDS_.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Mesmo sendo essa a nossa vocação, trata-se de papel que nos está vedado desempenhar. A fidelidade ao principio da igualdade impede-nos de assegurar aos outros condições que não estamos, infelizmente, em condições, de, assegurar aos nossos.\nComo justificar o alojamento em regime de pensão completa a um.falso candidato a asilo, face a um português que não tem para, se alojar mais do que a barraca de subúrbio? \nPor isso apoiamos com o nosso voto a proposta do Governo, em termos gerais, e as soluções nela consagradas .Divergimos apenas, no que se refere ao modo como está tratado o problema do reagrupamento familiar e o processo acelerado de concessão de asilo. Em relação ao primeiro, não entendemos o recuo em relação ao regime actual, com a extensão que acabou por assumir. Compreendemos que se procura reduzir o numero de beneficiários, mas n ão entendemos a discricionariedade total em relação ao núcleo mais reduzido da familia, cônjugue e filhoas menores ou incapazes. Especialmente quando é certo que, mesmo aí a extensão do beneficio estará sempre dependente do cumprimento pelos familiares, dos requisitos do requerente originário. Resta-nos esperar que o bom senso prevaleça no juizo que a Administração vai ser chamada a fazer sobre os casos concretos.\nEm, relação, ao segundo caso o processo acelerado, não conseguimos entender, como é a preocupação - com que concordamos - que levou a fixar um processo acelerado para apreciação de pedidos manifestamente inviáveis (que é esse caso)não se manteve quando se abordou do recurso contencioso. A menos que a explicação para tal resida num gosto especial pelo absurdo ou que se tenha pretendido deixar sair pela janela o que se pretendeu fazer entrar pela porta. Ou seja houve preocupação de tratar expressamente o tema do recurso no processo normal, reduzindo o respectivo prazo pára 20 dias,mas ja não houve a mesma preocupação em relação ao processo acelerado, donde resulta que aí se aplicará o prazo geral do recurso para o Supremo Tribunal Administrativo que é de 60 dias.\nQuer dizer, quando seja manifestamente inviável o pedido de asilo, o processo administrativo corre aceleradamente até á decisão \nadministrativa, para depois ficar a aguardar 60 dias, porque o candidato a asilo se decide pelo recurso com alojamento e alimentação á custa da segurança social portuguesa.\nDe qualquer modo, apesar destas incongruências congratulamo-nos pelo o que foi possível melhorar na Comissão e que serviu sem dúvida para afastar alguns aspectos iníquos das soluções consagradas, como era o caso da inexistência de um mínimo de participação do interessado no processo acelerado a que nos referimos.\nProvou-se que nestes dominios não valem as juras para a eternidade só se lamentando que, em nome da necessidade de adequar á realidade o regime de asilo politico, o Governo não tenha aceitado com menos complexos mudar algumas \"vírgulas\".\n_Aplausos do CDS_.", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "25 DE AGOSTO DE 1993", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "3231", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr Presidente: Para fazer a intervenção em nome do Grupo \nParlamentar do PCP, tem a palavra o Sr Deputado António Filipe.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Sr Presidente", 
+   "text": "Para fazer a intervenção em nome do Grupo Parlamentar do PCP, tem a palavra o Sr Deputado António Filipe.", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "O Sr António Filipe (PCP) - Sr. Presidente, Srs. Membros do Governo, Srs Deputados. O debate na especialidade da proposta de lei relativa ao direito de asilo e o texto aprovado em Comissão e hoje submetido a votação demonstram que ó PSD mantém na íntegra os aspectos negativos essenciais da sua proposta de lei, que constavam já do decreto vetado pelo Presidente da República.\nO Grupo Parlamentar do PCP vai votar contra esta proposta de lei por todas as razões explicitadas no debate na generalidade. O PCP discorda frontalmente desta lei de asilo e discorda das políticas de asilo,, de imigração e de tratamento de estrangeiros que o Governo PSD tem vindo a praticar.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "O Sr Octávio Teixeira (PCP) - Muito bem!", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Orador: Sr Presidente, Srs Deputados É hoje patente o fiasco em que redundou a operação política contra o Presidente da República que o PSD pretendeu executar a pretexto do veto presidencial sobre a lei de asilo. As sucessivas declarações de inconstitucionalidade sobre os diplomas que foram a\"menina dos olhos\" do PSD na presente sessão legislativa tiveram também como consequência o fracasso da operação montada em torno da urgência dispendiosa na aprovação da lei do asilo.Aliás, a posição hoje tomada pelo PSD de adiar o expurgo das normas declaradas inconstitucionais nesses quatro diplomas paia a próxima sessão legislativa torna ainda,mais evidente quanto-a urgência desta aprovação estival é inteiramente injustificada.\nO Governo PSD ainda tentou salvar a face passando da obstinação e da arrogância de não alterar nem uma vírgula à postura apenas aparente de quem aceita introduzir algumas alterações.É mais uma mistificação de entre as muitas que têm rodeado este processo legislativo.\nO texto aprovado pelo PSD mantém todos os aspectos negativos que desde a primeira hora caracterizam a iniciativa legislativa do Governo.\nDeixa de ser admissível a concessão de asilo por razões humanitárias, isto é, por motivos de insegurança devido a conflitos armados ou à sistemática violação dos direitos humanos \nÉ criado um processo acelerado de denegação sumária da concessão de asilo que permite ao Ministro da Administração Interna decidir da expulsão do território nacional de um requerente de asilo após um processo instruído em quatro dias por processos exclusivamente administrativos e assente em fundamentos arbitrários, tais como a\"proveniência de um país seguro\",a proveniência de um país \"terceiro de acolhimento\" ou sérios motivos de segurança pública.Este processo acelerado nega rotundamente o direito de todo o cidadão ver apreciado em concreto o seu pedido de asilo.Nega na prática qualquer direito a recorrer junsdicionalmente da decisão administrativa É um processo brutalmente expedito de expulsar sumariamente os requerentes de asilo Processo inconstitucional e violador dos direitos humanos.\nAcaba a extensão automática dos efeitos do asilo ao cônjuge e aos filhos menores \ndo requerente fazendo tábua rasa da disposição constítucional que proíbe que os filhos menores sejam separados dos pais.\nAcaba o efeito suspensivo automático do recurso sobre uma decisão que recuse o direito de asilo, pondo termo assim a uma garantia essencial dos requerentes.\nConfere-se efeito retroactivo à lei a aprovar, aplicando-a aos processos pendentes, por forma a limpar de forma expedita os processos de pedido de asilo que o Governo não quer reconhecer ao abrigo da legislação vigente.\nPretende o Governo ser ele próprio a nomear em Conselho de Ministros um magistrado judicial, para comissário nacional para os refugiados em violação flagrante do artigo 219 º dá Constituição que atribui ao Conselho Superior da Magistratura a competência exclusiva para a nomeação de juízes.\nEm suma, a lei hoje aprovada pelo PSD nega o direito de asilo tal como a nossa Constituição o consagra e nega direitos e garantias \nfundamentais aos cidadãos que o requeiram, ignorando a dimensão de direito fundamental que o direito de asilo assume constitucionalmente entre nós.\nSr.Presidente e Srs. Deputados, este processo legislativo foi marcado por várias mistificações. A mistificação de que Portugal é um país inundado de asilados e de pedidos de asilo, quando os cerca de 700 pedidos recebidos este ano nada são quando comparados com os 40 000 da França ou os 400 000 da Alemanha e quando nos últimos dois anos só foram reconhecidos em Portugal oito- sublinho, oito - pedidos de asilo.\nA mistificação de justificar a proposta de lei do Governo em razões de segurança pública quando é por demais evidente que os graves problemas de segurança pública, que também nos preocupam, não são provocados pelos escassíssimos beneficiados pelo direito de asilo.\nA mistificação de confundir o direito de asilo com a imigração ilegal, quando são coisas completamento diferentes e quando são tratadas na lei de forma completamente distinta O PCP compreende perfeitamente a necessidade de distinguir claramente o direito de asilo da imigração por motivos económicos Porém, o Governo o que,pretende é justificar as suas medidas de limitação do direito de asilo como se estas fossem medidas.de contenção da imigração ilegal, o que é inteiramente falso", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr Presidente, Srs Deputados É hoje patente o fiasco em que redundou a operação política contra o Presidente da República que o PSD pretendeu executar a pretexto do veto presidencial sobre a lei de asilo. As sucessivas declarações de inconstitucionalidade sobre os diplomas que foram a\"menina dos olhos\" do PSD na presente sessão legislativa tiveram também como consequência o fracasso da operação montada em torno da urgência dispendiosa na aprovação da lei do asilo.Aliás, a posição hoje tomada pelo PSD de adiar o expurgo das normas declaradas inconstitucionais nesses quatro diplomas paia a próxima sessão legislativa torna ainda,mais evidente quanto-a urgência desta aprovação estival é inteiramente injustificada.\nO Governo PSD ainda tentou salvar a face passando da obstinação e da arrogância de não alterar nem uma vírgula à postura apenas aparente de quem aceita introduzir algumas alterações.É mais uma mistificação de entre as muitas que têm rodeado este processo legislativo.\nO texto aprovado pelo PSD mantém todos os aspectos negativos que desde a primeira hora caracterizam a iniciativa legislativa do Governo.\nDeixa de ser admissível a concessão de asilo por razões humanitárias, isto é, por motivos de insegurança devido a conflitos armados ou à sistemática violação dos direitos humanos \nÉ criado um processo acelerado de denegação sumária da concessão de asilo que permite ao Ministro da Administração Interna decidir da expulsão do território nacional de um requerente de asilo após um processo instruído em quatro dias por processos exclusivamente administrativos e assente em fundamentos arbitrários, tais como a\"proveniência de um país seguro\",a proveniência de um país \"terceiro de acolhimento\" ou sérios motivos de segurança pública.Este processo acelerado nega rotundamente o direito de todo o cidadão ver apreciado em concreto o seu pedido de asilo.Nega na prática qualquer direito a recorrer junsdicionalmente da decisão administrativa É um processo brutalmente expedito de expulsar sumariamente os requerentes de asilo Processo inconstitucional e violador dos direitos humanos.\nAcaba a extensão automática dos efeitos do asilo ao cônjuge e aos filhos menores \ndo requerente fazendo tábua rasa da disposição constítucional que proíbe que os filhos menores sejam separados dos pais.\nAcaba o efeito suspensivo automático do recurso sobre uma decisão que recuse o direito de asilo, pondo termo assim a uma garantia essencial dos requerentes.\nConfere-se efeito retroactivo à lei a aprovar, aplicando-a aos processos pendentes, por forma a limpar de forma expedita os processos de pedido de asilo que o Governo não quer reconhecer ao abrigo da legislação vigente.\nPretende o Governo ser ele próprio a nomear em Conselho de Ministros um magistrado judicial, para comissário nacional para os refugiados em violação flagrante do artigo 219 º dá Constituição que atribui ao Conselho Superior da Magistratura a competência exclusiva para a nomeação de juízes.\nEm suma, a lei hoje aprovada pelo PSD nega o direito de asilo tal como a nossa Constituição o consagra e nega direitos e garantias \nfundamentais aos cidadãos que o requeiram, ignorando a dimensão de direito fundamental que o direito de asilo assume constitucionalmente entre nós.\nSr.Presidente e Srs. Deputados, este processo legislativo foi marcado por várias mistificações. A mistificação de que Portugal é um país inundado de asilados e de pedidos de asilo, quando os cerca de 700 pedidos recebidos este ano nada são quando comparados com os 40 000 da França ou os 400 000 da Alemanha e quando nos últimos dois anos só foram reconhecidos em Portugal oito- sublinho, oito - pedidos de asilo.\nA mistificação de justificar a proposta de lei do Governo em razões de segurança pública quando é por demais evidente que os graves problemas de segurança pública, que também nos preocupam, não são provocados pelos escassíssimos beneficiados pelo direito de asilo.\nA mistificação de confundir o direito de asilo com a imigração ilegal, quando são coisas completamento diferentes e quando são tratadas na lei de forma completamente distinta O PCP compreende perfeitamente a necessidade de distinguir claramente o direito de asilo da imigração por motivos económicos Porém, o Governo o que,pretende é justificar as suas medidas de limitação do direito de asilo como se estas fossem medidas.de contenção da imigração ilegal, o que é inteiramente falso", 
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Orador: O Governo português, com esta lei do asilo, com a recente legislação sobre estrangeiros, com a adesão e apressada ratificação do Acordo de Schengen e da Convenção de Dublin, alinha diligentemente com os ventos de racismo e xenofobia que sopram de diversos países europeus e adapta-se inteiramente e por antecipação aos ditames da Alemanha e da França de construir uma Europa fortaleza hostil aos povos do Terceiro Mundo e dos países do Leste Euiopeu.Isto quando em França, o próprio Conselho Constítucional declarou inconstitucionais normas da recente lei dos estrangeiros, lembrando algo que o Governo português também esquece - que os cidadãos, mesmo não sendo portugueses, têm direito a ver respeitados os seus direitos humanos.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "O Governo português, com esta lei do asilo, com a recente legislação sobre estrangeiros, com a adesão e apressada ratificação do Acordo de Schengen e da Convenção de Dublin, alinha diligentemente com os ventos de racismo e xenofobia que sopram de diversos países europeus e adapta-se inteiramente e por antecipação aos ditames da Alemanha e da França de construir uma Europa fortaleza hostil aos povos do Terceiro Mundo e dos países do Leste Euiopeu.Isto quando em França, o próprio Conselho Constítucional declarou inconstitucionais normas da recente lei dos estrangeiros, lembrando algo que o Governo português também esquece - que os cidadãos, mesmo não sendo portugueses, têm direito a ver respeitados os seus direitos humanos.", 
+   "type": "continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "O Orador", 
    "text": "O Sr Presidente:- Para uma intervenção tem a palavra o Sr Deputado José Lamego.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "O Sr José Lamego (PS) - Sr. Presidente, Srs Membros do Governo, Srs Deputados.O PS vai votar contra a proposta de lei apresentada pelo Governo por três ordens de razões.\nEm primeiro lugar, porque ela é inconstitucional, pois contém violações claras de alguns preceitos da Constituição da República.Desde logo,viola a garantia constítucional do asilo, estabelecida como dncito fundamental no n º", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "3232", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "SÉRIE--NÚMERO 97", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
    "text": "6,do artigo 33/º,da Constituição da República. Depois, viola também o princípio da tutela da confiança insisto na ideia de Estado de direito, e ainda o direito de acesso, à justiça e aos tribunais Esta proposta, de lei é, portanto, materialmente inconstitucional, pelo,que é dever desta Assembleia, para além dos juizos politicos sobre a sua valia ou desvalia, reprovar a inconstitucionalidade manifesta nesta proposta de lei apresentada pelo Governo e, por isso, o Partido \nSocialista encontra aí uma razão para, votar contra.\nEm segundo lugar, esta proposta de lei é juridicamente tosca. Introduz na nossa ordem juridica uma série de conceitos que não se aplicam e combina com normas gerais, nomeadamente as do processo administrativo, uma disciplina nova sobre o direito de asilo, que torna todo o processo de decisão muito mais inseguro, quer para os requerentes quer para os decisores. Vamos aguardar para ver todas as peripécias relativas ao processo de aplicação desta legislação.\nEm terceiro lugar, o Partido Socialista não vota apenas contra o articulado.Opõe-se, também a toda a estratégia de encenação e de dramatização política que constituíram o aspecto fundamental do debate sobre a proposta de lei realizado fora do período normal de \nfuncionamento desta Câmara, e da convocação de uma reunião \nextraordinária do Conselho de Ministros. De facto, as razões de urgência invocadas pelo Governo não eram para aprovação de, um novo regime do direito de asilo, mas para afrontar o, veto do, Presidente da República. A questão fundamental é esta e todas as outras são questões menores cobertas pelo invólucro de uma estratégia de afrontamento ao Presiden- \nte da Republica e de mobilização da opinião publica num ter- reno em que o PSD pensa ser-lhe favorável. Isto é, o terreno dos receios \nrelativamente a ondas de imigrantes que, segundo o discurso oficial do Governo, se apressavam para demandar o território português. É que nada de novo mudou, substancialmente, em matéria de pressão sobre as fronteiras até porque a legislação contida nesta proposta de lei não está melhor apetrechada do que a anterior para decidir, com celeridade, sobre os pedidos de asilo.\nNo entanto, se esta proposta de lei for aprovada e entrar em vigor, o que duvidamos, o Governo deixa de ter qualquer argumento para invocar problemas em relação à imigração, pois dispõe de todos os instrumentos para a conter e regular.\nO Governo acordou tardiamente para este problema, pois, ao longo de vários anos, nunca apresentou quaisquer, propostas em matéria de imigração nunca teve uma política de integração e, acolhimento das comunidades imigrantes \nem,Portugal, pelo que é,responsável, quer pela falta de,controlo dos fluxos migratórios, quer pelo facto, de existirem emergentes dificuldades, nomeadamente em matéria de criminalidade, especificamente incidentes, nas comunida- \ndes de imigrantes.\nPortanto, o PS vai votar contra esta proposta de lei e sobretudo, contra esta estratégia de dramatização e de confronto político que constituiram o, fundamental de toda esta peça com que, neste período, o PSD e o Governo presentearam a Assembleia da República e a opinião pública portuguesa.", 
-   "type": "deputado_continuacao"
+   "type": "continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Guilherme Silva.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Guilherme Silva.\nO Sr.Guilherme Silva (PSD):- Sr. Presidente, Srs Deputados. O que está causa, a propósito desta proposta de lei sobre_o_direito de asilo e o estatuto do refugioado, não é uma questão relativa a esta ou àquela norma, nem a esta ou àquela alegada inconstitucionalidade. É sim,uma questão de política de asilo e também de política de imigração, por muito que, pesej ao Sr.DeputadorAntónio Filipe a associação das duas coisa.\nJá foi aqui esclarecido pelo Sr Ministro da Administração Interna a razão, porque, na conjuntura actual, estas duas situações se associam.\nPorquê, associar, a regulamentação da lei do asilo e, do estatuto do,refugiado á politica de imigraçao, às soluções relativas a legislação sobre a imigração.\nPorque o instituto do direito de asilo, vem sendo abusivamente utilizado para encapotar a imigração económica. Trata-se de uma situação reconhecida por todas as instâncias internacionais, designadamente pelo Alto Comissário \ndas Nações Unidas para os Refugiados, pelo Conselho da Europa e pelo Parlamento Europeu. Essas instâncias têm alertado para adoptarem, designadamente no âmbito legislativo, medidas internas que permitam genuinamente o instituto do direito de asilo e que n facilitem o uso abusivo deste instituto para situações de imigração ecnómica.\nSr Presidente, Srs. Deputados. O PS não apresentou aqui uma alternativa a esta orientação do Governo relativamente ao direito de asilo, tendo-se escondido atrás de inconstitucionalidades. No entanto, é necessário desmistificar esta actuação do PS, na medida em que ele vem aqui trazer ao Plenário alegadas inconstitucionalidades, que se reportam à Lei n.º 38/80, de Agosto, ainda hoje vigente, e ao Decreto-Lei n.º 415/83, de 24 de Novembro aprovado pelo Governo do Dr Mário Soares. Ora, as soluções que esta proposta de lei consagra, aqui alegadas como inconstitucionais pelo PS, decorrem desses diplomas, mais, são soluções veiculadas pelo próprio PS no sëu projecto de lei apresentado em 1980.\nEstamos, sim, perante uma autocrítica tardia, tendo o PS necessitado que surgisse agora um diploma da iniciativa de outrém, para poder \"emendar a mão\" e eventualmente, corrigir situações que entende serem inconstitucionais.\nMas, importa dizer que se tem feito alguma confusão nesta matéria e que o direito constítucional, relativamente ao asilo, tem, sim, a ver exclusivamente com aquilo que vem consagrado nesta proposta de lei, no artigo 2º, n.º1 e que já constava do artigo l9 da lei vigente. De facto só é constitucionalmente garantido o direito de asilo relativamente a situações de, ameaça ou, de perseguição por, razões politicas designadamente pela luta em favor da democracia, pela libertação social e nacional, pela paz entre os povos, pela liberdade, e pelos direitos da pessoa humana. Não se confundam estas situações, que a lei também aqui escolhe, com as que constam do n.º2 em que se trata de pôr a lei em conformidade com a Convenção de Genebra, mas que não têm, efectivamente, assento constítucional entre nós. É importante que isto, fique, claro.\nO PS coloca também o problema do prazo, de recurso das decisões ,em matéria de, asilo Srs. Deputados, esta é também uma questão que encerra, mais, uma das contradições do PS. A lei geral, como se sabe concede um prazo de 60 dias para os recursos das decisões da Administração. A lei vigente no tocante ao asilo, concede um prazo de 30 dias e nunca o PS alegou inconstitucionalidade dessa norma, pelo facto de se tratar de um prazo mais curto - aliás, há imensas leis que estabelecem prazos mais curtos em situações pontuais e nem por isso são inconstitucionais. Porém, o mais curioso é que nós alargámos o prazo constante da proposta de lei de cinco para 15 dias, enquanto que o PS, no seu projecto de lei de 1980, encurtava esse prazo para oito dias.\nSão pois, profundas as contradições do PS sobre esta matéria.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr.Guilherme Silva (PSD):- Sr. Presidente, Srs Deputados. O que está causa, a propósito desta proposta de lei sobre_o_direito de asilo e o estatuto do refugioado, não é uma questão relativa a esta ou àquela norma, nem a esta ou àquela alegada inconstitucionalidade. É sim,uma questão de política de asilo e também de política de imigração, por muito que, pesej ao Sr.DeputadorAntónio Filipe a associação das duas coisa.\nJá foi aqui esclarecido pelo Sr Ministro da Administração Interna a razão, porque, na conjuntura actual, estas duas situações se associam.\nPorquê, associar, a regulamentação da lei do asilo e, do estatuto do,refugiado á politica de imigraçao, às soluções relativas a legislação sobre a imigração.\nPorque o instituto do direito de asilo, vem sendo abusivamente utilizado para encapotar a imigração económica. Trata-se de uma situação reconhecida por todas as instâncias internacionais, designadamente pelo Alto Comissário \ndas Nações Unidas para os Refugiados, pelo Conselho da Europa e pelo Parlamento Europeu. Essas instâncias têm alertado para adoptarem, designadamente no âmbito legislativo, medidas internas que permitam genuinamente o instituto do direito de asilo e que n facilitem o uso abusivo deste instituto para situações de imigração ecnómica.\nSr Presidente, Srs. Deputados. O PS não apresentou aqui uma alternativa a esta orientação do Governo relativamente ao direito de asilo, tendo-se escondido atrás de inconstitucionalidades. No entanto, é necessário desmistificar esta actuação do PS, na medida em que ele vem aqui trazer ao Plenário alegadas inconstitucionalidades, que se reportam à Lei n.º 38/80, de Agosto, ainda hoje vigente, e ao Decreto-Lei n.º 415/83, de 24 de Novembro aprovado pelo Governo do Dr Mário Soares. Ora, as soluções que esta proposta de lei consagra, aqui alegadas como inconstitucionais pelo PS, decorrem desses diplomas, mais, são soluções veiculadas pelo próprio PS no sëu projecto de lei apresentado em 1980.\nEstamos, sim, perante uma autocrítica tardia, tendo o PS necessitado que surgisse agora um diploma da iniciativa de outrém, para poder \"emendar a mão\" e eventualmente, corrigir situações que entende serem inconstitucionais.\nMas, importa dizer que se tem feito alguma confusão nesta matéria e que o direito constítucional, relativamente ao asilo, tem, sim, a ver exclusivamente com aquilo que vem consagrado nesta proposta de lei, no artigo 2º, n.º1 e que já constava do artigo l9 da lei vigente. De facto só é constitucionalmente garantido o direito de asilo relativamente a situações de, ameaça ou, de perseguição por, razões politicas designadamente pela luta em favor da democracia, pela libertação social e nacional, pela paz entre os povos, pela liberdade, e pelos direitos da pessoa humana. Não se confundam estas situações, que a lei também aqui escolhe, com as que constam do n.º2 em que se trata de pôr a lei em conformidade com a Convenção de Genebra, mas que não têm, efectivamente, assento constítucional entre nós. É importante que isto, fique, claro.\nO PS coloca também o problema do prazo, de recurso das decisões ,em matéria de, asilo Srs. Deputados, esta é também uma questão que encerra, mais, uma das contradições do PS. A lei geral, como se sabe concede um prazo de 60 dias para os recursos das decisões da Administração. A lei vigente no tocante ao asilo, concede um prazo de 30 dias e nunca o PS alegou inconstitucionalidade dessa norma, pelo facto de se tratar de um prazo mais curto - aliás, há imensas leis que estabelecem prazos mais curtos em situações pontuais e nem por isso são inconstitucionais. Porém, o mais curioso é que nós alargámos o prazo constante da proposta de lei de cinco para 15 dias, enquanto que o PS, no seu projecto de lei de 1980, encurtava esse prazo para oito dias.\nSão pois, profundas as contradições do PS sobre esta matéria.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "25 DE AGOSTO DE 1993", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "3233", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "No que diz respeito à sindicabilidade dos conceitos genéricos respeitantes ao uso de poderes discricionários por parte da \nAdministração, também aí se trata de soluções consagradas na lei vigente e vinculadas pelo próprio projecto de lei apresentado pelo PS, em 1980.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Mas esta sindicabilidade, é necessário dizê-lo, tem de ser entendida de forma cautelosa.Porque aquilo que se pretendia era transformar os próprios tribunais numa espécie de segundo órgão da Administração, permitindo-se a reapreciação de conceitos indeterminados e \natribuindo-se-lhes um poder já inadmissível nos tempos actuais.\nAs teorias do controlo total triunfaram na Alemanha na década de 50, mas rapidamente se percebeu a sua inadequação Pretendia-se, agora - aliás, de forma inédita -, que fosse consagrada essa possibilidade na lei do asilo.\nDizia eu, há pouco, que associamos o direito de asilo à imigração pelas razões que apontei.Mas fazemo-lo também pelas razões referidas pelo Sr Ministro da Administração Interna, ou seja, pela necessidade de salvaguardarmos a possibilidade de regularizar a situação dos estrangeiros já residentes em Portugal, em particular as colónias de imigrantes provindos dos países africanos de língua oficial portuguesa, para quem Portugal tem particulares razões de solidariedade. Temos de apostar na adopção de medidas e na disposição de meios para fazer a assimilação e a correcta integração das populações oriundas desses países de África no nosso país É necessário que isso aconteça, e de uma forma correcta, de modo a evitarem-se situações de xenofobia. Se não se tomarem medidas aqui, então, sim, estamos levianamente a permitir que se instalem na nossa sociedade fenómenos de xenofobia e de racismo, que, felizmente, têm estado sempre arredados \nSr. Presidente, Srs Deputados. Em 1983, o Governo do Dr Mário Soares solicitou à Assembleia a concessão de uma autorização legislativa para introduzir restrições ao direito de asilo. Nessa altura, ninguém levantou qualquer questão quanto à legitimidade do Governo para poder fazê-lo. Mas, hoje, quando essas circunstâncias se alteraram, ainda mais profundamente, quando a conjuntura actual, designadamente por razões dos acontecimentos a Leste, de conflitos em África e de radicalismos a Sul, ninguém levanta essa questão, acrescendo a isso os próprios compromissos que Portugal tem assumido no seio da Comunidade Europeia, decorrentes do Acordo de Schengen e da Convenção de Dublin.\nNão se percebe, aliás, como é que o Partido Socialista vota \nfavoravelmente o Acto Único Europeu, o Tratado de Maastricht, o Acordo de Schengen e a Convenção de Dublin e vem agora aqui tomar uma posição contrária à adopção no direito interno de medidas que decorrem de todas essas convenções e ,tratados. Bem haja ao menos, quanto a isso, a coerência do Partido Comunista que tem votado contra todos esses documentos de que decorre também esta política.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Sr Presidente e Srs Deputados-...", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Presidente*: Queira terminar, Sr Deputado.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr Deputado.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Orador: Termino já Sr Presidente.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Termino já Sr Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "O Orador", 
    "text": "O CDS vota favoravelmente esta lei.Tem tomado, aliás, uma posição, na sua forma geral, de concordância com as soluções que este diploma veicula.Todos sabemos quanto esse partido é sensível aos valores e aos princípios cristãos, e isso é bem o aval que as soluções aqui veiculadas são soluções que respeitam e recolhem esses princípios, sem prejuízo da necessidade de se tomarem as medidas que impeçam que efectivamente as nossas fronteiras sejam, abertas de uma forma indiscriminada sem que haja da parte, da sociedade portuguesa, e da nossa situação económica e social, capacidade para absorver - e absorver sem convulsões, sem fenómenos de racismo e de xenofobia- aqueles que nos demandam.E queremos distinguir os que demandam verdadeiramente como refugiados daqueles que se servem desse instituto com vista a encapotarem uma situação de mera imigração económica.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "O Orador", 
    "text": "Aplausos do PSD", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, foi feita a votação na \nespecialidade da proposta de lei em sede de Comissão, procedeu-se nesta sessão à votação dos requerimentos de avocação, pelo que resta, nos termos do artigo 164 º do Regimento, proceder à votação final global, e é isso que vamos fazer de imediato", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, foi feita a votação na especialidade da proposta de lei em sede de Comissão, procedeu-se nesta sessão à votação dos requerimentos de avocação, pelo que resta, nos termos do artigo 164 º do Regimento, proceder à votação final global, e é isso que vamos fazer de imediato Srs. Deputados, vamos proceder à votação final global do texto final elaborado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias sobre a proposla de lei n º 73/VI - Aprova o novo regime do direito de asilo.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputado independente", 
-   "text": "Srs. Deputados, vamos proceder à votação final global do texto final elaborado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias sobre a proposla de lei n º 73/VI - Aprova o novo regime do direito de asilo.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Submetida à votação, foi aprovada, com votos a favor do PSD, do CDS e do PSN e votos contra do PS, do PCP, de Os Verdes e do Deputado independente Mário Tomé", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Srs Deputados, nada mais havendo a tratar por hoje, está encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 16 horas e 50 minutos.", 
    "type": "hora"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Entraram durante a sessão os seguintes Srs Deputados", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Partido Social-Democrata (PSD)-", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Carlos Lélis da Câmara Gonçalves \nJosé Manuel Nunes Liberato \nMiguel Bento Martins da Costa de Macedo e Silva", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Partido Socialista (PS).", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "João Maria de Lemos de Menezes Ferreira \nosé Manuel Oliveira Gameiro dos Santos", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Faltaram à sessão os seguintes Srs Deputados-", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Partido Social-Democrata (PSD).", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Duarte Rogério Matos Ventura Pacheco \nFernando Manuel Alves Cardoso Ferreira. Telmo José Moreno", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Partido Socialista (PS)-", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Alberto Arons Braga de Carvalho \nAnttónio Fernandes da Silva Braga \nAntónio Poppe Lopes Cardoso \nElisa Maria Ramos Damião \nFernando Alberto Pereira Marques \nFernando Manuel Lúcio Marques da Costa \nJoaquim Dias da Silva Pinto \nJorge Paulo Sacadura Almeida Coelho \nJosé Eduardo Vera Cruz Jardim \nJosé Manuel Santos de Magalhães \nJosé Paulo Martins Casaca \nManuel Alegre de Melo Duarte.\nRogério da Conceição Serafim Martins", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Deputados independentes-", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "Diogo Pinto de Freitas do Amaral \nRaúl Fernandes de Morais e Castro.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "tror vi (W", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "l mo/?if> i^noo rru< 3/io'di. o — •'ovicvdli CTEC ) i 'Ti-jb í. >t \\i*> oJoupn — hidu1( 'u-, _'j J orrvi i n ob orno J aan^nevDa ir. r mcfanernob oup M iru^a-Mb zonouup e Ritif rroo oiifliiiTi' \"j?iJa rno/T32 o? oup Pjij Eoimonooo", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "ciam sb GU^I uJ[? firr j r\".yr ti qnno", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "fin rCyJov e slisi loi aobbUqoG 2i2 — zaínobiíaií iti O ? rrn 101 ob U?opo~ft nb sb^bilf ?ob oibcju/i, ot,>-uoboo gjíl ob \" Ml ogtfu, ob doam) ^on ,í.ºoi ajp oLc UÚDIO losbl ?orr'b/oup oz,-i o 3 ,lcdoía fcní1 r,f>0b'ov L iobj )UiC[ ,oj", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "oJjMtomt ob", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "oL Ibdoii! ti ai\"i osjjo/n lobo^oiq zombv ,zobi)Ui'oQ", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "ioq iBler) u obnoví,rl zu,m Bbn", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "rd", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "fj Jií>rfâjno", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "r,/íi? 3", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "nD s-mmSD sb JLv'l clí.iodfJ ?*r>ií/Ij ab u^gfO r,b «riil- M olnaP btryil/I", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "jb ?orn? t ob .iii.ní o£ol \"\"ob oiíamBí'» j,i(j\"iiO lOunis", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "n*1/JWHS^II/o w?/v n suv> (021) aJGuonioC1 IGIOÍ)?, o*>nific'", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "i i^ili i-vi? rKm", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputado independente", 
+   "speaker": "Presidente", 
    "text": "?o'i3 noa «ob OLcbitidcoibní.º í OÍID^VOT sib oup oM ^^ii^rioni vib ^^^^bo^ ob o,Llr -• oo c)v:J o? ií. rnòdmrJ ,ofijf,u^nir,uA ,,b oti", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "-BOI h op-obnUifinan .ºBimJ/trnfibA il) chi lol-oq rnu on iifln^rnolA f n rrmiúlnun! LtoJ o! n)noo ob a^noaJ", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "-obcni c,uí L, uodjjioq oa oJri^rnLbtqL.1 ?. m ,02 >b Lbtoàu oup,— (>Jibvni crrnol ob ,rihi[b — nogi> ív-Gibn-Jjrfl o> ocup", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "oliab ob -o! tn obcb'Iidi?t:on 1,2^0 »> oli?c ob '/J'9H/j o \n2ornci3oBbnolôi ^OÓM>", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "ob obbbi^aojan filoq ,cjoz uo ?ob oF,jhiji)", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "-irrn ob ?i.ino!oo", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "lbioi*o LU»fi'l ob ?o", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "ob ^õ\\i,i poibluj Ni.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "o dbbibom ob oCoq< bfi un ibJzoqc sb aurnoT", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "-IOD G j ob9Glimioon T glnq 0'ion on 301 v\\ ob ('júp^Lili,' 02 motbJwo B oborn ob .GJjiiioj tm.ºi i> nt", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "rni? ubJ.i > ,IUI:B ^cbiborn moiuinr) o/1 onn ~>'o3 ^011. )2 OITJ!/\" il! oc Poô^iíl^OT 7(\\u',ritf[i jjifiq G/UbÍEigji orycinoJij, LH u louplbup u )jr_>/ol mauyriT jQiuiIc c^^oK oIi^G ob 0)101 u uboq n^q oniO'oO ob obi.ºin'!'i30; L oiroLp ocvoup o?", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "?o ! , 3'jj'n;ini jofnfjat. zob ?J, ^onvilcoibi.i ob o boi \\\\ TIO ^our 'jj ob o", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "-riuo «fjp-jirii ^o o", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "n i! íuC jh obon^/nuJ GJ^'i'bi o", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "'3 U^qOiUj OJinU nloA O OU, iniiO/CX/yb! ula/", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "' L j no^rijrl;' ob obiooA e ,lr!on,", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "DepóslioMegSll 'n ºj'8818/85'", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "IMPRENSA NACIONAE-CASA DA", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "PORTE .PAGO", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "./b mjiim-ih JJf. ?bbi jin ->*> omj ni", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "'lK-'Preçb'de'paginaa paraLveridâ avulso? 6S50+IVA1 ?cbr mo) oup ulpinuinoj ob )ib'i ib BIDI \"JTJOJ L .(it^r i, oln^u", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "'2r-í- Para ous novos^assinante^do Diarwdà Assembleia>^\"} da Republica, o período da assinatura será compfèeriiQ \"'-dido de Janeiro a Dezembro/defdadaiano 'Os^numé1- '?• ros publicados em Outubro, Novembro e Dezembro do an'o>'antenoní!queicompletamCJa legislatura »se*rãó\" G adquiridos ao preço de capa", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "'jJmbi-oiT i2 ,b[ nfiirmoT — \"i^ni/ia O", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": ",ti3,f— Ottexto/final impresso -deste 'Diário e/tíalrespbn3 O sabibdadeidafAssembleiaida-Republicâ cu", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "olribun r-omjdb^ t.uboT Flujio/r.molfiib oj/o ou^ Z^ÕQJ >", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "-oiq oz sup oIiupL onpiol ii?oloJufio i^rriol OD EDibnoJno jioorpo nmun ?» nudrrt «íonqMq ^n n,7nryi?nMJ E^O Libnc/", 
    "text": "oiq mo? j?e.º morilojan o muioq^ot oup", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

@@ -21,8 +21,10 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente* (Mota Amaral): Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "party": "Mota Amaral", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 15 minutos.", 
@@ -31,662 +33,820 @@
   {
    "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Partido Socialista (PS): \nAgostinho Moreira Gonçalves \nAires Manuel Jacinto de Carvalho \nAlberto Bernardes Costa \nAmérico Jaime Afonso Pereira \nAna Catarina Veiga Santos Mendonça Mendes \nAna Maria Benavente da Silva Nuno \nAntónio Alves Marques Júnior \nAntónio Alves Martinho \nAntónio Bento da Silva Galamba \nAntónio de Almeida Santos \nAntónio Fernandes da Silva Braga \nAntónio Fernando Marques Ribeiro Reis \nAntónio Fernando Menezes Rodrigues \nAntónio José Gavino Paixão \nAntónio Manuel Dias Baptista \nAntónio Manuel do Carmo Saleiro \nArtur Miguel Claro da Fonseca Mora Coelho \nArtur Rodrigues Pereira dos Penedos \nCarlos Alberto \nCarlos Alberto Dias dos Santos \nCarlos José Gonçalves Vieira de Matos \nCarlos Manuel Carvalho Cunha \nCarlos Manuel Luís \nCasimiro Francisco Ramos \nCláudio Ramos Monteiro \nEduarda Maria Castro de Sousa \nEduardo Ribeiro Pereira \nFernando Manuel de Jesus \nFernando Manuel dos Santos Gomes \nFernando Pereira Serrasqueiro \nFernando Ribeiro Moniz \nFilipe Mesquita Vital \nFrancisco José Pereira de Assis Miranda \nFrancisco Xavier Pablo da Silva Torres \nGil Tristão Cardoso de Freitas França \nGonçalo Matos Correia de Almeida Velho \nHelena Maria Mesquita Ribeiro \nIsabel Maria Batalha Vigia Polaco d'Almeida \nIsabel Maria dos Santos Barata \nJamila Barbara Madeira e Madeira \nJoão Alberto Martins Sobral \nJoão Cardona Gomes Cravinho \nJoão Francisco Gomes Benavente \nJoão Pedro da Silva Correia \nJoão Pedro de Aleluia Gomes Sequeira \nJoaquim Augusto Nunes Pina Moura \nJoaquim Sebastião Sarmento da Fonseca Almeida \nJorge Lacão Costa \nJorge Manuel Gouveia Strecht Ribeiro \nJorge Paulo Sacadura Almeida Coelho \nJosé Alberto Leal Fateixa Palmeiro \nJosé Alberto Rebelo dos Reis Lamego \nJosé Aurélio da Silva Barros Moura \nJosé Carlos Correia Mota de Andrade \nJosé Carlos da Cruz Lavrador \nJosé Carlos Lourenço Tavares Pereira \nJosé Carlos Pinto Basto Mota Torres \nJosé da Conceição Saraiva \nJosé de Matos Leitão \nJosé Eduardo Vera Cruz Jardim \nJosé Ernesto Figueira dos Reis \nJosé Manuel de Medeiros Ferreira \nJosé Manuel Pires Epifânio \nJosé Manuel Rosa do Egipto \nJosé Miguel Abreu de Figueiredo Medeiros \nJosé Miguel Marques Boquinhas \nJovita de Fátima Romano Ladeira \nJúlio Francisco Miranda Calha \nLaurentino José Monteiro Castro Dias \nLuís Afonso Cerqueira Natividade Candal \nLuís Manuel Ferreira Parreirão Gonçalves \nLuís Miguel Gomes Miranda Teixeira \nLuísa Pinheiro Portugal \nLuiz Manuel Fagundes Duarte \nMafalda Cristina Mata de Oliveira Troncho \nManuel Alberto Barbosa de Oliveira \nManuel Alegre de Melo Duarte \nManuel Francisco dos Santos Valente \nManuel Joaquim Barbosa Ribeiro \nManuel Maria Diogo \nManuel Maria Ferreira Carrilho \nMargarida Maria Santos Soares da Rocha Gariso \nMaria Amélia do Carmo Mota Santos \nMaria Celeste Lopes da Silva Correia \nMaria Custódia Barbosa Fernandes Costa \nMaria de Belém Roseira Martins Coelho Henriques de Pina \nMaria do Carmo de Jesus Amaro Sequeira \nMaria do Céu da Cruz Vidal Lourenço \nMaria do Rosário Lopes Amaro da Costa da Luz Carneiro \nMaria Fernanda dos Santos Martins Catarino Costa \nMaria Helena do Rêgo da Costa Salema Roseta \nMaria Isabel da Silva Pires de Lima \nMaria Luísa Silva Vasconcelos \nMaria Teresa de Oliveira Ferreira Coimbra \nMiguel Bernardo Ginestal Machado Monteiro Albuquerque \nNatalina Nunes Esteves Pires Tavares de Moura \nOsvaldo Alberto Rosário Sarmento e Castro \nPaula Cristina Ferreira Guimarães Duarte \nPaulo Alexandre de Carvalho Pisco \nPaulo Alexandre Homem de Oliveira Fonseca \nPedro Ricardo Cavaco Castanheira Jorge \nRenato Luís de Araújo Forte Sampaio \nRicardo Manuel Ferreira Gonçalves \nRosa Maria da Silva Bastos da Horta Albernaz \nRosalina Maria Barbosa Martins \nRui do Nascimento Rabaça Vieira \nRui Manuel Leal Marqueiro \nSónia Ermelinda Matos da Silva Fertuzinhos \nTeresa Maria Neto Venda \nVictor Brito de Moura \nVictor Manuel Bento Baptista \nVítor Manuel Alves Peixoto \nVictor Manuel Caio Roque \nVítor Manuel Sampaio Caetano Ramalho \nZelinda Margarida Carmo Marouço Oliveira Semedo", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Partido Social Democrata (PSD): \nAdão José Fonseca Silva \nÁlvaro dos Santos Amaro \nÁlvaro Roque de Pinho Bissaia Barreto", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Ana Maria Martins Narciso \nAna Maria Sequeira Mendes Pires Manso \nAntónio da Silva Pinto de Nazaré Pereira \nAntónio d'Orey Capucho \nAntónio Edmundo Barbosa Montalvão Machado \nAntónio Manuel da Cruz Silva \nAntónio Manuel Santana Abelha \nAntónio Paulo Martins Pereira Coelho \nArmando Manuel Dinis Vieira \nArménio dos Santos \nArmindo Telmo Antunes Ferreira \nArtur Ryder Torres Pereira \nBruno Jorge Viegas Vitorino \nCarlos José das Neves Martins \nCarlos Manuel de Sousa Encarnação \nCarlos Parente Antunes \nDavid Jorge Mascarenhas dos Santos \nEduardo Eugénio Castro de Azevedo Soares \nEugénio Fernando Sá Cerqueira Marinho \nFeliciano José Barreiras Duarte \nFernando Jorge Loureiro de Reboredo Seara \nFernando Manuel Lopes Penha Pereira \nFernando Santos Pereira \nGuilherme Henrique Valente Rodrigues da Silva \nHenrique José Monteiro Chaves \nHenrique José Praia da Rocha de Freitas \nHermínio José Sobral Loureiro Gonçalves \nHugo José Teixeira Velosa \nJoão Bosco Soares Mota Amaral \nJoão Eduardo Guimarães Moura de Sá \nJoão José da Silva Maçãs \nJoaquim Carlos Vasconcelos da Ponte \nJoaquim Martins Ferreira do Amaral \nJoaquim Virgílio Leite Almeida da Costa \nJorge Manuel Ferraz de Freitas Neto \nJosé António de Sousa e Silva \nJosé David Gomes Justino \nJosé de Almeida Cesário \nJosé Eduardo Rêgo Mendes Martins \nJosé Frederico de Lemos Salter Cid \nJosé Luís Campos Vieira de Castro \nJosé Luís Fazenda Arnaut Duarte \nJosé Manuel de Matos Correia \nJosé Manuel Durão Barroso \nLucília Maria Samoreno Ferra \nLuís Cirilo Amorim de Campos Carvalho \nLuís Manuel Gonçalves Marques Mendes \nLuís Manuel Machado Rodrigues \nLuís Maria de Barros Serra Marques Guedes \nLuís Pedro Machado Sampaio de Sousa Pimentel \nManuel Alves de Oliveira \nManuel Castro de Almeida \nManuel Filipe Correia de Jesus \nManuel Joaquim Barata Frexes \nManuel Maria Moreira \nManuel Ricardo Dias dos Santos Fonseca de Almeida \nMaria do Céu Baptista Ramos \nMaria Eduarda de Almeida Azevedo \nMaria Manuela Aguiar Dias Moreira \nMaria Manuela Dias Ferreira Leite \nMaria Natália Guterres V. Carrascalão da Conceição Antunes \nMaria Ofélia Fernandes dos Santos Moleiro \nMaria Teresa Pinto Basto Gouveia \nMário da Silva Coutinho Albuquerque \nMário Patinha Antão \nMelchior Ribeiro Pereira Moreira \nMiguel Bento Martins da Costa de Macedo e Silva \nMiguel Fernando Cassola de Miranda Relvas \nNuno Miguel Marta de Oliveira da Silva Freitas \nPedro Augusto Cunha Pinto \nPedro José da Vinha Rodrigues Costa \nPedro Manuel Cruz Roseta \nPedro Miguel de Azeredo Duarte \nPedro Miguel de Santana Lopes \nRui Fernando da Silva Rio \nRui Manuel Lobo Gomes da Silva \nSérgio André da Costa Vieira", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Partido Comunista Português (PCP): \nAgostinho Nuno de Azevedo Ferreira Lopes \nAna Margarida Lopes Botelho \nAntónio Filipe Gaião Rodrigues \nAntónio João Rodeia Machado \nBernardino José Torrão Soares \nBruno Ramos Dias \nCarlos Alberto do Vale Gomes Carvalhas \nJoão António Gonçalves do Amaral \nJoaquim Manuel da Fonseca Matias \nJosé Honório Faria Gonçalves Novo \nLino António Marques de Carvalho \nMaria Luísa Raimundo Mesquita \nMaria Natália Gomes Filipe \nMaria Odete dos Santos \nVicente José Rosado Merendas", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Partido Popular (CDS-PP): \nAntónio de Magalhães Pires de Lima \nBasílio Adolfo de Mendonça Horta da Franca \nJoão Guilherme Nobre Prata Fragoso Rebelo \nJoão Nuno Lacerda Teixeira de Melo \nJosé Miguel Nunes Anacoreta Correia \nLuís José de Mello e Castro Guedes \nLuís Miguel Capão Filipe \nManuel Tomás Cortez Rodrigues Queiró \nMaria Celeste Ferreira Lopes Cardona \nNarana Sinai Coissoró \nPaulo Sacadura Cabral Portas \nRaúl Miguel de Oliveira Rosado Fernandes \nSílvio Rui Neves Correia Gonçalves Cervan \nTelmo Augusto Gomes de Noronha Correia", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Partido Ecologista «Os Verdes» (PEV): \nHeloísa Augusta Baião de Brito Apolónia \nIsabel Maria de Almeida e Castro", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Bloco de Esquerda (BE): \nFernando José Mendes Rosas \nFrancisco Anacleto Louçã", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Estavam presentes os seguintes Srs. Deputados", 
    "text": "Deputado Independente: \nJosé Daniel Rosas Campelo da Rocha", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente* (Mota Amaral): Srs. Membros do Governo, Sr.as e Srs.Deputados, o período da ordem do dia da sessão de hoje prevê o encerramento da discussão con-junta, na generalidade, das propostas de lei n.os 104/VIII - Grandes Opções do Plano para 2002 e 105/VIII - Orça-mento do Estado para 2002.", 
-   "type": "continuacao"
+   "party": "Mota Amaral", 
+   "speaker": "Presidente", 
+   "text": "Srs. Membros do Governo, Sr.as e Srs.Deputados, o período da ordem do dia da sessão de hoje prevê o encerramento da discussão con-junta, na generalidade, das propostas de lei n.os 104/VIII - Grandes Opções do Plano para 2002 e 105/VIII - Orça-mento do Estado para 2002.\nDe acordo com o estabelecido, dou a palavra, em pri-meiro lugar, ao Sr.Deputado Fernando Rosas, em nome do Grupo Parlamentar do Bloco de Esquerda.\nFaça favor, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "De acordo com o estabelecido, dou a palavra, em pri-meiro lugar, ao Sr.Deputado Fernando Rosas, em nome do Grupo Parlamentar do Bloco de Esquerda.\nFaça favor, Sr. Deputado.", 
-   "type": "continuacao"
+   "party": "BE", 
+   "speaker": "Fernando Rosas", 
+   "text": "Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: A esquerda repu-blicana, que se pode considerar o antecedente histórico do actual PS, constituiu-se, enquanto projecto económico-social no primeiro pós-guerra, em torno de duas ideias-chave, para combater a crise financeira e o desequilíbrio orçamental de então: \na reforma tributária assente no lança-mento de impostos directos e progressivos sobre o rendi-mento e o controlo estatal sobre o mercado financeiro e cambial para tributar e combater a especulação financeira e cambial, conduzida então pela banca privada.\nFoi obra tentada por vários ministros, desde 1920, mas sobretudo no biénio radical de Dezembro de 1923 a Fevereiro de 1925, com os governos de homens como Álvaro de Castro, Rodrigues Gaspar ou José Domingos dos Santos.\nEssas reformas foram então ferozmente combatidas pelas forças vivas e pela direita política da época, com uma verdadeira mobilização subversiva contra o pagamento dos novos impostos, de que o lock-out de Setembro de 1924 contra o imposto do selo haveria de ser o emblema.\nMas, Srs. Deputados, quem verdadeiramente derrotou a obra financeira e fiscal da esquerda republicana foram os bonzos e os marechais do Partido Republicano. Em nome da sobrevivência no poder e de não descontentar a direita política e dos interesses, retiraram o «tapete» aos governos da esquerda republicana, esvaziaram e anularam as suas medidas e, a partir de 1925, passaram a adoptar a política financeira e fiscal da direita, pensando que com isso salva-vam a pele.\nEnganaram-se! Para fazer a política económica e financeira da direita havia as forças políticas da direita, que os bonzos ajudariam a colocar no poder.\nMais de 80 anos depois, o actual debate orçamental in-voca \nirremediavelmente esse confronto. Hoje, perante a vozearia da banca, dos grupos económicos, dos grandes interesses e dos partidos da direita, vozearia que rondou, por vezes, a sabotagem à economia nacional, os actuais bonzos e marechais do Partido Socialista assustaram-se e resolveram, entre vários outros recuos, «congelar» a refor-ma fiscal em aspectos essenciais do seu desenho, tirando também eles o «tapete» aos que, à esquerda, dentro e fora do Partido Socialista, a tinham concebido e feito aprovar. E esse recuo é um traço incontornável a marcar o presente Orçamento.\nO Governo ameaça-nos com a crise internacional para fazer passar o Orçamento, mas é o Orçamento que abdica de tomar medidas contra os efeitos da crise em Portugal, excepto no plano salarial, onde prepara o agravamento da desvalorização real dos salários do trabalho; atenua as regras de controle do registo do off-shore da Madeira; alarga as isenções e os benefícios fiscais das sociedades gestoras de \nparticipações sociais; recua na tributação dos dividendos; recua no processo de englobamento, em parti-cular no caso das mais-valias em IRS; revoga retroactiva-mente o regime das mais-valias em IRC; alarga os benefí-cios fiscais das mais-valias ao imobilizado incorpóreo.\nDurante os anos da governação do PS, há mais-valias, na ordem dos 700 milhões de contos, geradas nas empresas cuja tributação foi zero ou quase nada. O escândalo e a injustiça fiscais saem vencedores deste Orçamento.\nO Governo do PS pode pensar que o bom caminho para fazer passar o Orçamento e sobreviver é ceder às pressões da direita política e dos interesses, mais uma vez. Mas este debate orçamental demonstrou que a direita lhes não agra-dece - mais uma vez, para fazer a política da direita há os partidos da direita.\nAo deixar a mensagem implícita de que não é possível fazer uma política sustentada de reformas à esquerda, o PS prepara o regresso da direita ao poder ou, então, transfor-ma-se, ele próprio, numa variante rotativa do campo políti-co da direita.\nO Governo do PS pensa ter força para fazer passar este Orçamento e manter-se no poder voltando a forjar uma maioria absoluta contra o sentido da representação e da vontade parlamentar, voltando a caçar os apoios de um qualquer «videirinho» da política, pronto a prestá-los a custos módicos.\nO Governo do PS não compreende que com isso, mes-mo que faça passar o seu Orçamento, dá o mais deprimente sinal de fraqueza e de desprestigio das instituições.\nGostaria de perguntar aos dirigentes nacionais do PS, aos Deputados do PS, ao líder da bancada do PS, aos Mi-nistros do PS que escreveram ou, pública e enfaticamente, se pronunciaram contra a reedição do «orçamento limiano» se, afinal, as suas declarações não eram para levar a sério.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Fernando Rosas* (BE): Sr. Presidente, Srs. Membros do Governo, Srs. Deputados: A esquerda repu-blicana, que se pode considerar o antecedente histórico do actual PS, constituiu-se, enquanto projecto económico-social no primeiro pós-guerra, em torno de duas ideias-chave, para combater a crise financeira e o desequilíbrio orçamental de então: \na reforma tributária assente no lança-mento de impostos directos e progressivos sobre o rendi-mento e o controlo estatal sobre o mercado financeiro e cambial para tributar e combater a especulação financeira e cambial, conduzida então pela banca privada.\nFoi obra tentada por vários ministros, desde 1920, mas sobretudo no biénio radical de Dezembro de 1923 a Fevereiro de 1925, com os governos de homens como Álvaro de Castro, Rodrigues Gaspar ou José Domingos dos Santos.\nEssas reformas foram então ferozmente combatidas pelas forças vivas e pela direita política da época, com uma verdadeira mobilização subversiva contra o pagamento dos novos impostos, de que o lock-out de Setembro de 1924 contra o imposto do selo haveria de ser o emblema.\nMas, Srs. Deputados, quem verdadeiramente derrotou a obra financeira e fiscal da esquerda republicana foram os bonzos e os marechais do Partido Republicano. Em nome da sobrevivência no poder e de não descontentar a direita política e dos interesses, retiraram o «tapete» aos governos da esquerda republicana, esvaziaram e anularam as suas medidas e, a partir de 1925, passaram a adoptar a política financeira e fiscal da direita, pensando que com isso salva-vam a pele.\nEnganaram-se! Para fazer a política económica e financeira da direita havia as forças políticas da direita, que os bonzos ajudariam a colocar no poder.\nMais de 80 anos depois, o actual debate orçamental in-voca \nirremediavelmente esse confronto. Hoje, perante a vozearia da banca, dos grupos económicos, dos grandes interesses e dos partidos da direita, vozearia que rondou, por vezes, a sabotagem à economia nacional, os actuais bonzos e marechais do Partido Socialista assustaram-se e resolveram, entre vários outros recuos, «congelar» a refor-ma fiscal em aspectos essenciais do seu desenho, tirando também eles o «tapete» aos que, à esquerda, dentro e fora do Partido Socialista, a tinham concebido e feito aprovar. E esse recuo é um traço incontornável a marcar o presente Orçamento.\nO Governo ameaça-nos com a crise internacional para fazer passar o Orçamento, mas é o Orçamento que abdica de tomar medidas contra os efeitos da crise em Portugal, excepto no plano salarial, onde prepara o agravamento da desvalorização real dos salários do trabalho; atenua as regras de controle do registo do off-shore da Madeira; alarga as isenções e os benefícios fiscais das sociedades gestoras de \nparticipações sociais; recua na tributação dos dividendos; recua no processo de englobamento, em parti-cular no caso das mais-valias em IRS; revoga retroactiva-mente o regime das mais-valias em IRC; alarga os benefí-cios fiscais das mais-valias ao imobilizado incorpóreo.\nDurante os anos da governação do PS, há mais-valias, na ordem dos 700 milhões de contos, geradas nas empresas cuja tributação foi zero ou quase nada. O escândalo e a injustiça fiscais saem vencedores deste Orçamento.\nO Governo do PS pode pensar que o bom caminho para fazer passar o Orçamento e sobreviver é ceder às pressões da direita política e dos interesses, mais uma vez. Mas este debate orçamental demonstrou que a direita lhes não agra-dece - mais uma vez, para fazer a política da direita há os partidos da direita.\nAo deixar a mensagem implícita de que não é possível fazer uma política sustentada de reformas à esquerda, o PS prepara o regresso da direita ao poder ou, então, transfor-ma-se, ele próprio, numa variante rotativa do campo políti-co da direita.\nO Governo do PS pensa ter força para fazer passar este Orçamento e manter-se no poder voltando a forjar uma maioria absoluta contra o sentido da representação e da vontade parlamentar, voltando a caçar os apoios de um qualquer «videirinho» da política, pronto a prestá-los a custos módicos.\nO Governo do PS não compreende que com isso, mes-mo que faça passar o seu Orçamento, dá o mais deprimente sinal de fraqueza e de desprestigio das instituições.\nGostaria de perguntar aos dirigentes nacionais do PS, aos Deputados do PS, ao líder da bancada do PS, aos Mi-nistros do PS que escreveram ou, pública e enfaticamente, se pronunciaram contra a reedição do «orçamento limiano» se, afinal, as suas declarações não eram para levar a sério.", 
-   "type": "continuacao"
+   "party": "Mota Amaral", 
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Fer-nando Rosas, o tempo de que dispunha esgotou-se. Peço-lhe, por isso, para concluir.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente* (Mota Amaral): Sr. Deputado Fer-nando Rosas, o tempo de que dispunha esgotou-se. Peço-lhe, por isso, para concluir.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: Concluo já, Sr. Presidente. E pergunto ainda se a aprovação deste Orçamento vale a vossa hono-rabilidade política ou a violentação das vossas consciên-cias.\nEste Orçamento, Sr. Presidente - e assim termino -, começou como uma farsa e termina como uma vergonha para o actual Governo. Obviamente, vamos votar contra ele.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Concluo já, Sr. Presidente. E pergunto ainda se a aprovação deste Orçamento vale a vossa hono-rabilidade política ou a violentação das vossas consciên-cias.\nEste Orçamento, Sr. Presidente - e assim termino -, começou como uma farsa e termina como uma vergonha para o actual Governo. Obviamente, vamos votar contra ele.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do BE.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Mota Amaral): Para uma inter-venção, tem a palavra a Sr.ª Deputada Isabel Castro, em nome do Grupo parlamentar de Os Verdes.", 
-   "type": "continuacao"
+   "party": "Mota Amaral", 
+   "speaker": "Presidente", 
+   "text": "Para uma inter-venção, tem a palavra a Sr.ª Deputada Isabel Castro, em nome do Grupo parlamentar de Os Verdes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Isabel Castro (Os Verdes): Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: A vota-ção, na generalidade, do Orçamento do Estado vai fazer-se sem surpresas, nem mesmo quanto ao processo utilizado. Um processo que vicia o debate democrático, que reduz os contactos do Governo com a oposição a mera formalidade protocolar e transforma em perigosa rotina um procedi-mento que a maioria do Parlamento e dos cidadãos não hesitou classificar como vergonha nacional.\nTerá, assim, sem qualquer esforço, o Governo um Or-çamento. Não tem, de certeza, o País nem a democracia o Orçamento de que necessita para ultrapassar as suas defici-ências, os seus atrasos, as suas \nfragilidades.\nUm mau Orçamento, afirmam Os Verdes, particular-mente se se invoca a crise, porque, ao contrário de maior rigor,", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, Srs. Membros do Governo, Sr.as e Srs. Deputados: A vota-ção, na generalidade, do Orçamento do Estado vai fazer-se sem surpresas, nem mesmo quanto ao processo utilizado. Um processo que vicia o debate democrático, que reduz os contactos do Governo com a oposição a mera formalidade protocolar e transforma em perigosa rotina um procedi-mento que a maioria do Parlamento e dos cidadãos não hesitou classificar como vergonha nacional.\nTerá, assim, sem qualquer esforço, o Governo um Or-çamento. Não tem, de certeza, o País nem a democracia o Orçamento de que necessita para ultrapassar as suas defici-ências, os seus atrasos, as suas \nfragilidades.\nUm mau Orçamento, afirmam Os Verdes, particular-mente se se invoca a crise, porque, ao contrário de maior rigor,", 
+   "type": "speaker_error"
   }, 
   {
    "text": "lucidez e rigor, opta ainda por não falar verdade, nem na clareza de objectivos nem nos meios disponibilizados, nem nos calendários fixados.\nUm Orçamento incapaz de reorientar prioridades, de se questionar a si próprio sobre objectivos que traçou e que não quer avaliar.\nUm mau Orçamento porque continua a viver à margem da realidade e a alimentar ficções, quer se fale nas opções feitas em megaprojectos, sobre os quais se continua a falar sem os repensar, quer se fale do Euro 2004, de duvidosa mais-valia social, para o qual o Governo, generoso, à custa dos contribuintes, não se poupa, não olhando a gastos nem à sua mais do que previsível derrapagem. Uma generosida-de que, por outro lado, não se revela, por exemplo, quando se discute as necessidades educativas especiais, este ano pura e simplesmente ignoradas, ou a necessidade de abrigar mulher vítimas de violência, cujo projecto continua à espe-ra.\nUm mau Orçamento porque falho de realismo, rigor e transparência, baseado, como outros o foram no passado, em previsões de receitas fiscais, de crescimento e de infla-ção de duvidosa sustentabilidade; uma ausência de fiabili-dade que não deixa margem para segurança nem para cer-tezas, a não ser a única que os trabalhadores conhecem, desde há anos: a da chamada contenção salarial pública e, por reflexo, privada.\nUm mau Orçamento também porque, poucos meses após ter dado os primeiros passos - que nós aplaudimos - para a tão esperada e necessária reforma fiscal, a suspende, cedendo aos grupos financeiros, embora o Governo evo-que, com vergonha, razões que o próprio Partido Socialis-ta, pela voz do Sr. Deputado João Cravinho, reconheceu infundadas. Uma decisão que brinda, seguramente, os mo-vimentos especulativos mas que envergonha o País e a situação actual.\nUm mau Orçamento, ainda, porque ignora uma questão fundamental das sociedades, a política de cidades e das áreas metropolitanas, que continuam sem uma definição dos modos de as gerir e de as equacionar nos mais diversos domínios.\nUma política que falta ainda neste mau Orçamento, que constantemente fala na crise mas, não obstante a evocar permanentemente, ignora os compromissos de Quioto, a mudança climática, a enorme dependência de Portugal face à produção de petróleo, a pesada «factura» que essa depen-dência representa para as empresas e para o País e nada propõe de concreto para inverter radicalmente a actual situação.\nEste não só é um problema político, um problema ener-gético, um problema económico, mas é também, cada vez mais, um problema de segurança, que a crise pura e sim-plesmente ignora ao não definir medidas na área dos trans-portes, na política de combustíveis, nos investimentos para alterar processos produtivos, na modernização dos proces-sos tecnológicos necessários para a produtividade de que tanto se fala.\nSr. Presidente, Sr. Primeiro-Ministro, Sr.as e Srs. De-putados, este não é um Orçamento capaz de resolver o presente, muito menos em tempo de crise. Tão-pouco será o Orçamento para preparar e cuidar do futuro.\nÉ, pois, o Orçamento que, assumindo o compromisso que temos com os eleitores, o qual não deveremos violar, em nome da solidariedade e dos seus direitos, em consciência, iremos rejeitar na generalidade.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
-   "text": "A Sr.ª Heloísa Apolónia (Os Verdes): Muito bem!", 
-   "type": "continuacao"
+   "text": "Muito bem!", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente* (Mota Amaral): Para uma inter-venção, tem a palavra o Sr. Deputado Paulo Portas.", 
-   "type": "continuacao"
+   "party": "Mota Amaral", 
+   "speaker": "Presidente", 
+   "text": "Para uma inter-venção, tem a palavra o Sr. Deputado Paulo Portas.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): Sr. Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo, Sr.as e Srs. Deputados: Hoje, é a «prova dos nove» da interrogação que fiz no primeiro dia deste debate. E recordo a forma como coloquei a questão: ou V. Ex.ª, Sr. Primeiro-Ministro, repete o erro do ano passado, ou, este ano, emen-da a mão.\nTemos, desde o início, a suspeita de que V. Ex.ª, en-quanto \nPrimeiro-Ministro, combinou tudo com um Deputa-do, negociou tudo com um Deputado; de que V.Ex.ª, en-quanto Primeiro-Ministro, não procura verdadeiramente a melhoria do Orçamento mas apenas a sua passagem; de que V. Ex.ª, como Primeiro-Ministro, não está empenhado em retomar a confiança da economia mas apenas em garantir a sua sobrevivência política.", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "Sr. Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo, Sr.as e Srs. Deputados: Hoje, é a «prova dos nove» da interrogação que fiz no primeiro dia deste debate. E recordo a forma como coloquei a questão: ou V. Ex.ª, Sr. Primeiro-Ministro, repete o erro do ano passado, ou, este ano, emen-da a mão.\nTemos, desde o início, a suspeita de que V. Ex.ª, en-quanto \nPrimeiro-Ministro, combinou tudo com um Deputa-do, negociou tudo com um Deputado; de que V.Ex.ª, en-quanto Primeiro-Ministro, não procura verdadeiramente a melhoria do Orçamento mas apenas a sua passagem; de que V. Ex.ª, como Primeiro-Ministro, não está empenhado em retomar a confiança da economia mas apenas em garantir a sua sobrevivência política.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Basílio Horta* (CDS-PP): Muito bem!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Basílio Horta", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Temos, desde o início, a suspeita, fun-damentada no que sucedeu no ano passado, de que este Orçamento será viabilizado pelos votos do Partido Socia-lista e de um Deputado, ocasionalmente escolhido e dispo-nível, com quem negociaram directamente, violando, a nosso ver, todas as regras e procedimentos institucionais.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Temos, desde o início, a suspeita, fun-damentada no que sucedeu no ano passado, de que este Orçamento será viabilizado pelos votos do Partido Socia-lista e de um Deputado, ocasionalmente escolhido e dispo-nível, com quem negociaram directamente, violando, a nosso ver, todas as regras e procedimentos institucionais.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do CDS-PP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Coloquei, em alternativa, a possibilidade de não estarmos certos e ter V. Ex.ª razão. Se V. Ex.ª tives-se razão, nada tinha negociado com qualquer Deputado, não tinha garantido a aprovação do Orçamento violando os procedimentos e as regras institucionais e, então, hoje, ele teria apenas os votos do Partido Socialista e não teria o voto de nenhum Deputado individualmente considerado. Então, seríamos nós a «dar a mão à palmatória». Teria V. Ex.ª razão, estaria a ser sincero e a nossa obrigação era, evidentemente, ajudá-lo a ir para casa fazer um segundo orçamento melhor para o País.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Coloquei, em alternativa, a possibilidade de não estarmos certos e ter V. Ex.ª razão. Se V. Ex.ª tives-se razão, nada tinha negociado com qualquer Deputado, não tinha garantido a aprovação do Orçamento violando os procedimentos e as regras institucionais e, então, hoje, ele teria apenas os votos do Partido Socialista e não teria o voto de nenhum Deputado individualmente considerado. Então, seríamos nós a «dar a mão à palmatória». Teria V. Ex.ª razão, estaria a ser sincero e a nossa obrigação era, evidentemente, ajudá-lo a ir para casa fazer um segundo orçamento melhor para o País.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do CDS-PP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Protestos do PS.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Hoje, é a «prova dos nove». Sempre dis-semos que este Orçamento estava negociado da mesma forma que foi negociado o anterior: \ncom um Deputado «pescado à linha», o que não equivale a qualquer racionali-dade económica, a qualquer projecto de recuperação do País ou, sequer, a uma resposta portuguesa à dimensão da crise internacional que estamos a viver.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Hoje, é a «prova dos nove». Sempre dis-semos que este Orçamento estava negociado da mesma forma que foi negociado o anterior: \ncom um Deputado «pescado à linha», o que não equivale a qualquer racionali-dade económica, a qualquer projecto de recuperação do País ou, sequer, a uma resposta portuguesa à dimensão da crise internacional que estamos a viver.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Basílio Horta* (CDS-PP): Muito bem!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Basílio Horta", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Creio bem, Sr. Primeiro-Ministro, que estávamos certos e o senhor não estava a ser sincero. O senhor, desde o início, tem este Orçamento negociado dessa forma e preferiu repetir o erro do ano passado a emendar a mão este ano.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Creio bem, Sr. Primeiro-Ministro, que estávamos certos e o senhor não estava a ser sincero. O senhor, desde o início, tem este Orçamento negociado dessa forma e preferiu repetir o erro do ano passado a emendar a mão este ano.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Sr. Primeiro-Ministro - mesmo numa versão benigna -, «à primeira, caem todos; à segunda, só cai quem quer». À primeira, poderia ter-se tratado de uma excepção; à segun-da, começa a confirmar-se uma regra. O primeiro terá sido o «orçamento do queijo»; este, é o «orçamento dos buracos do queijo»!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do CDS-PP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Sr. Primeiro-Ministro, este é um Orçamento de um país que tem a inflação a crescer, o crescimento a descer, a produtividade a marcar passo, a despesa a disparar, o défi-ce sem controlo, o mercado de capitais no «chão», a confi-ança económica no seu ponto mais baixo, salários em atra-so, falências em série! Foi esse o resultado da forma como o senhor negociou, no ano passado e este ano, o Orçamento do Estado.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do CDS-PP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Isto permite-nos, hoje, dizer que razão tivemos em não ir às reuniões que V. Ex.ª pediu à oposição…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do CDS-PP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: … porque tínhamos a legítima e fundada suspeita de que V.\nEx.ª nos contratava para figurantes de uma peça cujo guião estava escrito, cujas cartas estavam viciadas e cujo desfecho marcado era este, Sr. Primeiro-Ministro.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… porque tínhamos a legítima e fundada suspeita de que V.\nEx.ª nos contratava para figurantes de uma peça cujo guião estava escrito, cujas cartas estavam viciadas e cujo desfecho marcado era este, Sr. Primeiro-Ministro.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do CDS-PP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Lembro-lhe que, quando nos escreveu a solicitar essas reuniões, lhe disse com clareza que, para nós - e com toda a razão, porque nos aconteceu o que aconteceu no ano passado -, havia uma questão prévia: \nou o senhor garantia que queria negociar o Orçamento, como qualquer Primei-ro-Ministro de um país civilizado, junto de partidos políti-cos que representam a Nação, que têm uma doutrina, que significam um projecto e, então, o senhor tinha de se com-prometer a não fazer o que fez no ano passado,…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Basílio Horta* (CDS-PP): Muito bem!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Basílio Horta", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: …ou se o senhor não dava essa garantia prévia e a única coisa que podíamos pensar era que V. Ex.ª, se não tivesse propósito de emenda, pretendia exactamente repetir o que tinha feito no ano passado e, ainda por cima, obter a nossa complacência.\nPor isso mesmo, Sr. Primeiro-Ministro, não estivemos em nenhuma dessas reuniões,...", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "…ou se o senhor não dava essa garantia prévia e a única coisa que podíamos pensar era que V. Ex.ª, se não tivesse propósito de emenda, pretendia exactamente repetir o que tinha feito no ano passado e, ainda por cima, obter a nossa complacência.\nPor isso mesmo, Sr. Primeiro-Ministro, não estivemos em nenhuma dessas reuniões,...", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do CDS-PP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: ... e consideramos que fizemos muitíssi-mo bem porque, repito, as cartas estavam marcadas, o desfecho deste Orçamento estava viciado e o resultado era o previsível.\nNão sei mesmo por que é que não nos limitámos à ses-são inicial deste debate. Podíamos ter votado logo a seguir, porque já toda a gente sabia o que é que ia acontecer.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "... e consideramos que fizemos muitíssi-mo bem porque, repito, as cartas estavam marcadas, o desfecho deste Orçamento estava viciado e o resultado era o previsível.\nNão sei mesmo por que é que não nos limitámos à ses-são inicial deste debate. Podíamos ter votado logo a seguir, porque já toda a gente sabia o que é que ia acontecer.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do CDS-PP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Sr. Primeiro-Ministro, muito se falou em filme e em guião durante todo este debate. Creio, Sr. Primeiro-Ministro - e permita-me falar-lhe com alguma autoridade porque, como sabe, sou cinéfilo - ,…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Risos do PS.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "… que a pior coisa que o senhor podia ter feito às institui-ções, ao País, à economia e a si próprio era uma reprise de má qualidade face ao «filme» do ano passado.\nAs coisas, Sr. Primeiro-Ministro, como se vê pela sua própria cara, saíram-lhe pior este ano do que no ano pas-sado.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Risos do CDS-PP.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "E também ao Deputado em causa saíram pior este ano do que no ano passado! \nSr. Primeiro-Ministro, não faz sentido nenhum dizer que a situação do mundo é muito difícil (e claro que é), que o Ocidente está em guerra (e está), que a crise económica está generalizada (e é verdade), que a situação portuguesa só pode piorar em função dos acontecimentos internacio-nais (o que também é verdade), não faz sentido pintar este cenário e depois propor-nos a aprovação de mais um «or-çamento do queijo».\nSr. Primeiro-Ministro, a dimensão do problema não pode ser enorme face à exiguidade da solução que o senhor mais uma vez procurou!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do CDS-PP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "E razão tivemos também, Sr. Primeiro-Ministro, em afirmar, aqui, mais uma vez, a clareza dos princípios. Não vale tudo, não vale tudo, Sr.Primeiro-Ministro, para lhe garantir um voto para aprovar, num certo momento, um orçamento! \nSei que esta é a solução mais cómoda para si, sei que esta é a solução que talvez se adeqúe melhor ao seu feitio, mas não é a solução que o estado da economia portuguesa requeria, merecia e necessitava, Sr.Primeiro-Ministro.\nPor isso, terminamos este debate de cabeça erguida, terminamos este debate com a consciência tranquila, e, quero dizer-lhe pessoalmente, de olhos nos olhos, como o senhor costuma dizer, porque entre o nosso partido e o seu Governo existe um problema ético muito sério, que aconte-ceu no ano passado e que se repete este ano, que perdi um Deputado, que perdi uma câmara municipal mas tenho a consciência tranquila de que não sou parte deste atoleiro. V. Ex.ª terá ganho um voto, porventura, um orçamento, mas é parte e parte principal deste atoleiro em que se afun-dam as instituições do País.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do CDS-PP, de pé.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Mota Amaral): Tem a palavra, para uma intervenção, o Sr. Deputado Bernardino Soares, em nome do Grupo Parlamentar do PCP.", 
-   "type": "continuacao"
+   "party": "Mota Amaral", 
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, para uma intervenção, o Sr. Deputado Bernardino Soares, em nome do Grupo Parlamentar do PCP.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Bernardino Soares* (PCP): Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Não é de mais lembrar, numa altura em que se aproxima o decisivo, mas há muito desvendado, momento da votação na", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Bernardino Soares", 
+   "text": "Sr. Presidente, Srs. Deputados, Srs.Membros do Governo: Não é de mais lembrar, numa altura em que se aproxima o decisivo, mas há muito desvendado, momento da votação na generalidade, o suposto processo de consultas e de abertura de diálogo com todos os partidos da oposição que o Governo desencadeou antes da entrega da proposta orçamental. Tratou-se, como já na altura se vislumbrava, de fazer passar publicamente a ideia de que o Governo procurava encontrar, junto de todos os partidos da oposição, apoio para a aprovação do Orçamento e de que estaria disponível para discutir com eles as diversas opções orçamentais.\nO PCP, com o sentido de responsabilidade que sempre pauta a sua intervenção política, não se eximiu a participar nesse processo.\nApresentámos até ao Governo um docu-mento com as linhas fundamentais que, na nossa opinião, deviam enformar o Orçamento do Estado para 2002.\nMas, apesar de ter sido o próprio Governo a solicitar aos parti-dos a apresentação de sugestões, a única resposta que rece-bemos ao documento enviado foi a proposta de lei do Or-çamento, apresentada na Assembleia da República. Regis-te-se a diferença do tratamento agora dado a um docu-mento entregue por um partido da oposição e o tratamento dado, há sensivelmente um ano, a um requerimento apre-sentado por um Deputado, não sei se também a pedido do Governo, que obteve resposta rápida e afirmativa.\nNa verdade, como se provou no debate na generalidade, tanto a solução numérica para a aprovação do Orçamento como boa parte das suas linhas fundamentais estavam, na altura, já devidamente acertadas. Estivemos perante uma encenação repetida que não dignifica as instituições nem a democracia. Enquanto o PCP participava de boa fé no processo, o Governo não.\nMas, ainda em relação ao processo das três rondas de consultas, é no mínimo curioso notar que, tendo havido um partido que se recusou a estar presente em qualquer dessas reuniões, aparentemente escandalizado com a possível negociação do Orçamento com um seu filiado, tenham sido adoptadas pelo Governo várias propostas de que esse par-tido foi porta-voz. Olhando para o conteúdo do Orçamento, é fácil constatar que a direita parlamentar, o CDS-PP e o PSD, têm dificuldade em esconder a sua concordância com algumas das linhas aí preconizadas.\nO PSD e o CDS-PP estão de acordo com o afastamento da tributação das mais-valias e apenas levantaram a voz neste debate para criticar o facto de essa tributação ter sido alguma vez consagrada.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "generalidade, o suposto processo de consultas e de abertura de diálogo com todos os partidos da oposição que o Governo desencadeou antes da entrega da proposta orçamental. Tratou-se, como já na altura se vislumbrava, de fazer passar publicamente a ideia de que o Governo procurava encontrar, junto de todos os partidos da oposição, apoio para a aprovação do Orçamento e de que estaria disponível para discutir com eles as diversas opções orçamentais.\nO PCP, com o sentido de responsabilidade que sempre pauta a sua intervenção política, não se eximiu a participar nesse processo.\nApresentámos até ao Governo um docu-mento com as linhas fundamentais que, na nossa opinião, deviam enformar o Orçamento do Estado para 2002.\nMas, apesar de ter sido o próprio Governo a solicitar aos parti-dos a apresentação de sugestões, a única resposta que rece-bemos ao documento enviado foi a proposta de lei do Or-çamento, apresentada na Assembleia da República. Regis-te-se a diferença do tratamento agora dado a um docu-mento entregue por um partido da oposição e o tratamento dado, há sensivelmente um ano, a um requerimento apre-sentado por um Deputado, não sei se também a pedido do Governo, que obteve resposta rápida e afirmativa.\nNa verdade, como se provou no debate na generalidade, tanto a solução numérica para a aprovação do Orçamento como boa parte das suas linhas fundamentais estavam, na altura, já devidamente acertadas. Estivemos perante uma encenação repetida que não dignifica as instituições nem a democracia. Enquanto o PCP participava de boa fé no processo, o Governo não.\nMas, ainda em relação ao processo das três rondas de consultas, é no mínimo curioso notar que, tendo havido um partido que se recusou a estar presente em qualquer dessas reuniões, aparentemente escandalizado com a possível negociação do Orçamento com um seu filiado, tenham sido adoptadas pelo Governo várias propostas de que esse par-tido foi porta-voz. Olhando para o conteúdo do Orçamento, é fácil constatar que a direita parlamentar, o CDS-PP e o PSD, têm dificuldade em esconder a sua concordância com algumas das linhas aí preconizadas.\nO PSD e o CDS-PP estão de acordo com o afastamento da tributação das mais-valias e apenas levantaram a voz neste debate para criticar o facto de essa tributação ter sido alguma vez consagrada.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "António Filipe", 
+   "text": "Exactamente!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *António Filipe* (PCP): Exactamente!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O PSD e o CDS-PP estão de acordo com a manutenção dos constrangimentos irrealistas e insensíveis às necessidades do País impostos pelo Pacto de Estabilida-de e pelo Programa de Estabilidade e Crescimento.\nO PSD e o CDS-PP estão de acordo com o caminho da privatização do Serviço Nacional de Saúde que este Orça-mento acentua e que há muito reivindicam.\nO PSD e o CDS-PP estão de acordo com a manutenção de uma política de baixos salários e com a penalização dos trabalhadores da função pública pelo terceiro ano consecu-tivo. Foi, aliás, chocante a hipócrita preocupação expressa neste debate com os baixos salários e com a sua previsível diminuição real nos trabalhadores da função pública, quan-do nunca ouvimos nem o PSD nem o CDS-PP defenderem outra política que não fosse essa, nem proporem aumentos reais para estes trabalhadores.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: O PSD e o CDS-PP estão de acordo com a manutenção dos constrangimentos irrealistas e insensíveis às necessidades do País impostos pelo Pacto de Estabilida-de e pelo Programa de Estabilidade e Crescimento.\nO PSD e o CDS-PP estão de acordo com o caminho da privatização do Serviço Nacional de Saúde que este Orça-mento acentua e que há muito reivindicam.\nO PSD e o CDS-PP estão de acordo com a manutenção de uma política de baixos salários e com a penalização dos trabalhadores da função pública pelo terceiro ano consecu-tivo. Foi, aliás, chocante a hipócrita preocupação expressa neste debate com os baixos salários e com a sua previsível diminuição real nos trabalhadores da função pública, quan-do nunca ouvimos nem o PSD nem o CDS-PP defenderem outra política que não fosse essa, nem proporem aumentos reais para estes trabalhadores.", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "A direita queixa-se de «barriga cheia». Este é um Orçamento em que vingou a consagração de muitas das linhas fundamentais da sua política. E, por isso, o que é natural é que venha da direita o apoio para a sua aprovação.\nMas nada disto pode esconder uma óbvia realidade. É que este é o Orçamento do Governo PS, estas são as suas opções.\nO Governo apresenta um Orçamento em que muitos dos indicadores macroeconómicos não são mais do que uma ficção. A contradição entre o sentido de muitas previsões e a óbvia utilização de cenários fabricados para justificar opções ou esconder insuficiências são uma \ncaracterística deste Orçamento.\nO Governo apresenta um Orçamento em que, apesar de a vida ter imposto um aumento dos valores previstos, a redução do défice orçamental continua a ser um eixo cen-tral e sacrossanto da sua política, mesmo quando isso im-plica uma forte diminuição da margem de manobra e dos instrumentos disponíveis para fazer face às necessidades do País e à conjuntura de crise que atravessamos.\nO Governo apresenta um Orçamento em que cede às pretensões do capital financeiro em matéria fiscal, contrari-ando aquilo que se aprovou nesta Assembleia e acentuando a injustiça fiscal que continua a existir no nosso país e que faz dele um dos que melhores condições de \nrendibilidade oferece à banca. Num País em que os trabalhadores supor-tam a maioria da receita fiscal e em que, ao mesmo tempo, a banca teve centenas de milhões de contos de lucro em 2000, a banca paga apenas uma taxa de 12,9% de IRC em vez de 32% e ainda confessa que 30% dos seus benefícios fiscais são obtidos através do off-shore da Madeira, neste país, o Governo opta por dar à banca ainda mais benesses, retirando de aplicação as normas que atingiam os seus interesses.\nTrata-se de uma verdadeira capitulação fiscal e de uma cedência, em toda a linha, nas decisões do poder político às exigências do poder económico.\nO Governo apresenta uma política salarial contrária aos interesses dos trabalhadores e do País. A análise do Orça-mento indica que, em relação ao aumento nominal dos salários da função pública, que ao mesmo tempo são uma referência para o sector privado, o Governo não pretende aumentos reais nem a recuperação das diminuições reais de salários dos últimos dois anos. E isto, lembre-se, após dois anos de perda real de salários.\nÉ por isso que as 191 514 assinaturas recolhidas por iniciativa do PCP e entregues ao Sr. Primeiro-Ministro, que já referimos neste debate, traduzem um vastíssimo descontentamento com os salários e com as pensões de reforma existentes, a que o Governo deveria ter sido sensível.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: A direita queixa-se de «barriga cheia». Este é um Orçamento em que vingou a consagração de muitas das linhas fundamentais da sua política. E, por isso, o que é natural é que venha da direita o apoio para a sua aprovação.\nMas nada disto pode esconder uma óbvia realidade. É que este é o Orçamento do Governo PS, estas são as suas opções.\nO Governo apresenta um Orçamento em que muitos dos indicadores macroeconómicos não são mais do que uma ficção. A contradição entre o sentido de muitas previsões e a óbvia utilização de cenários fabricados para justificar opções ou esconder insuficiências são uma \ncaracterística deste Orçamento.\nO Governo apresenta um Orçamento em que, apesar de a vida ter imposto um aumento dos valores previstos, a redução do défice orçamental continua a ser um eixo cen-tral e sacrossanto da sua política, mesmo quando isso im-plica uma forte diminuição da margem de manobra e dos instrumentos disponíveis para fazer face às necessidades do País e à conjuntura de crise que atravessamos.\nO Governo apresenta um Orçamento em que cede às pretensões do capital financeiro em matéria fiscal, contrari-ando aquilo que se aprovou nesta Assembleia e acentuando a injustiça fiscal que continua a existir no nosso país e que faz dele um dos que melhores condições de \nrendibilidade oferece à banca. Num País em que os trabalhadores supor-tam a maioria da receita fiscal e em que, ao mesmo tempo, a banca teve centenas de milhões de contos de lucro em 2000, a banca paga apenas uma taxa de 12,9% de IRC em vez de 32% e ainda confessa que 30% dos seus benefícios fiscais são obtidos através do off-shore da Madeira, neste país, o Governo opta por dar à banca ainda mais benesses, retirando de aplicação as normas que atingiam os seus interesses.\nTrata-se de uma verdadeira capitulação fiscal e de uma cedência, em toda a linha, nas decisões do poder político às exigências do poder económico.\nO Governo apresenta uma política salarial contrária aos interesses dos trabalhadores e do País. A análise do Orça-mento indica que, em relação ao aumento nominal dos salários da função pública, que ao mesmo tempo são uma referência para o sector privado, o Governo não pretende aumentos reais nem a recuperação das diminuições reais de salários dos últimos dois anos. E isto, lembre-se, após dois anos de perda real de salários.\nÉ por isso que as 191 514 assinaturas recolhidas por iniciativa do PCP e entregues ao Sr. Primeiro-Ministro, que já referimos neste debate, traduzem um vastíssimo descontentamento com os salários e com as pensões de reforma existentes, a que o Governo deveria ter sido sensível.", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Ao não fazê-lo, comete um erro social e político e pratica uma enorme injustiça para com os traba-lhadores portugueses.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Ao não fazê-lo, comete um erro social e político e pratica uma enorme injustiça para com os traba-lhadores portugueses.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "O Orador", 
    "text": "Mais uma vez, a crise é invocada para justificar o pre-juízo dos trabalhadores. Estranha e selectiva crise esta que impede os trabalhadores de terem aumentos salariais justos, ajudando até ao relançamento da economia, mas permite que se favoreçam as margens de lucro da banca e do gran-de patronato! \nEscusam, pois, o Governo e o PS, de utilizar como forma de chantagem, como fizeram várias vezes, os trági-cos acontecimentos de 11 de Setembro e a verdadeiramente complexa situação internacional. É inaceitável que se tente condicionar, à boleia da situação \ninternacional, a legítima oposição a opções internas erradas. Até porque não é este o Orçamento de que precisávamos para enfrentar a crise.\nPor isso, votamos contra este Orçamento. Este é um Orçamento de retrocesso na justiça fiscal, de uma política salarial que prejudica quem trabalha e que, por isso, agrava as desigualdades sociais.\nVotamos contra porque este não é o Orçamento neces-sário e justo para as necessidades de Portugal e do povo português.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Mota Amaral): Em nome do Gru-po Parlamentar do Partido Social Democrata, tem agora a palavra, para uma intervenção, a Sr. Deputada Manuela Ferreira Leite.", 
-   "type": "continuacao"
+   "party": "Mota Amaral", 
+   "speaker": "Presidente", 
+   "text": "Em nome do Gru-po Parlamentar do Partido Social Democrata, tem agora a palavra, para uma intervenção, a Sr. Deputada Manuela Ferreira Leite.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr. *ª Manuela Ferreira Leite* (PSD): Sr. Presi-dente, Sr.Primeiro-Ministro, Srs. Membros do Governo, Srs. Deputados: Chegámos ao fim do debate, na generali-dade, do Orçamento do Estado para 2002.\nO Governo apresenta este Orçamento sob o signo da instabilidade económica, da ameaça de crise internacional, da incerteza e do abrandamento no ritmo do crescimento dos países europeus. O 11 de Setembro é mesmo uma ex-pressão mágica, abusivamente repetida a todos os títulos, tanto para antecipar fracassos como para justificar os erros.\nO Governo invoca este cenário como condicionante da sua acção e, no entanto, não o transcreve no Orçamento. O que tem como primeira consequência que o enquadramento macroeconómico em que se baseia este documento seja profundamente irrealista.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "ª Manuela Ferreira Leite", 
+   "text": "Sr. Presi-dente, Sr.Primeiro-Ministro, Srs. Membros do Governo, Srs. Deputados: Chegámos ao fim do debate, na generali-dade, do Orçamento do Estado para 2002.\nO Governo apresenta este Orçamento sob o signo da instabilidade económica, da ameaça de crise internacional, da incerteza e do abrandamento no ritmo do crescimento dos países europeus. O 11 de Setembro é mesmo uma ex-pressão mágica, abusivamente repetida a todos os títulos, tanto para antecipar fracassos como para justificar os erros.\nO Governo invoca este cenário como condicionante da sua acção e, no entanto, não o transcreve no Orçamento. O que tem como primeira consequência que o enquadramento macroeconómico em que se baseia este documento seja profundamente irrealista.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Irrealistas são também as previsões de receitas e de despesas que todos os economistas conside-ram difíceis de alcançar. E é pena que assim seja, porque se o discurso correspondesse à realidade a construção deste Orçamento não estaria incorrecta, porque assenta em prin-cípios obviamente inadiáveis. Diria mesmo que lhe poderí-amos chamar um Orçamento de alto risco porque exige um Governo arrojado para o executar.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Irrealistas são também as previsões de receitas e de despesas que todos os economistas conside-ram difíceis de alcançar. E é pena que assim seja, porque se o discurso correspondesse à realidade a construção deste Orçamento não estaria incorrecta, porque assenta em prin-cípios obviamente inadiáveis. Diria mesmo que lhe poderí-amos chamar um Orçamento de alto risco porque exige um Governo arrojado para o executar.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Na verdade, a execução deste Orça-mento só seria possível se este Governo fosse capaz de tomar medidas de fundo, de fazer reformas com muita ousadia e coragem política e se conseguisse transmitir aos portugueses a necessidade de inverter a mentalidade que, até hoje, tem ajudado a fomentar, em vez de a combater.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Na verdade, a execução deste Orça-mento só seria possível se este Governo fosse capaz de tomar medidas de fundo, de fazer reformas com muita ousadia e coragem política e se conseguisse transmitir aos portugueses a necessidade de inverter a mentalidade que, até hoje, tem ajudado a fomentar, em vez de a combater.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: Esperar tudo isto deste Governo não é apenas irrealismo, é pura ficção.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Esperar tudo isto deste Governo não é apenas irrealismo, é pura ficção.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Vieira de Castro* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Vieira de Castro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Por isso, o grande pecado deste Orça-mento não é o seu conteúdo, é a falta de credibilidade do Governo para o executar.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Por isso, o grande pecado deste Orça-mento não é o seu conteúdo, é a falta de credibilidade do Governo para o executar.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Este Orçamento é mau porque o Governo, e muito es-pecialmente o Primeiro-Ministro, já deu sobejas provas de que a sua postura é inversa à que seria necessária neste momento. Sem um Governo credível, este documento é uma lista de intenções, não é um Orçamento, é uma ficção. É como um vestido pendurado num manequim, que, sendo bonito, nunca ninguém vestirá. Este Orçamento é um bo-nito enfeite da política económica deste país. Mas de nada serve porque nunca o vamos ver executado.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: Vamos vê-lo, isso sim, Sr. Primeiro-Ministro, rectificado, muito antes do fim do ano.\nSr. Presidente, Sr. Primeiro-Ministro, Srs. Deputados: A ficção, a fantasia, a encenação começou há uns meses, quando o Primeiro-Ministro encetou falsas rondas negoci-ais com os vários partidos políticos para fomentar a ilusão do consenso democrático.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Vamos vê-lo, isso sim, Sr. Primeiro-Ministro, rectificado, muito antes do fim do ano.\nSr. Presidente, Sr. Primeiro-Ministro, Srs. Deputados: A ficção, a fantasia, a encenação começou há uns meses, quando o Primeiro-Ministro encetou falsas rondas negoci-ais com os vários partidos políticos para fomentar a ilusão do consenso democrático.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: O Sr. Primeiro-Ministro, por certo, ainda não esqueceu que o PSD estava disposto a colaborar, desde que soubéssemos, com realismo, do que estávamos a falar.\nConcordemos, Sr. Primeiro-Ministro, que foi um pedi-do elementar para quem tem efectiva vontade de conversar. Por isso lhe pedimos, Sr.Primeiro-Ministro, não que alte-rasse a sua política económica, não lhe pedimos que desfi-gurasse o Orçamento que queria propor e que nunca nos deu a conhecer; apenas lhe pedimos que desencadeasse o processo de avaliação da verdadeira situação das contas públicas, sem a qual nenhuma política económica pode ser definida com rigor.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "O Sr. Primeiro-Ministro, por certo, ainda não esqueceu que o PSD estava disposto a colaborar, desde que soubéssemos, com realismo, do que estávamos a falar.\nConcordemos, Sr. Primeiro-Ministro, que foi um pedi-do elementar para quem tem efectiva vontade de conversar. Por isso lhe pedimos, Sr.Primeiro-Ministro, não que alte-rasse a sua política económica, não lhe pedimos que desfi-gurasse o Orçamento que queria propor e que nunca nos deu a conhecer; apenas lhe pedimos que desencadeasse o processo de avaliação da verdadeira situação das contas públicas, sem a qual nenhuma política económica pode ser definida com rigor.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: O Sr. Primeiro-Ministro recusou limi-narmente esta solicitação elementar. E, apesar disso, per-mite-se invocar \ndisponibilidade de entendimento com os partidos da oposição que, honestamente, todos sabemos que nunca existiu.\nSr. Primeiro-Ministro, eu entendo que não queira averi-guar e muito menos tornar pública a verdadeira situação das finanças públicas. Pois se nem a situação, só deste ano, que tinha a obrigação de dar a conhecer através do segundo Orçamento rectificativo o senhor dará em tempo útil…", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "O Sr. Primeiro-Ministro recusou limi-narmente esta solicitação elementar. E, apesar disso, per-mite-se invocar \ndisponibilidade de entendimento com os partidos da oposição que, honestamente, todos sabemos que nunca existiu.\nSr. Primeiro-Ministro, eu entendo que não queira averi-guar e muito menos tornar pública a verdadeira situação das finanças públicas. Pois se nem a situação, só deste ano, que tinha a obrigação de dar a conhecer através do segundo Orçamento rectificativo o senhor dará em tempo útil…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: E assim, Srs. Deputados, nós estamos, neste momento, sem sabermos onde estamos nem para onde vamos.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "E assim, Srs. Deputados, nós estamos, neste momento, sem sabermos onde estamos nem para onde vamos.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: Mas, apesar disto, o Primeiro-Ministro insiste em considerar que a oposição devia viabilizar este Orçamento sem que o Governo tivesse dado qualquer sinal de que faria um esforço sério para esclarecer o que está cada vez mais obscuro.\nSr. Presidente, Srs. Deputados, devo confessar que olhei para este Orçamento com alguma benevolência. Achei que estava tudo demasiado evidente. A desorça-mentação na saúde é descarada, já não é \ndissimulada. Per-deu, portanto, toda a graça.\nChega-se mesmo ao ponto de afirmar que, este ano, há despesas que não serão pagas - porque não há dinheiro, presumo eu -, mas que no próximo ano serão assumidas como dívidas; em simultâneo, o Ministro das Finanças diz que a despesa, este ano, está controlada. Imagino que é por saber com antecedência qual o montante das dívidas,…", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Mas, apesar disto, o Primeiro-Ministro insiste em considerar que a oposição devia viabilizar este Orçamento sem que o Governo tivesse dado qualquer sinal de que faria um esforço sério para esclarecer o que está cada vez mais obscuro.\nSr. Presidente, Srs. Deputados, devo confessar que olhei para este Orçamento com alguma benevolência. Achei que estava tudo demasiado evidente. A desorça-mentação na saúde é descarada, já não é \ndissimulada. Per-deu, portanto, toda a graça.\nChega-se mesmo ao ponto de afirmar que, este ano, há despesas que não serão pagas - porque não há dinheiro, presumo eu -, mas que no próximo ano serão assumidas como dívidas; em simultâneo, o Ministro das Finanças diz que a despesa, este ano, está controlada. Imagino que é por saber com antecedência qual o montante das dívidas,…", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Risos do PSD.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "… o que é um conceito de controlo orçamental que eu desconhecia.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Também achei graça a este Orçamento, porque ele as-sume, com bonomia, o erro das alterações fiscais introdu-zidas no Orçamento deste ano e recua de forma envergo-nhada. Achei que foi simpático.\nDiz que é necessário controlar a despesa pública e combater o desperdício, o que é o mesmo que confessar publicamente que a despesa está «sem rei nem roque». Achei que era uma confissão de uma ingenuidade enterne-cera.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Risos do PSD.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Não encontrei qualquer medida que fosse capaz de conduzir aos objectivos enunciados. Achei, nessa altura, que estava perante uma brincadeira. Por isso, encarei este Orçamento com o distanciamento com que se encara a ficção que tem objectivos correctos mas inatingíveis, uma pura fantasia com alguma ingenuidade. Achei que este Orçamento era uma espécie de «história da carochinha»,…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Oh!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Oh!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: … em que só mesmo as crianças acham que é realidade.\nMas ontem, ao fim do dia, a intervenção de um Depu-tado eleito por um partido da oposição transformou este «conto infantil», que é este Orçamento, numa história de muito mau gosto.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "… em que só mesmo as crianças acham que é realidade.\nMas ontem, ao fim do dia, a intervenção de um Depu-tado eleito por um partido da oposição transformou este «conto infantil», que é este Orçamento, numa história de muito mau gosto.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: Manteve-se a fantasia, mas perdeu-se a graça. O que parecia ingenuidade e boas intenções trans-formou-se em ardilosa peça política. E para transportar essa peça política, uma vez por ano desce à Assembleia da República um Deputado, eleito pela oposição, que vem apoiar o Governo e cujo exercício do cargo se traduz numa única função específica: atirar o Orçamento sobre o País às cegas, porque dá a entender que nem sequer leu o docu-mento. Tem um estatuto com um poder imenso que não renega.\nSr. Presidente, Srs. Deputados: Estamos perante uma farsa penosa, que terá uma factura elevadíssima para os portugueses.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Manteve-se a fantasia, mas perdeu-se a graça. O que parecia ingenuidade e boas intenções trans-formou-se em ardilosa peça política. E para transportar essa peça política, uma vez por ano desce à Assembleia da República um Deputado, eleito pela oposição, que vem apoiar o Governo e cujo exercício do cargo se traduz numa única função específica: atirar o Orçamento sobre o País às cegas, porque dá a entender que nem sequer leu o docu-mento. Tem um estatuto com um poder imenso que não renega.\nSr. Presidente, Srs. Deputados: Estamos perante uma farsa penosa, que terá uma factura elevadíssima para os portugueses.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: A verdade é que vamos ter um Orça-mento que nem serve ao Governo para governar, nem ao país para dele beneficiar.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "A verdade é que vamos ter um Orça-mento que nem serve ao Governo para governar, nem ao país para dele beneficiar.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Luís Marques Guedes* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Luís Marques Guedes", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Estamos apenas a cumprir um ritual.\nDe tudo isto não fica um instrumento de política econó-mica, fica um instrumento de sobrevivência do Governo.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Estamos apenas a cumprir um ritual.\nDe tudo isto não fica um instrumento de política econó-mica, fica um instrumento de sobrevivência do Governo.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Luís Arnaut* (PSD): Muito bem!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Luís Arnaut", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "A Oradora: Não fica uma intervenção da Assem-bleia, fica apenas o jogo de um Deputado, que, deste vez, nada leva para o seu concelho, a não ser a ambição de uma triste notoriedade.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Não fica uma intervenção da Assem-bleia, fica apenas o jogo de um Deputado, que, deste vez, nada leva para o seu concelho, a não ser a ambição de uma triste notoriedade.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: O Governo em nada beneficiou, porque a governação com este Orçamento só pode ser medíocre e desastrosa.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "O Governo em nada beneficiou, porque a governação com este Orçamento só pode ser medíocre e desastrosa.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: Nem ao Deputado que o viabiliza, por-que desta vez se contenta com o título de um capítulo «mundo rural», que, escrito pelos socialistas, é evidente-mente «letra morta».", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Nem ao Deputado que o viabiliza, por-que desta vez se contenta com o título de um capítulo «mundo rural», que, escrito pelos socialistas, é evidente-mente «letra morta».", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Sr. Presidente, Sr. Primeiro-Ministro, Srs. Deputados: pior do que um orçamento rejeitado é um orçamento fingi-do, dissimulado, tanto mais grave quando se diz que é para um cenário de crise. A sua aprovação não serve a estabili-dade política, porque, com este Orçamento, o Governo não sobrevive, apenas prolonga a sua agonia.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "A Oradora: Os tempos que se aproximam vão ser difíceis para a economia portuguesa. E o futuro do país ficará seriamente comprometido, sem um sistema fiscal competitivo e sem o controlo da despesa pública.", 
-   "type": "continuacao"
+   "speaker": "A Oradora", 
+   "text": "Os tempos que se aproximam vão ser difíceis para a economia portuguesa. E o futuro do país ficará seriamente comprometido, sem um sistema fiscal competitivo e sem o controlo da despesa pública.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Quem votar este Orçamento não é só responsável pela situação financeira do ano em curso, mas também é res-ponsável, durante muitos anos, pelas dificuldades que os portugueses venham a enfrentar.\nEste Orçamento não vai contribuir para a inversão da situação económica, nem vai tomar qualquer medida que conduza a qualquer alteração estrutural. Em resumo, Srs. Deputados, vai continuar a seguir o caminho errado que nos tem conduzido a um empobrecimento \nrelativamente aos nossos parceiros europeus.\nO PSD não brinca com coisas sérias, por isso vai votar contra!", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD, de pé.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "A Oradora", 
    "text": "Entretanto, assumiu a presidência o Sr. Vice-Presidente Manuel Alegre.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, em nome do Grupo Parlamentar do Partido Socialista, tem a palavra o Sr. Deputado Francisco de Assis.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, em nome do Grupo Parlamentar do Partido Socialista, tem a palavra o Sr. Deputado Francisco de Assis.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Francisco de Assis* (PS): Sr. Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo, Sr.as e Srs. Deputados: Estamos a chegar ao fim do debate, na genera-lidade, da proposta de Orçamento do Estado, apresentada pelo Governo, perante a Assembleia da República.\nEsta é a ocasião adequada para fazer uma avaliação acerca da natureza da proposta e acerca da natureza do debate que aqui se desenvolveu. Em primeiro lugar, há uma questão que deve ser salientada: o Governo apresentou à Assembleia da República uma proposta de Orçamento do Estado que materializa os grandes compromissos progra-máticos assumidos eleitoralmente perante o País. E essa era a indeclinável obrigação do Governo: assumir os seus compromissos, honrar os compromissos que estabeleceu perante o País!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Francisco de Assis", 
+   "text": "Sr. Presidente, Sr. Primeiro-Ministro, Srs. Membros do Governo, Sr.as e Srs. Deputados: Estamos a chegar ao fim do debate, na genera-lidade, da proposta de Orçamento do Estado, apresentada pelo Governo, perante a Assembleia da República.\nEsta é a ocasião adequada para fazer uma avaliação acerca da natureza da proposta e acerca da natureza do debate que aqui se desenvolveu. Em primeiro lugar, há uma questão que deve ser salientada: o Governo apresentou à Assembleia da República uma proposta de Orçamento do Estado que materializa os grandes compromissos progra-máticos assumidos eleitoralmente perante o País. E essa era a indeclinável obrigação do Governo: assumir os seus compromissos, honrar os compromissos que estabeleceu perante o País!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Braga* (PS): Muito bem!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "António Braga", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Num segundo momento, o Governo ma-nifestou toda a \ndisponibilidade para promover uma negoci-ação séria com todos os grupos parlamentares representa-dos neste Parlamento com o intuito de promover a criação de condições que proporcionassem a aprovação do Orça-mento do Estado com o apoio de um ou mais grupos par-lamentares da oposição.\nDurante os últimos quatro meses, como aqui já foi vári-as vezes reiterado, o Sr. Primeiro-Ministro teve oportuni-dade de receber representantes de todos os partidos políti-cos com expressão parlamentar.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Num segundo momento, o Governo ma-nifestou toda a disponibilidade para promover uma negoci-ação séria com todos os grupos parlamentares representa-dos neste Parlamento com o intuito de promover a criação de condições que proporcionassem a aprovação do Orça-mento do Estado com o apoio de um ou mais grupos par-lamentares da oposição.\nDurante os últimos quatro meses, como aqui já foi vári-as vezes reiterado, o Sr. Primeiro-Ministro teve oportuni-dade de receber representantes de todos os partidos políti-cos com expressão parlamentar.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do CDS-PP: Todos não!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Todos não!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: E todos aqueles que quiseram estar pre-sentes,…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "E todos aqueles que quiseram estar pre-sentes,…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do CDS-PP: Ah!", 
-   "type": "continuacao"
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Ah!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: … quiseram, pelo menos nesses mo-mentos, dar algum contributo para o esforço que estava a ser realizado. Da parte do Governo, houve uma posição absolutamente clara: sabendo de antemão que não está estribado numa maioria absoluta, neste Parlamento, dispôs-se a ir de encontro a sugestões provenientes dos partidos da oposição, na perspectiva de se criar, aqui, uma maioria parlamentar que contasse com a participação de partidos da oposição que viabilizasse o Orçamento do Estado. Foi esta a posição do Governo.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… quiseram, pelo menos nesses mo-mentos, dar algum contributo para o esforço que estava a ser realizado. Da parte do Governo, houve uma posição absolutamente clara: sabendo de antemão que não está estribado numa maioria absoluta, neste Parlamento, dispôs-se a ir de encontro a sugestões provenientes dos partidos da oposição, na perspectiva de se criar, aqui, uma maioria parlamentar que contasse com a participação de partidos da oposição que viabilizasse o Orçamento do Estado. Foi esta a posição do Governo.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS-PP): Uma farsa!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Narana Coissoró", 
+   "text": "Uma farsa!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Infelizmente, a este esforço do Governo não correspondeu idêntico esforço da parte da oposição. E é isso que, neste momento, aqui, de uma forma muito clara, queremos salientar.\nE é por isso, Sr. Deputado Fernando Rosas, que nada tenho que alterar àquilo que fui dizendo nos últimos meses acerca deste assunto. Sempre disse, interpretando aquilo que era a posição do grupo parlamentar que lidero, que era essencial que da parte do Governo houvesse abertura para a promoção dessa negociação. E isso foi feito.\nAgora, não está ao alcance do Grupo Parlamentar do Partido Socialista, nem do Governo, levar os partidos da oposição a assumir uma postura mais responsável e levá-los a dar um contributo, no sentido de, também eles, per-mitirem a criação dessa mesma maioria parlamentar.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Infelizmente, a este esforço do Governo não correspondeu idêntico esforço da parte da oposição. E é isso que, neste momento, aqui, de uma forma muito clara, queremos salientar.\nE é por isso, Sr. Deputado Fernando Rosas, que nada tenho que alterar àquilo que fui dizendo nos últimos meses acerca deste assunto. Sempre disse, interpretando aquilo que era a posição do grupo parlamentar que lidero, que era essencial que da parte do Governo houvesse abertura para a promoção dessa negociação. E isso foi feito.\nAgora, não está ao alcance do Grupo Parlamentar do Partido Socialista, nem do Governo, levar os partidos da oposição a assumir uma postura mais responsável e levá-los a dar um contributo, no sentido de, também eles, per-mitirem a criação dessa mesma maioria parlamentar.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Fernando Serrasqueiro* (PS): Muito bem!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Fernando Serrasqueiro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Srs. Deputados, neste momento, porém, há uma questão fundamental que tem de ser analisada: é a natureza da proposta orçamental. Ao longo destes dias, destes três dias de debate, curiosamente nenhum partido da oposição foi capaz de apresentar um acervo de críticas à proposta de Orçamento, de tal modo fundado que justificasse, em absoluto, a indisponibilidade para contribuírem para a viabilização do Orçamento.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Srs. Deputados, neste momento, porém, há uma questão fundamental que tem de ser analisada: é a natureza da proposta orçamental. Ao longo destes dias, destes três dias de debate, curiosamente nenhum partido da oposição foi capaz de apresentar um acervo de críticas à proposta de Orçamento, de tal modo fundado que justificasse, em absoluto, a indisponibilidade para contribuírem para a viabilização do Orçamento.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Protestos do PSD.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Esse é um dos dados mais relevantes a extrair desse de-bate. Ainda agora, a Sr.ª Deputada Manuela Ferreira Leite acabou por admitir que o Orçamento, nas suas palavras, não é assim tão mau. Chegou mesmo a admitir que, nal-guns aspectos o Orçamento até será bom, mas o Governo é que é mau. Curioso mau Governo que é capaz de produzir um bom Orçamento, na óptica da líder parlamentar do maior partido da oposição! \nAinda agora acabou de reco-nhecer isso.\nComo eu a compreendo, Sr.ª Deputada Manuela Ferrei-ra Leite! Tenho consciência de que o destino foi cruel consigo,…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Risos doPS.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "… porque sendo a Sr.ª Deputada Manuela Ferreira Leite alguém que, do ponto de vista das suas opções teóricas de fundo em matéria económica, está sempre profundamente preocupada com o controlo do crescimento da despesa,…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Protestos do PSD.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "… infelizmente teve o destino de ter que fazer parte dos governos mais despesistas que existiram em Portugal após o 25 de Abril.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "E, não contente com isso, o destino ainda lhe pregou a partida de a obrigar a ser líder parlamentar da oposição a um Governo que, efectivamente, se preocupa em controlar o crescimento da despesa pública, como está comprovada-mente demonstrado.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Risos do PSD e do CDS-PP.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Sr.as e Srs. Deputados, concentremo-nos na avaliação do Orçamento do Estado. Do nosso ponto de vista, este Orçamento tem quatro méritos essenciais: em primeiro lugar, é um Orçamento de rigor, é um Orçamento que en-frenta a questão do crescimento da despesa pública, na sequência de uma opção já assumida no ano anterior. Já no ano passado, quando aqui discutimos o Orçamento do Estado, a preocupação central enunciada pelo então Minis-tro das Finanças, hoje Deputado, o Dr. Joaquim Pina Mou-ra, era precisamente a de criar condições para que o pro-cesso de consolidação orçamental em curso passasse a desvalorizar a componente da despesa, isto é, havia a con-vicção plena de que não podíamos permitir que a despesa continuasse a crescer ao ritmo a que tinha crescido na dé-cada anterior. Por isso, foram adoptados instrumentos, foram tomadas medidas, e a verdade é que a despesa tem crescido a um ritmo inferior. Ora, este Orçamento consagra em absoluto essa preocupação e materializa algumas das opções constantes do programa de redução da despesa pública que foi oportunamente apresentado perante este Parlamento.\nMas esta preocupação de rigor não nos inibe de ter a ambição de continuar a contribuir para o crescimento da economia portuguesa, promovendo a convergência real e garantindo a aproximação, ainda que lenta, aos níveis de vida dos restantes países europeus. Por isso, este é também um Orçamento de ambição. E esta ambição materializa-se num aumento significativo do investimento público que nós aqui também queremos saudar, até porque vai permitir, certamente, o surgimento de mais bens e serviços públicos que serão colocados ao serviço das populações e que será também utilizado como importante instrumento de gestão económica num ciclo que internacionalmente está marcado pela ameaça de uma recessão.\nÉ por isso que este, para além de ser um Orçamento de ambição, é também um Orçamento de equidade, um Orça-mento preocupado em prosseguir uma das linhas de orien-tação que têm estado associadas à acção dos governos do Partido Socialista - a preocupação com as questões sociais.\nQuando, em 1995, chegámos ao poder em Portugal, cons-tatámos a existência de um profundo défice em matéria social. Era necessário investir mais nesse domínio, e nós fomos capazes de o fazer. Em 1995, dizia-se que a segu-rança social pública estava confrontada com o horizonte da falência financeira e hoje temos orgulho em estar perante uma proposta de Orçamento em que se materializam de-terminadas opções que garantem a sustentabilidade finan-ceira da segurança social pública durante todo o século que agora estamos a iniciar. Essa é uma reforma de que nos orgulhamos e que concretiza um projecto que é a razão de ser da nossa intervenção política.\nMas este Orçamento também se mostra preocupado em assegurar o reforço da competitividade da economia portu-guesa, pelo que são aqui adoptadas medidas,…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Luís Arnaut* (PSD): Quais?!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Luís Arnaut", 
+   "text": "Quais?!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … nomeadamente na área fiscal, com o desagravamento em termos de IRS, que vão permitir refor-çar a competitividade do nosso tecido económico.\nSr. Primeiro-Ministro, Sr.as e Srs. Deputados, não so-mos daqueles que tendemos a pensar que tudo vai mal quando estamos na oposição e que tudo vai bem quando estamos no poder.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… nomeadamente na área fiscal, com o desagravamento em termos de IRS, que vão permitir refor-çar a competitividade do nosso tecido económico.\nSr. Primeiro-Ministro, Sr.as e Srs. Deputados, não so-mos daqueles que tendemos a pensar que tudo vai mal quando estamos na oposição e que tudo vai bem quando estamos no poder.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Protestos do PSD.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Temos consciência das dificuldades e temos noção da importância dos desafios com que estamos confrontados. Por isso mesmo, o Governo apresentou ao Parlamento e ao País um Orçamento que, do nosso ponto de vista, é capaz de apresentar as soluções mais adequadas para superar as dificuldades e para enfrentar com sucesso esses mesmos desafios com que estamos todos, conjuntamente, confron-tados.\nSrs. Deputados, para o Grupo Parlamentar do Partido Socialista, a questão fundamental, neste momento, é apenas esta: este é um bom ou um mau Orçamento?", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: É mau!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "É mau!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Este Orçamento materializa ou não os nossos compromissos?", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Este Orçamento materializa ou não os nossos compromissos?", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS-PP): Não!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Narana Coissoró", 
+   "text": "Não!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Materializa em absoluto! Nessa pers-pectiva, temos a obrigação absoluta de concorrer para a viabilização do Orçamento do Estado apresentado pelo Governo à Assembleia da República.\nSr. Primeiro-Ministro, da nossa parte, Grupo Parla-mentar do Partido Socialista, poderá continuar a contar, como sempre contou até aqui, com um grupo parlamentar empenhado num apoio crítico,…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Materializa em absoluto! Nessa pers-pectiva, temos a obrigação absoluta de concorrer para a viabilização do Orçamento do Estado apresentado pelo Governo à Assembleia da República.\nSr. Primeiro-Ministro, da nossa parte, Grupo Parla-mentar do Partido Socialista, poderá continuar a contar, como sempre contou até aqui, com um grupo parlamentar empenhado num apoio crítico,…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Luís Arnaut* (PSD): Muito crítico!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Luís Arnaut", 
+   "text": "Muito crítico!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … no sentido em que, naturalmente, so-mos os primeiros fiscais no que tem a ver com o cumpri-mento dos compromissos assumidos perante o País. E temos dado provas claras disso mesmo! Nós teríamos hoje, aqui, razões para censurar o Governo, se verificássemos que, com vontade excessiva de querer permanecer no exer-cício de funções governamentais, o Sr. Primeiro-Ministro se dispunha a governar com o programa dos partidos das oposições. Essa é que é a questão \nfundamental, a questão essencial que colocámos desde sempre, porque o Governo tem a obrigação de apresentar um Orçamento que reflicta o seu programa e tem o dever de manifestar abertura para", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… no sentido em que, naturalmente, so-mos os primeiros fiscais no que tem a ver com o cumpri-mento dos compromissos assumidos perante o País. E temos dado provas claras disso mesmo! Nós teríamos hoje, aqui, razões para censurar o Governo, se verificássemos que, com vontade excessiva de querer permanecer no exer-cício de funções governamentais, o Sr. Primeiro-Ministro se dispunha a governar com o programa dos partidos das oposições. Essa é que é a questão \nfundamental, a questão essencial que colocámos desde sempre, porque o Governo tem a obrigação de apresentar um Orçamento que reflicta o seu programa e tem o dever de manifestar abertura para", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "o contributo dos partidos da oposição. Infelizmente, foi esse contributo que não se verificou.\nSr. Presidente, Sr. Primeiro-Ministro, Sr.as e Srs. De-putados, termino a minha intervenção uma vez mais sau-dando o Governo pelo esforço que tem vindo a desenvol-ver no sentido de criar condições para a modernização solidária do nosso país. Este é o caminho por que os portu-gueses optaram, este é o caminho que temos de prosseguir sem hesitações. Sobretudo num momento particularmente delicado, não apenas da nossa vida internacional mas da nossa vida política interna, porque assistimos a uma tenta-tiva do maior partido da oposição de pôr em causa a credi-bilidade de instituições democráticas absolutamente fun-damentais.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Sr. Presidente, Sr.as e Srs. Deputados, não podemos ig-norar que estamos também a terminar uma semana em que o líder do maior partido da oposição ofendeu o Sr. Presi-dente da República,…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Protestos do PSD.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "… pôs em causa o prestígio deste Parlamento e, não con-tente com isso, ontem mesmo injuriou o Sr. Primeiro-Ministro,…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "… naquilo que é uma escalada inaceitável de ataque a instituições fulcrais da nossa democracia.\nSr.as e Srs. Deputados, apoiamos e vamos votar favora-velmente este Orçamento,…", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Ah!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Ah!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: … não porque este seja o Orçamento do Governo que nós apoiamos, mas porque este é objectiva-mente o Orçamento que melhor serve os interesses de Portugal e dos portugueses!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… não porque este seja o Orçamento do Governo que nós apoiamos, mas porque este é objectiva-mente o Orçamento que melhor serve os interesses de Portugal e dos portugueses!", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS, de pé.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente* (Manuel Alegre): Srs. Deputados, tenho o grato prazer de anunciar que assistem hoje à reuni-ão plenária 41 formandos da Magensinus - Empresa Pro-motora de Ensino, Lda., de Lisboa, 40 alunos do Instituto para o Desenvolvimento Social de Lisboa, 45 alunos do Instituto de Educação Técnica de Lisboa, 20 alunos do 3.º ano de Economia do ISEG, 10 alunos do Instituto Portu-guês de Formação Profissional, de Miraflores, e 24 alunos da Creche Jardim de Infância Marcolândia, de Lisboa.\nPara todos eles, peço a vossa saudação.", 
-   "type": "continuacao"
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, tenho o grato prazer de anunciar que assistem hoje à reuni-ão plenária 41 formandos da Magensinus - Empresa Pro-motora de Ensino, Lda., de Lisboa, 40 alunos do Instituto para o Desenvolvimento Social de Lisboa, 45 alunos do Instituto de Educação Técnica de Lisboa, 20 alunos do 3.º ano de Economia do ISEG, 10 alunos do Instituto Portu-guês de Formação Profissional, de Miraflores, e 24 alunos da Creche Jardim de Infância Marcolândia, de Lisboa.\nPara todos eles, peço a vossa saudação.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos gerais, de pé.", 
    "type": "aplauso"
   }, 
   {
+   "party": "Manuel Alegre", 
+   "speaker": "Presidente", 
    "text": "Para intervir no debate em representação do Governo, tem a palavra o Sr. Ministro da Presidência e das Finanças.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. Ministro da Presidência e das Finanças (Gui-lherme d'Oliveira Martins): Sr. Presidente, Sr. Primei-ro-Ministro, Sr.as e Srs.Deputados: Um balanço deste debate? Devemos fazê-lo, indo ao cerne das questões e ao essencial dos temas.\nÉ o País que está em causa, é a economia portuguesa, são trabalhadores e os empresários, são os cidadãos em geral que estão no horizonte das nossas preocupações. Perante a incerteza, somos chamados a assumir responsa-bilidades. O Governo não se exime às suas, mas invoca a exigência de correspondermos àquilo que o País e os cida-dãos nos pedem. Dissemos e repetimo-lo - queremos que o Orçamento do Estado para 2002 saia enriquecido do debate parlamentar e estamos certos de que isso acontecerá. Tudo fizemos e tudo faremos para conceder \ncredibilidade a este plano financeiro, apesar de todas as dificuldades e incerte-zas. E julgo que conseguimos, sobretudo se lermos com especial atenção as reacções e os comentários sobre este documento produzidos desde 15 de Outubro ou no debate que teve lugar nesta Câmara.\nSó a fragilidade de alguns ou o ressentimento de outros puderam justificar a repetição de argumentos, que muitos sabem não se aplicarem a este Orçamento do Estado.\nPara os que clamavam, injustamente, por disciplina, temos o rigor acrescido de um limite para a despesa públi-ca; para os que insistiam na obra feita, temos o investi-mento público claramente assumido; para os que queriam a flexibilidade na aplicação do programa de estabilidade e crescimento, temos uma prática segundo a qual não se sacrifica investimento e despesa social a um défice estrito e cego; para os que invocavam o combate sem tréguas à fraude e à evasão fiscais, temos um programa coerente e sistemático, que já produz os seus frutos; para os que de-sejavam mais justiça social, temos a consolidação do \ndesa-gravamento dos menores rendimentos e das famílias mais numerosas; para os que defendiam o apoio acrescido à interioridade, temos um regime claro que beneficia exac-tamente as regiões do interior; para os que descriam do cumprimento da Lei de Bases da Segurança Social e da sustentabilidade financeira deste sector, temos o respeito escrupuloso da lei e a criação de condições para essa sus-tentabilidade financeira no médio e longo prazos; para os que invocavam a necessidade de competitividade fiscal, temos um regime equilibrado, que se propõe, na prática, fazer cumprir para todos e em condições de confiança o que a Constituição e a lei estipulam, no sentido do englo-bamento dos rendimentos e da inexistência de discrimina-ções ou privilégios; para os que reclamam, e justamente, mudanças estruturais, temos a inserção deste Orçamento num plano continuado de reformas, que serão \nconcretiza-das em 2002, se os partidos das oposições tiverem o senti-do de responsabilidade que agora se lhes exigiria, mas que agora e de novo será posto à prova, sem desculpas nem «lágrimas de crocodilo».\nSr. Presidente, Sr.as e Srs. Deputados: Há pouco, o Sr. Deputado Fernando Rosas invocava os anos de 1923 e de 1924. É bom que se recorde esse tempo, mas também é bom que se recorde o que, nessa altura, disse Raul Proença, em nome do espírito de cidadania e da causa nobre da República. Disse ele que esse espírito, que tantos parecem esquecer, constrói-se no dia-a-dia, compreendendo-se que «a grandeza dos homens avalia-se pela força com que pro-curam realizar um ideal» e pela «resistência que opõem às suas vãs aparências».", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, Sr. Primei-ro-Ministro, Sr.as e Srs.Deputados: Um balanço deste debate? Devemos fazê-lo, indo ao cerne das questões e ao essencial dos temas.\nÉ o País que está em causa, é a economia portuguesa, são trabalhadores e os empresários, são os cidadãos em geral que estão no horizonte das nossas preocupações. Perante a incerteza, somos chamados a assumir responsa-bilidades. O Governo não se exime às suas, mas invoca a exigência de correspondermos àquilo que o País e os cida-dãos nos pedem. Dissemos e repetimo-lo - queremos que o Orçamento do Estado para 2002 saia enriquecido do debate parlamentar e estamos certos de que isso acontecerá. Tudo fizemos e tudo faremos para conceder \ncredibilidade a este plano financeiro, apesar de todas as dificuldades e incerte-zas. E julgo que conseguimos, sobretudo se lermos com especial atenção as reacções e os comentários sobre este documento produzidos desde 15 de Outubro ou no debate que teve lugar nesta Câmara.\nSó a fragilidade de alguns ou o ressentimento de outros puderam justificar a repetição de argumentos, que muitos sabem não se aplicarem a este Orçamento do Estado.\nPara os que clamavam, injustamente, por disciplina, temos o rigor acrescido de um limite para a despesa públi-ca; para os que insistiam na obra feita, temos o investi-mento público claramente assumido; para os que queriam a flexibilidade na aplicação do programa de estabilidade e crescimento, temos uma prática segundo a qual não se sacrifica investimento e despesa social a um défice estrito e cego; para os que invocavam o combate sem tréguas à fraude e à evasão fiscais, temos um programa coerente e sistemático, que já produz os seus frutos; para os que de-sejavam mais justiça social, temos a consolidação do \ndesa-gravamento dos menores rendimentos e das famílias mais numerosas; para os que defendiam o apoio acrescido à interioridade, temos um regime claro que beneficia exac-tamente as regiões do interior; para os que descriam do cumprimento da Lei de Bases da Segurança Social e da sustentabilidade financeira deste sector, temos o respeito escrupuloso da lei e a criação de condições para essa sus-tentabilidade financeira no médio e longo prazos; para os que invocavam a necessidade de competitividade fiscal, temos um regime equilibrado, que se propõe, na prática, fazer cumprir para todos e em condições de confiança o que a Constituição e a lei estipulam, no sentido do englo-bamento dos rendimentos e da inexistência de discrimina-ções ou privilégios; para os que reclamam, e justamente, mudanças estruturais, temos a inserção deste Orçamento num plano continuado de reformas, que serão \nconcretiza-das em 2002, se os partidos das oposições tiverem o senti-do de responsabilidade que agora se lhes exigiria, mas que agora e de novo será posto à prova, sem desculpas nem «lágrimas de crocodilo».\nSr. Presidente, Sr.as e Srs. Deputados: Há pouco, o Sr. Deputado Fernando Rosas invocava os anos de 1923 e de 1924. É bom que se recorde esse tempo, mas também é bom que se recorde o que, nessa altura, disse Raul Proença, em nome do espírito de cidadania e da causa nobre da República. Disse ele que esse espírito, que tantos parecem esquecer, constrói-se no dia-a-dia, compreendendo-se que «a grandeza dos homens avalia-se pela força com que pro-curam realizar um ideal» e pela «resistência que opõem às suas vãs aparências».", 
+   "type": "speaker_error"
   }, 
   {
    "text": "E não se duvide! O nosso inconformismo assenta na procura positiva desse ideal e de princípios e na resistência firme às tentativas de mistificar a realidade, com dramati-zações absurdas, que apenas visam dar a ilusão de que existe quem tem dificuldade em se afirmar.\nA verdade é que o espectáculo das vãs aparências é inútil, só demonstra insegurança e fraqueza. E quem des-respeita, sem fair play, a dignidade das instituições ou das pessoas, violando velhas praxes, em nome do puro espec-táculo, limita-se a semear ventos perigosos que depressa se poderão virar contra quem tem a imprudência e a insensa-tez de os urdir.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
-   "text": "O Sr. *José Luís Arnaut* (PSD): E o Orçamento!", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "José Luís Arnaut", 
+   "text": "E o Orçamento!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Para esta proposta de lei de Orçamento do Estado para 2002, que vozes insuspeitas consideram como um exercício sério e determinado, houve reacções diversas bem ilustrativas da velhíssima fábula O lobo e o cordeiro.\nComeçou por se invocar um suposto ziguezague ou um suposto recuo nas orientações e nas medidas. Depressa, porém, lidas com atenção as propostas de lei, verificado o essencial das mesmas, teve de cair esse diagnóstico. E manda a verdade que se diga, com toda a clareza, que se nota a raiva incontida dos que julgaram ir as pressões pro-duzir discriminações ou privilégios…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Para esta proposta de lei de Orçamento do Estado para 2002, que vozes insuspeitas consideram como um exercício sério e determinado, houve reacções diversas bem ilustrativas da velhíssima fábula O lobo e o cordeiro.\nComeçou por se invocar um suposto ziguezague ou um suposto recuo nas orientações e nas medidas. Depressa, porém, lidas com atenção as propostas de lei, verificado o essencial das mesmas, teve de cair esse diagnóstico. E manda a verdade que se diga, com toda a clareza, que se nota a raiva incontida dos que julgaram ir as pressões pro-duzir discriminações ou privilégios…", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "A Sr.ª Natalina Tavares de Moura (PS): Muito bem!", 
-   "type": "continuacao"
+   "text": "Muito bem!", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Orador: … e que poderíamos ceder nos princípi-os e nos valores fundamentais que determinam a nossa acção. Não! Não cedemos, afirmamos, sim, os nossos prin-cípios e os nossos valores!", 
+   "speaker": "O Orador", 
+   "text": "… e que poderíamos ceder nos princípi-os e nos valores fundamentais que determinam a nossa acção. Não! Não cedemos, afirmamos, sim, os nossos prin-cípios e os nossos valores!", 
    "type": "continuacao"
   }, 
   {
@@ -694,541 +854,665 @@
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Funcionou o sentido pragmático, prudente e necessário de quem vê a realidade que evolui e de quem se apercebe das circunstâncias que mudam. Sem violar o essencial dos princípios e garantindo a cobrança da receita que, de outro modo, não entraria nos cofres do Estado, porque vivemos num espaço aberto e de fronteiras abertas, onde a livre circulação obriga à competitividade fiscal e à harmoniza-ção, do que se tratou foi de garantir a eficiência com recur-so ao mais elementar senso comum.\nDepois, houve quem se apegasse ao suposto irrealismo do cenário macroeconómico, num exercício em que o jul-gamento tinha um veredicto definido de antemão: «preso por ter cão, preso por o não ter».\nEm 10 de Setembro, disse-se que deveríamos ter pre-visto o que iria ocorrer no dia 11 e, depois do dia 11, com o diagnóstico reservado em todo o mundo, houve quem dissesse que o melhor seria lançar palpites negros, mesmo que isso deitasse tudo a perder, numa confiança europeia fragilizada e incerta.\nDepois, conheceram-se os números coevos do 1.º se-mestre e, em vez da divergência, verificou-se que Portugal está a crescer mais do que a Europa. Aqui d'el-rei! É a guerra que beneficia o Governo!", 
    "type": "continuacao"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): Aqui d'el-rei, não! Aqui d'el-República!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "Aqui d'el-rei, não! Aqui d'el-República!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Percebeu quem de bom senso que o irre-alismo não era, afinal, a marca. Apenas havia prudência, partindo de dados objectivos e não de palpites.\nVeio, então, a argumentação sobre a receita fiscal. Esta-ria sobreavaliada, diziam. Uma a uma foram e serão dadas as justificações técnicas. Devo dizer-lhes, Srs. Deputados, que a equipa política que dirijo não deixou de corrigir prudentemente as previsões feitas, abaixo dos crescimentos históricos, com uma taxa de ganho de eficiência fiscal, claramente abaixo das médias dos últimos anos, incluindo o início dos anos 90.\nE houve quem esquecesse que, afinal, na reforma fiscal aprovada aqui em Dezembro estaria em vigor, em veloci-dade de cruzeiro, o novo regime simplificado. Houve até quem, qual aprendiz der feiticeiro, invocasse aqui o preço do barril de petróleo - a menos de 20 dólares -, provo-cando logo um estranho e inesperado abalo no referido preço do mercado internacional, rapidamente regressado acima do seu valor mítico.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Percebeu quem de bom senso que o irre-alismo não era, afinal, a marca. Apenas havia prudência, partindo de dados objectivos e não de palpites.\nVeio, então, a argumentação sobre a receita fiscal. Esta-ria sobreavaliada, diziam. Uma a uma foram e serão dadas as justificações técnicas. Devo dizer-lhes, Srs. Deputados, que a equipa política que dirijo não deixou de corrigir prudentemente as previsões feitas, abaixo dos crescimentos históricos, com uma taxa de ganho de eficiência fiscal, claramente abaixo das médias dos últimos anos, incluindo o início dos anos 90.\nE houve quem esquecesse que, afinal, na reforma fiscal aprovada aqui em Dezembro estaria em vigor, em veloci-dade de cruzeiro, o novo regime simplificado. Houve até quem, qual aprendiz der feiticeiro, invocasse aqui o preço do barril de petróleo - a menos de 20 dólares -, provo-cando logo um estranho e inesperado abalo no referido preço do mercado internacional, rapidamente regressado acima do seu valor mítico.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Risos do PS.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Esquecia-se, afinal, e ainda, relativamente à previsão da receita do imposto sobre os produtos petrolíferos, que a estabilidade de preços de que os nossos consumidores têm beneficiado implica o saldar de compromissos que agora cessam.\nEsgotada a bateria de argumentos e percebendo-se que limitar a despesa corrente e apostar no investimento era a receita acertada ou que cumprir a Lei de Bases da Seguran-ça Social e apoiar o interior eram as orientações correctas e adequadas a uma conjuntura de incerteza, veio, então, a voz serena dos que invocam o «ver para crer», como São Tomé.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): São Tomé votaria contra o Orçamento!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "São Tomé votaria contra o Orçamento!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Afinal, é preciso haver oportunidade para executar, para aplicar, para pôr em prática.\nSr. Deputado Paulo Portas, é necessário crer como São Tomé creu e, naturalmente, garantir que tenhamos condi-ções para pôr prática este bom Orçamento, com restrições claras no que se refere à consolidação das finanças públi-cas, com repercussões positivas no País e na confiança.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Afinal, é preciso haver oportunidade para executar, para aplicar, para pôr em prática.\nSr. Deputado Paulo Portas, é necessário crer como São Tomé creu e, naturalmente, garantir que tenhamos condi-ções para pôr prática este bom Orçamento, com restrições claras no que se refere à consolidação das finanças públi-cas, com repercussões positivas no País e na confiança.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): Sabia que o Cam-pelo era um Deputado especial, agora santo!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "Sabia que o Cam-pelo era um Deputado especial, agora santo!\nRisos do CDS-PP.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "Risos do CDS-PP.", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Narana Coissoró", 
+   "text": "O Campelo fez o milagre do Orçamento!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS-PP): O Campelo fez o milagre do Orçamento!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Afinal, Srs. Deputados, é preciso que percebamos que ninguém, nenhum cidadão sério e respon-sável, pode desejar outra coisa que não seja a de garantir disciplina e rigor, com um controlo rigoroso da despesa pública, com forte sentido social e com consciência de que a coesão é indispensável.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Afinal, Srs. Deputados, é preciso que percebamos que ninguém, nenhum cidadão sério e respon-sável, pode desejar outra coisa que não seja a de garantir disciplina e rigor, com um controlo rigoroso da despesa pública, com forte sentido social e com consciência de que a coesão é indispensável.", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Exactamente!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PS: Exactamente!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: Srs. Deputados, o tal vestido bonito veste-o quem quer e rejeita-o quem nunca foi capaz de o fazer.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Aplausos do PS.", 
-   "type": "aplauso"
-  }, 
-  {
-   "text": "Vozes do CDS-PP: Oh!…", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: Princípios inadiáveis? Sim! Risco? Sim! Ficção? Não!", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Srs. Deputados, o tal vestido bonito veste-o quem quer e rejeita-o quem nunca foi capaz de o fazer.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Vozes do CDS-PP", 
+   "text": "Oh!…", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Princípios inadiáveis? Sim! Risco? Sim! Ficção? Não!", 
+   "type": "deputado_continuacao"
+  }, 
+  {
+   "text": "Aplausos do PS.", 
+   "type": "aplauso"
+  }, 
+  {
+   "speaker": "O Orador", 
    "text": "Sr. Presidente, Sr. Primeiro-Ministro, Sr.as e Srs. De-putados: O que diz o País? O que dizem os cidadãos?", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): É uma grande ver-gonha!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "É uma grande ver-gonha!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Quando os estudos de opinião pergun-tam o que deve acontecer a este Orçamento do Estado, a opinião maioritária diz duas coisas: que o Orçamento do Estado deve ser aprovado e que a oposição deve assumir redobradamente as suas responsabilidades. É isto que diz o País! É isto que diz o cidadão comum, que, neste momento, está sobretudo preocupado em garantir que não tenhamos instabilidade. É isto que diz o cidadão comum, sobretudo interessado em garantir que a melhor disciplina, a boa despesa pública e a consciência social se traduzam em mais desenvolvimentos, em mais e melhor desenvolvimento.\nO que se passou aqui, Sr.as e Srs. Deputados, natural-mente que temos…", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Quando os estudos de opinião pergun-tam o que deve acontecer a este Orçamento do Estado, a opinião maioritária diz duas coisas: que o Orçamento do Estado deve ser aprovado e que a oposição deve assumir redobradamente as suas responsabilidades. É isto que diz o País! É isto que diz o cidadão comum, que, neste momento, está sobretudo preocupado em garantir que não tenhamos instabilidade. É isto que diz o cidadão comum, sobretudo interessado em garantir que a melhor disciplina, a boa despesa pública e a consciência social se traduzam em mais desenvolvimentos, em mais e melhor desenvolvimento.\nO que se passou aqui, Sr.as e Srs. Deputados, natural-mente que temos…", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Entretanto, assumiu a presidência o Sr. Presidente, Almeida Santos.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Neste momento, regista-se um burburinho de fundo na Sala.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Ministro, peço desculpa por o interromper, mas quero pedir aos Srs. Deputados que fa-çam silêncio! O Sr. Ministro tem o direito de se fazer ouvir em condições normais, tal como todos os Srs. Deputados quando estão no uso da palavra.\nFaça o favor de prosseguir, Sr. Ministro.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Ministro, peço desculpa por o interromper, mas quero pedir aos Srs. Deputados que fa-çam silêncio! O Sr. Ministro tem o direito de se fazer ouvir em condições normais, tal como todos os Srs. Deputados quando estão no uso da palavra.\nFaça o favor de prosseguir, Sr. Ministro.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Sr. Primeiro Ministro, Sr.as e Srs.Deputados: Por que é que o País diz o que diz? Porque, neste momento, é indispensável que unamos esfor-ços e que sejamos capazes de pôr aquilo que nos une acima daquilo que nos divide. Srs. Deputados, a \ntransparência e o rigor são o nosso método; e, sendo o nosso método, esta-mos disponíveis, como eu tive oportunidade de dizer aqui, neste Parlamento, para, neste Parlamento, garantir uma fiscalização efectiva, uma fiscalização permanente das contas públicas, porque essa fiscalização e esse acompa-nhamento passam pela articulação estreita entre a função política deste Parlamento, a função jurisdicional do Tribu-nal de Contas e a função administrativa do sistema de con-trolo interno da administração financeira. Esses instru-mentos, esses mecanismos funcionam - esses são os me-canismos e os instrumentos legítimos que temos de pôr em prática.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Sr. Primeiro Ministro, Sr.as e Srs.Deputados: Por que é que o País diz o que diz? Porque, neste momento, é indispensável que unamos esfor-ços e que sejamos capazes de pôr aquilo que nos une acima daquilo que nos divide. Srs. Deputados, a \ntransparência e o rigor são o nosso método; e, sendo o nosso método, esta-mos disponíveis, como eu tive oportunidade de dizer aqui, neste Parlamento, para, neste Parlamento, garantir uma fiscalização efectiva, uma fiscalização permanente das contas públicas, porque essa fiscalização e esse acompa-nhamento passam pela articulação estreita entre a função política deste Parlamento, a função jurisdicional do Tribu-nal de Contas e a função administrativa do sistema de con-trolo interno da administração financeira. Esses instru-mentos, esses mecanismos funcionam - esses são os me-canismos e os instrumentos legítimos que temos de pôr em prática.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Neste momento, regista-se um burburinho de fundo na Sala.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Ministro, mais uma vez, peço desculpa por voltar a interrompê-lo, mas há um ruído quase inusual na Sala.\nCompreendo a existência de algum nervo-sismo, mas peço aos Srs.Deputados a serenidade necessá-ria para podermos ouvir em condições normais o Sr. Mi-nistro das Finanças.\nSrs. Deputados, peço-vos o favor de tomarem em conta a recomendação e o pedido do Presidente da Assembleia! \nFaça o favor de continuar, Sr. Ministro.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Ministro, mais uma vez, peço desculpa por voltar a interrompê-lo, mas há um ruído quase inusual na Sala.\nCompreendo a existência de algum nervo-sismo, mas peço aos Srs.Deputados a serenidade necessá-ria para podermos ouvir em condições normais o Sr. Mi-nistro das Finanças.\nSrs. Deputados, peço-vos o favor de tomarem em conta a recomendação e o pedido do Presidente da Assembleia! \nFaça o favor de continuar, Sr. Ministro.", 
+   "type": "presidente_aparte"
   }, 
   {
-   "text": "O Orador: Os graves acontecimentos internacionais devem assim ser lidos como oportunidades, e não como motivos de deserção; como poderosos estímulos, e não como apelos ao oportunismo, para assumirmos o prosse-guimento claro de um caminho de resposta à incerteza e à força instabilizadora do terrorismo. Um caminho de con-vergência real com os nossos parceiros europeus, para ligarmos a consolidação de médio prazo das finanças pú-blicas à modernização das administrações públicas, contra-riando um centralismo atávico e as resistências a uma cul-tura de avaliação e de responsabilidade.\nCrescer mais e melhor, apostar na boa despesa pública, prestar boas contas, reforçar a ligação entre a equidade e a eficiência - eis o que tem de ser posto em prática, com persistência, trabalho, rigor, solidariedade e coesão social. Temos potencialidades e energias a aproveitar e a aprofun-dar. Daí a importância de ligar mais e melhor investimento público - a grande aposta para 2002 -, quer à justiça fiscal, quer a uma preocupação acrescida e dinâmica com a \ncompetitividade e com a produtividade, perante os nossos parceiros e concorrentes. Temos de estar aptos a mobilizar todas as energias disponíveis para criarmos mais e melhor emprego - esta é a nossa prioridade; para alargar a influ-ência das nossas empresas, para apostar na qualificação das pessoas e na produtividade e para assumirmos o domínio estratégico da nossa economia.\nO Orçamento para 2002 consagra uma política finan-ceira assente numa leitura muito rigorosa, com previsões cautelosas e realistas, e virada para um futuro de consoli-dação do Pacto de Estabilidade e Crescimento, sem qual-quer fundamentalismo e com uma flexibilidade prudente, pondo em primeiro lugar o objectivo de convergência real da economia portuguesa com os parceiros europeus, arti-culando a consolidação das finanças públicas com um esforço concreto visando a coesão e o bem-estar dos portu-gueses.\nEis porque o Parlamento e o Governo são chamados a um especial esforço no sentido de acompanhar a evolução da conjuntura económica - sem optimismos desproposita-dos nem derrotismos perigosos - e de encontrar consen-sos de regime responsáveis, orientados para o reforço da democracia e para um impulso reformador em tomo deste plano financeiro.\nÉ indispensável, assim, que, à incerteza externa, contraponhamos a estabilidade interna, um con-senso responsável e um forte empenhamento num progra-ma que ligue a competitividade necessária à justiça indis-pensável.\nTemos de apostar num espaço de coesão, de estabilida-de e de segurança, que responda positivamente", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Os graves acontecimentos internacionais devem assim ser lidos como oportunidades, e não como motivos de deserção; como poderosos estímulos, e não como apelos ao oportunismo, para assumirmos o prosse-guimento claro de um caminho de resposta à incerteza e à força instabilizadora do terrorismo. Um caminho de con-vergência real com os nossos parceiros europeus, para ligarmos a consolidação de médio prazo das finanças pú-blicas à modernização das administrações públicas, contra-riando um centralismo atávico e as resistências a uma cul-tura de avaliação e de responsabilidade.\nCrescer mais e melhor, apostar na boa despesa pública, prestar boas contas, reforçar a ligação entre a equidade e a eficiência - eis o que tem de ser posto em prática, com persistência, trabalho, rigor, solidariedade e coesão social. Temos potencialidades e energias a aproveitar e a aprofun-dar. Daí a importância de ligar mais e melhor investimento público - a grande aposta para 2002 -, quer à justiça fiscal, quer a uma preocupação acrescida e dinâmica com a \ncompetitividade e com a produtividade, perante os nossos parceiros e concorrentes. Temos de estar aptos a mobilizar todas as energias disponíveis para criarmos mais e melhor emprego - esta é a nossa prioridade; para alargar a influ-ência das nossas empresas, para apostar na qualificação das pessoas e na produtividade e para assumirmos o domínio estratégico da nossa economia.\nO Orçamento para 2002 consagra uma política finan-ceira assente numa leitura muito rigorosa, com previsões cautelosas e realistas, e virada para um futuro de consoli-dação do Pacto de Estabilidade e Crescimento, sem qual-quer fundamentalismo e com uma flexibilidade prudente, pondo em primeiro lugar o objectivo de convergência real da economia portuguesa com os parceiros europeus, arti-culando a consolidação das finanças públicas com um esforço concreto visando a coesão e o bem-estar dos portu-gueses.\nEis porque o Parlamento e o Governo são chamados a um especial esforço no sentido de acompanhar a evolução da conjuntura económica - sem optimismos desproposita-dos nem derrotismos perigosos - e de encontrar consen-sos de regime responsáveis, orientados para o reforço da democracia e para um impulso reformador em tomo deste plano financeiro.\nÉ indispensável, assim, que, à incerteza externa, contraponhamos a estabilidade interna, um con-senso responsável e um forte empenhamento num progra-ma que ligue a competitividade necessária à justiça indis-pensável.\nTemos de apostar num espaço de coesão, de estabilida-de e de segurança, que responda positivamente", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "a um clima de instabilidade e incerteza. A consciência social, a concertação estratégica, a segurança dos cidadãos, o combate à exclusão têm de ter, por isso, expressão prática ao lado do rigor e da disciplina nas finanças públicas, bem expresso no esforço colectivo de sustentabilidade financeira da segurança social, do apoio ao interior do País, do reforço às actividades económicas e sociais, numa economia de conflito que exige patriotismo económico.\nPor outro lado, a política fiscal prossegue no sentido do \ndesagravamento da tributação dos rendimentos do trabalho e de quem tem menores recursos, bem como no redobrar do esforço no sentido da eficiência tributária e do combate à fraude e à evasão, designadamente quanto aos offshore, e na criação de condições concretas de \ncompetitividade fis-cal, através do estímulo ao investimento e à criação de riqueza e de emprego, do incentivo ao crescimento do mercado de capitais e à promoção da atracção de investi-mento estrangeiro à economia portuguesa.\nNão se trata, pois, de recuar ou de fazer qualquer con-tra-reforma fiscal, como aqui bem disse o Sr. Deputado João Cravinho, mas de tirar lições, designadamente perante as circunstâncias que mudaram, e de assumir uma agenda positiva, séria, exigente e dinâmica; numa conjuntura de abrandamento, devemos atrair capitais e iniciativas econó-micas, aptos a criar riqueza estável, combatendo a fraude e a especulação. É a prioridade à convergência real, à criação de emprego e à capacidade de atracção da nossa economia que está, pois, em causa.\nCompetitividade e justiça são faces de uma mesma moeda, pois precisamos de aumentar a base da nossa tributação para tornarmos o sistema mais equitativo e mais redistributivo, na linha social democrata e do socialismo democrático…", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): Na linha de quê?!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "Na linha de quê?!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Osvaldo Castro* (PS): Muito bem!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Osvaldo Castro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: … e para podermos desagravar de modo consistente os rendimentos do trabalho e os cidadãos de recursos mais baixos. O Governo dará provas seguras de querer continuar a lutar pela equidade fiscal. Aqui estará o avanço concreto no sentido que desejamos.\nEste Orçamento deve, assim, ser encarado como um instrumento para mobilizar o País, tem de constituir-se num factor positivo capaz de lançar um impulso reformador, através de consensos duráveis que reforcem o regime de-mocrático: no completar da reforma orçamental, designa-damente através da criação indispensável, que o Pacto de Estabilidade e Crescimento exige, de uma coordenação entre a administração central, as regiões autónomas e as autarquias locais, no sentido do cumprimento dos limites e da disciplina a que todos estamos obrigados; no garantir do rigor, da coerência, da transparência e da flexibilidade na gestão orçamental nos diferentes subsectores da economia pública, privilegiando a salvaguarda das obrigações para com as gerações futuras, dando maior peso às despesas de investimento no poder local e descentralizando melhor, no sentido de maior \nsolidariedade nacional; no prossegui-mento e consolidação da reforma do património do Estado, já delineada; na ligação efectiva entre a consolidação das finanças públicas e a reforma do Estado, com passos neces-sários em ordem à eficiência, à produtividade, à qualidade da despesa e à avaliação; na exigência de mudanças estabi-lizadoras na fiscalidade, no sentido da simplificação e da certeza, desde os consensos necessários na tributação do património, à simplificação do imposto sobre o rendimen-to, passando pela luta contra a corrupção, pelos acordos de dupla tributação e pela troca de informações internacionais em nome da estabilidade de políticas, de planos e de crité-rios; e, finalmente, no completar da modernização do mer-cado financeiro e do sistema bancário, em nome da eficiên-cia e da estabilização económica, num momento decisivo de internacionalização da nossa bolsa e de início de circu-lação do euro.\nSr. Presidente, Sr.as e Srs. Deputados: Um Orçamento para a confiança - e um orçamento para a confiança exige acção e reformas determinadas e gradualistas, estudadas e preparadas com tempo, capazes de mobilizar e de reforçar as capacidades da economia portuguesa -, eis o que pro-pomos para os portugueses, eis o que propomos a fim de que, com estabilidade e sentido de responsabilidade, este-jamos à altura de corresponder ao cenário de incerteza.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "… e para podermos desagravar de modo consistente os rendimentos do trabalho e os cidadãos de recursos mais baixos. O Governo dará provas seguras de querer continuar a lutar pela equidade fiscal. Aqui estará o avanço concreto no sentido que desejamos.\nEste Orçamento deve, assim, ser encarado como um instrumento para mobilizar o País, tem de constituir-se num factor positivo capaz de lançar um impulso reformador, através de consensos duráveis que reforcem o regime de-mocrático: no completar da reforma orçamental, designa-damente através da criação indispensável, que o Pacto de Estabilidade e Crescimento exige, de uma coordenação entre a administração central, as regiões autónomas e as autarquias locais, no sentido do cumprimento dos limites e da disciplina a que todos estamos obrigados; no garantir do rigor, da coerência, da transparência e da flexibilidade na gestão orçamental nos diferentes subsectores da economia pública, privilegiando a salvaguarda das obrigações para com as gerações futuras, dando maior peso às despesas de investimento no poder local e descentralizando melhor, no sentido de maior \nsolidariedade nacional; no prossegui-mento e consolidação da reforma do património do Estado, já delineada; na ligação efectiva entre a consolidação das finanças públicas e a reforma do Estado, com passos neces-sários em ordem à eficiência, à produtividade, à qualidade da despesa e à avaliação; na exigência de mudanças estabi-lizadoras na fiscalidade, no sentido da simplificação e da certeza, desde os consensos necessários na tributação do património, à simplificação do imposto sobre o rendimen-to, passando pela luta contra a corrupção, pelos acordos de dupla tributação e pela troca de informações internacionais em nome da estabilidade de políticas, de planos e de crité-rios; e, finalmente, no completar da modernização do mer-cado financeiro e do sistema bancário, em nome da eficiên-cia e da estabilização económica, num momento decisivo de internacionalização da nossa bolsa e de início de circu-lação do euro.\nSr. Presidente, Sr.as e Srs. Deputados: Um Orçamento para a confiança - e um orçamento para a confiança exige acção e reformas determinadas e gradualistas, estudadas e preparadas com tempo, capazes de mobilizar e de reforçar as capacidades da economia portuguesa -, eis o que pro-pomos para os portugueses, eis o que propomos a fim de que, com estabilidade e sentido de responsabilidade, este-jamos à altura de corresponder ao cenário de incerteza.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Osvaldo Castro* (PS): Muito bem!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Osvaldo Castro", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: É este o caminho que temos de prosse-guir, olhando para diante, tornando o primeiro Orçamento em euros num Orçamento de convergência, de justiça soci-al e de competitividade para Portugal.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "É este o caminho que temos de prosse-guir, olhando para diante, tornando o primeiro Orçamento em euros num Orçamento de convergência, de justiça soci-al e de competitividade para Portugal.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PS, de pé.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Basílio Horta* (CDS-PP): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Basílio Horta", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Basílio Horta* (CDS-PP): Sr. Presidente, a minha interpelação é no sentido de requerer à Mesa que a votação que vai realizar-se seja feita por filas.", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Basílio Horta", 
+   "text": "Sr. Presidente, a minha interpelação é no sentido de requerer à Mesa que a votação que vai realizar-se seja feita por filas.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, penso que foi esse o consenso a que chegámos na Conferência de Líderes, exactamente por iniciativa do Sr.Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, penso que foi esse o consenso a que chegámos na Conferência de Líderes, exactamente por iniciativa do Sr.Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Orador: V. Ex.ª desculpar-me-á, mas é necessário que a contagem seja requerida. E, como os formalismos são essenciais, estou a fazê-lo.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "V. Ex.ª desculpar-me-á, mas é necessário que a contagem seja requerida. E, como os formalismos são essenciais, estou a fazê-lo.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Muito obrigado, Sr. Deputado. Penso que os consensos se têm sobreposto, normalmente, à necessidade de \npreenchimento de razões formais.\nDe qualquer modo, era minha intenção fazer assim mesmo. A votação vai, então, realizar-se por filas.\nSrs. Deputados, vamos então passar à votação, na gene-ralidade, da proposta de lei n.º 104/VIII - Grandes Op-ções do Plano para 2002.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Muito obrigado, Sr. Deputado. Penso que os consensos se têm sobreposto, normalmente, à necessidade de \npreenchimento de razões formais.\nDe qualquer modo, era minha intenção fazer assim mesmo. A votação vai, então, realizar-se por filas.\nSrs. Deputados, vamos então passar à votação, na gene-ralidade, da proposta de lei n.º 104/VIII - Grandes Op-ções do Plano para 2002.\nNeste momento, procedeu-se à votação por filas.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Neste momento, procedeu-se à votação por filas.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Naturalmente que o Sr. Deputado que entrou agora só poderá votar na votação seguinte.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Manuel Moreira* (PSD): Eu já cá estava des-de o início da sessão, Sr. Presidente, e votei na primeira fila da minha bancada!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Submetida à votação, foi aprovada, com 115 votos a favor, 110 votos contra e 1 abstenção.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
+   "text": "Eu já cá estava des-de o início da sessão, Sr. Presidente, e votei na primeira fila da minha bancada!\nSubmetida à votação, foi aprovada, com 115 votos a favor, 110 votos contra e 1 abstenção.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PS, de pé.", 
    "type": "aplauso"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Manuel Moreira", 
    "text": "Protestos do CDS-PP.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Basílio Horta* (CDS-PP): Peço a palavra para interpelar a Mesa, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Basílio Horta", 
+   "text": "Peço a palavra para interpelar a Mesa, Sr. Presidente.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Penso que o Sr. Deputado Basílio Horta pretende que seja feita a discriminação dos votos por grupo parlamentar.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Penso que o Sr. Deputado Basílio Horta pretende que seja feita a discriminação dos votos por grupo parlamentar.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): Quer, porque nós não estamos aqui para ser enxovalhados!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "Quer, porque nós não estamos aqui para ser enxovalhados!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Basílio Horta* (CDS-PP): Sr. Presidente, se me permite…", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Basílio Horta", 
+   "text": "Sr. Presidente, se me permite…", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem toda a razão, Sr. Deputado. Vou fazer essa declaração.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem toda a razão, Sr. Deputado. Vou fazer essa declaração.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Basílio Horta* (CDS-PP): É que nós não esta-mos disponíveis para ser mais enxovalhados do que já fomos, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Basílio Horta", 
+   "text": "É que nós não esta-mos disponíveis para ser mais enxovalhados do que já fomos, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do CDS-PP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): Com certeza!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "Com certeza!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem toda a razão, Sr. Deputado.\nSrs. Deputados, dando satisfação à solicitação do Sr. Deputado Basílio Horta, que tem toda a razão no pedido que faz, vou passar a discriminar os votos por grupo par-lamentar: os 115 votos a favor são do PS; os 110 votos contra são 77 do PSD, 14 do CDS-PP, 15 do PCP, 2 de Os Verdes e 2 do BE; e a abstenção é do Deputado indepen-dente Daniel Campelo.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem toda a razão, Sr. Deputado.\nSrs. Deputados, dando satisfação à solicitação do Sr. Deputado Basílio Horta, que tem toda a razão no pedido que faz, vou passar a discriminar os votos por grupo par-lamentar: os 115 votos a favor são do PS; os 110 votos contra são 77 do PSD, 14 do CDS-PP, 15 do PCP, 2 de Os Verdes e 2 do BE; e a abstenção é do Deputado indepen-dente Daniel Campelo.", 
+   "type": "presidente"
   }, 
   {
-   "text": "A Sr.ª Manuela Ferreira Leite (PSD): Peço a pala-vra para interpelar a Mesa, Sr. Presidente.", 
-   "type": "continuacao"
+   "text": "Peço a pala-vra para interpelar a Mesa, Sr. Presidente.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr.ª Deputada.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr.ª Deputada.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Manuela Ferreira Leite (PSD): Sr. Presi-dente, agradecia que fosse feita uma recontagem dos votos.", 
-   "type": "continuacao"
+   "text": "Sr. Presi-dente, agradecia que fosse feita uma recontagem dos votos.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "Protestos do PS.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, peço que guar-dem a serenidade necessária.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, peço que guar-dem a serenidade necessária.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Osvaldo Castro* (PS): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Osvaldo Castro", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado, dizendo qual é o objectivo da mesma.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado, dizendo qual é o objectivo da mesma.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Osvaldo Castro* (PS): Sr. Presidente, nós não temos qualquer objecção a que se proceda à recontagem, com os Srs. Deputados que se encontravam na Sala aquan-do da votação.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Osvaldo Castro", 
+   "text": "Sr. Presidente, nós não temos qualquer objecção a que se proceda à recontagem, com os Srs. Deputados que se encontravam na Sala aquan-do da votação.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, eu próprio cha-mei, há pouco, a atenção para o facto de pelo menos um Sr. Deputado ter entrado na Sala depois da votação.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, eu próprio cha-mei, há pouco, a atenção para o facto de pelo menos um Sr. Deputado ter entrado na Sala depois da votação.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Vozes do PS: Dois!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Dois!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PS: Três!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Três!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Não sei se foram dois, se foram três. Eu vi um, mas os Srs. Secretários farão o favor de confirmar quantos foram.\nChamei a atenção para o facto de um Sr. Deputado ter entrado na Sala depois da votação.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Não sei se foram dois, se foram três. Eu vi um, mas os Srs. Secretários farão o favor de confirmar quantos foram.\nChamei a atenção para o facto de um Sr. Deputado ter entrado na Sala depois da votação.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Foram três!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Foram três!", 
+   "type": "vozes_aparte"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Secretário Artur Penedos entende que foram, pelo menos, dois.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "O Sr. Secretário Artur Penedos entende que foram, pelo menos, dois.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): É mostrar o vídeo, Sr. Presidente!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "É mostrar o vídeo, Sr. Presidente!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PS: Foram três!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Foram três!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados não gritem, por-que não vale a pena.\nO Sr. Secretário José Cesário, por sua vez, não sabe quantos Deputados entraram na Sala, depois de ter sido feita a votação.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados não gritem, por-que não vale a pena.\nO Sr. Secretário José Cesário, por sua vez, não sabe quantos Deputados entraram na Sala, depois de ter sido feita a votação.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): Basta mostrar o ví-deo, para ver quem é que é enxovalhado!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "Basta mostrar o ví-deo, para ver quem é que é enxovalhado!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Mas, posto isto, penso, Sr.ª De-putada Manuela Ferreira Leite, que, no mínimo, temos de descontar um voto na recontagem por si requerida.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Mas, posto isto, penso, Sr.ª De-putada Manuela Ferreira Leite, que, no mínimo, temos de descontar um voto na recontagem por si requerida.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Vozes do PS: Três!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Três!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Secretário Rodeia Machado também acha que foram três…", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "O Sr. Secretário Rodeia Machado também acha que foram três…", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Foram três!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Foram três!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: … e o Sr. Secretário José Reis é da mesma opinião.\nAssim sendo, Srs. Deputados, a maioria da Mesa entende que foram três Deputados, pelo que temos de descontar três votos no resultado da recontagem a que vamos proceder.\nPenso, Srs. Deputados, que não vale a pena recontar os votos todos, mas apenas os do PSD, visto que só Deputa-dos do PSD é que entraram na Sala depois da votação.\nAcaba de entrar, agora, mais um Sr. Deputado do PSD…", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "… e o Sr. Secretário José Reis é da mesma opinião.\nAssim sendo, Srs. Deputados, a maioria da Mesa entende que foram três Deputados, pelo que temos de descontar três votos no resultado da recontagem a que vamos proceder.\nPenso, Srs. Deputados, que não vale a pena recontar os votos todos, mas apenas os do PSD, visto que só Deputa-dos do PSD é que entraram na Sala depois da votação.\nAcaba de entrar, agora, mais um Sr. Deputado do PSD…", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Estava cá!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Estava cá!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): Isto é que é uma palhaçada!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "Isto é que é uma palhaçada!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Peço desculpa, o Sr. Secretário acaba de me confirmar que o Sr. Deputado do PSD estava dentro da Sala.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Peço desculpa, o Sr. Secretário acaba de me confirmar que o Sr. Deputado do PSD estava dentro da Sala.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS-PP): Sr. Presidente, peço a palavra para interpelar a Mesa.", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, peço a palavra para interpelar a Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Narana Coissoró* (CDS-PP): Sr. Presidente, solicito que, antes de se começar a recontagem, a Mesa mande fechar as portas.", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Narana Coissoró", 
+   "text": "Sr. Presidente, solicito que, antes de se começar a recontagem, a Mesa mande fechar as portas.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PS: Agora?!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Agora?!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Narana Coissoró, não há possibilidade de fechar as portas, isso não está pre-visto. Mas a Mesa estará atenta a que nenhum Sr. Deputado entre depois de iniciarmos a recontagem.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Narana Coissoró, não há possibilidade de fechar as portas, isso não está pre-visto. Mas a Mesa estará atenta a que nenhum Sr. Deputado entre depois de iniciarmos a recontagem.\nNeste momento, regista-se burburinho na Sala.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Neste momento, regista-se burburinho na Sala.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, é impossível trabalharmos com o ruído que estão a fazer. Não sei se precisam urgentemente desse ruído, mas eu preciso do vosso silêncio.\nVamos, então, recontar os votos do PSD.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Vozes do PS: Agora estão presentes três Deputados, que não estavam aquando da votação!", 
-   "type": "continuacao"
+   "speaker": "Vozes do PS", 
+   "text": "Agora estão presentes três Deputados, que não estavam aquando da votação!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Paulo Portas* (CDS-PP): É uma vergonha!", 
-   "type": "continuacao"
+   "party": "CDS-PP", 
+   "speaker": "Paulo Portas", 
+   "text": "É uma vergonha!", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, o resultado da re-contagem de votos do PSD, incluindo os três Deputados que há que descontar, foi de 80 votos contra. Deduzindo esses três Deputados, o resultado é o mesmo da primeira contagem, ou seja 77 votos contra do PSD.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, o resultado da re-contagem de votos do PSD, incluindo os três Deputados que há que descontar, foi de 80 votos contra. Deduzindo esses três Deputados, o resultado é o mesmo da primeira contagem, ou seja 77 votos contra do PSD.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos agora passar à votação, na gene-ralidade, da proposta de lei n.º 105/VIII - Orçamento do Estado para 2002.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Neste momento, regista-se burburinho na Sala.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, agradecia que os Srs. Deputados fizes-sem silêncio, até para poderem estar atentos àquilo que a Mesa vos pede em termos de votação.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Neste momento, procedeu-se à votação por filas.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetida à votação, foi aprovada, com 115 votos a favor do PS, 113 votos contra (80 do PSD, 15 do PCP, 14 do CDS-PP, 2 de Os Verdes e 2 do BE) e 1 abstenção do Deputado independente Daniel Campelo.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, a proposta de lei n.º 105/VIII foi apro-vada pela maioria exigida.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PS, de pé.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Peço aos Srs. Deputados que não saiam, porque ainda há votações a fazer e as votações têm todas a mesma digni-dade, embora não o mesmo significado jurídico-político.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Vítor Ramalho* (PS): Sr. Presidente, peço a palavra.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Vítor Ramalho", 
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para que efeito, Sr. Deputado?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Para que efeito, Sr. Deputado?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Vítor Ramalho* (PS): Sr. Presidente, é para anunciar que vou apresentar na Mesa uma declaração de voto escrita.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Vítor Ramalho", 
+   "text": "Sr. Presidente, é para anunciar que vou apresentar na Mesa uma declaração de voto escrita.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Fica registado o seu anúncio.\nSrs. Deputados, vou dar-vos conta de uma mensagem de S. Ex.ª o Presidente da República, do seguinte teor: «Está prevista a minha deslocação a São Paulo entre os próximos dias 21 e 22 do corrente, para um encontro com a comunidade portuguesa. Na sequência desta visita, deslo-car-me-ei a Lima nos dias 23 e 24, para participar na XI Cimeira Ibero-Americana, estando previsto o meu regresso a Lisboa no dia 25.\nAssim, venho requerer, nos termos do artigos 129.º, n.º 1, e 163.º, alínea b), da Constituição o necessário assentimento da Assembleia da República.» \nSrs. Deputados, a proposta de resolução da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação é do seguinte teor: \n«A Assembleia da Repúbli-ca, de acordo com as disposições \nconstitucionais aplicá-veis, dá o assentimento nos termos em que é requerido.» \nVamos votar o parecer e proposta de resolução.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Fica registado o seu anúncio.\nSrs. Deputados, vou dar-vos conta de uma mensagem de S. Ex.ª o Presidente da República, do seguinte teor: «Está prevista a minha deslocação a São Paulo entre os próximos dias 21 e 22 do corrente, para um encontro com a comunidade portuguesa. Na sequência desta visita, deslo-car-me-ei a Lima nos dias 23 e 24, para participar na XI Cimeira Ibero-Americana, estando previsto o meu regresso a Lisboa no dia 25.\nAssim, venho requerer, nos termos do artigos 129.º, n.º 1, e 163.º, alínea b), da Constituição o necessário assentimento da Assembleia da República.» \nSrs. Deputados, a proposta de resolução da Comissão de Negócios Estrangeiros, Comunidades Portuguesas e Cooperação é do seguinte teor: \n«A Assembleia da Repúbli-ca, de acordo com as disposições \nconstitucionais aplicá-veis, dá o assentimento nos termos em que é requerido.» \nVamos votar o parecer e proposta de resolução.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, vamos ainda proceder à votação do projecto de resolução n.º 163/VIII - Comissão Parlamen-tar de Inquérito ao Desastre de Camarate (PSD).", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Srs. Deputados, o Sr. Secretário vai dar conta de cinco pareceres da Comissão de Ética.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Secretário* (Artur Penedos): Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo 2.° Juízo do Tribunal de Judicial da Covilhã, Processo n.º 115/01, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Carlos Lavrador (PS) a prestar depoimento, por escrito, como testemunha, no âmbito dos autos em referência.", 
-   "type": "continuacao"
+   "party": "Artur Penedos", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo 2.° Juízo do Tribunal de Judicial da Covilhã, Processo n.º 115/01, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Carlos Lavrador (PS) a prestar depoimento, por escrito, como testemunha, no âmbito dos autos em referência.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em aprecia-ção.\nNão havendo inscrições, vamos votar.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Submetido à votação, foi aprovado por unanimidade.", 
-   "type": "voto"
-  }, 
-  {
-   "text": "O Sr. *Secretário* (Artur Penedos): Sr. Presidente e Srs. Deputados, a solicitação do Tribunal de Judicial da Covilhã, 2.° Juízo, Processo n.º 115/01, a Comissão de Ética decidiu emitir parecer no sentido de autorizar a Sr.ª Deputada Maria do Carmo Sequeira (PS) a prestar depoi-mento, por escrito, como testemunha, no âmbito dos autos em referência.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em aprecia-ção.\nNão havendo pedidos de palavra, vamos votar.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em aprecia-ção.\nNão havendo inscrições, vamos votar.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Secretário* (Artur Penedos): Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo Tribunal Administrativo do Círculo de Lisboa, Processo n.º 4/96, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado José Miguel Boquinhas (PS) a prestar depoimento, por escrito, como testemunha, no âm-bito dos autos em referência.", 
-   "type": "continuacao"
+   "party": "Artur Penedos", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, a solicitação do Tribunal de Judicial da Covilhã, 2.° Juízo, Processo n.º 115/01, a Comissão de Ética decidiu emitir parecer no sentido de autorizar a Sr.ª Deputada Maria do Carmo Sequeira (PS) a prestar depoi-mento, por escrito, como testemunha, no âmbito dos autos em referência.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em aprecia-ção.\nNão havendo pedidos de palavra, vamos votar.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Submetido à votação, foi aprovado por unanimidade.", 
-   "type": "voto"
-  }, 
-  {
-   "text": "O Sr. *Secretário* (Artur Penedos): Sr. Presidente e Srs. Deputados, a solicitação da Vara Mista de Coimbra, 2.ª Secção, Processo n.º 32/00 C.C., a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Depu-tado Victor Baptista (PS) a prestar depoimento, como testemunha, no âmbito dos autos em referência, em audiên-cia marcada para o próximo dia 15 de Novembro de 2001, pelas 9 horas e 30 minutos.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em aprecia-ção.\nNão havendo inscrições, vamos votar.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em aprecia-ção.\nNão havendo pedidos de palavra, vamos votar.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
-   "text": "O Sr. *Secretário* (Artur Penedos): Sr. Presidente e Srs. Deputados, de acordo com o solicitado pela 14.ª Vara Cível da Comarca de Lisboa, 1.ª Secção, Processo n.º 68/2000, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Dias Baptista (PS) a prestar depoimento, por escrito, como testemunha, no âm-bito dos autos em referência.", 
-   "type": "continuacao"
+   "party": "Artur Penedos", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, de acordo com o solicitado pelo Tribunal Administrativo do Círculo de Lisboa, Processo n.º 4/96, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado José Miguel Boquinhas (PS) a prestar depoimento, por escrito, como testemunha, no âm-bito dos autos em referência.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está em aprecia-ção.\nNão havendo pedidos de palavra, vamos votar.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em aprecia-ção.\nNão havendo pedidos de palavra, vamos votar.", 
+   "type": "presidente"
   }, 
   {
    "text": "Submetido à votação, foi aprovado por unanimidade.", 
    "type": "voto"
   }, 
   {
+   "party": "Artur Penedos", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, a solicitação da Vara Mista de Coimbra, 2.ª Secção, Processo n.º 32/00 C.C., a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Depu-tado Victor Baptista (PS) a prestar depoimento, como testemunha, no âmbito dos autos em referência, em audiên-cia marcada para o próximo dia 15 de Novembro de 2001, pelas 9 horas e 30 minutos.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em aprecia-ção.\nNão havendo inscrições, vamos votar.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado por unanimidade.", 
+   "type": "voto"
+  }, 
+  {
+   "party": "Artur Penedos", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados, de acordo com o solicitado pela 14.ª Vara Cível da Comarca de Lisboa, 1.ª Secção, Processo n.º 68/2000, a Comissão de Ética decidiu emitir parecer no sentido de autorizar o Sr. Deputado Dias Baptista (PS) a prestar depoimento, por escrito, como testemunha, no âm-bito dos autos em referência.", 
+   "type": "secretario"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está em aprecia-ção.\nNão havendo pedidos de palavra, vamos votar.", 
+   "type": "presidente"
+  }, 
+  {
+   "text": "Submetido à votação, foi aprovado por unanimidade.", 
+   "type": "voto"
+  }, 
+  {
+   "speaker": "Presidente", 
    "text": "Chegados ao fim dos trabalhos, resta-me informar que a próxima sessão plenária se realiza-se dia 28 do corrente para darmos início à discussão e votação, na especialidade, das propostas de lei n.os 104 e 105/VIII.\nDespedimo-nos dos Srs. Deputados e dos Srs. Membros do Governo, desejando a todos um bom fim-de-semana.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 12 horas e 10 minutos.", 
    "type": "hora"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Declaração de voto enviada à Mesa, para publicação, \nrelativa à votação, na generalidade, da proposta de lei \nn.º 105/VIII", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Orçamento do Estado é um dos instrumentos funda-mentais da política económica de qualquer governo. O que respeita ao ano de 2002, que hoje foi votado em Plenário da Assembleia da República, terá vigência de aplicação num ano particularmente difícil, face à conjuntura interna-cional, de abrandamento, agravada pelos acontecimentos de 11 de Setembro.\nA interpretação que faço da leitura dos acontecimentos por parte da generalidade dos nossos concidadãos é a de que estes reforçaram a predisposição para a unidade na prossecução de desígnios colectivamente sentidos e que a todos se impõem. Naturalmente também a predisposição para a estabilidade, a alcançar não a qualquer preço, mas na base do aprofundamento de transparência da acção política, garantindo-se a segurança e o desenvolvimento em coesão social. A lesão das \nexpectativas, que se repercutem na esfera psicológica, individual e colectiva, por efeito dos referidos acontecimentos, determina por isso que o Estado reforce o papel de motor do investimento, recriador da esperança. Do meu ponto de vista, a resposta a estas preo-cupações são salvaguardadas no Orçamento para 2002, que os alcança sem prejuízo do aumento da despesa social. Por isso não poderia deixar de o votar favoravelmente, que não apenas por disciplina partidária.\nNão obstante o que precede, entendi justificar-se da minha parte a apresentação da presente declaração de voto, à semelhança do procedimento que adoptei na aprovação do Orçamento para 2001. As razões que levaram a essa declaração de voto mantêm-se no fundamental, pelo que as dou aqui por reproduzidas.\nAcrescem agora razões acrescidas que o justificam, sendo dever-direito de qualquer Deputado fazê-lo se en-tende, como entendo, que assim ajuda à transparência, à dignificação do Parlamento e à sua credibilização.\nÉ que o Deputado, nos termos constitucionais, repre-senta toda a Nação e não apenas os cidadãos da sua região de eleição. Em concreto, é sabido que, em resultado das alterações ocorridas no mundo, com a queda da bipolarida-de, se aceleraram os mecanismos da sociedade de informa-ção e do conhecimento. Se é assim, toda ou quase toda a informação é aberta e ao alcance dos cidadãos. A relação de \ntransparência dos partidos entre si, destes com os De-putados e do conjunto perante a Nação e vice-versa, impõe, por razões de \nestreitamento de inter-relacionamento, que os cidadãos entendam e conheçam a orgânica de funciona-mento das instituições e no que ao Parlamento respeita os deveres-direitos dos grupos parlamentares e dos Deputa-dos.\nNeste domínio o Deputado age como mero cidadão? Como militante partidário? Como representante da Nação sem restrições? O seu sentido de voto é sempre livre? Em todas as circunstâncias? E a autonomia dos partidos? \nA forma como o Orçamento para 2002 foi votado não altera por isso as interrogações suscitadas em 2001. Uma recente lei aprovada no Parlamento, que por impulso de ruptura de um acordo interpartidário existente, que existe", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "em todos os Parlamentos democráticos do mundo, e que determinou dúvidas na opinião pública sobre as responsa-bilidades dos Deputados, mais justifica o reforço de trans-parência e do conhecimento da orgânica do funcionamento das instituições democráticas, que sejam claramente per-ceptíveis pela opinião pública.\nO esforço na definição dos conceitos sobre o alcance do direito-dever de intervenção dos cidadãos, de militante e suas limitações ou não, nomeadamente enquanto Deputa-dos, está na ordem do dia. Urge que os partidos, que en-quanto tais representam uma parte da Nação e não a totali-dade dela, os aprofundem, o que parece tardar.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "O Deputado do PS, Vitor Ramalho.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Faltaram à sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Faltaram à sessão os seguintes Srs. Deputados", 
    "text": "Partido Social Democrata (PSD): \nDomingos Duarte Lima", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

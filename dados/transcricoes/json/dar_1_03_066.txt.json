@@ -29,8 +29,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai proceder-se à chamada.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Vai proceder-se à chamada.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 10 horas e 35 minutos.", 
@@ -39,509 +40,594 @@
   {
    "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Socialista (PS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Adelino Teixeira de Carvalho. Alberto Arons Braga de Carvalho.\nAlberto Augusto M. da Silva Andrade.\nAlfredo Pinto da Silva.\nÁlvaro Monteiro.\nAmadeu da Silva Cruz.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "António Alberto Monteiro de Aguiar.\nAntónio Barros dos Santos.\nAntónio Cândido Miranda Macedo.\nAntónio Carlos Ribeiro Campos.\nAntónio Duarte Arnaut.\nAntónio Francisco Barroso Sousa Gomes.\nAntónio Jorge Moreira Portugal.\nAntónio José Pinheiro da Silva.\nAntónio Magalhães da Silva.\nAntónio Manuel Maldonado Gonelha.\nAntónio Manuel de Oliveira Guterres.\nBento Elísio de Azevedo.\nCarlos Cardoso Lage.\nCarlos Justino Luís Cordeiro.\nDelmiro Manuel de Sousa Carreira.\nEduardo Ribeiro Pereira.\nEurico Manuel das Neves H. Mendes.\nFernando Jaime Pereira de Almeida.\nFernando Reis Luís.\nFlorêncio Quintas Matias.\nFlorival da Silva Nobre.\nFrancisco de Almeida Salgado Zenha.\nFrancisco António Marcos Barracosa.\nFrancisco de Assis de M. Lino Neto.\nFrancisco Cardoso Pereira de Oliveira.\nFrancisco Igrejas Caeiro.\nGualter Viriato Nunes Basílio.\nHerculano Rodrigues Pires.\nJerónimo da Silva Pereira.\nJoão Francisco Ludovico da Costa.\nJoaquim Sousa Gomes Carneiro.\nJorge Augusto Barroso Coutinho.\nJosé Cândido Rodrigues Pimenta.\nJosé Ferreira Dionísio.\nJosé Macedo Fragateiro.\nJosé Maria Parente Mendes Godinho.\nLuís Abílio da Conceição Cacito.\nLuís José Godinho Cid.\nManuel Alfredo Tito de Morais.\nManuel Branco Ferreira Lima.\nManuel do Carmo Mendes.\nManuel Joaquim Paiva Ferreira Pires.\nManuel Lencastre M. de Sousa Figueiredo.\nManuel Pereira Dias.\nMário Augusto Sotto Mayor Leal Cardia.\nPedro Amadeu de A. Santos Coelho.\nRaúl d'Assunção Pimenta Rego.\nTeófilo Carvalho dos Santos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Álvaro Barros Marques de Figueiredo.\nAmândio Anes de Azevedo.\nAntónio Coutinho Monteiro de Freitas.\nArnaldo Ângelo Brito Lhamas.\nCarlos Alberto Coelho de Sousa.\nEduardo José Vieira.\nJoão Gabriel Soeiro de Carvalho.\nJoão Vasco da Luz Botelho Paiva.\nJosé Adriano Gago Vitorino.\nJosé Rui Sousa Fernandes.\nManuel Henriques Pires Fontoura.\nManuel Sérgio Vila Lobos Menezes.\nMaria Élia Brito Câmara.\nNuno Aires Rodrigues dos Santos.\nPedro Manuel da Cruz Roseta.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Alexandre Correia Carvalho Reigoto.\nÁlvaro Dias de Sousa Ribeiro.\nAntónio Simões Costa.\nCarlos Martins Robalo.\nFrancisco Manuel L. V. Oliveira Dias.\nJoão Gomes de Abreu de Lima.\nJoão José M. F. Pulido de Almeida.\nNuno Krus Abecasis.\nRui Eduardo Ferreira Rodrigues Pena.\nRui Mendes Tavares.\nVictor Afonso Pinto da Cruz.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Álvaro Augusto Veiga de Oliveira.\nAntónio Joaquim Navalho Garcia.\nAntónio Marques Juzarte.\nAntónio Marques Pedrosa.\nCândido Matos Gago.\nCarlos Alberto do Vale G. Carvalhas.\nCustódio Jacinto Gingão.\nEduardo Sá Matos.\nErcília Carreira Pimenta Talhadas.\nFernanda Peleja Patrício.\nFrancisco Miguel Duarte.\nFernando de Almeida Sousa Marques.\nGeorgete de Oliveira Ferreira.\nHermenegilda Rosa C. Pacheco Pereira.\nJaime dos Santos Serra.\nJerónimo Carvalho de Sousa.\nJoaquim da Silva Rocha Felgueiras.\nJorge do Carmo da Silva Leite.\nJosé Cavalheira Antunes.\nJosé Manuel Maia Nunes de Almeida.\nLino Carvalho de Lima.\nManuel Duarte Gomes.\nManuel do Rosário Moita.\nMaria Alda Barbosa Nogueira.\nNicolau de Ascenção M. Dias Ferreira.\nRaúl Luís Rodrigues.\nSeveriano Pedro Falcão.\nVital Martins Moreira.\nVictor Henrique Louro de Sá.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Independentes", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Amantino Marques Pereira de Lemos.\nAntónio Egídio Fernandes Loja.\nAntónio Joaquim Bastos Marques Mendes.\nAntónio Joaquim Veríssimo.\nArcanjo Nunes Luís.\nArtur Videira Pinto da Cunha leal.\nFrancisco Barbosa da Costa.\nFrancisco da Costa Lopes Oliveira.\nGabriel Ribeiro da Frada.\nJoão António Martelo de Oliveira.\nJoão Lucílio Cacela Leitão.\nJoão Manuel Ferreira.\nJoaquim Jorge de Magalhães S. da Mota.\nJosé António Nunes Furtado Fernandes.\nJosé Júlio Carvalho Ribeiro.\nJosé Justiniano Taboada Braz Pinto.\nJosé Manuel Ribeiro Sérvulo Correia.\nJúlio Maria Alves da Silva.\nManuel Valentim Pereira Vilar.\nMário Fernando de Campos Pinto.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "26 DE MAIO DE 1979 2357", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Fez-se a chamada, a qual responderam os seguintes Srs. Deputados", 
    "text": "Reinaldo Jorge Vital Rodrigues.\nRuben José de Almeida Martins Raposo.\nVasco da Gama Lopes Fernandes.\nVictor Hugo Mendes dos Santos.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Responderam à chamada 133 Srs. Deputados.\nTemos quórum, pelo que declaro aberta a sessão.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Responderam à chamada 133 Srs. Deputados.\nTemos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 11 horas.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em aprovação o n.º 54 do Diário.\nHá alguma oposição?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Está em aprovação o n.º 54 do Diário.\nHá alguma oposição?", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Considera-se aprovado.\nSrs. Deputados, encontra-se na Mesa um pedido de autorização do Tribunal Judicial de Albergaria-a-Velha para que o Sr. Deputado Rui Mendes Tavares preste juramento como perito no próximo dia 2 de Julho, pelas 15 horas.\nHá alguma oposição?", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Está concedida a autorização solicitada.\nEncontra-se ainda na Mesa um pedido de autorização da Polícia Judiciária de Lisboa para que o Sr. Deputado Raul Rego preste declarações no dia 7 de Junho próximo, pelas 14 horas.\nHá alguma oposição?", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Está também concedida a autorização solicitada.\nPassamos agora ao pedido de urgência apresentado pelos deputados independentes sociais-democratas para a discussão da sua proposta de resolução sobre alterações ao Regimento.\nEstá em discussão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como ninguém quer usar da palavra, vamos proceder à votação.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Carlos Laje* (PS): Sr. Presidente, pedimos desculpa, mas não estávamos suficientemente atentos, pelo que gostaríamos que lesse o diploma sobre o qual incide o pedido de urgência, dizendo, se possível, o conteúdo do mesmo.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Carlos Laje", 
+   "text": "Sr. Presidente, pedimos desculpa, mas não estávamos suficientemente atentos, pelo que gostaríamos que lesse o diploma sobre o qual incide o pedido de urgência, dizendo, se possível, o conteúdo do mesmo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Carlos Laje, o que acabei ainda agora de ler foi o seguinte: apreciação do pedido de urgência apresentado pelos deputados independentes sociais-democratas para a discussão da sua proposta de resolução sobre alterações ao Regimento.\nChega-lhe esta indicação, Sr. Deputado?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Carlos Laje, o que acabei ainda agora de ler foi o seguinte: apreciação do pedido de urgência apresentado pelos deputados independentes sociais-democratas para a discussão da sua proposta de resolução sobre alterações ao Regimento.\nChega-lhe esta indicação, Sr. Deputado?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Carlos Laje* (PS): Muito obrigado, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Carlos Laje", 
+   "text": "Muito obrigado, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos então proceder à votação do referido pedido de urgência.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Vamos então proceder à votação do referido pedido de urgência.\nPosta a questão à votação, foi concedida a urgência solicitada, com votos a favor do PS, do CDS, do PCP, dos Deputados independentes sociais-democratas e dos Deputados independentes Brás Pinto, Vital Rodrigues e Vasco da Gama Fernandes e a abstenção do PSD e do Deputado do PS Alberto Andrade.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Posta a questão à votação, foi concedida a urgência solicitada, com votos a favor do PS, do CDS, do PCP, dos Deputados independentes sociais-democratas e dos Deputados independentes Brás Pinto, Vital Rodrigues e Vasco da Gama Fernandes e a abstenção do PSD e do Deputado do PS Alberto Andrade.", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Passamos agora à discussão da ratificação n.º 63/I, relativa ao Decreto-Lei n.º 27/79, de 22 de Fevereiro, apresentada pelo PS.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Desculpem-me, Srs. Deputados, mas como a ordem do dia está emendada, provocou-me confusão: é que não passamos à discussão da ratificação que anunciei, antes vamos votar na generalidade os projectos de lei n.ºs 144/I e 147/I, apresentados pelo PCP. 0 projecto de lei n.º 145/I, que também está agendado na ordem do dia, foi ontem retirado da votação e por isso não será votado.\nVamos então proceder à votação do projecto de lei n.º 144/I, apresentado pelo PCP.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Sr. Presidente, peço a palavra.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Mas então, Sr. Deputado Pedro Roseta, vai interromper no meio da votação?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Mas então, Sr. Deputado Pedro Roseta, vai interromper no meio da votação?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Desculpe-me, Sr. Presidente, mas é que começou por anunciar a discussão da ratificação n.º 63/I", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Desculpe-me, Sr. Presidente, mas é que começou por anunciar a discussão da ratificação n.º 63/I", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Mas depois emendei, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Mas depois emendei, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Mas qual é o projecto de lei que está em votação9", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Mas qual é o projecto de lei que está em votação9", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Pedro Roseta, o que está em votação neste momento é o n.º 144/I.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Pedro Roseta, o que está em votação neste momento é o n.º 144/I.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): 0 que diz respeito ao processo \nadministrativo não contencioso?", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "0 que diz respeito ao processo administrativo não contencioso?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sim, Sr. Deputado.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sim, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Muito obrigado, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Muito obrigado, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Voltamos então ao princípio, para evitar confusões.\nVou pôr de novo à votação o projecto de lei n.º 144/I", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Voltamos então ao princípio, para evitar confusões.\nVou pôr de novo à votação o projecto de lei n.º 144/I Submetido à votação, foi aprovado, com votos a favor do PS, do PSD, do PCP, dos Deputados independentes sociais-democratas e dos Deputados independentes Brás Pinto, Vital Rodrigues e Vasco da Gama Fernandes e com votos contra do CDS.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetido à votação, foi aprovado, com votos a favor do PS, do PSD, do PCP, dos Deputados independentes sociais-democratas e dos Deputados independentes Brás Pinto, Vital Rodrigues e Vasco da Gama Fernandes e com votos contra do CDS.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Vou agora pôr à votação o projecto de lei n.º 147/I", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vou agora pôr à votação o projecto de lei n.º 147/I", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Carlos Laje", 
+   "text": "Peço a palavra, Sr. Presidente.\n2358 I SÉRIE - NÚMERO 66", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Carlos Laje* (PS): Peço a palavra, Sr. Presidente.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "2358 I SÉRIE - NÚMERO 66", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Carlos Laje", 
+   "text": "Sr. Presidente, o Grupo Parlamentar do Partido Socialista agradece que o Sr. Presidente diga qual é o conteúdo ou o título do projecto de lei que acabou de referir para decidirmos o voto que vamos dar.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Apoiado!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Carlos Laje* (PS): Sr. Presidente, o Grupo Parlamentar do Partido Socialista agradece que o Sr. Presidente diga qual é o conteúdo ou o título do projecto de lei que acabou de referir para decidirmos o voto que vamos dar.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Carlos Laje, o projecto de lei n.º 147/I, apresentado pelo PCP, diz respeito à orgânica dos tribunais administrativos e fiscais.\nVamos, pois, votá-lo.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PCP, dos Deputados independentes sociais-democratas e dos Deputados \nindependentes Brás Pinto, Vital Rodrigues e Vasco da Gama Fernandes e com votos contra do PSD e do CDS.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Apoiado!", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Como disse há pouco, o projecto de lei n.º 145/I - ilegalidade dos regulamentos -, igualmente apresentado pelo PCP, foi retirado e por isso não se vota.\nPara uma declaração de voto, tem a palavra o Sr. Deputado Lino Lima.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Carlos Laje, o projecto de lei n.º 147/I, apresentado pelo PCP, diz respeito à orgânica dos tribunais administrativos e fiscais.\nVamos, pois, votá-lo.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Lino Lima", 
+   "text": "Sr. Presidente, Srs. Deputados: Quando Deputados comunistas entregaram, em Novembro passado, na Mesa da Assembleia um conjunto de projectos de lei, entre os quais estes três que agora aqui foram discutidos, destinados a provocar uma reforma no sistema da justiça administrativa no nosso país, animava-os o propósito - que é o do Partido Comunista Português e, consequentemente, o do seu grupo parlamentar - de contribuir para reforçar a legalidade democrática e o Estado de direito. Com efeito, uma e outro estão directamente dependentes, para além do mais, do reforço dos meios de defesa dos cidadãos perante os actos ilegais da Administração e do reforço dos meios destinados a garantir a legalidade administrativa.\nOra, são estes os fins que se visaram com os projectos de lei sobre a organização dos tribunais administrativos e fiscais, sobre o processo administrativo não contencioso e sobre a ilegalidade dos regulamentos, que acabam, os dois primeiros, de ser aqui sujeitos a votação na generalidade. Foram esses os fins visados com as iniciativas legislativas do PCP e impõe-se que esses fins sejam alcançados sem demora.\nÉ que, Srs. Deputados, com excepção do Decreto-Lei n.º 256-A/77, de 17 de Junho, desde o 25 de Abril nada se alterou no panorama da nossa justiça administrativa. Não se mexeu praticamente nos tribunais administrativos; não se tocou no elenco e nos fundamentos do recurso contencioso; não se avançou na racionalização e regularização dos procedimentos administrativos. Mantêm-se assim inalteradas as estruturas criadas há muitos anos para responder a situações e objectivos totalmente diversos dos actuais. E isto é intolerável no nosso Estado democrático, é intolerável numa sociedade em que cada vez mais os actos da vida dos cidadãos estão dependentes de actos da Administração Pública, porque cada vez mais se ampliam as necessidades dependentes de prestações do Estado. Quer dizer: a justiça nas relações com a Administração é tão importante como a justiça nas relações privadas; a justiça administrativa é tão importante como a justiça comum.\nSrs. Deputados, destas premissas, que ninguém sensatamente pode pôr em dúvida, resultou necessidade sentida pelo Grupo Parlamentar do PCP de desenterrar estes projectos, apresentada há seis meses, e de usar da faculdade regimental de os agendar para ontem. Mas essa atitude nada tem a ver com qualquer posição fechada, da nossa parte, relativamente aos problemas e soluções que neles se contêm e que para eles são possíveis, como aqui já foi dito pelo meu camarada Vital Moreira.\nSublinhamos novamente que estamos abertos ao estudo, aquando da discussão na especialidade, de todas as sugestões e propostas. Apelamos novamente para todos os Deputados e grupos parlamentares no sentido de que apresentem soluções alternativas para as diversas questões teóricas e práticas que os projectos agora aprovados na generalidade levantam, nomeadamente usando até formas de trabalho que excedam os quadros habituais de actuação da Assembleia da República. Entendemos e propomos que para a discussão na especialidade, na comissão competente, seja constituído um grupo de trabalho ad hoc composto pelos Deputados mais interessados nesta matéria, mesmo que dela não façam parte, \nnomeadamente os que intervieram nesta discussão, cujo trabalho constitua a base das decisões finais da comissão.\nFoi no reconhecimento da necessidade de aprofundamento e melhor estudo dos esquemas alternativos possíveis, isto é, dando uma prova concreta da abertura com que apresentámos os nossos projectos de lei a esta Assembleia, que deixámos de submeter à votação o projecto de lei sobre a ilegalidade dos regulamentos. Dúvidas levantadas acerca dele foram bastantes para nos convencer a tomar essa atitude e a deixar a sua apreciação para melhor oportunidade.\nMas essas dúvidas vieram de Deputados de outros grupos parlamentares que estudaram conscientes e atempadamente os projectos de lei em discussão. A esses devíamos essa atenção. Não a devíamos, porém, a um Governo que tem desrespeitado esta Assembleia, que fere a consciência pública, com a prática constante de arbitrariedades e de ilegalidades, e a quem, portanto, não reconhecemos capacidade moral para colaborar na feitura de leis que visam reforçar a legalidade democrática e a defesa dos direitos dos cidadãos perante a Administração.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Submetido à votação, foi aprovado, com votos a favor do PS, do PCP, dos Deputados independentes sociais-democratas e dos Deputados \nindependentes Brás Pinto, Vital Rodrigues e Vasco da Gama Fernandes e com votos contra do PSD e do CDS.", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Como disse há pouco, o projecto de lei n.º 145/I - ilegalidade dos regulamentos -, igualmente apresentado pelo PCP, foi retirado e por isso não se vota.\nPara uma declaração de voto, tem a palavra o Sr. Deputado Lino Lima.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "Não devíamos nenhuma atenção a um Governo que, sempre tão pronto na prática de, arbitrariedades e ilegalidades, esteve neste caso a dormir vários meses e, tendo agora acordado estremunhado à última hora, queria atropelar o Regimento e impor a discussão da sua proposta de lei sobre os tribunais administrativos. Que chame menos a Guarda Republicana e ouça mais esta Assembleia, se quer ter, enquanto ainda durar, a nossa compreensão.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Lino Lima* (PCP): Sr. Presidente, Srs. Deputados: Quando Deputados comunistas entregaram, em Novembro passado, na Mesa da Assembleia um conjunto de projectos de lei, entre os quais estes três que agora aqui foram discutidos, destinados a provocar uma reforma no sistema da justiça administrativa no nosso país, animava-os o propósito - que é o do Partido Comunista Português e, consequentemente, o do seu grupo parlamentar - de contribuir para reforçar a legalidade democrática e o Estado de direito. Com efeito, uma e outro estão directamente dependentes, para além do mais, do reforço dos meios de defesa dos cidadãos perante os actos ilegais da Administração e do reforço dos meios destinados a garantir a legalidade administrativa.\nOra, são estes os fins que se visaram com os projectos de lei sobre a organização dos tribunais administrativos e fiscais, sobre o processo administrativo não contencioso e sobre a ilegalidade dos regulamentos, que acabam, os dois primeiros, de ser aqui sujeitos a votação na generalidade. Foram esses os fins visados com as iniciativas legislativas do PCP e impõe-se que esses fins sejam alcançados sem demora.\nÉ que, Srs. Deputados, com excepção do Decreto-Lei n.º 256-A/77, de 17 de Junho, desde o 25 de Abril nada se alterou no panorama da nossa justiça administrativa. Não se mexeu praticamente nos tribunais administrativos; não se tocou no elenco e nos fundamentos do recurso contencioso; não se avançou na racionalização e regularização dos procedimentos administrativos. Mantêm-se assim inalteradas as estruturas criadas há muitos anos para responder a situações e objectivos totalmente diversos dos actuais. E isto é intolerável no nosso Estado democrático, é intolerável numa sociedade em que cada vez mais os actos da vida dos cidadãos estão dependentes de actos da Administração Pública, porque cada vez mais se ampliam as necessidades dependentes de prestações do Estado. Quer dizer: a justiça nas relações com a Administração é tão importante como a justiça nas relações privadas; a justiça administrativa é tão importante como a justiça comum.\nSrs. Deputados, destas premissas, que ninguém sensatamente pode pôr em dúvida, resultou necessidade sentida pelo Grupo Parlamentar do PCP de desenterrar estes projectos, apresentada há seis meses, e de usar da faculdade regimental de os agendar para ontem. Mas essa atitude nada tem a ver com qualquer posição fechada, da nossa parte, relativamente aos problemas e soluções que neles se contêm e que para eles são possíveis, como aqui já foi dito pelo meu camarada Vital Moreira.\nSublinhamos novamente que estamos abertos ao estudo, aquando da discussão na especialidade, de todas as sugestões e propostas. Apelamos novamente para todos os Deputados e grupos parlamentares no sentido de que apresentem soluções alternativas para as diversas questões teóricas e práticas que os projectos agora aprovados na generalidade levantam, nomeadamente usando até formas de trabalho que excedam os quadros habituais de actuação da Assembleia da República. Entendemos e propomos que para a discussão na especialidade, na comissão competente, seja constituído um grupo de trabalho ad hoc composto pelos Deputados mais interessados nesta matéria, mesmo que dela não façam parte, \nnomeadamente os que intervieram nesta discussão, cujo trabalho constitua a base das decisões finais da comissão.\nFoi no reconhecimento da necessidade de aprofundamento e melhor estudo dos esquemas alternativos possíveis, isto é, dando uma prova concreta da abertura com que apresentámos os nossos projectos de lei a esta Assembleia, que deixámos de submeter à votação o projecto de lei sobre a ilegalidade dos regulamentos. Dúvidas levantadas acerca dele foram bastantes para nos convencer a tomar essa atitude e a deixar a sua apreciação para melhor oportunidade.\nMas essas dúvidas vieram de Deputados de outros grupos parlamentares que estudaram conscientes e atempadamente os projectos de lei em discussão. A esses devíamos essa atenção. Não a devíamos, porém, a um Governo que tem desrespeitado esta Assembleia, que fere a consciência pública, com a prática constante de arbitrariedades e de ilegalidades, e a quem, portanto, não reconhecemos capacidade moral para colaborar na feitura de leis que visam reforçar a legalidade democrática e a defesa dos direitos dos cidadãos perante a Administração.", 
-   "type": "continuacao"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Orador: Não devíamos nenhuma atenção a um Governo que, sempre tão pronto na prática de, arbitrariedades e ilegalidades, esteve neste caso a dormir vários meses e, tendo agora acordado estremunhado à última hora, queria atropelar o Regimento e impor a discussão da sua proposta de lei sobre os tribunais administrativos. Que chame menos a Guarda Republicana e ouça mais esta Assembleia, se quer ter, enquanto ainda durar, a nossa compreensão.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "continuacao"
-  }, 
-  {
+   "speaker": "O Orador", 
    "text": "26 DE MAIO DE 1979", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: De resto, a circunstância de o Governo poder ter colaborado neste debate, mesmo que se não discutisse concretamente a sua proposta de lei e de se ter retirado dele ostensivamente, mostra que o seu intuito, quando aqui veio, era de mera chicana política.", 
-   "type": "continuacao"
+   "speaker": "O Orador", 
+   "text": "De resto, a circunstância de o Governo poder ter colaborado neste debate, mesmo que se não discutisse concretamente a sua proposta de lei e de se ter retirado dele ostensivamente, mostra que o seu intuito, quando aqui veio, era de mera chicana política.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Com a sua atitude, o Governo justificou uma vez mais a nossa.\nFinalmente, Srs. Deputados, queremos dizer que dados os objectivos dos projectos de lei hoje votados, pensamos que esta Assembleia se honrou ao aprová-los. Atrevemo-nos a prever que a decisão aqui e agora tomada constituirá um passo muito positivo na evolução do sistema da justiça administrativa em Portugal e, por isso mesmo, um passo muito positivo para reforçar a legalidade democrática e o Estado de direito.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Também para uma declaração de voto, tem a palavra o Sr. Deputado Rui Pena.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Também para uma declaração de voto, tem a palavra o Sr. Deputado Rui Pena.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Rui Pena* (CDS): Sr. Presidente, Srs. Deputados: Votámos isoladamente contra estes diplomas, não por despeito, como ontem foi afirmado - não teria razão de ser -, mas única e exclusivamente por termos bem a noção dos valores do mérito e do demérito dos diplomas que são submetidos à apreciação e votação nesta Câmara.\nTodavia, uma vez que estes diplomas foram aprovados, quero aqui declarar que os Deputados do CDS darão toda a contribuição na discussão na especialidade para que os mesmos possam vir a constituir um marco importante da nossa ordem administrativa.", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
+   "text": "Sr. Presidente, Srs. Deputados: Votámos isoladamente contra estes diplomas, não por despeito, como ontem foi afirmado - não teria razão de ser -, mas única e exclusivamente por termos bem a noção dos valores do mérito e do demérito dos diplomas que são submetidos à apreciação e votação nesta Câmara.\nTodavia, uma vez que estes diplomas foram aprovados, quero aqui declarar que os Deputados do CDS darão toda a contribuição na discussão na especialidade para que os mesmos possam vir a constituir um marco importante da nossa ordem administrativa.", 
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
    "text": "Vozes do CDS e do Sr. Vital Moreira (PCP): Muito bem!", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Ainda para uma declaração de voto, tem a palavra o Sr. Deputado Pedro Roseta.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Ainda para uma declaração de voto, tem a palavra o Sr. Deputado Pedro Roseta.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Sr. Presidente, Srs. Deputados: 0 PSD tinha profundas e fundadas críticas ao projecto de lei n.º 145/I, que certamente não teria sido aprovado por esta Assembleia e que o PCP oportunamente retirou após os três restantes grupos parlamentares terem anunciado a sua oposição.\nQuanto aos dois diplomas que chegaram à votação na generalidade, a nossa posição foi diferente pelas razões já ontem largamente expendidas pelo meu companheiro Nandim de Carvalho, pelo que me dispensarei de as repetir.\nRelativamente ao projecto de lei n.º 144/I, sobre o processo administrativo não contencioso, anotámos a posição do PCP, \nexpressamente referida pelo Sr. Deputado Vital Moreira, de ter em conta as nossas sugestões ontem avançadas e já apresentadas por escrito na Mesa para o debate na especialidade. Mantemos as críticas que esse diploma ainda nos merece. No entanto, perante esta abertura e certos aspectos positivos do diploma, não duvidámos em dar-lhe o nosso voto afirmativo.\nQuanto ao projecto de lei n.º 147/I, sobre a orgânica dos tribunais administrativos e fiscais, somos de opinião que se trata de um diploma de grande fôlego e que merece uma análise extremamente cuidada, pelo que alertamos a comissão respectiva para que não apresse a discussão deste diploma na especialidade. Devo dizer que ainda temos grandes divergências de fundo em relação à filosofia que lhe está subjacente, nomeadamente quanto à separação absoluta de duas hierarquias paralelas, às formas de recrutamento de juízes e à criação de conselhos superiores.\nPor isso votámos contra este diploma, embora estejamos dispostos a participar no debate na especialidade, tentando assim melhorá-lo.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Sr. Presidente, Srs. Deputados: 0 PSD tinha profundas e fundadas críticas ao projecto de lei n.º 145/I, que certamente não teria sido aprovado por esta Assembleia e que o PCP oportunamente retirou após os três restantes grupos parlamentares terem anunciado a sua oposição.\nQuanto aos dois diplomas que chegaram à votação na generalidade, a nossa posição foi diferente pelas razões já ontem largamente expendidas pelo meu companheiro Nandim de Carvalho, pelo que me dispensarei de as repetir.\nRelativamente ao projecto de lei n.º 144/I, sobre o processo administrativo não contencioso, anotámos a posição do PCP, \nexpressamente referida pelo Sr. Deputado Vital Moreira, de ter em conta as nossas sugestões ontem avançadas e já apresentadas por escrito na Mesa para o debate na especialidade. Mantemos as críticas que esse diploma ainda nos merece. No entanto, perante esta abertura e certos aspectos positivos do diploma, não duvidámos em dar-lhe o nosso voto afirmativo.\nQuanto ao projecto de lei n.º 147/I, sobre a orgânica dos tribunais administrativos e fiscais, somos de opinião que se trata de um diploma de grande fôlego e que merece uma análise extremamente cuidada, pelo que alertamos a comissão respectiva para que não apresse a discussão deste diploma na especialidade. Devo dizer que ainda temos grandes divergências de fundo em relação à filosofia que lhe está subjacente, nomeadamente quanto à separação absoluta de duas hierarquias paralelas, às formas de recrutamento de juízes e à criação de conselhos superiores.\nPor isso votámos contra este diploma, embora estejamos dispostos a participar no debate na especialidade, tentando assim melhorá-lo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputados, encontra-se na Mesa um requerimento apresentado pelo PCP e no qual se pede a baixa à comissão respectiva, para discussão e votação na especialidade, sem prazo marcado, dos projectos de lei que acabam de ser aprovados.\nHá alguma oposição?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputados, encontra-se na Mesa um requerimento apresentado pelo PCP e no qual se pede a baixa à comissão respectiva, para discussão e votação na especialidade, sem prazo marcado, dos projectos de lei que acabam de ser aprovados.\nHá alguma oposição?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Visto não haver, considera-se aprovado o requerimento.\nSrs. Deputados, vamos iniciar a discussão do pedido de ratificação do Decreto-Lei n.º 27/79, de 22 de Fevereiro (ratificação n.º 63/I), que estabelece normas relativas à aquisição pelo Estado do direito de propriedade ou de outros direitos reais de gozo sobre imóveis.\nO Sr. Secretário vai proceder à leitura do relatório da Comissão de Economia, Finanças e Plano.\nFoi lido. É o seguinte:", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "COMISSÃO DE ECONOMIA, FINANÇAS E PLANO \nRelatório do Subcomissão de Economia, Finanças o Plano sobre a ratificação n.º 63/I", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "A subcomissão paritária designada em plenário da Comissão de Economia, Finanças e Plano foi constituída pelos seguintes Deputados", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "A subcomissão paritária designada em plenário da Comissão de Economia, Finanças e Plano foi constituída pelos seguintes Deputados", 
    "text": "Luís Cid, pelo Partido Socialista; \nFernando Roriz, pelo Partido Social-Democrata; \nRui Marrana, pelo Centro Democrático Social; \nVeiga de Oliveira, pelo Partido Comunista Português.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "A subcomissão paritária designada em plenário da Comissão de Economia, Finanças e Plano foi constituída pelos seguintes Deputados", 
    "text": "A Subcomissão, reunida no dia 9 de Maio para apreciação da ratificação n.º 63/I, da iniciativa do Sr. Deputado Francisco Salgado Zenha e outros Deputados do Partido Socialista, referente ao Decreto-Lei n.º 27/79, de 22 de Fevereiro, decidiu unanimemente eliminar o artigo 4.º A unanimidade da eliminação do referido artigo baseou-se nas seguintes razões:", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "A subcomissão paritária designada em plenário da Comissão de Economia, Finanças e Plano foi constituída pelos seguintes Deputados", 
    "text": "1) 0 n.º 1 do artigo 4.º, tal como estava elaborado, limitava as decisões das pessoas colectivas de direito público;", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "A subcomissão paritária designada em plenário da Comissão de Economia, Finanças e Plano foi constituída pelos seguintes Deputados", 
    "text": "I SÉRIE - NÚMERO 66", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "A subcomissão paritária designada em plenário da Comissão de Economia, Finanças e Plano foi constituída pelos seguintes Deputados", 
    "text": "2) Ainda o n.º 1 do artigo 4.º, incluindo as empresas públicas ou nacionalizadas, e porque são obrigadas a apresentar orçamento anual ao Ministério da Tutela, foi julgado suficiente como contrôle, pois que a sua aprovação depende da respectiva gestão.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "A subcomissão paritária designada em plenário da Comissão de Economia, Finanças e Plano foi constituída pelos seguintes Deputados", 
    "text": "A supressão dos números seguintes do referido artigo foi feita por perderem o conteúdo.\nConsequentemente, tanto as pessoas colectivas de direito público como as empresas públicas ou nacionalizadas não deverão estar incluídas no diploma, de que foi requerida a ratificação.\nEmbora o preâmbulo do referido decreto-lei não tenha força legal, é evidente que a eliminação do artigo 4.º retira qualquer conteúdo nela feita às regiões autónomas e autarquias locais, que têm património próprio e autonomia administrativa e financeira nos termos da lei, não estando por isso sujeitas ao referido decreto-lei.\nEm conformidade, propõe-se ao Plenário da Assembleia da República, para votação final global, a seguinte lei de alterações aprovada na especialidade na Comissão de Economia, Finanças e Plano: \nLei de alterações ARTIGO ÚNICO", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "A subcomissão paritária designada em plenário da Comissão de Economia, Finanças e Plano foi constituída pelos seguintes Deputados", 
    "text": "1 - É eliminado o artigo 4.º do Decreto-Lei n.º 27/79, de 22 de Fevereiro.\n2 - Os artigos 5.º, 6.º e 7.º do Decreto-Lei n.º 27/79 passam, respectivamente, a artigos 4.º, 5.º e 6.º", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "A subcomissão paritária designada em plenário da Comissão de Economia, Finanças e Plano foi constituída pelos seguintes Deputados", 
    "text": "Palácio de S. . Bento, 17 de Maio de 1979. - A Subcomissão: Fernando Roriz (PSD) - Rui Marrana (CDS) - Luís Cid (PS) - Veiga de Oliveira (PCP). - O Presidente da Comissão de Economia, Finanças e Plano, António Guterres.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, visto não haver inscrições, vai proceder-se à votação.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, visto não haver inscrições, vai proceder-se à votação.\nPosta a questão à votação, foi ratificado por unanimidade o decreto-lei em causa.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Posta a questão à votação, foi ratificado por unanimidade o decreto-lei em causa.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vamos iniciar a discussão da ratificação do Decreto-Lei n.º 130/79, de 14 de Maio (ratificação n.º 70/I), que estabelece disposições quanto às providências de natureza cautelar respeitantes ao congelamento de contas bancárias, arrolamento, apreensão e proibição das disponibilidades dos bens das pessoas referidas nas alíneas a) e b) dos n.ºs 1 e 2 do artigo 2.º do Decreto-Lei n.º 313/76, de 29 de Abril.\nTem a palavra o Sr. Deputado Brito Lhamas.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. . *Presidente*: Srs. Deputados, vamos iniciar a discussão da ratificação do Decreto-Lei n.º 130/79, de 14 de Maio (ratificação n.º 70/I), que estabelece disposições quanto às providências de natureza cautelar respeitantes ao congelamento de contas bancárias, arrolamento, apreensão e proibição das disponibilidades dos bens das pessoas referidas nas alíneas a) e b) dos n.ºs 1 e 2 do artigo 2.º do Decreto-Lei n.º 313/76, de 29 de Abril.\nTem a palavra o Sr. Deputado Brito Lhamas.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "O Sr. *Brito Lhamas* (PSD): Sr. Presidente, Srs. Deputados: 0 Decreto-Lei n.º 313/76, de 29 de Abril, veio permitir a apreensão de bens e o congelamento de depósitos bancários por meio de um acto administrativo.\nFoi este decreto-lei já uma tentativa de ordenação e disciplina da apreensão de bens e do congelamento de depósitos bancários em relação às condições que anteriormente se verificavam.", 
-   "type": "continuacao"
-  }, 
-  {
-   "text": "Por isso, determinou o Decreto-Lei n.º 313/76 que o arrolamento, apreensão, proibição ou oneração de bens e congelamento de contas bancárias poderiam ser feitos por resolução do Governo, através do Ministro das Finanças, com recurso para o Supremo Tribunal \nAdministrativo.\nEstabelecia ainda o Decreto-Lei, n.º 313/76, nos artigos 9.º e 11.º, casos de caducidade e prazos da sua verificação.\n0 Decreto-Lei n.º 130/79, em ratificação, tem em vista essencialmente duas finalidades: \nA primeira, retirar às medidas previstas do Decreto-Lei n.º 313/76 o carácter de actos administrativos e atribuir-lhes a natureza dos actos de jurisdição, da competência dos tribunais; \nA segunda, determinar com rigor a caducidade das providências tomadas por via administrativa e mesmo, em certos casos, por via judicial, quando anteriores à data do início da sua vigência, e reduzir os prazos de verificação e caducidade.\nA nosso ver, justificam-se os fins visados pelo Decreto-Lei n.º 130/79.\nHoje não existe a necessidade de manter uma lei de excepção como era o Decreto-Lei n.º 313/76. Hoje as condições modificaram-se e é bom que os diferentes órgãos do Poder Político se confinem e actuem dentro dos parâmetros determinados pela Constituição.\n0 condicionalismo de aplicação, do Decreto-Lei n.º 313/76, previsto no artigo 2.º, pressupõe a apreciação de actos e factos quanto à prova da sua existência, aos efeitos da sua prática e até às intenções dos seus agentes.\nTal apreciação é própria só dos tribunais, aos quais incumbe assegurar a defesa dos interesses legalmente protegidos dos cidadãos, reprimir a violação da legalidade democrática e dirimir os conflitos de interesses públicos e privados.\nÉ isto mesmo que reconhece o Decreto-Lei n.º 130/79, que no artigo 1.º atribui aos tribunais competência exclusiva para as providências nele previstas e que pelo Decreto-Lei. n.º 313/76 pertencia também ao Governo.\nJustifica-se também a criação de novos fundamentos de caducidade de medidas tomadas antes do início da sua vigência e da redução dos prazos da sua verificação.\nÉ vantajoso, e necessário mesmo, acabar depressa com situações residuais que podem estar a pôr em causa direitos e interesses legítimos e a impedir o aproveitamento e aplicação de valores disponíveis.\nPor estas razões, Sr. Presidente e Srs. Deputados, o Partido Social-Democrata vai votar a ratificação do Decreto-Lei n.º 130/79.", 
-   "type": "continuacao"
+   "party": "PSD", 
+   "speaker": "Brito Lhamas", 
+   "text": "Sr. Presidente, Srs. Deputados: 0 Decreto-Lei n.º 313/76, de 29 de Abril, veio permitir a apreensão de bens e o congelamento de depósitos bancários por meio de um acto administrativo.\nFoi este decreto-lei já uma tentativa de ordenação e disciplina da apreensão de bens e do congelamento de depósitos bancários em relação às condições que anteriormente se verificavam.\nPor isso, determinou o Decreto-Lei n.º 313/76 que o arrolamento, apreensão, proibição ou oneração de bens e congelamento de contas bancárias poderiam ser feitos por resolução do Governo, através do Ministro das Finanças, com recurso para o Supremo Tribunal \nAdministrativo.\nEstabelecia ainda o Decreto-Lei, n.º 313/76, nos artigos 9.º e 11.º, casos de caducidade e prazos da sua verificação.\n0 Decreto-Lei n.º 130/79, em ratificação, tem em vista essencialmente duas finalidades: \nA primeira, retirar às medidas previstas do Decreto-Lei n.º 313/76 o carácter de actos administrativos e atribuir-lhes a natureza dos actos de jurisdição, da competência dos tribunais; \nA segunda, determinar com rigor a caducidade das providências tomadas por via administrativa e mesmo, em certos casos, por via judicial, quando anteriores à data do início da sua vigência, e reduzir os prazos de verificação e caducidade.\nA nosso ver, justificam-se os fins visados pelo Decreto-Lei n.º 130/79.\nHoje não existe a necessidade de manter uma lei de excepção como era o Decreto-Lei n.º 313/76. Hoje as condições modificaram-se e é bom que os diferentes órgãos do Poder Político se confinem e actuem dentro dos parâmetros determinados pela Constituição.\n0 condicionalismo de aplicação, do Decreto-Lei n.º 313/76, previsto no artigo 2.º, pressupõe a apreciação de actos e factos quanto à prova da sua existência, aos efeitos da sua prática e até às intenções dos seus agentes.\nTal apreciação é própria só dos tribunais, aos quais incumbe assegurar a defesa dos interesses legalmente protegidos dos cidadãos, reprimir a violação da legalidade democrática e dirimir os conflitos de interesses públicos e privados.\nÉ isto mesmo que reconhece o Decreto-Lei n.º 130/79, que no artigo 1.º atribui aos tribunais competência exclusiva para as providências nele previstas e que pelo Decreto-Lei. n.º 313/76 pertencia também ao Governo.\nJustifica-se também a criação de novos fundamentos de caducidade de medidas tomadas antes do início da sua vigência e da redução dos prazos da sua verificação.\nÉ vantajoso, e necessário mesmo, acabar depressa com situações residuais que podem estar a pôr em causa direitos e interesses legítimos e a impedir o aproveitamento e aplicação de valores disponíveis.\nPor estas razões, Sr. Presidente e Srs. Deputados, o Partido Social-Democrata vai votar a ratificação do Decreto-Lei n.º 130/79.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Cunha Leal, para uma intervenção.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Cunha Leal, para uma intervenção.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. Cunha Leal (Indep.): Sr. Presidente, Srs. Deputados: Nós, sociais-democratas independentes, sempre lutámos e continuaremos a lutar pela edificação de um verdadeiro Estado de direito em Portugal, em que a separação e divisão dos poderes seja uma realidade autêntica e em que o respeito pelos direitos fundamentais da pessoa humana deixe de", 
-   "type": "continuacao"
+   "text": "Sr. Presidente, Srs. Deputados: Nós, sociais-democratas independentes, sempre lutámos e continuaremos a lutar pela edificação de um verdadeiro Estado de direito em Portugal, em que a separação e divisão dos poderes seja uma realidade autêntica e em que o respeito pelos direitos fundamentais da pessoa humana deixe de", 
+   "type": "speaker_error"
   }, 
   {
    "text": "26 DE MAIO DE 1979", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "2361", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "ser, de uma vez para sempre, uma palavra vã e desprovida de qualquer significado ou conteúdo.\nDaí que tivéssemos acolhido com plena simpatia a promulgação do Decreto-Lei n.º 130/79, de 14 de Maio, agora em ratificação. É que ele vinha pôr termo a uma situação anómala sistematizada pelo Decreto-Lei n.º 313/76, de 29 de Abril, com o qual se pretendia, por mera via administrativa, defender a colectividade de actos gravemente lesivos da sua vida económica, através de medidas de apreensão de bens penhoráveis e do congelamento de contas bancárias para efectivação das \nresponsabilidades dos agentes dos actos em questão.\nOra estas medidas administrativas, pondo em causa, como põem, o Poder Judicial, de que, em princípio, deveria depender a verdadeira essência do Estado de direito, só se poderiam explicar pelo episódico condicionalismo da vida nacional desse período, e, portanto, só se poderiam conceber com carácter puramente transitório e excepcional.\nPorém, o documento ratificando já dura há nada menos que dois anos, não se concebendo assim que sob a sua alçada ainda não tenham caído todos ou quase todos os prevaricadores, e muitos foram na realidade, para cujo castigo o mesmo diploma foi criado, de modo a poder restituir-se à grei portuguesa a tranquilidade por que aspira, dando-se assim mais uns quantos passos seguros para a integração do País dentro do Estado de direito que todos acalentamos.\nNa verdade, já vai sendo tempo de nos deixarmos de preocupar com a \"caça às bruxas\", se acaso elas ainda se encontram por ai escondidas.\nEsta preocupação que nos domina é tanto mais lógica quanto é certo que é preciso de uma vez para sempre acabar no espírito dos Portugueses com a sensação de que entre nós a maior parte ainda se encontra dominada pelo desejo de prolongar querelas que dividem profundamente os homens, querelas absurdas nascidas de fantasmas inexistentes e alimentadas com vãs palavras para além das quais se ocultam as duas realidades da vida nacional e com as quais muitos julgam que não nos preocupamos como podíamos e devíamos.\nTodavia, Sr. Presidente e Srs. Deputados, dado que após o pedido de ratificação surge agora uma emenda, que é do meu conhecimento ter entrado na Mesa, com a qual se pretende temporalmente prorrogar o prazo, apenas para trinta dias, da conversão em actos judiciais dos actos até agora de puras medidas administrativas, parece-nos que é de apoiar tal decisão, porque um lapso de quinze dias que o decreto-lei ratificando fixava talvez seja exageradamente curto para se poder operar como se pode e deve essa conversão e, por outro lado, porque é preciso que na ideia de todos fique a certeza, sem a qual não nos podemos apresentar de cabeça levantada em frente a quem quer que seja, de que efectivamente não procuramos, com uma precipitada decisão, encobrir eventuais prevaricadores que porventura ainda por aí se possam ocultar.\nDaí que a nossa posição seja a de aderirmos ao pedido de ratificação solicitado pelo PCP, com a restrição da redução do tempo que ele próprio, ao que suponho, sugeriu, dando-lhe, portanto, o nosso voto positivo.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
    "text": "15to, e só isto, é o que tenho a dizer, porque, repito, já é tempo de sobra para que sem mais delongas enveredemos por um caminho de construção do Estado de direito, que é, ao fim e ao cabo, a preocupação que a todos nos deve dominar.\n_Aplausos dos Deputados independentes sociais-democratas_.", 
-   "type": "continuacao"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, como não há mais intervenções, vamos passar à votação na generalidade da ratificação n.º 70/I Submetida à votação, foi aprovada, com votos a favor do PS, do PSD, do CDS e dos Deputados independentes sociais-democratas, com voto contra da Deputada independente Carmelinda Pereira e com as abstenções do PCP e dos Deputados independentes Brás Pinto e Vital Rodrigues.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, como não há mais intervenções, vamos passar à votação na generalidade da ratificação n.º 70/I Submetida à votação, foi aprovada, com votos a favor do PS, do PSD, do CDS e dos Deputados independentes sociais-democratas, com voto contra da Deputada independente Carmelinda Pereira e com as abstenções do PCP e dos Deputados independentes Brás Pinto e Vital Rodrigues.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Veiga de Oliveira, para uma declaração de voto.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Veiga de Oliveira, para uma declaração de voto.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Veiga de Oliveira* (PCP): Sr. Presidente, Srs. Deputados: 0 Grupo Parlamentar do PCP, que havia pedido esta ratificação, absteve-se, naturalmente, porque condiciona o seu voto favorável à efectiva e definitiva formulação da lei de alterações que sairá da ratificação.\nEfectivamente, pensamos que é tempo de passar a ser por via judicial que estas questões sejam resolvidas e com o respeito dos dispositivos previstos na lei processual.\nJulgamos também que não se pode permitir que com uma simples esponja, uma esponja cega, se apague tudo o que está para trás sem cuidar de saber em que casos é que se justifica manter as medidas cautelares que foram tomadas e em que casos é que não se justifica e devem ser levantadas. Por isso apresentámos propostas de alteração que estão já na Mesa e que foram distribuídas, segundo suponho, e estamos certos de que será possível à Assembleia votar uma lei de alterações que garanta, por um lado, aquilo que parece ser o consenso da Câmara a respeito desse tipo de medidas e da sua garantia judicial e, por outro lado, garanta também que não haja o atropelo da eliminação cega de todas as medidas anteriores.\nEstamos certos de que isto é possível, tanto mais que o Decreto-Lei n.º 75-F/77 permite, ainda por via administrativa, que sejam levantadas desde já, se o Governo assim o entender, aquelas medidas cautelares que não se justificam.\nPensamos também que, dado o teor do Decreto-Lei n.º 130/79, de 14 de Maio, a Assembleia da República deve votar a seguir a sua suspensão nos termos do n.º 2 do artigo 72.º do Regimento e para isso suponho que já há uma proposta na Mesa.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
+   "text": "Sr. Presidente, Srs. Deputados: 0 Grupo Parlamentar do PCP, que havia pedido esta ratificação, absteve-se, naturalmente, porque condiciona o seu voto favorável à efectiva e definitiva formulação da lei de alterações que sairá da ratificação.\nEfectivamente, pensamos que é tempo de passar a ser por via judicial que estas questões sejam resolvidas e com o respeito dos dispositivos previstos na lei processual.\nJulgamos também que não se pode permitir que com uma simples esponja, uma esponja cega, se apague tudo o que está para trás sem cuidar de saber em que casos é que se justifica manter as medidas cautelares que foram tomadas e em que casos é que não se justifica e devem ser levantadas. Por isso apresentámos propostas de alteração que estão já na Mesa e que foram distribuídas, segundo suponho, e estamos certos de que será possível à Assembleia votar uma lei de alterações que garanta, por um lado, aquilo que parece ser o consenso da Câmara a respeito desse tipo de medidas e da sua garantia judicial e, por outro lado, garanta também que não haja o atropelo da eliminação cega de todas as medidas anteriores.\nEstamos certos de que isto é possível, tanto mais que o Decreto-Lei n.º 75-F/77 permite, ainda por via administrativa, que sejam levantadas desde já, se o Governo assim o entender, aquelas medidas cautelares que não se justificam.\nPensamos também que, dado o teor do Decreto-Lei n.º 130/79, de 14 de Maio, a Assembleia da República deve votar a seguir a sua suspensão nos termos do n.º 2 do artigo 72.º do Regimento e para isso suponho que já há uma proposta na Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Cid, igualmente para uma declaração de voto.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Cid, igualmente para uma declaração de voto.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Cid* (PS): Sr. Presidente, Srs. Deputados: 0 voto favorável à ratificação do Decreto-Lei n.º 130/79 justifica-se por duas ordens de razões.\nA primeira, é porque concordamos inteiramente com o texto do artigo 1.º, ou seja, \"só por via judi-", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "Luís Cid", 
+   "text": "Sr. Presidente, Srs. Deputados: 0 voto favorável à ratificação do Decreto-Lei n.º 130/79 justifica-se por duas ordens de razões.\nA primeira, é porque concordamos inteiramente com o texto do artigo 1.º, ou seja, \"só por via judi- I SÉRIE - NÚMERO 66", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "I SÉRIE - NÚMERO 66", 
-   "type": "continuacao"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Luís Cid", 
    "text": "cial e através dos dispositivos previstos na lei processual poderão ser ordenadas e executadas quais quer medidas ou providências de natureza cautelar\", o que já é do conhecimento dos Srs. Deputados.\nA segunda ordem de razões é porque consideramos que em sede de discussão na especialidade podem ser introduzidas as alterações adequadas que anulem os efeitos perniciosos que consideramos que a execução do preceituado neste decreto-lei iria provocar, pondo em causa os legítimos interesses do Estado Português. Por isso votámos a favor, para que fosse possível a ratificação do decreto-lei.\nDizíamos que o articulado deste decreto-lei punha em causa os legítimos interesses do Estado Português pelos seguintes motivos: no seu preâmbulo diz-se que o Decreto-Lei n.º 313/76 proeurou salvaguardar juridicidade das medidas administrativas determinantes do congelamento de contas bancárias, declarando-as susceptíveis de recurso contencioso para o Supremo Tribunal Administrativo. Ora, o que acontece é que o Decreto-Lei n.º 313/76, não só pela via deste recurso contencioso para o Supremo Tribunal Administrativo, como no seu artigo 9.º, dizia que as medidas tomadas por via administrativa caducariam ao fim de seis meses se não fossem colocadas acções de condenação no tribunal respectivo.\nPortanto, quanto a nós, as medidas excepcionais tomadas por via administrativa hoje em dia já não têm razão de existir, dado que este decreto-lei é de 29 de Abril de 1976 e portanto já não haverá medidas cautelares que tenham como fundamento a via administrativa.\nPor outro lado, consideramos que a execução deste decreto-lei poderia pôr em causa os legítimos interesses do Estado Português, pois que os prazos nele previstos para renovar o processo, isto é, para ser recomeçado, eram de quinze dias para todas as acções necessárias para o efeito. Ou seja, na prática, este prazo de quinze dias vinha impedir que fossem tomadas quaisquer medidas cautelares por via judicial que urgisse tomar.\nÉ por este facto essencial, isto é, o curto prazo que é dado para renovar todas as acções judiciais que estejam em curso, que dizemos que este decreto-lei punha em causa os legítimos interesses do Estado Português, já que este tem causas em curso em tribunais e medidas cautelares por via judicial.\nNesta conformidade, consideramos que em sede de discussão na especialidade este decreto-lei pode ser modificado e obtidos os dois efeitos, ou seja, que a partir de agora essas medidas cautelares só sejam tomadas por via judicial e que cessem as medidas administrativas, que já não tem justificação serem mantidas, acautelando-se \nsimultaneamente os interesses do Estado.", 
-   "type": "continuacao"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Muito bem!", 
-   "type": "continuacao"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Rui Pena* (CDS): Peço a palavra, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Rui Pena.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Rui Pena.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Rui Pena* (CDS): Sr. Presidente: Queria pedir um esclarecimento à Mesa. Gostaria de saber quantas propostas de alteração até este momento entraram na Mesa relativas ao decreto-lei ratificado.", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
+   "text": "Sr. Presidente: Queria pedir um esclarecimento à Mesa. Gostaria de saber quantas propostas de alteração até este momento entraram na Mesa relativas ao decreto-lei ratificado.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Há duas propostas, Sr. Deputado: uma do PCP e outra do PS. Estas propostas estão a ser distribuídas pelas várias bancadas.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Há duas propostas, Sr. Deputado: uma do PCP e outra do PS. Estas propostas estão a ser distribuídas pelas várias bancadas.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Veiga de Oliveira* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Veiga de Oliveira.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Veiga de Oliveira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Veiga de Oliveira* (PCP): Sr. Presidente, Srs. Deputados: é para dar um esclarecimento ao Sr. Deputado Rui Pena.\nDas propostas existentes, só as do PCP permitem mexer em todos os artigos, excepto no artigo 1.º, isto é, naquele que diz que só por via judicial e através dos dispositivos previstos na lei processual podendo ser todo o resto alterado.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
+   "text": "Sr. Presidente, Srs. Deputados: é para dar um esclarecimento ao Sr. Deputado Rui Pena.\nDas propostas existentes, só as do PCP permitem mexer em todos os artigos, excepto no artigo 1.º, isto é, naquele que diz que só por via judicial e através dos dispositivos previstos na lei processual podendo ser todo o resto alterado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, comunica-se que há um requerimento a pedir a baixa à Comissão de Direitos, Liberdades e Garantias para discussão na especialidade. Todavia, não marca prazo.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, comunica-se que há um requerimento a pedir a baixa à Comissão de Direitos, Liberdades e Garantias para discussão na especialidade. Todavia, não marca prazo.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Rui Pena* (CDS): Peço a palavra, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Rui Pena.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Rui Pena.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Rui Pena* (CDS): Sr. Presidente, Srs. Deputados: Era \nprecisamente para que, em aditamento a esse requerimento ou \nsubstituindo esse requerimento, se fizesse um outro que marcasse um prazo de quinze dias para a Comissão se pronunciar e trazer aqui de novo o diploma, com as alterações que eventualmente vier a aprovar, para a votação final global.", 
-   "type": "continuacao"
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
+   "text": "Sr. Presidente, Srs. Deputados: Era precisamente para que, em aditamento a esse requerimento ou \nsubstituindo esse requerimento, se fizesse um outro que marcasse um prazo de quinze dias para a Comissão se pronunciar e trazer aqui de novo o diploma, com as alterações que eventualmente vier a aprovar, para a votação final global.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: 0 Partido Comunista está de acordo com o aditamento feito pelo Sr. Deputado Rui Pena?", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "0 Partido Comunista está de acordo com o aditamento feito pelo Sr. Deputado Rui Pena?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Veiga de Oliveira* (PCP): Certamente, Sr. Presidente.", 
-   "type": "continuacao"
+   "party": "PCP", 
+   "speaker": "Veiga de Oliveira", 
+   "text": "Certamente, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos proceder à votação do requerimento que solicita a baixa à Comissão e que inclui o aditamento proposto pelo CDS.", 
-   "type": "continuacao"
+   "speaker": "Presidente", 
+   "text": "Vamos proceder à votação do requerimento que solicita a baixa à Comissão e que inclui o aditamento proposto pelo CDS.\nSubmetido à votação, foi aprovado, com votos a favor do PS, do PSD, do PCP, do CDS e do Deputado independente Vasco da Gama Fernandes, com um voto contra da Deputada independente Carmelinda Pereira e com as abstenções dos Deputados independentes sociais-democratas.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetido à votação, foi aprovado, com votos a favor do PS, do PSD, do PCP, do CDS e do Deputado independente Vasco da Gama Fernandes, com um voto contra da Deputada independente Carmelinda Pereira e com as abstenções dos Deputados independentes sociais-democratas.", 
-   "type": "continuacao"
-  }, 
-  {
-   "speaker": "O Sr. *Presidente*: Vamos agora passar à discussão da proposta de resolução apresentada pelo PS e que diz o seguinte", 
-   "text": "", 
-   "type": "inicio_documento"
-  }, 
-  {
-   "text": "É suspensa a execução do Decreto-Lei n.º 130/79, de 14 de Maio, até à publicação da respectiva lei de alterações.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vamos agora passar à discussão da proposta de resolução apresentada pelo PS e que diz o seguinte:\nÉ suspensa a execução do Decreto-Lei n.º 130/79, de 14 de Maio, até à publicação da respectiva lei de alterações.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "26 DE MAIO DE 1979 2363", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Tem a palavra o Sr. Deputado António Guterres.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Sr. Presidente, Srs. Deputados: Pedi a palavra para uma muito breve justificação.\nNa realidade, de acordo com o decreto-lei, ao fim do prazo de quinze dias seriam desactivados todos os mecanismos de congelamento existentes em relação aos bens que estão em causa. Ora, o prazo de quinze dias termina na próxima terça-feira, e como não é provável que o processo legislativo em curso nesta Câmara esteja terminado nessa data, nós entendemos que esta providência cautelar de suspender os efeitos é necessária, sob pena de eventualmente se virem a processar actos indesejáveis para qualquer dos partidos nesta Câmara e para os interesses do Estado Português.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Sr. Presidente, Srs. Deputados: Pedi a palavra para uma muito breve justificação.\nNa realidade, de acordo com o decreto-lei, ao fim do prazo de quinze dias seriam desactivados todos os mecanismos de congelamento existentes em relação aos bens que estão em causa. Ora, o prazo de quinze dias termina na próxima terça-feira, e como não é provável que o processo legislativo em curso nesta Câmara esteja terminado nessa data, nós entendemos que esta providência cautelar de suspender os efeitos é necessária, sob pena de eventualmente se virem a processar actos indesejáveis para qualquer dos partidos nesta Câmara e para os interesses do Estado Português.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Como mais nenhum Sr. Deputado pretende usar da palavra, vou pôr à votação a proposta de resolução.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Como mais nenhum Sr. Deputado pretende usar da palavra, vou pôr à votação a proposta de resolução.\nSubmetida à votação, foi aprovada, com os votos a favor do PS, do CDS, do PCP e dos Deputados independentes Vasco da Gama Fernandes, Brás Pinto e Carmelinda Pereira e com as abstenções do PSD e dos Deputados independentes sociais-democratas.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Submetida à votação, foi aprovada, com os votos a favor do PS, do CDS, do PCP e dos Deputados independentes Vasco da Gama Fernandes, Brás Pinto e Carmelinda Pereira e com as abstenções do PSD e dos Deputados independentes sociais-democratas.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, para uma declaração de voto, o Sr.Deputado Rui Pena.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, para uma declaração de voto, o Sr.Deputado Rui Pena.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Rui Pena", 
+   "text": "Sr. Presidente, Srs. Deputados: Votámos a favor desta suspensão por entendermos que realmente é tempo de passarmos, tal como dizia há dias um ilustre Deputado, a actos activos, não se colmatando os vícios do nosso sistema jurídico através de omissões e de actos tácitos.\nPor outro lado, dado que garantimos que a comissão respectiva resolvesse os problemas e aperfeiçoasse o diploma dentro de um prazo muito curto, de quinze dias, entendemos que esta suspensão se justifica plenamente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Rui Pena* (CDS): Sr. Presidente, Srs. Deputados: Votámos a favor desta suspensão por entendermos que realmente é tempo de passarmos, tal como dizia há dias um ilustre Deputado, a actos activos, não se colmatando os vícios do nosso sistema jurídico através de omissões e de actos tácitos.\nPor outro lado, dado que garantimos que a comissão respectiva resolvesse os problemas e aperfeiçoasse o diploma dentro de um prazo muito curto, de quinze dias, entendemos que esta suspensão se justifica plenamente.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Visto não haver mais declarações de voto, vamos passar à discussão da proposta de lei n.° 247/I, que autoriza o Governo a contrair um empréstimo externo, no montante equivalente a 45 milhões de dólares, junto do Banco Internacional para a Reconstrução e Desenvolvimento.\nEsta proposta tem relatório, mas ele é conjunto com a proposta de lei n.° 249/I, que concede autorização ao Governo para contrair empréstimos externos até 300 milhões de dólares para financiamento de investimentos no sector público.\nO Sr. Secretário vai ler o relatório.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Visto não haver mais declarações de voto, vamos passar à discussão da proposta de lei n.° 247/I, que autoriza o Governo a contrair um empréstimo externo, no montante equivalente a 45 milhões de dólares, junto do Banco Internacional para a Reconstrução e Desenvolvimento.\nEsta proposta tem relatório, mas ele é conjunto com a proposta de lei n.° 249/I, que concede autorização ao Governo para contrair empréstimos externos até 300 milhões de dólares para financiamento de investimentos no sector público.\nO Sr. Secretário vai ler o relatório.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -561,24 +647,28 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Algum Sr. Deputado pretende usar a palavra?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Algum Sr. Deputado pretende usar a palavra?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Visto não haver inscrições, vamos passar à votação na generalidade da proposta de lei n.° 247/I.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetida à votação, foi aprovada, com os votos a favor do PS, do PSD, do CDS e do Deputado independente Vasco da Gama Fernandes e com as abstenções do PCP e dos Deputados independentes sociais-democratas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos agora passar à votação na especialidade da proposta de lei n.° 247/I.\nVai ser lido o artigo l.°.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vamos agora passar à votação na especialidade da proposta de lei n.° 247/I.\nVai ser lido o artigo l.°.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -614,8 +704,9 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai ser lido o artigo 2.°.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vai ser lido o artigo 2.°.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -631,48 +722,52 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como ninguém pretende usar da palavra, vamos votar o artigo 2.°.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado, com os votos a favor do PS, do PSD, do CDS e do Deputado independente Vasco da Gama Fernandes e com as abstenções do PCP e dos Deputados independentes sociais-democratas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos passar agora à discussão da proposta de lei n.° 249/I. Tem a palavra o Sr. Deputado Magalhães Mota.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vamos passar agora à discussão da proposta de lei n.° 249/I. Tem a palavra o Sr. Deputado Magalhães Mota.\nO Sr. Magalhães Mota (Indep.) - Sr. Presidente, Srs. Deputados: Em relação à proposta de lei n.° 249/I, que concede autorização ao Governo para contrair empréstimos externos até 300 milhões de dólares para financiamento de investimentos no sector público, os Deputados independentes sociais-democratas adoptarão procedimento semelhante àquele que utilizaram em relação à proposta de lei n.° 247/I, isto é, vão abster-se. E vão abster-se por uma razão muito simples: não pretendemos inviabilizar nenhum dos pedidos que estão em causa, mas também não podemos dar conscientemente o nosso voto favorável quando a documentação relativa a estas propostas de lei não nos foi dada a conhecer com o tempo regimental adequado. Portanto, como várias vezes aqui temos insistido para que, efectivamente, o Regimento seja cumprido no sentido de que os processos nos sejam distribuídos atempadamente, não teríamos hipótese de votar conscientemente os pedidos que foram apresentados. Se esse procedimento regimental tivesse sido seguido, naturalmente poderíamos estar em condições de exprimir a nossa posição.\nComo efectivamente isso não aconteceu, não poderíamos tomar posição favorável, mas entendemos - e isso sublinhamos - que processos desta natureza, que têm a sua repercussão económica muito sensível e uma importância que está à vista, não devem ser inviabilizados, e dai as razões da nossa atitude.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. Magalhães Mota (Indep.) - Sr. Presidente, Srs. Deputados: Em relação à proposta de lei n.° 249/I, que concede autorização ao Governo para contrair empréstimos externos até 300 milhões de dólares para financiamento de investimentos no sector público, os Deputados independentes sociais-democratas adoptarão procedimento semelhante àquele que utilizaram em relação à proposta de lei n.° 247/I, isto é, vão abster-se. E vão abster-se por uma razão muito simples: não pretendemos inviabilizar nenhum dos pedidos que estão em causa, mas também não podemos dar conscientemente o nosso voto favorável quando a documentação relativa a estas propostas de lei não nos foi dada a conhecer com o tempo regimental adequado. Portanto, como várias vezes aqui temos insistido para que, efectivamente, o Regimento seja cumprido no sentido de que os processos nos sejam distribuídos atempadamente, não teríamos hipótese de votar conscientemente os pedidos que foram apresentados. Se esse procedimento regimental tivesse sido seguido, naturalmente poderíamos estar em condições de exprimir a nossa posição.\nComo efectivamente isso não aconteceu, não poderíamos tomar posição favorável, mas entendemos - e isso sublinhamos - que processos desta natureza, que têm a sua repercussão económica muito sensível e uma importância que está à vista, não devem ser inviabilizados, e dai as razões da nossa atitude.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Mais algum Sr. Deputado pretende usar da palavra?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Mais algum Sr. Deputado pretende usar da palavra?", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Visto não haver mais inscrições, vamos votar na generalidade a proposta de lei n.° 249/I.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetida à votação, foi aprovada, com os votos a favor do PS, do PSD, do CDS e do Deputado independente Vasco da Cama Fernandes e com as abstenções do PCP e dos Deputados independentes sociais-democratas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vamos agora passar à votação na especialidade.\nVai ser lido o artigo 1.°.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vamos agora passar à votação na especialidade.\nVai ser lido o artigo 1.°.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -688,24 +783,28 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como ninguém pretende usar da palavra, vamos votar o artigo 1.°.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado, com os votos a favor do PS, do PSD, do CDS e do Deputado independente Vasco da Gama Fernandes e com as abstenções do PCP e dos Deputados independentes sociais-democratas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai ser lido o artigo 2.°.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vai ser lido o artigo 2.°.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -721,582 +820,696 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como ninguém pretende usar da palavra, vamos votar o artigo 2.°.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado, com os votos a favor do PS, do PSD, do CDS e do Deputado Independente Vasco da Gama Fernandes e com as abstenções do PCP e dos Deputados independentes sociais-democratas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "26 DE MAIO DE 1979", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "2365", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "O Sr. *Presidente*: Vai ser lido o artigo 3.º Foi lido. É o seguinte", 
-   "text": "", 
-   "type": "inicio_documento"
+   "speaker": "Presidente", 
+   "text": "Vai ser lido o artigo 3.º Foi lido. É o seguinte:\nArtigo 3.º", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "Artigo 3.º", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "A presente lei entra em vigor no dia imediato ao da sua publicação.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como ninguém pretende usar da palavra, vamos votar o artigo 3.º", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Submetido à votação, foi aprovado, com os votos a favor do PS, do PSD, do CDS e do Deputado independente vasco da Gama Fernandes e com as abstenções do PCP e dos Deputados independentes sociais-democratas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o Sr.Deputado Cavalheira Antunes.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o Sr.Deputado Cavalheira Antunes.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Cavalheira Antunes* (PCP): Sr. Presidente, Srs. Deputados: 0 Partido Comunista Português absteve-se na votação da proposta de lei n.º 247/I , que autoriza o Governo a contrair um empréstimo externo de 45 milhões de dólares, bem como na votação da proposta de lei n.º 249/I, que autoriza o Governo a contrair um empréstimo externo de 300 milhões de dólares.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Começando por esclarecer que não nos preocupa substancialmente a declaração de intenções quanto à aplicação dos empréstimos agora autorizados, uma vez que a fungibilidade é a característica máxima do dinheiro, o que determinou fundamentalmente o nosso voto foi a nossa posição de fundo quanto à política orçamental que está a ser seguida em relação à política de crédito, em relação à política económica em geral e portanto à política de endividamento externo.\nTal como é sabido, não aprovámos o Orçamento que está em aplicação por duodécimos, nem as negociações com o Fundo Monetário Internacional, nem a carta de intenções apresentada pelo Governo Português e também, como é sabido, não aprovámos o Programa deste Governo, nem ele nos merece confiança política.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Cavalheira Antunes", 
+   "text": "Sr. Presidente, Srs. Deputados: 0 Partido Comunista Português absteve-se na votação da proposta de lei n.º 247/I , que autoriza o Governo a contrair um empréstimo externo de 45 milhões de dólares, bem como na votação da proposta de lei n.º 249/I, que autoriza o Governo a contrair um empréstimo externo de 300 milhões de dólares.\nComeçando por esclarecer que não nos preocupa substancialmente a declaração de intenções quanto à aplicação dos empréstimos agora autorizados, uma vez que a fungibilidade é a característica máxima do dinheiro, o que determinou fundamentalmente o nosso voto foi a nossa posição de fundo quanto à política orçamental que está a ser seguida em relação à política de crédito, em relação à política económica em geral e portanto à política de endividamento externo.\nTal como é sabido, não aprovámos o Orçamento que está em aplicação por duodécimos, nem as negociações com o Fundo Monetário Internacional, nem a carta de intenções apresentada pelo Governo Português e também, como é sabido, não aprovámos o Programa deste Governo, nem ele nos merece confiança política.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o Sr.Deputado Luís Cid.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o Sr.Deputado Luís Cid.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Cid* (PS): Sr. Presidente, Srs. Deputados: A votação destas duas propostas de lei é a prova cabal de que são falsas as acusações que têm sido feitas a esta Assembleia da República de que tem estado a entorpecer a acção do Governo.\nEstas duas propostas de lei entraram nesta Assembleia há cerca de quarenta e oito horas e hoje já as votámos. 15to porque as consideramos - e parece que a esmagadora maioria desta Assembleia assim as considerou - duas propostas de lei vitais e que vêm no âmbito da defesa dos interesses do povo português.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Cid", 
+   "text": "Sr. Presidente, Srs. Deputados: A votação destas duas propostas de lei é a prova cabal de que são falsas as acusações que têm sido feitas a esta Assembleia da República de que tem estado a entorpecer a acção do Governo.\nEstas duas propostas de lei entraram nesta Assembleia há cerca de quarenta e oito horas e hoje já as votámos. 15to porque as consideramos - e parece que a esmagadora maioria desta Assembleia assim as considerou - duas propostas de lei vitais e que vêm no âmbito da defesa dos interesses do povo português.\n0 Partido Socialista votou favorável e coerentemente as duas propostas de lei. Coerentemente, no ano passado, quando estava em funções o II Governo Constitucional, votámos duas propostas de lei semelhantes e votámo-las porque elas faziam parte da política monetária e financeira que foi posta em execução por esse mesmo governo constitucional. Os efeitos espectaculares da execução dessa política monetária são evidentes e permitiram que neste momento o Executivo pudesse contratar os empréstimos que hoje acabámos de votar.\nResta-nos, pois, esperar - já que o empréstimo dos 300 milhões de dólares, como se dizia na sua fundamentação, vai ser aplicado em investimentos do sector público - que os financiamentos às empresas públicas contribuam para neutralizar a acção que este Governo tem vindo a desenvolver contra as mesmas.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "0 Partido Socialista votou favorável e coerentemente as duas propostas de lei. Coerentemente, no ano passado, quando estava em funções o II Governo Constitucional, votámos duas propostas de lei semelhantes e votámo-las porque elas faziam parte da política monetária e financeira que foi posta em execução por esse mesmo governo constitucional. Os efeitos espectaculares da execução dessa política monetária são evidentes e permitiram que neste momento o Executivo pudesse contratar os empréstimos que hoje acabámos de votar.\nResta-nos, pois, esperar - já que o empréstimo dos 300 milhões de dólares, como se dizia na sua fundamentação, vai ser aplicado em investimentos do sector público - que os financiamentos às empresas públicas contribuam para neutralizar a acção que este Governo tem vindo a desenvolver contra as mesmas.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma declaração de voto, tem a palavra o Sr.Deputado Carlos Robalo.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma declaração de voto, tem a palavra o Sr.Deputado Carlos Robalo.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Carlos Robalo", 
+   "text": "Sr. Presidente, Srs. Deputados: \nNaturalmente que o nosso voto favorável se enquadrou numa situação de grave crise financeira e na linha de coerência que nos tem levado a aprovar as propostas de lei apresentadas por qualquer governo constitucional, em que se pede autorização para contrair empréstimos.\nÉ óbvio que não ousaríamos considerar que a aprovação destas propostas é a prova cabal de que efectivamente esta Assembleia não está preocupada em pôr determinado travão à actuação do Governo. Penso que seria, de facto, exagerado fazermos uma extrapolação dessas.\nA aprovação das referidas propostas advém, penso eu, da consequência clara da degradação da situação económico-financeira deste país e da necessidade que há, para continuar a viver o menos mal possível, de recorrer a empréstimos externos e ao apoio de países amigos, onde, de facto, sempre se consegue alguma ajuda para minorar os nossos males.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Carlos Robalo* (CDS): Sr. Presidente, Srs. Deputados: \nNaturalmente que o nosso voto favorável se enquadrou numa situação de grave crise financeira e na linha de coerência que nos tem levado a aprovar as propostas de lei apresentadas por qualquer governo constitucional, em que se pede autorização para contrair empréstimos.\nÉ óbvio que não ousaríamos considerar que a aprovação destas propostas é a prova cabal de que efectivamente esta Assembleia não está preocupada em pôr determinado travão à actuação do Governo. Penso que seria, de facto, exagerado fazermos uma extrapolação dessas.\nA aprovação das referidas propostas advém, penso eu, da consequência clara da degradação da situação económico-financeira deste país e da necessidade que há, para continuar a viver o menos mal possível, de recorrer a empréstimos externos e ao apoio de países amigos, onde, de facto, sempre se consegue alguma ajuda para minorar os nossos males.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "António Guterres", 
+   "text": "Posso interrompê-lo, Sr. Deputado?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *António Guterres* (PS): Posso interrompê-lo, Sr. Deputado?", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Naturalmente, numa declaração de voto, não posso dar autorização ao Sr. Deputado António Guterres para me interromper, pois penso que essa actuação está muito longe das praxes regimentais.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Naturalmente, numa declaração de voto, não posso dar autorização ao Sr. Deputado António Guterres para me interromper, pois penso que essa actuação está muito longe das praxes regimentais.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Ainda para uma declaração de voto, tem a palavra o Sr. Deputado Pedro Roseta.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Ainda para uma declaração de voto, tem a palavra o Sr. Deputado Pedro Roseta.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Sr. Presidente, Srs. Deputados: Foram o condicionalismo económico e financeiro em que o País se encontra e a sua degradação e o julgarmos que os empréstimos são necessários os factores que nos impuseram o voto favorável a estas duas propostas.\nVotámos ainda favoravelmente porque julgamos aceitáveis as condições dos referidos empréstimos. Evidentemente que, do nosso ponto de vista e como já dissemos há semanas, na última vez em que algo 2366 I SÉRIE - NÚMERO 66", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Sr. Presidente, Srs. Deputados: Foram o condicionalismo económico e financeiro em que o País se encontra e a sua degradação e o julgarmos que os empréstimos são necessários os factores que nos impuseram o voto favorável a estas duas propostas.\nVotámos ainda favoravelmente porque julgamos aceitáveis as condições dos referidos empréstimos. Evidentemente que, do nosso ponto de vista e como já dissemos há semanas, na última vez em que algo", 
-   "type": "documento"
-  }, 
-  {
-   "text": "2366 I SÉRIE - NÚMERO 66", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
    "text": "de semelhante aconteceu, a nossa actuação de hoje nada tem a ver com votos emitidos nesta Câmara há quase dois anos, em que as \ncircunstâncias económicas e financeiras, além das políticas, eram evidentemente outras.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Armando Bacelar* (PS): Sr. Presidente, peço a palavra.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Bacelar", 
+   "text": "Sr. Presidente, peço a palavra.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Deputado Armando Bacelar pede a palavra para que efeito?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Armando Bacelar pede a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Armando Bacelar* (PS): Sr. Presidente, para muito rapidamente apresentar o relatório da representação desta Assembleia que nos dias 7 a 11 de Maio corrente esteve presente na Assembleia do Conselho da Europa, em Estrasburgo. Não demorarei mais de um minuto, visto que pretendo apenas dar uma explicação à Câmara.\n0 referido relatório devia ser lido, mas como a celeridade dos nossos trabalhos não o permite, pretendo anunciar a sua apresentação, para que este não seja apenas um mero acto burocrático, por quanto, dada a importância deste acontecimento no seguimento das anteriores intervenções, parece-me que deve ser dado conhecimento do teor desse relatório aqui nesta Assembleia, e não só nas páginas do Diário da Assembleia da República.\nRepito que não vou ler o relatório, porque o tempo não mo permite, mas queria chamar a atenção para a importância da intervenção desta representação parlamentar na Assembleia do Conselho da Europa, visto que não é um facto de todos os dias. Queria, mais uma vez, chamar a atenção desta Assembleia e dos restantes órgãos que tratam dos problemas relativos aos contactos internacionais desta natureza, quer seja no Conselho da Europa, quer noutras organizações, para a necessidade de coordenação desses trabalho e sua divulgação pública, com a colaboração dos órgãos de comunicação social, e para os benefícios que para o nosso país podem advir desses contactos, numa época em que os países não podem estar fechados dentro das suas fronteiras.\nA construção de uma Europa unida é efectivamente um imperativo de ordem internacional, mas que passa por um imperativo de ordem nacional para todos os países que estão integrados nesta velha civilização europeia.\nEra para dizer isto que usei da palavra, pedindo desde já desculpa por este hiato nos trabalhos da Assembleia. No entanto, pensei que o teria de fazer precisamente hoje, porque na próxima semana seria impossível, devido à discussão das propostas de lei sobre o Plano e o Orçamento, além de outros trabalhos. Por conseguinte, limito-me a fazer esta apresentação e a pedir à Assembleia e aos órgãos que tenham \ninterferência no assunto que estejam bem conscientes do imperativo que é esta colaboração do nosso país numa futura Europa unida, que pode e deve ser a salvaguarda da nossa civilização.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Armando Bacelar", 
+   "text": "Sr. Presidente, para muito rapidamente apresentar o relatório da representação desta Assembleia que nos dias 7 a 11 de Maio corrente esteve presente na Assembleia do Conselho da Europa, em Estrasburgo. Não demorarei mais de um minuto, visto que pretendo apenas dar uma explicação à Câmara.\n0 referido relatório devia ser lido, mas como a celeridade dos nossos trabalhos não o permite, pretendo anunciar a sua apresentação, para que este não seja apenas um mero acto burocrático, por quanto, dada a importância deste acontecimento no seguimento das anteriores intervenções, parece-me que deve ser dado conhecimento do teor desse relatório aqui nesta Assembleia, e não só nas páginas do Diário da Assembleia da República.\nRepito que não vou ler o relatório, porque o tempo não mo permite, mas queria chamar a atenção para a importância da intervenção desta representação parlamentar na Assembleia do Conselho da Europa, visto que não é um facto de todos os dias. Queria, mais uma vez, chamar a atenção desta Assembleia e dos restantes órgãos que tratam dos problemas relativos aos contactos internacionais desta natureza, quer seja no Conselho da Europa, quer noutras organizações, para a necessidade de coordenação desses trabalho e sua divulgação pública, com a colaboração dos órgãos de comunicação social, e para os benefícios que para o nosso país podem advir desses contactos, numa época em que os países não podem estar fechados dentro das suas fronteiras.\nA construção de uma Europa unida é efectivamente um imperativo de ordem internacional, mas que passa por um imperativo de ordem nacional para todos os países que estão integrados nesta velha civilização europeia.\nEra para dizer isto que usei da palavra, pedindo desde já desculpa por este hiato nos trabalhos da Assembleia. No entanto, pensei que o teria de fazer precisamente hoje, porque na próxima semana seria impossível, devido à discussão das propostas de lei sobre o Plano e o Orçamento, além de outros trabalhos. Por conseguinte, limito-me a fazer esta apresentação e a pedir à Assembleia e aos órgãos que tenham \ninterferência no assunto que estejam bem conscientes do imperativo que é esta colaboração do nosso país numa futura Europa unida, que pode e deve ser a salvaguarda da nossa civilização.\nEntretanto, assumiu a presidência o Sr. Vice-Presidente Martins Canaverde.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Entretanto, assumiu a presidência o Sr. Vice-Presidente Martins Canaverde.", 
-   "type": "documento"
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. Magalhães Mota (Indep.): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Magalhães Mota pede a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Deputado Magalhães Mota pede a palavra para que efeito?", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Magalhães Mota", 
+   "text": "Sr. Presidente, Srs. Deputados: É apenas para me associar às palavras do Sr. Deputado Armando Bacelar e para propor à Mesa, através do Sr. Presidente, que em publicação da Assembleia da República sejam editadas as intervenções dos \nrepresentantes portugueses no Conselho da Europa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Magalhães Mota* (PSD): Sr. Presidente, Srs. Deputados: É apenas para me associar às palavras do Sr. Deputado Armando Bacelar e para propor à Mesa, através do Sr. Presidente, que em publicação da Assembleia da República sejam editadas as intervenções dos \nrepresentantes portugueses no Conselho da Europa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, antes de passarmos à discussão conjunta, na generalidade, dos projectos de lei n.ºs 131/I e 133/I, que criam, respectivamente, o Instituto Universitário de Trás-os-Montes e Alto Douro e o Instituto Universitário da Beira Interior, ambos apresentados pelo PSD, informo a Câmara de que, por consenso, haverá reunião plenária na próxima segunda-feira, às 16 horas e 30 minutos.\nVamos agora entrar na discussão conjunta dos referidos diplomas.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, antes de passarmos à discussão conjunta, na generalidade, dos projectos de lei n.ºs 131/I e 133/I, que criam, respectivamente, o Instituto Universitário de Trás-os-Montes e Alto Douro e o Instituto Universitário da Beira Interior, ambos apresentados pelo PSD, informo a Câmara de que, por consenso, haverá reunião plenária na próxima segunda-feira, às 16 horas e 30 minutos.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Vamos agora entrar na discussão conjunta dos referidos diplomas.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Como o relatório é muito extenso, pergunto à Câmara se dispensa a sua leitura.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Uma vez que a Câmara dispensa a leitura do extenso relatório, tem a palavra o Sr. Deputado Pires Fontoura, para uma intervenção.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Pires Fontoura* (PSD): Sr. Presidente, Srs. Deputados: Em 11 de Agosto de 1973, em pleno coração das terras de Trás-os-Montes, é lançado, em boa hora, o grão de mostarda.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Pires Fontoura", 
+   "text": "Sr. Presidente, Srs. Deputados: Em 11 de Agosto de 1973, em pleno coração das terras de Trás-os-Montes, é lançado, em boa hora, o grão de mostarda.\nEm campo propício e fértil, caldeado com a vontade indómita das suas gentes e com a experiência e trabalho de um grupo de homens de querer forte e alma grande, germinou, cresceu e já não há Invernos, por mais rigorosos, ou Estios escaldantes que possam obstar ao seu natural e progressivo desenvolvimento.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Em campo propício e fértil, caldeado com a vontade indómita das suas gentes e com a experiência e trabalho de um grupo de homens de querer forte e alma grande, germinou, cresceu e já não há Invernos, por mais rigorosos, ou Estios escaldantes que possam obstar ao seu natural e progressivo desenvolvimento.", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "Pires Fontoura", 
    "text": "Criou raízes profundas na terra e nos corações da gente laboriosa e sacrificada de Trás-os-Montes, que, desde o seu início, acarinhou com natural esperança a realidade do seu mais justo e querido sonho, o Instituto Politécnico de Vila Real, que veio proporcionar às populações das zonas interiores do Nordeste, tão dividido por barreiras sociais, com desenvolvimento e progresso demarcadamente diferentes, até agora intransponíveis, uma igualdade de oportunidades para todos, pobres e ricos, consagradas na actual Constituição.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Pires Fontoura", 
    "text": "Durante dois anos, em fase de instalação, uma comissão designada pelo Ministério da Educação e Investigação Científica (MEIC), consciente das suas responsabilidades, não se poupando a esforços, trabalhou afincadamente e sem tréguas para, volvido esse tempo, ter a satisfação de ver o Instituto Politécnico de Vila Real (IPVR), à frente de todos os outros institutos criados pelo mesmo Decreto-Lei n.º 402/73, abrir pela primeira vez as suas portas a um punhado de rapazes confiantes no futuro.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Pires Fontoura", 
    "text": "À sua espera estava um corpo docente, experiente e sabedor, que proporcionou um ambiente de autêntico ensino universitário.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Pires Fontoura", 
    "text": "26 DE MAIO DE 1979", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Pires Fontoura", 
    "text": "2367", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Pires Fontoura", 
    "text": "Assim o encararam e compreenderam os professores, os alunos e os pais, bem como o próprio Decreto-Lei n.º 649/76, de 31 de Julho, no seu artigo 2.º, ao prever que os Institutos Politécnicos podem atribuir o grau de licenciatura e doutoramento.\nAprovados superiormente os respectivos curricula dos três cursos iniciais - Produção Animal, Produção Agrícola e Produção Florestal -, com uma estruturação que visa conceder aos futuros técnicos a possibilidade de possuírem uma sólida formação de base, uma formação técnica completa, uma elevada escolaridade, uma alta relação docente/discente, aulas teórico-práticas e a existência de estágios anuais obrigatórios, iniciou-se o ano lectivo de 1975-1976.\nQue o ensino ministrado no Instituto Politécnico é meritório e profícuo o próprio Ministro o reconhece, expressando-o no artigo 1.º de Decreto-Lei n.º 183/78, de má memória, quando diz:", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Pires Fontoura", 
    "text": "São reconhecidas como válidas as experiências pedagógicas levadas a cabo, ao abrigo do disposto no Decreto-Lei n.º 47 587, de 10 de Março, nos estabelecimentos de ensino superior abaixo indicados, ficando, por consequência, neles instituídos os seguintes cursos de bacharelato: \nInstituto Politécnico de Vila Real:", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Pires Fontoura", 
    "text": "Produção Animal; Produção Agrícola; Produção Florestal.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "party": "PSD", 
+   "speaker": "Pires Fontoura", 
    "text": "Disse atrás que o decreto-lei citado era de má memória pelo facto de no seu artigo 2.º, n.º 1 e 2, cancelar pura e simplesmente as matrículas nos cursos atrás referidos a partir do ano lectivo de 1978-1979.\nEmbora, de forma pouco explícita, diga salvaguardar «quando tal se justifique da sua reformulação em cursos de licenciatura na mesma área científica e da criação de novos cursos», logo a seguir, no n.º 2, acaba com a sua existência pura e simplesmente em 1980-1981.\nApenas acrescentarei que no seu artigo 3.º, que já pressupõe dúvidas dizer, muito subtilmente, «as dúvidas resultantes da interpretação ou aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado do Ensino Superior».\nFoi esta a primeira machadada dada por mãos que me parecem pouco seguras e trémulas nos Institutos criados.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Amândio de Azevedo* (PSD): Muito bem!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Amândio de Azevedo", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Em 12 de Outubro, e para que tudo apressadamente fique legalizado, aparece o Decreto-Lei n.º 304/78, que regulamenta a atribuição dos graus e diplomas do ensino superior, que diz no seu artigo 1.º: «As Universidades e os Institutos conferem os graus de licenciado, etc.», sem, em nossa opinião, invalidar a doutrina do Decreto-Lei n.º 649/76, mais concretamente o n.º 1 do artigo 2.º, que também atribui aos Institutos Politécnicos a faculdade de conceder licenciaturas e até doutoramentos.\nCom a mudança sucessiva de governos em que se entrou, do II para o III, deste para o IV, as ideias sobre a regionalização do ensino superior sofriam os seus efeitos.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Em 12 de Outubro, e para que tudo apressadamente fique legalizado, aparece o Decreto-Lei n.º 304/78, que regulamenta a atribuição dos graus e diplomas do ensino superior, que diz no seu artigo 1.º: «As Universidades e os Institutos conferem os graus de licenciado, etc.», sem, em nossa opinião, invalidar a doutrina do Decreto-Lei n.º 649/76, mais concretamente o n.º 1 do artigo 2.º, que também atribui aos Institutos Politécnicos a faculdade de conceder licenciaturas e até doutoramentos.\nCom a mudança sucessiva de governos em que se entrou, do II para o III, deste para o IV, as ideias sobre a regionalização do ensino superior sofriam os seus efeitos.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Os programas de governo quanto à educação sucediam-se, ora se adoptavam os planos que vinham dos anteriores governos, ora se lhe introduziam alterações que espíritos iluminados achavam por bem acrescentar mais alguma coisa ou suprimir, quantas vezes, o que era lógico e necessário, criando um autêntico estado de indefinição no sector.\nNovo governo, o III, e novo Ministro, Dr. Lloyd Braga, que, pelo Despacho n.º 300/78, de 12 de Outubro, resolve pura e simplesmente tomar medidas de fundo, que quanto a nós são ilegais por tal despacho, que consideramos também ilegal, contrariar frontalmente o Decreto-Lei n.º 649/76, nunca revogado e ainda por reconverter de facto os Institutos Politécnicos em escolas de ensino superior, criado pelo Decreto-Lei n.º 427-B/77, de 14 de Outubro, com a redacção dada pela Lei n.º 61/78, de 28 de Julho, que define como objectivos do mesmo ensino a formação de «profissionais qualificados de nível superior», associando estes mesmos objectivos ao artigo 4.º do Decreto-Lei n.º 402/73, de 11 de Agosto, que diz: «Os Institutos Politécnicos são centros de formação técnico-profissional, aos quais compete \nespecialmente ministrar o ensino superior de curta duração», etc.\nNo mesmo despacho, no seu n.º 4, anula, pura e simplesmente, o disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 649/76, de 31 de Julho, que não foi expressamente revogado pelo Decreto-Lei n.º 304/78, de 12 de Outubro, já citado, o que nos leva a aceitar, sem grande esforço, que esse ensino de curta duração citado no Decreto-Lei n.º 402/73 era, sem dúvida, bem diferente daquele que apareceu depois e que levou o Sr.Deputado Gonçalves Sapinho a dizer na sua intervenção aquando da discussão do Programa do III Governo:", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Porém, insiste (o Sr. Ministro Lloyd Braga) em recorrer, \nexclusivamente, ao ensino superior curto. Gostaríamos de saber o que é que o Governo entende por ensino superior curto. Trata-se da reedição dos antigos cursos médios, como parece ter sido objectivo do Ministério em determinada altura? Ou será qualquer coisa diferente? Qual o seu enquadramento no sistema de ensino superior? Qual o estatuto social dos diplomados por esses cursos? Quais os lugares da Administração Pública a que poderão ascender os diplomados pelo ensino superior curto? \nSem respostas concretas a estas perguntas, não faz sentido jogar na rede do ensino superior curto. É preciso atender às experiências fracassadas da Europa e evitar cair nos mesmos erros.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Ora, que me conste, ainda ninguém esclareceu convenientemente estas indefinições.\nMas com aquele despacho, sim, consegue o Sr. Dr. Lloyd Braga lançar os Institutos Politécnicos no tal ensino superior curto, ainda por definir.\nNão restam dúvidas de que se proeurou adaptar toda uma legislação que era clara quanto aos seus fins a planos preconcebidos que ainda não estavam convenientemente maduros e cujos objectivos só poderiam ser atingidos através de uma experiência váli-", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "I SÉRIE - NÚMERO 66", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "da e honesta realizada nos institutos em funcionamento.\nTalvez assim fosse mais fácil levar as cidades do interior a aceitarem um ensino superior curto que serviria para dar mais cultura, não nego, mas que os não livraria de um beco de difícil saída.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Mas foi mais longe o Sr. Dr. Lloyd Braga ao determinar que a Direcção-Geral do Ensino Superior e o Instituto de Acção Social Escolar, ouvidos os Institutos Politécnicos, no prazo de quarenta e cinco dias, elaborassem proposta concreta de apoio, nomeadamente através da concessão de bolsas, aos alunos que, tendo concluído os cursos professados nos Institutos Politécnicos, pretendam prosseguir estudos.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Com este n.º 5 do seu despacho manifesta um total desconhecimento da correlação dos cursos ministrados no IPVR e no Instituto Universitário de Évora.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Porquanto dos três cursos do Instituto Politécnico de Vila Real só tinha continuidade efectiva para obtenção de licenciatura o de Produção Animal, pois os restantes teriam de voltar atrás por falta de curso similar. Senão vejamos quais os cursos ministrados em Évora: \nPlaneamento Biofísico, Produção Animal, Produção Vegetal, Extensão Rural, Gestão de Empresas Agrícolas, Ciências Sociais e Tecnologia de Materiais.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Como pretenderia resolver o então Sr. Ministro o problema dos outros cursos? Não o sabemos nem creio que o dissesse.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Sr. Presidente, Srs. Deputados: Ao III Governo sucede o IV Governo, novo Ministro, novas ideias, nova regionalização do ensino, e o que ontem era ensino superior curto é hoje a mesma coisa, só que nos aparece com outra roupagem mais sofisticada.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "E a situação agrava-se porque certas pessoas responsáveis estão tomadas de unia obsessão tão grande que nada, nem ninguém, consegue demovê-las em relação aos mal nascidos Institutos Politécnicos.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Esta indefinição que se mantém ao longo destes últimos quatro anos leva as pessoas a pensarem que nada mudou.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Em Abril passado deslocaram-se ao Nordeste transmontano os titulares das pastas da Educação e Investigação Científica e da Agricultura e Pescas em visita oficial e de trabalho.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Abriu-se um clarão de esperança nos corações de todos os transmontanos, que esperavam ouvir daqueles governantes uma palavra de compreensão e, se possível, a solução para muitos problemas que os afectam.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Os alunos tentam ser recebidos pelo Sr. Ministro da Educação com o fim de lhe apresentarem, naturalmente, os seus problemas, mas não são recebidos.\nE as suas preocupações aumentam.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Não desistem, e à saída perguntam-lhe como aceitaria e pensava viabilizar uma possível lei que, saindo da Assembleia da República, venha a criar o Instituto Universitário de Trás-os-Montes e Alto Douro.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Só à terceira tentativa obtiveram uma resposta, que foi: Que o Governo era um órgão colegial e por isso não poderia responder isolado.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Perguntando ao Sr. Ministro do MAP qual seria a situação dos actuais bacharéis que se não viam contemplados pelo decreto regulamentar quanto às condições de recrutamento e provimento do pessoal dirigente dos quadros, que, pura e simplesmente, os esquecera, respondeu-lhes alguém, que acompanhava o Sr. Ministro, que não estava definida a sua situação e que o seu lugar nos quadros do MAP só poderia ser entre o pessoal técnico auxiliar.\nCausou espanto tal resposta, pois que tais cargos \nsão desempenhados por pessoas que têm como habilitação literária e profissional o 1.º e, em alguns casos, o 2.º ciclo liceal e mais dois anos das Escolas de Santo Tirso, Paiã e poucas mais do mesmo género. E então eles, com o 7.º ano dos liceus, com o ano cívico e mais quatro anos, incluindo o estágio, não poderiam ao menos ser equiparados aos bacharéis formados nas antigas escolas de regentes agrícolas? \nFace a estas situações, os alunos, os pais e os próprios professores vêem num ápice ruir todo o esforço, sacrifícios e trabalho \ndesenvolvidos ao longo dos últimos anos. Agita-se, muito justamente, a opinião pública. Sentem-se os transmontanos feridos e defraudados nas suas aspirações. Vêem prolongar-se por tempo indefinido o abandono a que sempre foram votados.\nOs alunos entram em greve, que não foi bem compreendida pelo Ministério.\nApresentam publicamente as razões da sua tomada de posição, e que são:", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "1.º A falta de regulamentação dos estágios; \n2.º A falta de definição da sua situação profissional, com a integração nos quadros técnicos do MAP; \n3.º Definição do estatuto da escola que lhes permita saber quais os graus académicos a conferir aos alunos do 1.º ano e qual a sua inserção no mercado do trabalho; \n4.º Prosseguimento dos estudos, etc.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Estes problemas ainda não tiveram qualquer solução ou resposta.\nA situação agudiza-se e encaminha o IPVR para um beco estreito e de difícil salda.\nA Comissão Instaladora, atenta às suas responsabilidades, em oficio dirigido em 21 de Maio de 1977 ao Sr. Director-Geral do Ensino Superior, alerta, com muita antecedência, nos seguintes termos:", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Estes problemas ainda não tiveram qualquer solução ou resposta.\nA situação agudiza-se e encaminha o IPVR para um beco estreito e de difícil salda.\nA Comissão Instaladora, atenta às suas responsabilidades, em oficio dirigido em 21 de Maio de 1977 ao Sr. Director-Geral do Ensino Superior, alerta, com muita antecedência, nos seguintes termos:", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Dentro de poucas semanas vão os alunos dos cursos professados neste Instituto terminar o seu 2.º ano de escolaridade e iniciar o último ano do curso para obtenção do respectivo bacharelato. Nestas condições, e de harmonia com o disposto no oficio n.º MA-13/1/475, de 18 de Abril de 1977, dessa Direcção-Geral, aguarda esta Comissão Instaladora que a definição procurada seja encontrada em colaboração com os Ministérios competentes, pois a sua indefinição causará dificuldades graves, que devemos prevenir em tempo oportuno.\nA Comissão Instaladora, reunida em 21 de Maio de 1977, deu a sua total concordância às considerações apresentadas e aproveita para", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "26 DE MAIO DE 1979", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "acrescentar as suas preocupações no tocante à indefinição da futura situação profissional dos seus alunos, sugerindo ainda que a designação a adoptar e a definir em diploma legal por esse Ministério seja a de Instituto Universitário de Vila Real.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Face à situação, que se foi degradando ao longo dos anos, pareceu-nos que a única solução seria procurar resolvê-la através do órgão que tinha e tem plenos poderes para o fazer, e que é a Assembleia da República.\nAssim, o PSD apresentou nesta Assembleia o seu projecto de lei n.º 131/I, que acabamos de justificar, colocando-o, confiados no alto espírito de justiça que sempre tem presidido no apoio das coisas justas, à consideração de VV. Ex.ªs \nAntes de terminar, resta-me expressar aqui uma palavra de muita simpatia para todos os elementos da subcomissão, que se deslocou a Vila Real, pela isenção e honestidade como elaborou o seu relatório, que não foi lido porque a Assembleia dispensou a sua leitura, que no plenário da Comissão de Educação Ciência e Cultura mereceu voto unânime.\nSr. Presidente, Srs. Deputados: Deixo nas mãos de VV. Ex.ªs as preocupações e os anseios de todo um povo que continua a sofrer o isolamento a que tem sido votado ao longo dos tempos e contra o qual reage na esperança de que será encontrada a melhor e mais justa solução.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Aplausos do PSD, dos Deputados independentes sociais-democratas e de alguns Deputados do CDS.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Sr. Presidente - Tem a palavra o Sr. Deputado Pedro Roseta.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Pedro Roseta* (PSD): Sr. Presidente, Srs. Deputados: Foram duas as razões fundamentais que levaram o PSD a apresentar os projectos de lei n.º 131/I e 133/I, sobre a criação dos Institutos Universitários de Trás-os-Montes e Alto Douro e da Beira Interior. As mesmas razões, cada vez mais prementes, obrigaram-nos a utilizar o direito regimental, que queremos ver cumprido, da fixação da ordem do dia para conseguir a discussão e votação destes dois projectos de lei ainda nesta sessão legislativa.\nE essas razões são a permanência da intolerável - repito, intolerável - distribuição das instituições de ensino universitário em Portugal e a necessidade de urgentemente começar a modificá-la, a urgência de reconverter duas instituições vivas, mas ameaçadas no seu futuro por legislação e regulamentação censuráveis, oriundas dos sucessivos governos: os Institutos Politécnicos de Vila Real e da Covilhã.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Pedro Roseta", 
+   "text": "Sr. Presidente, Srs. Deputados: Foram duas as razões fundamentais que levaram o PSD a apresentar os projectos de lei n.º 131/I e 133/I, sobre a criação dos Institutos Universitários de Trás-os-Montes e Alto Douro e da Beira Interior. As mesmas razões, cada vez mais prementes, obrigaram-nos a utilizar o direito regimental, que queremos ver cumprido, da fixação da ordem do dia para conseguir a discussão e votação destes dois projectos de lei ainda nesta sessão legislativa.\nE essas razões são a permanência da intolerável - repito, intolerável - distribuição das instituições de ensino universitário em Portugal e a necessidade de urgentemente começar a modificá-la, a urgência de reconverter duas instituições vivas, mas ameaçadas no seu futuro por legislação e regulamentação censuráveis, oriundas dos sucessivos governos: os Institutos Politécnicos de Vila Real e da Covilhã.\nVozes do PSD. - Muito bem!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PSD. - Muito bem!", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Sr. Presidente, Srs. Deputados: Os Deputados \nsociais-democratas, incluindo eu próprio, têm chamado a atenção para uma das mais graves discriminações que permanece na sociedade portuguesa e que se vem agravando: a diferença de possibilidades de acesso ao ensino superior, em particular, e à cultura e à ciência, em geral, logo a uma vida melhor, entre os que vivem numa faixa litoral relativamente estreita e os que habitam no vasto interior, \ndesignadamente nos distritos de Vila Real, Bragança Guarda, Castelo Branco e mesmo Viseu. Como se sabe, as Universidades existente, incluindo as mais recentemente criadas, concentram-se na primeira das áreas referidas. Daqui resulta uma discriminação regional insuportável no acesso às referidas instituições. É hoje praticamente impossível, com a acção social escolar existente, à generalidade das famílias que habitam nas áreas do interior a manutenção de um dos seus filhos nas cidades do litoral durante o número médio de anos necessário à conclusão de qualquer curso universitário. Exceptuam-se, é evidente, alguns privilegiados, o que nos pode levar a concluir que da discriminação regional referida resulta o agravamento real das discriminações económicas e sociais existentes no tecido social português no acesso ao ensino superior.\n0 meu companheiro Pires Fontoura acaba de se ocupar do caso concreto das regiões transmontana e alto-duriense. Vejamos agora o que sucede mais concretamente com o conjunto dos distritos de Castelo Branco e da Guarda.\nCom uma população de cerca de meio milhão de habitantes, cerca de 6 % da população total do continente, ocupando 14 % da sua superfície, é a região mais populosa do interior. É rica, como sabem, em \npotencialidades agro-pecuárias, florestais, mineiras, turísticas e mesmo industriais. São conhecidos o interesse paisagístico das suas serras e o interesse cultural dos seus monumentos e conjuntos populacionais, como Idanha-a-Velha, Monsanto, Sabugal, Almeida, Castelo Rodrigo, Trancoso, Belmonte, Sortelha e tantos outros, sem esquecer as próprias capitais dos distritos, claro está.\nEm 1975 havia 9224 estudantes no ensino secundário no distrito de Castelo Branco e 7313 no da Guarda. Estas duas cidades têm, aliás, antigas tradições académicas de que muito se honram. 0 número de alunos que naquele ano terminaram os cursos daquele grau de ensino (733), hoje já ultrapassado, é mesmo superior ao de outros distritos localizados em regiões onde já existem Universidades. Anote-se desde já que se todos os alunos que concluem cursos secundários pudessem prosseguir estudos, considerando cursos com a duração média de cinco anos, haveria já em 75 cerca de 3700 alunos possíveis ou candidatos para uma instituição universitária. Mas haveria que somar-lhe outros provenientes de um aumento de população entretanto verificado pelo afluxo de retornados e o estancar da emigração. Além disso, a percentagem do grupo etário com acesso ao ensino superior deveria ir subindo. De acordo com os padrões europeus, tenderia para 10 %. Ora, o grupo etário compreendido entre os 18 e os 24 anos era naquela altura, na região, de 57 000 indivíduos, sendo hoje bastante superior pelas razões aduzidas.\nPode, pois, concluir-se que há já hoje na Beira interior uma potencial população de cinco a oito mil estudantes candidato ao ensino superior.\nOra dentro destes parâmetros se situa exactamente a dimensão óptima de uma Universidade, que não pode funcionar rentavelmente nem com um número de estudantes inferior a quatro milhares, nem com mais de dez milhares. As universidades com vinte ou trin-", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Sr. Presidente, Srs. Deputados: Os Deputados \nsociais-democratas, incluindo eu próprio, têm chamado a atenção para uma das mais graves discriminações que permanece na sociedade portuguesa e que se vem agravando: a diferença de possibilidades de acesso ao ensino superior, em particular, e à cultura e à ciência, em geral, logo a uma vida melhor, entre os que vivem numa faixa litoral relativamente estreita e os que habitam no vasto interior, \ndesignadamente nos distritos de Vila Real, Bragança Guarda, Castelo Branco e mesmo Viseu. Como se sabe, as Universidades existente, incluindo as mais recentemente criadas, concentram-se na primeira das áreas referidas. Daqui resulta uma discriminação regional insuportável no acesso às referidas instituições. É hoje praticamente impossível, com a acção social escolar existente, à generalidade das famílias que habitam nas áreas do interior a manutenção de um dos seus filhos nas cidades do litoral durante o número médio de anos necessário à conclusão de qualquer curso universitário. Exceptuam-se, é evidente, alguns privilegiados, o que nos pode levar a concluir que da discriminação regional referida resulta o agravamento real das discriminações económicas e sociais existentes no tecido social português no acesso ao ensino superior.\n0 meu companheiro Pires Fontoura acaba de se ocupar do caso concreto das regiões transmontana e alto-duriense. Vejamos agora o que sucede mais concretamente com o conjunto dos distritos de Castelo Branco e da Guarda.\nCom uma população de cerca de meio milhão de habitantes, cerca de 6 % da população total do continente, ocupando 14 % da sua superfície, é a região mais populosa do interior. É rica, como sabem, em \npotencialidades agro-pecuárias, florestais, mineiras, turísticas e mesmo industriais. São conhecidos o interesse paisagístico das suas serras e o interesse cultural dos seus monumentos e conjuntos populacionais, como Idanha-a-Velha, Monsanto, Sabugal, Almeida, Castelo Rodrigo, Trancoso, Belmonte, Sortelha e tantos outros, sem esquecer as próprias capitais dos distritos, claro está.\nEm 1975 havia 9224 estudantes no ensino secundário no distrito de Castelo Branco e 7313 no da Guarda. Estas duas cidades têm, aliás, antigas tradições académicas de que muito se honram. 0 número de alunos que naquele ano terminaram os cursos daquele grau de ensino (733), hoje já ultrapassado, é mesmo superior ao de outros distritos localizados em regiões onde já existem Universidades. Anote-se desde já que se todos os alunos que concluem cursos secundários pudessem prosseguir estudos, considerando cursos com a duração média de cinco anos, haveria já em 75 cerca de 3700 alunos possíveis ou candidatos para uma instituição universitária. Mas haveria que somar-lhe outros provenientes de um aumento de população entretanto verificado pelo afluxo de retornados e o estancar da emigração. Além disso, a percentagem do grupo etário com acesso ao ensino superior deveria ir subindo. De acordo com os padrões europeus, tenderia para 10 %. Ora, o grupo etário compreendido entre os 18 e os 24 anos era naquela altura, na região, de 57 000 indivíduos, sendo hoje bastante superior pelas razões aduzidas.\nPode, pois, concluir-se que há já hoje na Beira interior uma potencial população de cinco a oito mil estudantes candidato ao ensino superior.\nOra dentro destes parâmetros se situa exactamente a dimensão óptima de uma Universidade, que não pode funcionar rentavelmente nem com um número de estudantes inferior a quatro milhares, nem com mais de dez milhares. As universidades com vinte ou trin-", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "O Orador", 
    "text": "2370  I SÉRIE - NÚMERO 66", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "ta mil discentes, ou até mais, como existem no litoral português, são cancros, são aberrações, que quase já só existem em certos países do Sul da Europa, como a Itália, e ai se podem ver os resultados desse facto, mas que tendem a desaparecer, pois são impossíveis de gerir convenientemente, são um desperdício de recursos e são inadequados para a criação de um ambiente propicio à investigação e ao estudo.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Mas haverá, como alguns pretendem, Universidades a mais em Portugal? Já em anterior intervenção demonstrei que não, pois mesmo a nível nacional é insignificante a percentagem da população que teve acesso à Universidade, segundo os padrões europeus. 0 que há, sim, mas é muito diferente, é uma má distribuição por cursos e uma total inexistência de determinadas especialidades - aliás numerosas, e não se julgue que são apenas especialidades marginais -, que provoca um excesso de diplomados num ou outro sector, uma ausência total de diplomados em determinadas especialidades em Portugal, e nada mais.\nRefira-se ainda que qualquer país europeu, mesmo com população mais reduzida que a nossa, tem um número superior de Universidades e sempre muito melhor distribuídas no território. E sobre isto nem vale a pena falar do exemplo dos Estados federados ou das províncias que compõem os Estados Unidos ou o Canadá ...\nEstá a pirâmide dos diplomados pelo ensino superior em Portugal invertida, como outros dizem? Precisará só o País de novas instituições intermédias, voltada para a formação de técnicas viradas para «a prática»? \nEm primeiro lugar, manifesto a minha estranheza perante a ideia de que os graduados pelas Universidades seriam uns teóricos, condenados a estarem desligados da vida prática. Estranha concepção esta de ensino superior que admite a incompatibilidade na mesma escola dos aspectos «práticos» e «teóricos». Como se pudesse haver instituições superiores desligadas dos problemas teóricos, e o que ainda seria mais espantoso, que estivessem desligadas da sociedade, do seu serviço ...", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: 0 PSD não condena outros tipos de ensino superior não universitário, como já aqui repetidamente afirmei. Aceitamos mesmo, ao contrário de outros, que haja grande diversificação entre as instituições de ensino superior, públicas e particulares, que superem o binómio rígido e estanque Universidades, por um lado, escolas de ensino superior curto, por outro, que a burocracia do Ministério da Educação e Investigação Cientifica quer impor aos Portugueses. Por isso temos sempre defendido, entre outras coisas, a subsistência e desenvolvimento dos Institutos Superiores de Economia e dos Institutos Superiores de Contabilidade e Administração.\nNão somos também, repito, contra o lançamento do ensino superior curto, desde que este não seja um ensino médio disfarçado e se transforme num beco sem salda.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "0 PSD não condena outros tipos de ensino superior não universitário, como já aqui repetidamente afirmei. Aceitamos mesmo, ao contrário de outros, que haja grande diversificação entre as instituições de ensino superior, públicas e particulares, que superem o binómio rígido e estanque Universidades, por um lado, escolas de ensino superior curto, por outro, que a burocracia do Ministério da Educação e Investigação Cientifica quer impor aos Portugueses. Por isso temos sempre defendido, entre outras coisas, a subsistência e desenvolvimento dos Institutos Superiores de Economia e dos Institutos Superiores de Contabilidade e Administração.\nNão somos também, repito, contra o lançamento do ensino superior curto, desde que este não seja um ensino médio disfarçado e se transforme num beco sem salda.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "O Sr. *Amândio de Azevedo* (PSD): -, Muito bem!", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Só que nunca poderemos aceitar, e é bom que o repita mais uma vez, a tentativa que o MEIC, certamente sem sucesso, vem desenvolvendo de criar nas regiões do interior apenas estabelecimentos de ensino curto, enquanto nas do litoral coexistirão os dois tipos de instituição.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Só que nunca poderemos aceitar, e é bom que o repita mais uma vez, a tentativa que o MEIC, certamente sem sucesso, vem desenvolvendo de criar nas regiões do interior apenas estabelecimentos de ensino curto, enquanto nas do litoral coexistirão os dois tipos de instituição.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: 0 nosso projecto de lei rebela-se contra tal desiderato. No interior, como no litoral mais tarde ou mais cedo, haverá \nnecessariamente os dois tipos de ensino superior ...", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "0 nosso projecto de lei rebela-se contra tal desiderato. No interior, como no litoral mais tarde ou mais cedo, haverá \nnecessariamente os dois tipos de ensino superior ...", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Amândio de Azevedo* (PSD): Muito bem!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Amândio de Azevedo", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: ... caso contrário, uma discriminação inapagável, injusta e ofensiva, seria estabelecida por décadas entre nós.\nOra, a verdade é que a tal pirâmide de que falei não está tão invertida como se pretende, embora tenha distorções que são evidentes. Se analisarmos a distribuição no ensino superior dos estudantes dos países de Europa democrática, verificamos que, tirando o caso especial da Inglaterra, a percentagem de estudantes que procuram o ensino não universitário é pequena. A taxa de crescimento do número desses estudantes é, nos últimos anos, maior no ensino universitário que no ensino não universitário, onde, nalguns países, tem chegado até a diminuir.\nFinalmente, importa referir que, a menos que se utilize a força, o ensino curto não terá procura entre nós enquanto não se souber o que é na prática, quais as profissões a que dá acesso, qual a qualidade da formação.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "... caso contrário, uma discriminação inapagável, injusta e ofensiva, seria estabelecida por décadas entre nós.\nOra, a verdade é que a tal pirâmide de que falei não está tão invertida como se pretende, embora tenha distorções que são evidentes. Se analisarmos a distribuição no ensino superior dos estudantes dos países de Europa democrática, verificamos que, tirando o caso especial da Inglaterra, a percentagem de estudantes que procuram o ensino não universitário é pequena. A taxa de crescimento do número desses estudantes é, nos últimos anos, maior no ensino universitário que no ensino não universitário, onde, nalguns países, tem chegado até a diminuir.\nFinalmente, importa referir que, a menos que se utilize a força, o ensino curto não terá procura entre nós enquanto não se souber o que é na prática, quais as profissões a que dá acesso, qual a qualidade da formação.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Deixo de lado alguns pretensos argumentos contra os nossos projectos, que, pelo seu ridículo, nem merecem resposta. Houve até quem afirmasse que o PSD queria abrir Universidades em cada vila, e por que não em cada esquina, com intenções eleitorais, mas o que é facto é que os nossos projectos de lei foram apresentados no início desta sessão legislativa que agora se aproxima do fim, foram estudados, tiveram um parecer favorável de uma subcomissão desta Assembleia e da própria Comissão de Educação, Ciência e Cultura, foram as instituições referidas visitadas, tendo sido feito um trabalho sério e de análise dos problemas, e nenhum outro projecto de lei se lhes seguiu - o que demonstra que havia uma necessidade, que era sentida pelas populações, da existência destas instituições e não de outras.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Deixo de lado alguns pretensos argumentos contra os nossos projectos, que, pelo seu ridículo, nem merecem resposta. Houve até quem afirmasse que o PSD queria abrir Universidades em cada vila, e por que não em cada esquina, com intenções eleitorais, mas o que é facto é que os nossos projectos de lei foram apresentados no início desta sessão legislativa que agora se aproxima do fim, foram estudados, tiveram um parecer favorável de uma subcomissão desta Assembleia e da própria Comissão de Educação, Ciência e Cultura, foram as instituições referidas visitadas, tendo sido feito um trabalho sério e de análise dos problemas, e nenhum outro projecto de lei se lhes seguiu - o que demonstra que havia uma necessidade, que era sentida pelas populações, da existência destas instituições e não de outras.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: É que, além do mais, havia a segunda razão fundamental para tal apresentação a que me referi de inicio: a salvação de duas instituições que tinham dado as suas provas e que, partindo desse núcleo inicial, poderão com gradualismo e realismo - já que não fazem Universidades por decreto - ir-se desenvolvendo ao longo de décadas,", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "É que, além do mais, havia a segunda razão fundamental para tal apresentação a que me referi de inicio: a salvação de duas instituições que tinham dado as suas provas e que, partindo desse núcleo inicial, poderão com gradualismo e realismo - já que não fazem Universidades por decreto - ir-se desenvolvendo ao longo de décadas,", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "26 DE MAIO DE 1979 2371", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "porventura ao longo de gerações, até se tornarem Universidades completas.\nE nada disto nos pode espantar, pois tal sucedeu com todas as Universidades existentes ao longo da história, salvo raríssimas excepções de países super-desenvolvidos ou de sociedades \npós-industriais que se podem dar ao luxo de fazer Universidades de raiz em poucos anos. Mas estas são excepções raras, pois as Universidades começaram por ser embriões, pequenos núcleos de dois ou três cursos desde os tempos medievais, e mesmo as que foram criadas posteriormente foram-se completando ao longo dos tempos como resposta às necessidades da sociedade, quer da comunidade nacional, quer das comunidades regionais.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Por mim, expor-vos-ei para terminar, sucintamente, o caso do Instituto Politécnico da Covilhã.\nCriado pelo Decreto-Lei n.º 402/73, de 11 de Agosto, só teve a sua comissão instaladora nomeada em fins de Setembro de 1974, já depois do 25 de Abril. A legislação aplicada ao recrutamento do pessoal docente foi sempre o Decreto-Lei n.º 132/70, expressamente publicado para a carreira docente universitária.\nIniciou as suas actividades lectivas em Fevereiro de 1975, com os cursos de Engenharia Têxtil e Administração e Contabilidade, que eram coroados pela atribuição do grau de bacharel, e em Outubro de 1976 arrancou com dois cursos de formação integrada de professores para os ensinos preparatório e secundário - Matemática e Físico-Quimica com Ciências da Educação.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Por mim, expor-vos-ei para terminar, sucintamente, o caso do Instituto Politécnico da Covilhã.\nCriado pelo Decreto-Lei n.º 402/73, de 11 de Agosto, só teve a sua comissão instaladora nomeada em fins de Setembro de 1974, já depois do 25 de Abril. A legislação aplicada ao recrutamento do pessoal docente foi sempre o Decreto-Lei n.º 132/70, expressamente publicado para a carreira docente universitária.\nIniciou as suas actividades lectivas em Fevereiro de 1975, com os cursos de Engenharia Têxtil e Administração e Contabilidade, que eram coroados pela atribuição do grau de bacharel, e em Outubro de 1976 arrancou com dois cursos de formação integrada de professores para os ensinos preparatório e secundário - Matemática e Físico-Quimica com Ciências da Educação.", 
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Pelo Decreto-Lei n.º 649/76, de 31 de Julho, os Institutos Politécnicos passaram a poder conferir licenciaturas e, em certas condições, até doutoramentos. E chamo a vossa atenção para o facto de estes Institutos, que hoje, ao que parece, se pretende que não possam conceder nenhum grau - nem sequer o bacharelato, que foi extinto por um diploma que foi aqui já muito discutido -, a partir de 31 de Julho de 1976, por decreto-lei, passaram a poder conferir licenciaturas e mesmo, em certas condições, até doutoramentos.\nO I Governo Constitucional, pela voz do seu Secretário de Estado do Ensino Superior, chegou a anunciar, em Setembro de 1977, em sessão pública realizada na Covilhã, a transformação dos Institutos Politécnicos em Institutos Universitários, mas nada disto veio a suceder.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Em Julho de 1978, o Decreto-Lei n.º 183/78 homologou vários cursos professados nos novos estabelecimentos de ensino superior e determinou que a partir de 1978-1979 não seriam permitidas novas matriculas nesses cursos, devendo os bacharelatos ser ministrados apenas até ao final do ano lectivo de 1980-1981. Era, por assim dizer, uma raça com extinção marcada para 1981.\nNo Verão passado, um relatório do MEIC advogava a conversão dos Institutos Politécnicos em escolas de ensino superior curto.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Finalmente, pelo Despacho n.º 300/78, já de Outubro, o III Governo Constitucional admitia que os Institutos Politécnicos poderiam reabrir as matrículas para novos alunos, mas já como escolas de ensino superior curto. Esta «machadada» dada pelo III Governo Constitucional foi a «machadada» final nos Institutos Politécnicos e, paralelamente, o Decreto-Lei n.º 304/78 extinguiu em Portugal o grau de bacharel.\nTudo isto provocou uma queda brusca nas matrículas no Instituto Politécnico da Covilhã e uma total indefinição no futuro da escola.\nAliás, isso explica-se pelas contradições, não vale a pena repeti-las, em que em poucos anos, diria mesmo em poucos meses, se caiu e a insegurança que elas vieram trazer aos professores, aos alunos e mesmo à própria região. Assim, no intervalo de dois anos, primeiro admite-se que uma escola pode conceder a licenciatura e mesmo, em certos casos, o doutoramento e depois essa mesma escola vê-se reduzida à perspectiva de não conceder qualquer grau e ser transformada numa escola de ensino superior curto - escolas estas que ainda não existem em Portugal.\nCom efeito, tudo isto provocou uma total indefinição no futuro destas escolas e o risco de se perder um enorme trabalho de mais de quatro anos - que eu nem resumidamente posso dar uma ideia do que foi -, mas há documentos nesta Assembleia, todos os grupos parlamentares os possuem, e sobre os quais a Comissão de Educação, Ciência e Cultura e a sua subcomissão se debruçaram in loco e aqui.\nAliás, aproveito para destacar o magnífico trabalho de uma equipa de docentes, o entusiasmo dos estudantes e o espírito de equipa de uma verdadeira escola ligada à região que, aquando do estudo dos problemas in loco, encontrámos, e não podemos esquecer, evidentemente, o apoio que nos foi dado pela Câmara Municipal. Permito-me ainda destacar, em especial, a pessoa do primeiro director do Instituto Politécnico da Covilhã, Dr. Duarte Simões, que foi um animador incansável deste projecto colectivo e que agora, infelizmente, se encontra gravemente doente, mas que todos esperamos ver restabelecido para poder ainda trabalhar no Instituto, já convertido em Instituto Universitário.\nForam todos estes motivos, todas estas indefinições e contradições, toda a injustiça e discriminação que se praticou entre o interior e o litoral que justificaram o nosso projecto de lei e nada mais. E não apresentámos outro porque havia duas realidades vivas, uma em Vila Real e outra na Covilhã. Havia duas instituições que tinham dinheiro investido dos contribuintes e nas quais se havia formado um espírito e desenvolvido muito trabalho, ao longo de quatro anos, que se corria o risco de perder.\nMas de todo esse trabalho reza o relatório da subcomissão que visitou o Instituto da Covilhã em Janeiro último, aprovado pelo plenário da Comissão e que, infelizmente, por motivo de falta de tempo, não pôde ser lido, mas para o qual chamo a vossa atenção.\nNão vou repetir o que dele consta, mas não resisto a transcrever uma passagem, porque uma das críticas que têm sido feitas a estes Institutos é sobre o baixo nível dos docentes:", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "Verificando os currículo dos professores, podemos inferir da alta qualidade de habilitações do corpo docente, que possui um considerável", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "2372 I SÉRIE - NÚMERO 66", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
+   "speaker": "O Orador", 
    "text": "elenco de professores catedráticos, doutores e especialistas. À Covilhã se deslocam professores de Universidades Portuguesas e estrangeiras.\nIsto consta do relatório da Comissão de Educação, Ciência e Cultura, que será publicado, e então todos os Srs. Deputados poderão ler o que pôde ser testemunhado pelos Deputados que estiveram no Instituto.\nAliás, o Instituto da Covilhã não só tem diversos professores catedráticos e doutorados, como tem inúmeros doutorandos, a preparar o seu doutoramento no País e no estrangeiro, como consta também dos documentos entregues à Comissão.\nAlém disto, acrescenta-se ainda que o Instituto tem já acordos de cooperação firmados com diversas instituições de ensino universitário estrangeiras, nomeadamente com a vizinha Universidade de Salamanca, bem como com os Institutos de Engenheiros Industriais de Tarrassa e Mulhouse. O Instituto tem, portanto, capacidade para atribuir licenciatura nos dois cursos que vêm sendo leccionados, e é isso que está imediatamente em causa.\nO PSD não se pronuncia, no seu projecto de lei, quanto às áreas de desenvolvimento possível do Instituto Universitário - pois não é matéria de uma lei a determinação dos cursos -, mas apontamos para a possibilidade que ele tem de se expandir pelos centros urbanos da região. Assim, os cursos nele professados devem ser criados pelo Governo de acordo com a evolução da comunidade e com as necessidades que se vão desenvolvendo ao longo dos anos.\nTambém a sede definitiva do Instituto Universitário não deve constar do texto da lei e apresentaremos uma proposta de alteração no sentido de que venha a ser determinada depois de ouvidas as localidades interessadas e respeitados os interesses locais.\nSr. Presidente, Srs. Deputados: Estamos, evidentemente, abertos a todas as melhorias, pois admitimos que o articulado pode ser substancialmente modificado e melhorado, mas não haja ilusões, não é aí que reside o cerne da questão. Aliás, professores e alunos já nos ajudaram a melhorar o diploma, e a própria imprensa regional contribuiu para o esclarecimento do problema, com críticas e sugestões - e destaco o jornal Notícias da Covilhã e o jornal Reconquista, que organizou um interessantíssimo debate em Castelo Branco.\nMas o que importa, sobretudo, é resolver esta situação e assegurar a democratização do ensino. E sem ensino universitário e sem ensino superior curto, a criar gradual e progressivamente, não há igualdade de oportunidades entre o litoral e o interior. Tudo o que se diga em contrário é mera proclamação, vazia de sentido, porque o Estado não tem de forma alguma capacidade sequer para conseguir para toda a população dos cinco distritos do interior que citei uma igualdade absoluta, com superação das discriminações económicas existentes no acesso às Universidades do litoral.\nImporta salvar uma instituição em que a esmagadora maioria dos estudantes são trabalhadores ou filhos de trabalhadores da indústria de lanifícios da área.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Guerreiro Norte* (PSD): Muito bem!", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Guerreiro Norte", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Este é um dado que ainda não foi referido e uma situação que não acontece em nenhuma Universidade portuguesa - mais de metade dos estudantes do Instituto Politécnico da Covilhã são filhos de trabalhadores da indústria da área, da agricultura ou dos serviços, ou são eles próprios trabalhadores, isto foi claramente elucidado durante a visita dos membros da subcomissão.\nPortanto, este Instituto é já hoje um foco de permeabilidade social, ê uma forma de ultrapassar determinadas barreiras económicas, sociais e culturais.\nPor outro lado, este Instituto conseguiu, como já referi, um ambiente exemplar de trabalho em equipa entre professores e estudantes e lançou mesmo alguns programas de investigação cientifica, o que não deixa de ser espantoso numa instituição com tão curta vida e que pode ser até um estímulo para as Universidades «velhas». Aliás, nós entendemos que a troca de experiências entre as Universidades novas e velhas é importante, afim de se enriquecerem mutuamente, salvaguardadas as diferenças das respectivas posições no território.\nSr. Presidente, Srs. Deputados: O que importa, sobretudo, é resolver o problema que contradições, aqui amplamente demonstradas, criaram, apesar de os sucessivos governos terem tomado atitudes divergentes, mas permanecendo sempre, no fundo, uma hostilidade da alta burocracia do Ministério - como aconteceu com o Instituto Superior de Economia, Contabilidade e Administração - contra estas instituições.\nMas estas contradições, que aqui ficam amplamente demonstradas, foram as culpadas da actual situação, que, inclusivamente, violou, escandalosamente, direitos adquiridos e expectativas legítimas de estudantes, pois estes entraram no Instituto ao abrigo de um decreto-lei de Julho de 1976, no qual se previa a possibilidade de esse mesmo Instituto conferir graus de licenciatura, e no fim do seu curso vêem-se ou com o bacharelato ou apenas com um diploma e sem nenhum grau. Isto é uma violação grosseira, quer de direitos adquiridos, quer de expectativas legítimas.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Este é um dado que ainda não foi referido e uma situação que não acontece em nenhuma Universidade portuguesa - mais de metade dos estudantes do Instituto Politécnico da Covilhã são filhos de trabalhadores da indústria da área, da agricultura ou dos serviços, ou são eles próprios trabalhadores, isto foi claramente elucidado durante a visita dos membros da subcomissão.\nPortanto, este Instituto é já hoje um foco de permeabilidade social, ê uma forma de ultrapassar determinadas barreiras económicas, sociais e culturais.\nPor outro lado, este Instituto conseguiu, como já referi, um ambiente exemplar de trabalho em equipa entre professores e estudantes e lançou mesmo alguns programas de investigação cientifica, o que não deixa de ser espantoso numa instituição com tão curta vida e que pode ser até um estímulo para as Universidades «velhas». Aliás, nós entendemos que a troca de experiências entre as Universidades novas e velhas é importante, afim de se enriquecerem mutuamente, salvaguardadas as diferenças das respectivas posições no território.\nSr. Presidente, Srs. Deputados: O que importa, sobretudo, é resolver o problema que contradições, aqui amplamente demonstradas, criaram, apesar de os sucessivos governos terem tomado atitudes divergentes, mas permanecendo sempre, no fundo, uma hostilidade da alta burocracia do Ministério - como aconteceu com o Instituto Superior de Economia, Contabilidade e Administração - contra estas instituições.\nMas estas contradições, que aqui ficam amplamente demonstradas, foram as culpadas da actual situação, que, inclusivamente, violou, escandalosamente, direitos adquiridos e expectativas legítimas de estudantes, pois estes entraram no Instituto ao abrigo de um decreto-lei de Julho de 1976, no qual se previa a possibilidade de esse mesmo Instituto conferir graus de licenciatura, e no fim do seu curso vêem-se ou com o bacharelato ou apenas com um diploma e sem nenhum grau. Isto é uma violação grosseira, quer de direitos adquiridos, quer de expectativas legítimas.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: Importa dar uma resposta clara a esta esperança, se não quisermos que se transforme em frustração de milhares de jovens.\nSr. Presidente, Srs. Deputados: Os sociais-democratas estão certos de que esta Assembleia não deixará de dar uma resposta positiva e clara a esta solicitação.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Importa dar uma resposta clara a esta esperança, se não quisermos que se transforme em frustração de milhares de jovens.\nSr. Presidente, Srs. Deputados: Os sociais-democratas estão certos de que esta Assembleia não deixará de dar uma resposta positiva e clara a esta solicitação.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PSD e do Sr. Deputado do CDS Alexandre Reigoto.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, estão inscritos para pedir esclarecimentos ao Sr. Deputado Pedro Roseta os Srs. Deputados Gomes Carneiro, Teresa Ambrósio e Zita Seabra. No entanto, dado o adiantado da hora, ficam com a palavra reservada para a próxima sessão.\nA próxima reunião é na segunda-feira, às 16 horas e 30 minutos, e a ordem de trabalhos é a que estava agendada para hoje e não foi discutida.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, estão inscritos para pedir esclarecimentos ao Sr. Deputado Pedro Roseta os Srs. Deputados Gomes Carneiro, Teresa Ambrósio e Zita Seabra. No entanto, dado o adiantado da hora, ficam com a palavra reservada para a próxima sessão.\nA próxima reunião é na segunda-feira, às 16 horas e 30 minutos, e a ordem de trabalhos é a que estava agendada para hoje e não foi discutida.\n26 DE MAIO DE 1979", 
+   "type": "presidente"
   }, 
   {
-   "text": "26 DE MAIO DE 1979", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "Presidente", 
    "text": "Deu entrada na Mesa, durante a reunião de hoje, a proposta de lei n.º 250/I, sobre benefícios fiscais a conceder a sociedades de investimento e seus sócios e às sociedades de locação financeira e empresas locatárias.\nEstá encerrada a sessão.\n_Eram 13 horas_.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Deputados que entraram durante a sessão", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS) \nAgostinho Martins do Vale.\nAlbano Pereira da Cunha Pina.\nAlberto Marques Antunes.\nAntónio Chaves Medeiros.\nAntónio Fernandes da Fonseca.\nAntónio José Sanches Esteves.\nArmando F. C. Pereira Bacelar.\nArmando dos Santos Lopes.\nAvelino Ferreira Loureiro Zenha.\nJoão Alfredo Félix Vieira Lima.\nJoaquim Oliveira Rodrigues.\nJosé dos Santos Francisco Vidal.\nJosé Gomes Fernandes.\nJosé Manuel Niza Antunes Mendes.\nJosé M. de Albuquerque de A. Leitão.\nLuis Alfredo Cardoso Monteiro.\nMaria Emília de Melo Moreira da Silva.\nMaria de Jesus Simões Barroso Soares.\nMaria Teresa Vieira Bastos R. Ambrósio.\nRodolfo Alexandrino Suzano Crespo.\nVictor Fernandes de Almeida.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Afonso de Sousa Freire de Moura Guedes.\nAntónio Augusto Lacerda de Queiroz.\nCristóvão Guerreiro Norte.\nFernando José da Costa.\nJosé Bento Gonçalves.\nJosé Theodoro de Jesus da Silva.\nMaria Helena do Rego da Costa S. Roseta.\nNicolau Gregório de Freitas.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Adelino Manuel Lopes Amaro da Costa.\nÂngelo Alberto Ribas da Silva Vieira.\nAntónio Jacinto Martins Canaverde.\nCarlos Alberto Faria de Almeida.\nJoão Lopes Porto.\nJosé Luís R. de Albuquerque Christo.\nJosé Vicente J. Carvalho Cardoso.\nManuel A. de A. de Azevedo e Vasconcelos.\nMaria José Paulo Sampaio.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Carlos Alfredo de Brito.\nCarlos H. S. Aboim Inglez.\nDomingos Abrantes Pereira.\nJoaquim Comes dos Santos.\nManuel Mendes Nobre de Gusmão.\nZita Maria de Seabra Roseiro.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "2373", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Independentes", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Américo de Sequeira.\nAntónio Augusto Gonçalves.\nCarmelinda Maria dos Santos Pereira.\nFernando Adriano Pinto.\nFrancisco Braga Barroso.\nJosé Alberto Ribeiro.\nManuel Cardoso Vilhena de Carvalho.\nManuel Cunha Rodrigues.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Deputados que faltaram à sessão", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Socialista (PS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Alfredo Fernando de Carvalho.\nAntónio Fernando Marques Ribeiro Reis.\nAquilino Ribeiro Machado.\nBeatriz Almeida Cal Brandão.\nCarlos Alberto Andrade Neves.\nCarlos Manuel da Costa Moreira.\nCarlos Manuel Natividade da C. Candal.\nDieter Dellinger.\nEdmundo Pedro.\nEtelvina Lopes de Almeida.\nFernando Tavares Loureiro.\nFrancisco Manuel Marcelo Curto.\nJaime José Matos da Gama.\nJoão Joaquim Gomes.\nJoão da Silva.\nJoaquim José Catanho de Menezes.\nJoaquim Manuel Barros de Sousa.\nJosé Luís do Amaral Nunes.\nJúlio Francisco Miranda Calha.\nLudovina das Dores Rosado.\nLuís Filipe Nascimento Madeira.\nManuel Alegre de Melo Duarte.\nManuel Francisco Costa.\nMário Alberto Nobre Lopes Soares.\nSérgio Augusto Nunes Simões.\nTelmo Ferreira Neto.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Social-Democrata (PSD)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Amélia Cavaleiro M. de A. de Azevedo.\nAnatólio Manuel dos Santos Vasconcelos.\nAntónio José dos Santos M. da Silva.\nAntónio Júlio Simões de Aguiar.\nArmando António Correia.\nAugusto Nunes de Sousa.\nCasimiro Gomes Pereira.\nFernando José Sequeira Roriz.\nFrancisco M. L. de Sá Carneiro.\nJosé Ângelo Ferreira Correia.\nJosé Manuel M. Sampaio Pimentel.\nLuís Fernando C. Nandim de Carvalho.\nMário Júlio Montalvão Machado.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Centro Democrático Social (CDS)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Adriano Vasco da Fonseca Rodrigues.\nÁlvaro Manuel Brandão Estevão.\nBasílio Adolfo Mendonça Horta da França.\nDiogo Pinto de Freitas do Amaral.\nEmídio Ferrão da Costa Pinheiro.\nEugénio Maria N. Anacoreta Correia.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "2374 I SÉRIE - NÚMERO 66", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Francisco António Lucas Pires.\nHenrique José C. M. P. de Moraes.\nJoão Carlos F. Malhó da Fonseca.\nJoão da Silva Mendes Morgado.\nJoaquim A. da F. P. de Castelo Branco.\nJosé Cunha Simões.\nJosé Duarte A. Ribeiro e Castro.\nJosé Manuel Cabral Fernandes.\nJosé Manuel Macedo Pereira.\nLuís Aníbal de Sá de Azevedo Coutinho.\nLuís Esteves Ramires.\nNarana Sinai Coissoró.\nRui Fausto Fernandes Marrana.\nRuy Garcia de Oliveira.\nWalter Francisco Burmester Cudell.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Partido Comunista Português (PCP)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Jorge Manuel Abreu de Lemos.\nJosé Manuel da Costa Carreira Marques.\nJosé Manuel Paiva Jara.\nJosé Rodrigues Vitoriano.\nOctávio Floriano Rodrigues Pato.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "União Democrática Popular (UDP)", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Acácio Manuel de Frias Barreiros.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Independentes", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "Antídio das Neves Costa.\nAntónio Jorge Duarte Rebelo de Sousa.\nAntónio Jorge Oliveira Aires Rodrigues.\nAntónio Luciano Pacheco de Sousa Franco.\nAntónio Manuel Barata Portugal.\nAntónio Poppe Lopes Cardoso.\nCarlos Galvão de Melo.\nJosé Gonçalves Sapinho.\nJosé Ferreira Júnior.\nJosé Joaquim Lima Monteiro Andrade.\nOlívio da Silva França.\nRui Manuel Parente de C. Machete.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "PREÇO DESTE NÚMERO 10$00", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Deputados que entraram durante a sessão", 
    "text": "IMPRENSA NACIONAL - CASA DA MOEDA", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }
  ], 
  "president": "", 

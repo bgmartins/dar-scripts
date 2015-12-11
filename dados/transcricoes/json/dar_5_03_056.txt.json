@@ -41,8 +41,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 30 minutos.", 
@@ -52,11 +53,13 @@
    "party": "PPD/PSD", 
    "speaker": "Estavam presentes os seguintes Srs. Deputados: Parado Social-Democrata", 
    "text": "", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "PPD/PSD", 
+   "speaker": "Estavam presentes os seguintes Srs. Deputados: Parado Social-Democrata", 
    "text": "Abílio de Mesquita Araújo Guedes.\nAdérito Manuel Soares Campos.\nAlberto Cerqueira de Oliveira.\nAlberto Monteiro de Araújo.\nAlexandre Azevedo Monteiro.\nÁlvaro José Martins Viegas.\nAmândio dos Anjos Gomes.\nAntónio Abílio Costa.\nAntónio Augusto Lacerda de Queirós.\nAntónio Augusto Ramos.\nAntónio de Carvalho Martins.\nAntónio Costa de A. Sousa Lara.\nAntónio Fernandes Ribeiro.\nAntónio Joaquim Correia Vairinhos.\nAntónio Jorge Santos Pereira.\nAntónio José de Carvalho.\nAntónio Manuel Lopes Tavares.\nAntónio Maria Oliveira de Matos.\nAntónio Maria Ourique Mendes.\nAntónio Paulo Martins Pereira Coelho.\nAntónio Sérgio Barbosa de Azevedo.\nAntónio da Silva Bacelar.\nAristides Alves do Nascimento Teixeira.\nArlindo da Silva André Moreira.\nArmando de Carvalho Guerreiro da Cunha.\nArmando Lopes Correia Costa.\nArménio dos Santos.\nArnaldo Ângelo Brito Lhamas.\nBelarmino Henriques Correia.\nCarlos Lélis da Câmara Gonçalves.\nCarlos Manuel Pereira Baptista.\nCarlos Miguel M. de Almeida Coelho.\nCasimiro Gomes Pereira.\nCecília Pita Catarino.\nCristóvão Guerreiro Norte.\nDaniel Abílio Ferreira Bastos.\nDomingos Duarte Lima.\nDulcéneo António Campos Rebelo.\nEduardo Alfredo de Carvalho P. da Silva.\nErcília Domingues M. P. Ribeiro da Silva.\nFernando Barata Rocha.\nFernando José Antunes Gomes Pereira.\nFernando José R. Roque Correia Afonso.\nFernando Manuel Alves Cardoso Ferreira.\nFernando Monteiro do Amaral.\nFernando dos Reis Condesso.\nFilipe Manuel Silva Abreu.\nFrancisco Antunes da Silva.\nFrancisco João Bernardino da Silva.\nFrancisco Mendes Costa.\nGilberto Parca Madaíl.\nGuido Orlando de Freitas Rodrigues.\nGuilherme Henrique V. Rodrigues da Silva.\nHilário Torres Azevedo Marques.\nJaime Carlos Marta Soares.\nJoão Álvaro Poças Santos.\nJoão Costa da Silva.\nJoão Domingos F. de Abreu Salgado.\nJoão José Pedreira de Matos.\nJoão José da Silva Maçãs.\nJoão Maria Ferreira Teixeira.\nJoão Soares Pinto Montenegro.\nJoaquim Eduardo Gomes.\nJoaquim Vilela de Araújo.\nJorge Paulo Seabra Roque da Cunha.\nJosé Alberto Puig dos Santos Costa.\nJosé de Almeida Cesário.\nJosé Assunção Marques.\nJosé Augusto Ferreira de Campos.\nJosé Augusto Santos Silva Marques.\nJosé Francisco Amaral.\nJosé Guilherme Pereira Coelho dos Reis.\nJosé Lapa Pessoa Paiva.\nJosé Leite Machado.\nJosé Luís Bonifácio Ramos.\nJosé Luís de Carvalho Lalanda Ribeiro.\nJosé Manuel Rodrigues Casqueiro.\nJosé Manuel da Silva Torres.\nJosé Mário Lemos Damião.\nJosé de Vargas Bulcão.\nLicínio Moreira da Silva.\nLuís Filipe Garrido Pais de Sousa.\nLuís Filipe Meneses Lopes.\nLuís Manuel Cosia Geraldes.\nLuís Manuel Neves Rodrigues.\nManuel António Sá Fernandes.\nManuel Augusto Pinto Barros.\nManuel da Costa Andrade.\nManuel Ferreira Martins.\nManuel João Vaz Freixo.\nManuel Joaquim Baptista Cardoso.\nManuel Maria Moreira.\nMargarida Borges de Carvalho.\nMaria Antónia Pinho Melo \nMaria da Conceição U. de Castro Pereira.\nMaria Luísa Lourenço Ferreira.\nMaria Leonor Beleza M. Tavares.\nMaria Manuela Aguiar Moreira.\nMaria Teresa Pinto Basto Gouveia.\nMary Patrícia Pinheiro e Lança.\nMário Ferreira Bastos Raposo.\nMário Jorge Belo Maciel.\nMário de Oliveira Mendes dos Santos.\nMateus Manuel Lopes de Brito.\nMiguel Fernando C. de Miranda Relvas.\nPedro Augusto Cunha Pinto.\nPedro Domingos de S. e Holstein Campilho.\nReinaldo Alberto Ramos Gomes.\nRui Alberto Limpo Salvada.\nRui Carlos Alvarez Carp.\nRui Gomes da Silva.\nValdemar Cardoso Alves.\nVasco Francisco Aguiar Miguel.\nVirgílio de Oliveira Carneiro.\nWalter Lopes Teixeira.", 
-   "type": "continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
@@ -134,120 +137,116 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* (Daniel Bastos): Sr. Presidente e Srs. Deputados: \nDeram entrada na Mesa, e foram admitidos, os seguintes diplomas: \nprojecto de lei n.º 500/V, da iniciativa do Sr. Deputado José Manuel da Silva Torres, do PSD, sobre a alteração da denominação da freguesia de Bostelo, que baixou à 6.ª Comissão; projecto de lei n.º 501/V da iniciativa do Sr. Deputado Octávio Teixeira e outros, do PCP, que exclui pensões de alimentos da incidência do IRS, que baixou às 7.ª e 10.ª Comissões; projecto de lei n.º 502/V, da iniciativa da Sr.\" Deputada Odete Santos e outros, do PCP, que alarga a presunção de insuficiência económica ao requerente de alimentos, que baixou às 7.\" e 10.\" Comissões; projecto de resolução n.º 48/V, apresentado pelo Partido Ecologista Os Verdes, acerca da organização de um fórum nacional sobre a prostituição em Portugal; ratificação n.º 122/V, da iniciativa do Sr. Deputado Herculano Pombo e outros, do Partido Ecologista Os Verdes, do PRD, do PCP e da deputada independente Helena Roseta, relativa ao Decreto-Lei n.º 93/90, de 19 de Março, que revê o regime jurídico da reserva ecológica nacional estabelecido pelo Decreto-Lei n.º 321/83, de 5 de Julho, que baixou à 6.\" Comissão; ratificação n.º 123/V, da iniciativa do Sr. Deputado José Sócrates e outros, do PS, relativa ao Decreto-Lei n.º 70/90, de 2 de Março, que define o regime de bens do domínio público hídrico do Estado.", 
-   "type": "deputado_continuacao"
+   "party": "Daniel Bastos", 
+   "speaker": "Secretário", 
+   "text": "Sr. Presidente e Srs. Deputados: \nDeram entrada na Mesa, e foram admitidos, os seguintes diplomas: \nprojecto de lei n.º 500/V, da iniciativa do Sr. Deputado José Manuel da Silva Torres, do PSD, sobre a alteração da denominação da freguesia de Bostelo, que baixou à 6.ª Comissão; projecto de lei n.º 501/V da iniciativa do Sr. Deputado Octávio Teixeira e outros, do PCP, que exclui pensões de alimentos da incidência do IRS, que baixou às 7.ª e 10.ª Comissões; projecto de lei n.º 502/V, da iniciativa da Sr.\" Deputada Odete Santos e outros, do PCP, que alarga a presunção de insuficiência económica ao requerente de alimentos, que baixou às 7.\" e 10.\" Comissões; projecto de resolução n.º 48/V, apresentado pelo Partido Ecologista Os Verdes, acerca da organização de um fórum nacional sobre a prostituição em Portugal; ratificação n.º 122/V, da iniciativa do Sr. Deputado Herculano Pombo e outros, do Partido Ecologista Os Verdes, do PRD, do PCP e da deputada independente Helena Roseta, relativa ao Decreto-Lei n.º 93/90, de 19 de Março, que revê o regime jurídico da reserva ecológica nacional estabelecido pelo Decreto-Lei n.º 321/83, de 5 de Julho, que baixou à 6.\" Comissão; ratificação n.º 123/V, da iniciativa do Sr. Deputado José Sócrates e outros, do PS, relativa ao Decreto-Lei n.º 70/90, de 2 de Março, que define o regime de bens do domínio público hídrico do Estado.", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, para que possamos organizar convenientemente a nossa vida, chamo a atenção de todos para o facto de o boletim informativo ter um pequeno lapso. Por razões óbvias, a reunião plenária do dia 3 de Abril, que diz respeito à interpelação n.º 12/V, ao Governo, não começará às 15 horas, mas sim às 10 horas, sendo o período da manhã dedicado à abertura, seguindo-se o debate na tarde desse mesmo dia.\nA sessão de hoje é uma sessão de perguntas ao Governo, que foram, em devido tempo, distribuídas pelos grupos parlamentares. O Sr. Ministro das Obras Públicas, Transportes e Comunicações irá responder a duas perguntas, uma do PS sobre a Via do Infante e uma outra do PCP sobre a Ponte de 25 de Abril e a problemática das ligações ferroviárias e rodoviárias entre Lisboa e a península de Setúbal no quadro da polémica pública em que interveio, nomeadamente, o Prof. Edgar Cardoso.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, para que possamos organizar convenientemente a nossa vida, chamo a atenção de todos para o facto de o boletim informativo ter um pequeno lapso. Por razões óbvias, a reunião plenária do dia 3 de Abril, que diz respeito à interpelação n.º 12/V, ao Governo, não começará às 15 horas, mas sim às 10 horas, sendo o período da manhã dedicado à abertura, seguindo-se o debate na tarde desse mesmo dia.\nA sessão de hoje é uma sessão de perguntas ao Governo, que foram, em devido tempo, distribuídas pelos grupos parlamentares. O Sr. Ministro das Obras Públicas, Transportes e Comunicações irá responder a duas perguntas, uma do PS sobre a Via do Infante e uma outra do PCP sobre a Ponte de 25 de Abril e a problemática das ligações ferroviárias e rodoviárias entre Lisboa e a península de Setúbal no quadro da polémica pública em que interveio, nomeadamente, o Prof. Edgar Cardoso.\n1992 I SÉRIE-NÚMERO 56", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "1992 I SÉRIE-NÚMERO 56", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "Para formular a sua pergunta, tem a palavra o Sr. Deputado Luís Filipe Madeira.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "O Sr. *Luís Filipe Madeira* (PS): -Sr. Presidente, Srs. Ministros, Srs.Deputados: Esta questão da via regional do Algarve tem arrastado um debate emocional e interessante, que tem envolvido não só a população do Algarve como também a generalidade dos portugueses e até de europeus, sem qualquer discriminação partidária, uma vez que, em especial no Algarve, suo inúmeros os militantes, simpatizantes e eleitores do PSD, do CDS, do PCP e do PS, e nao alinhados, que se tem manifestado de várias formas contra o modo como o Governo conduziu e conduz este processo.\nEsta via longitudinal do Algarve põe em causa o meio ambiente de uma imensa região, põe em causa a agricultura e o turismo da região e, sobretudo, afecta ou compromete o processo global de desenvolvimento de todo o Algarve. É, pois, uma questão de planeamento.\nEsta via, tal como o Governo se propõe efectuá-la, é ilegal face às normas comunitárias, designadamente a Directiva n.º 85/337/CEE, é antidemocrática, é colonialista, uma vê/que é projectada com total desprezo pelas populações directamente afectadas. Daqui decorre a eventual e provável perda do benefício dos financiamentos comunitários previstos e também a previsível revolta dos algarvios feridos nos seus interesses e na sua dignidade.\nApesar disto, o Governo, ou a Junta Autónoma de Estradas, desencadeou o processo de expropriações e fe-lo com cartas do tipo «legião portuguesa», cartas chan-tageando as vítimas com obseuros perigos e inconvenientes que resultarão da não aceitação do Diktat da Junta Autónoma de Estradas. Chega mesmo a insinuar-se que as demoras dos tribunais serão pesadíssimas para aqueles que se atreverem a não responder favoravelmente à proposta da Junta Autónoma de Estradas. Com esta atitude voltamos ao «imposto de palhota»! \nOra, posições contestatárias têm sido assumidas quer na Assembleia Municipal de Faro, quer num colóquio realizado em Loulé a 17 de Março, no qual participaram milhares de pessoas e a que só faltaram os organismos oficiais. Aliás, o próprio Ministro do Planeamento e da Administração do Território, em declarações que proferiu em Bruxelas a 27 de Fevereiro de 1990, manifestou uma posição de irrecusáveis restrições do seu Ministério ao projecto, que, de resto, ele acata como quem reconhece que o seu Ministério nada pode contra o batalhão de cabos de cantoneiros da Junta Autónoma de Estradas, mesmo em relação a um projecto estruturante de uma importante região e sobre o qual compeliria ao Ministério do Planeamento ter a última palavra, tanto mais quanto é certo que o estudo do impacte ambiental do projecto só agora foi desencadeado e com o escândalo que se conhece!...\nPerante tudo isto, o Governo está, aparentemente, de cabeça perdida e em sucessivas fugas em frente. O Sr. Primeiro-Ministro omitiu, numa frustrada comunicação televisiva acerca dos planos sobre o ambiente, feita na semana passada, os potenciais perigos da engenharia genética, mas talvez isso se deva ao facto de, neste caso, o Governo ter invertido a ordem lógica das coisas, porque o Governo não foi ao alfaiate encomendar um fato, foi sim com o fato encomendar um corpo à engenharia genética de uma empresa para o estudo do impacte ambiental.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Empresa fantasma!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Com essa sua actuação o Governo virou Frankcnstein e vai «parindo» monstros.\nAs perguntas são, pois, as seguintes: reconhece, ou não, o Governo que as populações algarvias, as autarquias do Algarve, os grupos cívicos e científicos, a legislação comunitária e os respectivos financiamentos e ainda o interesse das gerações futuras impõem ao Governo atenção, respeito e cooperação em vozes do desprezo e do despotismo com que lhes tem respondido? \nTem o Governo consciência de que está com a sua atitude prepotente e antidemocrática a desencadear os germes de eventuais tragédias, como a que recentemente, por culpa do Governo, se passou em Barqueiros, para depois vir dizer que afinal a população linha razão?", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Empresa fantasma!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Com essa sua actuação o Governo virou Frankcnstein e vai «parindo» monstros.\nAs perguntas são, pois, as seguintes: reconhece, ou não, o Governo que as populações algarvias, as autarquias do Algarve, os grupos cívicos e científicos, a legislação comunitária e os respectivos financiamentos e ainda o interesse das gerações futuras impõem ao Governo atenção, respeito e cooperação em vozes do desprezo e do despotismo com que lhes tem respondido? \nTem o Governo consciência de que está com a sua atitude prepotente e antidemocrática a desencadear os germes de eventuais tragédias, como a que recentemente, por culpa do Governo, se passou em Barqueiros, para depois vir dizer que afinal a população linha razão?", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Sr. Ministro, está o Governo tão divorciado dos seus deveres e das suas realidades que não vê o que está diante dos seus olhos?", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações (Oliveira Martins): Sr. Presidente, Sr. Deputado: Acabei de ouvir com toda a atenção as perguntas que me formulou, bem como o exórdio de que foram precedidas.\nRelativamente às considerações que o Sr. Deputado fez, peço-lhe que as guarde para si, pois o meu objectivo não é entrar num diálogo desse tom; procurarei, no entanto, responder, o melhor possível, às questões que colocou.\nO Sr. Deputado perguntou: será que o Governo tem respeito pelas populações? Será que o Governo vai, com a Via do Infante, efectivamente promover o desenvolvimento de uma região importante para o País, como é o Algarve? Será que o Governo tem consciência da posição que tomaram os poderes locais relativamente a este empreendimento? Responderei: sim, Sr. Deputado! \nNa verdade, logo que o primeiro projecto deste traçado foi \nestabelecido, as populações da região foram ouvidas, através de um mecanismo institucional que existia, na altura, e que ainda hoje existe: por via dos seus representantes legítimos, os autarcas que estão à frente das câmaras municipais.\nPortanto, o primeiro projecto do traçado, elaborado no começo de 1980, foi submetido a parecer dos municípios do Algarve.\nComo o Sr. Deputado sabe, embora não o tivesse referido na sua intervenção, os municípios pronunciaram-se favoravelmente em relação ao traçado que, hoje, está, mais ou menos, a ser executado, embora com algumas correcções.\nComo se isso nao bastasse, em 1988, a Junta Autónoma de Estradas publicou, no Diário da República, um aviso à população em geral, no sentido de a informar que o traçado se encontrava, na Direcção Regional do Sul, à disposição de quem o quisesse consultar. Foi feito e publicado, repito, no Diário da República o referido aviso, que, aliás, e prática corrente sempre que se aprovam, preliminarmente, os traçados das estradas. Deste modo, Sr. Deputado, os requisitos essenciais de audição das populações foram preenchidos.\nNo entanto, o Sr. Deputado poderá colocar as seguintes questões: se, nesta matéria que estamos a tratar, não", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, Sr. Deputado: Acabei de ouvir com toda a atenção as perguntas que me formulou, bem como o exórdio de que foram precedidas.\nRelativamente às considerações que o Sr. Deputado fez, peço-lhe que as guarde para si, pois o meu objectivo não é entrar num diálogo desse tom; procurarei, no entanto, responder, o melhor possível, às questões que colocou.\nO Sr. Deputado perguntou: será que o Governo tem respeito pelas populações? Será que o Governo vai, com a Via do Infante, efectivamente promover o desenvolvimento de uma região importante para o País, como é o Algarve? Será que o Governo tem consciência da posição que tomaram os poderes locais relativamente a este empreendimento? Responderei: sim, Sr. Deputado! \nNa verdade, logo que o primeiro projecto deste traçado foi \nestabelecido, as populações da região foram ouvidas, através de um mecanismo institucional que existia, na altura, e que ainda hoje existe: por via dos seus representantes legítimos, os autarcas que estão à frente das câmaras municipais.\nPortanto, o primeiro projecto do traçado, elaborado no começo de 1980, foi submetido a parecer dos municípios do Algarve.\nComo o Sr. Deputado sabe, embora não o tivesse referido na sua intervenção, os municípios pronunciaram-se favoravelmente em relação ao traçado que, hoje, está, mais ou menos, a ser executado, embora com algumas correcções.\nComo se isso nao bastasse, em 1988, a Junta Autónoma de Estradas publicou, no Diário da República, um aviso à população em geral, no sentido de a informar que o traçado se encontrava, na Direcção Regional do Sul, à disposição de quem o quisesse consultar. Foi feito e publicado, repito, no Diário da República o referido aviso, que, aliás, e prática corrente sempre que se aprovam, preliminarmente, os traçados das estradas. Deste modo, Sr. Deputado, os requisitos essenciais de audição das populações foram preenchidos.\nNo entanto, o Sr. Deputado poderá colocar as seguintes questões: se, nesta matéria que estamos a tratar, não", 
+   "type": "speaker_error"
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "24 DE MARÇO DE 1990 1993", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
-   "speaker": "Deputados independentes", 
    "text": "devemos aperfeiçoar estes mecanismos; se, por exemplo, antes de se porem em marcha os processos de expropriações, não se deveria, previamente, fazer aprovar os estudos de impacte ambiental; se os mecanismos de audição das populações não deveriam ir para além da consulta às presidências das câmaras e às câmaras.\nDe facto, julgo que, no futuro, deveremos reflectir melhor sobre estas questões, pois, quanto mais aperfeiçoarmos os mecanismos de auscultação dos interesses das populações mais próximo estaremos do bom caminho.\nPorém, neste momento, o sistema que temos é este, foi o que utilizámos e estamos conscientes que promovemos a audição de todas as pessoas directamente interessadas no sentido de saber se concordavam ou não com o traçado que, posteriormente, iria ser concretizado num ou noutro lugar, conforme decisão dos poderes competentes.\nPerguntou, também, o Sr. Deputado se o Governo está consciente de que pode desencadear algumas reclamações do tipo das de Barqueiros. Devo dizer-lhe que tanto o Ministério das Obras Públicas, Transportes e Comunicações como o Governo tem feito tudo quanto é possível não só para ouvir os interessados locais como também para explicar o conteúdo da decisão tomada.\nApesar disso, penso que nem o Governo nem qualquer governante podem ter a pretensão de obter a unanimidade dos pontos de vista. Isso é completamento impossível.\nNa verdade, quando se abre uma estrada nova, algumas pessoas são prejudicadas e outras beneficiadas, mas a lei é geral e não está nas «mãos» dos governantes alterá-la sempre que se faz uma nova via de comunicação.\nNo Algarve, houve quem acolhesse bem a iniciativa e quem se opusesse.\nEstamos convencidos de ter dado todas as explicações que se mostravam necessárias à compreensão da decisão e temos esperança que a serenidade e objectividade acabarão por imperar, mas, se, efectivamente, existirem forças e pessoas interessadas em provocar uma agitação social, não está nas nossas mãos evitar que isso aconteça.", 
-   "type": "deputado_continuacao"
+   "type": null
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado Luís Filipe Madeira.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado Luís Filipe Madeira.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Luís Filipe Madeira* (PS): Sr. Ministro, começo por \nagradecer-lhe a paciência que demonstrou ao tentar responder às minhas questões, mas devo dizer-lhe que, de facto, não fiquei nada esclarecido e, quando o Sr. Ministro diz que não entra num diálogo com este tom, permita-me que lhe diga que nem neste nem noutro, pois o Governo nao entra em diálogo.\nReferiu também o Sr. Ministro que a Junta Autónoma de Estradas e o Governo têm explicado, sucessivamente, a todos os interessados as razões que levaram a fazer aquela escolha. Salvo o devido respeito, Sr.Ministro, devo dizer-lhe que isso não é verdade. Por essa razão, é que estamos aqui hoje.\nCom efeito, a Junta Autónoma de Estradas perdeu uma ocasião soberana de, no sábado passado, em Loulé, explicar todas essas razões a milhares de interessados, que compareceram para esse efeito, pois foi convidada a estar presente e não compareceu. No entanto, estiveram presentes, nessa reunião, muitos autarcas, presidentes de câmaras, de assembleias municipais, representantes de associações de agricultores, de ambientalistas, apenas não \ncomparecendo nem sequer um único representante do Governo central, embora tivesse sido enviado um convite com muita antecedência. Devo também salientar que a CCR não se fez representar na referida reunião, mas todos sabemos que é difícil à CCR fazer-se representar em tais reuniões, porque ela não está de acordo com a decisão, e o Sr. Ministro sabe isso muito bem.\nReferiu ainda o Sr. Ministro que o traçado foi decidido em 1980. Nao foi assim, pois o traçado foi estabelecido há poucos dias, ou, melhor, há poucos meses, quando o Sr. Primeiro-Ministro se deslocou ao Algarve e se decidiu por aquele traçado.\nNa verdade, até há muito pouco tempo atrás, existiam três hipóteses, a última das quais já foi também alterada, mas a que título, sobre que pressões e em nome de quê? É isso que tem de ser explicado. Uma via deste tipo não pode estar à mercê do bom ou do mau humor da «casa de Almada», pois está a bulir-se, a mexer-se, com o futuro de toda uma população e de uma região. Temos o direito de exigir deste Governo o devido respeito para com o Algarve.\nConcordo com o Sr. Ministro quando diz que aquela via é essencial e importante para o futuro do Algarve, mas permita-me fazer uma pequena metáfora para que este Governo compreenda o que é que está aqui em causa. Assim, Sr. Ministro, se uma pessoa afectada por uma apendicite aguda tem de ser operada de urgência, essa urgência não pode autorizar que um cirurgião desastrado lhe arranque o apêndice ao mesmo tempo que lhe leva o baço, o rim, o pulmão e 10 m do intestino. Isso é um desastre! Do mesmo modo, o que os senhores estão a fazer é a operar de urgência o Algarve e estão a deixá-lo amputado.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Luís Filipe Madeira", 
+   "text": "Sr. Ministro, começo por agradecer-lhe a paciência que demonstrou ao tentar responder às minhas questões, mas devo dizer-lhe que, de facto, não fiquei nada esclarecido e, quando o Sr. Ministro diz que não entra num diálogo com este tom, permita-me que lhe diga que nem neste nem noutro, pois o Governo nao entra em diálogo.\nReferiu também o Sr. Ministro que a Junta Autónoma de Estradas e o Governo têm explicado, sucessivamente, a todos os interessados as razões que levaram a fazer aquela escolha. Salvo o devido respeito, Sr.Ministro, devo dizer-lhe que isso não é verdade. Por essa razão, é que estamos aqui hoje.\nCom efeito, a Junta Autónoma de Estradas perdeu uma ocasião soberana de, no sábado passado, em Loulé, explicar todas essas razões a milhares de interessados, que compareceram para esse efeito, pois foi convidada a estar presente e não compareceu. No entanto, estiveram presentes, nessa reunião, muitos autarcas, presidentes de câmaras, de assembleias municipais, representantes de associações de agricultores, de ambientalistas, apenas não \ncomparecendo nem sequer um único representante do Governo central, embora tivesse sido enviado um convite com muita antecedência. Devo também salientar que a CCR não se fez representar na referida reunião, mas todos sabemos que é difícil à CCR fazer-se representar em tais reuniões, porque ela não está de acordo com a decisão, e o Sr. Ministro sabe isso muito bem.\nReferiu ainda o Sr. Ministro que o traçado foi decidido em 1980. Nao foi assim, pois o traçado foi estabelecido há poucos dias, ou, melhor, há poucos meses, quando o Sr. Primeiro-Ministro se deslocou ao Algarve e se decidiu por aquele traçado.\nNa verdade, até há muito pouco tempo atrás, existiam três hipóteses, a última das quais já foi também alterada, mas a que título, sobre que pressões e em nome de quê? É isso que tem de ser explicado. Uma via deste tipo não pode estar à mercê do bom ou do mau humor da «casa de Almada», pois está a bulir-se, a mexer-se, com o futuro de toda uma população e de uma região. Temos o direito de exigir deste Governo o devido respeito para com o Algarve.\nConcordo com o Sr. Ministro quando diz que aquela via é essencial e importante para o futuro do Algarve, mas permita-me fazer uma pequena metáfora para que este Governo compreenda o que é que está aqui em causa. Assim, Sr. Ministro, se uma pessoa afectada por uma apendicite aguda tem de ser operada de urgência, essa urgência não pode autorizar que um cirurgião desastrado lhe arranque o apêndice ao mesmo tempo que lhe leva o baço, o rim, o pulmão e 10 m do intestino. Isso é um desastre! Do mesmo modo, o que os senhores estão a fazer é a operar de urgência o Algarve e estão a deixá-lo amputado.", 
+   "type": "deputado_intervencao"
   }, 
   {
    "text": "Aplausos do PS.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações: Sr.Deputado Luís Filipe Madeira, em primeiro lugar, quanto à questão do respeito pelo Algarve, devo salientar que, tal como o Sr. Deputado, eu também fui eleito deputado por uma determinada região e, embora não tivesse tomado posse do cargo nesta Câmara, tenho muito respeito pela população que, lá bem do Norte, onde nasci, me elegeu, mas acredite também que não tenho menos respeito pela população do Algarve.\nEm segundo lugar, quero dizer-lhe que, para além dos funcionários dos serviços do Ministério, várias vezes, representantes da JAE e alguns membros do Governo se deslocaram ao Algarve para dar explicações sobre o traçado da Via do Infante. Na última vez em que isso aconteceu eu próprio estava lá. Até contava ver lá, no Governo Civil, o Sr. Deputado Luís Filipe Madeira para me fazer, com os mapas na frente, todas as perguntas que quisesse fazer, mas o senhor n3o estava.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações", 
+   "text": "Sr.Deputado Luís Filipe Madeira, em primeiro lugar, quanto à questão do respeito pelo Algarve, devo salientar que, tal como o Sr. Deputado, eu também fui eleito deputado por uma determinada região e, embora não tivesse tomado posse do cargo nesta Câmara, tenho muito respeito pela população que, lá bem do Norte, onde nasci, me elegeu, mas acredite também que não tenho menos respeito pela população do Algarve.\nEm segundo lugar, quero dizer-lhe que, para além dos funcionários dos serviços do Ministério, várias vezes, representantes da JAE e alguns membros do Governo se deslocaram ao Algarve para dar explicações sobre o traçado da Via do Infante. Na última vez em que isso aconteceu eu próprio estava lá. Até contava ver lá, no Governo Civil, o Sr. Deputado Luís Filipe Madeira para me fazer, com os mapas na frente, todas as perguntas que quisesse fazer, mas o senhor n3o estava.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Aplausos do PSD.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Uma vozes do PSD: Esqueceu-se!", 
-   "type": "deputado_continuacao"
+   "speaker": "Uma vozes do PSD", 
+   "text": "Esqueceu-se!", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Quero dizer-lhe, Sr. Deputado, que não há segredo nenhum no traçado do Algarve. O Sr. Deputado sabe a história do traçado. Escusava de a ter deformado aqui.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Quero dizer-lhe, Sr. Deputado, que não há segredo nenhum no traçado do Algarve. O Sr. Deputado sabe a história do traçado. Escusava de a ter deformado aqui.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "1994 I SÉRIE-NÚMERO 56", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): Mas nós não sabemos!", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Mas nós não sabemos!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Ó Srs. Deputados, aqui, respondendo à bancada de Os Verdes, expliquei isto, que volto a explicar: houve um primeiro traçado, feito em 1980, sobre o qual o Conselho Superior das Obras Públicas se pronunciou dizendo que devia ser corrigido e indicando quais as correcções a introduzir. Foi corrigido no sentido indicado pelo Conselho, isto 6, poupando solos agrícolas da reserva nacional.\nEste segundo traçado foi objecto de aviso no Diário da República. Quem o quiser consultar que se dirija à Direcção Regional dos Serviços da Junta Autónoma de Estradas. Esteve à consulta de toda a gente. Foi enviado a todas as câmaras, possuindo a Junta Autónoma de Estradas um dossier, por câmara municipal, com as respostas que lhe deram.\nFinalmente, elaborou-se a partir daí o traçado que está actualmente a ser objecto de concurso e à consulta de quem quer que seja.\nOnde é que está o segredo disto? Se os Srs. Deputados querem aperfeiçoar os métodos para o futuro, contem com a posição favorável do Governo no sentido de melhorar os mecanismos de audição das populações.\nNao venham é dizer que nem se respeitaram nem sequer se ouviram as populações, porque isso é falso.", 
+   "speaker": "O Orador", 
+   "text": "Ó Srs. Deputados, aqui, respondendo à bancada de Os Verdes, expliquei isto, que volto a explicar: houve um primeiro traçado, feito em 1980, sobre o qual o Conselho Superior das Obras Públicas se pronunciou dizendo que devia ser corrigido e indicando quais as correcções a introduzir. Foi corrigido no sentido indicado pelo Conselho, isto 6, poupando solos agrícolas da reserva nacional.\nEste segundo traçado foi objecto de aviso no Diário da República. Quem o quiser consultar que se dirija à Direcção Regional dos Serviços da Junta Autónoma de Estradas. Esteve à consulta de toda a gente. Foi enviado a todas as câmaras, possuindo a Junta Autónoma de Estradas um dossier, por câmara municipal, com as respostas que lhe deram.\nFinalmente, elaborou-se a partir daí o traçado que está actualmente a ser objecto de concurso e à consulta de quem quer que seja.\nOnde é que está o segredo disto? Se os Srs. Deputados querem aperfeiçoar os métodos para o futuro, contem com a posição favorável do Governo no sentido de melhorar os mecanismos de audição das populações.\nNao venham é dizer que nem se respeitaram nem sequer se ouviram as populações, porque isso é falso.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -255,72 +254,66 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "O Sr. Luís Filipe Madeira (PS):-Peço a palavra, Sr. Presidente.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para que efeito?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Luís Filipe Madeira* (PS): É para defesa da honra, Sr.Presidente.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Luís Filipe Madeira", 
+   "text": "É para defesa da honra, Sr.Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Se é efectivamente para defesa da honra, dar-lhe-ei a palavra. Se verificar que é para um segundo pedido de esclarecimento ou para uma intervenção, terei de lha retirar.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Se é efectivamente para defesa da honra, dar-lhe-ei a palavra. Se verificar que é para um segundo pedido de esclarecimento ou para uma intervenção, terei de lha retirar.\nO Sr. *Luís Filipe Madeira* (PS): -A dúvida do Sr. Presidente ou é cartesiana ou eu não a compreendo.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Luís Filipe Madeira* (PS): -A dúvida do Sr. Presidente ou é cartesiana ou eu não a compreendo.", 
-   "type": "deputado_continuacao"
+   "speaker": "Uma voz do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Uma voz do PS: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "É efectivamente cartesiana, mas, se o Sr. Deputado tem estado nesta Casa, tem de a compreender.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: É efectivamente cartesiana, mas, se o Sr. Deputado tem estado nesta Casa, tem de a compreender.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "Luís Filipe Madeira", 
+   "text": "Compreendo-a, com certeza, mas como cartesiana!\nO Sr. Presidente:-Tem a palavra, Sr. Deputado.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Luís Filipe Madeira* (PS): Compreendo-a, com certeza, mas como cartesiana!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Presidente:-Tem a palavra, Sr. Deputado.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PS", 
+   "speaker": "Luís Filipe Madeira", 
    "text": "O Sr. *Luís Filipe Madeira* (PS): -Sr. Presidente, Sr. Ministro das Obras Públicas, Transportes e Comunicações: Defendo a minha honra porquê? O Sr. Ministro, serenamente e vou também tentar ser o mais sereno possível, num assunto que é escaldante disse...", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PS", 
+   "speaker": "Luís Filipe Madeira", 
    "text": "Vozes de protesto de um deputado do PSD.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Não conheço o deputado que acabou de me falar, muito menos para me tratar por tu. Não sou cabo de cantoneiros.", 
+   "speaker": "O Orador", 
+   "text": "Não conheço o deputado que acabou de me falar, muito menos para me tratar por tu. Não sou cabo de cantoneiros.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Risos do PS.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Disse o Sr. Ministro que faltei a uma reunião onde o Sr. Ministro estava para dar explicações. Salvo o devido respeito, e permitindo-me contrariá-lo, faltei a uma reunião para que fui convidado em que se iria anunciar a decisão tomada. Não costumo, de facto, participar em actos notariais em que não sou parte. Não fui parte naquela decisão, fui apenas convidado para testemunhar a decisão que o Sr. Ministro tomou aqui em Lisboa, sem me ouvir. Parte não fui. Sr. Ministro, porque eu não estava de acordo, nem queria com a minha presença dar um tácito consenso que não existe nem existia. Que fique a explicação, Sr.Ministro. O respeito que o Sr.. Ministro diz que teve pelos Algarvios foi este: convidá-los a assistir para saberem da sua decisão. Os Algarvios agradecem-lhe, mas sabem fazer asneiras sozinhos.", 
    "type": "deputado_continuacao"
   }, 
@@ -329,218 +322,217 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "O Sr. Presidente:-Para dar explicações, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações: Sr.Deputado Luís Filipe Madeira, mais uma vez está mal informado.", 
+   "speaker": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações", 
+   "text": "Sr.Deputado Luís Filipe Madeira, mais uma vez está mal informado.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Luís Filipe Madeira* (PS): Não estou, não!", 
+   "party": "PS", 
+   "speaker": "Luís Filipe Madeira", 
+   "text": "Não estou, não!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "A reunião que se realizou em Faro não foi nenhum acto notarial, nenhuma explicação sobre coisas definitivas. Se o Sr.Deputado estivesse bem informado, teria verificado que dessa reunião resultaram alterações ao traçado.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: A reunião que se realizou em Faro não foi nenhum acto notarial, nenhuma explicação sobre coisas definitivas. Se o Sr.Deputado estivesse bem informado, teria verificado que dessa reunião resultaram alterações ao traçado.", 
+   "speaker": "Uma voz do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Não sabe disso, não ? Então, regresse à sua terra e busque a informação. Tenho a certeza de que depois não dirá que sou mentiroso.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Uma voz do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Anda distraído! Aplausos do PSD.", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Não sabe disso, não ? Então, regresse à sua terra e busque a informação. Tenho a certeza de que depois não dirá que sou mentiroso.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "E a CEE? Onde estão os 10 milhões?!...", 
+   "type": "deputado_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Anda distraído! Aplausos do PSD.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para formular uma pergunta, tem a palavra o Sr.Deputado Maia Nunes de Almeida.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): E a CEE? Onde estão os 10 milhões?!...", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Maia Nunes de Almeida", 
+   "text": "Srs. Membros do Governo, o enquadramento da pergunta é simples, porque é sentida por todos, incluindo - tenho quase a certeza - o Sr. Ministro das Obras Públicas, Transportes e Comunicações.\nÉ um facto que atravessar a Ponte de 25 de Abril tornou-se um sacrifício para milhares de cidadãos. Segundo as últimas informações, mais de 34 milhões de veículos atravessaram a Ponte em 1989, número que tenderá, naturalmente, a aumentar.\nTorna-se, por isso, indispensável encontrar urgentemente não uma qualquer solução, mas a melhor solução para este estado de coisas.\nA pergunta que desejo formular, em nome do Grupo Parlamentar do Partido Comunista, refere-se à problemática das ligações rodoviárias e ferroviárias entre Lisboa e Almada. E a questão é a seguinte: que solução prioritária? O alargamento do tabuleiro rodoviário ou a construção da via férrea?\n24 DE MARÇO DE 1990 1995", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para formular uma pergunta, tem a palavra o Sr.Deputado Maia Nunes de Almeida.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Maia Nunes de Almeida* (PCP): Srs. Membros do Governo, o enquadramento da pergunta é simples, porque é sentida por todos, incluindo - tenho quase a certeza - o Sr. Ministro das Obras Públicas, Transportes e Comunicações.\nÉ um facto que atravessar a Ponte de 25 de Abril tornou-se um sacrifício para milhares de cidadãos. Segundo as últimas informações, mais de 34 milhões de veículos atravessaram a Ponte em 1989, número que tenderá, naturalmente, a aumentar.\nTorna-se, por isso, indispensável encontrar urgentemente não uma qualquer solução, mas a melhor solução para este estado de coisas.\nA pergunta que desejo formular, em nome do Grupo Parlamentar do Partido Comunista, refere-se à problemática das ligações rodoviárias e ferroviárias entre Lisboa e Almada. E a questão é a seguinte: que solução prioritária? O alargamento do tabuleiro rodoviário ou a construção da via férrea?", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "24 DE MARÇO DE 1990 1995", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "Maia Nunes de Almeida", 
    "text": "Poderá o Sr. Ministro informar se existem estudos e, no caso de existirem, se esses estudos garantem que o alargamento do tabuleiro superior não afecta o lançamento da travessia ferroviária? \nSerá que a solução possível é aumentar a entrada em Lisboa de mais uns largos milhares de automóveis, aprofundando o caos do trânsito na capital? Ou o mais importante será proporcionar um eficaz meio de transporte que possibilite a um número muito maior de pessoas, e de forma mais rápida e cómoda, a chegada e partida de Lisboa e Almada? \nO Sr. Ministro, no dia 14 de Fevereiro, reconheceu publicamente que o alargamento do tabuleiro rodoviário de quatro para seis faixas não resolve o problema do tráfego, embora tenha informado que o Governo não dispunha de estudos actualizados para avançar com a passagem ferroviária. Disse mesmo que, se tivesse projectos de caminhos de ferro prontos, seriam os primeiros a ser lançados.\nReferiu ainda que quando chegou ao Ministério em 1985, e importa sublinhar que já lá vão cinco anos, os estudos da passagem de comboio eram os mesmos que existiam em 1970, apenas com mais uma folha A4 - creio ter sido esta a expressão utilizada. Penso estar implícita nisto uma crítica, ou até uma autocrítica, pois deduzo que essa folha se referia à contribuição dos governos socialistas, na verdade muito fraca, mas também ao contributo dos ministros sociais-democratas que estiveram no Governo até então.\nMas, Sr. Ministro, por aquilo que conheço e ouvi no colóquio sobre acessibilidades promovido, em Fevereiro passado, pela Comissão Executiva da Operação Integrada de Desenvolvimento da Península de Setúbal, por pessoas responsáveis em departamentos governamentais, não existem muitas mais folhas A4. Pouco mais haverá do que o parecer n.º 6043/1 do Conselho Superior de Obras Públicas e Transportes, homologado por V. Ex.ª em Junho de 1987.\nSobre este mesmo assunto, o Prof. Edgar Cardoso - principal responsável pelo projecto inicial da Ponte em 1966 (c decerto o Sr. Ministro concordará que é um técnico especialista em engenharia de pontes internacionais muito conceituado) - considera ser a solução prioritária a construção da via férrea, que aumentará cinco vezes a capacidade de circulação, e que esta pode ser instalada, se não for alargado o tabuleiro rodoviário, sem necessidade de reforço da ponte e, consequentemente, sem dispêndio de verbas avultadas.\nReforça esta linha de raciocínio o que se tem passado com a adjudicação da empreitada do alargamento da Ponte. O primeiro concurso foi anulado pelo Governo, com base no argumento de os três consórcios terem apresentado preços que excediam largamente a base de licitação. Aliás, nessa altura, houve um que apresentou preços da ordem dos 7 milhões de contos, embora fosse de ter em conta a problemática das dívidas à Segurança Social.\nO segundo concurso foi lançado em Dezembro do ano passado e, pelas notícias vindas a público já esta semana, os preços não se alteram, antes pelo contrário: com a mesma base de licitação, de 5,750 milhões de contos, os preços dos três concorrentes vão de 10,799 a 11,075 milhões de contos. Por isso, a situação mantém-se, mas ter-se-á agravado, porque deixou de haver a proposta dos 7 milhões de contos.\nPenso que o Sr. Ministro e o Governo vão ter a mesma posição, ou seja, de não adjudicar a obra, tendo em conta que se mantém a mesma situação.\nNeste caso e neste contexto, a pergunta que faço ao Sr. Ministro é a seguinte: por que não dar prioridade absoluta e imediata à travessia ferroviária da Ponte sobre o Tejo?", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Carlos Brito* (PCP): Muito bem!", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Carlos Brito", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações: Sr.Presidente, Srs. Deputados, Sr. Deputado Maia Nunes de Almeida: A pergunta que V. Ex.\" me formulou tem resposta naquilo que sublinhou ao referir, historicamente e com grande rigor, o que se tem passado nos últimos tempos nessa matéria. Tem uma resposta simples e que é esta: o caminho de ferro da Ponte sobre o Tejo só se iniciará a partir do momento em que estejam preparadas e desenhadas as peças escritas necessárias ao concurso.\nO problema financeiro está resolvido: é que através da OID de Setúbal já estão consagradas verbas que irão permitir fazer a travessia ferroviária da Ponte. A questão que se levanta é a de saber quando é que teremos as coisas preparadas para lançar o concurso.\nDevo dizer ao Sr. Deputado que ainda há pouco tempo - talvez há 3 semanas ou 15 dias- tive oportunidade de, conjuntamente com o Sr.Secretário de Estado Carlos Loureiro, examinar de novo, com algum detalhe, esse problema que acabou agora de colocar. Nessa altura o responsável pelo gabinete da Ponte sobre o Tejo afirmou solenemente perante o Governo que não linha possibilidades nenhumas de preparar essa documentação antes do ano de 1991. Aliás, quando este mesmo responsável tomou posse já era essa a data prevista. Nesse momento informou também que não teria possibilidade de abrir os concursos para essas obras antes dessa data.\nÉ por esta razão que não posso deixar de dizer, nesta Câmara, que só a partir de 1991 é que começarão os primeiros concursos para fazer a travessia ferroviária da Ponte sobre o Tejo.\nSe era isto que queria saber, é esta a resposta que tenho para lhe dar.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações", 
+   "text": "Sr.Presidente, Srs. Deputados, Sr. Deputado Maia Nunes de Almeida: A pergunta que V. Ex.\" me formulou tem resposta naquilo que sublinhou ao referir, historicamente e com grande rigor, o que se tem passado nos últimos tempos nessa matéria. Tem uma resposta simples e que é esta: o caminho de ferro da Ponte sobre o Tejo só se iniciará a partir do momento em que estejam preparadas e desenhadas as peças escritas necessárias ao concurso.\nO problema financeiro está resolvido: é que através da OID de Setúbal já estão consagradas verbas que irão permitir fazer a travessia ferroviária da Ponte. A questão que se levanta é a de saber quando é que teremos as coisas preparadas para lançar o concurso.\nDevo dizer ao Sr. Deputado que ainda há pouco tempo - talvez há 3 semanas ou 15 dias- tive oportunidade de, conjuntamente com o Sr.Secretário de Estado Carlos Loureiro, examinar de novo, com algum detalhe, esse problema que acabou agora de colocar. Nessa altura o responsável pelo gabinete da Ponte sobre o Tejo afirmou solenemente perante o Governo que não linha possibilidades nenhumas de preparar essa documentação antes do ano de 1991. Aliás, quando este mesmo responsável tomou posse já era essa a data prevista. Nesse momento informou também que não teria possibilidade de abrir os concursos para essas obras antes dessa data.\nÉ por esta razão que não posso deixar de dizer, nesta Câmara, que só a partir de 1991 é que começarão os primeiros concursos para fazer a travessia ferroviária da Ponte sobre o Tejo.\nSe era isto que queria saber, é esta a resposta que tenho para lhe dar.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado Maia Nunes de Almeida.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado Maia Nunes de Almeida.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Maia Nunes de Almeida* (PCP): Sr. Ministro, não era só isso.\nCreio que poderia ler ido mais longe, mas, com certeza, não quis.\nA questão que coloco é a seguinte: não tenho conhecimento, nem sequer ouvi afirmar em lado nenhum - e chamo a sua atenção para isto-, que a Operação Integrada de Desenvolvimento da Península de Setúbal tenha verbas para a travessia ferroviária da Ponte. Esse é que é o grande problema, Sr. Ministro. Gostaria que V. Ex.ª confirmasse ou infirmasse aquilo que estou a dizer. Esta questão é muito importante porque está-se a contar com uma coisa que não existe.\nFoi isto que foi afirmado nesse colóquio sobre as acessibilidades pela parte do nó ferroviário da CP, sobre", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Maia Nunes de Almeida", 
+   "text": "Sr. Ministro, não era só isso.\nCreio que poderia ler ido mais longe, mas, com certeza, não quis.\nA questão que coloco é a seguinte: não tenho conhecimento, nem sequer ouvi afirmar em lado nenhum - e chamo a sua atenção para isto-, que a Operação Integrada de Desenvolvimento da Península de Setúbal tenha verbas para a travessia ferroviária da Ponte. Esse é que é o grande problema, Sr. Ministro. Gostaria que V. Ex.ª confirmasse ou infirmasse aquilo que estou a dizer. Esta questão é muito importante porque está-se a contar com uma coisa que não existe.\nFoi isto que foi afirmado nesse colóquio sobre as acessibilidades pela parte do nó ferroviário da CP, sobre 1996 I SÉRIE-NÚMERO 56", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "1996 I SÉRIE-NÚMERO 56", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "Maia Nunes de Almeida", 
    "text": "as verbas que existiam, etc. É que uma coisa é a ligação ferroviária Pinhal Novo/Almada e outra e u travessia sobre o Tejo e a sua inserção na CRIL, na CREL, etc. É aí que se devem pôr as questões.\nOutra pergunta que quero fazer relaciona-se com o facto de nao me ter falado na questão do concurso. Como é que vai ser este concurso para o alargamento do tabuleiro? É que a situação é precisamente idêntica à anterior, em que o Governo nao adjudicou. O montante das verbas é o dobro daquilo que é a base de licitação. Como é que vai ser? Altera-se o critério? Vai-se agora mudar? Que novos dados existem para isto? \nUm outro problema que levantava ao Sr. Ministro, e que não deixa de ser importante neste quadro, é o seguinte: o alargamento rodoviário vai resolver o problema das populações? Essa é uma questão de fundo! O Sr.Ministro diz: «Bem, isso vai resolver uma situação, pois vão entrar mais uns milhares de carros em Lisboa, o que vai contribuir para melhorar a vida de algumas pessoas da margem sul na sua travessia para Lisboa.» \nOra, eu digo que há possibilidades de resolver o problema de toda a população da margem sul e também aliviar a pressão da população da margem norte do concelho de Lisboa.\nSr. Ministro, penso que também 6 importante equacionar esta questão: é que nao podemos ficar com a Ponte de 25 de Abril eternamente! Creio que se deve começar a considerar e a concretizar estudos relativamente a uma nova ponte, nomeadamente, com o local de implantação, com a questão dos acessos, com a questão do tipo, do impacte social, do \ndesenvolvimento económico, do ordenamento do território e até no quadro da integração na CEE.\nChamo a sua particular atenção para isto, uma vez que é importante sublinhar como irão ser os nossos primeiros eixos de desenvolvimento, isto é, como é que vão ser os nossos acessos à Europa, se vamos ou nao continuar a apontar para aquilo que os Espanhóis querem, ou se vamos dar a volta a essa situação para nosso próprio benefício e para a nossa própria posição no contexto da CEE.\nÉ neste contexto da Ponte de 25 de Abril e da possível nova ponte a que o Sr. Ministro já se referiu que penso que se deve equacionar o problema de saber se a actual Ponte de 25 de Abril deve ou não funcionar em termos regionais e sub-regionais. Para onde é que vai ser feita a linha Norte-Sul?", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "Maia Nunes de Almeida", 
    "text": "É neste quadro que me parece importante que o Sr. Ministro equacione o problema!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "Maia Nunes de Almeida", 
    "text": "A Câmara de Lisboa diz que o alargamento do tabuleiro rodoviário da Ponte não serve, que não o quer porque isso vai ser o caos de Lisboa.\nOs estudos que estão a ser feitos no âmbito do Plano Director Municipal de Almada, embora ainda sem decisão do município, apontam também neste sentido. A própria Associação de Municípios do Distrito de Setúbal, através do Plano Integrado de Desenvolvimento do Distrito de Setúbal, aponta também neste sentido.\nAssim sendo. Sr. Ministro, estará V. Ex.ª disponível para promover ou participar numa reunião com as autarquias implicadas em todo este processo, que não é de somenos importância, e com outras entidades, por forma a apurar ideias e a conjugar esforços para resolver este problema pelo impacte nacional e regional que terá a muito breve prazo na área metropolitana de Lisboa e em todo o país?", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar, tem a palavra o Sr. Ministro das Obras Públicas, Transportes e Comunicações.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações: O Sr.Deputado Maia Nunes de Almeida acabou de me colocar um conjunto muito maior de questões e como lenho o maior interesse e gosto em responder, pergunto ao Sr. Presidente qual o tempo de que disponho para essa resposta.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Sr. Ministro das Obras Públicas, Transportes e Comunicações", 
+   "text": "O Sr.Deputado Maia Nunes de Almeida acabou de me colocar um conjunto muito maior de questões e como lenho o maior interesse e gosto em responder, pergunto ao Sr. Presidente qual o tempo de que disponho para essa resposta.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Sr. Ministro, o tempo regimental para a resposta é de três minutos, mas, normalmente, esse tempo é alargado até aos cinco minutos. Esta é um pouco a tradição nesta Casa em sessões de perguntas ao Governo.\nPortanto, o Sr. Ministro pode utilizar cinco minutos, mas só esse tempo.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Ministro, o tempo regimental para a resposta é de três minutos, mas, normalmente, esse tempo é alargado até aos cinco minutos. Esta é um pouco a tradição nesta Casa em sessões de perguntas ao Governo.\nPortanto, o Sr. Ministro pode utilizar cinco minutos, mas só esse tempo.", 
+   "type": "presidente"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Com certeza, Sr. Presidente.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Com certeza, Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "A primeira pergunta colocada pelo Sr. Deputado tem a ver com a ÒID de Setúbal e a linha entre o Pinhal Novo e o Seixal ou o Pragal. É evidente, Sr. Deputado, que nao podemos lançar as obras da travessia do caminho de ferro na Ponte de 25 de Abril sem cuidar dos problemas do acesso - é óbvio! -, quer do lado de lá quer do lado de cá. Não vamos fazer a travessia para depois o comboio não poder passar. Ora, quer do lado de lá, na margem sul, quer do lado de cá, na margem norte, levantam-se vários problemas.\nNa margem norte já há um conjunto de obras em curso: o nó de Campolide está a ser desfeito e a linha de cintura está a ser toda melhorada.\nPara quê? Para aumentar a capacidade de recepção da travessia da Ponte.\nDo lado de lá é preciso lançar, prioritariamente, o acesso de Pragal para Pinhal Novo; se não, onde param os comboios? Portanto, o facto de na OID de Setúbal já se encontrarem verbas destinada a este acesso significa, de facto, o começo da travessia da Ponte sobre o Tejo.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Maia Nunes de Almeida", 
+   "text": "Não diga isso!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "O segundo ponto relaciona-se com o concurso. O Sr. Deputado tem razão na pergunta que faz, mas penso que já sabe qual vai ser a minha resposta.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Maia Nunes de Almeida* (PCP): Não diga isso!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: O segundo ponto relaciona-se com o concurso. O Sr. Deputado tem razão na pergunta que faz, mas penso que já sabe qual vai ser a minha resposta.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Houve um concurso para o alargamento do tabuleiro da Ponte, que foi precedido por uma fase de pré-qualificação, e os concorrentes apresentaram, todos eles - à excepção de um que apresentou um preço muito baixo, cerca de 5 milhões de contos para tudo -, um preço muito próximo, à volta de 11 milhões de contos, para as quatro tarefas que, como sabe, estão em causa.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Maia Nunes de Almeida* (PCP): Certo!", 
+   "party": "PCP", 
+   "speaker": "Maia Nunes de Almeida", 
+   "text": "Certo!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "No entanto, o concorrente que apresentou um preço muito baixo não tinha as condições formais e regulamentares devidamente em ordem, o que resultou, como sabe, na sua exclusão e na própria anulação do concurso. Na altura, houve concorrentes que escreveram para o Ministério a dizer: «Vocês estão enganados, estão convencidos de que a obra vai custar só 5 milhões de contos, mas vão ver que se fizerem outro concurso o preço não vai estar longe daquilo que nós indicamos agora.» Alguns dos concorrentes disseram isto.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: No entanto, o concorrente que apresentou um preço muito baixo não tinha as condições formais e regulamentares devidamente em ordem, o que resultou, como sabe, na sua exclusão e na própria anulação do concurso. Na altura, houve concorrentes que escreveram para o Ministério a dizer: «Vocês estão enganados, estão convencidos de que a obra vai custar só 5 milhões de contos, mas vão ver que se fizerem outro concurso o preço não vai estar longe daquilo que nós indicamos agora.» Alguns dos concorrentes disseram isto.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "24 DE MARÇO DE 1990 1997", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Simplesmente, o Governo entendeu que devia abrir novo concurso, desta vez não limitado, público e mais nacional e internacional. Podia aparecer quem quisesse, para se poder tirar a prova dos nove. Esse ou esses concorrentes que nos alertaram no sentido de que o preço iria ser próximo do que por eles tinha sido apresentado tinham razão, pelo que sou obrigado a dar a mão à palmatória! \nVeio quem quis ao concurso e nesse novo concurso os preços globais situam-se nos 11 milhões de contos.\nPara o alargamento do tabuleiro da Ponte o preço 6 o que estava estimado pela Junta Autónoma de Estradas, o mesmo acontece na parte da electrificação, mas no que respeita às pinturas e ao restante o preço é de facto muito diferente. Não quer isto dizer que o Governo não adjudique. Sr. Deputado, porque o que interessa é sabermos se estamos ou não a adjudicar pelo preço menor que 6 possível obter no mercado e hoje estamos convencidos de que isso não é possível.\nEm terceiro lugar, o Sr. Deputado perguntou se o alargamento do tabuleiro da Ponte vai ou não resolver o problema. Ora, desde o primeiro dia que se diz que o alargamento do tabuleiro da Ponte para seis faixas vai melhorar, digamos assim, a fluidez do tráfego.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Maia Nunes de Almeida* (PCP): Então, acha que isso não se vai reflectir na ferrovia?!", 
+   "party": "PCP", 
+   "speaker": "Maia Nunes de Almeida", 
+   "text": "Então, acha que isso não se vai reflectir na ferrovia?!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Tem, presentemente, três faixas em cada lado do acesso e apenas duas no tabuleiro. Vamos alargar para três para dar uma homogeneidade ao traçado. Daí, resultará uma maior fluidez, mas, apesar de não ir resolver o problema do tráfego, não vai lançar sobre Lisboa aquele drama de automóveis que o Sr. Deputado referiu.\nA quarta pergunta é relativa à nova travessia em Lisboa, que é preciso...", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Tem, presentemente, três faixas em cada lado do acesso e apenas duas no tabuleiro. Vamos alargar para três para dar uma homogeneidade ao traçado. Daí, resultará uma maior fluidez, mas, apesar de não ir resolver o problema do tráfego, não vai lançar sobre Lisboa aquele drama de automóveis que o Sr. Deputado referiu.\nA quarta pergunta é relativa à nova travessia em Lisboa, que é preciso...", 
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "É como o Santos Costa!", 
+   "type": "deputado_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado, o Governo assumiu e publicitou a decisão de nomear uma nova comissão para estudar uma nova travessia do Tejo em Lisboa.\nDecidiu isto - repito! \nPensamos que a terceira fase da travessia...", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *João Amaral* (PCP): É como o Santos Costa!", 
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "É como o Santos Costa! Quando era preciso que uma coisa não fosse feita nomeava-se uma comissão!\nProtestos do PSD.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Ó Sr. Deputado, também conheço essa história, mas este Governo tem mostrado que tem capacidade de realização, e é isso que também lhes dói um bocadinho!", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Sr. Deputado, o Governo assumiu e publicitou a decisão de nomear uma nova comissão para estudar uma nova travessia do Tejo em Lisboa.\nDecidiu isto - repito! \nPensamos que a terceira fase da travessia...", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Há outras coisas que também lhes doem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *João Amaral* (PCP): É como o Santos Costa! Quando era preciso que uma coisa não fosse feita nomeava-se uma comissão!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Protestos do PSD.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Ó Sr. Deputado, também conheço essa história, mas este Governo tem mostrado que tem capacidade de realização, e é isso que também lhes dói um bocadinho!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Há outras coisas que também lhes doem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: E quanto mais embaraço criarem, melhor! \nDe maneira que vamos por partes.\nA terceira fase da travessia, porque a primeira é o alargamento do tabuleiro para seis faixas e a segunda é o caminho de ferro na Ponte, tem a ver com uma nova travessia do Tejo. Ela vai ser estudada se todos nós tivermos juízo e a evolução da nossa situação em Portugal for favorável. Estou convencido de que quem nos suceder, quem sabe se nós mesmos, poderá estar a lançar essa Ponte lá para o ano de 1995 ou 1996.\nBom, quanto à última pergunta, Sr. Deputado, a posição das autarquias, devo dizer que o Ministério teve o cuidado de elaborar um plano a que chamou Programa Orientador das Infra-Estruturas de Transportes na Região de Lisboa e onde estão incluídas todas as infra-estruturas da região de Lisboa, actuais e futuras.\nO Ministério ouviu todas as autarquias, e não só, da margem norte e da margem sul, como as associações comerciais, populacionais, etc., e desta audição surgiu uma série de pareceres que, neste momento, estão a ser analisados. Este foi o primeiro processo de audição, mas seguramente haverá outros.\nPor outro lado, aparece na região de Lisboa o PROT (planos regionais de ordenamento do território), que também virá a ter um processo de audição onde tudo isto será incluído.\nPortanto, Sr. Deputado, o processo de audição pública seguirá os termos normais.", 
+   "speaker": "O Orador", 
+   "text": "E quanto mais embaraço criarem, melhor! \nDe maneira que vamos por partes.\nA terceira fase da travessia, porque a primeira é o alargamento do tabuleiro para seis faixas e a segunda é o caminho de ferro na Ponte, tem a ver com uma nova travessia do Tejo. Ela vai ser estudada se todos nós tivermos juízo e a evolução da nossa situação em Portugal for favorável. Estou convencido de que quem nos suceder, quem sabe se nós mesmos, poderá estar a lançar essa Ponte lá para o ano de 1995 ou 1996.\nBom, quanto à última pergunta, Sr. Deputado, a posição das autarquias, devo dizer que o Ministério teve o cuidado de elaborar um plano a que chamou Programa Orientador das Infra-Estruturas de Transportes na Região de Lisboa e onde estão incluídas todas as infra-estruturas da região de Lisboa, actuais e futuras.\nO Ministério ouviu todas as autarquias, e não só, da margem norte e da margem sul, como as associações comerciais, populacionais, etc., e desta audição surgiu uma série de pareceres que, neste momento, estão a ser analisados. Este foi o primeiro processo de audição, mas seguramente haverá outros.\nPor outro lado, aparece na região de Lisboa o PROT (planos regionais de ordenamento do território), que também virá a ter um processo de audição onde tudo isto será incluído.\nPortanto, Sr. Deputado, o processo de audição pública seguirá os termos normais.", 
    "type": "deputado_continuacao"
   }, 
   {
@@ -548,32 +540,33 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para uma pergunta oral sobre a alegada existência de situações indicadoras da prática de actos ilícitos no seio da PSP do Porto, tem a palavra o Sr. Deputado José Lello.", 
+   "speaker": "Presidente", 
+   "text": "Para uma pergunta oral sobre a alegada existência de situações indicadoras da prática de actos ilícitos no seio da PSP do Porto, tem a palavra o Sr. Deputado José Lello.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Sr. Ministro das Obras Públicas, Transportes e Comunicações, antes de mais, bem vindo nesta condição a este hemiciclo.\nSr. Ministro, a questão que lhe coloco visa, essencialmente, esclarecer e aclarar em que medida o Ministro da Administração Interna se propõe reforçar a segurança na cidade do Porto e também visa auscultar a atitude do Ministério da Administração Interna em relação a alegados actos ilícitos praticados individual ou colectivamente por elementos da Polícia da Segurança Pública do Porto. Isto de molde a que, através do competente esclarecimento, possa ser ressalvada a postura correcta e isenta da corporação no seu lodo.\nCom efeito, as especulações que recentemente tem vindo a público poderiam, à míngua de um abalizado esclarecimento, contribuir para a fragilização de toda uma classe e uma instituição que se pretendem fortes e motivadas na defesa dos valores, que são essenciais para a estabilidade social e a segurança dos cidadãos.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Sr. Ministro, a insegurança nas ruas do Porto é tal que só na passada semana, num só dia, foram aí praticados nove assaltos por esticão, em que foram, efectivamente, pessoas idosas e indefesas os alvos preferenciais desses atentados.\nEntretanto, a par deste tipo de notícias outras têm vindo a público que revelam a existência de indícios de prática de actos ilícitos por parte de elementos da Polícia de Segurança Pública. É assim que surgem acusações de que, por exemplo, agentes da PSP do Porto tem feito investigações por coma própria, cobrando honorários em razão de tais serviços, sendo igualmente responsáveis por actos que violam claramente direitos e garantias dos cidadãos sem a competente cobertura legal.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): Sr. Ministro das Obras Públicas, Transportes e Comunicações, antes de mais, bem vindo nesta condição a este hemiciclo.\nSr. Ministro, a questão que lhe coloco visa, essencialmente, esclarecer e aclarar em que medida o Ministro da Administração Interna se propõe reforçar a segurança na cidade do Porto e também visa auscultar a atitude do Ministério da Administração Interna em relação a alegados actos ilícitos praticados individual ou colectivamente por elementos da Polícia da Segurança Pública do Porto. Isto de molde a que, através do competente esclarecimento, possa ser ressalvada a postura correcta e isenta da corporação no seu lodo.\nCom efeito, as especulações que recentemente tem vindo a público poderiam, à míngua de um abalizado esclarecimento, contribuir para a fragilização de toda uma classe e uma instituição que se pretendem fortes e motivadas na defesa dos valores, que são essenciais para a estabilidade social e a segurança dos cidadãos.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Sr. Ministro, a insegurança nas ruas do Porto é tal que só na passada semana, num só dia, foram aí praticados nove assaltos por esticão, em que foram, efectivamente, pessoas idosas e indefesas os alvos preferenciais desses atentados.\nEntretanto, a par deste tipo de notícias outras têm vindo a público que revelam a existência de indícios de prática de actos ilícitos por parte de elementos da Polícia de Segurança Pública. É assim que surgem acusações de que, por exemplo, agentes da PSP do Porto tem feito investigações por coma própria, cobrando honorários em razão de tais serviços, sendo igualmente responsáveis por actos que violam claramente direitos e garantias dos cidadãos sem a competente cobertura legal.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "1998 I SÉRIE-NÚMERO 56", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Com efeito, foram recentemente detidos dois agentes, alegadamente envolvidos no tráfico de drogas duras, como é patente e conhecido.\nNo passado dia 6 de Janeiro, durante um leilão judicial que tinha lugar no Hotel Meridien, no Porto, uma brigada à paisana irrompeu pelo referido leilão detendo o leiloeiro, cidadão de nacionalidade holandesa, e apreendendo tapeies orientais, cheques e dinheiro no valor de milhares de contos. A justificação de tal actuação prender-se-ia com eventuais irregularidades, que, afinal, se não comprovariam depois de uma investigação da Polícia Judiciária.\nTodavia, a empresa lesada posteriormente aludiu à existência de eventual corrupção ao classificar a actuação da referida brigada como \"mal intencionada, e burlesca encenação montada por comerciantes concorrentes a que se prestaram alguns agentes da PSP do Porto\".\nAcresce referir, Sr. Ministro, que se multiplicam as queixas de alguns cidadãos em relação ao facto de, sob a alegada suposição de poderem ter sido roubados, lhes serem temporariamente confiscados, por agentes da Polícia de Segurança Pública, objectos de valor sem que, para tal, elaborem quaisquer inventário, levantamentos de auto ou listagem, havendo posteriormente queixas de que é difícil reaver esses objectos.\nNeste contexto, Sr. Ministro, quando a criminalidade campeia na cidade, os cidadãos interrogam-se sobre por que razões a sua segurança continua preterida enquanto se vão alegando insuficiências de efectivos policiais, ao mesmo tempo que agentes válidos vigiam parcómetros, estacionamentos..., ou procuram saber se estabelecimentos com televisão pagam ou não os direitos de autor!... Enquanto, entretanto, existem alegadamente maus elementos na corporação, os cidadãos interrogam-se das razões por que é constantemente preterida a sua própria segurança! \nPor isso, Sr. Ministro, volto a perguntar para quando um separar de águas, para quando a valorização dos bons e a penalização dos maus agentes e, acima de tudo, para quando a rentabilização dos efectivos, de molde que se consigam atingir níveis de segurança, de estabilidade social numa cidade onde, de facto, a criminalidade vai campeando.", 
    "type": "deputado_continuacao"
   }, 
@@ -582,32 +575,32 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, se assim o desejar, tem a palavra o Sr. Ministro da Administração Interna.", 
+   "speaker": "Presidente", 
+   "text": "Para responder, se assim o desejar, tem a palavra o Sr. Ministro da Administração Interna.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "text": "Sr.Deputado José Lello, quero cumprimentá-lo e agradecer-lhe as boas-vindas que me deseja por eu estar aqui, pela primeira vez, nesta bancada do Governo, onde não me sinto ainda perfeitamente à vontade...\nÉ porque desse lado é mais fácil!...\nO Sr. Deputado José Lello coloca um problema da maior importância. De facto, embora todas as questões postas pela Assembleia ao Governo sejam importantes, a sua reveste-se de uma importância excepcional, porque, como o Sr. Deputado disse -e muito bem!-, ela envolve um aspecto que é dos mais importantes, isto é, o da segurança dos cidadãos e da tranquilidade das pessoas.\nAs suas perguntas foram muitas, algumas de significado mais vasto, outras muito directas. No entanto, vou tentar, antes de mais nada, responder àquela questão que é, com certeza, uma das mais preocupantes neste momento, ou seja, a relativa aos factos ilícitos praticados por alguns agentes da PSP, no caso especial do Porto, e a de saber se há ou não medidas para, relativamente, evitar essas situações.\nÉ, com certeza, uma situação preocupante sempre que um acto ilícito é praticado ou sempre que um agente da autoridade é inculpado na prática de um acto ilícito ou suspeito da prática de acto ilícito.\nDevo, porém, dizer-lhe que estes casos especiais nunca assumem especial gravidade. Os dois agentes que teriam sido presos, há tempos, pela Polícia Judiciária, numa acção por esta desenvolvida, e que estão, neste momento, detidos no Porto - um sob custódia e outro com residência vigiada- são casos que não estão ainda provados e julgados.\nE, dentro dos bons princípios do direito penal, é óbvio que temos de considerá-los inocentes até que a sua responsabilidade seja \ndefinitivamente apurada.\nE o caso não assume uma gravidade tão importante porque dois, três, quatro ou cinco casos de suspeita, que possam acontecer relativamente a determinados agentes, como é óbvio, não afectam, de maneira nenhuma, uma corporação que é constituída por 18 000 elementos - e aqui deixo a minha homenagem para a esmagadora maioria deles -, que, com todo o sacrifício e abnegação, conseguem até -c tal como o Sr. Deputado referiu, ou seja, com a falta de quadros electivos, especialmente no Porto- com muita dedicação suprir as dificuldades naturais dessa falta de efectivos.", 
+   "type": "speaker_error"
+  }, 
+  {
+   "party": "PSD", 
+   "speaker": "Guerreiro Norte", 
+   "text": "Muito bem!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Pareceu-me, no entanto, que o Sr. Deputado, por detrás destes casos concretos que apresentou - alguns certamente não provados,... e o Sr. Deputado é o primeiro a dizer que \"há suspeitas\", evidentemente, se suo casos noticiados tem o valor que a própria imprensa lhes dá, mas não, de maneira nenhuma, o valor probatório, e não estamos, agora, nesse campo-, vem pôr uma questão e uma preocupação de fundo, que, essa sim, é que está realmente em causa. Isto é, V. Ex.ª quer saber se a sociedade está ou não protegida relativamente a esses casos, através das suas instituições. Dizendo de uma maneira simples, a questão que põe é a seguinte: quem é que policia as nossas polícias ou quem é que fiscaliza para que as polícias tenham um comportamento que todos nós lhe devemos exigir? \nSr. Deputado, esse é um problema que foi posto pelos filósofos romanos, há 3000 anos, quando perguntavam: quem é que julga os nossos juízes? \nÉ um caso semelhante o que se está a passar agora, mas, evidentemente, a democracia tem os seus meios: pode fazê-lo através da independência dos tribunais e dos juízes.\nDaí as actuações que, inclusivamente em alguns casos que citou, foram desencadeadas e, com algum êxito, movimentadas pela Polícia Judiciária.\nEssa independência é, portanto, um factor - e os Srs. Deputados aprovaram aqui, há muito pouco tempo, o novo estatuto disciplinar da PSP-, mas há também os meios internos de defesa e, sobre esses, posso dizer-lhe que seguem normalmente. Além disso, há todos os anos algumas expulsões, infelizmente, por parle dos agentes da polícia.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Ministro da Administração Interna (Manuel Pereira): Sr.Deputado José Lello, quero cumprimentá-lo e agradecer-lhe as boas-vindas que me deseja por eu estar aqui, pela primeira vez, nesta bancada do Governo, onde não me sinto ainda perfeitamente à vontade...\nÉ porque desse lado é mais fácil!...\nO Sr. Deputado José Lello coloca um problema da maior importância. De facto, embora todas as questões postas pela Assembleia ao Governo sejam importantes, a sua reveste-se de uma importância excepcional, porque, como o Sr. Deputado disse -e muito bem!-, ela envolve um aspecto que é dos mais importantes, isto é, o da segurança dos cidadãos e da tranquilidade das pessoas.\nAs suas perguntas foram muitas, algumas de significado mais vasto, outras muito directas. No entanto, vou tentar, antes de mais nada, responder àquela questão que é, com certeza, uma das mais preocupantes neste momento, ou seja, a relativa aos factos ilícitos praticados por alguns agentes da PSP, no caso especial do Porto, e a de saber se há ou não medidas para, relativamente, evitar essas situações.\nÉ, com certeza, uma situação preocupante sempre que um acto ilícito é praticado ou sempre que um agente da autoridade é inculpado na prática de um acto ilícito ou suspeito da prática de acto ilícito.\nDevo, porém, dizer-lhe que estes casos especiais nunca assumem especial gravidade. Os dois agentes que teriam sido presos, há tempos, pela Polícia Judiciária, numa acção por esta desenvolvida, e que estão, neste momento, detidos no Porto - um sob custódia e outro com residência vigiada- são casos que não estão ainda provados e julgados.\nE, dentro dos bons princípios do direito penal, é óbvio que temos de considerá-los inocentes até que a sua responsabilidade seja \ndefinitivamente apurada.\nE o caso não assume uma gravidade tão importante porque dois, três, quatro ou cinco casos de suspeita, que possam acontecer relativamente a determinados agentes, como é óbvio, não afectam, de maneira nenhuma, uma corporação que é constituída por 18 000 elementos - e aqui deixo a minha homenagem para a esmagadora maioria deles -, que, com todo o sacrifício e abnegação, conseguem até -c tal como o Sr. Deputado referiu, ou seja, com a falta de quadros electivos, especialmente no Porto- com muita dedicação suprir as dificuldades naturais dessa falta de efectivos.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Guerreiro Norte* (PSD): Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Pareceu-me, no entanto, que o Sr. Deputado, por detrás destes casos concretos que apresentou - alguns certamente não provados,... e o Sr. Deputado é o primeiro a dizer que \"há suspeitas\", evidentemente, se suo casos noticiados tem o valor que a própria imprensa lhes dá, mas não, de maneira nenhuma, o valor probatório, e não estamos, agora, nesse campo-, vem pôr uma questão e uma preocupação de fundo, que, essa sim, é que está realmente em causa. Isto é, V. Ex.ª quer saber se a sociedade está ou não protegida relativamente a esses casos, através das suas instituições. Dizendo de uma maneira simples, a questão que põe é a seguinte: quem é que policia as nossas polícias ou quem é que fiscaliza para que as polícias tenham um comportamento que todos nós lhe devemos exigir? \nSr. Deputado, esse é um problema que foi posto pelos filósofos romanos, há 3000 anos, quando perguntavam: quem é que julga os nossos juízes? \nÉ um caso semelhante o que se está a passar agora, mas, evidentemente, a democracia tem os seus meios: pode fazê-lo através da independência dos tribunais e dos juízes.\nDaí as actuações que, inclusivamente em alguns casos que citou, foram desencadeadas e, com algum êxito, movimentadas pela Polícia Judiciária.\nEssa independência é, portanto, um factor - e os Srs. Deputados aprovaram aqui, há muito pouco tempo, o novo estatuto disciplinar da PSP-, mas há também os meios internos de defesa e, sobre esses, posso dizer-lhe que seguem normalmente. Além disso, há todos os anos algumas expulsões, infelizmente, por parle dos agentes da polícia.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "24 DE MARÇO DE 1990 1999", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Orador", 
    "text": "Portanto, essa separação entre os bons e os maus faz-se através de processos disciplinares, e eu reservo uma parte importante das minhas horas de trabalho, precisamente, na apreciação desses casos de procedimento disciplinar e, sempre que a polícia toma conta de factos concretos, mando instaurar uma sindicância e o adequado processo disciplinar.\nA polícia, dentro da sua própria hierarquia, tem, pois, cumprido essa sua função de disciplina e de ordenamento.", 
    "type": "deputado_continuacao"
   }, 
@@ -616,148 +609,145 @@
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado José Lello.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado José Lello.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *José Lello* (PS): Sr. Presidente, Srs. Deputados: O Sr. Ministro disse que os casos indiciados não assumem especial gravidade porque efectivamente não afectam a corporação no seu todo.\nJá o comandante da corporação, o superintendente César Teixeira, disse o mesmo, ou seja, \"que as árvores não fazem a floresta\". De facto, subscrevo isso, na medida em que alguns maus elementos não podem afectar a credibilidade de 2600 efectivos da força policial do Porto.\nPortanto, enquanto não se esclarecem esses \"desvios\". Sr. Ministro, o problema é o de que a imagem da corporação está a ser fragilizada.\nTodavia, quero dizer-lhe - e o Sr. Ministro referiu, e muito bem, que alguns desses aspectos estão a ser levantados pela própria Polícia Judiciária e que algumas coisas já foram provadas - que é um verdadeiro escândalo quando se sabe que há agentes ao serviço de quem lhes paga, escudando-se nas suas fardas e prerrogativas, executando missões à peça, e que há cidadãos que não acreditam na celeridade e na tramitação da investigação policial, e, portanto, recorrem a esses serviços para encurtar esse tempo de investigação e reaver o produto do furto de que foram vítimas.\nOra, Sr. Ministro, isto é um caso muito problemático, que tem de merecer uma atempada resposta por parte do ministério da tutela!... É porque pode tentar-se, eventualmente, minimizar as consequências - trata-se apenas de um grupo -, mas o que é certo é que há conhecimento de que essas brigadas fazem buscas sem mandato judicial e que isto, em certa medida, se transforma numa escandalosa acção privada das forças e das actividades policiais. Como se já não bastasse, Sr. Ministro, o grupo dos \"rambos\", que se dedica à cobrança de dívidas difíceis...\nQualquer dia só será defendido quem tiver dinheiro para tal!...\nAssim sendo, Sr. Ministro, é justo questionar o Governo quando a PSP não resolve os problemas da insegurança reinante na região do Porto, quando existem acusações, como as que referi, de abuso de autoridade e eventual corrupção no seio da corporação e quando há essa alegada argumentação da insuficiência de efectivos, quando agentes válidos andam a executar trabalhos menores que poderiam, porventura, ser assumidos, quiçá, por reformados, por agentes anafados, e não por agentes válidos e operacionais, que efectivamente estão a desenvolver esse tipo de trabalho.\nPerante tudo isto, o que pretendo, Sr. Ministro, não é somente uma desculpa por parte de V. Ex.ª e da corporação- o que lhe fica muito bem e que em certa medida subscrevo-, o que eu e os cidadãos do Porto pretendemos é saber como e quando se irá resolver a situação, que é para mim determinante, da insegurança que é patente na cidade do Porto, quando se verificam vários casos preocupantes, alguns dos quais já referi e outros que todos os dias aparecem referidos nas colunas dos jornais.", 
-   "type": "deputado_continuacao"
+   "party": "PS", 
+   "speaker": "José Lello", 
+   "text": "Sr. Presidente, Srs. Deputados: O Sr. Ministro disse que os casos indiciados não assumem especial gravidade porque efectivamente não afectam a corporação no seu todo.\nJá o comandante da corporação, o superintendente César Teixeira, disse o mesmo, ou seja, \"que as árvores não fazem a floresta\". De facto, subscrevo isso, na medida em que alguns maus elementos não podem afectar a credibilidade de 2600 efectivos da força policial do Porto.\nPortanto, enquanto não se esclarecem esses \"desvios\". Sr. Ministro, o problema é o de que a imagem da corporação está a ser fragilizada.\nTodavia, quero dizer-lhe - e o Sr. Ministro referiu, e muito bem, que alguns desses aspectos estão a ser levantados pela própria Polícia Judiciária e que algumas coisas já foram provadas - que é um verdadeiro escândalo quando se sabe que há agentes ao serviço de quem lhes paga, escudando-se nas suas fardas e prerrogativas, executando missões à peça, e que há cidadãos que não acreditam na celeridade e na tramitação da investigação policial, e, portanto, recorrem a esses serviços para encurtar esse tempo de investigação e reaver o produto do furto de que foram vítimas.\nOra, Sr. Ministro, isto é um caso muito problemático, que tem de merecer uma atempada resposta por parte do ministério da tutela!... É porque pode tentar-se, eventualmente, minimizar as consequências - trata-se apenas de um grupo -, mas o que é certo é que há conhecimento de que essas brigadas fazem buscas sem mandato judicial e que isto, em certa medida, se transforma numa escandalosa acção privada das forças e das actividades policiais. Como se já não bastasse, Sr. Ministro, o grupo dos \"rambos\", que se dedica à cobrança de dívidas difíceis...\nQualquer dia só será defendido quem tiver dinheiro para tal!...\nAssim sendo, Sr. Ministro, é justo questionar o Governo quando a PSP não resolve os problemas da insegurança reinante na região do Porto, quando existem acusações, como as que referi, de abuso de autoridade e eventual corrupção no seio da corporação e quando há essa alegada argumentação da insuficiência de efectivos, quando agentes válidos andam a executar trabalhos menores que poderiam, porventura, ser assumidos, quiçá, por reformados, por agentes anafados, e não por agentes válidos e operacionais, que efectivamente estão a desenvolver esse tipo de trabalho.\nPerante tudo isto, o que pretendo, Sr. Ministro, não é somente uma desculpa por parte de V. Ex.ª e da corporação- o que lhe fica muito bem e que em certa medida subscrevo-, o que eu e os cidadãos do Porto pretendemos é saber como e quando se irá resolver a situação, que é para mim determinante, da insegurança que é patente na cidade do Porto, quando se verificam vários casos preocupantes, alguns dos quais já referi e outros que todos os dias aparecem referidos nas colunas dos jornais.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Ministro da Administração Interna.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Ministro da Administração Interna.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. Ministro da Administração Interna: Sr. Deputado José Lello, eu gostava de referir-lhe um princípio que a polícia segue \nescrupulosamente, e que é um principio que não vem de agora, que faz parte da sua tradição de há largos anos, tendo sido sempre secundado pelos sucessivos ministros da Administração Interna, especialmente a partir da última década, relativamente à corporação. É que nenhuma queixa, feita por qualquer cidadão relativamente a um acto concreto de qualquer polícia, deixa de ser objecto de procedimento disciplinar.\nTodas as queixas concretas feitas relativamente à autoridade policial são automaticamente objecto de procedimento disciplinar. E mais, Sr.Deputado: quando as acções são desencadeadas por outros órgãos policiais, como o caso da Polícia Judiciária, mesmo assim, é obrigatório o desencadeamento imediato do procedimento disciplinar, porque, como sabe, a acção criminal não invalida a acção disciplinar - elas correm paralelamente.\nEstas são regras de ouro estabelecidas na polícia, desde há largos tempos. Isto significa que todos os casos de particulares que se sintam lesados concretamente por estes actos são averiguados e investigados.\nMas também é evidente, Sr. Deputado, que não se pode instaurar a um corpo de polícia (designadamente aquilo que mencionou em relação ao Porto) uma sindicância, uma devassa, um inquérito, se não assentar em premissas com um mínimo de consistência. Não é unicamente uma notícia jornalística que pode vir a desencadear essas acções, porque o próprio procedimento disciplinar diz que as medidas a desencadear devem ser adequadas aos fins a obter - tem de existir um equilíbrio. E o desequilíbrio que poderia resultar, eventualmente, de uma sindicância a uma corporação inteira (o que é uma devassa a toda a sua forma de proceder) traria, com certeza, consequências as negativas, dentro da própria corporação, ao seu funcionamento, à sua hierarquia, à sua estrutura e aos seus fins. que essa acção seria desajustada à medida a tomar.\nIsto significa, portanto, Sr. Deputado, que, em relação a todos os casos que tom o mínimo de consistência ou a queixas feitas por particulares relativamente à polícia, é desencadeado procedimento disciplinar.\nQuanto ao empolamento jornalístico que pode ser dado, é evidente que a notícia jornalística tem o valor que tem, é uma notícia jornalística - e isto não é uma crítica aos profissionais da imprensa que tem a função de alertar... Mas é óbvio que a imprensa, só por si, não pode desencadear um processo tão vasto, tão importante e tão significativo como seria, designadamente, essa tal sindicância ou inquérito.\nRelativamente aos casos que referiu de abuso de autoridade, devo dizer-lhe. Sr. Deputado, que, felizmente, todas as queixas relacionadas com abusos de autoridade que temos catalogadas têm vindo a diminuir consideravelmente de ano para ano. No ano passado, por exemplo, o número de queixas por abuso de autoridade foi de cerca de 120.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Sr. Ministro da Administração Interna", 
+   "text": "Sr. Deputado José Lello, eu gostava de referir-lhe um princípio que a polícia segue \nescrupulosamente, e que é um principio que não vem de agora, que faz parte da sua tradição de há largos anos, tendo sido sempre secundado pelos sucessivos ministros da Administração Interna, especialmente a partir da última década, relativamente à corporação. É que nenhuma queixa, feita por qualquer cidadão relativamente a um acto concreto de qualquer polícia, deixa de ser objecto de procedimento disciplinar.\nTodas as queixas concretas feitas relativamente à autoridade policial são automaticamente objecto de procedimento disciplinar. E mais, Sr.Deputado: quando as acções são desencadeadas por outros órgãos policiais, como o caso da Polícia Judiciária, mesmo assim, é obrigatório o desencadeamento imediato do procedimento disciplinar, porque, como sabe, a acção criminal não invalida a acção disciplinar - elas correm paralelamente.\nEstas são regras de ouro estabelecidas na polícia, desde há largos tempos. Isto significa que todos os casos de particulares que se sintam lesados concretamente por estes actos são averiguados e investigados.\nMas também é evidente, Sr. Deputado, que não se pode instaurar a um corpo de polícia (designadamente aquilo que mencionou em relação ao Porto) uma sindicância, uma devassa, um inquérito, se não assentar em premissas com um mínimo de consistência. Não é unicamente uma notícia jornalística que pode vir a desencadear essas acções, porque o próprio procedimento disciplinar diz que as medidas a desencadear devem ser adequadas aos fins a obter - tem de existir um equilíbrio. E o desequilíbrio que poderia resultar, eventualmente, de uma sindicância a uma corporação inteira (o que é uma devassa a toda a sua forma de proceder) traria, com certeza, consequências as negativas, dentro da própria corporação, ao seu funcionamento, à sua hierarquia, à sua estrutura e aos seus fins. que essa acção seria desajustada à medida a tomar.\nIsto significa, portanto, Sr. Deputado, que, em relação a todos os casos que tom o mínimo de consistência ou a queixas feitas por particulares relativamente à polícia, é desencadeado procedimento disciplinar.\nQuanto ao empolamento jornalístico que pode ser dado, é evidente que a notícia jornalística tem o valor que tem, é uma notícia jornalística - e isto não é uma crítica aos profissionais da imprensa que tem a função de alertar... Mas é óbvio que a imprensa, só por si, não pode desencadear um processo tão vasto, tão importante e tão significativo como seria, designadamente, essa tal sindicância ou inquérito.\nRelativamente aos casos que referiu de abuso de autoridade, devo dizer-lhe. Sr. Deputado, que, felizmente, todas as queixas relacionadas com abusos de autoridade que temos catalogadas têm vindo a diminuir consideravelmente de ano para ano. No ano passado, por exemplo, o número de queixas por abuso de autoridade foi de cerca de 120.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Sr. Ministro da Administração Interna", 
    "text": "2000 I SÉRIE-NÚMERO 56", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "O Sr. Ministro da Administração Interna", 
    "text": "Aliás, devo lembrar-lhe também uma outra coisa que é significativa e da qual, por vezes, nos esquecemos: é que Portugal é dos raríssimos países (está situado entre os 10 países do mundo) onde a Comissão \nInternacional para a Defesa dos direitos do homem considera que não houve qualquer violação dos direitos do homem por parte de quaisquer organismos policiais. Este facto tem para nós um certo significado e dá-nos uma certa tranquilidade.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, aproveito esta ocasião para informar que se encontram entre nós, acompanhados dos seus professores, alunos da escola C+S de Medas, Gondomar.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, aproveito esta ocasião para informar que se encontram entre nós, acompanhados dos seus professores, alunos da escola C+S de Medas, Gondomar.", 
+   "type": "presidente"
   }, 
   {
    "text": "Aplausos gerais.", 
    "type": "aplauso"
   }, 
   {
-   "speaker": "Deputados independentes", 
+   "speaker": "Presidente", 
    "text": "E agora, para formular uma pergunta ao Governo sobre qual a forma como este irá resolver o problema das dívidas aos credores da Caixa Económica Faialense, tem a palavra o Sr. Deputado António Mota.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Mota* (PCP): Sr. Presidente, Sr. Secretário de Estado, Srs. Deputados: Em 12 de Agosto de 1986, o Governo, por despacho do ministro das Finanças de então -Dr. Miguel Cadilhe-, suspendeu a actividade da Caixa Económica Faialense, decretando a sua falência e nomeando para o efeito uma comissão liquidatária que teve uma actuação tormentosa e nada eficaz para a resolução deste grave problema.\nEsta decisão, na altura, foi fortemente contestada pelos numerosos depositantes, já que este acto administrativo os impedia de recorrerem judicialmente contra aquela instituição bancária, requerendo as indemnizações a que tinham direito.\nÉ bom referir que este acto puramente administrativo se baseou no artigo 11.º do Decreto-Lei n.º 30 689, de 1940, antes, portanto, da entrada em vigor da Constituição de 1976.\nA dívida a estes credores - dos quais cerca de 300 suo emigrantes em França e cerca de 100 no Canadá, e não suo os únicos!... - ascende a 1 500000 contos, com os juros já acrescidos.\nVai para quatro anos que se arrasta esta situação sem que os credores vejam solucionado este problema, não obstante as várias promessas feitas e as numerosas soluções apontadas, algumas delas contestadas por serem lesivas dos interesses dos credores, mas nem mesmo essas o Governo, até agora, pôs em prática.\nA grande parte destes credores viu-se assim espoliada das economias aforradas ao longo de vários anos de trabalho, o que, em algumas famílias, provocou situações de desespero e mesmo alguns problemas psíquicos.\nO actual Secretário de Estado, em Agosto passado, numa reunião com a comissão de defesa dos lesados, prometeu que iria estudar o problema pois não conhecia ainda o dossier - disse até que iria levá-lo para férias... -, prometendo resolver a questão no prazo de um ou dois meses.\nSe bem se recorda o Sr. Secretário de Estado, já lá vão oito meses e nem uma palavra ouvimos de V. Ex.ª sobre o assunto.\nAgora, os credores foram confrontados com uma nova situação não menos complicada.\nNeste sentido, Sr. Secretário de Estado, tenho duas perguntas a pôr-lhe, a primeira das quais é esta: com esta decisão do Supremo Tribunal Administrativo, vai o Governo indemnizar os credores dos prejuízos causados pelo período em que estiveram privados de recorrer aos tribunais para processar judicialmente a Caixa Económica Faialense? \nA segunda pergunta, muito concreta, é esta: se outro for o entendimento do Governo, quando pensa indemnizar os credores, quais as soluções que aponta e em que tempo?", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "António Mota", 
+   "text": "Sr. Presidente, Sr. Secretário de Estado, Srs. Deputados: Em 12 de Agosto de 1986, o Governo, por despacho do ministro das Finanças de então -Dr. Miguel Cadilhe-, suspendeu a actividade da Caixa Económica Faialense, decretando a sua falência e nomeando para o efeito uma comissão liquidatária que teve uma actuação tormentosa e nada eficaz para a resolução deste grave problema.\nEsta decisão, na altura, foi fortemente contestada pelos numerosos depositantes, já que este acto administrativo os impedia de recorrerem judicialmente contra aquela instituição bancária, requerendo as indemnizações a que tinham direito.\nÉ bom referir que este acto puramente administrativo se baseou no artigo 11.º do Decreto-Lei n.º 30 689, de 1940, antes, portanto, da entrada em vigor da Constituição de 1976.\nA dívida a estes credores - dos quais cerca de 300 suo emigrantes em França e cerca de 100 no Canadá, e não suo os únicos!... - ascende a 1 500000 contos, com os juros já acrescidos.\nVai para quatro anos que se arrasta esta situação sem que os credores vejam solucionado este problema, não obstante as várias promessas feitas e as numerosas soluções apontadas, algumas delas contestadas por serem lesivas dos interesses dos credores, mas nem mesmo essas o Governo, até agora, pôs em prática.\nA grande parte destes credores viu-se assim espoliada das economias aforradas ao longo de vários anos de trabalho, o que, em algumas famílias, provocou situações de desespero e mesmo alguns problemas psíquicos.\nO actual Secretário de Estado, em Agosto passado, numa reunião com a comissão de defesa dos lesados, prometeu que iria estudar o problema pois não conhecia ainda o dossier - disse até que iria levá-lo para férias... -, prometendo resolver a questão no prazo de um ou dois meses.\nSe bem se recorda o Sr. Secretário de Estado, já lá vão oito meses e nem uma palavra ouvimos de V. Ex.ª sobre o assunto.\nAgora, os credores foram confrontados com uma nova situação não menos complicada.\nNeste sentido, Sr. Secretário de Estado, tenho duas perguntas a pôr-lhe, a primeira das quais é esta: com esta decisão do Supremo Tribunal Administrativo, vai o Governo indemnizar os credores dos prejuízos causados pelo período em que estiveram privados de recorrer aos tribunais para processar judicialmente a Caixa Económica Faialense? \nA segunda pergunta, muito concreta, é esta: se outro for o entendimento do Governo, quando pensa indemnizar os credores, quais as soluções que aponta e em que tempo?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Secretário de Estado do Tesouro.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Secretário de Estado do Tesouro.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* de Estado do Tesouro (Tavares da Silva): Sr.Presidente, Srs. Deputados: O Sr. Deputado António Mota teve ocasião de historiar brevemente a forma como a Caixa Económica Faialense chegou à situação em que hoje se encontra. Todavia, não disse que, à data da publicação da portaria que determinou a cessão do exercício da actividade bancária por parte da referida Caixa, esta última tinha cessado os pagamentos aos depositantes.\nDe facto, aqueles pagamentos cessaram em 12 de Agosto de 1986 e, a partir de 16 de Setembro seguinte, o Governo nomeou dois comissários para, nos lermos legais, acompanharem a actividade da Caixa e avaliarem as possibilidades de recuperação da instituição.\nEm 27 de Novembro, após a conclusão dos comissários do Governo de que a instituição não reunia quaisquer condições de viabilização nem de recuperação, o Governo exerceu a sua competência e direito legais, baseado num decreto-lei que, embora datado de 1940, ninguém contesta, sendo ainda válido para efeitos de liquidação de instituições bancárias.\nOra, Sr. Deputado, de acordo com o referido diploma, este processo de liquidação e de declaração de falência tem de ser diferente do de instituições não bancárias.\nÉ que, neste processo, estão em causa situações diversas das de instituições não financeiras. A defesa de interesses de natureza muito diferente e, por vezes, o arrastamento de uma situação de má gestão por parte de uma instituição bancária ou parabancária põe em causa, mais do que ate aí, as poupanças dos respectivos credores que lhas confiaram.\nAssim, foi para evitar um mal maior que, em 27 de Novembro de 1986, foi publicada a portaria que retirou autorização à Caixa Económica Faialense para o exercício da actividade bancária.\nPosteriormente, o Governo assegurou a realização dos trâmites legais, incluindo a nomeação de uma comissão liquidatária que tomou posse em 1987. Neste ponto, Sr. Deputado, permita-me que discorde de si, pois, ao contrário do que afirmou, não pode dizer-se que a aquela comissão lenha tido uma actuação pouco ou nada eficaz.\nPoderia descrever agora, com algum pormenor, a acção da comissão liquidatária, mas penso que não valerá a pena - a menos que tal me seja solicitado.\nAssim, dir-vos-ei que, na verdade, a referida comissão conseguiu carrear para o processo um conjunto de bens que, praticamente, garantem a totalidade dos depósitos que estavam confiados à Caixa Económica Faialense, o que, leremos de concluir, constitui uma situação perfeitamente anormal em casos deste tipo.\nRecordo ao Sr. Deputado que, no caso de caixas económicas que sofreram um processo de liquidação semelhante, mas com menor dimensão, os depositantes receberam percentagens muito reduzidas dos seus depósitos.", 
-   "type": "deputado_continuacao"
+   "party": "Tavares da Silva", 
+   "speaker": "Secretário", 
+   "text": "Sr.Presidente, Srs. Deputados: O Sr. Deputado António Mota teve ocasião de historiar brevemente a forma como a Caixa Económica Faialense chegou à situação em que hoje se encontra. Todavia, não disse que, à data da publicação da portaria que determinou a cessão do exercício da actividade bancária por parte da referida Caixa, esta última tinha cessado os pagamentos aos depositantes.\nDe facto, aqueles pagamentos cessaram em 12 de Agosto de 1986 e, a partir de 16 de Setembro seguinte, o Governo nomeou dois comissários para, nos lermos legais, acompanharem a actividade da Caixa e avaliarem as possibilidades de recuperação da instituição.\nEm 27 de Novembro, após a conclusão dos comissários do Governo de que a instituição não reunia quaisquer condições de viabilização nem de recuperação, o Governo exerceu a sua competência e direito legais, baseado num decreto-lei que, embora datado de 1940, ninguém contesta, sendo ainda válido para efeitos de liquidação de instituições bancárias.\nOra, Sr. Deputado, de acordo com o referido diploma, este processo de liquidação e de declaração de falência tem de ser diferente do de instituições não bancárias.\nÉ que, neste processo, estão em causa situações diversas das de instituições não financeiras. A defesa de interesses de natureza muito diferente e, por vezes, o arrastamento de uma situação de má gestão por parte de uma instituição bancária ou parabancária põe em causa, mais do que ate aí, as poupanças dos respectivos credores que lhas confiaram.\nAssim, foi para evitar um mal maior que, em 27 de Novembro de 1986, foi publicada a portaria que retirou autorização à Caixa Económica Faialense para o exercício da actividade bancária.\nPosteriormente, o Governo assegurou a realização dos trâmites legais, incluindo a nomeação de uma comissão liquidatária que tomou posse em 1987. Neste ponto, Sr. Deputado, permita-me que discorde de si, pois, ao contrário do que afirmou, não pode dizer-se que a aquela comissão lenha tido uma actuação pouco ou nada eficaz.\nPoderia descrever agora, com algum pormenor, a acção da comissão liquidatária, mas penso que não valerá a pena - a menos que tal me seja solicitado.\nAssim, dir-vos-ei que, na verdade, a referida comissão conseguiu carrear para o processo um conjunto de bens que, praticamente, garantem a totalidade dos depósitos que estavam confiados à Caixa Económica Faialense, o que, leremos de concluir, constitui uma situação perfeitamente anormal em casos deste tipo.\nRecordo ao Sr. Deputado que, no caso de caixas económicas que sofreram um processo de liquidação semelhante, mas com menor dimensão, os depositantes receberam percentagens muito reduzidas dos seus depósitos.\n24 DE MARÇO DE 1990 2001", 
+   "type": "secretario"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "24 DE MARÇO DE 1990 2001", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "Tavares da Silva", 
+   "speaker": "Secretário", 
    "text": "É claro que todo este processo tem o seu ritmo próprio e o Governo não o pode acelerar mais do que já fez. De resto, há processos de execução judicial delicados e morosos.\nAtravés da comissão liquidatária, foram instauradas acções judiciais, foi participada à Polícia Judiciária e ao Procurador-Geral da República toda a matéria indiciadora de prática de actos criminais e, neste momento, podemos dizer que a comissão liquidatária cumpriu o seu papel, quer movendo as acções necessárias quer, como lhe disse, assegurando o carrear para o processo de um conjunto de bens que - repito - deverão garantir o pagamento de uma parte muito substancial dos depósitos da Caixa Económica Faialense.\nO Governo não era obrigado a fazer mais do que isto: cumpriu a lei, fê-la executar com a diligência requerida! \nTodavia, através da Secretaria de Estado do Tesouro, o Governo tem vindo a procurar favorecer uma solução no sentido de, uma vez que há garantias reais por detrás dos créditos da Caixa Económica Faialense, ser possível pagá-los antecipadamente aos depositantes, através de uma cessão daqueles créditos a uma instituição bancária ou parabancária.\nEmbora esta solução não seja fácil, o Governo adopta-a por entender que deve fazê-lo e porque compreende toda a angústia dos emigrantes - como o Sr. Deputado muito bem referiu -, que eram depositantes da Caixa e que, de certo modo, foram enganados e levados a depositar as suas poupanças numa instituição que não linha condições para exercer a actividade bancária, tal como, mais tarde, veio a ser provado.\nComo compreenderá, dadas as quantias envolvidas, esta solução carece de elevada ponderação. Nem sempre os assuntos se resolvem ao ritmo a que todos - quer o Governo quer, sobretudo, os depositantes - desejam.\nPorém, é, de facto, uma solução excepcional que poderá vir a ser possível, uma vez que existem garantias reais que a comissão liquidatária conseguiu reunir.\nSr. Deputado, o Governo não deve funcionar como garante dos depósitos em instituições de crédito privadas. Com efeito, por muita consideração que tenha - e tem, com certeza - por todas as pessoas que, de boa fé, confiaram as suas poupanças a quem as não soube gerir, a que título iria o Governo pagar os depósitos da Caixa Económica Faialense? \nO Estado não é devedor e não tem sequer base legal para funcionar como garante dos depósitos. Aliás, mesmo que decidisse - dir-me-á que poderia fazê-lo... - conceder um subsídio a esses depositantes, então com que lógica não teria de fazê-lo também relativamente a toda e qualquer falência de instituição bancária ou mesmo não bancária? É evidente que se trata de uma situação que, exigindo todo o cuidado -e está permanentemente a merecê-lo por parte do Governo-, não pode, contudo, ser resolvida por formas tão simples como as que parecem, por vezes, ser sugeridas.\nFinalmente, quanto à questão da recente decisão do Supremo Tribunal Administrativo relativamente à eventual inconstitucionalidade do Decreto-Lei n.º 30 689, de 1940, que regulamenta a liquidação de instituições de crédito, devo dizer que esta é uma decisão de entre as muitas que foram proferidas pelos mais diversos tribunais, tendo sido a única em que o juiz deu provimento ao recurso sobre a eventual inconstitucionalidade deste diploma legal.\nComo lhe competia, o Ministério Público recorreu desta decisão. Estamos a aguardar agora o resultado do recurso e, em face disso, o processo terá a sua evolução normal. Todavia, estamos perfeitamente convencidos de que o decreto-Lei não se encontra ferido de inconstitucionalidade. É que, embora eu não esteja totalmente à vontade nesses aspectos jurídicos, sei que apenas foi referida a questão da \ninconstitucionalidade quanto ao processo de graduação dos créditos e não ao diploma na sua globalidade.\nDe qualquer modo, estamos convencidos de que este problema será resolvido de forma positiva, restando-nos, pois, aguardar.\nEnfim, se o Sr. Deputado tiver uma solução tendente a criar uma forma mais positiva de resolver o problema e que permita a satisfação dos credores mais rapidamente, pessoalmente estou totalmente desejoso de acolhê-la e de aplicá-la de imediato.", 
-   "type": "deputado_continuacao"
+   "type": "secretario_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para pedir esclarecimentos, tem a palavra o Sr.Deputado António Mota.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Para pedir esclarecimentos, tem a palavra o Sr.Deputado António Mota.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Mota* (PCP): Sr. Secretário de Estado, depois de ouvir V. Ex.ª, tenho de concluir que ficámos como há quatro anos atrás, pois o Governo não traz a esta Câmara qualquer via de solução para um problema grave que afecta todas aquelas famílias, o qual se pode até dizer que levou famílias à miséria. Na verdade, ainda há bem pouco tempo, eu e outros deputados ligados à emigração recebemos aqui um emigrante que tinha depositado cerca de 100 000 contos na Caixa Económica Faialense, ou seja, o correspondente a toda uma vida de 30 anos de trabalho!...\nO Sr. Secretário de Estado deve compreender que são, de facto, situações muito complicadas, muito difíceis, das quais o Governo não se pode alhear! \nPor outro lado. Sr. Secretário de Estado, devo lembrar-lhe que o poder público tem de fiscalizar a actividade bancária, não podendo, portanto, deixar que tal actividade dê origem a situações escandalosas como esta, isto é, a este esbulho de largos milhões de contos de portugueses cuja única fonte de receita é a sua força de trabalho. Assim sendo, e como já referi, o Sr. Secretário de Estado não pode vir aqui lavar disto as suas mãos.\nPor outro lado, Sr. Secretário de Estado, devo igualmente recordar-lhe que várias soluções foram já apontadas pelo Governo, tendo a última que conhecemos sido a do pagamento de 65% até ao montante de 2000 contos, ficando as outras situações dependentes da forma como o processo se fosse desenrolando. No entanto, como V. Ex.ª sabe, esta solução também tem sido contestada, uma vez que estabelece um critério desajustado para os credores e já que não seria assim com justiça que o Governo resolveria a situação.\nPor conseguinte, uma vez que o Sr. Secretário de Estado já leve, com certeza, tempo para ler o dossier - não linha lido em Agosto, mas agora já o deve ler lido... -, já compreendeu que há grandes dificuldades (é verdade, e também o reconhecemos) na resolução desta questão. No entanto, deve lambem estar de acordo comigo em que quatro anos para resolver um problema destes é, de facto, demasiado tempo, se tivermos em conta as dificuldades em que se encontram aqueles largos milhares de depositantes da Caixa Económica Faialense. Assim, não basta vir aqui falar de dificuldades jurídicas, pois é importante que o Governo assuma esta responsabilidade, já que o prolongamento da situação leva a uma grande", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "António Mota", 
+   "text": "Sr. Secretário de Estado, depois de ouvir V. Ex.ª, tenho de concluir que ficámos como há quatro anos atrás, pois o Governo não traz a esta Câmara qualquer via de solução para um problema grave que afecta todas aquelas famílias, o qual se pode até dizer que levou famílias à miséria. Na verdade, ainda há bem pouco tempo, eu e outros deputados ligados à emigração recebemos aqui um emigrante que tinha depositado cerca de 100 000 contos na Caixa Económica Faialense, ou seja, o correspondente a toda uma vida de 30 anos de trabalho!...\nO Sr. Secretário de Estado deve compreender que são, de facto, situações muito complicadas, muito difíceis, das quais o Governo não se pode alhear! \nPor outro lado. Sr. Secretário de Estado, devo lembrar-lhe que o poder público tem de fiscalizar a actividade bancária, não podendo, portanto, deixar que tal actividade dê origem a situações escandalosas como esta, isto é, a este esbulho de largos milhões de contos de portugueses cuja única fonte de receita é a sua força de trabalho. Assim sendo, e como já referi, o Sr. Secretário de Estado não pode vir aqui lavar disto as suas mãos.\nPor outro lado, Sr. Secretário de Estado, devo igualmente recordar-lhe que várias soluções foram já apontadas pelo Governo, tendo a última que conhecemos sido a do pagamento de 65% até ao montante de 2000 contos, ficando as outras situações dependentes da forma como o processo se fosse desenrolando. No entanto, como V. Ex.ª sabe, esta solução também tem sido contestada, uma vez que estabelece um critério desajustado para os credores e já que não seria assim com justiça que o Governo resolveria a situação.\nPor conseguinte, uma vez que o Sr. Secretário de Estado já leve, com certeza, tempo para ler o dossier - não linha lido em Agosto, mas agora já o deve ler lido... -, já compreendeu que há grandes dificuldades (é verdade, e também o reconhecemos) na resolução desta questão. No entanto, deve lambem estar de acordo comigo em que quatro anos para resolver um problema destes é, de facto, demasiado tempo, se tivermos em conta as dificuldades em que se encontram aqueles largos milhares de depositantes da Caixa Económica Faialense. Assim, não basta vir aqui falar de dificuldades jurídicas, pois é importante que o Governo assuma esta responsabilidade, já que o prolongamento da situação leva a uma grande 2002 I SÉRIE -NÚMERO 56", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "2002 I SÉRIE -NÚMERO 56", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
+   "party": "PCP", 
+   "speaker": "António Mota", 
    "text": "angústia por parte destas pessoas, que se sentem completamento marginalizadas, descontentes e protagonistas de situações delicadas que todos nós, designadamente o Governo, lemos obrigação de solucionar.", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PCP: Muito bem!", 
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Secretário de Estado do Tesouro.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "speaker": "Secretário", 
+   "text": "Sr. Deputado António Mota, volto a dizer-lhe que V. Ex.ª pode estar tão preocupado como eu com a situação dos depositantes, mas certamente não está mais,...", 
+   "type": "secretario"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "António Mota", 
+   "text": "Isso é o que lhe parece!", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "... posso garantir-lhe! \nDisse o Sr. Deputado que, tal como aconteceu há quatro anos atrás, o Governo não apresenta hoje qualquer solução. De facto, do exterior, pode parecer que as coisas estilo paradas, mas não estuo.\nÉ evidente que formalizar um negócio de cessão de crédito, quando de um lado se encontram umas centenas de credores e do outro uma só entidade que vai tomar esses créditos, não é coisa que se faça de um dia para o outro, até porque poderia vir a ser contestado por alguns dos credores.\nHá, portanto, que rodear a operação de todos os cuidados.\nO Governo não era sequer obrigado a fazer isto!... Poderia limitar-se a assegurar toda a diligência possível no processo de execução judicial.\nSc o fizesse, os credores esperariam os quatros anos e mais os anos que fossem necessários para que os processos tivessem o seu desenlace final. Está, no entanto, a procurar antecipar o ressarcimento dos credores, tendo em conta que se trata de situações angustiantes, pois há emigrantes que, na sua boa fé, confiaram quase todas as suas poupanças à Caixa Económica Faialense e há quatro anos que estão à espera de uma solução.\nDisse o Sr. Deputado que, agora, este Governo limpa as mãos. Sr.Deputado, quem limpou as mãos não foi este Governo, foram os governos anteriores que, estando a Caixa Económica Faialense a laborar há alguns anos numa situação perfeitamente irregular e de falência ...", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Secretário de Estado do Tesouro.", 
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "... com delegações no exterior que nem sequer eram reconhecidas, mio tiveram a coragem de lhe retirar a autorização para o exercício da actividade bancária.\nA dívida da Caixa Económica Faialense, que é hoje de l milhão de contos, poderia ser muito menor se essa medida tivesse sido tomada dois, três ou quatro anos antes. Se esta portaria não tivesse sido publicada em 1987, provavelmente a dívida não seria de l milhão de contos, mas, sim, de dois, de três, não sabemos de quantos milhões de contos!...\nA actual situação não é uma situação agradável, mas foi para evitar um mal muito maior que o Governo tomou esta atitude; tomou-a com alguns anos de atraso, é certo, mas não pode ser responsabilizado pela falta de decisão de governos anteriores.\nFinalmente, confesso-lhe que desconheço a solução que referiu do pagamento de 65% até 2000 contos. Estamos a trabalhar numa solução bastante diferente e mais favorável para os credores. Se mais entraves não nos forem levantados - e garanto-lhe que este assunto, para além do fait divers que referiu, ou seja, o de eu ter levado o dossier para férias, o que por acaso foi verdade-, esperamos chegar brevemente a uma solução. Este é um assunto da minha atenção praticamente diária. As pessoas que estão envolvidas no processo, como, por exemplo, o Sr.Administrador da comissão liquidatária ou a instituição com a qual estamos tentando obter uma solução, podem testemunhá-lo. O Governo não se tem desinteressado, um dia sequer, da resolução deste problema.\nO Sr. Deputado acabou de dizer que o Governo deve suprir esta dificuldade, e a isso eu respondo-lhe com a pergunta que já lhe fiz: \ncomo é que o Sr. Deputado teria procedido, em 1986, se estivesse no Governo?", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Secretário* de Estado do Tesouro: Sr. Deputado António Mota, volto a dizer-lhe que V. Ex.ª pode estar tão preocupado como eu com a situação dos depositantes, mas certamente não está mais,...", 
+   "speaker": "Presidente", 
+   "text": "Queira terminar, Sr. Secretário de Estado.", 
+   "type": "presidente_aparte"
+  }, 
+  {
+   "speaker": "O Orador", 
+   "text": "Teria deixado as coisas andarem por aí fora? Como procederia hoje, se estivesse no Governo, perante a situação actualmente existente, que, repito, não é pior em virtude de, em 1986, ter sido atalhada?", 
    "type": "deputado_continuacao"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *António Mota* (PCP): Isso é o que lhe parece!", 
-   "type": "deputado_continuacao"
+   "speaker": "Vozes do PSD", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: ... posso garantir-lhe! \nDisse o Sr. Deputado que, tal como aconteceu há quatro anos atrás, o Governo não apresenta hoje qualquer solução. De facto, do exterior, pode parecer que as coisas estilo paradas, mas não estuo.\nÉ evidente que formalizar um negócio de cessão de crédito, quando de um lado se encontram umas centenas de credores e do outro uma só entidade que vai tomar esses créditos, não é coisa que se faça de um dia para o outro, até porque poderia vir a ser contestado por alguns dos credores.\nHá, portanto, que rodear a operação de todos os cuidados.\nO Governo não era sequer obrigado a fazer isto!... Poderia limitar-se a assegurar toda a diligência possível no processo de execução judicial.\nSc o fizesse, os credores esperariam os quatros anos e mais os anos que fossem necessários para que os processos tivessem o seu desenlace final. Está, no entanto, a procurar antecipar o ressarcimento dos credores, tendo em conta que se trata de situações angustiantes, pois há emigrantes que, na sua boa fé, confiaram quase todas as suas poupanças à Caixa Económica Faialense e há quatro anos que estão à espera de uma solução.\nDisse o Sr. Deputado que, agora, este Governo limpa as mãos. Sr.Deputado, quem limpou as mãos não foi este Governo, foram os governos anteriores que, estando a Caixa Económica Faialense a laborar há alguns anos numa situação perfeitamente irregular e de falência ...", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: ... com delegações no exterior que nem sequer eram reconhecidas, mio tiveram a coragem de lhe retirar a autorização para o exercício da actividade bancária.\nA dívida da Caixa Económica Faialense, que é hoje de l milhão de contos, poderia ser muito menor se essa medida tivesse sido tomada dois, três ou quatro anos antes. Se esta portaria não tivesse sido publicada em 1987, provavelmente a dívida não seria de l milhão de contos, mas, sim, de dois, de três, não sabemos de quantos milhões de contos!...\nA actual situação não é uma situação agradável, mas foi para evitar um mal muito maior que o Governo tomou esta atitude; tomou-a com alguns anos de atraso, é certo, mas não pode ser responsabilizado pela falta de decisão de governos anteriores.\nFinalmente, confesso-lhe que desconheço a solução que referiu do pagamento de 65% até 2000 contos. Estamos a trabalhar numa solução bastante diferente e mais favorável para os credores. Se mais entraves não nos forem levantados - e garanto-lhe que este assunto, para além do fait divers que referiu, ou seja, o de eu ter levado o dossier para férias, o que por acaso foi verdade-, esperamos chegar brevemente a uma solução. Este é um assunto da minha atenção praticamente diária. As pessoas que estão envolvidas no processo, como, por exemplo, o Sr.Administrador da comissão liquidatária ou a instituição com a qual estamos tentando obter uma solução, podem testemunhá-lo. O Governo não se tem desinteressado, um dia sequer, da resolução deste problema.\nO Sr. Deputado acabou de dizer que o Governo deve suprir esta dificuldade, e a isso eu respondo-lhe com a pergunta que já lhe fiz: \ncomo é que o Sr. Deputado teria procedido, em 1986, se estivesse no Governo?", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Queira terminar, Sr. Secretário de Estado.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Orador: Teria deixado as coisas andarem por aí fora? Como \nprocederia hoje, se estivesse no Governo, perante a situação actualmente existente, que, repito, não é pior em virtude de, em 1986, ter sido atalhada?", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "Vozes do PSD: Muito bem!", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "speaker": "Deputados independentes", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, terminada a sessão de perguntas ao Governo, chamo a particular atenção de VV. Ex.as para a reunião da próxima terça-feira, às 15 horas, cuja ordem de trabalhos é já do vosso conhecimento.\nEstá encerrada a sessão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, terminada a sessão de perguntas ao Governo, chamo a particular atenção de VV. Ex.as para a reunião da próxima terça-feira, às 15 horas, cuja ordem de trabalhos é já do vosso conhecimento.\nEstá encerrada a sessão.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "text": "Eram 11 horas e 50 minutos.", 
@@ -766,25 +756,25 @@
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PPD/PSD", 
    "speaker": "Partido Social-Democrata", 
    "text": "Dinah Serrão Alhandra.\nMário Júlio Montalvão Machado.\nVítor Pereira Crespo.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
    "speaker": "Partido Socialista", 
    "text": " Jorge Luís Costa Catarino.\nVítor Manuel Caio Roque.", 
-   "type": "deputado_aparte"
+   "type": "deputado_intervencao"
   }, 
   {
    "speaker": "Faltaram à sessão os seguintes Srs. Deputados", 

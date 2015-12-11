@@ -41,8 +41,9 @@
    "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, temos quórum, pelo que declaro aberta a sessão.", 
+   "type": "presidente_aberta"
   }, 
   {
    "text": "Eram 10 horas e 45 minutos.", 
@@ -139,174 +140,150 @@
    "type": "deputado_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, continua em discussão o artigo 174.º \nPara uma interpelação à Mesa, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, continua em discussão o artigo 174.º \nPara uma interpelação à Mesa, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, queria anunciar aos colegas que, como ontem nos tínhamos comprometido, entregámos na Mesa um conjunto de propostas relativas aos artigos 174.º e seguintes. Já tive oportunidade de distribuir algumas cópias por algumas bancadas, mas não o fiz relativamente a todas pois não estavam ainda presentes.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, queria anunciar aos colegas que, como ontem nos tínhamos comprometido, entregámos na Mesa um conjunto de propostas relativas aos artigos 174.º e seguintes. Já tive oportunidade de distribuir algumas cópias por algumas bancadas, mas não o fiz relativamente a todas pois não estavam ainda presentes.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Sr. Deputado Jorge Lemos, não tenho conhecimento de nenhuma proposta relativa ao artigo 174.º, mas sim só a partir do artigo 175.º", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Jorge Lemos, não tenho conhecimento de nenhuma proposta relativa ao artigo 174.º, mas sim só a partir do artigo 175.º", 
+   "type": "presidente"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, efectivamente é a partir do artigo 175.º", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, efectivamente é a partir do artigo 175.º", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Há uma questão relativamente à qual não sei qual será o entendimento: se terminaremos a discussão do artigo 174.º ou se continuamos até ao 178.º", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Há uma questão relativamente à qual não sei qual será o entendimento: se terminaremos a discussão do artigo 174.º ou se continuamos até ao 178.º", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Presidente", 
    "text": "Está, pois, em discussão o artigo 174.º \nTem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, uma curtíssima intervenção para dizer que o artigo 174.º corresponde ao espírito da Constituição quanto aos mecanismos que têm de ser adoptados em termos da Assembleia da República para dar resposta ao pedido de declaração do estado de sítio ou do estado de emergência.", 
+   "type": "deputado_intervencao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
    "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, uma curtíssima intervenção para dizer que o artigo 174.º corresponde ao espírito da Constituição quanto aos mecanismos que têm de ser adoptados em termos da Assembleia da República para dar resposta ao pedido de declaração do estado de sítio ou do estado de emergência.", 
-   "type": "deputado_continuacao"
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Sr. Presidente, antes de se proceder à votação do artigo 174.º, pretendia fazer uma interpelação aos autores da proposta relativamente a esse artigo, no seguinte sentido: o artigo 174.º reporta-se apenas à apresentação, por parte do Presidente da República, da mensagem respeitante à declaração do estado de sítio e do estado de emergência.\nOra, a verdade é que pode ser presente à Assembleia da República uma mensagem que tenha em vista não apenas a declaração do estado de sítio e do estado de emergência mas também a da sua renovação ou da modificação da extensão das providências a adoptar.\nSendo, pois, esses os 3 casos possíveis de apreciação por parte da Assembleia da República, perguntaria se os autores da proposta não achariam melhor que no artigo 174.º, onde se fala da declaração do estado de sítio e do estado de emergência, se acrescentassem também as situações que acabei de referir, quais sejam as da renovação da declaração ou da modificação da extensão das providências a adoptar.\nA questão também se poderia solucionar fazendo uma remessa para a Constituição não apenas dos artigos 138.º e 141.º, que consta da proposta, mas fazendo incluir ainda o artigo 19.º da Constituição, porque se se incluir este artigo já poderá, de algum modo, ficar aberta a situação que acabei de descrever.\nEra este o meu pedido de esclarecimento.", 
+   "type": "presidente_continuacao"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Vilhena de Carvalho fez uma intervenção que contém um pedido de esclarecimento. Algum Sr. Deputado deseja responder? \nTem a palavra a Sra. Deputada Margarida Salema.", 
+   "type": "presidente_temapalavra"
+  }, 
+  {
+   "text": "Sr. Deputado Vilhena de Carvalho, acabei de chegar mas, se bem entendi, da sua intervenção resulta a necessidade de incluir nesta disposição a possibilidade de renovação prevista no n.º 3 do artigo 19.º da Constituição, segundo a qual a declaração de estado de sítio ou de estado de emergência é devidamente fundamentada e não pode prolongar-se para além de 15 dias, sem prejuízo de eventual renovação por períodos de igual limite ou com igual limite.\nPergunto: na sua opinião, para cada renovação tem de haver um novo processo de autorização, dependendo das várias hipóteses possíveis? \nPode suceder, por exemplo, que a declaração se mantenha tal e qual, mas apenas se trate de uma prorrogação da mesma declaração, ou pode suceder que a declaração, ela própria, seja alterada quanto ao seu conteúdo, por exemplo, restringindo-se menos direitos do que aqueles que ab initio eram restringidos, e por aí adiante.\nPerguntar-lhe-ia, para possibilitar o debate acerca daquilo que referiu, se não entende que, havendo renovação, se podem verificar várias hipóteses da mesma, se, portanto, não deveríamos rever essas várias hipóteses ou, se, pura e simplesmente, fazemos uma remissão no artigo 174.º para o artigo 19.º, partindo do princípio de que se o Presidente da República entender fazer renovação da declaração por mais de 15 dias, e assim sucessivamente, deve introduzir um processo de autorização na Assembleia da República.", 
+   "type": "speaker_error"
+  }, 
+  {
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
    "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
-   "type": "deputado_continuacao"
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Sr.ª Deputada, já que me interpela, diria que, pela minha parte, me bastaria a referência ao artigo 19.º da Constituição, mas gostaria que tivesse ficado registado - e foi essa preocupação que me levou a intervir - que se se tratar de uma renovação com modificação de providências que tornem mais alargado o cerceamento dos direitos naturalmente que terá de haver uma nova apreciação. Já não sou dessa opinião para o caso de haver, em vez de um alargamento, um estreitamento do cerceamento dos poderes.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Vilhena de Carvalho* (ASDI): Sr. Presidente, antes de se proceder à votação do artigo 174.º, pretendia fazer uma interpelação aos autores da proposta relativamente a esse artigo, no seguinte sentido: o artigo 174.º reporta-se apenas à apresentação, por parte do Presidente da República, da mensagem respeitante à declaração do estado de sítio e do estado de emergência.\nOra, a verdade é que pode ser presente à Assembleia da República uma mensagem que tenha em vista não apenas a declaração do estado de sítio e do estado de emergência mas também a da sua renovação ou da modificação da extensão das providências a adoptar.\nSendo, pois, esses os 3 casos possíveis de apreciação por parte da Assembleia da República, perguntaria se os autores da proposta não achariam melhor que no artigo 174.º, onde se fala da declaração do estado de sítio e do estado de emergência, se acrescentassem também as situações que acabei de referir, quais sejam as da renovação da declaração ou da modificação da extensão das providências a adoptar.\nA questão também se poderia solucionar fazendo uma remessa para a Constituição não apenas dos artigos 138.º e 141.º, que consta da proposta, mas fazendo incluir ainda o artigo 19.º da Constituição, porque se se incluir este artigo já poderá, de algum modo, ficar aberta a situação que acabei de descrever.\nEra este o meu pedido de esclarecimento.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: O Sr. Deputado Vilhena de Carvalho fez uma intervenção que contém um pedido de esclarecimento. Algum Sr. Deputado deseja responder? \nTem a palavra a Sra. Deputada Margarida Salema.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "A Sr.ª Margarida Salema (PSD): Sr. Deputado Vilhena de Carvalho, acabei de chegar mas, se bem entendi, da sua intervenção resulta a necessidade de incluir nesta disposição a possibilidade de renovação prevista no n.º 3 do artigo 19.º da Constituição, segundo a qual a declaração de estado de sítio ou de estado de emergência é devidamente fundamentada e não pode prolongar-se para além de 15 dias, sem prejuízo de eventual renovação por períodos de igual limite ou com igual limite.\nPergunto: na sua opinião, para cada renovação tem de haver um novo processo de autorização, dependendo das várias hipóteses possíveis? \nPode suceder, por exemplo, que a declaração se mantenha tal e qual, mas apenas se trate de uma prorrogação da mesma declaração, ou pode suceder que a declaração, ela própria, seja alterada quanto ao seu conteúdo, por exemplo, restringindo-se menos direitos do que aqueles que ab initio eram restringidos, e por aí adiante.\nPerguntar-lhe-ia, para possibilitar o debate acerca daquilo que referiu, se não entende que, havendo renovação, se podem verificar várias hipóteses da mesma, se, portanto, não deveríamos rever essas várias hipóteses ou, se, pura e simplesmente, fazemos uma remissão no artigo 174.º para o artigo 19.º, partindo do princípio de que se o Presidente da República entender fazer renovação da declaração por mais de 15 dias, e assim sucessivamente, deve introduzir um processo de autorização na Assembleia da República.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Vilhena de Carvalho* (ASDI): Sr.ª Deputada, já que me interpela, diria que, pela minha parte, me bastaria a referência ao artigo 19.º da Constituição, mas gostaria que tivesse ficado registado - e foi essa preocupação que me levou a intervir - que se se tratar de uma renovação com modificação de providências que tornem mais alargado o cerceamento dos direitos naturalmente que terá de haver uma nova apreciação. Já não sou dessa opinião para o caso de haver, em vez de um alargamento, um estreitamento do cerceamento dos poderes.", 
-   "type": "deputado_continuacao"
-  }, 
-  {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Vilhena de Carvalho", 
    "text": "226 I SÉRIE - NÚMERO 7", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Vilhena de Carvalho", 
    "text": "Mas como pode surgir uma e outra das situações, e como a renovação pode também incidir relativamente à prorrogação do prazo dos 15 dias iniciais, relativamente a este último caso penso que haverá necessidade de um novo pedido de autorização.", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "A Sr.ª Margarida Salema (PSD): Dá-me licença, Sr. Deputado?", 
-   "type": "deputado_continuacao"
+   "text": "Dá-me licença, Sr. Deputado?", 
+   "type": "speaker_error"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Faça favor, Sr.ª Deputada.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Faça favor, Sr.ª Deputada.", 
+   "type": "continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "A Sr.ª Margarida Salema (PSD): Obrigado, Sr. Deputado. A intervenção é apenas para tentar clarificar esta matéria.\nJulgo que da nossa parte não haverá nenhuma objecção a que seja aqui incluída uma remissão para o artigo 19.º Relativamente às questões que coloquei e à opinião que o Sr. Deputado agora está a expender a propósito de cada uma das hipóteses possíveis quanto à renovação, creio que se trata de uma matéria que, obviamente, deve constar da lei relativa ao estado de sítio e ao estado de emergência e, portanto, penso que serei da sua opinião quanto a bastar, nesta sede, fazer uma remissão para o artigo 19.º e deixarmos para a lei os casos específicos em que se pode verificar a renovação. Mas, na generalidade, estou de acordo com as considerações que expendeu.", 
-   "type": "deputado_continuacao"
+   "text": "Obrigado, Sr. Deputado. A intervenção é apenas para tentar clarificar esta matéria.\nJulgo que da nossa parte não haverá nenhuma objecção a que seja aqui incluída uma remissão para o artigo 19.º Relativamente às questões que coloquei e à opinião que o Sr. Deputado agora está a expender a propósito de cada uma das hipóteses possíveis quanto à renovação, creio que se trata de uma matéria que, obviamente, deve constar da lei relativa ao estado de sítio e ao estado de emergência e, portanto, penso que serei da sua opinião quanto a bastar, nesta sede, fazer uma remissão para o artigo 19.º e deixarmos para a lei os casos específicos em que se pode verificar a renovação. Mas, na generalidade, estou de acordo com as considerações que expendeu.", 
+   "type": "speaker_error"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Orador: Reafirmo aquilo que já havia dito: que me bastaria a simples remessa para o artigo 19.º da Constituição.", 
-   "type": "deputado_continuacao"
+   "speaker": "O Orador", 
+   "text": "Reafirmo aquilo que já havia dito: que me bastaria a simples remessa para o artigo 19.º da Constituição.", 
+   "type": "continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Srs. Deputados, suponho que podemos considerar terminado o debate do artigo 174.º \nTem a palavra a Sr.ª Deputada Margarida Salema.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, suponho que podemos considerar terminado o debate do artigo 174.º \nTem a palavra a Sr.ª Deputada Margarida Salema.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "A Sr.ª Margarida Salema (PSD): Sr. Presidente, para não termos de formalizar uma alteração à proposta, se a Mesa pudesse incluir no n.º 1 a referência ao artigo 19.º da Constituição, resolveríamos de imediato a questão suscitada.\nFicaria «Nos termos do artigo 19.º [...]», e dos restantes artigos da Constituição que aqui estão mencionados.", 
-   "type": "deputado_continuacao"
+   "text": "Sr. Presidente, para não termos de formalizar uma alteração à proposta, se a Mesa pudesse incluir no n.º 1 a referência ao artigo 19.º da Constituição, resolveríamos de imediato a questão suscitada.\nFicaria «Nos termos do artigo 19.º [...]», e dos restantes artigos da Constituição que aqui estão mencionados.", 
+   "type": "speaker_error"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Há consenso por parte das restantes bancadas para a introdução desta ligeira alteração?", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Há consenso por parte das restantes bancadas para a introdução desta ligeira alteração?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
+   "speaker": "Presidente", 
    "text": "Sr.ª Deputada Margarida Salema, podia fazer o favor de ditar a redacção?", 
-   "type": "deputado_continuacao"
+   "type": "presidente_continuacao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "A Sr.ª Margarida Salema (PSD): Incluiríamos no n.º 1, onde se verifica a remissão para várias disposições da Constituição, a inclusão do artigo 19.º, no início. Portanto seria: «Nos termos do artigo 19.º, da alínea c) do artigo 137.º [...] da Constituição».", 
-   "type": "deputado_continuacao"
+   "text": "Incluiríamos no n.º 1, onde se verifica a remissão para várias disposições da Constituição, a inclusão do artigo 19.º, no início. Portanto seria: «Nos termos do artigo 19.º, da alínea c) do artigo 137.º [...] da Constituição».", 
+   "type": "speaker_error"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Obrigado, Sr.ª Deputada.\nTem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Obrigado, Sr.ª Deputada.\nTem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, para não estarmos a colocar a questão da evidente falta de quórum e para facilitar o andamento dos trabalhos sugeríamos que fôssemos discutindo os artigos relativos ao capítulo do estado de sítio e do estado de emergência e votaríamos em conjunto, no fim, quando já houvesse mais colegas para não termos de estar a interromper os nossos trabalhos.", 
-   "type": "deputado_continuacao"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, para não estarmos a colocar a questão da evidente falta de quórum e para facilitar o andamento dos trabalhos sugeríamos que fôssemos discutindo os artigos relativos ao capítulo do estado de sítio e do estado de emergência e votaríamos em conjunto, no fim, quando já houvesse mais colegas para não termos de estar a interromper os nossos trabalhos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "party": "ASDI", 
-   "speaker": "Agrupamento Parlamentar da Acção Social-Democrata Independente", 
-   "text": "O Sr. *Presidente*: Como parece haver consenso nesse sentido, podemos continuar.\nSrs. Deputados, vamos passar à discussão do artigo 175.º \nVai ser lida a proposta de substituição, conforme o texto da Comissão.", 
-   "type": "deputado_continuacao"
+   "speaker": "Presidente", 
+   "text": "Como parece haver consenso nesse sentido, podemos continuar.\nSrs. Deputados, vamos passar à discussão do artigo 175.º \nVai ser lida a proposta de substituição, conforme o texto da Comissão.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -322,8 +299,9 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Vai ser lida a proposta de aditamento de uma expressão ao n.º 2, subscrita pelo Grupo Parlamentar do PCP.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Vai ser lida a proposta de aditamento de uma expressão ao n.º 2, subscrita pelo Grupo Parlamentar do PCP.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -335,16 +313,20 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, quero comunicar à Mesa que vamos apresentar uma proposta de aditamento de outro teor relativa a este número, uma vez que chegámos a um consenso, pelo menos com o PS, e creio que também com as restantes bancadas, no sentido de dar mais tempo ao Sr. Primeiro-Ministro.\nMas irei fazê-la chegar à Mesa.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, quero comunicar à Mesa que vamos apresentar uma proposta de aditamento de outro teor relativa a este número, uma vez que chegámos a um consenso, pelo menos com o PS, e creio que também com as restantes bancadas, no sentido de dar mais tempo ao Sr. Primeiro-Ministro.\nMas irei fazê-la chegar à Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Há uma proposta de alteração, também do PCP, em relação ao n.º 1 do artigo 175.º, que vai ser lida.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Há uma proposta de alteração, também do PCP, em relação ao n.º 1 do artigo 175.º, que vai ser lida.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -356,20 +338,20 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Jorge Lemos, não pode fazer chegar rapidamente à Mesa a nova proposta que anunciou há pouco?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Jorge Lemos, não pode fazer chegar rapidamente à Mesa a nova proposta que anunciou há pouco?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Com certeza, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Com certeza, Sr. Presidente.\n27 DE OUTUBRO DE 1984 227", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "27 DE OUTUBRO DE 1984 227", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Srs. Deputados vai ser lido o novo aditamento, apresentado pelo PCP, em substituição do anterior, relativo ao n.º 2 do artigo 175.º", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados vai ser lido o novo aditamento, apresentado pelo PCP, em substituição do anterior, relativo ao n.º 2 do artigo 175.º", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -381,72 +363,88 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Podemos iniciar o debate de discussão das propostas de alteração ao artigo 175.º \nTem a palavra, para uma intervenção, o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Podemos iniciar o debate de discussão das propostas de alteração ao artigo 175.º \nTem a palavra, para uma intervenção, o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Salas* (PS): A minha intervenção é apenas no sentido de manifestarmos o nosso acordo em relação à última formulação da proposta apresentada.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Salas", 
+   "text": "A minha intervenção é apenas no sentido de manifestarmos o nosso acordo em relação à última formulação da proposta apresentada.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra a Sr.ª Deputada Margarida Salema.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Deputada Margarida Salema.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr.ª Margarida Salema (PSD): Sr. Presidente, da nossa parte também não há objecção à proposta apresentada. Entretanto, gostaria de levantar aqui uma questão, que talvez seja menor, mas que poderá contribuir para o aperfeiçoamento do texto. Reporta-se ao termo utilizado no n.º 1 do artigo 175.º, relativamente à mensagem do Presidente da República.\nCom efeito, a forma de comunicação entre o Presidente da República e Assembleia da República é a de «mensagem», mas, como no caso vertente, nada na Constituição - pelo menos, no artigo 19.º - se refere concretamente ao termo «mensagem» e, por outro lado, porque a votação da Assembleia que incide sobre o pedido de autorização toma a forma de lei, como teremos ocasião de ver adiante, pergunto se não deveríamos referir aqui, pura e simplesmente, o pedido de autorização da declaração do estado de sítio ou de emergência ou se não devemos mesmo referirmo-nos ao decreto.\nRecordo um pouco aquilo que consta actualmente do Regimento, onde se fala sempre em «decreto», a votação incide sempre sobre o decreto, etc...\nPergunto, pois, se esse não será o termo mais apropriado.", 
-   "type": "documento"
+   "text": "Sr. Presidente, da nossa parte também não há objecção à proposta apresentada. Entretanto, gostaria de levantar aqui uma questão, que talvez seja menor, mas que poderá contribuir para o aperfeiçoamento do texto. Reporta-se ao termo utilizado no n.º 1 do artigo 175.º, relativamente à mensagem do Presidente da República.\nCom efeito, a forma de comunicação entre o Presidente da República e Assembleia da República é a de «mensagem», mas, como no caso vertente, nada na Constituição - pelo menos, no artigo 19.º - se refere concretamente ao termo «mensagem» e, por outro lado, porque a votação da Assembleia que incide sobre o pedido de autorização toma a forma de lei, como teremos ocasião de ver adiante, pergunto se não deveríamos referir aqui, pura e simplesmente, o pedido de autorização da declaração do estado de sítio ou de emergência ou se não devemos mesmo referirmo-nos ao decreto.\nRecordo um pouco aquilo que consta actualmente do Regimento, onde se fala sempre em «decreto», a votação incide sempre sobre o decreto, etc...\nPergunto, pois, se esse não será o termo mais apropriado.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, penso que as questões levantadas pela Sr.» Deputada Margarida Salema têm razão de ser.\nNós, no sentido de clarificar aquilo que não estava muito claro no n.º 1, substituíamos o termo «fundamente» pela expressão «constitui o pedido», e remetíamos para o preceito constitucional de modo que este n.º 1 ficasse claro.\nMas, à partida, não teremos objecções a fazer às questões colocadas pela Sr.\" Deputada e se quiser apresentar uma redacção no sentido do que acabou de dizer considerá-la-emos.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, penso que as questões levantadas pela Sr.» Deputada Margarida Salema têm razão de ser.\nNós, no sentido de clarificar aquilo que não estava muito claro no n.º 1, substituíamos o termo «fundamente» pela expressão «constitui o pedido», e remetíamos para o preceito constitucional de modo que este n.º 1 ficasse claro.\nMas, à partida, não teremos objecções a fazer às questões colocadas pela Sr.\" Deputada e se quiser apresentar uma redacção no sentido do que acabou de dizer considerá-la-emos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Vilhena de Carvalho* (ASDI): Do nosso ponto de vista, o Presidente da Assembleia da República deverá solicitar à mesma o pedido de declaração do estado de sítio e do estado de emergência através de mensagem e que dessa mensagem devem constar os elementos essenciais que hão-de integrar a declaração. Isso não significa que a declaração do estado de sítio e do estado de emergência não assuma, de facto, a forma de decreto.", 
-   "type": "documento"
+   "party": "ASDI", 
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Do nosso ponto de vista, o Presidente da Assembleia da República deverá solicitar à mesma o pedido de declaração do estado de sítio e do estado de emergência através de mensagem e que dessa mensagem devem constar os elementos essenciais que hão-de integrar a declaração. Isso não significa que a declaração do estado de sítio e do estado de emergência não assuma, de facto, a forma de decreto.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra a Sr.ª Deputada Margarida Salema.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Deputada Margarida Salema.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Margarida Salema (PSD): Sr. Presidente, eu não queria insistir, mas julgo que em outros locais se utiliza o termo «mensagem» quando não existe, da parte da Assembleia, uma votação específica sobre a mensagem do Presidente da República - estou-me a lembrar dos «vetos» e de outros institutos em que o Presidente comunica com a Assembleia por intermédio de «mensagem».\nNeste caso específico tenho algumas dúvidas, mas não vou insistir sobre isso na medida em que - e explicito um pouco mais o meu pensamento -, a «mensagem» é, no fundo, digamos assim, o «projecto-decreto» e, portanto, sobre ela vai incidir uma determinada votação, que, a meu ver, não pode consistir na alteração daquilo que consta da «mensagem» ou do «projecto-decreto», como lhe queiramos chamar.\nDaí a minha dúvida do termo utilizado, mas não vou insistir. Se a Assembleia entende que esta é a melhor forma de explicitar a questão no artigo 175.º eu retiro as minhas objecções.", 
-   "type": "documento"
+   "text": "Sr. Presidente, eu não queria insistir, mas julgo que em outros locais se utiliza o termo «mensagem» quando não existe, da parte da Assembleia, uma votação específica sobre a mensagem do Presidente da República - estou-me a lembrar dos «vetos» e de outros institutos em que o Presidente comunica com a Assembleia por intermédio de «mensagem».\nNeste caso específico tenho algumas dúvidas, mas não vou insistir sobre isso na medida em que - e explicito um pouco mais o meu pensamento -, a «mensagem» é, no fundo, digamos assim, o «projecto-decreto» e, portanto, sobre ela vai incidir uma determinada votação, que, a meu ver, não pode consistir na alteração daquilo que consta da «mensagem» ou do «projecto-decreto», como lhe queiramos chamar.\nDaí a minha dúvida do termo utilizado, mas não vou insistir. Se a Assembleia entende que esta é a melhor forma de explicitar a questão no artigo 175.º eu retiro as minhas objecções.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado José Manuel Mendes, tem a palavra.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado José Manuel Mendes, tem a palavra.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Manuel Mendes* (PCP): A questão suscitada tem o seu interesse e podê-la-íamos debater, talvez um pouco academicamente, nesta sede. Penso que, de todo o modo, em comissão de redacção poderemos estudar com mais rigor a solução a dar ao problema.\nEntretanto, chamava a atenção para a circunstância de, segundo a redacção actual, que nos foi proposta pelo Sr. Deputado Luis Beiroco, depararmos com uma imprecisão, porquanto o pedido contido na mensagem do Sr. Presidente da República não dever ser apenas fundamentado; ele tem de ter outros elementos, outros requisitos, que são os constantes do artigo 19.º da Constituição da República, razão pela qual, fazendo intervir esse inciso na redacção que propusemos, tivemos de adaptar o verbo de «fundamente» para «constitui», assim dando, suponho eu, inteiro cabimento lógico àquilo que é a nossa sugestão e adequando-o melhor à normação constitucional.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "A questão suscitada tem o seu interesse e podê-la-íamos debater, talvez um pouco academicamente, nesta sede. Penso que, de todo o modo, em comissão de redacção poderemos estudar com mais rigor a solução a dar ao problema.\nEntretanto, chamava a atenção para a circunstância de, segundo a redacção actual, que nos foi proposta pelo Sr. Deputado Luis Beiroco, depararmos com uma imprecisão, porquanto o pedido contido na mensagem do Sr. Presidente da República não dever ser apenas fundamentado; ele tem de ter outros elementos, outros requisitos, que são os constantes do artigo 19.º da Constituição da República, razão pela qual, fazendo intervir esse inciso na redacção que propusemos, tivemos de adaptar o verbo de «fundamente» para «constitui», assim dando, suponho eu, inteiro cabimento lógico àquilo que é a nossa sugestão e adequando-o melhor à normação constitucional.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luis Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luis Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, Srs. Deputados: Penso que a última formulação apresentada pelo PCP satisfaz inteiramente e respeita a norma constitucional.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, Srs. Deputados: Penso que a última formulação apresentada pelo PCP satisfaz inteiramente e respeita a norma constitucional.\n228 I SÉRIE - NÚMERO 7", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "228 I SÉRIE - NÚMERO 7", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Luís Saias", 
    "text": "No entanto, se me permitem, e sem espírito polémico, penso que os nossos constitucionalistas estão com excessivos pruridos, uma vez que aquilo que pusermos no Regimento não pode, de forma nenhuma, alterar aquilo que vem na Constituição.\nDe resto, a norma, tal como vem proposta pelo PCP, percebe-se perfeitamente, sabe-se o que é se se quer, mas podíamos, talvez por acordo, deixar aberta a via para na redacção final, se entretanto algum dos cérebros que aqui se encontram se iluminar, se encontrar uma fórmula melhor de forma que todos a aceitem.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vai ser lido o artigo 176.º segundo o texto da Comissão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vai ser lido o artigo 176.º segundo o texto da Comissão.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -458,8 +456,9 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Em relação a este artigo há uma proposta de aditamento subscrita por deputados do PCP, que vai ser lida.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Em relação a este artigo há uma proposta de aditamento subscrita por deputados do PCP, que vai ser lida.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -471,244 +470,296 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Estão em discussão.\nTem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Estão em discussão.\nTem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, Srs. Deputados: Não nos parece que a lei de declaração do estado de sítio deva ter um tratamento diferente dos restantes processos legislativos, mas cremos ser importante que fique registado no Regimento que tem de ser votada pelo Plenário na generalidade, na especialidade e em votação final global.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, Srs. Deputados: Não nos parece que a lei de declaração do estado de sítio deva ter um tratamento diferente dos restantes processos legislativos, mas cremos ser importante que fique registado no Regimento que tem de ser votada pelo Plenário na generalidade, na especialidade e em votação final global.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra a Sr.ª Deputada Margarida Salema, para formular pedidos de esclarecimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Deputada Margarida Salema, para formular pedidos de esclarecimento.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Margarida Salema (PSD): Sr. Deputado Jorge Lemos, tenho muitas dúvidas sobre esta proposta de aditamento e gostaria que ficasse melhor especificada a ideia que lhe está subjacente.\nO Sr. Deputado disse que na lei de declaração do estado de sítio e do estado de emergência se aplicam as regras gerais do processo legislativo e, portanto, haveria um debate na generalidade e na especialidade ou, pelo menos, uma votação na generalidade e na especialidade e uma votação final global. Porém, tenho imensas dúvidas de que assim seja, porque a declaração do estado de sítio ou do estado de emergência não se assemelha, de modo nenhum, a um processo legislativo, uma vez que não há aqui iniciativa legislativa, mas sim um decreto, um pedido de autorização do Sr. Presidente da República que não tem nenhuma semelhança com propostas de lei ou projectos de lei.\nAlém disso, tenho a maior das dúvidas em que no Regimento se possa estabelecer que haverá uma votação na generalidade e na especialidade que implica ou pode implicar alterações ao decreto ou à mensagem que é objecto de votação. Creio, pois, que não podemos caminhar nesse sentido porque se trata de uma matéria que deve ser regulada por lei da Assembleia e não pelo Regimento.\nO Sr. Deputado não acharia mais correcto que nesta matéria houvesse apenas uma debate e uma votação? Quanto a mim não se aplicariam aqui as regras gerais de que tem que haver um debate e uma votação na generalidade, na especialidade e uma votação final global. Diria apenas que haverá um debate e uma votação e depois a deliberação definitiva da Assembleia da República é que assume a forma de lei por aplicação do artigo 169.º da Constituição.", 
-   "type": "documento"
+   "text": "Sr. Deputado Jorge Lemos, tenho muitas dúvidas sobre esta proposta de aditamento e gostaria que ficasse melhor especificada a ideia que lhe está subjacente.\nO Sr. Deputado disse que na lei de declaração do estado de sítio e do estado de emergência se aplicam as regras gerais do processo legislativo e, portanto, haveria um debate na generalidade e na especialidade ou, pelo menos, uma votação na generalidade e na especialidade e uma votação final global. Porém, tenho imensas dúvidas de que assim seja, porque a declaração do estado de sítio ou do estado de emergência não se assemelha, de modo nenhum, a um processo legislativo, uma vez que não há aqui iniciativa legislativa, mas sim um decreto, um pedido de autorização do Sr. Presidente da República que não tem nenhuma semelhança com propostas de lei ou projectos de lei.\nAlém disso, tenho a maior das dúvidas em que no Regimento se possa estabelecer que haverá uma votação na generalidade e na especialidade que implica ou pode implicar alterações ao decreto ou à mensagem que é objecto de votação. Creio, pois, que não podemos caminhar nesse sentido porque se trata de uma matéria que deve ser regulada por lei da Assembleia e não pelo Regimento.\nO Sr. Deputado não acharia mais correcto que nesta matéria houvesse apenas uma debate e uma votação? Quanto a mim não se aplicariam aqui as regras gerais de que tem que haver um debate e uma votação na generalidade, na especialidade e uma votação final global. Diria apenas que haverá um debate e uma votação e depois a deliberação definitiva da Assembleia da República é que assume a forma de lei por aplicação do artigo 169.º da Constituição.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Jorge Lemos, para responder.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Jorge Lemos, para responder.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr.ª Deputada Margarida Salema, V. Ex.ª compreenderá que a escassez de tempo não me permitirá uma resposta muito longa.\nEm todo o caso, gostaria de dizer que creio ter ficado claro que a nossa proposta visa prever a possibilidade de haver alterações introduzidas durante o debate. Ora, essa situação só pode ser prevista com um inciso como o que propomos.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr.ª Deputada Margarida Salema, V. Ex.ª compreenderá que a escassez de tempo não me permitirá uma resposta muito longa.\nEm todo o caso, gostaria de dizer que creio ter ficado claro que a nossa proposta visa prever a possibilidade de haver alterações introduzidas durante o debate. Ora, essa situação só pode ser prevista com um inciso como o que propomos.\nO Sr. *Presidente*: -Tem a palavra a Sr.ª Deputada Margarida Salema.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: -Tem a palavra a Sr.ª Deputada Margarida Salema.", 
-   "type": "documento"
+   "text": "Sr. Deputado Jorge Lemos, compreendo que V. Ex.ª não tenha tempo para dar mais explicações. Contudo, se bem atentar no que consta actualmente no Regimento, verificará que se prevê uma discussão na generalidade e na especialidade e não se prevê uma votação nem na especialidade nem na generalidade. Pode haver uma discussão genérica sobre o pedido de autorização e pode haver uma discussão específica, nomeadamente uma discussão que incida sobre cada um dos direitos cujo exercício é suspenso, mas tenho a maior das dúvidas que possamos aqui estabelecer a necessidade de uma votação na generalidade, na especialidade ou uma votação final global. Repare o Sr. Deputado que, de acordo com o artigo 176.º do Regimento, apenas se diz: «A votação incide sobre a concessão ou não da autorização.» Portanto, cabe à Assembleia apenas votar se dá ou não autorização ao Presidente da República para declarar o estado de sítio...", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "A Sr.ª Margarida Salema (PSD): Sr. Deputado Jorge Lemos, compreendo que V. Ex.ª não tenha tempo para dar mais explicações. Contudo, se bem atentar no que consta actualmente no Regimento, verificará que se prevê uma discussão na generalidade e na especialidade e não se prevê uma votação nem na especialidade nem na generalidade. Pode haver uma discussão genérica sobre o pedido de autorização e pode haver uma discussão específica, nomeadamente uma discussão que incida sobre cada um dos direitos cujo exercício é suspenso, mas tenho a maior das dúvidas que possamos aqui estabelecer a necessidade de uma votação na generalidade, na especialidade ou uma votação final global. Repare o Sr. Deputado que, de acordo com o artigo 176.º do Regimento, apenas se diz: «A votação incide sobre a concessão ou não da autorização.» Portanto, cabe à Assembleia apenas votar se dá ou não autorização ao Presidente da República para declarar o estado de sítio...", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "Dá-me licença que a interrompa, Sr.ª Deputada?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Manuel Mendes* (PCP): Dá-me licença que a interrompa, Sr.ª Deputada?", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "A Oradora: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "A Sr.ª Deputada Margarida Salema não admite que o decreto do Presidente da República em apreciação na Câmara possa ser sujeito, por parte dos senhores deputados, a alterações e, portanto, à aprovação da quase totalidade, mas à não aprovação de tal ou tal articulado? Ora, se esta possibilidade é real - uma vez que não pode negar-se tal procedimento a nenhum projecto de lei -, é ou não óbvio que a votação terá sempre de ocorrer nos termos em que a propomos?\n27 DE OUTUBRO DE 1984 229", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *José Manuel Mendes* (PCP): A Sr.ª Deputada Margarida Salema não admite que o decreto do Presidente da República em apreciação na Câmara possa ser sujeito, por parte dos senhores deputados, a alterações e, portanto, à aprovação da quase totalidade, mas à não aprovação de tal ou tal articulado? Ora, se esta possibilidade é real - uma vez que não pode negar-se tal procedimento a nenhum projecto de lei -, é ou não óbvio que a votação terá sempre de ocorrer nos termos em que a propomos?", 
-   "type": "documento"
-  }, 
-  {
-   "text": "27 DE OUTUBRO DE 1984 229", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
    "text": "Pelos vistos, a Sr.ª Deputada Margarida Salema entende que o decreto do Sr. Presidente da República não é passível de ser aprovado com alterações. Ou é aprovado tal como vem ou, pura e simplesmente, não é aprovado. Ora, esse não é o nosso entendimento.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "A Oradora: Sr. Deputado, a posição que há pouco exprimi não é a definitiva. Contudo, creio que a discussão que estamos a ter não deve ter lugar em sede de Regimento, porque se trata de uma matéria que creio que só por lei pode ser resolvida. E insisto um pouco nesse aspecto porque não creio que por mera resolução - como é o caso do Regimento, que apenas obriga internamente a Assembleia da República - possamos estar a ir mais além daquilo que consta da proposta da Comissão em matéria de votação.\nAliás, o Sr. Deputado Luís Beiroco teve o cuidado de se restringir nessa matéria àquilo que o Regimento actualmente continha, apenas fazendo a mera adaptação das alterações decorrentes da revisão do Regimento em 1982.\nAinda não tenho posição definitiva sobre a questão que o Sr. Deputado colocou, ou seja, a de saber se a Assembleia pode ou não introduzir alterações ao decreto do Presidente. Contudo, o que creio é que no Regimento não devemos estar já a introduzir alterações no sentido das que o PCP propôs.\nSeria, pois, muito mais prudente que nos limitássemos a manter a norma actual do Regimento que apenas refere que a votação incide sobre a concessão ou não da autorização. Aliás, isso é mais lógico, porque o Presidente da República não é um órgão com iniciativa legislativa. É um órgão inteiramente autónomo e independente da Assembleia da República e apenas está obrigado a pedir autorização. Ora, a Assembleia concede-lhe ou não essa autorização e, face a uma não concessão de autorização, cabe ao Presidente da República alterar o decreto tendo em conta o que a Assembleia referiu no debate e fazer um novo decreto em que se contemplem, por exemplo, as objecções que foram colocadas pela Assembleia.\nPortanto, tenho muitas dúvidas em que possamos dar o nosso acordo a uma proposta do tipo daquela que o PCP propõe.", 
-   "type": "documento"
+   "speaker": "A Oradora", 
+   "text": "Sr. Deputado, a posição que há pouco exprimi não é a definitiva. Contudo, creio que a discussão que estamos a ter não deve ter lugar em sede de Regimento, porque se trata de uma matéria que creio que só por lei pode ser resolvida. E insisto um pouco nesse aspecto porque não creio que por mera resolução - como é o caso do Regimento, que apenas obriga internamente a Assembleia da República - possamos estar a ir mais além daquilo que consta da proposta da Comissão em matéria de votação.\nAliás, o Sr. Deputado Luís Beiroco teve o cuidado de se restringir nessa matéria àquilo que o Regimento actualmente continha, apenas fazendo a mera adaptação das alterações decorrentes da revisão do Regimento em 1982.\nAinda não tenho posição definitiva sobre a questão que o Sr. Deputado colocou, ou seja, a de saber se a Assembleia pode ou não introduzir alterações ao decreto do Presidente. Contudo, o que creio é que no Regimento não devemos estar já a introduzir alterações no sentido das que o PCP propôs.\nSeria, pois, muito mais prudente que nos limitássemos a manter a norma actual do Regimento que apenas refere que a votação incide sobre a concessão ou não da autorização. Aliás, isso é mais lógico, porque o Presidente da República não é um órgão com iniciativa legislativa. É um órgão inteiramente autónomo e independente da Assembleia da República e apenas está obrigado a pedir autorização. Ora, a Assembleia concede-lhe ou não essa autorização e, face a uma não concessão de autorização, cabe ao Presidente da República alterar o decreto tendo em conta o que a Assembleia referiu no debate e fazer um novo decreto em que se contemplem, por exemplo, as objecções que foram colocadas pela Assembleia.\nPortanto, tenho muitas dúvidas em que possamos dar o nosso acordo a uma proposta do tipo daquela que o PCP propõe.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, peço a palavra para formular pedidos de esclarecimento.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, peço a palavra para formular pedidos de esclarecimento.", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr.ª Deputada Margarida Salema, esta questão vai ser difícil de apurar no contexto de um debate em que uma das partes já dispõe de muito pouco tempo.\nA declaração de estado de sítio ou do estado de emergência é fundamentada e contém a especificação dos direitos, liberdades e garantias cujo exercício fica suspenso.\nNa hipótese que a Sr.ª Deputada coloca, o que a Assembleia poderia fazer era não conceder a autorização. Sendo assim, o Sr. Presidente da República alterava o decreto, mas, no entanto, a Assembleia continuava a entender que ainda não era essa a forma adequada e tornava a não conceder a autorização. Ora, parece-me que essa seria uma situação de impasse pior do que aquela que é materialmente realizável e que corresponde à competência da Assembleia, porque só esta é que pode autorizar a restrição de direitos.\nCreio, pois, que valerá a pena considerar a hipótese que colocamos numa filosofia global de declaração do estado de sítio.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr.ª Deputada Margarida Salema, esta questão vai ser difícil de apurar no contexto de um debate em que uma das partes já dispõe de muito pouco tempo.\nA declaração de estado de sítio ou do estado de emergência é fundamentada e contém a especificação dos direitos, liberdades e garantias cujo exercício fica suspenso.\nNa hipótese que a Sr.ª Deputada coloca, o que a Assembleia poderia fazer era não conceder a autorização. Sendo assim, o Sr. Presidente da República alterava o decreto, mas, no entanto, a Assembleia continuava a entender que ainda não era essa a forma adequada e tornava a não conceder a autorização. Ora, parece-me que essa seria uma situação de impasse pior do que aquela que é materialmente realizável e que corresponde à competência da Assembleia, porque só esta é que pode autorizar a restrição de direitos.\nCreio, pois, que valerá a pena considerar a hipótese que colocamos numa filosofia global de declaração do estado de sítio.\nO Sr. *Presidente*: -Tem a palavra a Sr.ª Deputada Margarida Salema para responder, se assim o desejar.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: -Tem a palavra a Sr.ª Deputada Margarida Salema para responder, se assim o desejar.", 
-   "type": "documento"
+   "text": "Sr. Deputado João Amaral, desde que a proposta foi apresentada não tenho feito outra coisa senão considerar aquilo que é proposto. No entanto, tenho imensas dúvidas em relação a ela e não creio que em sede de Regimento possamos ir mais além do que o estabelecimento geral de que a votação incide sobre a concessão ou não da autorização.\nContudo, gostaria de ouvir por parte das outras bancadas mais opiniões sobre esta matéria, na medida em que ela não é isenta de dúvidas, muito pelo contrário. Aliás, devo dizer que tenho a certeza que há propostas de lei sobre esta matéria, e talvez a ASDI possa dar-nos algum esclarecimento em torno desta questão.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "A Sr.ª Margarida Salema (PSD): Sr. Deputado João Amaral, desde que a proposta foi apresentada não tenho feito outra coisa senão considerar aquilo que é proposto. No entanto, tenho imensas dúvidas em relação a ela e não creio que em sede de Regimento possamos ir mais além do que o estabelecimento geral de que a votação incide sobre a concessão ou não da autorização.\nContudo, gostaria de ouvir por parte das outras bancadas mais opiniões sobre esta matéria, na medida em que ela não é isenta de dúvidas, muito pelo contrário. Aliás, devo dizer que tenho a certeza que há propostas de lei sobre esta matéria, e talvez a ASDI possa dar-nos algum esclarecimento em torno desta questão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Vilhena de Carvalho.", 
-   "type": "documento"
+   "party": "ASDI", 
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Sr. Presidente, Srs. Deputados: \nTenho assistido com alguma satisfação ao debate sobre esta matéria e, uma vez instado para isso, também quero manifestar a minha posição.\nEmbora não seja despiciendo estarmos a tratar desta questão, creio que não deveremos consignar no Regimento, por forma definitiva, a solução que acharmos melhor de um ponto de vista substantivo. Deveríamos deixar para a lei a elaboração sobre o estado de sítio e o estado de emergência - e estou convencido de que há-de ser a curto prazo que o problema virá a ser resolvido. Creio que no Regimento não se deveriam consignar soluções que amanhã pudessem vir a ser contrariadas pelo dispositivo da lei que viéssemos a promulgar. Daí que esteja muito de acordo com a Sr.ª Deputada Margarida Salema.\nIndependentemente da posição de fundo quanto à questão de saber se a Assembleia da República poderá ou não modificar as condições e a fundamentação apresentada pelo Presidente da República, julgo que é em sede de lei que essa questão deve ser tratada. E isto porque ao aceitarmos a proposta de aditamento apresentada pelo PCP estamos já a tomar uma posição de fundo. Ora isto é adiantarmo-nos a uma solução com a preocupação de a regulamentar. Se apenas se tratasse de, por forma regimental, tratarmos de uma questão acerca da qual já tínhamos um dado adquirido e definitivo, aceitaria a proposta. No entanto, esta proposta pressupõe já uma tomada de posição que neste momento ainda não é inteiramente líquida.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Vilhena de Carvalho* (ASDI): Sr. Presidente, Srs. Deputados: \nTenho assistido com alguma satisfação ao debate sobre esta matéria e, uma vez instado para isso, também quero manifestar a minha posição.\nEmbora não seja despiciendo estarmos a tratar desta questão, creio que não deveremos consignar no Regimento, por forma definitiva, a solução que acharmos melhor de um ponto de vista substantivo. Deveríamos deixar para a lei a elaboração sobre o estado de sítio e o estado de emergência - e estou convencido de que há-de ser a curto prazo que o problema virá a ser resolvido. Creio que no Regimento não se deveriam consignar soluções que amanhã pudessem vir a ser contrariadas pelo dispositivo da lei que viéssemos a promulgar. Daí que esteja muito de acordo com a Sr.ª Deputada Margarida Salema.\nIndependentemente da posição de fundo quanto à questão de saber se a Assembleia da República poderá ou não modificar as condições e a fundamentação apresentada pelo Presidente da República, julgo que é em sede de lei que essa questão deve ser tratada. E isto porque ao aceitarmos a proposta de aditamento apresentada pelo PCP estamos já a tomar uma posição de fundo. Ora isto é adiantarmo-nos a uma solução com a preocupação de a regulamentar. Se apenas se tratasse de, por forma regimental, tratarmos de uma questão acerca da qual já tínhamos um dado adquirido e definitivo, aceitaria a proposta. No entanto, esta proposta pressupõe já uma tomada de posição que neste momento ainda não é inteiramente líquida.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, peço a palavra para formular pedidos de esclarecimento.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, peço a palavra para formular pedidos de esclarecimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça Favor, Sr. Deputado.\n230 SÉRIE - NÚMERO 7", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça Favor, Sr. Deputado.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Deputado, de alguma forma vamos tomar uma posição de fundo sem qualquer alternativa, porque consideramos ou não esta proposta e, ao considerá-la ou não, estamos a tomar uma posição.\nAssim, pergunto-lhe se o Sr. Deputado toma também uma posição de fundo quando vota o artigo tal como ele existe neste momento.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "230 SÉRIE - NÚMERO 7", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado Vilhena de Carvalho, está ainda inscrito outro deputado para pedir esclarecimentos. V. Ex.ª pretende responder já ou no fim, conjuntamente?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Deputado, de alguma forma vamos tomar uma posição de fundo sem qualquer alternativa, porque consideramos ou não esta proposta e, ao considerá-la ou não, estamos a tomar uma posição.\nAssim, pergunto-lhe se o Sr. Deputado toma também uma posição de fundo quando vota o artigo tal como ele existe neste momento.", 
-   "type": "documento"
+   "party": "ASDI", 
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Respondo no fim, Sr. Presidente.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado Vilhena de Carvalho, está ainda inscrito outro deputado para pedir esclarecimentos. V. Ex.ª pretende responder já ou no fim, conjuntamente?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Manuel Mendes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Vilhena de Carvalho* (ASDI): Respondo no fim, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "Sr. Deputado Vilhena de Carvalho, para além da questão que foi colocada pelo meu camarada João Amaral, gostaria de o confrontar com uma outra.\nSabemos que não há nenhuma iniciativa legislativa que seja presente a esta Câmara que não fique sujeita a alterações introduzidas pelos senhores deputados. Ora, o projecto do Sr. Presidente da República não pode eximir-se a este princípio geral, porque se trata de um autêntico projecto articulado - tem que conter a hora a que começa o estado de sítio, quais as condições em que ele vai vigorar, quais são os direitos que vão ser suprimidos, em que partes do território nacional é que vai ter lugar, se é só na área metropolitana de Lisboa, se é em todo o País, etc.\nPortanto, se se está efectivamente perante um projecto articulado, impõe-se saber se sim ou não - e a nós parece-nos irretorquível que sim - os deputados podem proceder à não aprovação do diploma in totum. Se podem, é perfeitamente lógico que consagremos em sede de Regimento uma norma como esta.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Manuel Mendes.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vilhena de Carvalho para responder, se o desejar.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Manuel Mendes* (PCP): Sr. Deputado Vilhena de Carvalho, para além da questão que foi colocada pelo meu camarada João Amaral, gostaria de o confrontar com uma outra.\nSabemos que não há nenhuma iniciativa legislativa que seja presente a esta Câmara que não fique sujeita a alterações introduzidas pelos senhores deputados. Ora, o projecto do Sr. Presidente da República não pode eximir-se a este princípio geral, porque se trata de um autêntico projecto articulado - tem que conter a hora a que começa o estado de sítio, quais as condições em que ele vai vigorar, quais são os direitos que vão ser suprimidos, em que partes do território nacional é que vai ter lugar, se é só na área metropolitana de Lisboa, se é em todo o País, etc.\nPortanto, se se está efectivamente perante um projecto articulado, impõe-se saber se sim ou não - e a nós parece-nos irretorquível que sim - os deputados podem proceder à não aprovação do diploma in totum. Se podem, é perfeitamente lógico que consagremos em sede de Regimento uma norma como esta.", 
-   "type": "documento"
+   "party": "ASDI", 
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Relativamente à questão que o Sr.Deputado João Amaral me pôs no sentido de saber se estamos ou não a tomar já uma posição ao aceitarmos o artigo 176.º tal como vem proposto na proposta do Sr. Deputado Luís Beiroco, penso que não tomamos uma posição de fundo, porque o que decidimos votando esta proposta é apenas a necessidade de haver uma votação.\nMas uma coisa é o dizer-se que irá haver uma votação, outra coisa é caracterizarmos que tipo de votação é que se realizará. E o tipo de votação que se realizará está dependente de tal posição de fundo que eu concordo que...", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Vilhena de Carvalho para responder, se o desejar.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Dá-me licença que o interrompa, Sr.Deputado?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Vilhena de Carvalho* (ASDI): Relativamente à questão que o Sr.Deputado João Amaral me pôs no sentido de saber se estamos ou não a tomar já uma posição ao aceitarmos o artigo 176.º tal como vem proposto na proposta do Sr. Deputado Luís Beiroco, penso que não tomamos uma posição de fundo, porque o que decidimos votando esta proposta é apenas a necessidade de haver uma votação.\nMas uma coisa é o dizer-se que irá haver uma votação, outra coisa é caracterizarmos que tipo de votação é que se realizará. E o tipo de votação que se realizará está dependente de tal posição de fundo que eu concordo que...", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Faça favor.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Dá-me licença que o interrompa, Sr.Deputado?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amara!", 
+   "text": "Sr. Deputado, penso que era bom esclarecer este ponto. Isso significa que, no seu pensamento, ao votarmos o artigo tal como \nele vem proposto não fechamos nada, nomeadamente em sede regimental, para que o processo possa ser como nós propomos?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Faça favor.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Exactamente. Penso que a formulação apresentada pelo Sr.Deputado Luís Beiroco é suficientemente aberta para poder contemplar aquilo que agora a proposta pretende apertis verbis e o que eu não queria era vincular-me em definitivo à proposta do PCP.\nPassando a responder ao Sr. Deputado José Manuel Mendes, direi que a resposta que tenho que lhe dar neste momento já foi dada pelo Sr.Deputado Jorge Lemos quando, numa intervenção relativa a este artigo, disse que o PCP pensa que existem no Regimento dispositivos de aplicação geral que poderiam ser aplicáveis à declaração do estado de sítio e do estado de emergência mas que, para particularizar melhor...\nOra, esta é, justamente, a resposta à sua questão, pois o Sr. Deputado Jorge Lemos conveio em que o Regimento já contém genericamente soluções para o problema.\nPortanto, o que eu pretendo é uma fórmula que seja suficientemente aberta, que não feche a possibilidade.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amara!* (PCP): Sr. Deputado, penso que era bom esclarecer este ponto. Isso significa que, no seu pensamento, ao votarmos o artigo tal como \nele vem proposto não fechamos nada, nomeadamente em sede regimental, para que o processo possa ser como nós propomos?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Deputado, dá-me licença que o interrompa?", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Orador: Exactamente. Penso que a formulação apresentada pelo Sr.Deputado Luís Beiroco é suficientemente aberta para poder contemplar aquilo que agora a proposta pretende apertis verbis e o que eu não queria era vincular-me em definitivo à proposta do PCP.\nPassando a responder ao Sr. Deputado José Manuel Mendes, direi que a resposta que tenho que lhe dar neste momento já foi dada pelo Sr.Deputado Jorge Lemos quando, numa intervenção relativa a este artigo, disse que o PCP pensa que existem no Regimento dispositivos de aplicação geral que poderiam ser aplicáveis à declaração do estado de sítio e do estado de emergência mas que, para particularizar melhor...\nOra, esta é, justamente, a resposta à sua questão, pois o Sr. Deputado Jorge Lemos conveio em que o Regimento já contém genericamente soluções para o problema.\nPortanto, o que eu pretendo é uma fórmula que seja suficientemente aberta, que não feche a possibilidade.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Deputado, dá-me licença que o interrompa?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Deputado Vilhena de Carvalho, eu disse precisamente o contrário. Disse que o Regimento contém normas gerais em relação a todo o processo legislativo e que, sendo este um processo especial, do mesmo modo que estão previstos os restantes processos, deveríamos também prever este processo. Foi isto que eu disse, não remeti para as disposições gerais do Regimento.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Bom, de qualquer maneira, argumentarei da seguinte forma: \ndesde que se considere que é omissa a regulamentação especial desta matéria, sempre teria aplicação a disposição genérica, e, portanto, suponho que continuo a alicerçar a minha argumentação dizendo que não ficávamos perante uma situação de lacuna.\nHaveria sempre uma norma geral que poderia ter aplicação consoante as soluções de fundo que na discussão da lei sobre o estado de sítio e o estado de emergência esta Assembleia venha a definir.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Deputado Vilhena de Carvalho, eu disse precisamente o contrário. Disse que o Regimento contém normas gerais em relação a todo o processo legislativo e que, sendo este um processo especial, do mesmo modo que estão previstos os restantes processos, deveríamos também prever este processo. Foi isto que eu disse, não remeti para as disposições gerais do Regimento.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Orador: Bom, de qualquer maneira, argumentarei da seguinte forma: \ndesde que se considere que é omissa a regulamentação especial desta matéria, sempre teria aplicação a disposição genérica, e, portanto, suponho que continuo a alicerçar a minha argumentação dizendo que não ficávamos perante uma situação de lacuna.\nHaveria sempre uma norma geral que poderia ter aplicação consoante as soluções de fundo que na discussão da lei sobre o estado de sítio e o estado de emergência esta Assembleia venha a definir.", 
-   "type": "documento"
-  }, 
-  {
+   "speaker": "O Orador", 
    "text": "O Sr. *Presidente*: -Tem a palavra a Sr.ª Deputada Margarida Salema para uma intervenção.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "A Sr.ª Margarida Salema (PSD): É apenas para sublinhar que, \nindependentemente de uma tomada de posição sobre a matéria de fundo - a qual penso que não tem lugar aqui, volto a afirmar -, tenho a maior das dúvidas em que a figura constitucional da autorização, que existe a propósito de inúmeros institutos, possa ser, de per si, objecto de qualquer espécie de alteração. E isto porque a figura da autorização sempre foi concebida no sentido de permitir o exercício de um poder próprio de um orgão de soberania, quando a Constituição exige a autorização de outro órgão de soberania.", 
-   "type": "documento"
+   "text": "É apenas para sublinhar que, independentemente de uma tomada de posição sobre a matéria de fundo - a qual penso que não tem lugar aqui, volto a afirmar -, tenho a maior das dúvidas em que a figura constitucional da autorização, que existe a propósito de inúmeros institutos, possa ser, de per si, objecto de qualquer espécie de alteração. E isto porque a figura da autorização sempre foi concebida no sentido de permitir o exercício de um poder próprio de um orgão de soberania, quando a Constituição exige a autorização de outro órgão de soberania.", 
+   "type": "speaker_error"
   }, 
   {
    "text": "DE OUTUBRO DE 1984 231", 
-   "type": "documento"
+   "type": null
   }, 
   {
    "text": "Ora, não pode haver qualquer similitude neste processo com um processo legislativo, porque - volto a afirmar - o Presidente da República não é, de forma nenhuma, um órgão competente para interpor iniciativas legislativas na Assembleia da República e, portanto, não há nenhuma semelhança entre um pedido de autorização e um projecto de lei ou uma proposta de lei.\nPortanto, temos que encarar esta figura de uma forma completamente distinta, independentemente de, por questões sistemáticas, se ter incluído o processo de ratificação do estado de sítio ou do estado de emergência em sede de processos legislativos especiais; isso não significa, de forma nenhuma, que possamos qualificar tal processo como um processo legislativo especial.\nAssim, discordo em absoluto daquilo que foi dito há pouco pelo Sr.Deputado José Manuel Mendes, segundo o qual seria aqui desencadeado um processo legislativo com determinadas particularidades.\nVolto a dizer que não vou tomar aqui uma posição de fundo, mas o PSD entende que a proposta que neste momento melhor se adequa à questão da votação é a que consta da proposta da Comissão, e será essa que nós votaremos.", 
-   "type": "documento"
+   "type": null
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado João Amaral, para pedir esclarecimentos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado João Amaral, para pedir esclarecimentos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr.ª Deputada, qual é, afinal, o \nentendimento que tem do processo? \nA mensagem que é enviada contém ou não a fundamentação e a \nespecificação dos direitos que se pretende que sejam suspensos? É ou não um texto completo que pode corresponder ao conteúdo total da declaração do estado de sítio ou do estado de emergência? Nesses termos, pode ou não a Assembleia discordar de que um certo direito seja suspenso e, se o fizer, não tem outra solução senão dizer que não autorizou ou pode dizer «autorizo nestes termos», ou seja, com uma alteração? \nFinalmente, pergunto: Que é que a Assembleia faz quando autoriza? \nPublica o quê? Em que sítio? A Assembleia faz ou não uma lei para ser promulgada e publicada? No fundo, o processo é como é. O Presidente declara o estado de sítio quando promulga a lei da Assembleia?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr.ª Deputada, qual é, afinal, o entendimento que tem do processo? \nA mensagem que é enviada contém ou não a fundamentação e a \nespecificação dos direitos que se pretende que sejam suspensos? É ou não um texto completo que pode corresponder ao conteúdo total da declaração do estado de sítio ou do estado de emergência? Nesses termos, pode ou não a Assembleia discordar de que um certo direito seja suspenso e, se o fizer, não tem outra solução senão dizer que não autorizou ou pode dizer «autorizo nestes termos», ou seja, com uma alteração? \nFinalmente, pergunto: Que é que a Assembleia faz quando autoriza? \nPublica o quê? Em que sítio? A Assembleia faz ou não uma lei para ser promulgada e publicada? No fundo, o processo é como é. O Presidente declara o estado de sítio quando promulga a lei da Assembleia?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra a Sr.ª Deputada Margarida Salema para responder, se o desejar.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Deputada Margarida Salema para responder, se o desejar.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Margarida Salema (PSD): Sr. Deputado João Amaral, obviamente que as questões de fundo são essas e, portanto, elas deverão ser resolvidas na tal lei sobre o estado de sítio e o estado de emergência.\nPorém, em minha opinião - que não é definitiva, não é decisiva, nem tão-pouco é a opinião do PSD sobre esta matéria, porque ela ainda não foi tomada -, quanto à lei de que falou e em relação à qual perguntou se eventualmente a Assembleia poderia alterar um ou outro direito tal como consta da mensagem do Presidente da República, a qual não só deve ser fundamentada mas deve conter todos os direitos cujo exercício é suspenso, a meu ver, se a Assembleia discordar de que alguns direitos devam ser suspensos, a Assembleia não tem outra alternativa senão decidir pela recusa da autorização. E face a essa recusa o Presidente tomará a sua posição.\nDe outro modo teremos uma lei de autorização que dirá uma coisa e um decreto que dirá o mesmo que essa lei de autorização. Ora, a figura de autorização não é, de maneira nenhuma, o mesmo que um trâmite de um processo legislativo; ela não é um trâmite, é apenas um requisito para o exercício de um determinado poder por um outro órgão de soberania.\nPortanto, tenho muitas dúvidas de que a solução deva ser aquela que o Sr. Deputado enunciou, e por isso penso que a fórmula apresentada pelo Sr. Deputado Luís Beiroco é a que melhor corresponde neste momento.\nAliás, repare, trata-se da mesma solução que consta do Regimento em vigor - aqui não inovamos -, que é efectivamente a mais prudente e a mais segura neste momento.", 
-   "type": "documento"
+   "text": "Sr. Deputado João Amaral, obviamente que as questões de fundo são essas e, portanto, elas deverão ser resolvidas na tal lei sobre o estado de sítio e o estado de emergência.\nPorém, em minha opinião - que não é definitiva, não é decisiva, nem tão-pouco é a opinião do PSD sobre esta matéria, porque ela ainda não foi tomada -, quanto à lei de que falou e em relação à qual perguntou se eventualmente a Assembleia poderia alterar um ou outro direito tal como consta da mensagem do Presidente da República, a qual não só deve ser fundamentada mas deve conter todos os direitos cujo exercício é suspenso, a meu ver, se a Assembleia discordar de que alguns direitos devam ser suspensos, a Assembleia não tem outra alternativa senão decidir pela recusa da autorização. E face a essa recusa o Presidente tomará a sua posição.\nDe outro modo teremos uma lei de autorização que dirá uma coisa e um decreto que dirá o mesmo que essa lei de autorização. Ora, a figura de autorização não é, de maneira nenhuma, o mesmo que um trâmite de um processo legislativo; ela não é um trâmite, é apenas um requisito para o exercício de um determinado poder por um outro órgão de soberania.\nPortanto, tenho muitas dúvidas de que a solução deva ser aquela que o Sr. Deputado enunciou, e por isso penso que a fórmula apresentada pelo Sr. Deputado Luís Beiroco é a que melhor corresponde neste momento.\nAliás, repare, trata-se da mesma solução que consta do Regimento em vigor - aqui não inovamos -, que é efectivamente a mais prudente e a mais segura neste momento.", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra Sr. Deputado Hernâni Moutinho.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra Sr. Deputado Hernâni Moutinho.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Hernâni Moutinho* (CDS): Sr. Presidente, Srs. Deputados: Creio que a redacção da proposta da autoria do meu colega de bancada deputado Luís Beiroco será, de facto, aquela que mais está de acordo com a matéria aqui em discussão, e parece-me subjacente a esta redacção a ideia de não verter para o Regimento matéria que lá não deve ser vertida e que tem assento num outro local já amplamente referido pela Sr.ª Deputada Margarida Salema, ou seja, a lei.\nNo fundo, o próprio artigo 177.º do Regimento, que debateremos a seguir, quando refere que a autorização toma a forma de lei, de certo modo significa que o que aqui se desencadeia não é um processo legislativo normal, porque, se o fosse, não haveria necessidade de dizer-se que a autorização toma a forma de lei.\nQuanto à circunstância de esta Assembleia poder ou não conceder autorização parcial ou totalmente, tenho a opinião de que não pode. O Sr. Presidente da República solicita autorização para a declaração do estado de sítio e, pura e simplesmente, a Assembleia da República ou a concede ou a nega. Creio, pois, que a redacção proposta pelo Sr.Deputado Luís Beiroco é, de facto, aquela que melhor se harmoniza com a matéria em jogo e não cria uma espécie de confusão, lançando no Regimento matéria que não deve ter assento no Regimento. Julgo que, em sede de comissão de redacção, talvez alguma coisa se possa fazer nesta matéria.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Hernâni Moutinho", 
+   "text": "Sr. Presidente, Srs. Deputados: Creio que a redacção da proposta da autoria do meu colega de bancada deputado Luís Beiroco será, de facto, aquela que mais está de acordo com a matéria aqui em discussão, e parece-me subjacente a esta redacção a ideia de não verter para o Regimento matéria que lá não deve ser vertida e que tem assento num outro local já amplamente referido pela Sr.ª Deputada Margarida Salema, ou seja, a lei.\nNo fundo, o próprio artigo 177.º do Regimento, que debateremos a seguir, quando refere que a autorização toma a forma de lei, de certo modo significa que o que aqui se desencadeia não é um processo legislativo normal, porque, se o fosse, não haveria necessidade de dizer-se que a autorização toma a forma de lei.\nQuanto à circunstância de esta Assembleia poder ou não conceder autorização parcial ou totalmente, tenho a opinião de que não pode. O Sr. Presidente da República solicita autorização para a declaração do estado de sítio e, pura e simplesmente, a Assembleia da República ou a concede ou a nega. Creio, pois, que a redacção proposta pelo Sr.Deputado Luís Beiroco é, de facto, aquela que melhor se harmoniza com a matéria em jogo e não cria uma espécie de confusão, lançando no Regimento matéria que não deve ter assento no Regimento. Julgo que, em sede de comissão de redacção, talvez alguma coisa se possa fazer nesta matéria.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, Srs. Deputados: Penso que a solução que neste momento é mais prudente que a Assembleia tome é aquela que vem expressa na proposta do Sr. Deputado Luís Beiroco.\nCompreendo que a bancada do PCP quisesse ir um pouco mais além e quisesse regulamentar com mais profundidade este processo de autorização de declaração do estado de sítio ou do estado de emergência. No entanto, foram abundantemente aqui expostas algumas dúvidas que existem em boa parte dos Srs. Deputados, que levam a que, sob o ponto", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, Srs. Deputados: Penso que a solução que neste momento é mais prudente que a Assembleia tome é aquela que vem expressa na proposta do Sr. Deputado Luís Beiroco.\nCompreendo que a bancada do PCP quisesse ir um pouco mais além e quisesse regulamentar com mais profundidade este processo de autorização de declaração do estado de sítio ou do estado de emergência. No entanto, foram abundantemente aqui expostas algumas dúvidas que existem em boa parte dos Srs. Deputados, que levam a que, sob o ponto 232 I SÉRIE - NÚMERO 7", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "232 I SÉRIE - NÚMERO 7", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PS", 
+   "speaker": "Luís Saias", 
    "text": "de vista da prudência, não se vá mais além do que aquilo que vem na proposta do Sr. Deputado Luís Beiroco.\nA pergunta fundamental que me parece que pode pôr-se é esta: pode ou não a Assembleia autorizar, com modificações, aquilo que eventualmente venha proposto pela Assembleia da República? Penso que é nesta sede que se localizam as dúvidas principais.\nO artigo 137.º, alínea c), da Constituição diz que: «Compete ao Presidente da República, na prática de actos próprios, declarar o estado de sítio ou o estado de emergência, observado o disposto nos artigos 19.º e 141.º» Portanto, trata-se de um acto da competência própria do Presidente da Assembleia da República, sendo certo que da parte da Assembleia, como se lerá no artigo 141.º da Constituição, compete ou não autorizar. Portanto, da Constituição não se deduz, em primeira linha, que a Assembleia pode alterar as condições de declaração do estado de sítio ou do estado de emergência propostas pelo Presidente da República.\nDevo dizer que me inclino a pensar que a prática que venha a observar-se nessa matéria - se alguma vier a haver - será no sentido de que a Assembleia possa, se não modificar as condições propostas pelo Presidente da República, pelo menos recomendar que essas condições sejam propostas. Mas, como digo, não há prática nesta matéria, não há experiência, e por isso penso que a proposta do PCP é excessivamente ousada neste momento. Por isso o PS inclina-se a que deixem as coisas tal como vinham propostas pelo Sr. Deputado Luis Beiroco.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, Srs. Deputados: A nossa leitura ficou clara e suponho que também ficou claro para todos os Srs.Deputados que nada está fechado nesta matéria, e sublinho este ponto.\nOu seja, ficou claro que é possível, em sede de lei, chegar a uma solução adequada e certa, e que, neste momento, a única coisa que fazemos é considerar que não temos condições para tirar a conclusão nos termos em que propúnhamos a proposta. Nesses termos, e por isso mesmo, retirámo-la.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, Srs. Deputados: A nossa leitura ficou clara e suponho que também ficou claro para todos os Srs.Deputados que nada está fechado nesta matéria, e sublinho este ponto.\nOu seja, ficou claro que é possível, em sede de lei, chegar a uma solução adequada e certa, e que, neste momento, a única coisa que fazemos é considerar que não temos condições para tirar a conclusão nos termos em que propúnhamos a proposta. Nesses termos, e por isso mesmo, retirámo-la.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, não havendo mais oradores inscritos para o artigo 175.º, e retirada a proposta apresentada pelo PCP, passamos ao artigo 176.º", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, não havendo mais oradores inscritos para o artigo 175.º, e retirada a proposta apresentada pelo PCP, passamos ao artigo 176.º", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Peço a palavra, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Peço a palavra, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, Sr. Deputado.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, nós estávamos a discutir o artigo 176.º, sendo a proposta de aditamento que retirámos relativa ao n.º 2 desse mesmo artigo.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, nós estávamos a discutir o artigo 176.º, sendo a proposta de aditamento que retirámos relativa ao n.º 2 desse mesmo artigo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Exacto. Peço desculpa. Vai ser lido o artigo 177.º, vindo da Comissão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Exacto. Peço desculpa. Vai ser lido o artigo 177.º, vindo da Comissão.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -724,8 +775,9 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão. Não havendo inscrições, considero encerrado o debate do artigo 177.º Vai ser lido o artigo 178.º, vindo da Comissão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão. Não havendo inscrições, considero encerrado o debate do artigo 177.º Vai ser lido o artigo 178.º, vindo da Comissão.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -749,8 +801,9 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão.\nNão havendo inscrições, considero encerrado o debate do artigo 178.º Vão ser lidos o artigo 178.º-A, vindo da Comissão, e uma proposta de aditamento, apresentada pelo PCP, ao mesmo artigo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão.\nNão havendo inscrições, considero encerrado o debate do artigo 178.º Vão ser lidos o artigo 178.º-A, vindo da Comissão, e uma proposta de aditamento, apresentada pelo PCP, ao mesmo artigo.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foram lidos. São os seguintes", 
@@ -774,16 +827,20 @@
    "type": "nota"
   }, 
   {
-   "text": "O Sr. *Presidente*: Estão em discussão.\nTem a palavra o Sr. Deputado Luís Saias.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Estão em discussão.\nTem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): É para deixar registado que o PS dá o seu acordo ao texto do artigo 178.º-A, com o aditamento proposto pelo PCP.", 
-   "type": null
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "É para deixar registado que o PS dá o seu acordo ao texto do artigo 178.º-A, com o aditamento proposto pelo PCP.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Não havendo mais inscrições, considero encerrado o debate do artigo 178.º-A. Vai ser lido o artigo 168.º-B, vindo da Comissão.", 
-   "type": null
+   "speaker": "Presidente", 
+   "text": "Não havendo mais inscrições, considero encerrado o debate do artigo 178.º-A. Vai ser lido o artigo 168.º-B, vindo da Comissão.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -803,16 +860,20 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão.\nTem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão.\nTem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): É para dizer que damos o nosso acordo ao texto tal como vem formulado pela Comissão.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "É para dizer que damos o nosso acordo ao texto tal como vem formulado pela Comissão.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Não havendo mais inscrições, considero encerrado o debate do artigo 178.º-B. Vai ser lido o artigo 178.º-C, vindo da Comissão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Não havendo mais inscrições, considero encerrado o debate do artigo 178.º-B. Vai ser lido o artigo 178.º-C, vindo da Comissão.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -828,8 +889,9 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão.\nNão havendo oradores inscritos, considero encerrado o debate do artigo 178.º-C.\nVai ser lida uma proposta de aditamento de um novo artigo - o artigo 178.º-C -, subscrita por deputados do PCP.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão.\nNão havendo oradores inscritos, considero encerrado o debate do artigo 178.º-C.\nVai ser lida uma proposta de aditamento de um novo artigo - o artigo 178.º-C -, subscrita por deputados do PCP.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -845,20 +907,26 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão. Tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão. Tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, uso da palavra apenas para dizer que a proposta de aditamento de um novo artigo visa clarificar um aspecto que estava omisso na proposta que vem da Comissão, aspecto que prevê, designadamente, um dos casos citados pelo Sr. Deputado Vilhena de Carvalho na intervenção que há pouco fez, ou seja, a questão da renovação do pedido.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, uso da palavra apenas para dizer que a proposta de aditamento de um novo artigo visa clarificar um aspecto que estava omisso na proposta que vem da Comissão, aspecto que prevê, designadamente, um dos casos citados pelo Sr. Deputado Vilhena de Carvalho na intervenção que há pouco fez, ou seja, a questão da renovação do pedido.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Muito bem!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Continua em discussão.\nNão havendo mais oradores inscritos, considero encerrado o debate da proposta de um novo artigo 178.0-C,.\nEntretanto, vai ser lida uma proposta de aditamento de um artigo novo - o artigo 178.º-C2 -, apresentada por deputados do PCP.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Continua em discussão.\nNão havendo mais oradores inscritos, considero encerrado o debate da proposta de um novo artigo 178.0-C,.\nEntretanto, vai ser lida uma proposta de aditamento de um artigo novo - o artigo 178.º-C2 -, apresentada por deputados do PCP.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -874,152 +942,184 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão.\nTem a palavra o Sr. Deputado José Manuel Mendes.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão.\nTem a palavra o Sr. Deputado José Manuel Mendes.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Manuel Mendes* (PCP): Também aqui, Sr. Presidente e Srs.Deputados, a nossa proposta visa apenas dar cumprimento a uma previsão constitucional constante, da alínea b) do artigo 165.º Como se depreende da leitura que acaba de ser feita pelo Sr. Secretário, confere-se ao Presidente o direito de promover a convocação do Plenário, estabelecem-se algumas regras consideradas mínimas e vai--se ao detalhe, considerado bastante, no tocante às normas de debate.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "Também aqui, Sr. Presidente e Srs.Deputados, a nossa proposta visa apenas dar cumprimento a uma previsão constitucional constante, da alínea b) do artigo 165.º Como se depreende da leitura que acaba de ser feita pelo Sr. Secretário, confere-se ao Presidente o direito de promover a convocação do Plenário, estabelecem-se algumas regras consideradas mínimas e vai--se ao detalhe, considerado bastante, no tocante às normas de debate.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra a Sr.ª Deputada Margarida Salema para um pedido de esclarecimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra a Sr.ª Deputada Margarida Salema para um pedido de esclarecimento.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "A Sr.ª Margarida Salema (PSD): Sr. Deputado José Manuel Mendes, penso que esta proposta vem um pouco na sequência da discussão que ontem aqui se travou sobre a necessidade de se introduzir um debate acerca da aplicação da declaração do estado de sítio ou do estado de emergência.\nEstou a apreciar a proposta pela primeira vez, de forma que tenho algumas dúvidas quanto ao prazo que nela se estabelece. Quando se diz «nos 5 dias subsequentes ao termo destes», presumo que se pretenda dizer que, uma vez terminado o estado de sítio ou o estado de emergência, se promove um debate para efeito, enfim, de apreciação da aplicação.\nGostaria de saber qual a razão desta fórmula: porquê após o termo, e o que sucede no caso da renovação?", 
-   "type": "documento"
+   "text": "Sr. Deputado José Manuel Mendes, penso que esta proposta vem um pouco na sequência da discussão que ontem aqui se travou sobre a necessidade de se introduzir um debate acerca da aplicação da declaração do estado de sítio ou do estado de emergência.\nEstou a apreciar a proposta pela primeira vez, de forma que tenho algumas dúvidas quanto ao prazo que nela se estabelece. Quando se diz «nos 5 dias subsequentes ao termo destes», presumo que se pretenda dizer que, uma vez terminado o estado de sítio ou o estado de emergência, se promove um debate para efeito, enfim, de apreciação da aplicação.\nGostaria de saber qual a razão desta fórmula: porquê após o termo, e o que sucede no caso da renovação?", 
+   "type": "speaker_error"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias, também para um pedido de esclarecimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias, também para um pedido de esclarecimento.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Eu pretendia pedir ao Sr. Deputado que esclarecesse a razão dos 5 dias.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Eu pretendia pedir ao Sr. Deputado que esclarecesse a razão dos 5 dias.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado José Manuel Mendes para responder aos pedidos de esclarecimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado José Manuel Mendes para responder aos pedidos de esclarecimento.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Manuel Mendes* (PCP): Sr. Presidente, duas breves notas em relação às questões que me foram formuladas pela Sr.ª Deputada Margarida Salema e pelo Sr. Deputado Luís Saias.\nA figura de apreciação da aplicação resulta da própria nomenclatura constitucional. Propositadamente, mesmo não a considerando porventura a melhor, quisemos reproduzi-la. Está constante do artigo 165.º, alínea 6), e parece-nos que cobre aquilo que obviamente terá que decorrer, uma vez cessado o estado de sítio e o estado de emergência. Tem uma eficácia apenas a posteriori. A Constituição veda qualquer outro tipo de verificação.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "Sr. Presidente, duas breves notas em relação às questões que me foram formuladas pela Sr.ª Deputada Margarida Salema e pelo Sr. Deputado Luís Saias.\nA figura de apreciação da aplicação resulta da própria nomenclatura constitucional. Propositadamente, mesmo não a considerando porventura a melhor, quisemos reproduzi-la. Está constante do artigo 165.º, alínea 6), e parece-nos que cobre aquilo que obviamente terá que decorrer, uma vez cessado o estado de sítio e o estado de emergência. Tem uma eficácia apenas a posteriori. A Constituição veda qualquer outro tipo de verificação.\n234 I SÉRIE - NÚMERO 7", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "234 I SÉRIE - NÚMERO 7", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
    "text": "Quanto à questão do prazo, colocada pelo Sr. Deputado Luís Saias, diria que não estamos fechados à consideração de qualquer outro prazo, só que, atendendo às características típicas deste processo e tendo em conta a celeridade de tudo, entendemos que 5 dias talvez seja um prazo razoável.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Vilhena de Carvalho para uma intervenção.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Vilhena de Carvalho para uma intervenção.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Vilhena de Carvalho* (ASDI): Sr. Presidente, Srs. Deputados: \nPretendia exprimir o meu acordo com a proposta do PCP na parte em que prevê a fiscalização, por parte da Assembleia da República, da aplicação que foi feita relativamente à declaração do estado de sítio e do estado de emergência.\nRelativamente ao prazo, creio que ele é demasiado curto, e eu digo porquê: porque a apreciação a ser feita pela Assembleia da República da aplicação deve ser precedida da apresentação, por parte do Governo, de um relatório suficientemente explícito e aprofundado de tudo o que aconteceu durante a declaração do estado de sítio e do estado de emergência. Daí esses 5 dias - nos quais está incluída, naturalmente, a convocação da Assembleia, etc. - serem insuficientes para a preparação cabal de um relatório desses...", 
-   "type": "documento"
+   "party": "ASDI", 
+   "speaker": "Vilhena de Carvalho", 
+   "text": "Sr. Presidente, Srs. Deputados: \nPretendia exprimir o meu acordo com a proposta do PCP na parte em que prevê a fiscalização, por parte da Assembleia da República, da aplicação que foi feita relativamente à declaração do estado de sítio e do estado de emergência.\nRelativamente ao prazo, creio que ele é demasiado curto, e eu digo porquê: porque a apreciação a ser feita pela Assembleia da República da aplicação deve ser precedida da apresentação, por parte do Governo, de um relatório suficientemente explícito e aprofundado de tudo o que aconteceu durante a declaração do estado de sítio e do estado de emergência. Daí esses 5 dias - nos quais está incluída, naturalmente, a convocação da Assembleia, etc. - serem insuficientes para a preparação cabal de um relatório desses...", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Dá-me licença?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Dá-me licença?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Faz favor Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Faz favor Sr. Deputado.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Deputado Vilhena de Carvalho, creio que estamos de acordo quanto à generalidade da proposta, sendo a única questão a do prazo, sobre a qual já dissemos não estarmos fechados.\nPensamos que tem de ser um prazo curto, mas temos em conta a objecção que V. Ex.ª está a colocar. Mas concordaria o Sr. Deputado, por exemplo, com o prazo de 15 dias?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Deputado Vilhena de Carvalho, creio que estamos de acordo quanto à generalidade da proposta, sendo a única questão a do prazo, sobre a qual já dissemos não estarmos fechados.\nPensamos que tem de ser um prazo curto, mas temos em conta a objecção que V. Ex.ª está a colocar. Mas concordaria o Sr. Deputado, por exemplo, com o prazo de 15 dias?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: 15 dias, sim. Aliás, lembraria até que esse é o prazo previsto pelo projecto de lei que se encontra pendente nesta Assembleia.\nPortanto, relativamente à utilidade e ao cumprimento estrito da Constituição a propósito da fiscalização por parte da Assembleia, para mim esse prazo é absolutamente indiscutível. Contudo, quanto ao prazo tornado obrigatório para que a Assembleia proceda a esse acto de fiscalização é que eu acho demasiado curto, daí que me incline para os 15 dias.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "15 dias, sim. Aliás, lembraria até que esse é o prazo previsto pelo projecto de lei que se encontra pendente nesta Assembleia.\nPortanto, relativamente à utilidade e ao cumprimento estrito da Constituição a propósito da fiscalização por parte da Assembleia, para mim esse prazo é absolutamente indiscutível. Contudo, quanto ao prazo tornado obrigatório para que a Assembleia proceda a esse acto de fiscalização é que eu acho demasiado curto, daí que me incline para os 15 dias.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Jorge Lemos para uma intervenção.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Jorge Lemos para uma intervenção.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Gostaria apenas de dizer que fomos sensíveis à argumentação do Sr. Deputado Vilhena de Carvalho e, como tal, modificamos o inciso «5 dias» para «15 dias».", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Gostaria apenas de dizer que fomos sensíveis à argumentação do Sr. Deputado Vilhena de Carvalho e, como tal, modificamos o inciso «5 dias» para «15 dias».", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Então a Mesa alterará a sua proposta.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Então a Mesa alterará a sua proposta.\nSrs. Deputados, se não há mais intervenções damos por encerrada a discussão sobre o artigo 178.º-C2 e passamos ao 178.º-D.\nTem a palavra o Sr. Deputado Jorge Lemos para interpelar a Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "text": "Srs. Deputados, se não há mais intervenções damos por encerrada a discussão sobre o artigo 178.º-C2 e passamos ao 178.º-D.\nTem a palavra o Sr. Deputado Jorge Lemos para interpelar a Mesa.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, no sentido de facilitar a discussão conjunta do capítulo relativo ao estado de sítio e ao estado de emergência não nos opusemos a que não fizéssemos votações, só que agora vamos entrar num outro capítulo, numa nova matéria, daí que nos parece a altura indicada para proceder-se às votações relativas ao estado de sítio e ao estado de emergência.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, no sentido de facilitar a discussão conjunta do capítulo relativo ao estado de sítio e ao estado de emergência não nos opusemos a que não fizéssemos votações, só que agora vamos entrar num outro capítulo, numa nova matéria, daí que nos parece a altura indicada para proceder-se às votações relativas ao estado de sítio e ao estado de emergência.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luis Salas", 
+   "text": "Sr. Presidente, atrevia-me a propor ao Sr.Deputado Jorge Lemos e à sua bancada a continuação do esquema que temos estado a seguir, até porque as matérias, ou pelo menos a sua formulação, são bastante aparentadas. Assim, seguiríamos este ritmo até ao fim do capítulo em que vamos entrar.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luis Salas* (PS): Sr. Presidente, atrevia-me a propor ao Sr.Deputado Jorge Lemos e à sua bancada a continuação do esquema que temos estado a seguir, até porque as matérias, ou pelo menos a sua formulação, são bastante aparentadas. Assim, seguiríamos este ritmo até ao fim do capítulo em que vamos entrar.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Lopes Cardoso.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Lopes Cardoso.", 
-   "type": "documento"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Sr. Presidente, pretendia sugerir ao Partido Socialista - já que eu o não posso fazer - que, em vez de entrarmos agora num debate sobre se continuamos ou não continuamos, requeresse o adiamento destas votações para a próxima reunião, a fim de podermos agora continuar a discussão. Esta é a atitude que me parece mais simples de tomar neste momento, evitando assim uma discussão sobre o assunto. Eu não o faço porque não beneficiei desse direito, senão fá-lo-ia.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Sr. Presidente, pretendia sugerir ao Partido Socialista - já que eu o não posso fazer - que, em vez de entrarmos agora num debate sobre se continuamos ou não continuamos, requeresse o adiamento destas votações para a próxima reunião, a fim de podermos agora continuar a discussão. Esta é a atitude que me parece mais simples de tomar neste momento, evitando assim uma discussão sobre o assunto. Eu não o faço porque não beneficiei desse direito, senão fá-lo-ia.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "A bancada do PCP tem algo a dizer, visto que tinha requerido a votação?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: A bancada do PCP tem algo a dizer, visto que tinha requerido a votação?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, colocada a questão como o Sr. Deputado Lopes Cardoso a colocou, nós, logicamente, não poderemos ter objecções, uma vez que é um direito do Regimento, no entanto cabe ao Partido Socialista dizer se recorre a ele ou não. Se este partido o não fizer pensamos que deve seguir-se a votação do capítulo que estivemos a discutir.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, colocada a questão como o Sr. Deputado Lopes Cardoso a colocou, nós, logicamente, não poderemos ter objecções, uma vez que é um direito do Regimento, no entanto cabe ao Partido Socialista dizer se recorre a ele ou não. Se este partido o não fizer pensamos que deve seguir-se a votação do capítulo que estivemos a discutir.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, recordaria aqui que foi o PCP, com alguma magnitude - cumpre reconhecê-lo -, que sugeriu que se fossem discutindo estes artigos e se votasse no fim, e era esse mesmo procedimento que eu proporia agora. No entanto, se o PCP radicaliza a sua posição e não quer passar à frente sem se fazerem as votações, eu pediria ao Sr. Presidente - uma vez que há comissões reunidas - que se chamassem os deputados.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, recordaria aqui que foi o PCP, com alguma magnitude - cumpre reconhecê-lo -, que sugeriu que se fossem discutindo estes artigos e se votasse no fim, e era esse mesmo procedimento que eu proporia agora. No entanto, se o PCP radicaliza a sua posição e não quer passar à frente sem se fazerem as votações, eu pediria ao Sr. Presidente - uma vez que há comissões reunidas - que se chamassem os deputados.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Tendo em conta que hoje parece ser o dia em que a maioria está mais colaborante também não há-de ser da nossa parte que questões processuais irão pôr em causa o bom andamento dos trabalhos. Assim, as nossas objecções a 27 DE OUTUBRO IDE 1984 235", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Tendo em conta que hoje parece ser o dia em que a maioria está mais colaborante também não há-de ser da nossa parte que questões processuais irão pôr em causa o bom andamento dos trabalhos. Assim, as nossas objecções a", 
-   "type": "documento"
-  }, 
-  {
-   "text": "27 DE OUTUBRO IDE 1984 235", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
    "text": "que se continuasse o debate, designadamente no que se refere «à declaração da guerra ou à feitura da paz», deixam de se colocar, pelo que creio que deve iniciar-se o debate, votando-se no fim os 2 capítulos.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Salas* (PS): Pretendia deixar registada a boa vontade do Sr. Deputado, ainda que não seja muito corrente, mas, enfim, há que registá-la.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Salas", 
+   "text": "Pretendia deixar registada a boa vontade do Sr. Deputado, ainda que não seja muito corrente, mas, enfim, há que registá-la.\nRisos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Risos.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Então, passemos ao artigo 178.º-D, que vai ser lido.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Então, passemos ao artigo 178.º-D, que vai ser lido.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -1043,36 +1143,36 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está, pois, em discussão o artigo 178.º-D. Tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está, pois, em discussão o artigo 178.º-D. Tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, é apenas para dizer que da nossa parte não há qualquer objecção à redacção proposta. Esta, aliás, decorre dos preceitos constitucionais pertinentes à matéria, pelo que os números propostos para votação não suscitarão da nossa parte qualquer objecção.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, é apenas para dizer que da nossa parte não há qualquer objecção à redacção proposta. Esta, aliás, decorre dos preceitos constitucionais pertinentes à matéria, pelo que os números propostos para votação não suscitarão da nossa parte qualquer objecção.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra, para uma intervenção, o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra, para uma intervenção, o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): O PCP também declara que irá votar \nfavoravelmente o texto que acaba de ser lido.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "O PCP também declara que irá votar favoravelmente o texto que acaba de ser lido.\nRisos.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Risos.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Como calculam, queria dizer PS em vez de PCP.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Como calculam, queria dizer PS em vez de PCP.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Há mais intervenções, Srs. Deputados?", 
-   "type": "documento"
-  }, 
-  {
-   "text": "Como não há, passamos agora ao artigo 17 8. º-E, que vai ser lido de seguida.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Há mais intervenções, Srs. Deputados?\nComo não há, passamos agora ao artigo 17 8. º-E, que vai ser lido de seguida.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -1088,8 +1188,9 @@
    "type": "documento"
   }, 
   {
-   "text": "2 - A requerimento do Governo ou de um grupo ou agrupamento \nparlamentar, o debate pode ser encerrado logo que um deputado de cada partido tiver intervindo.\nO Sr. *Presidente*: Para o artigo 178-E há uma proposta de alteração apresentada pelo o Grupo Parlamentar do Partido Comunista Português, que vai ser lida.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para o artigo 178-E há uma proposta de alteração apresentada pelo o Grupo Parlamentar do Partido Comunista Português, que vai ser lida.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lida. É a seguinte", 
@@ -1101,72 +1202,90 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão, tem a palavra o Sr. Deputado Luís Beiroco.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão, tem a palavra o Sr. Deputado Luís Beiroco.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Beiroco* (CDS): Sr. Presidente, Srs. Deputados: Parece-me, salvo melhor consideração nesta matéria, visto só agora ter visto pela primeira vez a proposta do Partido Comunista, que num debate desta natureza não é muito curial que venha dizer-se que a intervenção do Primeiro-Ministro tem uma hora ou que as intervenções dos deputados têm meia hora.\nO debate pode ser extremamente curto se estivermos numa situação de grande emergência, pode ser mais longo se a situação não for de tão imediata emergência. Por isso, penso que o que realmente deve ficar definido é que o Primeiro-Ministro inicia e encerra o debate e que todos os partidos têm de intervir nele, se assim o entenderem.\nNão devemos procurar fazer mais regulamentações nesta questão, deixando uma certa plasticidade porque as situações podem ser muito \ndiferenciadas entre si, embora sejam sempre, obviamente, situações de emergência.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Luís Beiroco", 
+   "text": "Sr. Presidente, Srs. Deputados: Parece-me, salvo melhor consideração nesta matéria, visto só agora ter visto pela primeira vez a proposta do Partido Comunista, que num debate desta natureza não é muito curial que venha dizer-se que a intervenção do Primeiro-Ministro tem uma hora ou que as intervenções dos deputados têm meia hora.\nO debate pode ser extremamente curto se estivermos numa situação de grande emergência, pode ser mais longo se a situação não for de tão imediata emergência. Por isso, penso que o que realmente deve ficar definido é que o Primeiro-Ministro inicia e encerra o debate e que todos os partidos têm de intervir nele, se assim o entenderem.\nNão devemos procurar fazer mais regulamentações nesta questão, deixando uma certa plasticidade porque as situações podem ser muito \ndiferenciadas entre si, embora sejam sempre, obviamente, situações de emergência.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Continua o debate Srs. Deputados.\nPara uma intervenção, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Continua o debate Srs. Deputados.\nPara uma intervenção, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, é apenas para referir que a proposta do PCP resultou de uma troca de opiniões com a bancada do Partido", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, é apenas para referir que a proposta do PCP resultou de uma troca de opiniões com a bancada do Partido 236 I SÉRIE-NÚMERO 7", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "236 I SÉRIE-NÚMERO 7", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
    "text": "Socialista e foi por solicitação deste partido que se definiu o tempo de intervenção do Primeiro-Ministro. Quanto ao tempo dos partidos, eles não são - bem como o Primeiro-Ministro - obrigados a usar todo o tempo de que dispõem.\nDigamos que isto é uma garantia acrescida, que creio ser perfeitamente razoável.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, Srs. Deputados: As palavras que o Sr. Deputado Luís Beiroco acabou de proferir revelam muito senso e muita prudência, mas ao mesmo tempo também revelam alguma \ningenuidade.\nAceitaria a fórmula que o Sr. Deputado Luís Beiroco sugere, se confiasse, a 100 %, em igual prudência da parte de todos os senhores deputados. Foi por isso que nos inclinámos a aceitar um limite máximo de tempo para uso da palavra, para evitar que mesmo numa grave emergência nacional alguns dos senhores deputados usassem \nexcessivamente da palavra.\nAssim, penso que será sensato estabelecer um limite superior, mas se se entender que para o Primeiro-Ministro uma hora é pouco, poder-se-á pôr duas horas como limite máximo. O que é certo é que tem de haver um plafond que não pode ser ultrapassado. É evidente que se a emergência for realmente grave e as pessoas estiverem sensibilizadas para ela, usarão da palavra o menor tempo possível.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, Srs. Deputados: As palavras que o Sr. Deputado Luís Beiroco acabou de proferir revelam muito senso e muita prudência, mas ao mesmo tempo também revelam alguma \ningenuidade.\nAceitaria a fórmula que o Sr. Deputado Luís Beiroco sugere, se confiasse, a 100 %, em igual prudência da parte de todos os senhores deputados. Foi por isso que nos inclinámos a aceitar um limite máximo de tempo para uso da palavra, para evitar que mesmo numa grave emergência nacional alguns dos senhores deputados usassem \nexcessivamente da palavra.\nAssim, penso que será sensato estabelecer um limite superior, mas se se entender que para o Primeiro-Ministro uma hora é pouco, poder-se-á pôr duas horas como limite máximo. O que é certo é que tem de haver um plafond que não pode ser ultrapassado. É evidente que se a emergência for realmente grave e as pessoas estiverem sensibilizadas para ela, usarão da palavra o menor tempo possível.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Luís Beiroco.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Beiroco.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Beiroco* (CDS): Sr. Presidente, Srs. Deputados, em especial Sr. Deputado Luís Saias: Devo dizer que por vezes e em situações de debate político normal, também não tenho uma excessiva confiança na prudência dos deputados. Mas estou convencido que em circunstâncias excepcionais, como são as pré-figuradas por um debate deste tipo, e sejam quais forem as circunstâncias, todos os grupos e agrupamentos parlamentares representados nesta Casa teriam em conta essas circunstâncias e acho que talvez revele um pouco de excesso de zelo da nossa parte pré-figurar com limites estritos um debate dessa natureza.\nPortanto, continuo a dizer que, embora evidentemente admita que há alguma percentagem de risco em não se pôr limites de tempo a um debate desta natureza, pela gravidade que ele tem, pela grande solenidade que necessariamente terá de ter, devemos ser extremamente prudentes na forma de o configurar no Regimento da Assembleia da República.", 
-   "type": "documento"
+   "party": "CDS", 
+   "speaker": "Luís Beiroco", 
+   "text": "Sr. Presidente, Srs. Deputados, em especial Sr. Deputado Luís Saias: Devo dizer que por vezes e em situações de debate político normal, também não tenho uma excessiva confiança na prudência dos deputados. Mas estou convencido que em circunstâncias excepcionais, como são as pré-figuradas por um debate deste tipo, e sejam quais forem as circunstâncias, todos os grupos e agrupamentos parlamentares representados nesta Casa teriam em conta essas circunstâncias e acho que talvez revele um pouco de excesso de zelo da nossa parte pré-figurar com limites estritos um debate dessa natureza.\nPortanto, continuo a dizer que, embora evidentemente admita que há alguma percentagem de risco em não se pôr limites de tempo a um debate desta natureza, pela gravidade que ele tem, pela grande solenidade que necessariamente terá de ter, devemos ser extremamente prudentes na forma de o configurar no Regimento da Assembleia da República.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, continua o debate. Não há mais intervenções sobre esta matéria?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, continua o debate. Não há mais intervenções sobre esta matéria?", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Luis Saias* (PS): O Partido Socialista propõe que, com o acordo do proponente, no n.º 1, quando se diz «com a duração de 1 hora», se diga \n«com a duração máxima de 1 hora»; e, no n.º 2, quando se diz «pelo o tempo de meia hora», se diga «pelo tempo máximo de meia hora».", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luis Saias", 
+   "text": "O Partido Socialista propõe que, com o acordo do proponente, no n.º 1, quando se diz «com a duração de 1 hora», se diga \n«com a duração máxima de 1 hora»; e, no n.º 2, quando se diz «pelo o tempo de meia hora», se diga «pelo tempo máximo de meia hora».", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Serão introduzidas essas alterações, Sr. Deputado.\nTem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Serão introduzidas essas alterações, Sr. Deputado.\nTem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, apenas para confirmar que estas alterações resultam de um acordo estabelecido com o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, apenas para confirmar que estas alterações resultam de um acordo estabelecido com o Sr. Deputado Luís Saias.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, como não há mais pedidos de intervenção, considera-se encerrado o debate sobre o artigo 178-E.\nPassamos de imediato à discussão do artigo 178-F, que vai ser lido.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, como não há mais pedidos de intervenção, considera-se encerrado o debate sobre o artigo 178-E.\nPassamos de imediato à discussão do artigo 178-F, que vai ser lido.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -1182,24 +1301,29 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Penso, e o Sr. Deputado Luís Beiroco confirmará, que há aqui um pequeno erro dactilográfico. Onde se diz, «Concessão de autorização», deverá dizer-se, «da autorização».", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Penso, e o Sr. Deputado Luís Beiroco confirmará, que há aqui um pequeno erro dactilográfico. Onde se diz, «Concessão de autorização», deverá dizer-se, «da autorização».", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sendo assim emenda-se o «de», para «da», Sr.Deputado. Srs. Deputados continua o debate.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sendo assim emenda-se o «de», para «da», Sr.Deputado. Srs. Deputados continua o debate.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como não há mais inscrições, considera-se o debate sobre o artigo 178.\nº-F encerrado.\nVamos passar à discussão do artigo 178. º-F1, resultante de uma proposta de aditamento de um novo artigo apresentado pelo Grupo Parlamentar do PCP, que vai ser imediatamente lido.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -1215,24 +1339,28 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em debate este artigo, Srs. Deputados.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em debate este artigo, Srs. Deputados.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como não há pedidos de intervenção, considera-se encerrado o debate sobre o artigo 178.º-F1.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Passamos ao artigo 178.º-F2, também resultante de uma proposta de aditamento de novo artigo, apresentada pelo Grupo Parlamentar do Partido Comunista Português, que vai ser lido de seguida.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "27 DE OUTUBRO DE 1984 237", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -1248,16 +1376,18 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está aberta a discussão sobre o artigo 178.º-F2.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está aberta a discussão sobre o artigo 178.º-F2.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como não há inscrições, considera-se encerrado o seu debate. Passamos agora ao artigo 178.º-G, que vai ser lido.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "speaker": "Foi lido. É o seguinte", 
@@ -1269,64 +1399,80 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está aberto o debate sobre este artigo 178.º-G.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está aberto o debate sobre este artigo 178.º-G.", 
+   "type": "presidente"
   }, 
   {
    "text": "Pausa.", 
    "type": "pausa"
   }, 
   {
+   "speaker": "Presidente", 
    "text": "Como não há inscrições, está encerrado o debate deste artigo.\nAgora, vamos passar ao artigo 179.º Tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, neste momento esgotámos os dois capítulos que se referiam a matérias conexas. Vamos entrar num capítulo completamente novo, pelo que creio que é o momento azado para se proceder às votações. Não faríamos da nossa parte qualquer objecção à inexistência de quórum - excepto para votar - e nem vale a pena pedir à Mesa a sua contagem.\nNo entanto, era bom que se pedisse aos deputados que estão em comissões que viessem para o Plenário para procedermos às votações.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, neste momento esgotámos os dois capítulos que se referiam a matérias conexas. Vamos entrar num capítulo completamente novo, pelo que creio que é o momento azado para se proceder às votações. Não faríamos da nossa parte qualquer objecção à inexistência de quórum - excepto para votar - e nem vale a pena pedir à Mesa a sua contagem.\nNo entanto, era bom que se pedisse aos deputados que estão em comissões que viessem para o Plenário para procedermos às votações.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Assim se fará, Sr. Deputado. Tem a palavra o Sr.Deputado Ferraz de Abreu.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Assim se fará, Sr. Deputado. Tem a palavra o Sr.Deputado Ferraz de Abreu.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Ferraz de Abreu* (PS): Nós pedimos z suspensão da sessão por 15 minutos para ver se conseguíamos prevenir os senhores deputados que estão em reuniões de comissões.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Ferraz de Abreu", 
+   "text": "Nós pedimos z suspensão da sessão por 15 minutos para ver se conseguíamos prevenir os senhores deputados que estão em reuniões de comissões.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: É regimental, Sr. Deputado, pelo que a sessão está suspensa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "É regimental, Sr. Deputado, pelo que a sessão está suspensa.", 
+   "type": "presidente"
   }, 
   {
    "text": "Eram 12 horas e 5 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, está reaberta a sessão.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, está reaberta a sessão.", 
+   "type": "presidente_continuacao"
   }, 
   {
    "text": "Eram 12 horas e 25 minutos.", 
    "type": "hora"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, tomem, por favor, os vossos lugares e peço um pouco de silêncio, pois há um senhor deputado inscrito para usar da palavra.\nTem a palavra o Sr. Deputado Ferraz de Abreu.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, tomem, por favor, os vossos lugares e peço um pouco de silêncio, pois há um senhor deputado inscrito para usar da palavra.\nTem a palavra o Sr. Deputado Ferraz de Abreu.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Ferraz de Abreu* (PS): Sr. Presidente, em nome da nossa bancada pedíamos o adiamento da votação dos artigos em causa para o Plenário da próxima terça-feira.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Ferraz de Abreu", 
+   "text": "Sr. Presidente, em nome da nossa bancada pedíamos o adiamento da votação dos artigos em causa para o Plenário da próxima terça-feira.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, é um direito potestativo, mas pedia-lhe o favor de, seguidamente, fazer chegar à Mesa o respectivo requerimento.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, é um direito potestativo, mas pedia-lhe o favor de, seguidamente, fazer chegar à Mesa o respectivo requerimento.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Ferraz de Abreu* (PS): Vai fazer-se chegar à Mesa o \nrequerimento, Sr. Presidente.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Ferraz de Abreu", 
+   "text": "Vai fazer-se chegar à Mesa o requerimento, Sr. Presidente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Continuamos, portanto, a discussão dos artigos seguintes.\nPassamos, portanto, ao artigo 179.º; vão ser lidas as propostas de alteração.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Continuamos, portanto, a discussão dos artigos seguintes.\nPassamos, portanto, ao artigo 179.º; vão ser lidas as propostas de alteração.", 
+   "type": "presidente"
   }, 
   {
    "speaker": "Foram lidas. São as seguintes", 
@@ -1342,449 +1488,570 @@
    "type": "documento"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, estão em discussão as propostas relativas ao artigo 179.º Tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, estão em discussão as propostas relativas ao artigo 179.º Tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Presidente, não há pedidos de inscrição?", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Presidente, não há pedidos de inscrição?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Até ao momento não, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Até ao momento não, Sr. Deputado.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Então, pedimos também o adiamento da votação deste artigo. Entregaremos, oportunamente, o requerimento na Mesa.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Então, pedimos também o adiamento da votação deste artigo. Entregaremos, oportunamente, o requerimento na Mesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está deferido, Sr. Deputado. Peço é o favor de fazer chegar o requerimento à Mesa.\nPara interpelar a Mesa, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está deferido, Sr. Deputado. Peço é o favor de fazer chegar o requerimento à Mesa.\nPara interpelar a Mesa, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, não vamos, logicamente, questionar o direito do PSD de solicitar o adiamento, mas creio que o Sr. Presidente ainda não tinha anunciado que se ia votar. Da nossa parte estávamos ainda a considerar a hipótese de intervir sobre esta matéria.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, não vamos, logicamente, questionar o direito do PSD de solicitar o adiamento, mas creio que o Sr. Presidente ainda não tinha anunciado que se ia votar. Da nossa parte estávamos ainda a considerar a hipótese de intervir sobre esta matéria.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Entender-se-á o requerimento como posterior à declaração de encerramento do debate, o que, de facto, não tinha sido feito nessa declaração.\nPara intervir sobre o artigo 179.º, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Entender-se-á o requerimento como posterior à declaração de encerramento do debate, o que, de facto, não tinha sido feito nessa declaração.\nPara intervir sobre o artigo 179.º, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, vamos votar favoravelmente a proposta que vem da Comissão. Gostaríamos de reafirmar que este nosso sentido de votação deveria, designadamente, lembrar ao Go-", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, vamos votar favoravelmente a proposta que vem da Comissão. Gostaríamos de reafirmar que este nosso sentido de votação deveria, designadamente, lembrar ao Go- 238 I SÉRIE - NUMERO 7", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "238 I SÉRIE - NUMERO 7", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
    "text": "verno que deve cumprir o estatuído na Constituição, quanto aos requisitos para a solicitação de autorizações legislativas, o que, na maior pane dos casos, não se tem verificado.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Com a sua curta intervenção, o Sr. Deputado Jorge Lemos faz lembrar ao Governo mas, como o Governo não está cá, eu encarrego-me, se quiser, de lho transmitir.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Com a sua curta intervenção, o Sr. Deputado Jorge Lemos faz lembrar ao Governo mas, como o Governo não está cá, eu encarrego-me, se quiser, de lho transmitir.\nRisos do PS.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Risos do PS.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Agradeço o oferecimento do Sr. Deputado Luís Saias. É pena que o Governo não esteja na Assembleia a assistir aos trabalhos como deveria estar, para que não precisasse de recados.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Agradeço o oferecimento do Sr. Deputado Luís Saias. É pena que o Governo não esteja na Assembleia a assistir aos trabalhos como deveria estar, para que não precisasse de recados.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Gostaria que o Sr. Deputado citasse a disposição legal que obriga o Governo a estar presente aos trabalhos da Assembleia.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Gostaria que o Sr. Deputado citasse a disposição legal que obriga o Governo a estar presente aos trabalhos da Assembleia.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder ao pedido de esclarecimento do Sr.Deputado Luís Saias, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder ao pedido de esclarecimento do Sr.Deputado Luís Saias, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Devolvo-lhe a pergunta, Sr. Deputado Luís Saias: queria que me citasse a disposição legal ou constitucional que dispensa o Governo de participar nos trabalhos da Assembleia.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Devolvo-lhe a pergunta, Sr. Deputado Luís Saias: queria que me citasse a disposição legal ou constitucional que dispensa o Governo de participar nos trabalhos da Assembleia.", 
-   "type": "documento"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Bom, Srs. Deputados, continua em discussão o artigo 179.º \nPara uma intervenção, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Bom, Srs. Deputados, continua em discussão o artigo 179.º \nPara uma intervenção, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, é apenas para que fique registado que tendo o Governo, no seu elenco um ministro e um secretário de Estado para as relações com o Parlamento, seria de esperar que estivessem presentes quando há debates com a importância que este tem, em que se tratam questões que, inclusivamente, têm que ver com as relações entre a Assembleia e o Governo.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, é apenas para que fique registado que tendo o Governo, no seu elenco um ministro e um secretário de Estado para as relações com o Parlamento, seria de esperar que estivessem presentes quando há debates com a importância que este tem, em que se tratam questões que, inclusivamente, têm que ver com as relações entre a Assembleia e o Governo.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luis Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Luis Saias.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, era para lembrar ao Sr.Deputado do PCP que, tendo o PCP - penso - 40 deputados, seria de esperar que, pelo menos, uns 20 estivessem presentes e só vejo 4 ou 5.\nRisos do PS.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, era para lembrar ao Sr.Deputado do PCP que, tendo o PCP - penso - 40 deputados, seria de esperar que, pelo menos, uns 20 estivessem presentes e só vejo 4 ou 5.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, suponho que não há mais pedidos de palavra para a discussão do artigo 179.º \nTem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "Risos do PS.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Estando encerrada a discussão, Sr.Presidente, requeremos o adiamento; entregarei o requerimento oportunamente.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, suponho que não há mais pedidos de palavra para a discussão do artigo 179.º \nTem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Exactamente. Portanto, está encerrada a discussão deste artigo e há um requerimento do PSD - o qual peço ao Sr. Deputado Silva Marques o favor de o fazer chegar à Mesa - que solicita o adiamento da votação para a próxima sessão de terça-feira.\nEstá, portanto, deferido, visto ser um direito potestativo.\nPassamos ao artigo seguinte, que é o artigo 180.º \nVão ser lidas as propostas de alteração.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Estando encerrada a discussão, Sr.Presidente, requeremos o adiamento; entregarei o requerimento oportunamente.", 
-   "type": "documento"
+   "party": "Leonel Fadigas", 
+   "speaker": "Secretário", 
+   "text": "Em relação ao artigo 180.º há uma proposta de substituição da actual alínea c) do Regimento, subscrita pelos Srs. Deputados Silva Marques e Luís Saias, respectivamente do PSD e do PS, que é do seguinte teor: «A votação na especialidade pode ter lugar em Comissão se o Plenário assim o decidir.»", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Exactamente. Portanto, está encerrada a discussão deste artigo e há um requerimento do PSD - o qual peço ao Sr. Deputado Silva Marques o favor de o fazer chegar à Mesa - que solicita o adiamento da votação para a próxima sessão de terça-feira.\nEstá, portanto, deferido, visto ser um direito potestativo.\nPassamos ao artigo seguinte, que é o artigo 180.º \nVão ser lidas as propostas de alteração.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está em discussão, Srs. Deputados.\nTem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Secretário* (Leonel Fadigas): Em relação ao artigo 180.º há uma proposta de substituição da actual alínea c) do Regimento, subscrita pelos Srs. Deputados Silva Marques e Luís Saias, respectivamente do PSD e do PS, que é do seguinte teor: «A votação na especialidade pode ter lugar em Comissão se o Plenário assim o decidir.»", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, antes de me pronunciar sobre o conteúdo da norma proposta, penso, uma vez que ela não foi presente à Comissão que estudou as propostas originárias, que seria de solicitar aos proponentes algumas explicações.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está em discussão, Srs. Deputados.\nTem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder ao Sr. Deputado Jorge Lemos, tem a palavra o Sr. Deputado Silva Marques.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, antes de me pronunciar sobre o conteúdo da norma proposta, penso, uma vez que ela não foi presente à Comissão que estudou as propostas originárias, que seria de solicitar aos proponentes algumas explicações.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Sr. Deputado, a intenção subjacente à redacção desta proposta é a de tornar este mecanismo mais maleável e não criar uma situação rígida quanto à sede de votação na \nespecialidade.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder ao Sr. Deputado Jorge Lemos, tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Sr. Deputado, a intenção subjacente à redacção desta proposta é a de tornar este mecanismo mais maleável e não criar uma situação rígida quanto à sede de votação na \nespecialidade.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Deputado Silva Marques, é do conhecimento de V. Ex.ª que há uma disposição constitucional que obriga certas matérias a serem votadas em Plenário.\nÉ sabido também que o Governo tem frustrado a aplicação dessa norma através de autorizações legislativas e aprovado em Conselho de Ministros aquilo que devia ser aprovado em Plenário.\nO que lhe pergunto é se com esta proposta também quer excluir da votação em Plenário as autorizações legislativas sobre esse tipo de matérias.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para um pedido de esclarecimento, tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Silva Marques.\n27 DE OUTUBRO DE 1984 239", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Deputado Silva Marques, é do \nconhecimento de V. Ex.ª que há uma disposição constitucional que obriga certas matérias a serem votadas em Plenário.\nÉ sabido também que o Governo tem frustrado a aplicação dessa norma através de autorizações legislativas e aprovado em Conselho de Ministros aquilo que devia ser aprovado em Plenário.\nO que lhe pergunto é se com esta proposta também quer excluir da votação em Plenário as autorizações legislativas sobre esse tipo de matérias.", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "Silva Marques", 
+   "text": "Não, Sr. Deputado. Não temos qualquer intenção de violar a Constituição porque para nós ela é sagrada. Não é necessário. A Constituição prevalece sempre sobre quaisquer eventuais atropelos do Regimento. Mas não é o caso.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Silva Marques.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Posso interrompê-lo, Sr. Deputado?", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "27 DE OUTUBRO DE 1984 239", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Faça favor, Sr. Deputado.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Silva Marques* (PSD): Não, Sr. Deputado. Não temos qualquer intenção de violar a Constituição porque para nós ela é sagrada. Não é necessário. A Constituição prevalece sempre sobre quaisquer eventuais atropelos do Regimento. Mas não é o caso.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Deputado Silva Marques, a Constituição não prevaleceu, pelo menos na sua prática, sobre a suas decisões. Por esse motivo, gostaria que escrevesse isso que acabou de dizer na proposta que apresentou.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Posso interrompê-lo, Sr. Deputado?", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Sr. Deputado, os senhores têm que ser mais incisivos.\nGostam muito de debater as questões. Os senhores têm dado um contributo valioso, mas peco-vos para apresentarem uma sugestão concreta. Se ela for boa, aceitamo-la imediatamente; senão, mantemos aquilo que conseguimos propor.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Orador: Faça favor, Sr. Deputado.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Deputado Silva Marques, a Constituição não prevaleceu, pelo menos na sua prática, sobre a suas decisões. Por esse motivo, gostaria que escrevesse isso que acabou de dizer na proposta que apresentou.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, Srs. Deputados: Pensamos que a alteração proposta tem mérito. Repare V. Ex.ª, Sr. Deputado, que não se exclui que a votação na especialidade possa ser feita no Plenário. O que se diz é que pode ter lugar na Comissão.\nTemos verificado, na realidade, que há leis de autorização legislativa que são relativamente complexas e em que a discussão do seu articulado melhor e mais ponderadamente se fará na Comissão.\nPor outro lado, como sabe, pretende-se aliviar um pouco o trabalho do Plenário transferindo parte dele para as comissões.\nEsta norma possibilita que a discussão na especialidade de leis de autorização legislativa se faça em Comissão quando o Plenário entender que isso é conveniente. Enquanto o preceito actual impunha que a discussão na especialidade tivesse sempre lugar no Plenário, penso eu, porque se partia do princípio que as leis de autorização legislativa seriam muito simples e curtas; agora, face à experiência que se tem verificado de haver leis de autorização legislativa com alguma complexidade, admite-se ou prevê-se que o Plenário entenda como conveniente que a votação se faça na especialidade na Comissão.\nPor este motivo, bem dito foi aquilo que disse o nosso colega Silva Marques, quando referiu que esta norma se destina a tornar o processo mais maleável.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Orador: Sr. Deputado, os senhores têm que ser mais incisivos.\nGostam muito de debater as questões. Os senhores têm dado um contributo valioso, mas peco-vos para apresentarem uma sugestão concreta. Se ela for boa, aceitamo-la imediatamente; senão, mantemos aquilo que conseguimos propor.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Deputado Luís Saias, o preceito do actual Regimento parte do princípio de que as questões das autorizações legislativas devem ser debatidas na especialidade no Plenário, uma vez que a Assembleia da República está a abdicar de competências para as delegar no Governo.\nNo nosso entender, trata-se de um preceito que se deve manter porque salvaguarda a transparência de processos.\nV. Ex.ª entende que depois das restrições, designadamente em termos de publicidade do trabalho das comissões, esta norma salvaguarda a transparência que deveria ser necessária nesses processos?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, Srs. Deputados: Pensamos que a alteração proposta tem mérito. Repare V. Ex.ª, Sr. Deputado, que não se exclui que a votação na especialidade possa ser feita no Plenário. O que se diz é que pode ter lugar na Comissão.\nTemos verificado, na realidade, que há leis de autorização legislativa que são relativamente complexas e em que a discussão do seu articulado melhor e mais ponderadamente se fará na Comissão.\nPor outro lado, como sabe, pretende-se aliviar um pouco o trabalho do Plenário transferindo parte dele para as comissões.\nEsta norma possibilita que a discussão na especialidade de leis de autorização legislativa se faça em Comissão quando o Plenário entender que isso é conveniente. Enquanto o preceito actual impunha que a discussão na especialidade tivesse sempre lugar no Plenário, penso eu, porque se partia do princípio que as leis de autorização legislativa seriam muito simples e curtas; agora, face à experiência que se tem verificado de haver leis de autorização legislativa com alguma complexidade, admite-se ou prevê-se que o Plenário entenda como conveniente que a votação se faça na especialidade na Comissão.\nPor este motivo, bem dito foi aquilo que disse o nosso colega Silva Marques, quando referiu que esta norma se destina a tornar o processo mais maleável.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um pedido de esclarecimento, tem a palavra o Sr. Deputado João Amaral.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para um pedido de esclarecimento, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Sr. Presidente, Sr. Deputado Luís Saias, a questão que lhe queria colocar é a seguinte: considera ou não mau princípio o uso sistemático de autorizações legislativas em matérias que são da competência reservada da Assembleia? É se considera incorrecto esse uso sistemático, é ou não um facto que a autorização legislativa aparecerá aqui excepcionalmente? E sendo matéria de competência reservada, é ou não matéria que deve ser discutida no seu alcance, sentido e objecto pelo Plenário da Assembleia com o conhecimento de toda a gente?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Deputado Luís Saias, o preceito do actual Regimento parte do princípio de que as questões das autorizações legislativas devem ser debatidas na especialidade no Plenário, uma vez que a Assembleia da República está a abdicar de competências para as delegar no Governo.\nNo nosso entender, trata-se de um preceito que se deve manter porque salvaguarda a transparência de processos.\nV. Ex.ª entende que depois das restrições, designadamente em termos de publicidade do trabalho das comissões, esta norma salvaguarda a transparência que deveria ser necessária nesses processos?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para um pedido de esclarecimento, tem a palavra o Sr. Deputado João Amaral.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Sr. Presidente, Sr. Deputado Luís Saias, a questão que lhe queria colocar é a seguinte: considera ou não mau princípio o uso sistemático de autorizações legislativas em matérias que são da competência reservada da Assembleia? É se considera incorrecto esse uso sistemático, é ou não um facto que a autorização legislativa aparecerá aqui excepcionalmente? E sendo matéria de competência reservada, é ou não matéria que deve ser discutida no seu alcance, sentido e objecto pelo Plenário da Assembleia com o conhecimento de toda a gente?", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, penso que os nossos colegas comunistas exageram, francamente, estes problemas.\nO Sr. Deputado Jorge Lemos fala em transparência. É evidente que a discussão em Plenário de uma lei de autorização legislativa, na generalidade, confere a esse pedido de autorização legislativa a transparência necessária. Mas não julgo que os debates na \nespecialidade, em Comissão, diminuam a transparência da discussão.\nO Sr. Deputado João Amaral pergunta-me se penso que é conveniente que o Governo recorra sistematicamente a pedidos de autorização legislativa.\nÉ claro que esta questão é um pouco teórica e genérica, mas não me custa responder.\nEm matéria de competências da Assembleia, a minha ideia é de que quanto menos autorizações legislativas houver, melhor. Só que esta Assembleia Legislativa se tem mostrado incapaz de produzir as leis com a celeridade e a prontidão que o País reclama. Daí a necessidade de se recorrer a autorizações legislativas.\nPenso que com as alterações que estamos em vias de aprovar no Regimento a produção legislativa da Assembleia será mais pronta, eficaz e célere e, portanto, se dispense, na medida do possível, o recurso a autorizações legislativas.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Muito bem!", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um protesto, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, o meu protesto vai no seguinte sentido: considero que depois das limitações, sem regras objectivas, que os senhores fizeram votar quanto ao debate na generalidade e às garantias dos diferentes agentes parlamentares, a questão da transparência está nitidamente em causa.\nEm segundo lugar, e quanto à celeridade dos trabalhos, é bom que se lembre, Sr. Deputado Luís Saias, que há matérias para as quais há prioridades regimentais a que o Governo estava sujeito e que é por ele não ter tomado iniciativas nesse sentido que iniciativas de deputados continuam aí pelas gavetas, 240 I SÉRIE - NÚMERO 7", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, penso que os nossos colegas comunistas exageram, francamente, estes problemas.\nO Sr. Deputado Jorge Lemos fala em transparência. É evidente que a discussão em Plenário de uma lei de autorização legislativa, na generalidade, confere a esse pedido de autorização legislativa a transparência necessária. Mas não julgo que os debates na \nespecialidade, em Comissão, diminuam a transparência da discussão.\nO Sr. Deputado João Amaral pergunta-me se penso que é conveniente que o Governo recorra sistematicamente a pedidos de autorização legislativa.\nÉ claro que esta questão é um pouco teórica e genérica, mas não me custa responder.\nEm matéria de competências da Assembleia, a minha ideia é de que quanto menos autorizações legislativas houver, melhor. Só que esta Assembleia Legislativa se tem mostrado incapaz de produzir as leis com a celeridade e a prontidão que o País reclama. Daí a necessidade de se recorrer a autorizações legislativas.\nPenso que com as alterações que estamos em vias de aprovar no Regimento a produção legislativa da Assembleia será mais pronta, eficaz e célere e, portanto, se dispense, na medida do possível, o recurso a autorizações legislativas.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Presidente*: Para um protesto, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, o meu protesto vai no seguinte sentido: considero que depois das limitações, sem regras objectivas, que os senhores fizeram votar quanto ao debate na generalidade e às garantias dos diferentes agentes parlamentares, a questão da transparência está nitidamente em causa.\nEm segundo lugar, e quanto à celeridade dos trabalhos, é bom que se lembre, Sr. Deputado Luís Saias, que há matérias para as quais há prioridades regimentais a que o Governo estava sujeito e que é por ele não ter tomado iniciativas nesse sentido que iniciativas de deputados continuam aí pelas gavetas,", 
-   "type": "documento"
-  }, 
-  {
-   "text": "240 I SÉRIE - NÚMERO 7", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
    "text": "como foi o caso do projecto de lei apresentado pela ASDI relativo ao estado de sítio e ao estado de emergência.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): Muito bem!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "Muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Deputado Luís Saias deseja contraprotestar, não é verdade? Tem então a palavra.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Luís Saias deseja contraprotestar, não é verdade? Tem então a palavra.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Já que o Sr. Presidente me convida a isso!...", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Já que o Sr. Presidente me convida a isso!...\nPenso que o protesto do Sr. Deputado Jorge Lemos, que durou, sublinhe-se, menos de 1 minuto, não tem razão de ser.\nO Sr. Deputado devia protestar era contra certas actividades do seu grupo parlamentar que embaraça, por sistema, os trabalhos da Assembleia.\nLembro-lhe as sessões que aqui tivemos com o espectáculo algo desanimador de o PCP pedir 20, 30 ou 40 esclarecimentos, 20, 30 ou 40 protestos e ainda contraprotestos. E mesmo esses protestos que o senhor está agora a fazer, com o objectivo de que eu tenha de contraprotestar, gastando o meu tempo, não são, também, com franqueza, muito \ndignificantes da actividade parlamentar!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Penso que o protesto do Sr. Deputado Jorge Lemos, que durou, sublinhe-se, menos de 1 minuto, não tem razão de ser.\nO Sr. Deputado devia protestar era contra certas actividades do seu grupo parlamentar que embaraça, por sistema, os trabalhos da Assembleia.\nLembro-lhe as sessões que aqui tivemos com o espectáculo algo desanimador de o PCP pedir 20, 30 ou 40 esclarecimentos, 20, 30 ou 40 protestos e ainda contraprotestos. E mesmo esses protestos que o senhor está agora a fazer, com o objectivo de que eu tenha de contraprotestar, gastando o meu tempo, não são, também, com franqueza, muito \ndignificantes da actividade parlamentar!", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Jorge Lemos deseja a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Deputado Jorge Lemos deseja a palavra para que efeito?", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Para exercer o direito de defesa.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Para exercer o direito de defesa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para exercer o direito de defesa, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para exercer o direito de defesa, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, não posso deixar de dizer uma palavra, que gostaria que não fosse contado no tempo, uma vez que a figura a que estou a recorrer não conta para o tempo do meu partido.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, não posso deixar de dizer uma palavra, que gostaria que não fosse contado no tempo, uma vez que a figura a que estou a recorrer não conta para o tempo do meu partido.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "A partir dos 2 minutos conta.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Presidente*: A partir dos 2 minutos conta.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Quanto à classificação que o Sr. Deputado Luís Saias deu ao PCP de este ter uma actividade de embaraço das sessões parlamentares, Sr. Deputado Luís Saias, sejamos claros. O Grupo Parlamentar do PCP sempre tem reafirmado que recorrerá a todos os seus direitos parlamentares e regimentais para que não sejam aprovados na Assembleia da República diplomas contra os interesses e os direitos do povo português. Um caso concreto é o caso da lei de segurança interna, em que logicamente usámos todos os nossos direitos, para que uma tal proposta de lei não passasse nesta Casa sem o necessário debate, de modo que não se confirmasse e não viesse a ser uma lei da República.\nAliás, em relação a essa proposta de lei não deixaremos de continuar a usar os nossos direitos.\nUm segundo aspecto, Sr. Deputado Luís Saias, é o que se tem passado em situações gravosas com a total falta de capacidade, não da Assembleia, mas da maioria e do Governo em responder aos problemas sentidos pelo povo, como seja o caso dos salários em atraso.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Quanto à classificação que o Sr. Deputado Luís Saias deu ao PCP de este ter uma actividade de embaraço das sessões parlamentares, Sr. Deputado Luís Saias, sejamos claros. O Grupo Parlamentar do PCP sempre tem reafirmado que recorrerá a todos os seus direitos parlamentares e regimentais para que não sejam aprovados na Assembleia da República diplomas contra os interesses e os direitos do povo português. Um caso concreto é o caso da lei de segurança interna, em que logicamente usámos todos os nossos direitos, para que uma tal proposta de lei não passasse nesta Casa sem o necessário debate, de modo que não se confirmasse e não viesse a ser uma lei da República.\nAliás, em relação a essa proposta de lei não deixaremos de continuar a usar os nossos direitos.\nUm segundo aspecto, Sr. Deputado Luís Saias, é o que se tem passado em situações gravosas com a total falta de capacidade, não da Assembleia, mas da maioria e do Governo em responder aos problemas sentidos pelo povo, como seja o caso dos salários em atraso.", 
-   "type": "documento"
+   "speaker": "Vozes do PCP", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "Vozes do PCP: Muito bem!", 
-   "type": "documento"
-  }, 
-  {
-   "text": "O Orador: Isso sim, não dignifica a Assembleia e são atitudes embaraçosas que desrespeitam a função para que os deputados foram eleitos.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "Isso sim, não dignifica a Assembleia e são atitudes embaraçosas que desrespeitam a função para que os deputados foram eleitos.", 
+   "type": "deputado_continuacao"
   }, 
   {
    "text": "Aplausos do PCP.", 
    "type": "aplauso"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): É evidente que longe do meu pensamento estaria, fosse de que maneira fosse, ofender o Grupo Parlamentar do PCP e muito particularmente o Sr. Deputado Jorge Lemos. A questão que se trata não é a de ofender ou deixar de ofender.\nO Sr. Deputado Jorge Lemos disse que o seu partido usará sempre dos seus direitos regimentais. Pois era precisamente isso, Sr. Deputado, que gostaria que V. Ex.ª fizesse: era que usasse os seus direitos parlamentares. Mas aquilo que V. Ex.ª faz, não digo por via de regra, mas com muita frequência, é abusar desses mesmos direitos \nparlamentares.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "É evidente que longe do meu pensamento estaria, fosse de que maneira fosse, ofender o Grupo Parlamentar do PCP e muito particularmente o Sr. Deputado Jorge Lemos. A questão que se trata não é a de ofender ou deixar de ofender.\nO Sr. Deputado Jorge Lemos disse que o seu partido usará sempre dos seus direitos regimentais. Pois era precisamente isso, Sr. Deputado, que gostaria que V. Ex.ª fizesse: era que usasse os seus direitos parlamentares. Mas aquilo que V. Ex.ª faz, não digo por via de regra, mas com muita frequência, é abusar desses mesmos direitos \nparlamentares.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "Vozes do PS: Muito bem!", 
-   "type": "documento"
+   "speaker": "Vozes do PS", 
+   "text": "Muito bem!", 
+   "type": "vozes_aparte"
   }, 
   {
-   "text": "O Orador: O que V. Ex.ª faz muitas vezes não é apenas usar os seus direitos parlamentares, mas servir-se desses direitos para fazer chicana parlamentar. É isso que eu condeno.", 
-   "type": "documento"
+   "speaker": "O Orador", 
+   "text": "O que V. Ex.ª faz muitas vezes não é apenas usar os seus direitos parlamentares, mas servir-se desses direitos para fazer chicana parlamentar. É isso que eu condeno.", 
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *José Manuel Mendes* (PCP): Não é verdade!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "Não é verdade!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: O Sr. Deputado Jorge Lemos queria usar a palavra para que efeito?", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "O Sr. Deputado Jorge Lemos queria usar a palavra para que efeito?", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, tenho que recorrer à figura que usei há pouco.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, tenho que recorrer à figura que usei há pouco.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Então interpele a Mesa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Então interpele a Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Eu interpelo a Mesa.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Eu interpelo a Mesa.\nO Sr. Deputado Luís Saias, na sequência de eu ter utilizado o direito de defesa em nome da bancada do PCP, pediu a palavra para explicações.\nAo longo dessas supostas explicações voltou a ofender - e gravemente - a bancada do Partido Comunista Português, designadamente referindo que a actividade do PCP é de chicana parlamentar e referindo, também, que o PCP abusa dos direitos regimentais. Perante isto, Sr. Presidente, coloco à Mesa a necessidade da minha bancada deixar claro o que entende de direitos regimentais e de comentar, logicamente, estas \ninqualificáveis afirmações do Sr. Deputado Luís Saias.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. Deputado Luís Saias, na sequência de eu ter utilizado o direito de defesa em nome da bancada do PCP, pediu a palavra para explicações.\nAo longo dessas supostas explicações voltou a ofender - e gravemente - a bancada do Partido Comunista Português, designadamente referindo que a actividade do PCP é de chicana parlamentar e referindo, também, que o PCP abusa dos direitos regimentais. Perante isto, Sr. Presidente, coloco à Mesa a necessidade da minha bancada deixar claro o que entende de direitos regimentais e de comentar, logicamente, estas \ninqualificáveis afirmações do Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Sr. Deputado, inscreva-se para uma intervenção, para o que lhe darei a palavra, oportunamente, se assim o desejar.\nPara uma intervenção, tem a palavra o Sr. Deputado Lopes Cardoso.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Presidente*: Sr. Deputado, inscreva-se para uma intervenção, para o que lhe darei a palavra, oportunamente, se assim o desejar.\nPara uma intervenção, tem a palavra o Sr. Deputado Lopes Cardoso.", 
-   "type": "documento"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Sr. Presidente, é para uma intervenção, que, no fundo, é um protesto contra o facto de o Sr. Deputado Luís Saias ter tentado justificar o uso e o abuso que o Governo tem feito das autorizações legislativas, com base numa pretensa incapacidade de a Assembleia dar resposta à sua missão legislativa.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Sr. Presidente, é para uma intervenção, que, no fundo, é um protesto contra o facto de o Sr. Deputado Luís Saias ter tentado justificar o uso e o abuso que o Governo tem feito das autorizações legislativas, com base numa pretensa incapacidade de a Assembleia dar resposta à sua missão legislativa.", 
-   "type": "documento"
-  }, 
-  {
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
    "text": "27 DE OUTUBRO DE 1984 241", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
    "text": "Na verdade, e em grande parte, é esse uso e abuso das autorizações legislativas que tem consumido muito do tempo desta Assembleia, tempo esse que poderia ser consagrado à sua actividade legislativa autónoma.", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Gostaria de fazer uma pergunta ao Sr. Deputado Lopes Cardoso.\nPensa o Sr. Deputado que o tempo que a Assembleia gastou a discutir, a conceder ou a recusar as autorizações legislativas é equivalente àquele que a Assembleia gastaria a discutir, debater e aprovar os diplomas para os quais foram dadas autorizações legislativas?", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Gostaria de fazer uma pergunta ao Sr. Deputado Lopes Cardoso.\nPensa o Sr. Deputado que o tempo que a Assembleia gastou a discutir, a conceder ou a recusar as autorizações legislativas é equivalente àquele que a Assembleia gastaria a discutir, debater e aprovar os diplomas para os quais foram dadas autorizações legislativas?", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para responder, tem a palavra o Sr. Deputado. Lopes Cardoso.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para responder, tem a palavra o Sr. Deputado. Lopes Cardoso.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): Sr. Deputado, penso que sim. Neste momento não lhe posso dar, mas mostrar-lhe-ei facilmente muitos casos em que a autorização legislativa acabou por ser uma discussão aprofundada dos projectos que acompanhavam essas mesmas autorizações legislativas e em que se gastou tanto ou mais tempo quanto seria gasto na discussão de um projecto legislativo normal, por parte desta Assembleia.\nHá muitos exemplos e poderei citar-lhos. Neste momento não os tenho de cor, mas dar-me-ei ao cuidado de os repescar nos Diários da Assembleia e posso garantir-lhe que lhe darei muitos exemplos de que assim aconteceu.", 
-   "type": "documento"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "Sr. Deputado, penso que sim. Neste momento não lhe posso dar, mas mostrar-lhe-ei facilmente muitos casos em que a autorização legislativa acabou por ser uma discussão aprofundada dos projectos que acompanhavam essas mesmas autorizações legislativas e em que se gastou tanto ou mais tempo quanto seria gasto na discussão de um projecto legislativo normal, por parte desta Assembleia.\nHá muitos exemplos e poderei citar-lhos. Neste momento não os tenho de cor, mas dar-me-ei ao cuidado de os repescar nos Diários da Assembleia e posso garantir-lhe que lhe darei muitos exemplos de que assim aconteceu.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para um protesto, tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para um protesto, tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): O Sr. Deputado Lopes Cardoso acaba plenamente por me dar razão. Quando disse que a Assembleia discutiu nas autorizações legislativas, de forma aprofundada, a própria substância dos diplomas que se pretendem autorizar, está exactamente a dar-me razão, no sentido de que a Assembleia muitas vezes desvia a discussão de forma inaceitável. Quando se trata de discutir uma autorização legislativa, não se trata de discutir o diploma para o qual se pediu a mesma, trata-se apenas de a assembleia dizer se autoriza ou não o Governo a legislar sobre certa matéria.\nE são exactamente desvios desse tipo que fazem esta Assembleia consumir tempo que utilmente poderia ser utilizado noutras matérias.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "O Sr. Deputado Lopes Cardoso acaba plenamente por me dar razão. Quando disse que a Assembleia discutiu nas autorizações legislativas, de forma aprofundada, a própria substância dos diplomas que se pretendem autorizar, está exactamente a dar-me razão, no sentido de que a Assembleia muitas vezes desvia a discussão de forma inaceitável. Quando se trata de discutir uma autorização legislativa, não se trata de discutir o diploma para o qual se pediu a mesma, trata-se apenas de a assembleia dizer se autoriza ou não o Governo a legislar sobre certa matéria.\nE são exactamente desvios desse tipo que fazem esta Assembleia consumir tempo que utilmente poderia ser utilizado noutras matérias.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para contraprotestar, tem a palavra o Sr. Deputado Lopes Cardoso.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para contraprotestar, tem a palavra o Sr. Deputado Lopes Cardoso.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Lopes Cardoso* (UEDS): O Sr. Deputado tem razão, só que os desvios são da responsabilidade do Governo e da maioria, que aceita o desvio concedendo autorizações legislativas sobre matérias que deveriam ser objecto de debate nesta Assembleia. Se desvio há, é da \nresponsabilidade do Governo e das bancadas da maioria.", 
-   "type": "documento"
+   "party": "UEDS", 
+   "speaker": "Lopes Cardoso", 
+   "text": "O Sr. Deputado tem razão, só que os desvios são da responsabilidade do Governo e da maioria, que aceita o desvio concedendo autorizações legislativas sobre matérias que deveriam ser objecto de debate nesta Assembleia. Se desvio há, é da \nresponsabilidade do Governo e das bancadas da maioria.", 
+   "type": "presidente_continuacao"
   }, 
   {
-   "text": "O Sr. *José Manuel Mendes* (PCP): Sem dúvida!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "José Manuel Mendes", 
+   "text": "Sem dúvida!", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Para uma intervenção, tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Para uma intervenção, tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, quanto a este artigo ou esta proposta de artigo, afigura-se-me dizer que se evita, assim, o debate sério e profundo das matérias da competência da Assembleia da República, considerado como mera retórica parlamentar para o Srs.Deputados da maioria, remetendo-se para o ambiente de segredo das comissões tudo o que discutido no Plenário pode ser motivo de impopularidade. É o silêncio, é a asfixia do Parlamento. Estas palavras, dizia-nos o Sr. Deputado Carlos Lage, em 16 de Outubro de 1981, ao criticar a proposta de Regimento da AD onde propostas similares apareciam.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, quanto a este artigo ou esta proposta de artigo, afigura-se-me dizer que se evita, assim, o debate sério e profundo das matérias da competência da Assembleia da República, considerado como mera retórica parlamentar para o Srs.Deputados da maioria, remetendo-se para o ambiente de segredo das comissões tudo o que discutido no Plenário pode ser motivo de impopularidade. É o silêncio, é a asfixia do Parlamento. Estas palavras, dizia-nos o Sr. Deputado Carlos Lage, em 16 de Outubro de 1981, ao criticar a proposta de Regimento da AD onde propostas similares apareciam.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *João Amaral* (PCP): E dizia muito bem!", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "João Amaral", 
+   "text": "E dizia muito bem!", 
+   "type": "deputado_aparte"
   }, 
   {
-   "text": "O Sr. *Presidente*: Continua o debate, Srs. Deputados do artigo 180.º Tem a Palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Continua o debate, Srs. Deputados do artigo 180.º Tem a Palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): É para anunciar que vamos requerer a baixa à Comissão do presente aditamento ou alteração da alínea c) do artigo 180.º, pelo prazo de 5 dias, para melhor consideração.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "É para anunciar que vamos requerer a baixa à Comissão do presente aditamento ou alteração da alínea c) do artigo 180.º, pelo prazo de 5 dias, para melhor consideração.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Faça o favor, então, de fazer chegar esse requerimento à Mesa, Sr. Deputado. Tem a palavra o Sr. Deputado Luís Saias.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Faça o favor, então, de fazer chegar esse requerimento à Mesa, Sr. Deputado. Tem a palavra o Sr. Deputado Luís Saias.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Luís Saias* (PS): Sr. Presidente, queria dizer que sentimos necessidade de ponderar o requerimento que acaba de ser anunciado para pensar o sentido do nosso voto. Dado, porém, a hora próxima do fecho normal da sessão, sugeria que a sessão fosse interrompida nesta altura.", 
-   "type": "documento"
+   "party": "PS", 
+   "speaker": "Luís Saias", 
+   "text": "Sr. Presidente, queria dizer que sentimos necessidade de ponderar o requerimento que acaba de ser anunciado para pensar o sentido do nosso voto. Dado, porém, a hora próxima do fecho normal da sessão, sugeria que a sessão fosse interrompida nesta altura.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: De acordo, Srs. Deputados? \nTem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "De acordo, Srs. Deputados? \nTem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, apenas para dizer que verificámos que o anúncio do requerimento de baixa à Comissão teve um efeito positivo, pelo que não negaremos o consenso solicitado pelo Sr.Deputado Luís Saias.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, apenas para dizer que verificámos que o anúncio do requerimento de baixa à Comissão teve um efeito positivo, pelo que não negaremos o consenso solicitado pelo Sr.Deputado Luís Saias.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, vou encerrar a sessão mas preciso de anunciar a próxima ordem de trabalhos e a Mesa ainda não dispõe desses elementos.\nTem a palavra o Sr. Deputado José Vitorino.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, vou encerrar a sessão mas preciso de anunciar a próxima ordem de trabalhos e a Mesa ainda não dispõe desses elementos.\nTem a palavra o Sr. Deputado José Vitorino.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *José Vitorino* (PSD): Sr. Presidente, numa troca de opiniões com os representantes dos diversos grupos e agrupamentos parlamentares gerou-se um consenso, no sentido de que, na próxima semana, os trabalhos parlamentares se iniciassem na terça-feira, às 15 horas, com período de antes da ordem do dia, discutindo-se depois o processo de urgência do PCP sobre as reformas dos pescadores.\nPassar-se-ia em seguida à continuação do debate das alterações do Regimento. Eram apenas estas três questões - o período de antes da ordem do dia, o processo de urgência relativo à reforma dos pescadores e o Regimento -, já que o fim dos trabalhos de debate final das alterações ao Orçamento, que estava", 
-   "type": "documento"
+   "party": "PSD", 
+   "speaker": "José Vitorino", 
+   "text": "Sr. Presidente, numa troca de opiniões com os representantes dos diversos grupos e agrupamentos parlamentares gerou-se um consenso, no sentido de que, na próxima semana, os trabalhos parlamentares se iniciassem na terça-feira, às 15 horas, com período de antes da ordem do dia, discutindo-se depois o processo de urgência do PCP sobre as reformas dos pescadores.\nPassar-se-ia em seguida à continuação do debate das alterações do Regimento. Eram apenas estas três questões - o período de antes da ordem do dia, o processo de urgência relativo à reforma dos pescadores e o Regimento -, já que o fim dos trabalhos de debate final das alterações ao Orçamento, que estava 242 I SÉRIE-NÚMERO 7", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "242 I SÉRIE-NÚMERO 7", 
-   "type": "documento"
-  }, 
-  {
+   "party": "PSD", 
+   "speaker": "José Vitorino", 
    "text": "inicialmente previsto para terça-feira, provavelmente só estará concluído na quarta-feira de forma a poder subir a Plenário. Foi este o consenso gerado e que julgo deverá ser aceite.", 
-   "type": "documento"
+   "type": "deputado_continuacao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Tem a palavra o Sr. Deputado Jorge Lemos.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Tem a palavra o Sr. Deputado Jorge Lemos.", 
+   "type": "presidente_temapalavra"
   }, 
   {
-   "text": "O Sr. *Jorge Lemos* (PCP): Sr. Presidente, pretendo apenas confirmar que do nosso lado não há qualquer objecção.", 
-   "type": "documento"
+   "party": "PCP", 
+   "speaker": "Jorge Lemos", 
+   "text": "Sr. Presidente, pretendo apenas confirmar que do nosso lado não há qualquer objecção.", 
+   "type": "deputado_intervencao"
   }, 
   {
-   "text": "O Sr. *Presidente*: Srs. Deputados, uma vez que há consenso, a próxima sessão terá lugar na terça-feira, às 15 horas, com período de antes da ordem do dia, tendo como período da ordem do dia o processo de urgência, apresentado pelo PCP, sobre a reforma dos pescadores e a continuação da discussão das alterações ao Regimento.\nVai-se dar conta dos diplomas que deram entrada na Mesa.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Srs. Deputados, uma vez que há consenso, a próxima sessão terá lugar na terça-feira, às 15 horas, com período de antes da ordem do dia, tendo como período da ordem do dia o processo de urgência, apresentado pelo PCP, sobre a reforma dos pescadores e a continuação da discussão das alterações ao Regimento.\nVai-se dar conta dos diplomas que deram entrada na Mesa.", 
+   "type": "presidente"
   }, 
   {
-   "text": "O Sr. *Secretário* da Mesa (Leonel Fadigas): Srs. Deputados, por lapso da Mesa não foi anunciada a entrada, que ontem ocorreu, de um voto de protesto subscrito por deputados do PS, manifestando a sua opinião sobre o incêndio da secção do PS no Lavradio.\nDeram ainda entrada na Mesa os seguintes diplomas: projecto de lei n.º 392/III - Estatuto do Deputado -, da iniciativa dos Grupos \nParlamentares do PS e do PSD, de que são primeiros subscritores os Srs.Deputados José Luís Nunes e António Capucho, e proposta de lei n.º 88/111, da iniciativa do Governo, que regula o estatuto remuneratório dos titulares de cargos públicos.\nEstes diplomas foram admitidos e baixaram à 1.ª Comissão.", 
-   "type": "documento"
+   "party": "Leonel Fadigas", 
+   "speaker": "Secretário", 
+   "text": "Srs. Deputados, por lapso da Mesa não foi anunciada a entrada, que ontem ocorreu, de um voto de protesto subscrito por deputados do PS, manifestando a sua opinião sobre o incêndio da secção do PS no Lavradio.\nDeram ainda entrada na Mesa os seguintes diplomas: projecto de lei n.º 392/III - Estatuto do Deputado -, da iniciativa dos Grupos \nParlamentares do PS e do PSD, de que são primeiros subscritores os Srs.Deputados José Luís Nunes e António Capucho, e proposta de lei n.º 88/111, da iniciativa do Governo, que regula o estatuto remuneratório dos titulares de cargos públicos.\nEstes diplomas foram admitidos e baixaram à 1.ª Comissão.", 
+   "type": "secretario"
   }, 
   {
-   "text": "O Sr. *Presidente*: Está encerrada a sessão, Srs. Deputados.\n_Eram 12 horas e 55 minutos_.", 
-   "type": "documento"
+   "speaker": "Presidente", 
+   "text": "Está encerrada a sessão, Srs. Deputados.\n_Eram 12 horas e 55 minutos_.", 
+   "type": "presidente_encerrada"
   }, 
   {
    "speaker": "Entraram durante a sessão os seguintes Srs. Deputados", 
    "text": "", 
-   "type": "documento"
+   "type": "presidente_continuacao"
   }, 
   {
    "party": "PS", 
